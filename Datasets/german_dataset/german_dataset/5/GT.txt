@@ -1,0 +1,1 @@
+['lebensmitteltechnologie', 'lebensmitteltechnologe', 'lebensmitteltechnologin', 'lebensmittel', 'nahrungsmittel', 'ernährung', 'farbstoffe', 'enzyme', 'oxidantien', 'färbemittel', 'sauerteig', 'wurstwaren', 'kühlung', 'frosten', 'tiefkühlen']

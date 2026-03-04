@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html dir="ltr" lang="de-DE" class="no-js ie6 oldie"><![endif]--><!--[if IE 7 ]><html dir="ltr" lang="de-DE" class="no-js ie7 oldie"><![endif]--><!--[if IE 8 ]><html dir="ltr" lang="de-DE" class="no-js ie8 oldie"><![endif]--><!--[if IE 9 ]><html dir="ltr" lang="de-DE" class="no-js ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" dir="ltr" lang="de-DE"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	======= Umsetzung und Hosting: cron IT GmbH, www.cron.eu =======
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<title>Duale Partner | DHBW</title>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="Die Duale Hochschule Baden-Württemberg arbeitet mit rund 9.000 Unternehmen und sozialen Einrichtungen aus ganz Deutschland, den so genannten Dualen Partnern, zusammen." name="description"/>
+<meta content="Duale Partner, Partnerunternehmen, DHBW, Duales Studium, Duale Hochschule Baden Württemberg, Studium und Ausbildung, Studieninteressierte, Duale Partner, Duale Dozenten, Alumni, praxisintegrierend, duale Bachelorstudiengänge, Dualer Master, praxisorientiert, Intensivstudium, praxisnah, Praxisphasen" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<link href="https://www.dhbw.de/startseite/rss.xml" rel="alternate" title="RSS" type="application/rss+xml"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="IE=edge,chrome=1" name="X-UA-Compatible"/>
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/vendor_head.min-8fa490df.js"></script>
+<link href="/typo3conf/ext/dhbw_core/Resources/Public/Css/main.min-86299b3d.css" media="all" rel="stylesheet"/>
+<script>(function(window) {var prefix = 'iconset'; var parse = function(name) {var stylesheet; var ast = {}; try{for (var i = 0; i < document.styleSheets.length; i++) {if (document.styleSheets[i].href !== null) {if (document.styleSheets[i].href.indexOf(name) > 0) {stylesheet = document.styleSheets[i].cssRules ? document.styleSheets[i].cssRules : document.styleSheets[i].rules; } } } for (var i = 0; i < stylesheet.length; i++) {var name; var icon; name = prefix + stylesheet[i].selectorText; icon = stylesheet[i].style.backgroundImage; if (icon !== "") {icon = icon.slice(38).slice(0, -2); icon = decodeURIComponent(icon.replace("3C", "<")); if (icon.indexOf('svg') > 0) {ast[name] = icon; } } } return ast; } catch (e) {} }; var render = function(icons) {if (icons === undefined) {return false; } var elements; var selector; var embedSelector = "data-grunticon-embed"; var icon; for (icon in icons) {if (selector = icon.slice(prefix.length), elements = document.querySelectorAll(selector + "[" + embedSelector + "]"), elements.length) {var i = 0; for (; elements.length > i; i++) {elements[i].innerHTML = icons[icon]; elements[i].style.backgroundImage = "none"; elements[i].removeAttribute(embedSelector); } } } document.documentElement.classList.add("svgloaded"); return elements; }; var embedSVG = function() {if (document.readyState === "loading") {document.addEventListener("DOMContentLoaded", function(event) {render(parse('icons')); }); } else {render(parse('icons')); } }; self.embedSVG = embedSVG; }(window));</script>
+<link as="style" href="/typo3conf/ext/dhbw_core/Resources/Public/Css/icons.css" onload="this.onload=null;this.rel='stylesheet'; window.embedSVG();" rel="preload"/>
+<script>
+          (function () {function polyfillPreload() {var ret; try {ret = document.createElement( "link" ).relList.supports( "preload" ); } catch (e) {ret = false; } if (ret) {return false; } function enableStylesheet() {link.removeEventListener("load", enableStylesheet); link.onload = null; link.media = "all"; window.embedSVG(); } var links = document.getElementsByTagName( "link" ); for(var i = 0; i < links.length; i++){var link = links[ i ]; if(link.rel === "preload" && link.getAttribute("as") === "style"){if (link.addEventListener) {link.addEventListener('load', enableStylesheet); link.rel = "stylesheet"; link.media = "only x"; } } } } polyfillPreload(); } ());
+          
+        </script>
+<link href="https://www.dhbw.de/informationen/duale-partner" rel="canonical"/>
+</head>
+<body class="dhbwp" data-layout="Default" data-page="42" data-parent="13">
+<header class="page-header">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-6 col-sm-3">
+<h1 class="text-hide"><a href="/startseite" id="home-link"><span class="icon-logo-dhbwp" data-grunticon-embed="data-grunticon-embed"></span><span class="text-content"></span>DHBW</a></h1>
+</div>
+<div class="col-xs-6 col-sm-9">
+<div class="header-wrapper">
+<div class="search-wrapper hidden-xs">
+<form action="/suche" autocomplete="off" method="GET">
+<input class="search-input search-trigger" data-default-value="Suchen" name="q" value="Suchen"/>
+<div class="decoration"><span class="text-hide">Suchen</span><span class="icon-search"></span></div>
+</form>
+</div>
+<div class="menu-toggle"><a href="#" id="show-menu"><span class="icon-nav"></span><span class="title hidden-xs">Menü</span></a></div>
+<div class="lang-selection hidden-xs">
+<ul><li class="active"><span><a href="/startseite">Deutsch</a></span></li><li><span><a href="https://www.dhbw.de/english/home" target="_self">English</a></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay-container">
+<div class="overlay-header"></div>
+<div class="overlay-header-buttons">
+<div class="container-fluid relative">
+<div class="header-wrapper overlay">
+<div class="search-wrapper">
+<form action="/suche" autocomplete="off" data-suggest="/suche?type=7384" method="GET">
+<input class="search-input" data-default-value="Suchen" name="q" value="Suchen"/>
+<button type="submit"><span class="text-hide">Suchen</span><span class="icon-search" data-grunticon-embed="data-grunticon-embed"></span></button>
+</form>
+</div>
+<div class="menu-toggle"><a href="#" id="hide-menu"><span class="icon-close" data-grunticon-embed="data-grunticon-embed"></span><span class="title">Schließen</span></a></div>
+<div class="lang-selection">
+<ul><li class="active"><span><a href="/startseite">Deutsch</a></span></li><li><span><a href="https://www.dhbw.de/english/home" target="_self">English</a></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay">
+<div class="container-fluid">
+<nav class="main-menu">
+<ul><li class="hasChild"><a href="/die-dhbw/aktuelles">Die DHBW</a><ul><li><a href="/die-dhbw/aktuelles">Aktuelles</a></li><li><a href="/die-dhbw/wir-ueber-uns">Wir über uns</a></li><li><a href="/die-dhbw/hochschulleitung">Hochschulleitung</a></li><li><a href="/die-dhbw/standorte">Standorte</a></li><li><a href="/die-dhbw/studium-und-lehre">Studium und Lehre</a></li><li><a href="/die-dhbw/forschung-innovation-und-transfer">Forschung, Innovation und Transfer</a></li><li><a href="/die-dhbw/qualitaetsmanagement-und-akkreditierung">Qualitätsmanagement und Akkreditierung</a></li><li><a href="/die-dhbw/einrichtungen-service">Einrichtungen &amp; Service</a></li><li><a href="/die-dhbw/dokumente">Dokumente</a></li><li><a href="/die-dhbw/stellenangebote">Stellenangebote</a></li><li><a href="/die-dhbw/presse">Presse</a></li><li><a href="/die-dhbw/glossar">Glossar</a></li></ul></li><li class="active hasChild"><a class="active pinned current" href="/informationen/studieninteressierte">Informationen</a><ul><li><a href="/informationen/studieninteressierte">Studieninteressierte</a></li><li><a href="/alumni">Alumni</a></li><li class="active current"><a href="/informationen/duale-partner">Duale Partner</a></li><li><a href="/informationen/duale-dozenten">Duale Dozenten</a></li></ul></li><li class="hasChild"><a href="/studienangebot/bachelor">Studienangebot</a><ul><li><a href="/studienangebot/bachelor">Bachelor</a></li><li><a href="/studienangebot/master">Master</a></li><li><a href="/studienangebot/international">International</a></li><li><a href="/studienangebot/zusatzqualifikation">Zusatzqualifikation</a></li></ul></li><li><a href="/dhbw-stiftung">DHBW-Stiftung</a></li><li class="hasChild"><a href="/kontakt/ansprechpersonen">Kontakt</a><ul><li><a href="/kontakt/ansprechpersonen">Ansprechpersonen</a></li><li><a href="/kontakt/anfahrt">Anfahrt</a></li></ul></li></ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<main class="main">
+<div class="inner-wrapper">
+<!--TYPO3SEARCH_begin-->
+<div class="header-content-subpage"><div class="inner">
+<div class="frame frame-default frame-type-dhbwcore_headerimage frame-layout-0" id="c458">
+<div class="header-image-content">
+<picture>
+<source media="(min-width: 681px)" srcset="
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Partner_1920x1440.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Partner_1920x1440.jpg
+         2x"/>
+<img alt="" srcset="
+            /fileadmin/_processed_/4/e/csm_Duale_Partner_640x480_0300c1d371.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Partner_640x480.jpg
+         2x"/>
+<noscript><img alt="" src="
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Partner_1920x1440.jpg
+        "/></noscript>
+</picture>
+</div>
+<div class="header-inner-content container-fluid">
+<span class="parent-page"><small>Informationen</small></span><h1>Duale Partner</h1>
+</div>
+</div>
+</div></div>
+<!--TYPO3SEARCH_end-->
+<div class="container-fluid main-content">
+<!--TYPO3SEARCH_begin-->
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c396">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Vorteile einer dualen Partnerschaft</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-396-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-396-0">
+                                
+
+	
+
+			<div id="c397" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<p>Die Duale Hochschule Baden-Württemberg arbeitet mit rund 9.000 Unternehmen und sozialen Einrichtungen aus ganz Deutschland, den so genannten Dualen Partnern, zusammen.</p>
+<h3><br /> Hochqualifizierte Nachwuchskräfte gesucht?</h3>
+<p>Als Dualer Partner können Sie in Zusammenarbeit mit der DHBW in nur drei Jahren Hochschulabsolventen/-innen maßgeschneidert auf die eigenen Anforderungen qualifizieren. Das seit mehr als 40 Jahren bewährte <a href="/informationen/studieninteressierte">duale Studienkonzept</a> verbindet erstklassige Lehrqualität mit maximalem Praxisbezug. Durch die Integration von Theorie- und Praxisinhalten bekommen die Studierenden an der DHBW neben Fach- und Methodenwissen ein hohes Maß an Handlungs- und Sozialkompetenz vermittelt und werden auf diese Weise optimal auf den Berufseinstieg vorbereitet.</p>
+<h3><br /> Die besten Köpfe von morgen sichern</h3>
+<p>Als Mitglieder der DHBW wählen die Unternehmen und sozialen Einrichtungen ihre Studierenden selbst aus. Dadurch ist sichergestellt, dass die jeweiligen Studienplätze passgenau mit den am besten geeigneten Kandidaten/-innen besetzt werden. Eine durchschnittliche Abbrecherquote von unter zehn Prozent – ein einzigartiger Spitzenwert in der deutschen Hochschullandschaft – zeigt deutlich, wie gut dieser Ansatz funktioniert.&nbsp;</p>
+<h3><br /> Eine starke Partnerschaft eingehen</h3>
+<p>Rund 9.000 Unternehmen und soziale Einrichtungen sämtlicher Größen und aus einer Vielzahl von Branchen arbeiten heute erfolgreich mit der Dualen Hochschule Baden-Württemberg zusammen. Die Dualen Partner sind zum einen über die Auswahl der Studierenden und den praktischen Teil des Studienbetriebs in die Hochschule eingebunden. Zum anderen können sie als Mitglieder der DHBW auch über die Gremienarbeit direkt an der strategischen Weiterentwicklung der Hochschule mitwirken.</p>
+<h3><br /> Eigene Experten vermitteln aktuelle Inhalte</h3>
+<p>Als Dualer Partner haben die Unternehmen und sozialen Einrichtungen auch die Möglichkeit, erfahrene Experten/-innen als Dozenten/-innen an die Hochschule zu entsenden. Dadurch wird eine noch engere Verbindung zur Berufspraxis geknüpft und gleichzeitig ein Beitrag zur Aktualität der Lehre an der DHBW geleistet.</p>
+<h3><br /> Internationale Kompetenz</h3>
+<p>Andere Kulturen kennen und verstehen lernen ist als Schlüsselkompetenz für zukünftige Fach- und Führungskräfte unverzichtbar. Die DHBW bietet ihren Studierenden in Kooperation mit über 200 Hochschulen weltweit zahlreiche Möglichkeiten, um ein Semester im Ausland zu verbringen. Dabei können sie wichtige Erfahrungen im internationalen Wirtschafts- und Arbeitsleben sammeln, interkulturelle Kompetenzen erwerben, ihre sprachlichen Fähigkeiten verbessern und sich auf diese Weise optimal auf die globalisierte Arbeitswelt vorbereiten. In Abstimmung mit ihrem Unternehmen können die Studierenden auch in der Praxisphase einen Teil des Studiums im Ausland absolvieren – beispielsweise an einem ausländischen Standort eines international agierenden Unternehmens.</p>
+<h3>&nbsp;</h3>
+<h3>Lebenslanges Lernen</h3>
+<p>Mit den dualen Masterstudiengängen befähigt die DHBW Studierende auch nach dem Abschluss stets offen für neue Themen zu sein, über sich hinaus zu wachsen und aktives Lernen in ihren Alltag zu integrieren. Um das zu erzielen, entwickelt die DHBW ihre Masterstudiengänge kontinuierlich weiter. Unter dem Aspekt des lebenslangen Lernens bietet das DHBW Center for Advanced Studies die Möglichkeit, einen dualen Master zu wählen - berufsbegleitend und berufsintegrierend. Interessierte haben aktuell die Wahl aus 20 dualen Master-Studiengängen in den Fachbereichen Wirtschaft, Technik und Sozialwesen. Zusätzliche Zertifikatskurse und –programme erweitern das Angebot themenspezifisch und greifen aktuelle Schwerpunkte auf.</p>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+
+
+	
+
+			<div id="c556" class="frame frame-default frame-type-dhbwcore_linkblock frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	
+	
+    <div class="link-block">
+        <h2>Weitere Informationen zum Thema</h2>
+        <ul class="link-list">
+            
+                
+                <li>
+                    <a href="http://www.dhbw.de/fileadmin/user_upload/Dokumente/Broschueren_Handbuch_Betriebe/DHBW_Broschuere_Erfolg_verbindet.pdf" target="_blank">
+                        <span class="title">Wer ist bereits Dualer Partner der DHBW?</span>
+                        <span class="description">Broschüre &quot;Erfolg verbindet.&quot; mit ausgewählten starken Partnern der DHBW</span>
+                    </a>
+                </li>
+            
+                
+                <li>
+                    <a href="/studienangebot/bachelor">
+                        <span class="title">In welchen Studiengängen kann ich Nachwuchskräfte gemeinsam mit der DHBW qualifizieren?</span>
+                        <span class="description">Zum Studienangebot der DHBW</span>
+                    </a>
+                </li>
+            
+                
+                <li>
+                    <a href="/fileadmin/user_upload/Dokumente/Dokumente_fuer_Duale_Partner/DHBW_Studienvertrag.pdf">
+                        <span class="title">Wie sieht der Vertrag aus, den ich mit einem Studierenden abschließen muss?</span>
+                        <span class="description">DHBW Studienvertrag</span>
+                    </a>
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.dhbw.de/informationen/studieninteressierte.html#duvo" target="_blank">
+                        <span class="title">Wie können sich Studieninteressierte auf ein duales Studium an der DHBW vorbereiten?</span>
+                        <span class="description">Duales Vorbereitungsstudium (DuVo)</span>
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+
+
+	
+
+			<div id="c582" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<h3>&nbsp;</h3>
+<h3><span style="font-weight: normal;">Websites der DHBW Standorte für interessierte Firmen und soziale Einrichtungen</span></h3>
+<h3><span style="font-weight: normal;"><br /></span></h3>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+
+
+	
+
+			<div id="c581" class="frame frame-default frame-type-html frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+				
+
+	<div class="locations-inline">
+<ul class="location-list location-list-inline">
+  <li class="location-list-item"><a href="http://www.heidenheim.dhbw.de/duale-partner/informationen-fuer-unternehmen-einrichtungen.html" title="DHBW Heidenheim" data-key="HDH" data-index="0">DHBW Heidenheim<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.heilbronn.dhbw.de/duale-partner.html" title="DHBW Heilbronn" data-key="HN" data-index="1">DHBW Heilbronn<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="https://www.karlsruhe.dhbw.de/informationen-fuer-duale-partner.html" title="DHBW Karlsruhe" data-key="KA" data-index="3">DHBW Karlsruhe<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-loerrach.de/index.php?id=ausbildungspartner" title="DHBW Lörrach" data-key="LÖ" data-index="4">DHBW Lörrach<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="https://www.mannheim.dhbw.de/duale-partner/duale-partner/duale-partnerschaft" title="DHBW Mannheim" data-key="MA" data-index="5">DHBW Mannheim<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-mosbach.de/informationen-fuer/duale-partner/dokumente-downloads.html" title="DHBW Mosbach" data-key="MOS" data-index="6">DHBW Mosbach<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.ravensburg.dhbw.de/de/duale-partner/informationen-fuer-duale-partner.html" title="DHBW Ravensburg" data-key="RV" data-index="8">DHBW Ravensburg<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-stuttgart.de/zielgruppen/duale-partner.html" title="DHBW Stuttgart" data-key="S" data-index="10">DHBW Stuttgart<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="https://www.cas.dhbw.de/arbeitgeber-vorteile/" title="DHBW CAS" data-key="HNCAS" data-index="2">DHBW Center for Advanced Studies<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-vs.de/duale-partner.html" title="DHBW Villingen-Schwenningen" data-key="VS" data-index="13">DHBW Villingen-Schwenningen<span class="icon-location" data-grunticon-embed=""></span></a></li>
+</ul>
+</div>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c8126">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Der DHBW Dualer Partner Award</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-8126-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-8126-0">
+                                
+
+	
+
+			<div id="c8127" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<p>Gemeinsam mit den dualen Partnerunternehmen realisiert die Duale Hochschule Baden-Württemberg einen innovativen Ansatz innerhalb der deutschen Hochschullandschaft. Die Kooperation mit den Dualen Partnern ist maßgebend für den Erfolg und die Weiterentwicklung der DHBW.<br /> <br /> Dies möchten wir würdigen und verleihen nach 2017 zum zweiten Mal den DHBW Dualer Partner Award.&nbsp;Diese Auszeichnung soll die große Bedeutung und die hohe Qualität der Praxisphasen des dualen Studiums in den Fokus rücken. Der Award wird darüber hinaus „Best Practice“-Beispiele zur Gestaltung der Praxisphasen sichtbar machen.</p>
+<p>Informationen zur Bewerbung mit Ihrem Konzept oder Projekt finden Sie in Kürze auf dieser Website.</p>
+<p>Ihre Vorteile durch die Teilnahme am Dualen Partner Award</p><ul> 	<li>Der Award bietet eine <strong>Plattform</strong>, um über das eigene Erfolgsmodell zu berichten.</li> 	<li>Sie profitieren von einer erhöhten <strong>öffentlichen Aufmerksamkeit</strong>.</li> 	<li>Sie steigern durch Nominierung und Auszeichnung Ihre Attraktivität als Arbeitgeber sowie als Dualer Partner und können den Award im <strong>Employer Branding</strong> Prozess des Unternehmens gezielt als <strong>Recruitingwerkzeug </strong>einsetzen.</li> </ul>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c215">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Erfolg verbindet.</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-215-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-215-0">
+                                
+
+	
+
+			<div id="c213" class="frame frame-default frame-type-image frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<div class="ce-image ce-left ce-above">
+		
+
+	<div class="image-gallery" data-ce-columns="2" data-ce-images="4">
+		
+			
+				
+					
+
+		
+<figure class="image">
+	
+			
+					<a href="/fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Porsche.jpg" class="lightbox" rel="lightbox[lb213]">
+						<div class="inner-img icon-lupe">
+							
+<img class="image-embed-item" title="Erfolg verbindet " alt="Thomas Edig, Stellvertretender Vorsitzender des Vorstandes, Mitglied des Vorstandes - Personal- und Sozialwesen und Arbeitsdirektor der Dr. Ing. h.c. F. Porsche AG steht neben einem grauen Porsche im Porsche-Werk in Zuffenhausen. Die Porsche AG ist seit 1994 Dualer Partner." src="/fileadmin/_processed_/9/9/csm_Porsche_94d1362c1a.jpg" width="595" height="266" />
+
+
+						</div>
+					</a>
+				
+		
+	
+		<figcaption class="caption">
+			Thomas Edig, Stellvertretender Vorsitzender des Vorstandes, Mitglied des Vorstandes - Personal- und Sozialwesen und Arbeitsdirektor der Dr. Ing. h.c. F. Porsche AG. 
+Die Porsche AG ist seit 1994 Dualer Partner.
+		</figcaption>
+	
+</figure>
+
+
+	
+
+
+				
+			
+				
+					
+
+		
+<figure class="image">
+	
+			
+					<a href="/fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Daimler.jpg" class="lightbox" rel="lightbox[lb213]">
+						<div class="inner-img icon-lupe">
+							
+<img class="image-embed-item" title="Erfolg verbindet" alt="Wilfried Porth, Personalvorstand und Arbeitsdirektor der Daimler AG, steht mit dem DHBW Partnerlogo neben einem Elektrosmart vor dem Mercedes Benz Museum in Stuttgart. Die Daimler AG ist seit 1974 Dualer Partner." src="/fileadmin/_processed_/2/1/csm_Daimler_273631fc6f.jpg" width="595" height="266" />
+
+
+						</div>
+					</a>
+				
+		
+	
+		<figcaption class="caption">
+			Wilfried Porth, Personalvorstand und Arbeitsdirektor der Daimler AG. 
+Die Daimler AG ist seit 1974 Dualer Partner.
+		</figcaption>
+	
+</figure>
+
+
+	
+
+
+				
+			
+		
+			
+				
+					
+
+		
+<figure class="image">
+	
+			
+					<a href="/fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Glaeser.jpg" class="lightbox" rel="lightbox[lb213]">
+						<div class="inner-img icon-lupe">
+							
+<img class="image-embed-item" title="Erfolg verbindet" alt="Claudia Gläser, Geschäftsführende Gesellschafterin der Gläser GmbH, steht neben dem DHBW Partnerlogo in einer Produktionshalle. Die Gläser GmbH ist seit 1989 Dualer Partner.  " src="/fileadmin/_processed_/a/a/csm_Glaeser_970ac58769.jpg" width="595" height="266" />
+
+
+						</div>
+					</a>
+				
+		
+	
+		<figcaption class="caption">
+			Claudia Gläser, Geschäftsführende Gesellschafterin der Gläser GmbH. 
+Die Gläser GmbH ist seit 1989 Dualer Partner.  
+		</figcaption>
+	
+</figure>
+
+
+	
+
+
+				
+			
+				
+					
+
+		
+<figure class="image">
+	
+			
+					<a href="/fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/IBM.jpg" class="lightbox" rel="lightbox[lb213]">
+						<div class="inner-img icon-lupe">
+							
+<img class="image-embed-item" title="Erfolg verbindet" alt="Martina Koederitz, Vorsitzende der Geschäftsleitung von IBM Deutschland steht neben dem DHBW Partnerlogo in einem IBM Gebäude. Die IBM Deutschland GmbH ist seit 1975 Dualer Partner. " src="/fileadmin/_processed_/a/e/csm_IBM_acc4676993.jpg" width="595" height="266" />
+
+
+						</div>
+					</a>
+				
+		
+	
+		<figcaption class="caption">
+			Martina Koederitz, Vorsitzende der Geschäftsleitung von IBM Deutschland. 
+Die IBM Deutschland GmbH ist seit 1975 Dualer Partner. 
+		</figcaption>
+	
+</figure>
+
+
+	
+
+
+				
+			
+		
+	</div>
+
+
+
+	</div>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c402">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>DHBW Partnerlogo</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-402-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-402-0">
+                                
+
+	
+
+			<div id="c560" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<p>Das DHBW Partnerlogo kann von kooperierenden Unternehmen und sozialen Einrichtungen zum Co-Branding verwendet werden. Hier geht es zum&nbsp;<a href="http://portal.walterdigital.de/DHBW-PARTNER" target="_blank">Downloadbereich</a></p>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c398">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Eignungsvoraus­setzungen</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-398-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-398-0">
+                                
+
+	
+
+			<div id="c400" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<p>Um die Qualität des dualen Studiums auch in den Praxisphasen sicherzustellen, gelten für Unternehmen und soziale Einrichtungen, die mit der DHBW bei der Qualifizierung ihrer Nachwuchskräfte zusammenarbeiten möchten, bestimmte Eignungsvoraussetzungen. Dazu zählen beispielsweise Anforderungen im Hinblick auf die personelle und sachliche Ausstattung eines Betriebs oder die Unterstützungs- und Betreuungsleistung, die sie gegenüber ihren Studierenden erbringen müssen.</p>
+<p>Weiter Informationen über die Eignungsvoraussetzungen und das Zulassungsverfahren für Duale Partner der DHBW finden Sie hier:</p><ul> 	<li><a href="/fileadmin/user_upload/Dokumente/Amtliche_Bekanntmachungen/2019/12_2019_Satzung_EignungsVO_u_ZulassungsVO_fuer_DP_Bachelor.pdf">Richtlinien für die Eignungsvoraussetzungen und das Zulassungsverfahren von Praxispartnern (Ausbildungsstätten) der Dualen Hochschule Baden-Württemberg für ein Bachelor-Studium</a></li> </ul><ul> 	<li><a href="https://www.dhbw.de/fileadmin/user_upload/Dokumente/Amtliche_Bekanntmachungen/2018/33_2018_Bekanntmachung_Zulassungssatzung_Duale_Partner_CAS.pdf" target="_blank">Eignungsvoraussetzungen und das Zulassungsverfahren von Dualen Partnern für ein Masterstudium</a></li> </ul>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c409">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Kontakt</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-409-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-409-0">
+                                
+
+	
+
+			<div id="c410" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<div id="c12854" class="csc-default"><h3 class="csc-firstHeader">An wen muss ich mich wenden?</h3>
+<p>Unternehmen und soziale Einrichtungen, die an einer Zusammenarbeit mit der DHWB interessiert sind, können direkt mit der Leitung des entsprechenden Studiengangs am jeweiligen <a href="/die-dhbw/standorte">DHBW Standort</a> Kontakt aufnehmen. Eine Liste aller Studiengänge finden Sie <a href="/studienangebot/bachelor">hier</a>.</p></div>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<!--TYPO3SEARCH_end-->
+</div>
+</div>
+</main>
+<footer>
+<div class="page-footer">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6 col-md-8">
+<nav class="quicklinks">
+<h3>Quicklinks</h3>
+<div class="frame frame-default frame-type-menu_pages frame-layout-0" id="c4">
+<ul>
+<li>
+<a href="/informationen/studieninteressierte" title="Studieninteressierte">
+<span>Studieninteressierte</span>
+</a>
+</li>
+<li>
+<a href="/studienangebot/bachelor" title="Studienangebot">
+<span>Studienangebot</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/standorte" title="Standorte">
+<span>Standorte</span>
+</a>
+</li>
+<li>
+<a href="/kontakt/ansprechpersonen" title="Kontakt">
+<span>Kontakt</span>
+</a>
+</li>
+<li>
+<a href="/dhbw-stiftung" title="DHBW-Stiftung">
+<span>DHBW-Stiftung</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/stellenangebote" title="Stellenangebote">
+<span>Stellenangebote</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/glossar" title="Glossar">
+<span>Glossar</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="col-sm-6 col-md-4">
+<nav class="sociallinks">
+<h3>Folgen Sie uns auf</h3>
+<ul>
+<li><a href="https://www.instagram.com/dhbw.dualstudieren/"><span class="icon-social-instagram icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">Instagram</span></a></li>
+<li><a href="http://www.youtube.com/user/DualeHochschuleBW"><span class="icon-social-youtube icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">YouTube</span></a></li>
+<li><a href="https://www.linkedin.com/school/duale-hochschule-baden-w%C3%BCrttemberg"><span class="icon-linkedin icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">LinkedIn</span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="page-footer-bottom">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-8"><a href="/startseite"><span class="icon-logo-inverted" data-grunticon-embed="data-grunticon-embed"></span></a>
+<p class="copyright">
+            © 2020 Duale Hochschule Baden-Württemberg
+          </p>
+</div>
+<div class="col-sm-4">
+<nav class="metalinks-footer">
+<ul><li><a href="/impressum-datenschutz">Impressum / Datenschutz</a></li></ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/vendor_body.min-0ad55fd1.js"></script>
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/app_body.min-5bf7f36f.js"></script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.dhbw.de"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.dhbw.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img alt="" src="//www.dhbw.de/piwik/piwik.php?idsite=1" style="border:0;"/></p></noscript>
+<!-- End Piwik Code -->
+</body>
+</html>

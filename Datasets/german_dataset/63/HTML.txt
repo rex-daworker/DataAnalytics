@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>				<html lang="de" class="no-js ie lt-ie9 lt-ie8 lt-ie7 ie6"> <![endif]--><!--[if IE 7]>					<html lang="de" class="no-js ie lt-ie9 lt-ie8 ie7"> <![endif]--><!--[if IE 8]>					<html lang="de" class="no-js ie lt-ie9 ie8"> <![endif]--><!--[if IE 9]>					<html lang="de" class="no-js ie ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" lang="de"> <!--<![endif]-->
+<head><meta charset="utf-8"/><title>
+	Deutsches Theater Berlin - Aktuelles
+</title>
+<!-- favicon -->
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/favicon.png" rel="icon" type="image/png"/>
+<link href="/apple_touch_icon.png" rel="apple-touch-icon"/>
+<link href="/apple_touch_icon_72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple_touch_icon_114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple_touch_icon_144.png" rel="apple-touch-icon" sizes="144x144"/>
+<!-- meta tags for seo -->
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<meta content="Theater der Autoren – das Deutsche Theater Berlin ist eines der wichtigsten Autorentheater im deutschsprachigen Raum. Prägende Regie-Handschriften, kontinuierliche Zusammenarbeit mit wichtigen und jungen Dramatikern und die Kraft eines starken Ensembles bilden die Grundlagen des künstlerischen Konzeptes, das Intendant Ulrich Khuon seit 2009 umsetzt. Das Deutsche Theater Berlin zeigt seine Produktionen regelmäßig auch auf Gastspielen weltweit. Deutsches Theater und Kammerspiele, Schumannstr. 13a, 10117 Berlin-Mitte, Karten 030/28441-225, www.deutschestheater.de" name="description"/><meta content="Deutsches Theater Berlin, Berlin, Theater, Schauspiel, Sprechtheater, Spielplan, Aktuelles" name="keywords"/>
+<meta content="Deutsches Theater Berlin" name="author"/>
+<meta content="spiritec WebCMS für Opernhäser und Theater" name="generator"/>
+<meta content="index, follow" name="robots"/>
+<meta content="/img/logo.png" property="og:image"/>
+<link href="/css-bundles/all?v=e-zlViIFtGlr_qXP8Z9b7UO46qTA_Cgg83_9b1xF4zg1" rel="stylesheet"/>
+<script src="/js-bundles/head?v=eTN0O7Vm3Tz-YP-MHHaca8LWHW1_nIUSquAT784sgI81"></script>
+<script>
+            // store anchor in global variable and remove anchor from location to prevent the browser from scrolling on its own
+            var anchorTarget = window.location.hash;
+            if (anchorTarget.length > 0) {
+                anchorTarget = anchorTarget.replace('#', '');
+                window.location.hash = '';
+            }
+
+            if (document.getElementsByTagName('html')[0].className.indexOf('lt-ie9') != -1) {
+		        var e = ('abbr,article,aside,audio,canvas,datalist,details,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,summary,time,video,figcaption,summary').split(',');
+		        for (var i = 0; i < e.length; i++) document.createElement(e[i]);
+		    }
+		</script>
+<script type="text/javascript">
+		    var SYSTEMURLBASE = '/';
+		    var CALLBACKURLBASE = '/callbacks/';
+		    
+		    var FONT_SIZE_PX_MIN = 17;
+		    var FONT_SIZE_PX_MAX = 24;
+		    var FONT_LINEHEIGHT_SIZE_RATIO = 1.5;
+
+		    function adjustFontSize() {
+		        var el = document.documentElement;
+		        el.style.fontSize = '';
+		        var fontSize = parseFloat(((window.getComputedStyle && getComputedStyle(el, null)) || el.currentStyle || el.style).fontSize);
+		        if (fontSize <= FONT_SIZE_PX_MIN) {
+		            el.style.fontSize = FONT_SIZE_PX_MIN + 'px';
+		            el.style.lineHeight = (FONT_SIZE_PX_MIN * FONT_LINEHEIGHT_SIZE_RATIO) + 'px';
+		        } else if (fontSize > FONT_SIZE_PX_MAX) {
+		            el.style.fontSize = FONT_SIZE_PX_MAX + 'px';
+		            el.style.lineHeight = (FONT_SIZE_PX_MAX * FONT_LINEHEIGHT_SIZE_RATIO) + 'px';
+		        } else {
+		            el.style.fontSize = '';
+		            el.style.lineHeight = '';
+		        }
+		    }
+
+		    (function() {
+		        if (document.readyState === "complete") {
+		            adjustFontSize();
+		        } else if (document.addEventListener) {
+		            document.addEventListener("DOMContentLoaded", adjustFontSize, false);
+		        } else {
+		            window.attachEvent('onload', adjustFontSize);
+		        }
+		    })();
+		</script>
+</head>
+<body class="ua-unknown dev-unknown os-unknown lang--german" id="ctl00_ctlBody">
+<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');</script>
+<a id="top"></a>
+<div id="jsMarkerForPopups" style="display: none;"></div>
+<div class="Page-wrapper JS-PressCart-VisibilityContainer" id="ctl00_ctlPageWrapper">
+<div class="header-pressemappe show JS-PressCart-ErrorSwitch">
+<div class="inner">
+<div class="elements">Elemente in Pressemappe: <span class="count JS-PressCart-ItemCount">0</span><a class="edit" href="/service/presse/pressemappe/">Bearbeiten</a></div>
+<div class="form"><label for="presse-email">E-Mail:</label><input class="text" id="presse-email" name="PressCartEMail" type="text"/><label for="presse-redaktion">Redaktion:</label><input class="text" id="presse-redaktion" name="PressCartEditorialDepartment" type="text"/><a class="submit JS-PressCart-Send" href="#">Senden</a></div>
+</div>
+<div class="inner-error">
+<div class="error-text"><span class="JS-PressCart-ErrorText"></span> <a class="back" href="#" onclick="$('div.header-pressemappe').removeClass('error'); return false;">Zurück</a></div>
+</div>
+</div>
+<script>
+                componentInitialisation.registerReadyEvent(function() {
+                    ERRORMESSAGE_EMAIL = 'Bitte geben Sie Ihre E-Mail an.';
+                    ERRORMESSAGE_EDITORIALDEPARTMENT = 'Bitte geben Sie Ihre Redaktion an.';
+                    MESSAGE_PRESSCARTSEND = 'Ihre Pressemappe wurde Ihnen per E-Mail an die angegebene Adresse zugestellt.';
+                });
+            </script>
+<header class="page-header" role="banner">
+<div class="header-bg"></div>
+<div class="logo"><a href="/"></a></div>
+<div class="header-wrapper">
+<div class="menu-open"><a class="menu-open" href="#"></a></div>
+<div class="meta">
+<a class="search-link" href="https://www.deutschestheater.de/suche/"><i></i></a>
+<ul><li><a href="https://www.deutschestheater.de/en/" hreflang="en-en" rel="alternate">EN</a></li></ul>
+<ul class="menu1"><li class=" first level1"><a class="level1" href="/karten/kaufen/">Karten</a></li><li class="level1"><a class="level1" href="/programm/spielplan/">Spielplan</a></li><li class="level1"><a class="level1" href="/digital/">DT Digital</a></li><li class="level1"><a class="level1" href="https://www.deutschestheater.de/junges-dt/programm/aktuelles_junges_dt/" target="_blank" title="Hinweis: Der Link &amp;#246;ffnet sich in einem neuen Fenster.">Junges DT</a></li><li class=" last level1"><a class="level1" href="/service/presse/">Presse</a></li></ul>
+</div><!-- // div.meta -->
+</div><!-- // div.header-wrapper -->
+<div class="menu">
+<div class="menu-wrapper">
+<div class="menu-close"><a class="menu-close" href="#"></a></div>
+<ul class="menu1"><li class=" first selected level1"><a class="level1" href="/programm/">Programm</a><ul class="menu2"><li class=" first level2"><a class="level2" href="/programm/spielplan/">Spielplan</a></li><li class="level2"><a class="level2" href="/programm/premieren_repertoire/">Premieren und Repertoire</a></li><li class="level2"><a class="level2" href="/programm/dt_unterwegs_2020_21/">DT unterwegs</a></li><li class="level2"><a class="level2" href="/programm/reihen_salons/">Reihen und Salons</a></li><li class="level2"><a class="level2" href="https://www.deutschestheater.de/junges-dt/programm/aktuelles_junges_dt/" target="_blank" title="Hinweis: Der Link &amp;#246;ffnet sich in einem neuen Fenster.">Junges DT</a></li><li class="level2"><a class="level2" href="https://www.deutschestheater.de/programm/a-z/autorentheatertage_2021/">Autorentheatertage 2021</a></li><li class="level2"><a class="level2" href="/programm/archiv/">Archiv</a></li><li class=" last level2"><a class="level2" href="/digital/">DT Digital</a></li></ul></li><li class="level1"><a class="level1" href="/karten/">Karten</a><ul class="menu2"><li class=" first level2"><a class="level2" href="/karten/kaufen/">Karten kaufen</a></li><li class="level2"><a class="level2" href="/karten/reservieren/">Karten reservieren</a></li><li class="level2"><a class="level2" href="/karten/plaetze_preise/">Plätze &amp; Preise</a></li><li class="level2"><a class="level2" href="/karten/dtcard/">DT Card</a></li><li class="level2"><a class="level2" href="/karten/angebote_studierende/">Angebote für Studierende</a></li><li class="level2"><a class="level2" href="/karten/ihr_theaterbesuch/">Ihr Theaterbesuch</a></li><li class=" last level2"><a class="level2" href="/karten/anmeldung/">Zur Anmeldung für DT Freunde und DT Card-Inhaber</a></li></ul></li><li class="level1"><a class="level1" href="/ensemble/">Ensemble</a><ul class="menu2"><li class=" first level2"><a class="level2" href="/ensemble/ensemble-und-gaeste/">Ensemble &amp; Gäste</a></li><li class="level2"><a class="level2" href="/ensemble/regie-und-autoren/">Regie &amp; Autor_innen</a></li><li class=" last level2"><a class="level2" href="/ensemble/leitung-und-mitarbeiter/">Leitung &amp; Mitarbeiter_innen</a></li></ul></li><li class="level1"><a class="level1" href="/ueber_uns/">Über uns</a><ul class="menu2"><li class=" first level2"><a class="level2" href="/ueber_uns/chronik/">Chronik</a></li><li class="level2"><a class="level2" href="/ueber_uns/profil/">Profil</a></li><li class="level2"><a class="level2" href="/ueber_uns/ehrenmitglieder/">Ehrenmitglieder</a></li><li class="level2"><a class="level2" href="/ueber_uns/jobs_ausbildung/">Jobs/Ausbildung</a></li><li class="level2"><a class="level2" href="/ueber_uns/partner_foerderer/">Partner/Förderer</a></li><li class=" last level2"><a class="level2" href="/ueber_uns/baumassnahmen/">Baumaßnahmen Kammerspiele</a></li></ul></li><li class=" last level1"><a class="level1" href="/service/">Service</a><ul class="menu2"><li class=" first level2"><a class="level2" href="/service/kontakt/">Kontakt</a></li><li class="level2"><a class="level2" href="/service/presse/">Presse</a></li><li class="level2"><a class="level2" href="https://www.deutschestheater.de/junges-dt/theater_und_schule/" target="_blank" title="Hinweis: Der Link &amp;#246;ffnet sich in einem neuen Fenster.">Theater &amp; Schule</a></li><li class="level2"><a class="level2" href="https://www.deutschestheater.de/dt-freunde/dt-freunde/aktuelles/" target="_blank" title="Hinweis: Der Link &amp;#246;ffnet sich in einem neuen Fenster.">DT Freunde</a></li><li class="level2"><a class="level2" href="/service/newsletter/">Newsletter</a></li><li class="level2"><a class="level2" href="/service/technikportal/">Technikportal</a></li><li class=" last level2"><a class="level2" href="/service/theater-und-corona/">Theater und Corona</a></li></ul></li></ul>
+</div><!-- // div.menu-wrapper -->
+</div><!-- // div.menu -->
+</header>
+<div class="dataprotection">
+<div class="dataprotection__inner">
+<div class="dataprotection__textwrapper">
+<div class="dataprotection__text">
+<span class="hide-for-english">Diese Website setzt Cookies ein; mit der Nutzung unserer Website erklären Sie sich damit einverstanden. Mehr darüber erfahren Sie in unserer <a data-prevent-target-correction="1" href="https://www.deutschestheater.de/datenschutz/" target="_blank">Datenschutzerklärung</a>.</span>
+<span class="hide-for-german">This website uses cookies; by using our website, you consent to their use. You can read more about this in our <a data-prevent-target-correction="1" href="https://www.deutschestheater.de/datenschutz/" target="_blank">Privacy Policy</a>.</span>
+</div>
+</div>
+<div class="dataprotection__actionwrapper dataprotection__actionwrapper--after">
+<a class="dataprotection__action dataprotection__action--consent" href="#"><span class="hide-for-english">Einverstanden</span><span class="hide-for-german">I agree</span></a>
+</div>
+</div>
+</div>
+<div class="page-content" role="main">
+<div class="Stage color-scheme-black color-scheme-cross-default has-info-wrapper stage-01_DOSS3198" id="stage-01_DOSS3198">
+<div class="image">
+<div class="Skew top-2 bottom-2 no-margin-top no-padding">
+<div class="skew-container"><div class="skew-layer top"></div><div class="skew-layer bottom"></div></div>
+<div class="js-medialoader" data-image-url="/content-images/content/316873d3066e21ba3227931c62089129/33398/zauberberg_livestream_neu.jpg" data-js-code="initParallax('stage-01_DOSS3198');" style="position: relative;">
+<a href="https://www.deutschestheater.de/programm/a-z/der-zauberberg-hartmann/"><img alt="" class="stage-image js-medialoader-image" height="646" src="/blank-image/blank_1280_646.png" width="1280"/></a> </div><noscript><img alt="" height="646" src="/content-images/content/316873d3066e21ba3227931c62089129/33398/zauberberg_livestream_neu.jpg" width="1280"/></noscript>
+</div>
+<div class="info-wrapper">
+<div class="info-container">
+<div class="label ">
+<div class="label-content">
+<div class="Headline-wrapper">
+<h1 class="capital regular headlinesize--large"><a href="https://www.deutschestheater.de/programm/a-z/der-zauberberg-hartmann/"></a><a href="https://www.deutschestheater.de/programm/a-z/der-zauberberg-hartmann/"><strong><em>Der Zauberberg</em></strong></a></h1>
+<div class="label-subtitle regular">nach Thomas Mann<br/>Regie: Sebastian Hartmann</div>
+</div><!-- // div.Headline-wrapper -->
+</div>
+</div><!-- // div.label -->
+</div><!-- // div.info-container -->
+</div><!-- // div.info-wrapper -->
+</div><!-- // div.image -->
+<div class="content-wrapper">
+<div class="Content-container">
+<div class="content">
+<div class="Richtext with-padding-bottom regular-link-behaviour">Am Freitag, den 20. November um 19.30 Uhr hat <a href="/digital/zauberberg-digital/"><strong><em>Der Zauberberg</em></strong></a> nach <strong>Thomas Mann</strong> in der Regie von <strong>Sebastian Hartmann</strong> als <strong>Livestream Premiere</strong>! Die Vorstellung findet auf der großen Bühne des Deutschen Theaters statt – ohne Publikum, dafür aber mit mehreren Kameras. Der Stream ist im Anschluss an die Premiere bis Samstag, den 21. November 19.30 Uhr auf der DT-Webseite verfügbar.</div>
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+</div><!-- // div.content-wrapper -->
+</div><!-- // div.Stage -->
+<div class="Content-container">
+<div class="Grid">
+<div class="Spacer L"></div>
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box has-image regular-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/download/33458/meyer_1__1_.gif"/><div class="preloading-loader-animation"></div><a href="/digital/"><img alt="" class="bild" height="180" src="/blank-image/blank_320_180.png" width="320"/></a></div><noscript><img alt="" src="/download/33458/meyer_1__1_.gif"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Richtext with-padding-bottom regular-link-behaviour">Ab sofort finden Sie alle digitalen Angebote vom Deutschen Theater ganz übersichtlich in der Rubrik <a href="/digital/"><strong>DT Digital</strong></a>. Hier finden Sie die aktuellen Podcasts, Videos und erfahren, welche Inszenierung Sie demnächst als Stream sehen können. Klicken Sie mal rein!</div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="/digital/">Zu "DT Digital"</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+<div class="Spacer S"></div>
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="content with-padding-top">
+<div class="Spacer S"></div>
+<div class="Headline-wrapper main-h3 left with-padding-bottom">
+<h3 class="regular">Ulrich Khuon  bleibt bis 2023 – Iris Laufenberg wird neue  Intendantin des Deutschen Theaters / Kammerspiele Berlin</h3>
+</div>
+<div class="Richtext with-padding-bottom regular-link-behaviour">Der  Senator für Kultur und Europa, <strong>Dr. Klaus Lederer</strong>, gab bekannt, dass <strong>Iris Laufenberg</strong>,  Intendantin des <a href="https://schauspielhaus-graz.buehnen-graz.com/" target="_blank">Schauspielhaus Graz</a> mit der <strong>Spielzeit 2023/2024</strong> die Leitung des  Deutschen Theaters Berlin für zunächst fünf Spielzeiten übernimmt. Sie wird als  erste Frau die Geschicke dieses Theaters lenken.<br/><strong>Prof.  Ulrich Khuon </strong>verlängert seinen Vertrag um ein weiteres Jahr <strong>bis 2023</strong>, um eine  reibungslose Übergabe an Iris Laufenberg zu ermöglichen.</div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="https://www.berlin.de/sen/kulteu/aktuelles/pressemitteilungen/2020/pressemitteilung.1014546.php" target="_blank">Lesen Sie hier die Pressemitteilung vom 06.11.2020</a>
+</div>
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Grid">
+<div class="Spacer S"></div>
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper main-h2 left with-padding-bottom">
+<h2 class="regular">Wir bleiben an Deck!</h2>
+</div>
+<div class="Richtext with-padding-bottom regular-link-behaviour">Wir bedauern es sehr, dass wir aufgrund des <a href="https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2020/pressemitteilung.1010986.php" target="_blank">Beschlusses des Bundes und der Länder</a> vom 2. bis zum 30. November den Spielbetrieb einstellen müssen. <strong>Wir bedanken uns bei unserem Publikum ganz herzlich für das Vertrauen und die Unterstützung in den letzten Monaten und hoffen, Sie bald wieder bei uns am Haus begrüßen zu dürfen!</strong> <br/>Der Probenbetrieb wird fortgesetzt, sodass die geplanten Premieren <a href="https://www.deutschestheater.de/programm/a-z/der-zauberberg-hartmann/"><strong><em>Der Zauberberg</em></strong></a> (20. November) und <a href="https://www.deutschestheater.de/programm/a-z/fraeulein-julie/"><strong><em>Fräulein Julie</em></strong></a> (22. November) verschoben und die neuen Vorstellungstermine rechtzeitig veröffentlicht werden können.</div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="/programm/aktuelles/vorstellungsabsagen/">Informationen zur Kartenrückgabe</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box has-image regular-image js-grid-correction-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/4f967befa8633cbd734cb99fc8d22c39/33344/uli.jpg"/><div class="preloading-loader-animation"></div><a href="https://www.berliner-zeitung.de/kultur-vergnuegen/ulrich-khuon-deutsches-theater-corona-berlin-lockdown-freizeitgestaltung-kulturpolitik-li.114822" target="_blank"><img alt="" class="bild" height="1046" src="/blank-image/blank_900_1046.png" width="900"/></a></div><noscript><img alt="" src="/images/4f967befa8633cbd734cb99fc8d22c39/33344/uli.jpg"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="https://www.berliner-zeitung.de/kultur-vergnuegen/ulrich-khuon-deutsches-theater-corona-berlin-lockdown-freizeitgestaltung-kulturpolitik-li.114822" target="_blank">Interview mit Ulrich Khuon in der Berliner Zeitung</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+<div class="Spacer S"></div>
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Grid">
+<div class="Spacer L"></div>
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box has-image regular-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/download/33370/dezemberspielplan_2.gif"/><div class="preloading-loader-animation"></div><a href="https://www.deutschestheater.de/programm/spielplan/#2020-12" target="_blank"><img alt="" class="bild" height="180" src="/blank-image/blank_320_180.png" width="320"/></a></div><noscript><img alt="" src="/download/33370/dezemberspielplan_2.gif"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Richtext with-padding-bottom regular-link-behaviour"><strong>Der Spielplan ist online und der Vorverkauf gestartet!</strong><br/>Es erwarten uns vier Premieren: <a href="https://www.deutschestheater.de/programm/a-z/fraeulein-julie/"><strong><em>Fräulein Julie</em></strong></a> nach August Strindberg, Regie: Timofej Kuljabin (6.12.), <a href="https://www.deutschestheater.de/programm/a-z/der-zauberberg-hartmann/"><strong><em>Der Zauberberg</em></strong></a> nach Thomas Mann, Regie: Sebastian Hartmann (13.12.), <a href="https://www.deutschestheater.de/programm/a-z/woyzeck-interrupted/"><strong><em>Woyzeck Interrupted</em></strong></a> von Mahin Sadri und Amir Reza Koohestani nach Georg Büchner, Regie: Amir Reza Koohestani (18.12.) und <a href="https://www.deutschestheater.de/programm/a-z/mercedes/"><strong><em>Mercedes</em></strong></a> von Thomas Brasch, Regie: Charlotte Sprenger (20.12.).<br/></div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="https://www.deutschestheater.de/programm/spielplan/#2020-12" target="_blank">Zum Spielplan</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+<div class="Spacer S"></div>
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper main-h3 center with-padding-bottom">
+<h3 class="regular">Offener Brief an Michael Müller zur aktuellen Schließung der Kultureinrichtungen</h3>
+</div>
+<div class="Richtext with-padding-bottom regular-link-behaviour">Die Entscheidung des Berliner Senats, neben vielen anderen Maßnahmen zur Bekämpfung des Corona-Virus auch die Kultureinrichtungen wieder zu schließen, traf uns unerwartet und hart. Wir verstehen die unmittelbare Notwendigkeit für ein schnelles und konsequentes Handeln angesichts der Gefahr, die von der Pandemie ausgeht. Zugleich sind wir sehr besorgt, dass trotz unserer bisherigen umfangreichen Bemühungen, die Häuser auch in Zeiten von Corona sicher zu bespielen, jetzt nachhaltiger Schaden droht. <br/>Das Deutsche Theater Berlin unterzeichnet den gemeinsamen Brief von Berliner Kulturschaffenden an den Regierenden Bürgermeister Michael Müller.</div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a data-prevent-target-correction="true" href="/download/33368/20201106_offener_brief_regierender_buergermeister.pdf" target="_blank">Hier können Sie den Brief lesen</a>
+</div>
+<div class="Spacer S"></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="content with-padding-top">
+<div class="Headline-wrapper main-h2 has-kicker left with-padding-bottom">
+<div class="kicker regular">"Die Deutsche Bühne"</div>
+<h2 class="regular">Ulrich Khuon im Videointerview</h2>
+</div>
+<div class="Richtext with-padding-bottom regular-link-behaviour"><strong>Ulrich Khuon</strong> sprach am 30. Oktober 2020 mit Sarah Ritter, Videoreporterin der <a href="http://www.die-junge-buehne.de/de/1.html" target="_blank"><strong>jungen bühne</strong></a>, über das Theater-Aus im November, die Bedeutung des Austauschs zwischen den Generationen und den Wert des Deutschen Theaterpreises DER FAUST als Würdigung der Künstlerinnen und Künstler im Theaterbetrieb. <a href="https://www.die-deutsche-buehne.de/ulrich-khuon-im-gespraech-ueber-den-lockdown" target="_blank">Hier</a> gelangen Sie zum Videointerview auf der Webseite der <strong>Deutschen Bühne</strong>.</div>
+<div class="Media-item with-padding-bottom">
+<div class="media-container">
+<div class="video js-mediaplayer" data-startimage="/images/4b44a9276dd599e1bb9fe8c2df6a129e/33312/img_2753.jpg" data-video-large="/download/33310/large_ulrich_khuon_zum__lockdown_2.0___2_.mp4" data-video-medium="/download/33311/medium_ulrich_khuon_zum__lockdown_2.0___1_.mp4" data-video-small="/download/33309/small_ulrich_khuon_zum__lockdown_2.0.mp4">
+<div class="title js-mediaplayer-title">
+<h4>Die Deutsche Bühne: Ulrich Khuon im Videointerview mit Sarah Ritter</h4>
+</div>
+</div><!-- // div.video -->
+</div><!-- // div.media-container -->
+</div><!-- // div.Media-item -->
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Grid">
+<div class="grid-row">
+<div class="grid-col">
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+<div class="Spacer M"></div>
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper main-h3 has-kicker left with-padding-bottom">
+<div class="kicker regular">"Masken-Kultur" vom 25.10.2020</div>
+<h3 class="regular">Wie Theater und Oper den Spielbetrieb unter Corona-Bedingungen wieder aufnehmen<br/></h3>
+</div>
+<div class="Richtext with-padding-bottom regular-link-behaviour">Beim <strong>2. Kulturpolitischen Salon</strong> vom 25.10.2020 im Deutschen Theater in Zusammenarbeit mit dem Deutschen Bühnenverein, dem Deutschen Kulturrat und Deutschlandfunk Kultur diskutierten <strong>Ulrich Khuon </strong>(Intendant des Deutschen Theaters und Präsident des Deutschen Bühnenvereins), <strong>Jörg Königsdorf </strong>(Chefdramaturg der Deutschen Oper Berlin) und <strong>Anne Lenk</strong> (Regisseurin), Moderation: <strong>Hans Dieter Heimendahl</strong></div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="https://www.deutschlandfunkkultur.de/maskenkultur-theater-und-oper-in-zeiten-der-pandemie.4000.de.html?dram:article_id=486376" target="_blank">Hier geht es zum Beitrag auf DEUTSCHLANDFUNK KULTUR</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box has-image regular-image js-grid-correction-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/6f46aabd820b455d406efff76b2ccc17/33116/1080x1080_kulturpolitischersalon.png"/><div class="preloading-loader-animation"></div><a href="https://www.deutschlandfunkkultur.de/maskenkultur-theater-und-oper-in-zeiten-der-pandemie.4000.de.html?dram:article_id=486376" target="_blank"><img alt="" class="bild" height="900" src="/blank-image/blank_900_900.png" width="900"/></a></div><noscript><img alt="" src="/images/6f46aabd820b455d406efff76b2ccc17/33116/1080x1080_kulturpolitischersalon.png"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+<div class="Spacer M"></div>
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="content with-padding-top">
+<div class="Headline-wrapper main-h2 has-subtitle center no-padding-bottom">
+<h2 class="regular">"Ja, es gibt eine Vision für die Theater der Zukunft"</h2>
+<div class="subtitle regular">von Dea Loher</div>
+</div>
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Grid">
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box has-image regular-image js-grid-correction-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/c77f68f9340450437c24489fa2ee2ed3/33319/loher_2__c_alexander_paul_englert_.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="bild" height="928" src="/blank-image/blank_900_928.png" width="900"/></div><noscript><img alt="" src="/images/c77f68f9340450437c24489fa2ee2ed3/33319/loher_2__c_alexander_paul_englert_.jpg"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper main-h3 left with-padding-bottom">
+<h3 class="regular">Die Eröffnungsrede der <em>Autoren[theater]tage 2020</em></h3>
+</div>
+<div class="Richtext no-padding-bottom regular-link-behaviour"><strong>Dea Loher</strong> ist eine der bekanntesten Theaterautorinnen ihrer  Generation. Zur Eröffnung der <a href="/programm/aktuelles/autorentheatertage-blog-2020/"><strong><em>Autoren[theater]tage 2020</em></strong></a> hat sie eine Festrede  gehalten. Darin beleuchtet sie die Schattenbereiche zwischen Tier, Mensch und  Virus. Im Übergang zwischen Makro- und Mikrokosmos entsteht etwas Neues: eine  alte, neue Idee von Leben. "Ja, es gibt eine Vision für die Theater der  Zukunft", sagt die Dramatikerin. Und in Zeiten geschlossener Häuser ist ihre  Prognose schön und schrecklich zugleich. Hier können Sie die Festrede als Podcast nachhören.<br/><br/>Foto © Alexander Paul Englert<br/><br/></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="content no-padding-top">
+<div class="Media-item with-padding-bottom">
+<div class="media-container">
+<div class="audio mediaplayer--no-image js-mediaplayer" data-audio="/download/32945/dt_podcast_att_dea_loher_2.m4a" data-startimage=""></div>
+</div><!-- // div.media-container -->
+</div><!-- // div.Media-item -->
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer M"></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Stage color-scheme-black color-scheme-cross-default has-info-wrapper stage-01_DOSS3798" id="stage-01_DOSS3798">
+<div class="image">
+<div class="Skew top-2 bottom-2 with-margin-top no-padding js-medialoader" data-image-url="/images/2991506f0fbec716715b9c6e4bc1db5f/33293/maria_stuart_1024.jpg" data-js-code="initParallax('stage-01_DOSS3798');">
+<div class="skew-container"><div class="skew-layer top"></div><div class="skew-layer bottom"></div></div>
+<div style="position: relative;">
+<a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/"><img alt="" class="stage-image js-medialoader-image" height="979" src="/blank-image/blank_1920_979.png" width="1920"/></a></div><noscript><img alt="" src="/images/2991506f0fbec716715b9c6e4bc1db5f/33293/maria_stuart_1024.jpg"/></noscript>
+</div>
+<div class="info-wrapper">
+<div class="info-container">
+<div class="label">
+<div class="label-attribute regular "><div class="label-attribute-inner">Neu im Repertoire</div></div>
+<div class="label-content">
+<div class="Headline-wrapper">
+<h1 class="capital regular headlinesize--medium"><a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/"></a><a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/"><strong><em>Maria Stuart</em></strong></a></h1>
+<div class="label-subtitle regular">von Friedrich Schiller<br/>Regie: Anne Lenk</div>
+</div><!-- // div.Headline-wrapper -->
+</div>
+</div><!-- // div.label -->
+<div class="karten">
+<div class="visual"><i class="bar1"></i><i class="bar2"></i></div>
+<div class="links">
+<div class="link-container"><div class="link"><a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/">Zum Stück</a></div></div>
+</div>
+</div><!-- // div.karten -->
+</div><!-- // div.info-container -->
+</div><!-- // div.info-wrapper -->
+</div><!-- // div.image -->
+</div><!-- // div.Stage -->
+<div class="Content-container">
+<div class="content with-padding-top">
+<div class="Spacer S"></div>
+<div class="Headline-wrapper main-h2 left with-padding-bottom">
+<h2 class="regular">Enno Trebs und Julia Windischbauer stellen sich vor</h2>
+</div>
+<div class="Media-item with-padding-bottom">
+<div class="media-container">
+<div class="video js-mediaplayer" data-startimage="/images/2199b556ef4401f1afd607f9f047af99/33142/snip5.png" data-video-large="/download/33140/large_julia_und_enno.mp4" data-video-medium="/download/33141/medium_ulia_und_enno__1_.mp4" data-video-small="/download/33139/small_ulia_und_enno__2_.mp4">
+<div class="title js-mediaplayer-title">
+<h4>Enno Trebs und Julia Windischbauer im Videointerview</h4>
+</div>
+</div><!-- // div.video -->
+</div><!-- // div.media-container -->
+</div><!-- // div.Media-item -->
+<div class="Richtext with-padding-bottom regular-link-behaviour"><strong>Enno Trebs</strong> und <strong>Julia Windischbauer </strong>sind seit der Spielzeit 2020/21 neu im DT-Ensemble. In der Inszenierung <a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/"><strong><em>Maria Stuart</em></strong></a> (Regie: Anne Lenk) stehen die beiden zum ersten Mal auf der Bühne des Deutschen Theaters. Wir haben die beiden vorab zum Doppel-Interview getroffen, um sie näher kennenzulernen und  mit ihnen über ihre Rollen in <a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/"><em>Maria  Stuart</em></a><em> </em>zu  sprechen.</div>
+<div class="Spacer M"></div>
+<div class="Headline-wrapper main-h3 has-kicker left with-padding-bottom">
+<div class="kicker regular"><em>Maria Stuart</em></div>
+<h3 class="regular">Podcast mit Alexander Khuon und Jeremy Mockridge</h3>
+</div>
+<div class="Media-plugin-container with-padding-bottom">
+<div class="soundcloud-container">
+<div class="soundcloud-placeholder js-mediaplayer-soundcloud" data-media-id="918911503"></div>
+</div> <!-- // div.soundcloud-container -->
+</div> <!-- // div.Media-plugin-container -->
+<div class="Richtext with-padding-bottom regular-link-behaviour"><strong>Alexander Khuon</strong> und <strong>Jeremy Mockridge</strong> gehören zum Ensemble von <a href="https://www.deutschestheater.de/programm/a-z/maria-stuart-lenk/"><strong><em>Maria Stuart</em></strong></a><strong> </strong>(Regie: Anne Lenk). Im Podcast erzählen die zwei Schauspieler von den Verstrickungen ihrer Figuren – Graf von Leicester und Mortimer –, dem besonderen Bühnenbild und der gemeinsamen Arbeit mit Regisseurin Anne Lenk.</div>
+<div class="Spacer M"></div>
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Media-item">
+<div class="media-container">
+<div class="image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/6ed306ed1e8a43da499ab5393534ce78/32938/hitlers_ziege_0132.jpg"/><div class="preloading-loader-animation"></div><a href="https://www.deutschestheater.de/programm/a-z/hitlers-ziege/"><img alt="" class="bild" height="818" src="/blank-image/blank_1280_818.png" width="1280"/></a></div><noscript><img alt="" src="/images/6ed306ed1e8a43da499ab5393534ce78/32938/hitlers_ziege_0132.jpg"/></noscript><!-- // div.image -->
+</div><!-- // div.media-container -->
+<div class="content-container">
+<div class="Box">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper">
+<div class="kickerregular">Neu im Repertoire</div>
+<h3 class="regular"><a href="https://www.deutschestheater.de/programm/a-z/hitlers-ziege/"></a><a href="https://www.deutschestheater.de/programm/a-z/hitlers-ziege/"><strong><em>Hitlers Ziege und die Hämorrhoiden des Königs</em></strong></a></h3>
+<div class="subtitle regular">von Rosa von Praunheim<br/>Regie: Rosa von Praunheim</div>
+</div><!-- // div.Headline-wrapper -->
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.content-container -->
+</div><!-- // div.Media-item -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer S"></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Stage color-scheme-black color-scheme-cross-default has-info-wrapper stage-01_DOSS3742" id="stage-01_DOSS3742">
+<div class="image">
+<div class="Skew top-2 bottom-2 with-margin-top no-padding js-medialoader" data-image-url="/images/8e758cde62c337cce4ed586b12ef9893/33292/zdenek_adamec_0802.jpg" data-js-code="initParallax('stage-01_DOSS3742');">
+<div class="skew-container"><div class="skew-layer top"></div><div class="skew-layer bottom"></div></div>
+<div style="position: relative;">
+<a href="https://www.deutschestheater.de/programm/a-z/zdenek-adamec/"><img alt="" class="stage-image js-medialoader-image" height="924" src="/blank-image/blank_1920_924.png" width="1920"/></a></div><noscript><img alt="" src="/images/8e758cde62c337cce4ed586b12ef9893/33292/zdenek_adamec_0802.jpg"/></noscript>
+</div>
+<div class="info-wrapper">
+<div class="info-container">
+<div class="label">
+<div class="label-attribute regular "><div class="label-attribute-inner">Neu im Repertoire</div></div>
+<div class="label-content">
+<div class="Headline-wrapper">
+<h1 class="capital regular headlinesize--medium"><a href="https://www.deutschestheater.de/programm/a-z/zdenek-adamec/"></a><a href="https://www.deutschestheater.de/programm/a-z/zdenek-adamec/"><strong><em>Zdeněk Adamec</em></strong></a></h1>
+<div class="label-subtitle regular">von Peter Handke<br/>Regie: Jossi Wieler</div>
+</div><!-- // div.Headline-wrapper -->
+</div>
+</div><!-- // div.label -->
+<div class="karten">
+<div class="visual"><i class="bar1"></i><i class="bar2"></i></div>
+<div class="links">
+<div class="link-container"><div class="link"><a href="https://www.deutschestheater.de/programm/a-z/zdenek-adamec/">Zum Stück</a></div></div>
+</div>
+</div><!-- // div.karten -->
+</div><!-- // div.info-container -->
+</div><!-- // div.info-wrapper -->
+</div><!-- // div.image -->
+</div><!-- // div.Stage -->
+<div class="Content-container">
+<div class="content with-padding-top">
+<div class="Spacer S"></div>
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="content with-padding-top">
+<div class="Headline-wrapper main-h2 has-subtitle left with-padding-bottom">
+<h2 class="regular"><strong>Trailer </strong><a href="https://www.deutschestheater.de/programm/a-z/zdenek-adamec/"><strong><em>Zdeněk Adamec</em></strong></a></h2>
+<div class="subtitle regular">von Peter Handke<br/>Regie: Jossi Wieler</div>
+</div>
+<div class="Media-item with-padding-bottom">
+<div class="media-container">
+<div class="video js-mediaplayer" data-startimage="/images/45fd3de952a69a77e1680c64d6e5b568/33453/dt_trailer_adamec_stillframe_07.jpg" data-video-large="/download/33451/dt_trailer_adamec_final_720p.mp4" data-video-medium="/download/33452/dt_trailer_adamec_final_360p.mp4" data-video-small="/download/33450/dt_trailer_adamec_final_180p.mp4">
+<div class="title js-mediaplayer-title">
+<h4>Trailer "Zdeněk Adamec"</h4>
+</div>
+</div><!-- // div.video -->
+</div><!-- // div.media-container -->
+</div><!-- // div.Media-item -->
+</div><!-- // div.content -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer M"></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer M"></div>
+<div class="Headline-wrapper main-h2 center no-padding-bottom">
+<h2 class="regular">#FREESZFE</h2>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Grid">
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box has-image regular-image js-grid-correction-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/b8dc5aa04ac3bdc9d831b122fbb82edc/32576/img_9724.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="bild" height="900" src="/blank-image/blank_900_900.png" width="900"/></div><noscript><img alt="" src="/images/b8dc5aa04ac3bdc9d831b122fbb82edc/32576/img_9724.jpg"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Richtext with-padding-bottom regular-link-behaviour">Das Deutsche Theater Berlin unterstützt die Proteste der  Studierenden und Fakultätsmitglieder der <strong>ungarischen Universität für Theater-  und Filmkunst (SZFE)</strong> in Budapest. Laut Plänen des ungarischen Parlaments soll  die Universität durch eine Stiftung übernommen werden, die der  nationalistischen Regierung von Viktor Orbán nahesteht. Die Studierenden und  Lehrkräfte fürchten um die Autonomie der Universität und halten diese seit dem  1. September besetzt. <br/>Das europäische Theaternetzwerk <a href="https://mitos21.com/#1" target="_blank"><strong>mitos21</strong></a>, zu dessen Mitgliedern auch das Deutsche Theater zählt, zeigt sich ebenso solidarisch mit den  ungarischen  Kolleg_innen der Budapester Universität für Theater- und  Filmkunst und fordert u. a. die vollständige Wiedereinführung der legitimen  Leitung der Institution.</div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="/programm/aktuelles/free-szfe/">Zum Statement von mitos21 (in englischer Sprache)</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer M"></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Media-item">
+<div class="media-container">
+<div class="image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/a8fe6d4f8eb3ae10e5eefe496271ed68/33023/1280x720_bilder_querformat_3.png"/><div class="preloading-loader-animation"></div><a href="/programm/spielzeitmotto-alles-sofort/"><img alt="" class="bild" height="720" src="/blank-image/blank_1280_720.png" width="1280"/></a></div><noscript><img alt="" src="/images/a8fe6d4f8eb3ae10e5eefe496271ed68/33023/1280x720_bilder_querformat_3.png"/></noscript><!-- // div.image -->
+</div><!-- // div.media-container -->
+<div class="content-container">
+<div class="Box">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper">
+<h3 class="regular"><a href="/programm/spielzeitmotto-alles-sofort/"></a><a href="/programm/spielzeitmotto-alles-sofort/">Alles rund um das Spielzeitmotto 2020/21</a></h3>
+</div><!-- // div.Headline-wrapper -->
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.content-container -->
+</div><!-- // div.Media-item -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Box bg-none">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer M"></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.Content-container -->
+<div class="Content-container">
+<div class="Grid">
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box has-image regular-image js-grid-correction-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/b7c3df9e4f58c1ccce4d202dd7830665/31039/die_vielen.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="bild" height="1271" src="/blank-image/blank_900_1271.png" width="900"/></div><noscript><img alt="" src="/images/b7c3df9e4f58c1ccce4d202dd7830665/31039/die_vielen.jpg"/></noscript><!-- // div.box-image -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box bg-none js-grid-correction-text">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Headline-wrapper main-h3 left with-padding-bottom">
+<h3 class="regular">Berliner Erklärung der VIELEN</h3>
+</div>
+<div class="Richtext with-padding-bottom regular-link-behaviour"><strong>Kunst schafft einen Raum zur Veränderung der Welt</strong><br/><br/>Als Aktive der Kulturlandschaft in Deutschland stehen wir nicht über den Dingen, sondern auf einem Boden, von dem aus die größten Staatsverbrechen der Menschheitsgeschichte begangen wurden. In diesem Land wurde schon einmal Kunst als entartet diffamiert und Kultur flächendeckend zu Propagandazwecken missbraucht. Millionen Menschen wurden ermordet oder gingen ins Exil, unter ihnen auch viele Künstler_innen.<br/><br/> Heute begreifen wir die Kunst und ihre Einrichtungen, die Museen, Theater, Ateliers, Clubs und urbanen Orte als offene Räume, die Vielen gehören. Unsere Gesellschaft ist eine plurale Versammlung...</div>
+<div class="Prominent-link left no-padding-bottom regular">
+<a href="/programm/aktuelles/spielzeit_18_19/erklaerung_der_vielen/">Weiterlesen</a>
+</div>
+<div class="Prominent-link left with-padding-bottom regular">
+<a href="https://www.dievielen.de/" target="_blank">Zur Webseite der VIELEN</a>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+<div class="Spacer M"></div>
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+<div class="Mediathek Skew top-2 bottom-2 with-margin-top">
+<div class="skew-layer top"></div><div class="skew-layer bottom"></div>
+<div class="Headline-wrapper center">
+<h2>Mediathek</h2>
+</div>
+<div class="Gallery">
+<div class="gallery-shadow left"></div>
+<div class="gallery-shadow right"></div>
+<a class="gallery-navi left" href="#"><i></i></a>
+<a class="gallery-navi right" href="#"><i></i></a>
+<div class="gallery-wrapper"><div class="gallery-container"><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Die stillen Trabanten</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-996', 'Production-996', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-996', 'Production-996', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/a9229df5e26c3a7895a953c6bdfa107b/23511/trabanten_9131_2.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/a9229df5e26c3a7895a953c6bdfa107b/23511/trabanten_9131_2.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Hasta la Westler, Baby!</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1210', 'Production-1210', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1210', 'Production-1210', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/1759d5e4c0eb0cebe7794a1bd04b983e/29740/westler_2938.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/1759d5e4c0eb0cebe7794a1bd04b983e/29740/westler_2938.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Der Menschenfeind</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-989', 'Production-989', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-989', 'Production-989', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/0187371bf7436177d50dbcbcd5d47907/25333/menschenfeind_5012.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/0187371bf7436177d50dbcbcd5d47907/25333/menschenfeind_5012.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">4.48 Psychose</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1157', 'Production-1157', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1157', 'Production-1157', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/7620d1cd4889f8986e1ed118288c0e80/29645/psychose_7274.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/7620d1cd4889f8986e1ed118288c0e80/29645/psychose_7274.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Ausweitung der Kampfzone</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1125', 'Production-1125', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1125', 'Production-1125', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/10e682cc330138ec3c30983b7031065f/28107/kampfzone_8083.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/10e682cc330138ec3c30983b7031065f/28107/kampfzone_8083.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Black Maria</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-998', 'Production-998', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-998', 'Production-998', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/e70cc3d3d7111346de94c02bae80a767/24623/black_maria_5292.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/e70cc3d3d7111346de94c02bae80a767/24623/black_maria_5292.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Franziska Linkerhand</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1143', 'Production-1143', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1143', 'Production-1143', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/17ab17617dce8b698fe448a3b0339285/28521/linkerhand_5161.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/17ab17617dce8b698fe448a3b0339285/28521/linkerhand_5161.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">In der Sache J. Robert Oppenheimer</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-988', 'Production-988', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-988', 'Production-988', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/4bffcba366fa60d7b0d6096ab5afd37e/24454/oppenheimer_3539.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/4bffcba366fa60d7b0d6096ab5afd37e/24454/oppenheimer_3539.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Hekabe – Im Herzen der Finsternis</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1147', 'Production-1147', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1147', 'Production-1147', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/b6e1279279cd6c749b923b9a23ec9a21/28811/hekabe_6054.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/b6e1279279cd6c749b923b9a23ec9a21/28811/hekabe_6054.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Antigone</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1048', 'Production-1048', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1048', 'Production-1048', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/aef089505cc9d4bb8af3edaf7084bfc5/24352/antigone_4939.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/aef089505cc9d4bb8af3edaf7084bfc5/24352/antigone_4939.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Die Räuber</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1142', 'Production-1142', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1142', 'Production-1142', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/0880a3936331af01ddf4fba0b0097a9e/30005/web_die_raeuber_8618_2.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/0880a3936331af01ddf4fba0b0097a9e/30005/web_die_raeuber_8618_2.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Glaube Liebe Hoffnung</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1141', 'Production-1141', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1141', 'Production-1141', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/5c1e9d5a9c78956e79cfe2a4be2a4d83/28362/glaube_liebe_hoffnung_1181.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/5c1e9d5a9c78956e79cfe2a4be2a4d83/28362/glaube_liebe_hoffnung_1181.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Ode</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1156', 'Production-1156', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1156', 'Production-1156', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/77815b75643269c2a345af6b9bfaf73b/29283/ode_9639.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/77815b75643269c2a345af6b9bfaf73b/29283/ode_9639.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Lear</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1124', 'Production-1124', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1124', 'Production-1124', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/881b28e169eb684c7d178e283fdf391a/30101/lear_politiker_4400.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/881b28e169eb684c7d178e283fdf391a/30101/lear_politiker_4400.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Don Quijote</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1140', 'Production-1140', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1140', 'Production-1140', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/eeca343803356ac09f73a41aa847a5a7/28085/don_quijote_4341.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/eeca343803356ac09f73a41aa847a5a7/28085/don_quijote_4341.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Zeiten des Aufruhrs</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1003', 'Production-1003', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1003', 'Production-1003', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/a9aa312979de4c3b2bf6e4f99dab93c7/24932/zeiten_des_aufruhrs_0291.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/a9aa312979de4c3b2bf6e4f99dab93c7/24932/zeiten_des_aufruhrs_0291.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Kommt ein Pferd in die Bar</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-917', 'Production-917', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-917', 'Production-917', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/936a98fcfd1d2d09647fcf7c8782b287/26008/kommt_ein_pferd_3512.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/936a98fcfd1d2d09647fcf7c8782b287/26008/kommt_ein_pferd_3512.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Decamerone</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-828', 'Production-828', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-828', 'Production-828', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/235c916f4a32c724c4f38c1698acd585/30338/cg2a4346_kl.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/235c916f4a32c724c4f38c1698acd585/30338/cg2a4346_kl.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">Maria Stuart</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1282', 'Production-1282', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1282', 'Production-1282', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/93f5f362adbf32fd12841e6e9022f69d/33193/maria_stuart_0901.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/93f5f362adbf32fd12841e6e9022f69d/33193/maria_stuart_0901.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --><div class="gallery-item"><div class="image gallery-item-content"><div class="subtitle">jedermann (stirbt)</div><a class="open-fullsize-gallery" href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1158', 'Production-1158', new Array('2')); return false;"><i></i></a><a href="#" onclick="LoadAndOpenMediagallery('mediaCenterGallery-Production-1158', 'Production-1158', new Array('2')); return false;"><div class="image-preloading-container show-loader"><input class="image-url" type="hidden" value="/content-images/contentgallery/d11fa7d38fc91daa44807d2b33ce0e53/30269/jedermann_stirbt_8477.jpg"/><div class="preloading-loader-animation"></div><img alt="" class="stage-image" height="360" src="/blank-image/blank_640_360.png" width="640"/></div><noscript><img alt="" height="360" src="/content-images/contentgallery/d11fa7d38fc91daa44807d2b33ce0e53/30269/jedermann_stirbt_8477.jpg" width="640"/></noscript></a></div></div><!-- // div.gallery-item --></div></div>
+</div><!-- // div.Gallery -->
+</div><!-- // div.Mediathek -->
+<div class="Content-container">
+<div class="Grid">
+<div class="grid-row">
+<div class="grid-col">
+<div class="Box bg-highlight fg-white black JS-Newsletter-Registration" id="01_DOSS0007">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer S"></div>
+<div class="Headline-wrapper">
+<div class="kicker">NEWSLETTER</div>
+<h3>Einmal pro Woche Neuigkeiten aus dem DT</h3>
+</div><!-- // div.Headline-wrapper -->
+<div class="Spacer S"></div>
+<input name="distributionList" type="hidden" value="newsletter_dt"/>
+<div class="standard-form newsletter-box">
+<div class="form-item"><div class="form-inner-wrapper"><input class="radio formOfAddress" id="01_DOSS0007-m" name="formOfAddress_01_DOSS0007" type="radio" value="m"/><label for="01_DOSS0007-m">Herr</label> <input class="radio formOfAddress" id="01_DOSS0007-f" name="formOfAddress_01_DOSS0007" type="radio" value="f"/><label for="01_DOSS0007-f">Frau</label></div></div>
+<div class="form-item vorname"><div class="form-inner-wrapper"><input class="text vorname" name="firstname" placeholder="Vorname" type="text"/></div></div><div class="form-item nachname"><div class="form-inner-wrapper"><input class="text nachname" name="lastname" placeholder="Name" type="text"/></div></div>
+<div class="form-item email"><div class="form-inner-wrapper"><input class="text email" name="eMail" placeholder="E-Mail" type="text"/></div></div>
+<div class="form-error JS-Newsletter-Registration-Error JS-Newsletter-Registration-ErrorText" style="display: none;"></div>
+<div class="JS-Newsletter-Registration-Feedback JS-Newsletter-Registration-FeedbackText" style="display: none;"></div>
+<div class="Prominent-link right"><a class="submit default-button JS-Newsletter-Registration-Send" href="#">Anmelden</a></div>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div>
+<div class="Box bg-highlight fg-white black JS-Newsletter-Registration" id="01_DOSS0008">
+<div class="box-content-wrapper">
+<div class="box-content">
+<div class="Spacer S"></div>
+<div class="Headline-wrapper">
+<div class="kicker">NEWSLETTER</div>
+<h3>Einmal pro Monat zur Veröffentlichung des Spielplans</h3>
+</div><!-- // div.Headline-wrapper -->
+<div class="Spacer S"></div>
+<input name="distributionList" type="hidden" value="newsletter_spielplan"/>
+<div class="standard-form newsletter-box">
+<div class="form-item"><div class="form-inner-wrapper"><input class="radio formOfAddress" id="01_DOSS0008-m" name="formOfAddress_01_DOSS0008" type="radio" value="m"/><label for="01_DOSS0008-m">Herr</label> <input class="radio formOfAddress" id="01_DOSS0008-f" name="formOfAddress_01_DOSS0008" type="radio" value="f"/><label for="01_DOSS0008-f">Frau</label></div></div>
+<div class="form-item vorname"><div class="form-inner-wrapper"><input class="text vorname" name="firstname" placeholder="Vorname" type="text"/></div></div><div class="form-item nachname"><div class="form-inner-wrapper"><input class="text nachname" name="lastname" placeholder="Name" type="text"/></div></div>
+<div class="form-item email"><div class="form-inner-wrapper"><input class="text email" name="eMail" placeholder="E-Mail" type="text"/></div></div>
+<div class="form-error JS-Newsletter-Registration-Error JS-Newsletter-Registration-ErrorText" style="display: none;"></div>
+<div class="JS-Newsletter-Registration-Feedback JS-Newsletter-Registration-FeedbackText" style="display: none;"></div>
+<div class="Prominent-link right"><a class="submit default-button JS-Newsletter-Registration-Send" href="#">Anmelden</a></div>
+</div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div>
+</div><!-- // div.grid-col -->
+<div class="grid-col">
+<div class="Box has-image padded-image padding-size-1 js-grid-correction-image">
+<div class="box-image image-preloading-container show-loader"><input class="image-url" type="hidden" value="/images/4eb3d394bdaf335f5b455e09a3697329/26573/vaeter_und_soehne_1250.jpg"/><div class="preloading-loader-animation"></div><a href="https://www.deutschestheater.de/dt-freunde/dt-freunde/mitgliedschaft/" target="_blank"><img alt="" class="bild" height="1274" src="/blank-image/blank_900_1274.png" width="900"/></a></div><noscript><img alt="" src="/images/4eb3d394bdaf335f5b455e09a3697329/26573/vaeter_und_soehne_1250.jpg"/></noscript><!-- // div.box-image -->
+<div class="box-content-wrapper">
+<div class="box-attribute regular">Noch näher dran</div>
+<div class="box-content">
+<div class="Headline-wrapper">
+<h3 class="regular"><a href="https://www.deutschestheater.de/dt-freunde/dt-freunde/mitgliedschaft/" target="_blank">DT Freunde</a></h3>
+</div><!-- // div.Headline-wrapper -->
+<div class="Prominent-link left highlight"><a href="https://www.deutschestheater.de/dt-freunde/dt-freunde/mitgliedschaft/" target="_blank">Mitglied werden</a></div>
+</div><!-- // div.box-content -->
+</div><!-- // div.box-content-wrapper -->
+</div><!-- // div.Box -->
+</div><!-- // div.grid-col -->
+</div><!-- // div.grid-row -->
+</div><!-- // div.Grid -->
+</div><!-- // div.Content-container -->
+</div> <!-- page-content -->
+<footer class="page-footer" role="contentinfo">
+<div class="footer-bg"></div>
+<div class="footer-wrapper">
+<div class="footer-content">
+						Karten bestellen<br/>
+<a class="tel" href="tel:+493028441225">030 28441-225</a><br/>
+<div class="footer-menu meta">
+<ul class="menu1"><li class=" first level1"><a class="level1" href="/agb/">AGB</a></li><li class="level1"><a class="level1" href="/datenschutz/">Datenschutz</a></li><li class="level1"><a class="level1" href="/impressum/">Impressum</a></li><li class="level1"><a class="level1" href="/kontakt/">Kontakt</a></li><li class=" last level1"><a class="level1" href="/anfahrt/">Anfahrt</a></li></ul>
+</div><!-- // div.footer-menu -->
+<div class="footer-menu social">
+<ul>
+<li class="search"><a href="https://www.deutschestheater.de/suche/"></a></li>
+<li class="facebook"><a href="https://www.facebook.com/DeutschesTheater" target="_blank"></a></li>
+<li class="instagram"><a href="https://www.instagram.com/deutschestheaterberlin/" target="_blank"></a></li>
+<li class="twitter"><a href="https://twitter.com/dt_berlin" target="_blank"></a></li>
+<li class="soundcloud"><a href="https://soundcloud.com/deutsches-theater-berlin" target="_blank"></a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/DTPresse" target="_blank"></a></li>
+</ul>
+</div><!-- // div.social-menu -->
+</div><!-- // div.footer-content -->
+</div><!-- // div.footer-wrapper -->
+</footer>
+</div> <!-- // div.Page-wrapper -->
+<script src="/js-bundles/footer?v=YUF_r006HFfYmKYNTPivuqPc_oVYTiPE1qFqMLgT2PY1"></script>
+<script>
+            $(document).ready(function () { window.componentInitialisation.triggerReadyEvent(); });
+		</script>
+<script>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-34167627-1']);
+            _gaq.push(['_setDomainName', 'www.deutschestheater.de']);
+            _gaq.push(['_setAllowLinker', false]);				
+            _gaq.push(['_gat._anonymizeIp']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
+</body>
+</html>

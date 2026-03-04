@@ -1,0 +1,1 @@
+['dhbw', 'duales', 'studium', 'duale', 'hochschule', 'baden', 'württemberg', 'theorie', 'und', 'praxis', 'studieninteressierte', 'duale', 'partner', 'duale', 'dozenten', 'alumni', 'praxisintegrierend', 'duale', 'bachelorstudiengänge', 'dualer', 'master', 'praxisorientiert', 'intensivstudium', 'praxisnah', 'praxisphasen']

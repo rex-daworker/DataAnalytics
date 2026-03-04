@@ -1,0 +1,1 @@
+['wörterbuch', 'übersetzung', 'online-wörterbuch']

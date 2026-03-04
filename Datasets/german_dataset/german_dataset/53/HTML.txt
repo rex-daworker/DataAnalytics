@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html dir="ltr" lang="de-DE" class="no-js ie6 oldie"><![endif]--><!--[if IE 7 ]><html dir="ltr" lang="de-DE" class="no-js ie7 oldie"><![endif]--><!--[if IE 8 ]><html dir="ltr" lang="de-DE" class="no-js ie8 oldie"><![endif]--><!--[if IE 9 ]><html dir="ltr" lang="de-DE" class="no-js ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" dir="ltr" lang="de-DE"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	======= Umsetzung und Hosting: cron IT GmbH, www.cron.eu =======
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<title>Duale Dozenten | DHBW</title>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content='"Unseren Dozenten stiehlt keiner die Show" für einen nebenberuflichen Lehrauftrag an der DHBW bewerben Sie sich...' name="description"/>
+<meta content="Lehrbeauftragte, Duale Dozenten, DHBW, Duales Studium, Duale Hochschule Baden Württemberg, Studium und Ausbildung, Studieninteressierte, Duale Partner, Duale Dozenten, praxisintegrierend, duale Bachelorstudiengänge, Dualer Master, praxisorientiert, Intensivstudium, praxisnah, Praxisphasen" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<link href="https://www.dhbw.de/startseite/rss.xml" rel="alternate" title="RSS" type="application/rss+xml"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="IE=edge,chrome=1" name="X-UA-Compatible"/>
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/vendor_head.min-8fa490df.js"></script>
+<link href="/typo3conf/ext/dhbw_core/Resources/Public/Css/main.min-86299b3d.css" media="all" rel="stylesheet"/>
+<script>(function(window) {var prefix = 'iconset'; var parse = function(name) {var stylesheet; var ast = {}; try{for (var i = 0; i < document.styleSheets.length; i++) {if (document.styleSheets[i].href !== null) {if (document.styleSheets[i].href.indexOf(name) > 0) {stylesheet = document.styleSheets[i].cssRules ? document.styleSheets[i].cssRules : document.styleSheets[i].rules; } } } for (var i = 0; i < stylesheet.length; i++) {var name; var icon; name = prefix + stylesheet[i].selectorText; icon = stylesheet[i].style.backgroundImage; if (icon !== "") {icon = icon.slice(38).slice(0, -2); icon = decodeURIComponent(icon.replace("3C", "<")); if (icon.indexOf('svg') > 0) {ast[name] = icon; } } } return ast; } catch (e) {} }; var render = function(icons) {if (icons === undefined) {return false; } var elements; var selector; var embedSelector = "data-grunticon-embed"; var icon; for (icon in icons) {if (selector = icon.slice(prefix.length), elements = document.querySelectorAll(selector + "[" + embedSelector + "]"), elements.length) {var i = 0; for (; elements.length > i; i++) {elements[i].innerHTML = icons[icon]; elements[i].style.backgroundImage = "none"; elements[i].removeAttribute(embedSelector); } } } document.documentElement.classList.add("svgloaded"); return elements; }; var embedSVG = function() {if (document.readyState === "loading") {document.addEventListener("DOMContentLoaded", function(event) {render(parse('icons')); }); } else {render(parse('icons')); } }; self.embedSVG = embedSVG; }(window));</script>
+<link as="style" href="/typo3conf/ext/dhbw_core/Resources/Public/Css/icons.css" onload="this.onload=null;this.rel='stylesheet'; window.embedSVG();" rel="preload"/>
+<script>
+          (function () {function polyfillPreload() {var ret; try {ret = document.createElement( "link" ).relList.supports( "preload" ); } catch (e) {ret = false; } if (ret) {return false; } function enableStylesheet() {link.removeEventListener("load", enableStylesheet); link.onload = null; link.media = "all"; window.embedSVG(); } var links = document.getElementsByTagName( "link" ); for(var i = 0; i < links.length; i++){var link = links[ i ]; if(link.rel === "preload" && link.getAttribute("as") === "style"){if (link.addEventListener) {link.addEventListener('load', enableStylesheet); link.rel = "stylesheet"; link.media = "only x"; } } } } polyfillPreload(); } ());
+          
+        </script>
+<link href="https://www.dhbw.de/informationen/duale-dozenten" rel="canonical"/>
+</head>
+<body class="dhbwp" data-layout="Default" data-page="43" data-parent="13">
+<header class="page-header">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-6 col-sm-3">
+<h1 class="text-hide"><a href="/startseite" id="home-link"><span class="icon-logo-dhbwp" data-grunticon-embed="data-grunticon-embed"></span><span class="text-content"></span>DHBW</a></h1>
+</div>
+<div class="col-xs-6 col-sm-9">
+<div class="header-wrapper">
+<div class="search-wrapper hidden-xs">
+<form action="/suche" autocomplete="off" method="GET">
+<input class="search-input search-trigger" data-default-value="Suchen" name="q" value="Suchen"/>
+<div class="decoration"><span class="text-hide">Suchen</span><span class="icon-search"></span></div>
+</form>
+</div>
+<div class="menu-toggle"><a href="#" id="show-menu"><span class="icon-nav"></span><span class="title hidden-xs">Menü</span></a></div>
+<div class="lang-selection hidden-xs">
+<ul><li class="active"><span><a href="/startseite">Deutsch</a></span></li><li><span><a href="https://www.dhbw.de/english/home" target="_self">English</a></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay-container">
+<div class="overlay-header"></div>
+<div class="overlay-header-buttons">
+<div class="container-fluid relative">
+<div class="header-wrapper overlay">
+<div class="search-wrapper">
+<form action="/suche" autocomplete="off" data-suggest="/suche?type=7384" method="GET">
+<input class="search-input" data-default-value="Suchen" name="q" value="Suchen"/>
+<button type="submit"><span class="text-hide">Suchen</span><span class="icon-search" data-grunticon-embed="data-grunticon-embed"></span></button>
+</form>
+</div>
+<div class="menu-toggle"><a href="#" id="hide-menu"><span class="icon-close" data-grunticon-embed="data-grunticon-embed"></span><span class="title">Schließen</span></a></div>
+<div class="lang-selection">
+<ul><li class="active"><span><a href="/startseite">Deutsch</a></span></li><li><span><a href="https://www.dhbw.de/english/home" target="_self">English</a></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay">
+<div class="container-fluid">
+<nav class="main-menu">
+<ul><li class="hasChild"><a href="/die-dhbw/aktuelles">Die DHBW</a><ul><li><a href="/die-dhbw/aktuelles">Aktuelles</a></li><li><a href="/die-dhbw/wir-ueber-uns">Wir über uns</a></li><li><a href="/die-dhbw/hochschulleitung">Hochschulleitung</a></li><li><a href="/die-dhbw/standorte">Standorte</a></li><li><a href="/die-dhbw/studium-und-lehre">Studium und Lehre</a></li><li><a href="/die-dhbw/forschung-innovation-und-transfer">Forschung, Innovation und Transfer</a></li><li><a href="/die-dhbw/qualitaetsmanagement-und-akkreditierung">Qualitätsmanagement und Akkreditierung</a></li><li><a href="/die-dhbw/einrichtungen-service">Einrichtungen &amp; Service</a></li><li><a href="/die-dhbw/dokumente">Dokumente</a></li><li><a href="/die-dhbw/stellenangebote">Stellenangebote</a></li><li><a href="/die-dhbw/presse">Presse</a></li><li><a href="/die-dhbw/glossar">Glossar</a></li></ul></li><li class="active hasChild"><a class="active pinned current" href="/informationen/studieninteressierte">Informationen</a><ul><li><a href="/informationen/studieninteressierte">Studieninteressierte</a></li><li><a href="/alumni">Alumni</a></li><li><a href="/informationen/duale-partner">Duale Partner</a></li><li class="active current"><a href="/informationen/duale-dozenten">Duale Dozenten</a></li></ul></li><li class="hasChild"><a href="/studienangebot/bachelor">Studienangebot</a><ul><li><a href="/studienangebot/bachelor">Bachelor</a></li><li><a href="/studienangebot/master">Master</a></li><li><a href="/studienangebot/international">International</a></li><li><a href="/studienangebot/zusatzqualifikation">Zusatzqualifikation</a></li></ul></li><li><a href="/dhbw-stiftung">DHBW-Stiftung</a></li><li class="hasChild"><a href="/kontakt/ansprechpersonen">Kontakt</a><ul><li><a href="/kontakt/ansprechpersonen">Ansprechpersonen</a></li><li><a href="/kontakt/anfahrt">Anfahrt</a></li></ul></li></ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<main class="main">
+<div class="inner-wrapper">
+<!--TYPO3SEARCH_begin-->
+<div class="header-content-subpage"><div class="inner">
+<div class="frame frame-default frame-type-dhbwcore_headerimage frame-layout-0" id="c217">
+<div class="header-image-content">
+<picture>
+<source media="(min-width: 681px)" srcset="
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Dozenten_Header_1920x1440.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Dozenten_Header_1920x1440.jpg
+         2x"/>
+<img alt="" srcset="
+            /fileadmin/_processed_/c/0/csm_Duale_Dozenten_Header_640x480_1ce788c8f8.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Dozenten_Header_640x480.jpg
+         2x"/>
+<noscript><img alt="" src="
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Duale_Dozenten_Header_1920x1440.jpg
+        "/></noscript>
+</picture>
+</div>
+<div class="header-inner-content container-fluid">
+<span class="parent-page"><small>Informationen</small></span><h1>Duale Dozenten</h1>
+</div>
+</div>
+</div></div>
+<!--TYPO3SEARCH_end-->
+<div class="container-fluid main-content">
+<!--TYPO3SEARCH_begin-->
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c218">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Dualer Dozent werden</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-218-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-218-0">
+                                
+
+	
+
+			<div id="c584" class="frame frame-default frame-type-html frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+				
+
+	<div class="locations-inline">
+<ul class="location-list location-list-inline">
+  <li class="location-list-item"><a href="http://www.heidenheim.dhbw.de/studium-lehre/dozenten.html" title="DHBW Heidenheim" data-key="HDH" data-index="0">DHBW Heidenheim<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.heilbronn.dhbw.de/dozenten/bewerben.html" title="DHBW Heilbronn" data-key="HN" data-index="1">DHBW Heilbronn<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="https://www.karlsruhe.dhbw.de/studium-lehre/lehrbeauftragte" title="DHBW Karlsruhe" data-key="KA" data-index="3">DHBW Karlsruhe<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="https://dhbw-loerrach.de/lehrbeauftragte" title="DHBW Lörrach" data-key="LÖ" data-index="4">DHBW Lörrach<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="https://www.mannheim.dhbw.de/dhbw-mannheim/lehrauftrag" title="DHBW Mannheim" data-key="MA" data-index="5">DHBW Mannheim<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-mosbach.de/duale-dozenten" title="DHBW Mosbach" data-key="MOS" data-index="6">DHBW Mosbach<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-mosbach.de/mergentheim/duale-dozenten" title="DHBW Mosbach / Mergentheim" data-key="MOS/MGH" data-index="7">DHBW Mosbach Campus Bad Mergentheim<span class="icon-campus" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.ravensburg.dhbw.de/lehre-forschung/lehrbeauftragte.html" title="DHBW Ravensburg" data-key="RV" data-index="8">DHBW Ravensburg<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.ravensburg.dhbw.de/lehre-forschung/lehrbeauftragte.html" title="DHBW Ravensburg / Friedrichshafen" data-key="RV/FN" data-index="9">DHBW Ravensburg Campus Friedrichshafen<span class="icon-campus" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-stuttgart.de/zielgruppen/lehrbeauftragte/" title="DHBW Stuttgart" data-key="S" data-index="10">DHBW Stuttgart<span class="icon-location" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-stuttgart.de/horb/zielgruppen/lehrbeauftragte/" title="DHBW Stuttgart / Horb" data-key="S/HO" data-index="11">DHBW Stuttgart Campus Horb<span class="icon-campus" data-grunticon-embed=""></span></a></li>
+  <li class="location-list-item"><a href="http://www.dhbw-vs.de/duale-dozenten" title="DHBW Villingen-Schwenningen" data-key="VS" data-index="13">DHBW Villingen-Schwenningen<span class="icon-location" data-grunticon-embed=""></span></a></li>
+</ul>
+</div>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+
+
+	
+
+			<div id="c583" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<p>Wenn Sie bereits einen speziellen Studiengang ausgewählt haben, können Sie auch gerne direkt mit der jeweiligen Studiengangsleitung vor Ort in Kontakt treten. Die Kontaktdaten finden Sie auf den Websites der <a href="/die-dhbw/standorte">DHBW Standorte</a>.</p>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+
+
+	
+
+			<div id="c411" class="frame frame-default frame-type-dhbwcore_linkblock frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	
+	
+    <div class="link-block">
+        <h2>Weitere Informationen</h2>
+        <ul class="link-list">
+            
+                
+                <li>
+                    <a href="/fileadmin/user_upload/Dokumente/Broschueren_Handbuch_Betriebe/DHBW_Broschuere_Wissen_verbindet.pdf">
+                        <span class="title">DHBW Duale Dozenten Broschüre - Wissen verbindet.</span>
+                        <span class="description">50 nebenberufliche Dozentinnen und Dozenten erklären, warum sie an der DHBW unterrichten.</span>
+                    </a>
+                </li>
+            
+                
+                <li>
+                    <a href="/fileadmin/user_upload/Dokumente/Broschueren_Handbuch_Betriebe/DHBW_Duale_Dozenten_Flyer.pdf">
+                        <span class="title">DHBW Duale Dozenten Flyer - Können Sie begeistern?</span>
+                        <span class="description">Gründe für eine Lehrtätigkeit an der DHBW</span>
+                    </a>
+                </li>
+            
+                
+                <li>
+                    <a href="/studienangebot/bachelor">
+                        <span class="title">Studienangebot</span>
+                        <span class="description">Übersicht über die Bachelor-Studiengänge an der DHBW</span>
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_contentgrid frame-layout-0" id="c222">
+<div class="row grid-md tab-container">
+<div class="col-md-4">
+<div class="tab-nav-container">
+<h2>Unseren Dozenten stiehlt keiner die Show</h2>
+</div>
+</div>
+<div class="col-md-8">
+<div class="tab-content">
+<div class="pseudo-hidden not-active-by-url grid" id="tab-222-0"><!--
+                            
+
+                            <div class="tab-pane active"
+                                 id="tab-222-0">
+                                
+
+	
+
+			<div id="c220" class="frame frame-default frame-type-html frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+				
+
+	<div class="ytPlayer" style="text-align: center; position: relative; padding-bottom: 56.25%; height: 0;">    
+  <iframe src="https://www.youtube-nocookie.com/embed/12OvVhihKi0?rel=0&amp;showinfo=0" style="position: absolute; top: 0; left: 0; border-radius: 5px; width: 100%!important; height: 100%!important;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+
+
+	
+
+			<div id="c223" class="frame frame-default frame-type-text frame-layout-0">
+				
+				
+					
+
+
+
+				
+				
+					
+
+	
+
+
+
+				
+				
+
+	<p>&nbsp;</p>
+<p>Weitere Spots aus der Serie &quot;Unseren Dozenten stiehlt keiner die Show&quot; finden Sie in der DHBW Mediathek.<span style="display: inline !important;"></span> </p>
+<p><a href="/mediathek" target="_blank" class="button-link-black">Zur Mediathek</a></p>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+
+		
+
+
+                            </div>
+
+                            
+                                --></div>
+</div>
+</div>
+</div>
+</div>
+<!--TYPO3SEARCH_end-->
+</div>
+</div>
+</main>
+<footer>
+<div class="page-footer">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6 col-md-8">
+<nav class="quicklinks">
+<h3>Quicklinks</h3>
+<div class="frame frame-default frame-type-menu_pages frame-layout-0" id="c4">
+<ul>
+<li>
+<a href="/informationen/studieninteressierte" title="Studieninteressierte">
+<span>Studieninteressierte</span>
+</a>
+</li>
+<li>
+<a href="/studienangebot/bachelor" title="Studienangebot">
+<span>Studienangebot</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/standorte" title="Standorte">
+<span>Standorte</span>
+</a>
+</li>
+<li>
+<a href="/kontakt/ansprechpersonen" title="Kontakt">
+<span>Kontakt</span>
+</a>
+</li>
+<li>
+<a href="/dhbw-stiftung" title="DHBW-Stiftung">
+<span>DHBW-Stiftung</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/stellenangebote" title="Stellenangebote">
+<span>Stellenangebote</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/glossar" title="Glossar">
+<span>Glossar</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="col-sm-6 col-md-4">
+<nav class="sociallinks">
+<h3>Folgen Sie uns auf</h3>
+<ul>
+<li><a href="https://www.instagram.com/dhbw.dualstudieren/"><span class="icon-social-instagram icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">Instagram</span></a></li>
+<li><a href="http://www.youtube.com/user/DualeHochschuleBW"><span class="icon-social-youtube icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">YouTube</span></a></li>
+<li><a href="https://www.linkedin.com/school/duale-hochschule-baden-w%C3%BCrttemberg"><span class="icon-linkedin icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">LinkedIn</span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="page-footer-bottom">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-8"><a href="/startseite"><span class="icon-logo-inverted" data-grunticon-embed="data-grunticon-embed"></span></a>
+<p class="copyright">
+            © 2020 Duale Hochschule Baden-Württemberg
+          </p>
+</div>
+<div class="col-sm-4">
+<nav class="metalinks-footer">
+<ul><li><a href="/impressum-datenschutz">Impressum / Datenschutz</a></li></ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/vendor_body.min-0ad55fd1.js"></script>
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/app_body.min-5bf7f36f.js"></script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.dhbw.de"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.dhbw.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img alt="" src="//www.dhbw.de/piwik/piwik.php?idsite=1" style="border:0;"/></p></noscript>
+<!-- End Piwik Code -->
+</body>
+</html>

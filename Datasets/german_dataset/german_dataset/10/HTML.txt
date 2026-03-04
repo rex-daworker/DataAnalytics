@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-de">
+<head>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="#043883" name="theme-color"/>
+<meta charset="utf-8"/>
+<base href="https://lebensmittelpraxis.de/top-30-unternehmen-im-leh.html"/>
+<meta content="Einzelhandel, Top 30, Ranking, Umsatz, Umsätze" name="keywords"/>
+<meta content="LEBENSMITTEL PRAXIS" name="rights"/>
+<meta content="article" name="og:type"/>
+<meta content="Lebensmittel Praxis" name="og:site_name"/>
+<meta content="Lebensmittel Praxis" name="author"/>
+<meta content="In der Fußball-Bundesligatabelle ist mehr los. Das Ranking der Top 30 der deutschen Lebensmittelhändler verändert sich auf den vorderen Plätzen nicht. Konzentration ..." name="description"/>
+<title>Top 30 Unternehmen im LEH - Lebensmittel Praxis</title>
+<link href="/templates/lp2018/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="https://lebensmittelpraxis.de/component/search/?Itemid=1102&amp;format=opensearch" rel="search" title="Suchen Lebensmittel Praxis" type="application/opensearchdescription+xml"/>
+<link href="/media/plg_system_loginpopup/css/style.css" rel="stylesheet"/>
+<link href="https://lebensmittelpraxis.de//modules/mod_jooslider2018/tmpl/css/photoswipe.min.css" rel="stylesheet"/>
+<link href="https://lebensmittelpraxis.de//modules/mod_jooslider2018/tmpl/css/default-skin.css" rel="stylesheet"/>
+<link href="https://lebensmittelpraxis.de//modules/mod_jooslider2018/tmpl/css/jooslider.css" rel="stylesheet"/>
+<link href="/templates/lp2018/css/normalize.css?93587333d84dcfefcbd64f3cd3c6930f" rel="stylesheet"/>
+<link href="/templates/lp2018/css/template.css?93587333d84dcfefcbd64f3cd3c6930f" rel="stylesheet"/>
+<link href="https://lebensmittelpraxis.de/modules/mod_jooslickslider/tmpl/slick.css" rel="stylesheet"/>
+<link href="https://lebensmittelpraxis.de/modules/mod_jooslickslider/tmpl/slick-theme.css" rel="stylesheet"/>
+<link href="/plugins/system/cookiespolicynotificationbar/assets/css/cpnb-style.min.css" rel="stylesheet"/>
+<link href="/plugins/system/cookiespolicynotificationbar/assets/css/balloon.min.css" rel="stylesheet"/>
+<style>
+
+.commitbox {
+	margin: 0px auto
+	width: 100%;
+	text-align: center;
+	margin-bottom: 100px;
+}
+.commitnl{
+   margin-bottom: 100px; 
+   max-width: 50%;
+   margin: 0px auto; text-align: left
+} 
+.commitnl h3{
+    font-family: "Playfair Display", serif;
+    font-size: 1.75rem;
+    color: #111;
+    display: block;
+    font-weight: 400;
+	margin:0;
+}
+.commitnl hr{
+	border: 0;
+     height: 1px;
+
+background-color: #aaa; 
+} 
+
+.commitnl p{
+    color: #555;
+} 
+.commitnl p.zwei{
+    font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 50px;
+
+} 
+.cbutton{
+width: 100%;
+	  background: #7fb521;
+	  font-weight: bold;
+} 
+.commitnl p.drei{
+    font-size: 12px;
+	margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+
+.commitnl{
+   margin-bottom: 100px; 
+   max-width: 100%;
+   margin: 0px 15px;
+   padding-top: 30px;
+   text-align: left;
+}
+.cbutton{
+width: 100%;
+	  background: #7fb521;
+	  font-weight: bold;
+          border: 0px;
+          padding: 10px 0;
+          color: #fff;
+}
+}
+
+
+
+/* BEGIN: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com) */
+.cpnb-outer { border-color: rgba(32, 34, 38, 1); }
+.cpnb-outer.cpnb-div-position-top { border-bottom-width: 1px; }
+.cpnb-outer.cpnb-div-position-bottom { border-top-width: 1px; }
+.cpnb-outer.cpnb-div-position-top-left, .cpnb-outer.cpnb-div-position-top-right, .cpnb-outer.cpnb-div-position-bottom-left, .cpnb-outer.cpnb-div-position-bottom-right { border-width: 1px; }
+.cpnb-message { color: #f1f1f3; }
+.cpnb-message a { color: #ffffff }
+.cpnb-button, .cpnb-button-ok, .cpnb-m-enableAllButton { -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; font-size: 18px; color: #ffffff; background-color: rgba(28, 115, 7, 1); }
+.cpnb-button:hover, .cpnb-button:focus, .cpnb-button-ok:hover, .cpnb-button-ok:focus, .cpnb-m-enableAllButton:hover, .cpnb-m-enableAllButton:focus { color: #ffffff; background-color: rgba(21, 87, 5, 1); }
+.cpnb-button-decline, .cpnb-button-delete, .cpnb-button-decline-modal, .cpnb-m-DeclineAllButton { color: #555555; background-color: rgba(119, 31, 31, 0); }
+.cpnb-button-decline:hover, .cpnb-button-decline:focus, .cpnb-button-delete:hover, .cpnb-button-delete:focus, .cpnb-button-decline-modal:hover, .cpnb-button-decline-modal:focus, .cpnb-m-DeclineAllButton:hover, .cpnb-m-DeclineAllButton:focus { color: #cccccc; background-color: rgba(175, 38, 255, 0); }
+.cpnb-button-cancel, .cpnb-button-reload, .cpnb-button-cancel-modal { color: #ffffff; background-color: rgba(90, 90, 90, 1); }
+.cpnb-button-cancel:hover, .cpnb-button-cancel:focus, .cpnb-button-reload:hover, .cpnb-button-reload:focus, .cpnb-button-cancel-modal:hover, .cpnb-button-cancel-modal:focus { color: #ffffff; background-color: rgba(54, 54, 54, 1); }
+.cpnb-button-settings, .cpnb-button-settings-modal { color: #ffffff; background-color: rgba(50, 58, 69, 0.3); }
+.cpnb-button-settings:hover, .cpnb-button-settings:focus, .cpnb-button-settings-modal:hover, .cpnb-button-settings-modal:focus { color: #ffffff; background-color: rgba(32, 34, 38, 1); }
+.cpnb-button-more-default, .cpnb-button-more-modal { color: #ffffff; background-color: rgba(50, 58, 69, 0.3); }
+.cpnb-button-more-default:hover, .cpnb-button-more-modal:hover, .cpnb-button-more-default:focus, .cpnb-button-more-modal:focus { color: #ffffff; background-color: rgba(32, 34, 38, 1); }
+.cpnb-m-SaveChangesButton { color: #555555; background-color: rgba(133, 199, 136, 0); }
+.cpnb-m-SaveChangesButton:hover, .cpnb-m-SaveChangesButton:focus { color: #cccccc; background-color: rgba(96, 153, 100, 0); }
+@media only screen and (max-width: 600px) {
+.cpnb-left-menu-toggle::after, .cpnb-left-menu-toggle-button {
+content: "Categories";
+}
+}
+/* END: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com) */
+
+	</style>
+<script class="joomla-script-options new" type="application/json">{"csrf.token":"72dc403310b3afea15f7e692e1e9bf27","system.paths":{"root":"","base":""},"system.keepalive":{"interval":1140000,"uri":"\/component\/ajax\/?format=json"}}</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="/plugins/system/jqueryeasy/jquerynoconflict.js"></script>
+<script src="/media/system/js/core.js?93587333d84dcfefcbd64f3cd3c6930f"></script>
+<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?93587333d84dcfefcbd64f3cd3c6930f"></script><![endif]-->
+<script src="/media/system/js/keepalive.js?93587333d84dcfefcbd64f3cd3c6930f"></script>
+<script src="/media/plg_system_loginpopup/js/script.js"></script>
+<script src="https://lebensmittelpraxis.de//modules/mod_jooslider2018/js/photoswipe.min.js"></script>
+<script src="https://lebensmittelpraxis.de//modules/mod_jooslider2018/js/photoswipe-ui-default.min.js"></script>
+<!--[if lt IE 9]><script src="/templates/lp2018/js/html5.js?93587333d84dcfefcbd64f3cd3c6930f"></script><![endif]-->
+<script src="https://lebensmittelpraxis.de/modules/mod_jooslickslider/tmpl/slick.js"></script>
+<script src="/plugins/system/cookiespolicynotificationbar/assets/js/cookies-policy-notification-bar.min.js"></script>
+<script>
+jQuery(document).ready(function() {
+	ExtStore.LoginPopup.offset_top	= 50;
+	jQuery('a[href="#login"], a[href="#logout"]').click(function(event) {
+		ExtStore.LoginPopup.open();
+
+		event.stopPropagation();
+		event.preventDefault();
+	});
+
+	jQuery('#lp-overlay, .lp-close').click(function() {
+		ExtStore.LoginPopup.close();
+	});
+}); var $ = jQuery.noConflict();
+    jQuery(document).ready(function($){           
+            $("#createdir").click(function(){
+                $("#ajaxcontent").load("https://lebensmittelpraxis.de/modules/mod_acyrecommit/assets/updateabo.php",
+                    {
+                        ajaxpost: ",,"
+                    }
+                );
+            });
+        });
+
+// BEGIN: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com)
+var cpnb_config = {"w357_position":"center","w357_hide_after_time":"display_always","w357_duration":"60","w357_animate_duration":"1000","w357_limit":"0","w357_message":"Durch die Nutzung dieser Webseite erklären Sie sich damit einverstanden, dass Cookies gesetzt werden.","w357_display_ok_btn":"1","w357_buttonText":"Alle akzeptieren","w357_display_decline_btn":"0","w357_buttonDeclineText":"Ablehnen","w357_display_cancel_btn":"0","w357_buttonCancelText":"Schließen","w357_display_settings_btn":"1","w357_buttonSettingsText":"Einstellungen","w357_buttonMoreText":"Weitere Infos","w357_buttonMoreLink":"","w357_display_more_info_btn":"1","w357_fontColor":"#f1f1f3","w357_linkColor":"#ffffff","w357_fontSize":"18px","w357_backgroundColor":"rgba(50, 58, 69, 0.9)","w357_borderWidth":"1","w357_body_cover":"1","w357_overlay_state":"1","w357_overlay_color":"rgba(10, 10, 10, 0.3)","w357_height":"500px","w357_cookie_name":"cookiesDirective","w357_link_target":"_self","w357_popup_width":"800","w357_popup_height":"600","w357_customText":"\u003Ch1\u003EVereinbarung zur Verwendung von Cookies\u003C\/h1\u003E\r\n\u003Chr \/\u003E\r\n\u003Ch3\u003EAllgemeine Verwendung\u003C\/h3\u003E\r\n\u003Cp\u003EWir verwenden Cookies und ähnliche Technologien, damit bei Ihrem Besuch unsere Webseite technisch funktioniert (z.B. durch Speicherung Ihrer bevorzugten Seiten oder Kategorien, um Ihnen diese gezielter anzuzeigen) und um Ihnen ein optimiertes und individualisiertes Online-Angebot zu bieten. Außerdem binden wir so die Tools von Kooperationspartnern für Statistiken zur Nutzung unserer Webseite, zur Leistungsmessung sowie zum Anzeigen relevanter Inhalte ein. Durch Klicken auf \u0022Akzeptieren\u0022 stimmen Sie dem Einsatz von Cookies und ähnlichen Technologien zu den vorgenannten Zwecken zu. Durch Klicken auf „Einstellungen“ können Sie eine individuelle Auswahl treffen und erteilte Einwilligungen jederzeit für die Zukunft widerrufen. Nähere Informationen, insbesondere zu Einstellungs- und Widerspruchsmöglichkeiten, erhalten Sie in unserer \u003Ca title=\u0022Datenschutzerklärung\u0022 href=\u0022kommunikation\/datenschutzerklaerung.html\u0022\u003EDatenschutzerklärung\u003C\/a\u003E | \u003Ca title=\u0022Impressum\u0022 href=\u0022kommunikation\/impressum.html\u0022\u003EImpressum\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Ch3\u003EDritt-Anbieter\u003C\/h3\u003E\r\n\u003Cp\u003EUnsere Website nutzt verschiedene Dienste von Dritt-Anbietern. Wenn Sie auf unserer Website sind, können diese Dienste anonyme Cookies im Browser des Benutzers ablegen und diese Cookies mit in der Cookie-Datei des Besuchers speichern. Im Folgenden eine Liste einiger derartiger Dienste: Google, Facebook, Twitter und andere soziale Netzwerke, Anzeigen-Agenturen, Sicherheits-Software wie z.B. Firewalls, Datenanalyse-Unternehmen und Anbieter von Internetzugängen.\u003C\/p\u003E\r\n\u003Chr \/\u003E","w357_more_info_btn_type":"custom_text","w357_blockCookies":"1","w357_autoAcceptAfterScrolling":"0","w357_numOfScrolledPixelsBeforeAutoAccept":"300","w357_reloadPageAfterAccept":"1","w357_enableConfirmationAlerts":"0","w357_enableConfirmationAlertsForAcceptBtn":0,"w357_enableConfirmationAlertsForDeclineBtn":0,"w357_enableConfirmationAlertsForDeleteBtn":0,"w357_confirm_allow_msg":"Hiermit erlauben Sie, dass diese Website in diesem Browser Cookies setzen und verwenden darf. Sind Sie sicher, dass Sie diese Funktion aktivieren und erlauben möchten?","w357_confirm_delete_msg":"Hiermit löschen Sie die von dieser Website in diesem Browser gesetzen Cookies. Sind Sie sicher, dass Sie alle Cookies dieser Website deaktivieren und löschen möchten?","w357_show_in_iframes":"0","w357_shortcode_is_enabled_on_this_page":0,"w357_base_url":"https:\/\/lebensmittelpraxis.de\/","w357_current_url":"https:\/\/lebensmittelpraxis.de\/top-30-unternehmen-im-leh.html","w357_always_display":"0","w357_show_notification_bar":true,"w357_expiration_cookieSettings":"365","w357_expiration_cookieAccept":"365","w357_expiration_cookieDecline":"180","w357_expiration_cookieCancel":"3","w357_accept_button_class_notification_bar":"cpnb-accept-btn","w357_decline_button_class_notification_bar":"cpnb-decline-btn","w357_cancel_button_class_notification_bar":"cpnb-cancel-btn","w357_settings_button_class_notification_bar":"cpnb-settings-btn","w357_moreinfo_button_class_notification_bar":"cpnb-moreinfo-btn","w357_accept_button_class_notification_bar_modal_window":"cpnb-accept-btn-m","w357_decline_button_class_notification_bar_modal_window":"cpnb-decline-btn-m","w357_save_button_class_notification_bar_modal_window":"cpnb-save-btn-m"};
+// END: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com)
+
+
+// BEGIN: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com)
+var cpnb_cookiesCategories = {"cookie_categories_group0":{"cookie_category_id":"required-cookies","cookie_category_name":"Erforderliche Cookies","cookie_category_description":"Unbedingt erforderliche Cookies gewährleisten Funktionen, ohne die Sie unsere Webseite nicht wie vorgesehen nutzen können. Diese Cookies dienen zum Beispiel dazu, dass Sie als angemeldeter Nutzer bei Zugriff auf verschiedene Unterseiten unserer Webseite stets angemeldet bleiben und so nicht jedes Mal bei Aufruf einer neuen Seite Ihre Anmeldedaten erneut eingeben müssen. Weitere Informationen dazu finden Sie in unserer Datenschutzerklärung.","cookie_category_checked_by_default":"2","cookie_category_status":"1"},"cookie_categories_group1":{"cookie_category_id":"analytical-cookies","cookie_category_name":"Analytische Cookies","cookie_category_description":"Cookies für statistische Analysen sammeln auf Basis einer zufälligen Kennung pseudonymisierte Informationen darüber, wie unsere Webseite genutzt wird, um deren Attraktivität, Inhalt und Funktionalität zu verbessern. Diese Cookies helfen uns, zu bestimmen, ob, welche, wie oft und wie lange Unterseiten unserer Webseite besucht werden und für welche Inhalte sich Nutzer besonders interessieren. Erfasst werden weiterhin z.B. Suchbegriffe, das Land oder die Region aus der der Zugriff erfolgt, sowie der Anteil von mobilen Endgeräten, die auf unsere Webseiten zugreifen. Wir erstellen anhand dieser Informationen Statistiken, um die Inhalte unserer Webseite gezielter auf Ihre Bedürfnisse abzustimmen und unser Angebot zu optimieren. Sie können dieser Verarbeitung hier widersprechen. Weitere Informationen dazu finden Sie in unserer Datenschutzerklärung.","cookie_category_checked_by_default":"0","cookie_category_status":"1"},"cookie_categories_group2":{"cookie_category_id":"social-media-cookies","cookie_category_name":"Soziale Medien","cookie_category_description":"Diese Cookies sollen es Benutzern ermöglichen, Seiten und Inhalte über soziale Netzwerke wie Facebook, Twitter oder Instagram mit Dritten zu teilen. Sie ermöglichen darüber hinaus auch die gezielte Ausrichtung der Werbung in sozialen Netzwerken. Unsere Website verwendet zudem auch Plug-ins bzw. Soziale Medien-Schaltflächen. Social Media Plug-ins ermöglichen insbesondere die erleichterte Weitergabe von Seiten und Inhalten unserer Website im Rahmen der verschiedenen sozialen Netzwerke. Beispielsweise können Sie von unserer Website stammende Informationen mit einem „Gefällt mir“ markieren („liken“) und sie mit Ihren Freunden in sozialen Netzwerken teilen. Zu diesem Zweck verwenden die Plug-ins Cookies, mit deren Hilfe die Navigation der Internetnutzer nachverfolgt werden, ungeachtet der Frage, ob Sie Benutzer dieser sozialen Medien sind, und unabhängig davon, ob Sie während Ihrer Navigation bei dem sozialen Netzwerk angemeldet sind. Diese Cookies ermöglichen auch die gezielte Ausrichtung der Werbung auf diesen Plattformen. Sie können dieser Verarbeitung hier widersprechen. Weitere Informationen dazu finden Sie in unserer Datenschutzerklärung.","cookie_category_checked_by_default":"0","cookie_category_status":"1"},"cookie_categories_group3":{"cookie_category_id":"targeted-advertisTargeted Advertising Cookiesing-cookies","cookie_category_name":"Cookies für gezielte Werbung","cookie_category_description":"Diese Cookies können über unsere Website von unseren Werbepartnern gesetzt werden. Die Absicht besteht darin, relevante und ansprechende Anzeigen für den einzelnen Nutzer anzuzeigen und somit für Nutzer, Publisher und Werbetreibende von Drittanbietern nützlicher zu sein. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben. Sie können dieser Verarbeitung hier widersprechen. Weitere Informationen dazu finden Sie in unserer Datenschutzerklärung.","cookie_category_checked_by_default":"0","cookie_category_status":"1"}};
+// END: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com)
+
+
+// BEGIN: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com)
+var cpnb_manager = {"w357_m_modalState":"1","w357_m_floatButtonState":"1","w357_m_floatButtonPosition":"bottom_left","w357_m_HashLink":"cookies","w357_m_modal_menuItemSelectedBgColor":"rgba(200, 200, 200, 1)","w357_m_saveChangesButtonColorAfterChange":"rgba(255, 255, 255, 1)","w357_m_floatButtonIconSrc":"https:\/\/lebensmittelpraxis.de\/plugins\/system\/cookiespolicynotificationbar\/assets\/icons\/cpnb-cookies-manager-icon-1-64x64.png","w357_m_floatButtonText":"Cookie Manager","w357_m_modalHeadingText":"Erweiterte Cookie Einstellungen","w357_m_checkboxText":"Aktiviert","w357_m_lockedText":"(Gesperrt)","w357_m_EnableAllButtonText":"Alle Cookies akzeptieren","w357_m_DeclineAllButtonText":"Alle Cookies ablehnen","w357_m_SaveChangesButtonText":"Einstellungen speichern","w357_m_confirmationAlertRequiredCookies":"Diese Cookies sind für diese Website unbedingt erforderlich. Sie können diese Kategorie von Cookies nicht deaktivieren. Vielen Dank für Ihr Verständnis!"};
+// END: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.com)
+
+	</script>
+<meta content="Deutsche Lebensmittelhändler: Top 30 Unternehmen" property="og:title"/>
+<meta content="https://lebensmittelpraxis.de/images/2019_bilder/top30_2018.png" property="og:image"/>
+<meta content="https://lebensmittelpraxis.de/top-30-unternehmen-im-leh.html" property="og:url"/>
+<meta content="In der Fußball-Bundesligatabelle ist mehr los. Das Ranking der Top 30 der deutschen Lebensmittelhändler verändert sich auf den vorderen Plätzen nicht. " property="og:description"/>
+<meta content="966242223397117" property="fb:app_id"/>
+<meta content="article" property="og:type"/>
+<meta content="Lebensmittel Praxis" property="og:site_name"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<!-- <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script> -->
+<script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        // Konfigurationsblock adlib
+        var Ads_BA_ADIDsite="lebensmittelpraxis.de"; 
+        var Ads_BA_ADIDsection="rotation"; // Rubrikkuerzel
+        var Ads_BA_keyword=''; // Targeting-Kriterium
+
+    </script>
+<!-- <script src="/templates/lp2018/js/lebensmittelpraxis_lep_adlib.js"></script>-->
+<!--  <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-1187029-7']);
+          _gaq.push (['_gat._anonymizeIp']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+    </script>-->
+<!--<script type="text/javascript">
+  var _paq = window._paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//lpvserver.de/stats/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>-->
+<!-- BEGIN: Google Analytics -->
+<!-- The cookies have been disabled. -->
+<!-- END: Google Analytics -->
+<!-- BEGIN: Facebook -->
+<!-- The cookies have been disabled. -->
+<!-- END: Facebook -->
+<!-- BEGIN: BusinessAd -->
+<!-- The cookies have been disabled. -->
+<!-- END: BusinessAd -->
+</head>
+<body>
+<header class="">
+<div id="topbanner">
+<div class="anztxt" id="anzlabel_BS"><span>Anzeige</span>
+<div class="adtag" id="Ads_BA_BS">
+<script type="text/javascript">Ads_BA_AD('BS');</script>
+</div>
+</div>
+</div>
+<div class="navigation">
+<ul class="menu-top1"><li class="item-342"><a href="/newsletter.html" title="Newsletter LPCompact bestellen">Newsletter</a></li><li class="item-1441"><a href="/abo.html">Abo</a></li><li class="item-1451"><a href="/lp-plus-sep2/e-paper.html">E-Paper</a></li><li class="item-343"><a href="/mediadaten.html">Mediadaten</a></li><li class="item-943"><a href="http://www.lpv-shop.de" rel="sponsored nofollow noopener noreferrer" target="_blank" title="LPV-Shop">Shop</a></li><li class="item-1209"><a href="/kommunikation/kontakt.html">Kontakt</a></li><li class="item-1440"><a href="#login">Login/Logout</a></li></ul>
+<div class="logo"><a href="https://lebensmittelpraxis.de/"> <img alt="Lebensmittel Praxis" src="/./templates/lp2018/images/lp-logo.png" title="Lebensmittel Praxis"/> </a></div>
+<ul class="menu"><li class="item-284"><a href="/">Nachrichten</a></li><li class="item-347"><a href="/handel-aktuell.html" title="Nachrichten zum Lebensmittelhandel">Handel</a></li><li class="item-348"><a href="/industrie-aktuell.html" title="Nachrichten zur Lebensmittelindustrie">Hersteller</a></li><li class="item-1436 deeper parent"><a href="#">Produkte▾</a><ul><li class="item-1437"><a href="/np/dbank.html">Neue Produkte Übersicht</a></li><li class="item-1438"><a href="/np/produkt-eintragen.html">Produkt eintragen</a></li><li class="item-885"><a href="/update-buchung.html" title="Buchen Sie Ihren Produkteintrag im Newsletter update - Neue Produkte">Produkteintrag im Newsletter "update"</a></li><li class="item-1477"><a href="/produkt-des-jahres-2020.html">Produkt des Jahres 2020</a></li><li class="item-1800"><a href="/np/hit-2020.html">HIT 2020</a></li></ul></li><li class="item-1448 deeper parent"><a href="#">Veranstaltungen▾</a><ul><li class="item-333"><a href="/veranstaltungen-lebensmittelbranche/veranstaltungskalender.html">Veranstaltungskalender</a></li><li class="item-1596"><a href="/akademie.html">Akademie</a></li><li class="item-334"><a href="/veranstaltungen-lebensmittelbranche/rueckblick.html">Rückblick</a></li><li class="item-1684"><a href="/veranstaltungen-lebensmittelbranche/jetzt-bewerben.html">Jetzt bewerben</a></li></ul></li><li class="item-1447 deeper parent"><a href="#">LP-Plus▾</a><ul><li class="item-344"><a href="/lp-plus-sep2/ueber-lebensmittel-praxis.html">Über Lebensmittel Praxis</a></li><li class="item-1478"><a href="/mediadaten.html">Mediadaten</a></li><li class="item-339"><a href="/lp-plus-sep2/ausgaben.html">Ausgaben</a></li><li class="item-340"><a href="/lp-plus-sep2/e-paper.html">E-Paper</a></li><li class="item-1076"><a href="https://www.facebook.com/news.lebensmittelpraxis/" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Facebook">Facebook</a></li><li class="item-1077"><a href="https://twitter.com/lmpraxis" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Twitter">Twitter</a></li><li class="item-350"><a href="http://www.lpv-shop.de" rel="sponsored nofollow noopener noreferrer" target="_blank">Shop</a></li></ul></li><li class="item-1446"><a href="/lptv.html" title="LP TV">LP TV</a></li></ul>
+<div class="searchmod-main">
+<form action="/top-30-unternehmen-im-leh.html" class="form-inline" method="post">
+<input name="searchword" onblur="if (this.value=='') this.value='Suchen...';" onfocus="if (this.value=='Suchen...') this.value='';" type="text" value="Suchen..."/> <button class="modal-button-inner" id="myBtn-main" onclick="this.form.searchword.focus();"><img src="/./templates/lp2018/images/magnifier.svg"/></button> <input name="task" type="hidden" value="search"/>
+<input name="option" type="hidden" value="com_search"/>
+<input name="Itemid" type="hidden" value="1102"/>
+</form>
+</div>
+</div>
+<nav class="">
+<div class="navigation2">
+<div class="logo2"><a href="https://lebensmittelpraxis.de/"> <img alt="Lebensmittel Praxis" src="/./templates/lp2018/images/lp-logo2.png" title="Lebensmittel Praxis"/> </a>
+<ul class="menu"><li class="item-284"><a href="/">Nachrichten</a></li><li class="item-347"><a href="/handel-aktuell.html" title="Nachrichten zum Lebensmittelhandel">Handel</a></li><li class="item-348"><a href="/industrie-aktuell.html" title="Nachrichten zur Lebensmittelindustrie">Hersteller</a></li><li class="item-1436 deeper parent"><a href="#">Produkte▾</a><ul><li class="item-1437"><a href="/np/dbank.html">Neue Produkte Übersicht</a></li><li class="item-1438"><a href="/np/produkt-eintragen.html">Produkt eintragen</a></li><li class="item-885"><a href="/update-buchung.html" title="Buchen Sie Ihren Produkteintrag im Newsletter update - Neue Produkte">Produkteintrag im Newsletter "update"</a></li><li class="item-1477"><a href="/produkt-des-jahres-2020.html">Produkt des Jahres 2020</a></li><li class="item-1800"><a href="/np/hit-2020.html">HIT 2020</a></li></ul></li><li class="item-1448 deeper parent"><a href="#">Veranstaltungen▾</a><ul><li class="item-333"><a href="/veranstaltungen-lebensmittelbranche/veranstaltungskalender.html">Veranstaltungskalender</a></li><li class="item-1596"><a href="/akademie.html">Akademie</a></li><li class="item-334"><a href="/veranstaltungen-lebensmittelbranche/rueckblick.html">Rückblick</a></li><li class="item-1684"><a href="/veranstaltungen-lebensmittelbranche/jetzt-bewerben.html">Jetzt bewerben</a></li></ul></li><li class="item-1447 deeper parent"><a href="#">LP-Plus▾</a><ul><li class="item-344"><a href="/lp-plus-sep2/ueber-lebensmittel-praxis.html">Über Lebensmittel Praxis</a></li><li class="item-1478"><a href="/mediadaten.html">Mediadaten</a></li><li class="item-339"><a href="/lp-plus-sep2/ausgaben.html">Ausgaben</a></li><li class="item-340"><a href="/lp-plus-sep2/e-paper.html">E-Paper</a></li><li class="item-1076"><a href="https://www.facebook.com/news.lebensmittelpraxis/" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Facebook">Facebook</a></li><li class="item-1077"><a href="https://twitter.com/lmpraxis" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Twitter">Twitter</a></li><li class="item-350"><a href="http://www.lpv-shop.de" rel="sponsored nofollow noopener noreferrer" target="_blank">Shop</a></li></ul></li><li class="item-1446"><a href="/lptv.html" title="LP TV">LP TV</a></li></ul>
+<button class="modal-button-mo" id="myBtn"><img src="/./templates/lp2018/images/lumenu.svg"/></button>
+<div class="modal" id="myModal">
+<div class="modal-content">
+<div class="modalmenu_mod1"><ul class="menu-top1"><li class="item-342"><a href="/newsletter.html" title="Newsletter LPCompact bestellen">Newsletter</a></li><li class="item-1441"><a href="/abo.html">Abo</a></li><li class="item-1451"><a href="/lp-plus-sep2/e-paper.html">E-Paper</a></li><li class="item-343"><a href="/mediadaten.html">Mediadaten</a></li><li class="item-943"><a href="http://www.lpv-shop.de" rel="sponsored nofollow noopener noreferrer" target="_blank" title="LPV-Shop">Shop</a></li><li class="item-1209"><a href="/kommunikation/kontakt.html">Kontakt</a></li><li class="item-1440"><a href="#login">Login/Logout</a></li></ul>
+</div>
+<div class="close">×</div>
+<div class="searchmod">
+<form action="/top-30-unternehmen-im-leh.html" class="form-inline" method="post">
+<input name="searchword" onblur="if (this.value=='') this.value='Suchen...';" onfocus="if (this.value=='Suchen...') this.value='';" type="text" value="Suchen..."/> <button class="modal-button-inner" id="myBtn" onclick="this.form.searchword.focus();"><img src="/./templates/lp2018/images/magnifier.svg"/></button> <input name="task" type="hidden" value="search"/>
+<input name="option" type="hidden" value="com_search"/>
+<input name="Itemid" type="hidden" value="1102"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<main id="content" role="main">
+<article>
+<div class="inner">
+<div class="anztxt" id="anzlabel_FLB"><span>Anzeige</span>
+<div class="adtag" id="Ads_BA_FLB">
+<script type="text/javascript">Ads_BA_AD('FLB');</script>
+</div>
+</div>
+<!--<div id="system-message-container">
+	</div>
+-->
+<!-- -->
+<header>
+<h1>
+<span class="subline">Deutsche Lebensmittelhändler</span>    
+            Top 30 Unternehmen             
+	</h1>
+</header>
+<div class="red-date-max-article">Lebensmittel Praxis | 15. März 2019 </div>
+<div class="jooSlider">
+<style>.artikel {top: -30px;}</style>
+<div class="slide">
+<button id="btn"><img src="https://lebensmittelpraxis.de/modules/mod_jooslider2018/tmpl/css/fullsizekl.png" title="Komplettes Bild anzeigen"/></button>
+<figure class="cap-bot">
+<img alt="Deutsche Lebensmittelhändler: Top 30 Unternehmen" src="https://lebensmittelpraxis.de/images/2019_bilder/top30_2018.png"/>
+<figcaption>
+                    Bildquelle: Lebensmittel Praxis / Tradedimensions            </figcaption>
+</figure>
+</div>
+</div>
+<div class="artikel">
+<div class="teaser teaserinner">
+<p>In der Fußball-Bundesligatabelle ist mehr los. Das Ranking der Top 30 der deutschen Lebensmittelhändler verändert sich auf den vorderen Plätzen nicht. Konzentration und Marktmacht werden überdeutlich.</p>
+</div>
+<div class="sharebuttons">
+<a class="fa fa-facebook" href="http://www.facebook.com/sharer.php?u=https://lebensmittelpraxis.de/top-30-unternehmen-im-leh.html&amp;t=Deutsche Lebensmittelhändler: Top 30 Unternehmen" rel="nofollow" target="blank" title="Beitrag auf Facebook teilen"><span>Facebook</span></a>
+<a class="fa fa-google" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=https://lebensmittelpraxis.de/top-30-unternehmen-im-leh.html&amp;title=Deutsche Lebensmittelhändler: Top 30 Unternehmen" rel="nofollow" target="blank" title="Beitrag auf Google+ teilen"><span>Google</span></a>
+<a class="fa fa-twitter" href="http://twitter.com/share?url=https://lebensmittelpraxis.de/top-30-unternehmen-im-leh.html&amp;title=Deutsche Lebensmittelhändler: Top 30 Unternehmen" rel="nofollow" target="blank" title="Beitrag auf Ttwitter teilen"><span>Twitter</span></a>
+<a class="fa fa-xing" href="https://www.xing.com/social_plugins/share/new?url=https://lebensmittelpraxis.de/top-30-unternehmen-im-leh.html" rel="nofollow" target="blank" title="Beitrag auf Xing teilen"><span>Xing</span></a>
+<div><a href="/top-30-unternehmen-im-leh.html?tmpl=component&amp;print=1" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Eintrag ausdrucken &lt; Deutsche Lebensmittelhändler::Top 30 Unternehmen &gt;"> <img alt="Drucken" src="/templates/lp2018/images/system/printButton.png"/> </a></div>
+<!--        <div><a href="/component/mailto/?tmpl=component&amp;template=lp2018&amp;link=103e6fc506a48a59e1f1d4cfa8737f2384aaf157" title="Link einem Freund via E-Mail senden" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/templates/lp2018/images/system/emailButton.png" alt="E-Mail" />	</a></div>-->
+</div>
+<div class="fulltext">
+<div class="werbung"> <div class="anztxt" id="anzlabel_CAD"><span>Anzeige</span>
+<div class="adtag" id="Ads_BA_CAD">
+<script type="text/javascript">Ads_BA_AD('CAD');</script>
+</div>
+</div>
+</div>
+<p>Ungleichgewicht: So beschreiben manche das Verhältnis zwischen Lieferanten und Lebensmittelhandel in Deutschland. Das Top-30-Ranking der größten deutschen Lebensmittelhändler scheint das zu unterstützen. Die fünf größten Lebensmittel- Handelskonzerne der Republik vereinen den Großteil der Umsätze im Lebensmittelhandel auf sich. Und diese Konzentration schreitet fort. Im nächsten Jahr wird Handelshof nicht mehr aufgeführt, da er seit Anfang 2019 zur Edeka gehört. Die Abstände von Edeka, Rewe, der Schwarz-Gruppe mit Lidl und Kaufland, Aldi oder Metro verändern sich im Ranking kaum. Sie verzeichneten 2018 Umsatzzuwächse. Trotz Konjunkturrisiken, Brexit und internationalen Handelshemmnissen erwartet Tradedimensions für den Handel auch in diesem Jahr stabiles Umsatzwachstum.
+</p><p>Die Top-30-Unternehmen des deutschen Lebensmittelhandels, erstellt von Nielsen Tradedimensions. Allgemein gilt: Die hier gezeigten Umsätze beinhalten alle Aktivitäten der jeweiligen Unternehmen im entsprechenden Jahr.
+</p><p>Mit einem Stern* gekennzeichnete Umsätze 2018 sind Schätzungen. Es können rundungsbedingte Abweichungen auftreten. </p><div class="tagbanner"></div><div class="tagbanner"></div><div class="tagbanner"></div><div class="tagbanner"></div><div class="tagbanner"></div>
+<p><span style="text-decoration: underline;"><strong>Rang - Unternehmen - Umsatz 2018 in Millionen Euro</strong></span></p>
+<p><strong>1 Edeka-Gruppe 58.884</strong><br/>Edeka-Regionalgesellschaften 43.651<br/>Netto 14.769<br/>Sonstige Geschäftsfelder 464<br/><strong>2 Rewe-Gruppe 44.132*</strong><br/>Rewe-Konzern 41.110*<br/>Vollsortiment 25.086*<br/>Penny 8.367*<br/>Sonstige Geschäftsfelder 7.657*<br/>Rewe Dortmund 3.022*<br/><strong>3 Schwarz-Gruppe 39.850*</strong><br/>Lidl 24.750*<br/>Kaufland 15.100*<br/><strong>4 Aldi-Gruppe1) 30.190*</strong><br/>Aldi Süd 17.000*<br/>Aldi Nord 13.190*<br/><strong>5 Metro-Gruppe 13.470*</strong><br/>Real 8.078*<br/>Metro C &amp; C 5.272*<br/>Rungis express 120*<br/><strong>6 Lekkerland 8.200*</strong><br/>7 dm 8.110<br/>8 Rossmann 6.660<br/>9 Globus 5.065<br/><strong>10 Bartels-Langness-Gruppe 5.028</strong>*<br/>Bartels-Langness 2.600*<br/>Citti2) 2.428<br/>11 Transgourmet Deutschland3) 3.953*<br/>12 Norma 3.582<br/>13 Müller 3.072<br/>14 Bünting 1.710<br/><strong>15 Dohle 1.550</strong><br/>Hit 1.350*<br/>Übrige Dohle-Mitglieder 200*<br/><strong>16 Netto Nord 1.168</strong><br/><strong>17 Tegut 1.137</strong><br/><strong>18 Dennree 1.035*</strong><br/><strong>19 Kaes 836</strong><br/><strong>20 Handelshof4) 730*</strong><br/><strong>21 Alnatura 645*</strong><br/><strong>22 Klaas + Kock5) 633*</strong><br/><strong>23 Wasgau 600*</strong><br/><strong>24 Lüning 595</strong><br/><strong>25 Fleggaard 541*</strong><br/><strong>26 Budnikowsky 499*</strong><br/><strong>27 Stroetmann 469</strong><br/><strong>28 Mix Markt 399</strong><br/><strong>29 Hamberger 384*</strong><br/><strong>30 Feneberg 337</strong></p>
+<p> </p>
+<p>1) Aldi-Gruppe: Neubewertung der Vorjahresumsätze aufgrund vorliegender Bilanzen.<br/>2) Citti: Neubewertung der Umsätze durch Zusammenfassung mit Chefs Culinar West.<br/>3) Transgourmet Deutschland: Neubewertung der Vorjahresumsätze.<br/>4) Handelshof: Zum Jahresanfang 2019 Übernahme durch Edeka.<br/>5) Klaas + Kock: Neubewertung des Vorjahresumsatzes aufgrund vorliegender Bilanzen.</p>
+<p> </p>
+<div class="kasten">
+<h6>Methodik</h6>
+<p>Methodik der Top 30 Lebensmittelhandel Deutschland Das Ranking der größten deutschen Lebensmittelhandelsunternehmen basiert auf Zahlenmaterial von Nielsen Tradedimensions, Frankfurt. Von Nielsen Tradedimensions geschätzte Umsätze sind mit Stern (*) gekennzeichnet (siehe Tabelle S. 16/17). Ausgewiesen werden im Inland getätigte Bruttoumsätze (inklusive Mehrwertsteuer). Bei Unternehmen, die nur Nettoumsätze publizieren, wurde auf Brutto hochgerechnet. Die Erlöse von Edeka und Rewe beinhalten die Umsätze des angeschlossenen selbstständigen Einzelhandels (SEH). Bei Unternehmen, deren Geschäftsjahr zum 30. Juni oder 30. September endet, wurden die Umsätze 2017/18 dem Kalenderjahr 2018 zugeordnet.</p>
+</div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p><div style="clear:both;"></div><div style="clear:both;"></div><div style="clear:both;"></div><div style="clear:both;"></div><div style="clear:both;"></div> </div>
+<div class="articletags">
+<div>Tags: </div> <ul class="tags inline">
+<a class="label label-info" href="/schlagwortliste/nielsen.html">
+<li class="tag-381 tag-list0" itemprop="keywords">
+					
+						Nielsen					
+				</li></a>
+<a class="label label-info" href="/schlagwortliste/deutscher-einzelhandel.html">
+<li class="tag-517 tag-list1" itemprop="keywords">
+					
+						Deutscher Einzelhandel					
+				</li></a>
+<a class="label label-info" href="/schlagwortliste/umsatz.html">
+<li class="tag-825 tag-list2" itemprop="keywords">
+					
+						Umsatz					
+				</li></a>
+</ul>
+</div>
+<ul class="pager pagenav">
+<li class="previous">
+<a href="/zentrale-management/24291-rewe-karaaslan-mediterrane-offensive.html" rel="prev">
+			zum vorherigen Artikel<i class="icon-chevron-left"></i> </a>
+</li>
+<li class="next">
+<a href="/zentrale-management/24027-personal-gesunde-streitkultur.html" rel="next">
+
+			zum nächsten Artikel<i class="icon-chevron-right"></i> </a>
+</li>
+</ul>
+</div>
+</div>
+<script>
+    jQuery(document).ready(function($){
+        $("figure").hover(function(){
+                if (!$(".artikel").hasClass('animated')) {
+                        $(".artikel").dequeue().stop().animate({ top: "20px" },400);
+                }
+        }, function() {
+            $(".artikel").addClass('animated').animate({ top: "-30px" }, 400, function() {
+                        $(".artikel").removeClass('animated').dequeue();
+                });
+        });
+         
+   
+   
+    $("button#btn").click( function(event){
+        event.preventDefault();
+        if ( $("figure").hasClass("isDown") ) {
+            $("figure").stop().animate({height:"430px"}, 400);
+            $("figure img").animate({margin:"-50px 0 0 0"}, 400);
+        } else {
+            $("figure").stop().animate({height:"596px"}, 400);
+            $("figure img").animate({margin:"0px 0 0 0"}, 400);
+        }
+        $("figure").toggleClass("isDown");
+        return false;
+    });
+   
+   
+    });
+</script>
+</article>
+</main>
+<section class="bottom">
+<div class="unten">
+<div class="moduletable-slickslider">
+<h3>Das könnte Sie auch interessieren</h3>
+<style>
+    .moduletable-slickslider {padding: 0px 25px;}
+    .jooSlickSlider{background: #efefef;}
+    .slider {width: 100%;margin: 15px  auto;/}
+    .slick-slide {margin: 0px 10px;}
+    .slick-slide img {width: 100%;border: 1px solid #ccc;margin-top:10px;}
+    .slick-slide a img:hover {border: 1px solid #023d87;}
+    .slick-prev:before,.slick-next:before {color: #000;}
+    .slick-slide {transition: all ease-in-out .3s;/*opacity: .2;*/}
+    .slick-active {/*opacity: .5;*/}
+    .slick-current {/*opacity: 1;*/}
+    .slick-slide a span {color: #000!important;}
+    span.datum {font-size: 11px;}
+    .moduletable-slickslider h3 {padding:0; margin:0 -25px;}
+
+@media only screen and (max-width: 600px) {
+  .slick-dots li{display:none;}
+  .moduletable-slickslider h3 {padding:0; margin:0 -10px;}
+
+}
+</style>
+<div class="jooSlickSlider">
+<div class="responsive slider">
+<div>
+<a class="hastip" href="/zentrale-management/28976-globus-vieles-neu-bei-globus.html" title="Globus: Vieles neu bei Globus ">
+<img align="left" alt="" src="/images/2020_bilder/Ausgabe18_2020/PK_Matthias_Bruch_.jpg" style=""/><br/><br/><span>Globus: </span>Vieles neu bei Globus 		  <br/><span class="datum">Veröffentlicht: 04.11.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/handel-aktuell/28533-einzelhandelsumsatz-waechst-um-1-5-prozent-2020-09-22-09-42-40.html" title="Einzelhandelsumsatz: Wächst um 1,5 Prozent">
+<img align="left" alt="" src="/images/tangoimport/86E071F9C63240998003AC43C208E6AF.jpg" style=""/><br/><br/><span>Einzelhandelsumsatz: </span>Wächst um 1,5 Prozent		  <br/><span class="datum">Veröffentlicht: 22.09.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/sortiment/28458-tiefkuehlkost-im-hochdruckgebiet.html" title="Tiefkühlkost: Im Hochdruckgebiet">
+<img align="left" alt="" src="/images/2020_bilder/Ausgabe14_2020/Aufmacherbild_Fischstaebchen.jpg" style=""/><br/><br/><span>Tiefkühlkost: </span>Im Hochdruckgebiet		  <br/><span class="datum">Veröffentlicht: 14.09.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/sortiment-aktuell/28388-speiseeis-deutliches-plus-im-handel-2020-09-07-10-22-35.html" title="Speiseeis: Deutliches Plus im Handel">
+<img align="left" alt="" src="/images/2020_bilder/newsletter/2020_09_Eiscreme.jpg" style=""/><br/><br/><span>Speiseeis: </span>Deutliches Plus im Handel		  <br/><span class="datum">Veröffentlicht: 07.09.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/28343-pernod-ricard-gewinneinbruch-weniger-dramatisch-2020-09-02-08-06-48.html" title="Pernod Ricard: Gewinneinbruch weniger dramatisch">
+<img align="left" alt="" src="/images/tangoimport/6A3C1F77E45847ED86D402082D00C3F7.jpg" style=""/><br/><br/><span>Pernod Ricard: </span>Gewinneinbruch weniger dramatisch		  <br/><span class="datum">Veröffentlicht: 02.09.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/28051-halbjahreszahlen-l-oreal-ist-belastbar-und-hat-solide-bilanzen-2020-07-31-12-54-37.html" title="Halbjahreszahlen: L’Oréal ist belastbar und hat solide Bilanzen">
+<img align="left" alt="" src="/images/tangoimport/843E2DA07501486584E9B50874824156.jpg" style=""/><br/><br/><span>Halbjahreszahlen: </span>L’Oréal ist belastbar und hat solide Bilanzen  ...		  <br/><span class="datum">Veröffentlicht: 31.07.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/28033-halbjahreszahlen-nestle-verzeichnet-gewinn-trotz-umsatzrueckgang-2020-07-30-08-06-34.html" title="Halbjahreszahlen: Nestlé verzeichnet Gewinn trotz Umsatzrückgang">
+<img align="left" alt="" src="/images/tangoimport/F47F11E17BB042C4B2559057FBA276B2.jpg" style=""/><br/><br/><span>Halbjahreszahlen: </span>Nestlé verzeichnet Gewinn trotz Umsatzrückgang		  <br/><span class="datum">Veröffentlicht: 30.07.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/27963-ernaehrungsindustrie-verzeichnet-umsatzplus-2020-07-22-12-46-01.html" title="Ernährungsindustrie : Verzeichnet Umsatzplus">
+<img align="left" alt="" src="/images/tangoimport/2C172A9EF13B41AD9158C145B65F900E.jpg" style=""/><br/><br/><span>Ernährungsindustrie : </span>Verzeichnet Umsatzplus		  <br/><span class="datum">Veröffentlicht: 22.07.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/27950-konsum-maske-daempft-die-kauflust-2020-07-21-10-37-36.html" title="Konsum: Maske dämpft die Kauflust">
+<img align="left" alt="" src="/images/tangoimport/A32DE2E662ED45E7BFEF37C25D0BD2A4.jpg" style=""/><br/><br/><span>Konsum: </span>Maske dämpft die Kauflust		  <br/><span class="datum">Veröffentlicht: 21.07.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/handel-aktuell/27808-nordrhein-westfalen-bringt-erlass-verkaufsoffene-sonntage-2020-07-08-08-14-03.html" title="Nordrhein-Westfalen bringt Erlass: Verkaufsoffene Sonntage">
+<img align="left" alt="" src="/images/tangoimport/9C7BFF4919B249AFAADF4177B070E635.jpg" style=""/><br/><br/><span>Nordrhein-Westfalen bringt Erlass: </span>Verkaufsoffene Sonntage		  <br/><span class="datum">Veröffentlicht: 08.07.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/27810-wisag-facility-service-2019-weiter-gewachsen-2020-07-08-09-40-23.html" title="Wisag Facility Service: 2019 weiter gewachsen">
+<img align="left" alt="" src="/images/tangoimport/F3DF9F1A6F7A4547B7AAAFB278F76C8D.jpg" style=""/><br/><br/><span>Wisag Facility Service: </span>2019 weiter gewachsen		  <br/><span class="datum">Veröffentlicht: 08.07.2020</span></a>
+</div>
+<div>
+<a class="hastip" href="/industrie-aktuell/27746-fleischindustrie-auf-hochtouren-2020-07-01-08-17-45.html" title="Fleischindustrie: Umsatzrekord im März">
+<img align="left" alt="" src="/images/tangoimport/90E6725448034655B8E0E53012460985.jpg" style=""/><br/><br/><span>Fleischindustrie: </span>Umsatzrekord im März		  <br/><span class="datum">Veröffentlicht: 01.07.2020</span></a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  $('.responsive').slick({
+  dots: true,
+  infinite: true,
+  speed: 1600,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 6000,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: true,
+        slidesToScroll: 3,
+        infinite: 3,
+        dots: true      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1      }
+    }
+  ]
+});
+    });
+</script> </div>
+</div>
+</section>
+<section class="bottom2">
+<div class="unten2">
+</div>
+</section>
+<section class="footer">
+<div class="footerinner">
+<div class="logofooter"><a href="#"> <img alt="Lebensmittel Praxis" src="/./templates/lp2018/images/lp-logo.png" title="Lebensmittel Praxis"/> </a></div>
+<div class="ende">
+</div>
+<hr class="line"/>
+<div class="ende">
+<ul class="menu-footer"><li class="item-354 deeper parent"><p class="separator">
+	Nachrichten</p>
+<ul><li class="item-355"><a href="/handel-aktuell.html">Handel</a></li><li class="item-356"><a href="/industrie-aktuell.html">Hersteller</a></li><li class="item-1119"><a href="/sortiment-aktuell.html">Sortiment</a></li><li class="item-1120"><a href="/personalien.html">Personalien</a></li></ul></li><li class="item-357 deeper parent"><p class="separator">
+	Über uns</p>
+<ul><li class="item-358"><a href="/lp-plus-sep2/ueber-lebensmittel-praxis.html">LPV-Verlag</a></li><li class="item-365"><a href="/ueber-uns-ueberschrift/redaktion.html">Redaktion</a></li></ul></li></ul>
+<ul class="menu-footer"><li class="item-359 deeper parent"><p class="separator">
+	Handel</p>
+<ul><li class="item-360"><a href="/management.html">Nachrichten</a></li><li class="item-370"><a href="/ladenreportagen.html">Ladenreportagen</a></li></ul></li><li class="item-1449 deeper parent"><p class="separator">
+	Hersteller</p>
+<ul><li class="item-1450"><a href="/industrie-aktuell.html">Nachrichten</a></li><li class="item-374"><a href="/np/dbank.html">Neue Produkte</a></li><li class="item-361"><a href="/?Itemid=324">Handelspartner</a></li><li class="item-364"><a href="/laenderreports.html">Länderreports</a></li><li class="item-363"><a href="/warenkunden.html">Warenkunden</a></li></ul></li><li class="item-362 deeper parent"><p class="separator">
+	Verkauf</p>
+<ul><li class="item-366"><a href="/produkt-des-jahres-2019.html">Produkt des Jahres</a></li><li class="item-367"><a href="/hit-2018.html">HIT</a></li></ul></li></ul>
+<ul class="menu-footer"><li class="item-368 deeper parent"><p class="separator">
+	Markt</p>
+<ul><li class="item-369"><a href="/sortiment.html">Sortiment</a></li><li class="item-371"><a href="/neue-laeden.html">Neue Läden</a></li></ul></li><li class="item-391 deeper parent"><p class="separator">
+	Interaktiv</p>
+<ul><li class="item-392"><a href="/newsletter.html">Newsletter</a></li><li class="item-540"><a href="/downloads.html">Downloads</a></li></ul></li></ul>
+<ul class="menu-footer"><li class="item-373 deeper parent"><p class="separator">
+	Datenbanken</p>
+<ul><li class="item-376"><a href="http://www.youtube.com/user/LebensmittelPraxis" rel="sponsored nofollow noopener noreferrer" target="_blank">Videos</a></li></ul></li><li class="item-377 deeper parent"><p class="separator">
+	Partnerangebote</p>
+<ul><li class="item-378"><a href="http://vhb.jobturbo.de/suchergebnis.aspx?idc=43&amp;idp=&amp;beruf=Lebensmittel%2c+Einzelhandel%2c+Fleisch%2c+Gro%C3%9Fhandel%2c+Food%2c+Non-Food&amp;ort=&amp;berufsfeld=&amp;tipp=&amp;zeitraum=7&amp;ts=true&amp;ps=0&amp;sm=or&amp;aktion=&amp;st=" rel="sponsored nofollow noopener noreferrer" target="_blank">Stellenanzeigen</a></li><li class="item-1225"><a href="http://bbe-media.de" rel="sponsored nofollow noopener noreferrer" target="_blank">BBE media</a></li><li class="item-1081"><a href="http://www.buntekuh-medien.de/" rel="sponsored nofollow noopener noreferrer" target="_blank" title="BUNTE KUH - Medien für Nahrungswirtschaft und Handel">BUNTEKUH</a></li><li class="item-776"><a href="http://convenienceshop.de" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Convenience Shop">Convenience Shop</a></li><li class="item-1226"><a href="http://www.regal.at" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Convenience Shop">Regal</a></li><li class="item-1227"><a href="https://www.wiadomoscihandlowe.pl" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Convenience Shop">Wiadomosci Handlowe</a></li><li class="item-705"><a href="http://www.topagrar.com/" rel="sponsored nofollow noopener noreferrer" target="_blank" title="top agrar online - Nachrichten aus der Landwirtschaft">top agrar</a></li><li class="item-788"><a href="http://www.hofdirekt.com" rel="sponsored nofollow noopener noreferrer" target="_blank" title="HOFdirekt">HOFdirekt</a></li></ul></li></ul>
+<ul class="menu-footer"><li class="item-380 deeper parent"><p class="separator">
+	Magazin</p>
+<ul><li class="item-381"><a href="/lp-plus-sep2/ausgaben.html">Ausgaben</a></li><li class="item-382"><a href="/lp-plus-sep2/e-paper.html">E-Paper</a></li><li class="item-383"><a href="/abo.html">Abo</a></li><li class="item-384"><a href="/mediadaten.html">Mediadaten</a></li></ul></li><li class="item-385 deeper parent"><p class="separator">
+	Kommunikation</p>
+<ul><li class="item-386"><a href="/kommunikation/kontakt.html">Kontakt</a></li><li class="item-387"><a href="/kommunikation/impressum.html">Impressum</a></li><li class="item-388"><a href="/kommunikation/datenschutzerklaerung.html">Datenschutzerklärung</a></li><li class="item-389"><a href="/kommunikation/nutzungsbedingungen.html">Nutzungsbedingungen</a></li><li class="item-390"><a href="/kommunikation/netiquette.html">Netiquette</a></li></ul></li><li class="item-1495"><a href="Http://www.lp-verlag.de" rel="sponsored nofollow noopener noreferrer" target="_blank" title="Lebensmittel Praxis Verlag">Verlag</a></li></ul>
+</div>
+<hr class="line"/>
+<p class="copyright">© Lebensmittel Praxis - LPV GmbH 2020<br/>Alle Rechte vorbehalten.</p>
+</div>
+</section>
+<div class="skyscraper"> <div class="anztxt" id="anzlabel_SKY"><span>Anzeige</span>
+<div class="adtag" id="Ads_BA_SKY">
+<script type="text/javascript">Ads_BA_AD('SKY');</script>
+</div>
+</div>
+</div>
+<script language="javascript" type="text/javascript">
+jQuery(document).ready(function($) {
+var banner = $( "#banner" ).height();
+$(".anztxt").css("opacity", "1");
+if ($('.mostread-eilmeldung li').length == 0) {
+//  alert('leer');
+$(".moduletable-eilmeldung").css("display", "none");
+}
+
+jQuery(window).load(function() {
+if (jQuery(window).width() > 1150) {
+            jQuery('.skyscraper').show();
+            var wiw = jQuery(window).innerWidth();
+            var abst = (wiw +1025) /2;
+            var abst2 = abst -160;
+            var hheight = jQuery( "#topbanner" ).height();
+            jQuery('.skyscraper').css('position', 'absolute');
+            jQuery('.skyscraper').css('top', hheight +'px');
+            jQuery('.skyscraper').css('left', abst +'px');
+            } else {
+                    jQuery('.skyscraper').hide();
+            } ;
+ 
+});
+jQuery(window).resize(function () {
+if (jQuery(window).width() > 1150) {
+            jQuery('.skyscraper').show();
+            var wiw = jQuery(window).innerWidth();
+            var abst = (wiw +1025) /2;
+            var abst2 = abst -160;
+            var hheight = jQuery( "#topbanner" ).height();
+            jQuery('.skyscraper').css('position', 'absolute');
+            jQuery('.skyscraper').css('top', hheight +'px');
+            jQuery('.skyscraper').css('left', abst +'px');
+            jQuery('.skyscraper').css('z-index','0');
+            } else {
+                    jQuery('.skyscraper').hide();
+            } ;
+ 
+});
+
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 150 + banner){  
+            $('nav').addClass("sticky");
+            $('.navigation2').css("display", "block");
+        } else {
+            $('nav').removeClass("sticky");
+            $('.navigation2').css("display", "none");
+            modal.style.display = "none";
+        }
+    });
+    $("main").delay(20).animate({"opacity": "1"}, 200);
+    $('.navigation2').css("display", "none");
+});
+
+var modal = document.getElementById('myModal');
+var btn = document.getElementById("myBtn");
+var span = document.getElementsByClassName("close")[0];
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+span.onclick = function() {
+    modal.style.display = "none";
+}
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+    
+
+}
+
+</script>
+<div id="lp-overlay"></div>
+<div class="lp-wrapper" id="lp-popup">
+<div class="lp-register-intro">
+<span style="color:red;">Noch kein Account?</span> <a href="/regi.html">Registrieren!</a>
+</div>
+<button class="lp-close" title="Close (Esc)" type="button">×</button>
+<form action="/top-30-unternehmen-im-leh.html" class="lp-form" method="post">
+<h3>Login</h3>
+<div class="lp-field-wrapper">
+<label for="lp-username">Benutzername *</label>
+<input class="lp-input-text lp-input-username" id="lp-username" name="username" placeholder="Benutzername" required="true" type="text"/>
+</div>
+<div class="lp-field-wrapper">
+<label for="lp-password">Passwort *</label>
+<input class="lp-input-text lp-input-password" id="lp-password" name="password" placeholder="Passwort" required="true" type="password"/>
+</div>
+<div class="lp-field-wrapper">
+<input class="lp-input-checkbox" id="lp-remember" name="remember" type="checkbox"/>
+<label for="lp-remember">Einstellungen behalten</label>
+</div>
+<div class="lp-button-wrapper clearfix">
+<div class="lp-left">
+<button class="lp-button" type="submit">Anmelden</button>
+</div>
+<ul class="lp-right lp-link-wrapper">
+<li>
+<a href="/regi.html?view=remind"><br/>Benutzername vergessen?</a>
+</li>
+<li><a href="/regi.html?view=reset">Passwort vergessen?</a></li>
+</ul>
+</div>
+<input name="option" type="hidden" value="com_users"/>
+<input name="task" type="hidden" value="user.login"/>
+<input name="return" type="hidden" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MjQ5MzYmSXRlbWlkPTExMDI="/>
+<input name="72dc403310b3afea15f7e692e1e9bf27" type="hidden" value="1"/> </form>
+</div></body>
+</html>

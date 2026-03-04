@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<title>Sprache, Bildung – und Erfolg? - Neuere Erkenntnisse aus der Forschung: Die Perspektive der Bildungsforschung: Goethe-Institut</title>
+<meta content="de" http-equiv="language"/>
+<link href="https://www.goethe.de/de/m/spr/mag/sta/20481610.html" media="only screen and (max-width: 640px)" rel="alternate"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width" name="viewport"/>
+<meta content="Anregungen für Deutschlernende / Deutschlehrende im Magazin: Rubriken u.a. Alltagssprache, Berufssprache, Didaktik, Online lernen, Spracherwerb" name="description"/> <meta content="Migration,Schule,Deutsch als Zweitsprache,Forschung,Bildung,Kindergarten,Gogolin,Sprachtest" name="keywords"/>
+<!-- Custom Localization for Shariff -->
+<script type="text/javascript">
+
+        var localizations = {
+            facebook: {
+                shareText: 'teilen',
+                title: 'Bei\x20Facebook\x20teilen'
+            },
+            twitter: {
+            	shareText: 'tweeten',
+                title: 'Bei\x20Twitter\x20teilen'
+            },
+            googleplus: {
+            	shareText: 'teilen',
+                title: 'Bei\x20Googleplus\x20teilen'
+            },
+            vkontakte: {
+            	shareText: 'teilen',
+                title: 'Bei\x20VKontakte\x20teilen'
+            }
+        };
+
+        function extendedLocalized(service, key, lang) {
+            try {
+                var returnString = localizations[service][key];
+                return returnString;
+            } catch (e) {
+                return undefined;
+            }
+        }
+
+    	</script>
+<script src="//www.goethe.de/resources/relaunch/js/jquery-3.4.1.min.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/jquery-migrate-3.1.0.min.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/gi/jquery.gi.top-merged.js"></script>
+<script>
+			
+
+            function anchorClick(anchorname){
+                $('html, body').animate({ scrollTop: $(anchorname).offset().top - 25 }, 'slow');
+				
+				$.redirectMobileURL('https://www.goethe.de/de/m/spr/mag/sta/20481610.html'+anchorname);
+			
+			}
+			
+				$.redirectMobileURL('https://www.goethe.de/de/m/spr/mag/sta/20481610.html');
+			
+		</script>
+<link href="//www.goethe.de/resources/relaunch/img/favicon.ico" rel="shortcut icon"/>
+<link href="//www.goethe.de/resources/relaunch/img/icon-16x16.png" rel="icon" sizes="16x16"/>
+<link href="//www.goethe.de/resources/relaunch/img/icon-16x16.ico" rel="shortcut icon" sizes="16x16" type="image/ico"/>
+<link href="//www.goethe.de/resources/relaunch/img/icon-32x32.ico" rel="shortcut icon" sizes="32x32" type="image/ico"/>
+<link href="//www.goethe.de/resources/relaunch/img/touch-icon-192x192.png" rel="icon" sizes="192x192"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="//www.goethe.de/resources/relaunch/img/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<link href="https://www.goethe.de/de/spr/mag/sta/20481610.html" hreflang="de" rel="alternate"/><link href="https://www.goethe.de/en/spr/mag/sta/20481610.html" hreflang="en" rel="alternate"/>
+<!-- $$customhtml:embeddedCodeLinks$$ -->
+<link href="//www.goethe.de/resources/relaunch/css/shariff.complete.css" rel="stylesheet" type="text/css"/>
+<link href="//www.goethe.de/resources/relaunch/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css"/>
+<link href="//www.goethe.de/resources/relaunch/css/flexslider.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="//www.goethe.de/resources/relaunch/css/dropkick.2.1.7.css" rel="stylesheet" type="text/css"/>
+<link href="//www.goethe.de/resources/relaunch/css/bootstrap-datepicker3.standalone.min.css" rel="stylesheet" type="text/css"/>
+<!-- $$customhtml:headLinks$$ -->
+<link href="//www.goethe.de/resources/relaunch/css/styles.001.css" rel="stylesheet" type="text/css"/>
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+			  <script src="//www.goethe.de/resources/relaunch/js/html5shiv.js"></script>
+			  <link rel="stylesheet" type="text/css" href="//www.goethe.de/resources/relaunch/css/styles_ie.css"/>
+			  	
+			<![endif]-->
+<!--[if IE 9]>
+			  <link rel="stylesheet" type="text/css" href="//www.goethe.de/resources/relaunch/css/styles_ie9.css"/>
+			  
+			<![endif]-->
+<style>
+				.hidden { display:none; }
+				.flexslider { border:0; box-shadow:none;}
+				.flex-control-nav { bottom:-30px; }
+
+				
+			</style>
+<!-- Facebook Meta -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="goethe.de" name="twitter:domain"/>
+<meta content="@GI_weltweit" name="twitter:site"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.goethe.de/de/spr/mag/sta/20481610.html" property="og:url"/>
+<meta content="http://www.goethe.de/resources/files/jpg400/Teaser_Bildungswissenschaften-formatkey-jpg-w983.jpg" property="og:image"/>
+<meta content="https://www.goethe.de/resources/files/jpg400/Teaser_Bildungswissenschaften-formatkey-jpg-w983.jpg" property="og:image:secure_url"/>
+<meta content="Sprache, Bildung – und Erfolg?" property="og:title"/>
+<meta content="de_DE" property="og:locale"/>
+<meta content="Welche Bedeutung haben sprachliche Fähigkeiten für Bildungserfolg – und, darüber hinausgehend: für gesellschaftliche Teilhabe? Dies ist eine Leitfrage der Bildungsforschung zur Sprachentwicklung – eine Suche nach Antworten mit neuen Erkenntnissen.&lt;br /&gt;
+&amp;nbsp;" property="og:description"/>
+<meta content="@GI_weltweit" property="og:site_name"/>
+<!-- Google Tag Manager -->
+<meta name="CONTENS CMS" pid="589887"/>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2020 (c) Relaunch Zentrale - Published by CONTENS 4.5.6 - www.contens.com
+Last Update: 2020-09-24 08:14 (Generated: 2020-10-07 12:39, Published: 2020-10-07 12:35)
+spr/mag/sta/20481610.html (PID: 589887 / FID: 21301842 / HTML / Public / de )
+<meta name="generator" content="CONTENS 4.5.6" />
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --></head>
+<body class="lp_201352 gi-global-head">
+<div class="masterContainer" dir="ltr">
+<h6 class="hide">Schnelleinstieg:</h6>
+<a accesskey="1" class="hide zeig" href="#inhalt" tabindex="1">Direkt zum Inhalt springen (Alt 1)</a><a accesskey="2" class="hide zeig" href="#hauptNavigation">Direkt zur Sekundärnavigation springen (Alt 3)</a><a accesskey="3" class="hide zeig" href="#sekundaerNavigation">Direkt zur Hauptnavigation springen (Alt 2)</a>
+<!-- Webtrekk 4.CONTENS, (c) www.webtrekk.de -->
+<!-- Webtrekk 4, (c) www.webtrekk.de -->
+<script src="//www.goethe.de/skripte/webtrekk_v4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+							var wt = new webtrekkV3(); 
+							wt.trackDomain = "goetheinstitut01.webtrekk.net";
+							wt.trackId = "382202390743064";
+							wt.domain = "REGEXP:\w*\.goethe.de";
+							wt.contentId = "www_goethe_de.de.spr.mag.sta.20481610";
+							wt.linkTrack = "standard";
+							wt.contentGroup = [null,"www.goethe.de","spr","mag","sta","20481610",null,null,null,"Länderübergreifend","Relaunch Zentrale",null,null,null,null,"Sprache, Bildung – und Erfolg?"];
+							wt.customParameter = [null,"de",null,null,null,null,null,null,null,null,null,null,null,null,"589887",null,"2","201352"];
+						</script>
+<script type="text/javascript">if(typeof(wt.sendinfo) != "undefined")wt.sendinfo();</script>
+<noscript><div><img alt="" height="1" src="//goetheinstitut01.webtrekk.net/382202390743064/wt.pl?p=212,&amp;ov=&amp;cr=&amp;oi=&amp;ba=&amp;co=&amp;qn=&amp;ca=&amp;pi=&amp;st=&amp;cd=&amp;cg=" width="1"/></div> </noscript>
+<!-- /Webtrekk -->
+<!-- /Webtrekk 4.CONTENS -->
+<header class="gi-header gi-header-desktop D(f) Al(ce) Jc(fs) Lh(1.5)">
+<div class="gi-header-i D(f) Al(ce) Jc(sb) Pos(r) Fw(now) m-lr-a" role="navigation">
+<div class="brand-c D(if) Al(ce)">
+<a class="logo-c" href="../../../../de/index.html">
+<svg class="logo-goethe-institut" data-name="logo" height="32px" id="logo-gi" viewbox="0 0 69 32" width="69px" xmlns="http://www.w3.org/2000/svg"><title>Logo Goethe Institut</title><path d="M39.4 13.725c-2 0-3.042-1.095-3.042-3.168 0-2.05 1.102-3.177 3.102-3.177a5.26 5.26 0 0 1 1.586.25l-.108.888c-.454-.143-.926-.217-1.402-.22-1.364 0-2 .713-2 2.243 0 1.504.616 2.267 1.83 2.267a3.92 3.92 0 0 0 .57-.035l.113-.018V11h-.872v-.882h1.98v3.31c-.563.204-1.157.308-1.756.308zm22.22-.126v-2.703h-2.25V13.6h-1.144V7.482h1.144v2.5h2.25v-2.5h1.144V13.6h-1.144zm-6.9 0V8.407h-1.375v-.925h3.912v.925H55.87V13.6h-1.16zm-5.932 0V7.482h3.777v.915H49.92V10h2.234v.903H49.92v1.78h2.72v.915h-3.866zm15.548 0V7.482H68.1v.915h-2.632V10h2.235v.903h-2.235v1.78h2.72v.915h-3.865zM49.85 21.88v-5.01h-1.26v-.885h3.63v.885h-1.26v5.01H49.85zm-13.037-5.896h1.126v5.896h-1.126v-5.896zm24.93 6.002c-1.414 0-2.13-.698-2.13-2.075v-3.926h1.114v3.877c0 .813.334 1.208 1.02 1.208s1.01-.384 1.01-1.208v-3.877h1.1v3.926c0 1.377-.71 2.076-2.114 2.076zm-15.46 0c-.55.007-1.1-.124-1.575-.38l.136-.867c.42.24.896.372 1.38.38.59 0 .927-.295.927-.81 0-.536-.47-.746-1.014-1-.63-.283-1.416-.635-1.416-1.692 0-1.09.714-1.742 1.91-1.742.447-.008.9.08 1.3.26l-.117.85a2.77 2.77 0 0 0-1.069-.227c-.773 0-.935.4-.935.736 0 .453.435.644.938.865.665.292 1.492.656 1.492 1.793s-.732 1.823-1.96 1.823zm-3.747-.106l-1.827-3.47-.224.055v3.414h-.998v-5.896h1.04l1.828 3.47.223-.055v-3.414h1v5.896h-1.04zm23.415 0v-5.01h-1.26v-.885h3.63v.885h-1.26v5.01H65.95zm-12.836-5.896h1.126v5.896h-1.126v-5.896zm3.28 5.896v-5.01h-1.26v-.885h3.63v.885h-1.258v5.01h-1.113zM10.315 16a5.74 5.74 0 0 1 5.742-5.742v1.067c-2.582 0-4.675 2.093-4.675 4.675s2.093 4.675 4.675 4.675 4.675-2.093 4.675-4.675H21.8c0 3.17-2.57 5.742-5.742 5.742S10.315 19.17 10.315 16zM5.2 16A10.86 10.86 0 0 1 16.057 5.143V6.2A9.79 9.79 0 0 0 6.268 16a9.79 9.79 0 0 0 19.58 0h1.067c0 3.88-2.07 7.463-5.428 9.402s-7.498 1.94-10.857 0S5.2 19.88 5.2 16zm2.562 0c0-4.58 3.714-8.294 8.294-8.294v1.067a7.23 7.23 0 0 0-5.111 12.337A7.23 7.23 0 0 0 23.284 16h1.067c-.04 4.552-3.742 8.222-8.294 8.222S7.803 20.552 7.763 16zm24.294 0c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16v1.067C7.8 1.067 1.124 7.753 1.124 16S7.8 30.933 16.057 30.933 30.99 24.247 30.99 16h1.067zM2.623 16c0-7.42 6.015-13.435 13.435-13.435v1.067A12.37 12.37 0 0 0 3.69 16a12.37 12.37 0 0 0 12.368 12.368A12.37 12.37 0 0 0 28.425 16h1.067c0 7.42-6.015 13.435-13.435 13.435S2.623 23.42 2.623 16zm42.317-2.215c-1.746 0-2.56-1.032-2.56-3.248 0-2.2.813-3.24 2.56-3.24s2.56 1.03 2.56 3.24c0 2.247-.8 3.248-2.56 3.248zm0-5.576c-1.215 0-1.382 1.12-1.382 2.327 0 2.06.668 2.344 1.39 2.344 1.207 0 1.374-1.127 1.374-2.344 0-1.675-.388-2.327-1.383-2.327zM26.222 1.092a4.75 4.75 0 0 0-4.743 4.743c0 1.918 1.156 3.648 2.928 4.382s3.812.328 5.17-1.028 1.762-3.397 1.028-5.17-2.464-2.928-4.382-2.928zm0-1.092c3.223 0 5.835 2.613 5.835 5.836 0 2.36-1.422 4.488-3.602 5.39s-4.69.404-6.36-1.265-2.168-4.18-1.265-6.36S23.862 0 26.222 0z"></path></svg>
+</a>
+<div class="logo-extension-c webfont-medium D(if)"></div>
+</div>
+<div class="header-nav-c D(f) Al(ce) webfont-medium collapse navbar-collapse" id="navbarToggle">
+<div class="header-nav-i Ml(auto)">
+<ul class="navbar-nav D(f) Jc(fe)">
+<li class="nav-item nav-search-form">
+<form id="searchFromHead" method="get">
+<a class="nav-item-close" href="#"><span class="nav-item-close-text hide">Schließen</span><span class="item-close"></span></a>
+<input class="gi-head-search" placeholder="goethe.de/ durchsuchen" type="text"/>
+</form>
+</li>
+<li class="nav-item nav-search-item">
+<a class="nav-link" href="#"><svg class="gi-header-search-icon" fill="none" height="14px" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24" width="14px" xmlns="http://www.w3.org/2000/svg"><circle cx="10.5" cy="10.5" r="7.5"></circle><line x1="21" x2="15.8" y1="21" y2="15.8"></line></svg></a>
+</li>
+<li class="nav-item-divider nav-search-divider">
+<span class="nav-link">
+<span></span>
+</span>
+</li>
+<li class="nav-item">
+<h6 class="hide">Mein Goethe.de Account:</h6>
+<ul class="nav-gi-account giAccount">
+<li class="anmelden dropdown hide" id="giAccountLoggedIn">
+<a class="angemeldet-toggle name nav-link" data-offset="-11,0" data-toggle="dropdown" href="#" id="dropAngemeldet" role="button">John George</a>
+<div aria-labelledby="dropAngemeldet" class="dropdown-menu gi-head-myg-dropdown angemeldet" role="menu">
+<a class="dropdown-item" href="../../../../de/myg.html">Mein Goethe.de</a>
+<a class="dropdown-item" href="/services/sso/logout/">Abmelden</a>
+</div>
+</li>
+<li class="anmelden dropdown" id="giAccountNotLoggedIn">
+<a class="login-toggle nav-link" data-offset="-11,0" data-toggle="dropdown" href="#" id="dropAnmeldung" role="button">Mein Goethe.de – Anmelden<svg class="nav-link-arrow" height="7" viewbox="0 0 12 7" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 1.39L6 7 0 1.39 1 0l5 4.2L11 0l1 1.39z"></path></svg></a>
+<div id="giSSOLoginBox">
+<div aria-labelledby="dropAnmeldung" class="dropdown-menu gi-head-myg-dropdown login" role="menu">
+<div class="fancyBoxIntroHeader">
+<h3>Anmeldung</h3>
+</div>
+<a class="close" href="#" onclick="GI_SSO.hideLoginScreen(); return false"></a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="nav-item-divider">
+<span class="nav-link">
+<span></span>
+</span>
+</li>
+<li class="nav-item nav-item-language D(if)">
+<span class="hide">Sprachauswahl:</span>
+<span class="nav-link nav-link-active">de</span>
+<a class="nav-link" href="../../../../en/spr/mag/sta/20481610.html">en</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<div class="primary-navigation-c w(983px) m-lr-a">
+<div class="navbar" id="hauptNavigation" role="navigation">
+<h6 class="hide">Hauptnavigation:</h6>
+<ul class="navigation">
+<li class=""><a href="../../../../de/index.html">Start</a></li>
+<li class="dropdown aktiv"><a class="dropdown-toggle" href="../../../../de/spr.html" id="drop2" onmouseup="location.href='../../../../de/spr.html';" role="button">Deutsche Sprache</a>
+<span class="abdeckung"></span>
+<div aria-labelledby="drop2" class="dropdown-menu" role="menu">
+<div class="hdlContainer"><h3><a href="../../../../de/spr.html">Deutsche Sprache</a></h3></div>
+<div class="navContainer">
+<ul class="nav4n">
+<li role="presentation"><h4><a href="../../../../de/spr/mag.html" role="menuitem" tabindex="-1">Magazin Sprache</a></h4></li>
+</ul>
+<ul>
+<li role="presentation"><h4><a href="../../../../de/spr/kup.html" role="menuitem" tabindex="-1">Deutschkurse und Deutschprüfungen</a></h4></li>
+<li role="presentation"><a href="../../../../de/spr/kup/tsd.html" role="menuitem" tabindex="-1">Testen Sie Ihr Deutsch</a></li>
+<li role="presentation"><a href="../../../../de/spr/kup/kur.html" role="menuitem" tabindex="-1">Deutschkurse</a></li>
+<li role="presentation"><a href="../../../../de/spr/kup/prf.html" role="menuitem" tabindex="-1">Deutschprüfungen</a></li>
+<li role="presentation"><a href="../../../../de/spr/kup/kon.html" role="menuitem" tabindex="-1">Unser Lernkonzept</a></li>
+<li role="presentation"><a href="../../../../de/spr/kup/b2b.html" role="menuitem" tabindex="-1">Firmenkunden</a></li>
+</ul>
+<ul class="last">
+<li role="presentation"><h4><a href="../../../../de/spr/unt.html" role="menuitem" tabindex="-1">Deutsch unterrichten</a></h4></li>
+<li role="presentation"><a href="../../../../de/spr/unt/adl.html" role="menuitem" tabindex="-1">Warum Deutsch unterrichten?</a></li>
+<li role="presentation"><a href="../../../../de/spr/unt/for.html" role="menuitem" tabindex="-1">Fortbildung</a></li>
+<li role="presentation"><a href="../../../../de/spr/unt/kum.html" role="menuitem" tabindex="-1">Konzepte und Materialien</a></li>
+<li role="presentation"><a href="../../../../de/spr/unt/ver.html" role="menuitem" tabindex="-1">Veranstaltungen und Wettbewerbe</a></li>
+</ul>
+<ul class="nav4n">
+<li role="presentation"><h4><a href="../../../../de/spr/ueb.html" role="menuitem" tabindex="-1">Kostenlos Deutsch üben</a></h4></li>
+</ul>
+<ul>
+<li role="presentation"><h4><a href="../../../../de/spr/eng.html" role="menuitem" tabindex="-1">Unser Engagement für Deutsch</a></h4></li>
+<li role="presentation"><a href="../../../../de/spr/eng/gls.html" role="menuitem" tabindex="-1">Goethe-Lab Sprache</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/daz.html" role="menuitem" tabindex="-1">Vorintegration</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/spb.html" role="menuitem" tabindex="-1">Sprachbiografien von ausländischen Studierenden</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/hor.html" role="menuitem" tabindex="-1">Horizonte 2020</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/stb.html" role="menuitem" tabindex="-1">Studienbrücke</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/dlz.html" role="menuitem" tabindex="-1">Deutsch als Fremdsprache weltweit 2020</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/d30.html" role="menuitem" tabindex="-1">Deutsch 3.0</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/pas.html" role="menuitem" tabindex="-1">Initiative „Schulen: Partner der Zukunft“</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/mob.html" role="menuitem" tabindex="-1">Mobilität und Migration</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/eur.html" role="menuitem" tabindex="-1">Europanetzwerk Deutsch</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/alu.html" role="menuitem" tabindex="-1">Alumniportal Deutschland</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/dmi.html" role="menuitem" tabindex="-1">Deutsche Minderheiten</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/koo.html" role="menuitem" tabindex="-1">Gremienarbeit</a></li>
+<li role="presentation"><a href="../../../../de/spr/eng/mwnd.html" role="menuitem" tabindex="-1">Mein Weg nach Deutschland </a></li>
+</ul>
+<ul class="last">
+<li role="presentation"><h4><a href="../../../../de/spr/wdl.html" role="menuitem" tabindex="-1">Warum Deutsch lernen?</a></h4></li>
+</ul>
+<ul class="nav4n">
+<li role="presentation"><h4><a href="../../../../de/spr/flu.html" role="menuitem" tabindex="-1">Willkommen - Deutschlernen für Flüchtlinge</a></h4></li>
+<li role="presentation"><a href="../../../../de/spr/flu/ein.html" role="menuitem" tabindex="-1">Einfach hören!</a></li>
+<li role="presentation"><a href="../../../../de/spr/flu/spw.html" role="menuitem" tabindex="-1">Sprachführer "Willkommen!"</a></li>
+<li role="presentation"><a href="../../../../de/spr/flu/esd.html" role="menuitem" tabindex="-1">FEELS </a></li>
+<li role="presentation"><a href="../../../../de/spr/flu/sls.html" role="menuitem" tabindex="-1">Sprachlernspiele</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="dropdown "><a class="dropdown-toggle" href="../../../../de/kul.html" id="drop37" onmouseup="location.href='../../../../de/kul.html';" role="button">Kultur</a>
+<span class="abdeckung"></span>
+<div aria-labelledby="drop37" class="dropdown-menu" role="menu">
+<div class="hdlContainer"><h3><a href="../../../../de/kul.html">Kultur</a></h3></div>
+<div class="navContainer">
+<ul class="nav4n hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/erp.html" role="menuitem" tabindex="-1">Europa</a></h4></li>
+</ul>
+<ul class="hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/arc.html" role="menuitem" tabindex="-1">Architektur</a></h4></li>
+</ul>
+<ul class="last hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/bib.html" role="menuitem" tabindex="-1">Bibliotheken</a></h4></li>
+</ul>
+<ul class="nav4n hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/bku.html" role="menuitem" tabindex="-1">Bildende Kunst</a></h4></li>
+</ul>
+<ul class="hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/wis.html" role="menuitem" tabindex="-1">Bildung und Wissen</a></h4></li>
+</ul>
+<ul class="last hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/des.html" role="menuitem" tabindex="-1">Design und Mode</a></h4></li>
+</ul>
+<ul class="nav4n hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/flm.html" role="menuitem" tabindex="-1">Film</a></h4></li>
+</ul>
+<ul class="hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/ges.html" role="menuitem" tabindex="-1">Gesellschaft und Zeitgeschehen</a></h4></li>
+</ul>
+<ul class="last hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/lit.html" role="menuitem" tabindex="-1">Literatur</a></h4></li>
+</ul>
+<ul class="nav4n hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/med.html" role="menuitem" tabindex="-1">Medien</a></h4></li>
+</ul>
+<ul class="hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/mol.html" role="menuitem" tabindex="-1">Modernes Leben</a></h4></li>
+</ul>
+<ul class="last hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/mus.html" role="menuitem" tabindex="-1">Musik</a></h4></li>
+</ul>
+<ul class="nav4n hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/tut.html" role="menuitem" tabindex="-1">Tanz und Theater</a></h4></li>
+</ul>
+<ul class="hide4">
+<li role="presentation"><h4><a href="../../../../de/kul/ser.html" role="menuitem" tabindex="-1">Residenzprogramme</a></h4></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="dropdown "><a class="dropdown-toggle" href="../../../../de/uun.html" id="drop75" onmouseup="location.href='../../../../de/uun.html';" role="button">Über uns</a>
+<span class="abdeckung"></span>
+<div aria-labelledby="drop75" class="dropdown-menu" role="menu">
+<div class="hdlContainer"><h3><a href="../../../../de/uun.html">Über uns</a></h3></div>
+<div class="navContainer">
+<ul class="nav4n">
+<li role="presentation"><h4><a href="../../../../de/uun/org.html" role="menuitem" tabindex="-1">Organisation</a></h4></li>
+<li role="presentation"><a href="../../../../de/uun/org/pra.html" role="menuitem" tabindex="-1">Präsident und Vorstand</a></li>
+<li role="presentation"><a href="../../../../de/uun/org/ges.html" role="menuitem" tabindex="-1">Geschichte</a></li>
+<li role="presentation"><a href="../../../../de/uun/org/gre.html" role="menuitem" tabindex="-1">Gremien</a></li>
+<li role="presentation"><a href="../../../../de/uun/org/par.html" role="menuitem" tabindex="-1">Partner</a></li>
+<li role="presentation"><a href="../../../../de/uun/org/foe.html" role="menuitem" tabindex="-1">Förder*innen</a></li>
+<li role="presentation"><a href="../../../../de/uun/org/pre.html" role="menuitem" tabindex="-1">Preise und Auszeichnungen</a></li>
+</ul>
+<ul>
+<li role="presentation"><h4><a href="../../../../de/uun/auf.html" role="menuitem" tabindex="-1">Aufgaben</a></h4></li>
+<li role="presentation"><a href="../../../../de/uun/auf/dsk.html" role="menuitem" tabindex="-1">Bildung und Diskurse</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/bku.html" role="menuitem" tabindex="-1">Bildende Kunst</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/ffh.html" role="menuitem" tabindex="-1">Film, Fernsehen, Hörfunk</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/mus.html" role="menuitem" tabindex="-1">Musik</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/tut.html" role="menuitem" tabindex="-1">Tanz und Theater</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/lit.html" role="menuitem" tabindex="-1">Literatur</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/spr.html" role="menuitem" tabindex="-1">Sprache</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/iub.html" role="menuitem" tabindex="-1">Bibliotheken</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/bes.html" role="menuitem" tabindex="-1">Informationsreisen</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/dfk.html" role="menuitem" tabindex="-1">Deutsch-Französischer Kulturfonds</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/pcf.html" role="menuitem" tabindex="-1">Prince Claus Fund</a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/hlf.html" role="menuitem" tabindex="-1">Internationaler Hilfsfonds 2020 </a></li>
+<li role="presentation"><a href="../../../../de/uun/auf/ana.html" role="menuitem" tabindex="-1">Anna Lindh Stiftung</a></li>
+</ul>
+<ul class="last">
+<li role="presentation"><h4><a href="../../../../de/uun/kar.html" role="menuitem" tabindex="-1">Karriere</a></h4></li>
+<li role="presentation"><a href="../../../../de/uun/kar/arb.html" role="menuitem" tabindex="-1">Arbeitgeber Goethe-Institut</a></li>
+<li role="presentation"><a href="../../../../de/uun/kar/stu.html" role="menuitem" tabindex="-1">Studierende und Schulabgehende</a></li>
+<li role="presentation"><a href="../../../../de/uun/kar/hoc.html" role="menuitem" tabindex="-1">Hochschulabsolvent*innen</a></li>
+<li role="presentation"><a href="../../../../de/uun/kar/fac.html" role="menuitem" tabindex="-1">Fachkräfte</a></li>
+<li role="presentation"><a href="../../../../de/uun/kar/fue.html" role="menuitem" tabindex="-1">Führungskräfte</a></li>
+</ul>
+<ul class="nav4n">
+<li role="presentation"><h4><a href="../../../../de/uun/prs.html" role="menuitem" tabindex="-1">Presse</a></h4></li>
+<li role="presentation"><a href="../../../../de/uun/prs/p18.html" role="menuitem" tabindex="-1">Pressemitteilungen</a></li>
+<li role="presentation"><a href="../../../../de/uun/prs/map.html" role="menuitem" tabindex="-1">Pressemappen</a></li>
+<li role="presentation"><a href="../../../../de/uun/prs/med.html" role="menuitem" tabindex="-1">Medieninfo</a></li>
+<li role="presentation"><a href="../../../../de/uun/prs/bld.html" role="menuitem" tabindex="-1">Bilderservice</a></li>
+<li role="presentation"><a href="../../../../de/uun/prs/int.html" role="menuitem" tabindex="-1">Interviews und Reden</a></li>
+<li role="presentation"><a href="../../../../de/uun/prs/pre.html" role="menuitem" tabindex="-1">Presseecho</a></li>
+<li role="presentation"><a href="../../../../de/uun/prs/auf.html" role="menuitem" tabindex="-1">Nahaufnahme</a></li>
+</ul>
+<ul>
+<li role="presentation"><h4><a href="../../../../de/uun/pub.html" role="menuitem" tabindex="-1">Publikationen</a></h4></li>
+<li role="presentation"><a href="../../../../de/uun/pub/akt.html" role="menuitem" tabindex="-1">Goethe aktuell</a></li>
+<li role="presentation"><a href="../../../../de/uun/pub/das.html" role="menuitem" tabindex="-1">das goethe</a></li>
+</ul>
+<ul class="last">
+<li role="presentation"><h4><a href="../../../../de/uun/ver.html" role="menuitem" tabindex="-1">Veranstaltungen</a></h4></li>
+<li role="presentation"><a href="../../../../de/uun/ver/ver.cfm" role="menuitem" tabindex="-1">Kalender für Deutschland</a></li>
+<li role="presentation"><a href="../../../../de/uun/ver/kal.cfm" role="menuitem" tabindex="-1">Kalender weltweit</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class=""><a href="../../../../de/wwt.html">Standorte</a><div>
+<!-- closing -->
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="container inhaltsContainer">
+<div class="row">
+<nav class="span6" id="sekundaerNavigation" role="navigation">
+<h6 class="hide">Navigationsbereich:</h6>
+<h2 class="subNavigationBereich Fs(18px) Lh(1)"><a href="../../../../de/spr.html">Deutsche Sprache</a></h2>
+<ul class="subNavigation">
+<li class="aktiv">
+<a href="../../../../de/spr/mag.html">Magazin Sprache</a>
+</li>
+<li>
+<a href="../../../../de/spr/kup.html">Deutschkurse und Deutschprüfungen</a>
+</li>
+<li>
+<a href="../../../../de/spr/unt.html">Deutsch unterrichten</a>
+</li>
+<li>
+<a href="../../../../de/spr/ueb.html">Kostenlos Deutsch üben</a>
+</li>
+<li>
+<a href="../../../../de/spr/eng.html">Unser Engagement für Deutsch</a>
+</li>
+<li>
+<a href="../../../../de/spr/wdl.html">Warum Deutsch lernen?</a>
+</li>
+<li>
+<a href="../../../../de/spr/flu.html">Willkommen - Deutschlernen für Flüchtlinge</a>
+</li></ul><!--test2-->
+</nav>
+<div class="span18 inhalt" role="main">
+<article class="artikel-default-c" role="article">
+<!-- $$object.wrapperstart$$ --> <!-- $$object.objectanchor$$ -->
+<a href="" id="inhalt"></a>
+<h1>
+<span class="spitzmarke Fs(14px) Lh(1.14) Mb(4px) D(b)">Neuere Erkenntnisse aus der Forschung: Die Perspektive der Bildungsforschung<br/></span>
+<span class="hdl Fs(38px) Lh(1.1) D(b)">Sprache, Bildung – und Erfolg?</span></h1>
+<!-- $$object.objbuttons$$ --> <!-- $$object.wrapperend$$ -->
+<div class="row">
+<div class="span12 nurText">
+<!-- $$object.wrapperstart$$ --> <a class="cms-object-anchor" id="i3164890" style="height: 0px; width: 0px; border: 0; padding:0; line-height:0px;"></a>
+<div class="aufmacher">
+<img alt="Sprache, Bildung – und Erfolg?" height="281.808683853" src="//www.goethe.de/resources/files/jpg400/Artikel_Bildungswissenschaften-formatkey-jpg-w491.jpg" srcset="//www.goethe.de/resources/files/jpg400/Artikel_Bildungswissenschaften-formatkey-jpg-w491.jpg 1x, //www.goethe.de/resources/files/jpg400/Artikel_Bildungswissenschaften-formatkey-jpg-default.jpg 2x" title="Artikelbild Sprache, Bildung – und Erfolg?" width="491"/>
+</div>
+<div class="bildunterschrift">
+<div class="buArtikel">Sprache, Bildung – und Erfolg? | Illustration: Melih Bilgil</div>
+</div>
+<p class="artikelintro">Welche Bedeutung haben sprachliche Fähigkeiten für Bildungserfolg – und, darüber hinausgehend: für gesellschaftliche Teilhabe? Dies ist eine Leitfrage der Bildungsforschung zur Sprachentwicklung – eine Suche nach Antworten mit neuen Erkenntnissen.<br/>
+ </p>
+<p></p><div class="infoBox hellGrau">
+<h4>Abstract</h4>
+<p>Im Bereich der Sprachentwicklung sucht die Bildungsforschung nach Ursachen für den Umstand, dass es Kinder und Jugendliche gibt, die die Sprache der Schule und des Unterrichts auch nach langen Jahren des Schulbesuchs nicht genügend erlernen, um erfolgreich zu sein und damit eine wichtige Grundlage für gesellschaftliche Teilhabe zu gewinnen. Und sie fragt, was das Bildungssystem, die einzelne Schule oder die einzelne Lehrkraft zu gelingender Sprachentwicklung beitragen kann. Wichtig dabei ist herauszufinden, welche Faktoren auf die sprachliche Entwicklung im Schul- und höheren Lebensalter Einfluss nehmen. Neue Erkenntnisse der Bildungsforschung zu diesem Thema werden hier vorgestellt.</p>
+</div>
+Welche Auswirkungen haben individuelle und soziale Bedingungen auf die Sprachentwicklung, die sich im Kontext von Bildungsinstitutionen vollzieht? Und welchen Einfluss besitzt die Gestaltung des Lehr- oder Unterrichtsangebots auf diese Entwicklungen? Das sind leitende Fragen, bei denen die Bildungswissenschaft auch Erkenntnisse der Nachbarwissenschaften mit einbezieht (siehe Infobox am Ende des Beitrags).<br/>
+<br/>
+Im Vordergrund steht dabei die grundlegende Bedeutung der Sprache als Transportmittel von Bildungsinhalten. So hat die Bildungsforschung unter anderem bei den PISA-Studien herausgestellt, dass die Fähigkeit, naturwissenschaftliche oder mathematische Aufgaben erfolgreich zu lösen, zu weiten Teilen von der Lesekompetenz abhängt (Klieme et al. 2010). Beinahe jeder Lerngegenstand wird sprachlich vermittelt; Aufgaben und ihre Lösungen werden in Texte gefasst. Ohne sprachliches Verstehen ist also ein Verständnis der Sache fast nicht möglich. Dabei gilt: Je fortgeschrittener eine Bildungsbiographie, umso bedeutsamer ist sprachliches Können und Wissen für das Lernen insgesamt.<br/>
+<br/>
+Die Bildungsforschung zeigt auch, dass Bildungssysteme ungleiche Bildungschancen erzeugen, obwohl es eigentlich ihre Bestimmung ist, allen Beteiligten gleichermaßen zu bestem Bildungserfolg zu verhelfen. Hier gilt es, den systematischen Ursachen für das unerwünschte Ergebnis auf die Spur zu kommen.
+<h2>SPRACHE UND HERKUNFT</h2>
+Die Bildungsforschung hat gezeigt, dass Merkmale der Herkunft von Lernenden für unterschiedlichen Bildungserfolg mitverantwortlich sind. So haben Kinder aus sozio-ökonomisch schlechtgestellten Familien geringere Chancen auf beste Bildungskarrieren als Kinder aus gutgestellten Elternhäusern. Nach den dazu vorliegenden international vergleichenden Untersuchungen ist in Deutschland die Abhängigkeit des Bildungserfolgs von der sozio-ökonomischen Herkunft sowie der Bildungsnähe der Familie ausnehmend stark (OECD 2014).<br/>
+<br/>
+Die sprachlichen Bildungsvoraussetzungen von Lernenden sind mit diesen Merkmalen der Herkunft eng verwoben. Besonders auffällig ist dies im Kontext von Migration. Innerhalb Europas ist es üblich, dass Migranten ihre Herkunftssprachen auch über mehrere Generationen nicht aufgeben. Ihre Kinder wachsen daher in Formen von Mehrsprachigkeit auf. Die Frage, ob dies zu Bildungsbenachteiligung führt, ist ein klassischer Ausgangspunkt für die wissenschaftliche Neugierde der Bildungsforschung (Gogolin/Neumann 2009). Die Ergebnisse hier sind ambivalent. Einerseits schneiden junge Menschen, die in der Familie (auch) eine andere als die übliche Schulsprache sprechen, in Leistungsstudien schlechter ab als einsprachig lebende Gleichaltrige. Andererseits aber zeigen Untersuchungen, dass das Leben in mehr als einer Sprache Vorteile mit sich bringt. Mehrsprachige verfügen zum Beispiel früher und intensiver als Einsprachige über die Fähigkeit, zwischen der Form einer Äußerung und ihrem Inhalt zu unterscheiden. Sie erhalten dadurch, dass sie die Wahl zwischen Sprachen haben und sich entscheiden müssen, ein besonderes Training ihrer kognitiven Fähigkeiten – und dies ist von Vorteil sowohl für das sprachliche Lernen als auch für das Lernen generell (Bialystok/Poarch 2014).<br/>
+<br/>
+Angesichts dessen sucht die Bildungsforschung zu klären, warum Ressourcen, die offensichtlich in der Mehrsprachigkeit liegen, beim sprachlichen Lehren und Lernen nicht genutzt werden – und komplementär dazu: wie es gelingen kann, aus dem Potenzial der Mehrsprachigkeit für Bildungsprozesse Kapital zu schlagen. Damit kommen neben den Individuen und ihren sprachlichen Bildungsvoraussetzungen auch die Bildungsinstitutionen selbst in den Blick der Bildungsforschung. Sie nehmen durch Curricula und Lernziel- oder Kompetenzkataloge, durch Schul- oder Unterrichtsgestaltung, durch Verfahren der Diagnose sprachlicher Fähigkeiten und ihrer Entwicklung, und nicht zuletzt durch die Qualifikation und das Handeln des pädagogischen Personals Einfluss auf die Sprachentwicklung.
+<h2>FELDER DER BILDUNGSFORSCHUNG</h2>
+Zu den Zielen der Bildungsforschung gehört es abzuschätzen, wie solche Einflüsse wirken, und empirisch abgesicherte Grundlagen für die Gestaltung einer Praxis zu gewinnen, die zum Abbau von negativen Einflussfaktoren beiträgt. Dies geschieht unter anderem durch die Entwicklung von Tests und Diagnoseverfahren sowie durch die Gestaltung von förderlichen Bildungsangeboten.<br/>
+<br/>
+<i>Entwicklung von Tests und Diagnoseverfahren:</i><br/>
+<br/>
+Es ist erwiesen, dass eine förderliche Bildungspraxis an den sprachlichen Voraussetzungen anknüpfen muss, die die Lernenden mitbringen. Aber was für Voraussetzungen sind das genau? Es ist nicht einfach, dies auf angemessene Weise zu ermitteln, denn anders als bei lernzielorientierten Tests besteht ja keine Kontrolle über den sprachlichen Input, den die Lernenden genossen haben.<br/>
+<br/>
+Zwar liegen zahlreiche, meist aus praktischen Erfahrungen erwachsene Verfahren vor, die zum Beispiel bei Entscheidungen über die Zuweisung von Lernenden zu Leistungsgruppen oder Förderangeboten angewendet werden. Sehr oft handelt es sich dabei aber um Produkte, die weder eine klare wissenschaftliche Grundlage aufweisen noch eine Güteprüfung nach den Regeln der Kunst durchlaufen haben. Es werden damit Ergebnisse erzielt, deren Stellenwert und Bedeutung für sprachliche Entwicklung unklar und willkürlich ist. Dennoch entfalten solche Verfahren oft hohe praktische Wirksamkeit. Sie können entscheidend dafür sein, ob ein Mensch Förderung erfährt oder nicht; ob ihm eine Leistung zutreffend bescheinigt wird – oder ob es sich um einen durch ein unangemessenes Vorgehen erzeugten Irrtum handelt.<br/>
+<br/>
+Ein Forschungsanliegen ist daher die Entwicklung und Güteprüfung von Verfahren zur Sprachstandsmessung und zur prozessbegleitenden Sprachdiagnose. Aus Sicht der Bildungsforschung müssen diagnostische Verfahren strengen Qualitätsanforderungen standhalten. Als Mindestvoraussetzung für Güte gilt, dass sie
+<ul>
+<li>„objektiv“ sind, ihr Ergebnis also unabhängig von den Umständen der Durchführung und Auswertung ist;</li>
+<li>„reliabel“ sind, also frei von Zufallsfehlern und stabil beim Einsatz zu unterschiedlichen Zeitpunkten;</li>
+<li>„valide“ sind, also tatsächlich das messen, was sie zu messen vorgeben.</li>
+</ul>
+Besondere Herausforderungen bestehen darin, diagnostische Verfahren zu entwickeln, die auch Lernverläufe angemessen anzeigen: Dies ist schließlich die Information, die benötigt wird, um zu beurteilen, ob die Lehrangebote geeignet waren. Besonders intensiv sind bisher die Aktivitäten zur Entwicklung von Instrumenten, die im vorschulischen Bereich oder beim Schuleintritt eingesetzt werden können (Neugebauer/Becker-Mrotzek 2013). Es liegen aber auch erste geprüfte Verfahren vor, die sich zur pädagogischen Begleitung der Sprachentwicklung im Schulkontext eignen und für die Hand von Lehrkräften gedacht sind. Ein Beispiel sind die <a href="https://publikationen.sachsen.de/bdb/artikel/14477"><i>Niveaubeschreibungen Deutsch als Zweitsprache</i></a>, mit deren Hilfe die Kompetenz und der Kompetenzzuwachs im Deutschen strukturiert, systematisch und unterrichtsbegleitend beobachtet werden können. Sie können durch Lehrkräfte aller Fächer eingesetzt werden. Ergebnis der Beobachtung sind „Sprachprofile“ der Schüler, die ihre Stärken und Schwächen im Deutschen zeigen. Sie eignen sich als Grundlage für die Planung von Unterricht, der an den vorhandenen Stärken der Schüler anknüpft, um Schwächen abzubauen.<br/>
+<br/>
+<i>Gestaltung förderlicher Sprachbildung:</i><br/>
+<br/>
+Untersuchungen, die Grundlagen für die Gestaltung förderlicher Sprachbildungsangebote zum Ziel haben, nehmen ihren Ausgangspunkt zum Beispiel bei der Frage, wie sich sprachliche Anforderungen im Verlaufe der Bildungsbiographie verändern. Durch die Ausdifferenzierung der Unterrichtsfächer und dadurch, dass die Komplexität der zu lernenden Inhalte zunimmt, werden auch die sprachlichen Darbietungen von Unterrichtsstoff spezifischer und anspruchsvoller. Die Lernenden müssen also höheren sprachlichen Ansprüchen genügen, um in der Sache mitzuhalten. Zu den offenen Fragen gehört hier, wie weit es für erfolgreiches Lernen reicht, die sprachlichen Angebote zu verstehen, die der Unterricht macht – und für welche Lernleistungen es erforderlich ist, dass die Schüler selbst aktiv die Formen von Sprache produzieren können, in denen der Stoff dargeboten wird. Dabei geht es nicht nur um die Fähigkeit zur Produktion der Oberflächenstruktur der sprachlichen Mittel, die etwa für die angemessene Formulierung einer Antwort auf eine Aufgabe nötig sind. Vielmehr ist auch zu klären, inwieweit die aktive sprachliche Auseinandersetzung mit der Sache zu ihrer tieferen Durchdringung verhilft – und damit zu erfolgreicherem Lernen. Eine besondere Facette dieses Problems ist es zu klären, welche Folgen es besitzt, wenn Zwei- oder Mehrsprachigkeit die Bildungsvoraussetzung ist, die Kinder oder Jugendliche für die Bewältigung dieser Aufgaben mitbringen.<br/>
+<br/>
+Eine wichtige Quelle für Erkenntnisse zu diesen Fragen ist die Begleitforschung zu Schulversuchen und Modellprogrammen. Zwei Beispiele hierfür sind die Programme wie „Förderung von Kindern und Jugendlichen mit Migrationshintergrund“ (FörMig) oder „Bildung in Sprache und Schrift“ (BiSS).<br/>
+<br/>
+Im Programm FörMig ging es insbesondere um die Gestaltung einer „durchgängigen Sprachbildung“ an Übergängen in der Bildungsbiographie. Leitende Frage war, wie es gelingen kann, die bildungssprachlichen Fähigkeiten von zwei- oder mehrsprachigen Kindern und Jugendlichen zu fördern – also eben jene übergreifenden Fähigkeiten, die eine Grundvoraussetzung für Bildungserfolg sind (Gogolin et al. 2013). Es stellte sich heraus, dass sich Maßnahmen zur Gestaltung eines insgesamt sprachförderlichen Klimas günstig auf die bildungssprachliche Entwicklung auswirken. Nicht das einzelne Förderangebot erscheint entscheidend, sondern die systematische und kontinuierliche Aufmerksamkeit für die sprachliche Seite des Lernens in jedem fachlichen Unterricht. Um ein solches Klima herzustellen, ist die Zusammenarbeit der Lehrkräfte verschiedener Unterrichtsfächer ebenso erforderlich wie eine unterstützende Schulleitung. Eine gute Grundlage ist die gemeinsame Entwicklung eines Sprachbildungskonzepts, das  auch für Schüler und Eltern transparent ist. Es scheint wenig Einfluss zu besitzen, wenn Hilfsmittel oder Unterrichtsmaterial von außen bereitgestellt werden. Hingegen ist offenbar die gemeinsame Material- und Unterrichtsentwicklung der Lehrkräfte eines Kollegiums (beispielsweise derjenigen, die in den Klassen eines Jahrgangs unterrichten) von großem Nutzen für die Entstehung eines bildungssprachförderlichen Schulklimas. Nötig ist hierfür die Unterstützung von außen. So müssen Zeitfenster für die Zusammenarbeit geschaffen werden; vor allem aber ist die gründliche und praxisbegleitende Qualifizierung der beteiligten Pädagoginnen und Pädagogen eine Voraussetzung für das Gelingen.<br/>
+<br/>
+Das Modellprogramm FörMig ist abgeschlossen; im Programm BiSS werden viele Ergebnisse aufgegriffen und weiterentwickelt. Die bildungswissenschaftliche Forschung zur Sprachentwicklung ist also ein vitales Forschungsfeld, in dem wichtige Erkenntnisse über Bedingungen für die glückliche Entfaltung sprachlicher Fähigkeiten bereits erarbeitet wurden – aber auch viele Fragen noch offen sind.<br/>
+ 
+<div class="infoBox hellGrau">
+<h4>Grundlagen aus Den Nachbarwissenschaften</h4>
+<p>In der Forschung über Sprachentwicklung aus bildungswissenschaftlicher Perspektive wird auch auf Grundlagen zurückgegriffen, die in anderen Disziplinen erarbeitet werden. Namentlich sind dies:<br/>
+<i>Psychologie und Psycholinguistik:</i> Diese Disziplinen wollen vor allem den Geheimnissen der individuellen Sprachaneignung in der frühen Kindheit auf die Spur kommen. Dabei interessieren „Ausnahmefälle“ besonders. So ist es eine wichtige Frage, welche Entwicklung Kinder nehmen, die mit Sprachentwicklungsstörungen zu kämpfen haben. Eine andere bedeutende Frage gilt den Besonderheiten der Entwicklung von Kindern, die zwei- oder mehrsprachig heranwachsen (Weinert/Grimm 2012).<br/>
+<i>Sprachdidaktik: </i>Wenn es darum geht, in Bildungsinstitutionen – also in Kindergärten, Schulen, Hochschulen – auf das Lernen von Sprachen gezielt Einfluss zu nehmen, geschieht dies vor allem aus der Sicht sprachdidaktischer Fächer. Sie richten sich vielfach auf den Unterricht der Hauptsprache der Schule, in Deutschland also auf den Deutschunterricht. Ein anderes Aufgabengebiet ist die Beschäftigung mit Einzelsprachen, die als Fremdsprachen unterrichtet werden. Hierzu kann auch Deutsch als Fremdsprache (DaF) gehören.<br/>
+<i>Sprachlehrforschung und Educational Linguistics:</i> Sprachenübergreifende Fragen des Lehrens und Lernens von Einzelsprachen behandeln die Sprachlehrforschung (Burwitz-Melzer et al. 2013) oder die (auch in Deutschland auf Englisch bezeichneten) Educational Linguistics. Ihre Aufmerksamkeit gilt zum Beispiel der Sprachentwicklung und dem Sprachenlernen von Kindern, die mit einer anderen Sprache als der Schulsprache aufwachsen und leben, aber zugleich in ihrer Umwelt Erfahrungen mit dieser sammeln – also etwa dem Deutschen als Zweitsprache (DaZ).<br/>
+<i>Soziologie und Soziolinguistik:</i> Diese Disziplinen untersuchen nicht-sprachliche Lebensumstände, die Auswirkungen auf Sprachentwicklung haben. Dazu gehören die sozialen und ökonomischen Bedingungen, unter denen Kinder heranwachsen und leben, oder die Folgen von Migration in eine anderssprachige Region. Im Fokus steht, welche Umstände sich günstig auf Sprachentwicklung auswirken, und von welchen eher Nachteile zu erwarten sind.</p>
+</div>
+ 
+
+<div class="infoBox hellGrau">
+<h4>Literatur</h4>
+<p>Bialystok, Ellen; Poarch, Gregory: „Language Experience Changes Language and Cognitive Ability” In: <i>Zeitschrift für Erziehungswissenschaft</i> 17 (3) 2014, 433–446.<br/>
+<br/>
+Burwitz-Melzer, Eva; Königs, Frank G.; Riemer, Claudia (Hrsg.): <i>Identität und Fremdsprachenlernen. Anmerkungen zu einer komplexen Beziehung. </i>Tübingen: Gunter Narr Verlag 2013.<br/>
+<br/>
+Gogolin, Ingrid; Lange, Imke; Michel, Ute; Reich, Hans H. (Hrsg.): <i>Herausforderung Bildungssprache - und wie man sie meistert.</i> FörMig Edition Band 9. Münster: Waxmann 2013.<br/>
+<br/>
+Gogolin, Ingrid; Neumann, Ursula (Hrsg.): <i>Streitfall Zweisprachigkeit. The Bilingualism Controversy.</i> Wiesbaden: VS-Verlag 2009.<br/>
+<br/>
+Klieme, Eckhard; Artelt, Cordula; Hartig, Johannes; Jude, Nina; Köller, Olaf; Prenzel, Manfred et al. (Hrsg.): <i>PISA 2009. Bilanz nach einem Jahrzehnt.</i> Münster, New York u.a.: Waxmann 2010.<br/>
+<br/>
+Neugebauer, Uwe; Becker-Mrotzek, Michael: <a href="http://www.mercator-institut-sprachfoerderung.de/fileadmin/user_upload/Institut_Sprachfoerderung/Mercator-Institut_Qualitaet_Sprachstandsverfahren_Web.pdf"><i>Die Qualität von Sprachstandsverfahren im Elementarbereich. Eine Analyse und Bewertung.</i></a> Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache; Universität zu Köln, Köln 2013.<br/>
+<br/>
+OECD: <a href="http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-I.pdf"><i>PISA 2012 Results: What Students Know and Can Do – Student Performance in Mathematics,Reading and Science</i></a> (Volume I, Revised edition, February 2014). Paris: OECD Publishing 2014.<br/>
+<br/>
+Weinert, Sabine; Grimm, Hannelore : „Sprachentwicklung“. In: Lindenberger, Ulman; Schneider, Wolfgang (Hrsg.): <i>Entwicklungspsychologie</i>. Weinheim: Beltz 2012, 433–456.</p>
+</div>
+<br/>
+ 
+			 <!-- $$object.wrapperend$$ -->
+<!-- instance variable debugging:
+		uselangfamilies: 0
+		closedthread: 0
+		newcommentstatus: 3
+		-->
+<div class="kommentar-container">
+<script src="/services/commenting/assets/js/commenting.js"></script>
+<script src="/services/utilities/assets/js/jquery.paging.min.js"></script>
+<script src="/services/utilities/assets/js/jquery.ba-hashchange.min.js"></script>
+<div class="relateComments" data-id="KylOXy1BPEdYQDA/ISJOPCAK"></div>
+<script>
+$(function() {
+	cmt.init({
+		endpoint: '/services/commenting/index.cfm',
+		action: 'createobjectcomment',
+		relatedtext: '<a href=\"https://www.goethe.de/de/spr/mag/sta/20481610.html#i3164890\">Sprache, Bildung – und Erfolg?</a>',
+		relatedlabel: 'Sprache, Bildung – und Erfolg?',
+		site_ID: 201352,
+		instance_ID: 3164890,
+		guilang_ID: 2,
+		pagelang_IDs: '1,2'
+	});
+	
+});
+
+</script>
+</div>
+</div>
+<aside class="span6 artikelspalte nurText" role="complementary">
+<!-- $$object.wrapperstart$$ --> <!-- $$object.objectanchor$$ -->
+<div class="box author">
+<h3 class="box-hdl-h3 autor erste">
+								Autorin</h3>
+<p>Ingrid Gogolin ist Professorin am Institut für Interkulturelle und International Vergleichende Erziehungswissenschaft der Universität Hamburg. Seit 2012 ist sie Mitglied des Beirats Sprache des Goethe-Instituts.</p>
+<p>
+							Copyright: Goethe-Institut e. V., Redaktion Magazin Sprache<br/> März 2015 
+						</p>
+<p><a href="mailto:magazin-sprache@goethe.de">Haben Sie noch Fragen zu diesem Artikel? Schreiben Sie uns!</a></p>
+</div>
+<div class="box services">
+<ul class="list-services">
+<li class="kommentare"><a href=""><span id="cmtcount-18-20481610">0</span> <span class="cmtlabel">Kommentare</span></a></li>
+<!-- Social Media -->
+<li class="drucken"><a alt="Artikel drucken" href="javascript:window.print();" title="Artikel drucken">Artikel drucken</a></li>
+</ul>
+</div>
+<div class="box related-links">
+<h3 class="box-hdl-h3 Fs(18px) Lh(1.22)">Links zum Thema</h3>
+<ul class="list-tagliste">
+<li class="tags"><a href="javascript:showTeasersForCategory('Deutsch als Fremdsprache', 179316)">Deutsch als Fremdsprache</a>, <a href="javascript:showTeasersForCategory('Forschung', 179322)">Forschung</a>, <a href="javascript:showTeasersForCategory('Standpunkte', 179333)">Standpunkte</a></li>
+</ul>
+<ul class="list-linkliste">
+<li class="list-link">
+<a href="http://www.foermig.uni-hamburg.de" target="_blank">
+											Kompetenzzentrum Förderung von Kindern und Jugendlichen mit Migrationshintergrund (FÖRMIG)
+										</a>
+</li>
+<li class="list-link">
+<a href="http://www.biss-sprachbildung.de" target="_blank">
+											Bildung in Sprache und Schrift (BiSS)
+										</a>
+</li>
+</ul>
+</div>
+<script>
+			var codenameList = "179316$u_deutschalsfremdsprache,179322$s_forschung,179333$s_standpunkte";
+
+			function showTeasersForCategory(categoryname, categoryid) {
+				var location = window.location.href;
+				var parentLocation = location.substring(0, location.lastIndexOf("/")) + ".html";
+
+				var codename = findCodenameForId(categoryid);
+				var locationWithTag = "";
+
+				if (codename.length != 0) {
+					locationWithTag = parentLocation + "#" + codename;
+				} else if (categoryid == 0) {
+					locationWithTag = '#';
+				} else {
+					locationWithTag = parentLocation + "#" + categoryname.replace(/ /g, '');
+				}
+
+				window.location.href = locationWithTag;
+			}
+
+			function findCodenameForId(catid) {
+				var codenameListSplitted = codenameList.split(",");
+				var length = codenameListSplitted.length;
+				for (var i = 0; i < length; i++) {
+					var catIDCodename = codenameListSplitted[i];
+					var splitted = catIDCodename.split("$");
+					var tempCatID = splitted[0];
+					var tempCodename = splitted[1];
+					if (tempCatID == catid.toString()) {
+						if (tempCodename.length != 0)
+							return tempCodename;
+						return "";
+					}
+				}
+
+				return "";
+			}
+		</script>
+<!-- $$object.objbuttons$$ --> <!-- $$object.wrapperend$$ -->
+<!-- $$customhtml:services$$ -->
+<!-- $$customhtml:relatedteasers$$ -->
+<div class="box linkliste">
+<!-- $$object.wrapperstart$$ --> <a class="cms-object-anchor" id="i3164969" style="height: 0px; width: 0px; border: 0; padding:0; line-height:0px;"></a>
+<h3 class="start-aside-hdl Fs(18px) Lh(1.22) C-gi-grau-7">
+</h3>
+<p class="start-aside-text Fs(14px) Lh(1.42) C-gi-grau-6 Mb(16p)"><br/>
+ </p>
+<!-- $$object.wrapperend$$ -->
+</div>
+<div class="box linkliste">
+<!-- $$object.wrapperstart$$ --> <a class="cms-object-anchor" id="i3165051" style="height: 0px; width: 0px; border: 0; padding:0; line-height:0px;"></a>
+<h3 class="start-aside-hdl Fs(18px) Lh(1.22) C-gi-grau-7">
+<a class="C-gi-grau-7" href="../../../../de/spr/mag/sta.html" target="_self">
+			Standpunkte 
+				</a>
+</h3>
+<div class="box-image">
+<a href="../../../../de/spr/mag/sta.html" target="_self"><span class="teaserBildContainer">
+<img alt="Standpunkte zum Lernen und Lehren von Deutsch als Fremdsprache" height="142.288732394" src="//www.goethe.de/resources/files/png23/Teaserbild_Ausschnitt-formatkey-png-w225.png" srcset="//www.goethe.de/resources/files/png23/Teaserbild_Ausschnitt-formatkey-png-w225.png 1x, //www.goethe.de/resources/files/png23/Teaserbild_Ausschnitt-formatkey-png-w450.png 2x" title="Standpunkte zum Lernen und Lehren von Deutsch als Fremdsprache" width="225"/> <span class="bildnachweis">Grafik: Andreas Münch</span>
+</span>
+</a>
+</div>
+<p class="start-aside-text Fs(14px) Lh(1.42) C-gi-grau-6 Mb(16p)">Dieser Beitrag ist Teil der Reihe <i>Standpunkte zum Lernen und Lehren von Deutsch als Fremdsprache</i> des Beirats Sprache des Goethe-Instituts.</p>
+<!-- $$object.wrapperend$$ -->
+</div>
+</aside>
+</div>
+</article>
+</div>
+<div class="row">
+<div class="span24 seitenIcons">
+<a class="nachOben" href="#top"><span>Top<span class="icon-double-arrow-up"></span></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="container footer" role="contentinfo">
+<footer>
+<h6 class="hide">#oI18n.getText(7, "GI 2.0 Templates")#:</h6>
+<div class="serviceNavigation" role="navigation">
+<span class="copyright">© 2020 Goethe-Institut</span>
+<ul>
+<li><a href="../../../../de/kon.html" title="Kontakt">Kontakt</a></li>
+<li><a href="../../../../de/imp.html" title="Impressum">Impressum</a></li>
+<li><a href="../../../../de/dat.html" title="Datenschutz">Datenschutz</a></li>
+<li><a href="../../../../de/nut.html" title="Nutzungsbedingungen">Nutzungsbedingungen</a></li>
+<li><a href="../../../../de/feed.html" title="RSS">RSS</a></li>
+<li><a href="../../../../de/som.html" title="Soziale Medien">Soziale Medien</a></li>
+<li><a href="../../../../de/new.html" title="Newsletter">Newsletter</a></li>
+<li><a href="https://my.goethe.de/kdf/faces/user/start.faces?ort=pxxdeYY&amp;l=u" title="Mein Goethe.de">Mein Goethe.de</a></li>
+<li><a href="../../../../de/lan.html" title="Institute">Institute</a></li>
+<li class="last"><a href="../../../../de/web.html" title="Web-Angebote">Web-Angebote</a></li>
+</ul>
+</div>
+<nav class="footerNavigation" role="navigation">
+<h6 class="hide">Übersicht Navigationsbereich:</h6>
+<ul class="navigation">
+<li><h5><a href="../../../../de/spr.html">Deutsche Sprache</a></h5></li>
+<li><a href="../../../../de/spr/mag.html">Magazin Sprache</a></li>
+<li><a href="../../../../de/spr/kup.html">Deutschkurse und Deutschprüfungen</a></li>
+<li><a href="../../../../de/spr/unt.html">Deutsch unterrichten</a></li>
+<li><a href="../../../../de/spr/ueb.html">Kostenlos Deutsch üben</a></li>
+<li><a href="../../../../de/spr/eng.html">Unser Engagement für Deutsch</a></li>
+<li><a href="../../../../de/spr/wdl.html">Warum Deutsch lernen?</a></li>
+<li><a href="../../../../de/spr/flu.html">Willkommen - Deutschlernen für Flüchtlinge</a></li>
+</ul><ul class="navigation">
+<li><h5><a href="../../../../de/kul.html">Kultur</a></h5></li>
+<li><a href="../../../../de/kul/erp.html">Europa</a></li>
+<li><a href="../../../../de/kul/arc.html">Architektur</a></li>
+<li><a href="../../../../de/kul/bib.html">Bibliotheken</a></li>
+<li><a href="../../../../de/kul/bku.html">Bildende Kunst</a></li>
+<li><a href="../../../../de/kul/wis.html">Bildung und Wissen</a></li>
+<li><a href="../../../../de/kul/des.html">Design und Mode</a></li>
+<li><a href="../../../../de/kul/flm.html">Film</a></li>
+<li><a href="../../../../de/kul/ges.html">Gesellschaft und Zeitgeschehen</a></li>
+<li><a href="../../../../de/kul/lit.html">Literatur</a></li>
+<li><a href="../../../../de/kul/med.html">Medien</a></li>
+<li><a href="../../../../de/kul/mol.html">Modernes Leben</a></li>
+<li><a href="../../../../de/kul/mus.html">Musik</a></li>
+<li><a href="../../../../de/kul/tut.html">Tanz und Theater</a></li>
+<li><a href="../../../../de/kul/ser.html">Residenzprogramme</a></li>
+</ul><ul class="navigation">
+<li><h5><a href="../../../../de/uun.html">Über uns</a></h5></li>
+<li><a href="../../../../de/uun/org.html">Organisation</a></li>
+<li><a href="../../../../de/uun/auf.html">Aufgaben</a></li>
+<li><a href="../../../../de/uun/kar.html">Karriere</a></li>
+<li><a href="../../../../de/uun/prs.html">Presse</a></li>
+<li><a href="../../../../de/uun/pub.html">Publikationen</a></li>
+<li><a href="../../../../de/uun/ver.html">Veranstaltungen</a></li>
+</ul><ul class="navigation">
+<li><h5><a href="../../../../de/wwt.html">Standorte</a></h5></li>
+<!-- closing -->
+</ul>
+</nav>
+</footer>
+</div>
+<script src="//www.goethe.de/resources/relaunch/js/lib/vue-2.6.0.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/bootstrap.bundle-4.3.1.min.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/bootstrap-datepicker.min.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/dropkick.2.1.7.min.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/fancybox/jquery.fancybox.pack.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/mousewheel/jquery.mousewheel-3.0.6.pack.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/flexslider/jquery.flexslider-min.js"></script>
+<script src="//www.goethe.de/resources/relaunch/js/gi/jquery.gi-merged.js"></script>
+<script src="/services/sso/assets/js/sso.js"></script>
+<!-- $$customhtml:footerScriptTags$$ -->
+<script>
+		
+        setupDynamicSearch('https://www.goethe.de/de/suche.cfm', 'Suche');
+		
+			
+            wt.linkTrack = "standard";
+            wt.linkTrackAttribute = "href";
+            wt.linktrackNamedlinksOnly=false;
+            wt.linkTrackInstall();
+            wt.linkTrackInit();
+		
+
+        <!-- $$customhtml:footerJS$$ -->
+		
+		
+		$(window).on("load", function() {
+			
+		    setupEmailLinks();
+		    setupDropdown();
+
+			<!-- $$customhtml:footerJSWindow$$ -->
+			
+		});
+
+		$(document).ready(function(){
+			
+    		setupFlexslider({".flexslider":{"rev":false}});
+		    setupLanguageSelectLinks();
+		    setupMegamenu();
+		    setupScrollToTop();
+            setupIEImageScaling();
+            setupPageHeading(true);
+            setupSocialMediaToggle();
+            setupGlobalHeadSearch('https://www.goethe.de/de/suche.html');
+
+			
+	
+		$('.socialShare').socialShare({
+				'services' : {
+					'facebook' : {
+						'status'            : 'off',
+						'text'				: 'Facebook',
+						'logo'				: 'images/logo_facebook.png',
+					},
+					'twitter' : {
+						'status'            : 'off',
+						'text'				: 'Twitter',
+						'logo'				: 'images/logo_twitter.png',
+					},
+					'gplus' : {
+						'status'            : 'off',
+						'text'				: 'Google+',
+						'logo'				: 'images/logo_googleplus.png',
+					},
+					'vkontakte' : {
+						'status'			: 'off',
+						'text'				: 'VKontakte',
+						'logo'				: 'images/logo_vkontakte.png',
+					}
+				},
+				'url' : "https://www.goethe.de/de/spr/mag/sta/20481610.html",
+				'title' : "Sprache,\x20Bildung\x20\u2013\x20und\x20Erfolg\x3F",
+				'image' : "http://www.goethe.de/resources/files/jpg400/Teaser_Bildungswissenschaften-formatkey-jpg-w983.jpg",
+				'description' : "Welche\x20Bedeutung\x20haben\x20sprachliche\x20F\xE4higkeiten\x20f\xFCr\x20Bildungserfolg\x20\u2013\x20und,\x20dar\xFCber\x20hinausgehend\x3A\x20f\xFCr\x20gesellschaftliche\x20Teilhabe\x3F\x20Dies\x20ist\x20eine\x20Leitfrage\x20der\x20Bildungsforschung\x20zur\x20Sprachentwicklung\x20\u2013\x20eine\x20Suche\x20nach\x20Antworten\x20mit\x20neuen\x20Erkenntnissen.",
+				'deactivation_div'		: '.socialDeactivated',
+				'activation_div'		: '.socialActivated',
+				'domain'				: 'www.goethe.de',
+				'language'				: 'de',
+				'shariffscriptpath' 	: "//www.goethe.de/resources/relaunch/js/shariff/shariff.complete.js",
+				'backend_url'			: "https://www.goethe.de/rest/socialmedia/proxy/getShares/?",
+				'shariff_data_orientation' : "vertical"
+		});
+
+
+			
+		});
+	</script>
+<script>
+		var GI_SSO_SETTINGS = {
+			lang			: 2,
+			app				: 'goethe',
+			locale 			: 'de',
+			
+			loginIframe		: 'https://login.goethe.de/cas/?service=https://www.goethe.de/services/sso/cas/&locale=de',
+			
+			i18n			: {
+				'login'					: 'Mein Goethe.de – Anmelden',
+				'loginCommentingHint' 	: 'Melden Sie sich an, um kommentieren zu können.',
+				'signupSuccess'			: 'Ihre Registrierung war erfolgreich',
+				'signupSuccessHint' 	: 'Sie können sich jetzt anmelden.',
+				'userLoggedInText'	 	: 'Mein Goethe.de - [username]'
+	
+			}
+		};
+
+		
+	</script>
+<!-- Job Posting Meta -->
+<!-- $$customhtml:metadata_jobposting$$ -->
+</div>
+</body>
+</html>

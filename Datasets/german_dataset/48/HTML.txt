@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<base href="https://www.alumniportal-deutschland.org/"/>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="1" name="revisit-after"/>
+<meta content="1" name="includeGlobal"/>
+<meta content="de" name="language"/>
+<meta content="Alumniportal Deutschland" name="author"/>
+<meta content="all" name="robots"/>
+<meta content="Alumniportal Deutschland" name="copyright"/>
+<meta content="General" name="rating"/>
+<meta content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" name="SKYPE_TOOLBAR"/>
+<meta content="AB-xQEb7Mza8o7R_KWbd_yrQOe6c-QUd_qut9HvjyFE" name="google-site-verification"/>
+<link href="typo3temp/compressor/merged-01dfd1addfb30afd1bd0ed5e9e144256-223123fc81c851013df0861490cc332f.css?1590737296" media="all" rel="stylesheet" type="text/css"/>
+<link href="typo3temp/compressor/merged-d46f7624657d2b468291ff9c335a63e0-88fec8b4d7f5e4f53aa7ac32bae5efeb.css?1590749868" media="all" rel="stylesheet" type="text/css"/>
+<script src="typo3/sysext/core/Resources/Public/JavaScript/Contrib/jquery/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery.noConflict();
+/*]]>*/
+</script>
+<title>Alumni - Treffpunkt für Deutschland-Alumni - Alumniportal Deutschland</title>
+<meta content="Alumni - Treffpunkt für Deutschland-Alumni - Alumniportal Deutschland" name="title"/>
+<meta content="Alumniportal, Alumniportal Deutschland, Alumni, Deutschland-Alumni" name="keywords"/>
+<meta content="Alumni und Alumni-Netzwerke treffen sich auf dem Alumniportal Deutschland z.B. zum Austausch zu Themen wie Agenda 2030 und für Alumni-Projekte" name="description"/>
+<meta content="2020-09-29" name="date"/>
+<link href="http://www.alumniportal-deutschland.org/" rel="canonical"/>
+<script src="https://use.typekit.net/xqh8nzh.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<meta content="Startseite" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="http://www.alumniportal-deutschland.org/" property="og:url"/>
+<meta content="www.alumniportal-deutschland.org" property="og:site_name"/>
+<meta content="Alumni und Alumni-Netzwerke treffen sich auf dem Alumniportal Deutschland z.B. zum Austausch zu Themen wie Agenda 2030 und für Alumni-Projekte" property="og:description"/>
+<meta content="https://www.alumniportal-deutschland.org//assets/_processed_/d/a/csm_moodmotiv-906x700_350f862c6c.jpg" property="og:image"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KTKWJDH');</script>
+</head>
+<body>
+<header class="page-header" id="js-page-header">
+<div class="header-mobile container">
+<div class="nav-icon-mobile-wrap">
+<span class="nav-icon-mobile js-toggle-menu-nav">
+<svg class="icon-burger">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-burger"></use>
+</svg>
+<svg class="icon-close">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-close"></use>
+</svg>
+</span>
+</div>
+<div class="apd-logo-mobile-wrap">
+<a class="apd-logo-mobile" href="/" title="Alumniportal Deutschland"><img alt="Alumniportal Deutschland" src="/assets/Resources/Public/Images/apd-logo.svg"/></a>
+</div>
+<div class="user-icon-mobile-wrap">
+<a href="https://community.alumniportal-deutschland.org/" target="_blank" title="Login">
+<span class="user-icon-mobile">
+<svg class="icon-user">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-user"></use>
+</svg>
+</span>
+</a>
+</div>
+</div>
+<div class="menu-nav js-menu-nav no-transition">
+<div class="patch"></div>
+<div class="scroll-container-outer">
+<div class="scroll-container-inner">
+<div class="desktop container">
+<nav class="nav-main"><a href="#"><img alt="" class="logo-reduced" src="/assets/Resources/Public/Images/apd-logo-reduced.svg"/></a><ul class="first-level" id="js-navigation"><li><a href="magazin/" title="Magazin">Magazin</a><ul class="second-level"><li><a href="deutschland/" title="Deutschland">Deutschland</a></li><li><a href="studium-weiterbildung/" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a></li><li><a href="wissenschaft-forschung/" title="Wissenschaft &amp; Forschung">Wissenschaft &amp; Forschung</a></li><li><a href="alumni-geschichten/" title="Alumni-Geschichten">Alumni-Geschichten</a></li><li><a href="karriere/" title="Karriere">Karriere</a></li><li><a href="schwerpunktthemen/" title="Schwerpunktthemen">Schwerpunktthemen</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="aktuelles/" title="Aktuelles">Aktuelles</a><ul class="second-level"><li><a href="aktuelles/ausschreibungen/" title="Ausschreibungen">Ausschreibungen</a></li><li><a href="aktuelles/ankuendigungen/" title="Ankündigungen">Ankündigungen</a></li><li><a href="aktuelles/alumni-treffen/" title="Alumni-Treffen">Alumni-Treffen</a></li><li><a href="aktuelles/mitmachaktionen/" title="Mitmachaktionen">Mitmachaktionen</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="digitales-lernen/" title="Digitales Lernen">Digitales Lernen</a><ul class="second-level"><li><a href="digitales-lernen/deutsche-sprache/" title="Deutsche Sprache">Deutsche Sprache</a><ul class="third-level"><li><a href="digitales-lernen/deutsche-sprache/verstehen-sie-deutsch/" title="Verstehen Sie Deutsch">Verstehen Sie Deutsch?</a></li><li><a href="digitales-lernen/deutsche-sprache/deutsch-auf-die-schnelle/" title="Deutsch auf die Schnelle">Deutsch auf die Schnelle</a></li><li><a href="digitales-lernen/deutsche-sprache/online-deutsch-lernen/" title="Online Deutsch lernen">Online Deutsch lernen</a></li><li><a href="digitales-lernen/deutsche-sprache/einstufungstest/" title="Einstufungstest">Einstufungstest</a></li><li><a href="digitales-lernen/deutsche-sprache/deutschkurse/" title="Deutschkurse">Deutschkurse</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="digitales-lernen/web-seminare/" title="Web-Seminare">Web-Seminare</a></li><li><a href="digitales-lernen/e-books/" title="E-Books">E-Books</a><ul class="third-level"><li><a href="digitales-lernen/e-books/karriere-berufswahl/" title="Karriere und Berufswahl">Karriere und Berufswahl</a></li><li><a href="digitales-lernen/e-books/kommunikation/" title="Kommunikation und Präsentation">Kommunikation und Präsentation</a></li><li><a href="digitales-lernen/e-books/management-und-strategie/" title="Management und Strategie">Management und Strategie</a></li><li><a href="digitales-lernen/e-books/persoenliche-entwicklung/" title="Persönliche Entwicklung">Persönliche Entwicklung</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="digitales-lernen/hoerbuecher/" title="Hörbücher">Hörbücher</a></li><li><a href="digitales-lernen/quizze/" title="Quizze">Quizze</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="ueber-uns/" title="Über uns">Über uns</a><ul class="second-level"><li><a href="ueber-uns/als-alumni-auf-dem-portal/" title="Als Alumni auf dem Portal">Als Alumni auf dem Portal</a></li><li><a href="services/alumni-alumniportal-deutschland/als-unternehmen-auf-dem-portal/" title="Als Unternehmen auf dem Portal">Als Unternehmen auf dem Portal</a></li><li><a href="ueber-uns/als-hochschule-auf-dem-portal/" title="Als Hochschule auf dem Portal">Als Hochschule auf dem Portal</a></li><li><a href="ueber-uns/angebote-fuer-alumni-netzwerke/" title="Angebote für Alumni-Netzwerke">Angebote für Alumni-Netzwerke</a></li><li><a href="ueber-uns/partner/" title="Partner">Partner</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="mitglieder/" title="Community">Community</a></li></ul></nav>
+</div>
+<div class="language"><span class="active">DE</span> • <a href="en/">EN</a></div>
+</div>
+</div>
+</div>
+<div class="header-desktop container">
+<a class="apd-logo" href="/" title="Alumniportal Deutschland"><img alt="Alumniportal Deutschland" class="img-responsive" src="/assets/Resources/Public/Images/apd-logo.svg"/></a>
+<div class="header-buttons">
+<div class="language-wrapper js-search-hide">
+<div class="language"><span class="active">DE</span> • <a href="en/">EN</a></div>
+</div>
+<div class="portal js-search-hide">
+<a href="https://community.alumniportal-deutschland.org/" target="_blank" title="Login">
+<span class="icon"><svg class="icon-user">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-user"></use>
+</svg></span>Login
+          </a>
+</div>
+<div class="registration"><a class="bt-default bt-red" href="https://community.alumniportal-deutschland.org/" target="_blank">Jetzt Mitglied werden</a></div>
+</div>
+</div>
+</header>
+<div class="page-wrapper" id="js-page-wrapper">
+<main class="page-container startpage">
+<section class="default"><div class="container">
+<div id="c42213">
+<div class="tx-ppw-apd-slider">
+<ul class="bxslider">
+<li>
+<img alt="" height="700" src="fileadmin/user_upload/neue-startseite-final.jpg" width="1105"/>
+<div class="bx-caption">
+<p>Das Angebot Deutschlands zur Vernetzung und zum Wissensaustausch von Alumni, Unternehmen, Hochschulen und Organisationen. Das Alumniportal Deutschland bietet die Möglichkeit, weltweit mit Deutschland-Alumni sowie mit Unternehmen in Kontakt zu treten und sich fachlich auszutauschen. <a href="http://www.alumniportal-deutschland.org/?id=6" target="_top">Erfahren Sie mehr! </a></p>
+</div>
+</li>
+<li>
+<img alt="" height="700" src="fileadmin/user_upload/neue-startseite-e-books-final.jpg" width="1105"/>
+<div class="bx-caption">
+<p>Laden Sie ausgewählte Fachliteratur im PDF-Format zu unterschiedlichen Themen wie Rhetorik, Projektmanagement, Strategie bis hin zur Karriere kostenlos herunter und vertiefen Sie Ihr Wissen. Stöbern Sie durch die Rubriken in der Navigation links für mehr Inhalte. <a href="digitales-lernen/e-books/">Kostenlose E-Books herunterladen!</a></p>
+</div>
+</li>
+<li>
+<img alt="" height="700" src="fileadmin/user_upload/neue-startseite-deutsche-sprache-final-links.jpg" width="1105"/>
+<div class="bx-caption">
+<p>Sie möchten Ihre Deutschkenntnisse auffrischen? Das Thema „Deutsche Sprache“ spielt auf dem Alumniportal eine große Rolle, denn fast alle Alumni besitzen deutsche Sprachkenntnisse. Nutzen Sie unsere <a href="digitales-lernen/deutsche-sprache/">Sprachlern-Angebote</a> und tauschen Sie sich in der Community mit anderen Deutschlernern aus!</p>
+</div>
+</li>
+<li>
+<img alt="" height="700" src="fileadmin/user_upload/Startseite_Europa_Schwerpunkt_DE.jpg" width="1105"/>
+<div class="bx-caption">
+<p>Aufgrund des deutschen Vorsitzes der EU-Ratspräsidentschaft in der  zweiten Jahreshälfte 2020 widmet sich das Alumniportal in den nächsten  Monaten verstärkt den Themen EU und Europa. Seien Sie auf spannende  Berichte, Veranstaltungen, Kulturtipps, Comics und Beiträge gespannt!<a href="schwerpunktthemen/europa/"> Mehr erfahren!</a> </p>
+</div>
+</li>
+<li>
+<img alt="" height="696" src="fileadmin/user_upload/startseite-corona-final.jpg" width="1105"/>
+<div class="bx-caption">
+<p>Das Leben in Zeiten von Covid-19 hat sich für viele Menschen grundlegend verändert. Aus diesem Grund widemt sich auch das Alumniportal dieser Thematik. Sie finden <a href="schwerpunktthemen/corona/">hier</a> eine Sammlung an Gedanken, Alumni-Statements, Linklisten und vieles mehr zum Thema Coronavirus-Pandemie.</p>
+</div>
+</li>
+<li>
+<img alt="" height="700" src="fileadmin/user_upload/neue-startseite-kulturtipps-final.jpg" width="1105"/>
+<div class="bx-caption">
+<p>In 15 Filmen von circa einer Minute Länge empfiehlt der Moderator Uke Bosse international digital verfügbare Kulturprodukte zu den Themen Europa, Gleichberechtigung und Mobilität. Diese Videos stehen auf Deutsch mit englischen Untertiteln zur Verfügung und sind mit der Aufforderung verbunden, eigene Empfehlungen zu teilen. <a href="deutschland/kultur/kulturtipps-mit-uke-bosse/">Mehr erfahren!</a></p>
+</div>
+</li>
+</ul>
+<input class="autoplaySlider" type="hidden" value="1"/>
+</div>
+</div>
+</div></section>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KTKWJDH" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<div id="c42228">
+<h2 class="headline-section">Aktuelle Themen</h2>
+</div>
+<section class="default"><div class="container"><div class="block-white">
+<div id="c42215">
+<div class="tx-ppw-apd-category">
+<div class="teaserList" id="teaserList-42215">
+<article class="teaser img-left">
+<div class="teaser-img">
+<a href="wissenschaft-forschung/neues-aus-der-wissenschaft/infografik-mobilitaet/" title="Infografik Mobilität">
+<img alt="Infografik Mobilität" class="img-fluid img-responsive" height="540" src="fileadmin/user_upload/Teaser_DE.jpg" title="Infografik Mobilität" width="960"/>
+</a>
+</div>
+<div class="teaser-content">
+<header>
+<a href="wissenschaft-forschung/neues-aus-der-wissenschaft/infografik-mobilitaet/" title="Infografik Mobilität">
+<h3 class="headline-1">
+            Infografik: Mobilität
+          </h3>
+</a>
+</header>
+<p>Diese Infografik beleutet, was Mobilität bedeutet, wie Mobilität  entsteht und wie die Zukunft der Mobilität aussehen kann. Außerdem  informiert sie über verschiedene Formen umweltfreundlicher  Fortbewegungsmöglichkeiten und was heute noch zu tun ist. </p>
+</div>
+</article>
+<article class="teaser img-right">
+<div class="teaser-img">
+<a href="wissenschaft-forschung/neues-aus-der-wissenschaft/tedx-kanzlerpark-konferenz/" title="TEDx Kanzlerpark Konferenz">
+<img alt="TEDx Kanzlerpark Konferenz" class="img-fluid img-responsive" height="450" src="fileadmin/user_upload/post_fb_tw.jpg" title="TEDx Kanzlerpark Konferenz" width="900"/>
+</a>
+</div>
+<div class="teaser-content">
+<header>
+<a href="wissenschaft-forschung/neues-aus-der-wissenschaft/tedx-kanzlerpark-konferenz/" title="TEDx Kanzlerpark Konferenz">
+<h4 class="headline-2">
+          Veranstaltungsbericht: virtuelle TEDxKanzlerPark Konferenz
+        </h4>
+<h3 class="headline-1">
+            Ideenvermittlung und feierlicher Abschluss eines erfolgreichen Jahres in Deutschland
+          </h3>
+</a>
+</header>
+<p>Im September 2020 fand die virtuelle TEDxKanzlerPark Konferenz der Bundeskanzler-Stipendiatinnen und Stipendiaten der Humboldt-Stiftung statt. Lesen Sie hier ein Interview mit dem Organisationsteam der Veranstaltung und schauen Sie die aufgezeichneten TEDx-Vorträge an.</p>
+</div>
+</article>
+<article class="teaser img-left">
+<div class="teaser-img">
+<a href="karriere/erfolgreich-im-job-interview/" title="Erfolgreich im Job-Interview">
+<img alt="Erfolgreich im Job-Interview" class="img-fluid img-responsive" height="540" src="fileadmin/bilder/jobs-karriere/karrieremagazin/Job-Interview.jpg" title="Erfolgreich im Job-Interview" width="960"/>
+</a>
+</div>
+<div class="teaser-content">
+<header>
+<a href="karriere/erfolgreich-im-job-interview/" title="Erfolgreich im Job-Interview">
+<h4 class="headline-2">
+          Vorstellungsgespräch meistern
+        </h4>
+<h3 class="headline-1">
+            Erfolgreich im Job-Interview
+          </h3>
+</a>
+</header>
+<p>Wenn Bewerber*innen eine Einladung zu einem Job-Interview erhalten, haben sie einen guten Grund, sich über den Erfolg zu freuen und selbstbewusst in das Vorstellungsgespräch zu gehen. In diesem Beitrag geben wir Ihnen nützliche Tipps, um ein Job-Interview souverän zu meistern.</p>
+</div>
+</article>
+<div class="row">
+<div class="col-md-6">
+<article class="teaser sdg-teaser img-top">
+<div class="teaser-img">
+<a href="wissenschaft-forschung/neues-aus-der-wissenschaft/lernen-in-zeiten-von-covid-19/" title="Virtual Coffee Break: Lernen in Zeiten von Covid-19">
+<img alt="Virtual Coffee Break: Lernen in Zeiten von Covid-19" class="img-fluid img-responsive" height="297" src="fileadmin/user_upload/Schuelerin_Credit_CVIF_kl.png" title="Virtual Coffee Break: Lernen in Zeiten von Covid-19" width="511"/>
+</a>
+<div class="sdg-tags-wrap">
+<a class="sdg-g-10" href="global-goals/sdg-10-ungleichheiten/" title="Ziel 10: Weniger Ungleichheiten">
+<img alt="Ziel 10: Weniger Ungleichheiten" src="assets/Resources/Public/Images/goal-10-small.svg"/>
+</a>
+<a class="sdg-g-04" href="global-goals/sdg-04-bildung/" title="Ziel 4: Hochwertige Bildung">
+<img alt="Ziel 4: Hochwertige Bildung" src="assets/Resources/Public/Images/goal-4-small.svg"/>
+</a>
+</div>
+</div>
+<div class="teaser-content">
+<header>
+<a href="wissenschaft-forschung/neues-aus-der-wissenschaft/lernen-in-zeiten-von-covid-19/" title="Virtual Coffee Break: Lernen in Zeiten von Covid-19">
+<h4 class="headline-2">
+          Virtual Coffee Break
+        </h4>
+<h3 class="headline-1">
+            Lernen in Zeiten von Covid-19
+          </h3>
+</a>
+</header>
+<p>Eine drängende Frage insbesondere in Zeiten von Corona: Wie sieht erfolgreiches Lernen ohne Präsenzunterricht aus? Ein philippinisches Physiker-Ehepaar hat dazu bereits lange vor Covid-19 ein Konzept entworfen – und es Alumni in einer Virtual Coffee Break vorgestellt.</p>
+</div>
+</article>
+</div>
+<div class="col-md-6">
+<article class="teaser img-top">
+<div class="teaser-img">
+<a href="karriere/mentoring-auf-dem-alumniportal/" title="Mentoring auf dem Alumniportal">
+<img alt="Mentoring auf dem Alumniportal" class="img-fluid img-responsive" height="540" src="fileadmin/user_upload/Labpic_teaser.JPG" title="Mentoring auf dem Alumniportal" width="960"/>
+</a>
+</div>
+<div class="teaser-content">
+<header>
+<a href="karriere/mentoring-auf-dem-alumniportal/" title="Mentoring auf dem Alumniportal">
+<h4 class="headline-2">
+          Mentoring auf dem Alumniportal
+        </h4>
+<h3 class="headline-1">
+            „Wertvolle Unterstützung für die Karriere“
+          </h3>
+</a>
+</header>
+<p>Schon fast 4000 Alumni haben sich in der neuen Community des Alumniportals als Mentorinnen und Mentoren registriert, um Ihre Karriere zu unterstützen. So finden Sie zusammen.</p>
+</div>
+</article>
+</div>
+</div>
+<input class="currentPage" name="currentPage" type="hidden" value="2"/>
+<input class="languageParam" name="languageParam" type="hidden" value="0"/>
+<input class="categories" name="categories" type="hidden" value="4,5,13,15,16,17,76,79,22,94,29,26,91"/>
+<input class="index" name="index" type="hidden" value="1"/>
+<input class="offset" name="offset" type="hidden" value="5"/>
+<input class="hideImages" name="hideImages" type="hidden" value="0"/>
+<div class="text-xs-center pageResults pageResults-1">
+<a class="bt-default bt-red nextCategoryResults" href="#" onclick="return false;">
+    Mehr anzeigen
+  </a>
+</div>
+</div>
+</div>
+</div>
+</div></div></section>
+<div id="c22158">
+<div class="html-element-wrap">
+<h1 class="headline-2" style="margin-bottom:-65px; margin-top:60px; text-align:center; font-size:100%;">Treffpunkt für Deutschland-Alumni</h1>
+</div>
+</div>
+<section class="section-events default" id="c130">
+<div class="container not-mobile">
+<h2 class="headline-section">Alumni-Events &amp; Termine</h2>
+<ul id="js-offsetslider-events">
+<li>
+<a class="event-item block-gradient" href="aktuelles/ausschreibungen/stipendien-deutschland/alumni-gastautoren/" title="Jetzt bewerben">
+<img alt="Jetzt bewerben" class="img-fluid" height="540" src="fileadmin/user_upload/Alumnireporter.jpg" width="960"/>
+<span class="event-title">Jetzt bewerben</span>
+<span class="event-subtitle">Alumni als Gastautoren gesucht</span>
+<p><br/>Bewerbungssschluss: sofort</p>
+</a>
+</li>
+<li>
+<a class="event-item block-gradient" href="aktuelles/ausschreibungen/stipendien-deutschland/neue-alexander-von-humboldt-professuren-fuer-kuenstliche-intelligenz/" title="Jetzt nominieren">
+<img alt="Jetzt nominieren" class="img-fluid" height="540" src="fileadmin/bilder/aktuelles/GettyImages-1078061882.jpg" width="960"/>
+<span class="event-title">Jetzt nominieren</span>
+<span class="event-subtitle">Neue Alexander von Humboldt-Professuren für Künstliche Intelligenz</span>
+<p>Nominierungen: ab sofort</p>
+</a>
+</li>
+<li>
+<a class="event-item block-gradient" href="aktuelles/ausschreibungen/stipendien-deutschland/call-buka-stipendium/" title="Jetzt bewerben">
+<img alt="Jetzt bewerben" class="img-fluid" height="540" src="fileadmin/bilder/aktuelles/student-schreibtisch-laptop.jpg" width="960"/>
+<span class="event-title">Jetzt bewerben</span>
+<span class="event-subtitle">Bundeskanzler-Stipendium für Führungskräfte</span>
+<p>Bewerbungen bis: 15.09.2020</p>
+</a>
+</li>
+<li>
+<a class="event-item block-gradient" href="aktuelles/ausschreibungen/stipendien-deutschland/promotionsstipendien-der-studienstiftung/" title="Jetzt bewerben">
+<img alt="Jetzt bewerben" class="img-fluid" height="540" src="fileadmin/bilder/aktuelles/stipendienstiftung-titelbild.jpg" width="960"/>
+<span class="event-title">Jetzt bewerben</span>
+<span class="event-subtitle">Promotionsstipendien der Studienstiftung</span>
+<p><br/>Bewerbungen jederzeit möglich</p>
+</a>
+</li>
+</ul>
+<div class="events-bt">
+<a class="bt-default bt-red" href="aktuelles/ausschreibungen/stipendien-deutschland/" title="Mehr Termine">
+        Mehr Termine
+      </a>
+</div>
+</div>
+</section><section class="default"><div class="container">
+</div></section><section class="default"><div class="container">
+<div class="row"><div class=" col-md-6 ">
+<div id="c3631">
+<span class="headline-1">Alumniportal Deutschland-Newsletter</span>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p><b>Abonnieren Sie jetzt den Alumniportal Deutschland-Newsletter.</b> </p>
+<p>Sie erhalten jede Woche kostenlos per E-Mail hochwertige Expertentipps und Deutschland-Infos, Informationen zu interessanten Diskussionen und Aktivitäten in der Community, einen Überblick über alle aktuellen Alumni-Veranstaltungen und -Netzwerke – leicht verständliche Informationen statt komplizierter Fachsprache! Wahlweise informieren wir Sie in deutscher oder englischer Sprache.</p>
+</div>
+</div>
+</div>
+</div><div class=" col-md-6 ">
+<div id="c3630">
+<span class="headline-1">Newsletter „Verstehen Sie Deutsch?“</span>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p><b>Welche Redewendungen kennen Sie?</b> Und welche typischen Formulierungen sind Ihnen geläufig?</p>
+<p>Finden Sie es heraus und abonnieren Sie jetzt unseren Newsletter „Verstehen Sie Deutsch?“. Sie erhalten täglich ein deutsches Wort oder eine deutsche Redewendung zum Mitraten kostenlos per E-Mail! Und natürlich liefern wir Ihnen auch die Lösung. Nutzen Sie die Gelegenheit, Ihre Deutschkenntnisse spielerisch zu verbessern. Der Newsletter ist nur in deutscher Sprache verfügbar.</p>
+</div>
+</div>
+</div>
+</div></div><div class="text-xs-center">
+<div id="c3633">
+<div class="html-element-wrap">
+<a class="bt-default bt-yellow" href="http://www.alumniportal-deutschland.org/services/newsletter/" title="Newsletter abonnieren">Newsletter abonnieren</a>
+</div>
+</div>
+</div>
+<div id="c21157">
+</div>
+</div></section><section class="persons-overview-wrap default" id="c354">
+<h2 class="headline-section">Deutschland-Alumni im Porträt</h2>
+<div class="js-offsetslider-persons">
+<div class="container">
+<ul>
+<li class="active">
+<div class="person-item">
+<img alt="Daniel Ouma Odhiambo" class="img-circle" height="344" src="fileadmin/bilder/mitglieder-netzwerke/alumni-geschichten/rollend-die-welt-veraendern-odhiambo.JPG" width="344"/>
+<span class="person-title">Daniel Ouma Odhiambo</span>
+</div>
+</li>
+<li class="">
+<div class="person-item">
+<img alt="Isabela Paredes Cisneros" class="img-circle" height="200" src="fileadmin/bilder/csm_Exzellenzzentren_1_f9193dab92.jpg" width="200"/>
+<span class="person-title">Isabela Paredes Cisneros</span>
+</div>
+</li>
+<li class="">
+<div class="person-item">
+<img alt="Amri Sherzamonov" class="img-circle" height="128" src="fileadmin/bilder/mitglieder-netzwerke/alumni-geschichten/Amri_Shersamonov.jpg" width="128"/>
+<span class="person-title">Amri Sherzamonov</span>
+</div>
+</li>
+<li class="">
+<div class="person-item">
+<img alt="M. Randrianirainy" class="img-circle" height="1305" src="fileadmin/bilder/startseite/Manuela.jpg" width="1305"/>
+<span class="person-title">M. Randrianirainy</span>
+</div>
+</li>
+<li class="">
+<div class="person-item">
+<img alt="N. Fejzibegovic" class="img-circle" height="266" src="fileadmin/bilder/startseite/Person5-nino.jpg" width="260"/>
+<span class="person-title">N. Fejzibegovic</span>
+</div>
+</li>
+</ul>
+</div>
+<div class="person-content-wrap block-gradient container container--desktop">
+<div class="container container--mobile person-content active js-person-content">
+<h1>Skaten in Kenia: Rollend die Welt verändern</h1>
+<p>Skaten, Deutschlernen, Jugendliche fördern: Der Kenianer  Daniel Ouma  Odhiambo sucht ständig nach neuen Herausforderungen. Und  hat für seinen  Job aus der Not eine Tugend gemacht. </p><div class="container container--mobile person-content active js-person-content"><p><b>„Eine andere Sprache zu lernen, öffnet einem die Tür zu einer anderen Welt“. </b></p>
+<p><a class="bt-default bt-red" href="https://www.alumniportal-deutschland.org/mitglieder/alumni-geschichten/skaten-in-kenia-rollend-die-welt-veraendern/" target="_blank">Lesen Sie weiter!</a></p></div>
+</div>
+<div class="container container--mobile person-content js-person-content">
+<h1><a href="alumni-geschichten/wie-die-welt-funktioniert/">„Ich wollte wissen, wie die Welt funktioniert“</a></h1>
+<p>Über ein DAAD-Stipendium konnte Isabela Paredes Cisneros in  Heidelberg  und Santiago de Chile Medizinische Physik studieren.  Inzwischen arbeitet  die Kolumbianerin an ihrer Doktorarbeit und hat ein  gutes Rezept für  den Culture Clash gefunden. </p><div class="container container--mobile person-content js-person-content active"><p><b>„Ich bin zwar durch und durch kolumbianisch, aber inzwischen auch ein wenig deutsch.“</b></p>
+<p><a class="bt-default bt-red" href="https://www.alumniportal-deutschland.org/mitglieder/alumni-geschichten/wie-die-welt-funktioniert/" target="_blank">Lesen Sie weiter! </a></p></div>
+</div>
+<div class="container container--mobile person-content js-person-content">
+<h1><a href="alumni-geschichten/minderheitensprachen-der-kampf-gegen-das-vergessen/">Minderheitensprachen: Der Kampf gegen das Vergessen</a></h1>
+<p> Amri Sherzamonov stammt aus Chorugh, einer Bergstadt in Tadschikistan, und er hat ein einzigartiges Problem: Amri Sherzamonovs Muttersprache droht zu verschwinden. Aus diesem Grund will er nun handeln. </p>
+<p><b>„Wir haben in unserer Muttersprache nicht einmal Zugang zu  Grundschulbildung oder allgemeinen Informationen. Das ist sehr  beunruhigend. Untersuchungen zeigen, dass Kinder, denen all das  vorenthalten wird, keine guten Ergebnisse in der Schule erzielen.“</b></p>
+<p><a class="redButton" href="alumni-geschichten/minderheitensprachen-der-kampf-gegen-das-vergessen/">Lesen Sie weiter!</a></p>
+</div>
+<div class="container container--mobile person-content js-person-content">
+<h3 class="headline-1">Manuela Randrianirainy</h3>
+<p>Manuela Randrianirainy studiert Germanistik in Antananarivo. Die Deutschland-Alumna war für drei Monate in München und hat einen Deutschkurs am Goethe-Institut besucht. Nach ihrer Masterarbeit in Literatur möchte sie als Dozentin an der Universität in Madagaskar und als Übersetzerin arbeiten.</p>
+<p><b>„An meinem Deutschlandaufenthalt habe ich sehr viele glückliche Erinnerungen, die ich nie vergessen werde. Ich möchte gerne meine Leidenschaft für Deutschland und die deutsche Sprache an so viele Leute wie möglich weitergeben.“</b></p>
+</div>
+<div class="container container--mobile person-content js-person-content">
+<h3 class="headline-1">Nino Fejzibegovic</h3>
+<p>Nino Fejzibegovic ist Bosnier. Sein Medizinstudium hat ihn seit 2010 nicht allein an die Universität Heidelberg, sondern auch nach Schweden, Südafrika, Österreich, Japan und in die USA geführt, wo er Praktika absolvierte. Deutschland ist aber mittlerweile wie eine zweite Heimat geworden. Nun stehen Promotion und der Facharzt an.</p>
+<p><b>„Ich kann nur jedem raten, sich einfach zu trauen, was anderes zu sehen und zu machen.“</b></p>
+</div>
+</div>
+</div>
+</section><section class="default"><div class="container">
+<div id="c12">
+<div class="html-element-wrap">
+<div class="startpage-partner">
+<h2 class="headline-footer">Über das Alumniportal Deutschland</h2>
+<p>Das Alumniportal Deutschland ist ein weltweites Alumni-Netzwerk mit der Zielgruppe Deutschland-Alumni. Das vom Auswärtigen
+        Amt geförderte Alumniportal ist eine Kooperation von:</p>
+<div class="partner-logos">
+<div class="row">
+<div class="col-md-6 col-lg-3">
+<a href="http://www.humboldt-foundation.de/web/start.html" target="_blank" title="Alexander von Humboldt-Stiftung/Foundation">
+<img alt="Alexander von Humboldt-Stiftung/Foundation" src="/assets/Resources/Public/Images/von-humboldt_logo_de.png"/>
+</a>
+</div>
+<div class="col-md-6 col-lg-3">
+<a href="http://www.daad.de/" target="_blank" title="Deutscher Akademischer Austauschdienst e.V.">
+<img alt="Deutscher Akademischer Austauschdienst e.V." src="/assets/Resources/Public/Images/daad_logo_de.png"/>
+</a>
+</div>
+<div class="col-md-6 col-lg-3">
+<a href="http://www.goethe.de/" target="_blank" title="Goethe-Institut">
+<img alt="Goethe-Institut" src="/assets/Resources/Public/Images/goethe_logo_de.png"/>
+</a>
+</div>
+<div class="col-md-6 col-lg-3">
+<a href="http://www.auswaertiges-amt.de/" target="_blank" title="Auswärtiges Amt">
+<img alt="Auswärtiges Amt" src="/assets/Resources/Public/Images/auswaertiges_amt_logo_de.png"/>
+</a>
+</div>
+</div>
+<a alt="Erfahren Sie mehr über das Alumniportal" class="bt-default bt-red" href="https://www.alumniportal-deutschland.org/ueber-uns/">Erfahren Sie mehr über das Alumniportal</a>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+</main>
+<footer class="footer-startpage">
+<div class="container">
+<div class="footer-socialmedia">
+<span>Folgen Sie uns</span>
+<a href="https://www.facebook.com/Alumniportal/" target="_blank" title=""><svg class="icon-facebook"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-facebook"></use></svg></a>
+<a href="https://twitter.com/alumni_de" target="_blank" title=""><svg class="icon-twitter"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-twitter"></use></svg></a>
+<a href="https://www.youtube.com/user/Alumniportal" target="_blank" title=""><svg class="icon-youtube"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-youtube"></use></svg></a>
+</div>
+<nav class="footer-nav"><a href="ueber-uns/" title="Über das Alumniportal Deutschland">Über das Alumniportal Deutschland</a><a href="services/sitemap/" title="Sitemap">Sitemap</a><a href="services/impressum/" title="Impressum">Impressum</a><a href="services/datenschutz-nutzungsbedingungen/" title="Datenschutz">Datenschutz</a><a href="ueber-uns/partner/" title="Partner">Partner</a></nav>
+</div>
+</footer>
+</div>
+<div class="js-cookie cookie-info" id="ppw-cookie-info" style="display:none;">
+<div class="container">
+<p>
+      
+        
+          Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer <a href="services/datenschutz-nutzungsbedingungen/" target="_self">Datenschutzerklärung.</a> *
+        
+      
+    </p>
+<button class="primary-bt" id="ppw-cookie-set">Ich stimme zu</button>
+</div>
+</div>
+<div class="overlay" id="js-overlay"></div>
+<!-- Copyright (c) 2000-2012 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- BEGIN etracker Tracklet 3.0 -->
+<script type="text/javascript">document.write(String.fromCharCode(60)+"script type=\"text/javascript\" src=\"http"+("https:"==document.location.protocol?"s":"")+"://code.etracker.com/t.js?et=vU3uKg\">"+String.fromCharCode(60)+"/script>");</script>
+<!-- etracker PARAMETER 3.0 -->
+<script type="text/javascript">
+
+var et_url = "http%3A%2F%2Fwww.alumniportal-deutschland.org%2F";
+var et_pagename = "%5Bde%5D%20Startseite%20%202";
+var et_areas = "Portal%2F";
+var et_se = "9";
+var et_et = "vU3uKg";
+
+</script>
+<!-- etracker PARAMETER END -->
+<script type="text/javascript">_etc();</script>
+<noscript><p><a href="http://code.etracker.com"><img alt="" src="https://code.etracker.com/nscnt.php?et=vU3uKg" style="border:0px;"/></a></p></noscript>
+<!-- etracker CODE NOSCRIPT 3.0 -->
+<noscript>
+<p><a href="http://code.etracker.com/app?et=vU3uKg">
+<img alt="" src="https://code.etracker.com/nscnt.php?et=vU3uKg&amp;et_url=http%3A%2F%2Fwww.alumniportal-deutschland.org%2F&amp;et_pagename=%5Bde%5D%20Startseite%20%202&amp;et_areas=Portal%2F&amp;et_se=9" style="border:0px;"/>
+</a></p>
+</noscript>
+<!-- etracker CODE NOSCRIPT END -->
+<!-- etracker CODE END -->
+<script src="typo3temp/compressor/merged-0ef2a452355ed317ae30139175ca76e1-c505e8c2461535aff121292ace395c0b.js?1590744872" type="text/javascript"></script>
+<script src="typo3temp/compressor/merged-274ff9ecee577754ec8cda4fb4488cee-fe5a8b94331c20eb84258e73a63254a6.js?1590737296" type="text/javascript"></script>
+<script src="assets/Resources/Public/JavaScript/slick.min.js" type="text/javascript"></script> <script src="assets/Resources/Public/JavaScript/slick.min.js" type="text/javascript"></script>
+</body>
+</html>

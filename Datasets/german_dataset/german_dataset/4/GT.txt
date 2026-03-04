@@ -1,0 +1,1 @@
+['ranglisten', 'schulkalender', 'abendschule', 'schule', 'kindergarten', 'anerkennungen', 'kurse', 'weiterbildung', 'lehrer', 'musikschulen']

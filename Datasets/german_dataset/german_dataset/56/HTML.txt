@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta content="Infopark CMS Fiona; 7.0.1; 53616c7465645f5fff0d0000591f0000186c73a41c50e63c" name="generator"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Martin Mirgel, Oliver Wruck" name="author"/>
+<meta content="Sie finden hier allgemeine Informationen über die Voraussetzungen für den Hochschulzugang ausländischer Studierender." name="description"/>
+<meta content="Externe Feststellungsprüfung, Hochschulzugang, ausländische Studierende" name="keywords"/>
+<meta content="index,follow" name="Robots"/>
+<meta content="1 day" name="revisit-after"/>
+<meta content="447554B320C0450CF1A9B9C082184E19" name="msvalidate.01"/>
+<!-- Favicons -->
+<link href="../../../../doc-assets/ico/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../../../../doc-assets/ico/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="../../../../doc-assets/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<link href="../../../../doc-assets/ico/apple-touch-icon_57x57.png" rel="apple-touch-icon"/>
+<link href="../../../../doc-assets/ico/apple-touch-icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="../../../../doc-assets/ico/apple-touch-icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="../../../../doc-assets/ico/apple-touch-icon-152.png" rel="apple-touch-icon" sizes="152x152"/>
+<title>Externe Feststellungsprüfung</title>
+<link href="//www.bezreg-koeln.nrw.de/brk_internet/rss/presseinformationen.xml" rel="alternate" title="RSS" type="application/rss+xml"/>
+<!-- Bootstrap core CSS -->
+<link href="../../../../dist/css/bootstrap.css" rel="stylesheet"/>
+<!-- Just for debugging purposes. Don't actually copy this line! -->
+<!--[if lt IE 9]><script src="docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+<!-- Custom styles for this template -->
+<link href="../../../../carousel.css" rel="stylesheet" type="text/css"/>
+<!-- Custom styles for this template -->
+<!-- <link rel="stylesheet" type="text/css"href="jumbotron.css"> -->
+<!-- Custom styles for autocomplete -->
+<link href="../../../../css/jquery_autocomplete.css" rel="stylesheet" type="text/css"/>
+<!-- Custom styles for lightbox -->
+<link href="../../../../css/lightbox.css" rel="stylesheet"/>
+<!-- Custom styles for typeahead -->
+<link href="../../../../css/typeahead.css" rel="stylesheet"/>
+<!-- Custom styles page -->
+<link href="../../../../dist/css/custom_styles.css" rel="stylesheet"/>
+<link href="../../../../dist/css/youtube.css" rel="stylesheet"/>
+<!-- Custom styles for eventmanagement -->
+<link href="../../../../css/pi-widget.css" rel="stylesheet" type="text/css"/>
+<!-- Essential Javascript -->
+<!-- <script src="external://code.jquery.com/jquery-1.10.2.min.js"></script> -->
+<script src="../../../../dist/js/jquery-1_10_2_min.js"></script>
+<!-- Downloadbereich / Login -->
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.cmsbs.lib.browser.Widget/lib/1.0.0.js"></script>
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.cmsbs.lib.browser.Widget/pihandlebars/3.0.0.js"></script>
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.cmsbs.auth2.Auth/c/374ea7de-5e3a-4680-82da-bac1b98778d8"></script>
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.bezregkoeln.downloadcenter.DownloadRequest/__resource/js/main.js"></script>
+<!-- Copyright (c) 2000-2018 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+//var et_pagename = "";
+//var et_areas = "";
+//var et_url = "";
+//var et_target = "";
+//var et_tval = "";
+//var et_tonr = "";
+//var et_tsale = 0;
+//var et_basket = "";
+//var et_cust = 0;
+</script>
+<script charset="UTF-8" data-block-cookies="true" data-respect-dnt="true" data-secure-code="USEohb" id="_etLoader" src="//static.etracker.com/code/e.js" type="text/javascript"></script>
+<!-- etracker tracklet 4.1 end -->
+</head>
+<body>
+<!--UdmComment-->
+<a class="sr-only" href="../../../../index.html#content" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Zum Hauptinhalt springen (Skip to main content)</a>
+<a class="sr-only" href="../../../../index.html#footer" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Zum Seitenende springen (Skip to footer)</a>
+<!-- Logo -->
+<header>
+<div class="branding container" role="banner">
+<div class="pull-left">
+<p class="claim">Region denken. Praktisch entscheiden.</p>
+</div>
+<div class="pull-right" id="logo"><a href="../../../../index.html" title="Gehe zu: Startseite"><img alt="Absenderkennung der Bezirksregierung Köln" class="img-responsive" src="../../../../logo.png"/></a></div> <!-- /logo -->
+</div>
+</header>
+<div class="fakeheader"></div>
+<!-- Begin Navbar -->
+<nav>
+<div class="navbar-wrapper" role="navigation">
+<div class="container">
+<div class="navbar navbar-inverse navbar-static-top">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" title="Menü für die mobile Darstellung" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../../../../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Behörde <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../../../../grusswort/index.html" title="Grußwort">Grußwort der Regierungspräsidentin</a></li>
+<li class="divider"></li>
+<li><a href="../../../../behoerdenleitbild/index.html" title="Behördenleitbild">Behördenleitbild</a></li>
+<li><a href="../../../../behoerdenleitung/index.html" title="Die Behördenleiterin">Behördenleitung</a></li>
+<li><a href="../../../../organisationsplan.pdf" target="_blank" title="Organisationsplan">Organisationsplan</a></li>
+<li><a href="../../../../regierungsbezirk/index.html" title="Der Regierungsbezirk">Regierungsbezirk Köln</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Veranstaltungen</li>
+<li><a href="../../../../veranstaltungen/index.html" title="Veranstaltungen">Veranstaltungskalender</a></li>
+<li><a href="../../../../veranstaltungen_lfb_sport/index.html" title="Veranstaltungen Lehrerfortbildung Sport">Veranstaltungskalender Lehrerfortbildung Sport</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Bezirksregierung als Arbeitgeber</li>
+<li><a href="../../../../stellen/index.html" title="Stellenangebote">Stellenangebote</a></li>
+<li><a href="../../../../karriere-als-volljurist/index.html" title="Karriere als Volljurist">Karriere als Volljurist</a></li>
+<li><a href="../../../../ausbildung/index.html" title="Ausbildung und Referendariate">Ausbildung und Referendariat</a></li>
+<li><a href="../../../../rechtsreferendariat/index.html" title="Rechtsreferendariat">Rechtsreferendariat</a></li>
+<li><a href="../../../../vormerkstelle/index.html" title="Die Vormerkstelle NRW">Vormerkstelle</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Service</li>
+<li><a href="../../../../bibliothek/index.html" title="Bibliothek">Bibliothek</a></li>
+<li><a href="../../../../reisekostenstelle/index.html" title="Reisekosten-Berechnung und Erstattung dienstlich veranlasster Reisen">Reisekostenstelle</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Publikationen und Presseinformationen</li>
+<li><a href="../../../../presse/index.html" title="Presseinformationen">Presseinformationen</a></li>
+<li><a href="../../../../publikationen/index.html" title="Publikationen und Informationsmaterial">Publikationen und Informationsmaterial</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">So erreichen Sie uns</li>
+<li><a href="../../../../kontakt/index.html" title="Kontakt und Anfahrt">Kontakt und Anfahrt</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../../../../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Leistungen <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../../../index.html" title="Leistungen">Leistungen</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Dienstleistungen und Aufgaben</li>
+<li><a href="../../../abteilung02/index.html" title="Abteilung 2 - Ordnungsrecht, Gesundheit, Sozialwesen, Gefahrenabwehr und Verkehr">Ordnungsrecht, Gesundheit, Sozialwesen, Gefahrenabwehr und Verkehr</a></li>
+<li><a href="../../../abteilung03/index.html" title="Abteilung 3 - Regionale Entwicklung, Kommunalaufsicht und Wirtschaft">Regionale Entwicklung, Kommunalaufsicht und Wirtschaft </a></li>
+<li><a href="../../index.html" title="Abteilung 4 - Schule">Schule und Ausbildungsförderung</a></li>
+<li><a href="../../../abteilung05/index.html" title="Abteilung 5 - Umwelt und Arbeitsschutz">Umwelt und Arbeitsschutz</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Personalvertretung</li>
+<li><a href="../../../../personalvertretung/index.html" title="Personalräte für Lehrerinnen und Lehrer">Personalräte für Lehrerinnen und Lehrer</a></li>
+<li><a href="../../../../personalrat/index.html" title="Personalrat und Bezirkspersonalrat bei der Bezirksregierung Köln">Personalrat und Bezirkspersonalrat</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Verfahren und amtliche Veröffentlichungen</li>
+<li><a href="../../../../verfahren/index.html" title="Verfahren">Verfahren</a></li>
+<li><a href="../../../../eu-melde-und-informationspflichten/index.html" title="Melde- und Informationspflichten der EU">Melde- und Informationspflichten der EU</a></li>
+<li><a href="../../../../umweltinspektionsberichte/index.html" title="Umweltinspektionsberichte">Umweltinspektionsberichte</a></li>
+<li><a href="../../../../legionellenbefunde/index.html" title="Legionellen in Verdunstungskühlanlagen, Kühltürmen und Nassabscheidern">Legionellenbefunde</a></li>
+<li><a href="../../../../amtsblatt/index.html" title="Amtsblatt für den Regierungsbezirk Köln">Amtsblatt für den Regierungsbezirk Köln</a></li>
+<li class="divider"></li>
+<li><a href="../../../../eugeschaeftsstelle/index.html" title="EU-Geschäftsstelle - Wirtschaft und Berufsbildung - der Bezirksregierung Köln">EU-Geschäftsstelle Wirtschaft und Berufsbildung</a></li>
+<li><a href="../../../../geschaeftsstelle_gigabit_nrw/index.html" title="Geschäftsstelle Gigabit.NRW">Geschäftsstelle Gigabit.NRW </a></li>
+<li><a href="../../../../vergabekammer/index.html" title="Vergabekammer Rheinland">Vergabekammer</a></li>
+<li><a href="../../../../kommunalinvestitionsfoerderungsgesetz/index.html" title="Kommunalinvestitionsförderungsgesetz">Kommunalinvestitionsförderungsgesetz</a></li>
+<li><a href="../../../../digitalpakt-schule/index.html" title="DigitalPakt Schule">DigitalPakt Schule</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../../../../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Gremien <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../../../../gremien/index.html" title="Gremien">Gremien</a></li>
+<li class="divider"></li>
+<li><a href="../../../../gremien/regionalrat/index.html" title="Regionalrat des Regierungsbezirks Köln">Regionalrat</a></li>
+<li><a href="../../../../gremien/braunkohlenausschuss/index.html" title="Braunkohlenausschuss">Braunkohlenausschuss</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../../../../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Geobasis NRW<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../../../../geobasis/index.html" title="Geobasis NRW - Produkte und Dienstleistungen">Geobasis NRW</a></li>
+<li class="divider"></li>
+<li><a href="../../../../geobasis/raumbezug/index.html" title="Raumbezug">Raumbezug</a></li>
+<li><a href="../../../../geobasis/geodaetische_fachprogramme/index.html" title="Geodätische Fachprogramme">Geodätische Fachprogramme</a></li>
+<li><a href="../../../../geobasis/luftbildinformationen/index.html" title="Luftbildinformationen">Luftbildinformationen</a></li>
+<li><a href="../../../../geobasis/hoehenmodelle/index.html" title="Höhenmodelle">Höhenmodelle</a></li>
+<li><a href="../../../../geobasis/3d_gebaeudemodelle/index.html" title="3D-Gebäudemodelle">3D-Gebäudemodelle</a></li>
+<li><a href="../../../../geobasis/landschaftsmodelle/index.html" title="Landschaftsmodelle">Landschaftsmodelle</a></li>
+<li><a href="../../../../geobasis/topographische_karten/index.html" title="Topographische Karten">Topographische Karten</a></li>
+<li><a href="../../../../geobasis/verwaltungskarten/index.html" title="Verwaltungskarten und -grenzen">Verwaltungskarten und -grenzen</a></li>
+<li><a href="../../../../geobasis/touristik-und-freizeitinformationen/index.html" title="Touristik- und Freizeitinformationen NRW">Touristik- und Freizeitinformationen NRW</a></li>
+<li><a href="../../../../geobasis/liegenschaftskataster/index.html" title="Liegenschaftskataster">Liegenschaftskataster</a></li>
+<li><a href="../../../../geobasis/grundstueckswertermittlung/index.html" title="Grundstückswertermittlung">Grundstückswertermittlung</a></li>
+<li><a href="../../../../geobasis/webdienste/index.html" title="Webdienste">Webdienste</a></li>
+<li><a href="../../../../geobasis/inspire/index.html" title="INSPIRE">INSPIRE</a></li>
+<li><a href="../../../../geobasis/bundesweite_produkte/index.html" title="Bundesweite Produkte">Bundesweite Produkte</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Wissenswertes</li>
+<li><a href="../../../../geobasis/ausbildung/index.html" title="Ausbildung und Karriere bei Geobasis NRW">Ausbildung und Karriere bei Geobasis NRW</a></li>
+<li><a href="../../../../geobasis/opendata/index.html" title="Open Data - Digitale Geobasisdaten NRW">Open Data - Digitale Geobasisdaten NRW</a></li>
+<li><a href="../../../../fachausstellung/index.html" title="Fachausstellung 200 Jahre Landesvermessung">Führung: Fachausstellung 200 Jahre Landesvermessung</a></li>
+<li><a href="../../../../nrw-zahlen-geodaten/index.html" title="Unser NRW - Nordrhein-Westfalen in Zahlen und Geodaten">Unser NRW - Nordrhein-Westfalen in Zahlen und Geodaten</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Geodaten-Anwendungen</li>
+<li><a href="../../../../tim-online/index.html" title="TIM-online">TIM-online</a></li>
+<li><a href="../../../../geobasis/geodaten-anwendungen/index.html" title="Geodaten-Anwendungen">Geodaten-Anwendungen</a></li>
+</ul>
+</li>
+</ul>
+<form action="../../../../suche/index.php" class="navbar-form navbar-right" method="POST">
+<div class="form-group">
+<input aria-label="Suchen" class="form-control" id="query" name="q" placeholder="Suchen" type="search"/>
+</div>
+<button class="btn btn-success" type="submit">OK</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- End Navbar -->
+<!-- Begin Carousel -->
+<!-- End Carousel -->
+<!-- Begin optional Marketing messaging -->
+<!-- End optional Marketing messaging -->
+<!-- Begin optional Featurettes -->
+<!-- End optional Featurettes -->
+<!-- Begin 1st Breadcrump -->
+<div class="container">
+<div class="hidden-print">
+<ol class="breadcrumb">
+<a href="../../../../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region"><span alt="Logo: Startseite (Home)" class="glyphicon glyphicon-home"></span></a>    
+         
+            
+               <li>
+<a href="../../../index.html">
+                     Leistungen
+                  </a>
+</li>
+<li>
+<a href="../../index.html">
+                     Abteilung 4
+                  </a>
+</li>
+<li>
+<a href="../index.html">
+                     Dezernat 43
+                  </a>
+</li>
+<li class="active">
+                  Externe Feststellungsprüfung</li>
+</ol>
+</div>
+</div>
+<!-- End 1st Breadcrump -->
+<!--/UdmComment-->
+<!-- Begin MainContent -->
+<!-- Begin Content -->
+<div class="container" id="content" role="main">
+<div class="row">
+<!-- Beginn left grid -->
+<section>
+<div class="col-md-8">
+<article>
+<header>
+<h1>Externe Feststellungsprüfung</h1><hr/>
+</header>
+<p class="lead">Sie finden hier allgemeine Informationen über die Voraussetzungen für den Hochschulzugang ausländischer Studierender</p>
+<p>Ausländische Studierende müssen zu Beginn eines Studiums in Deutschland in der Regel entweder die „Deutsche Sprachprüfung für den Hochschulzugang ausländischer Studienbewerber“ (DSH) oder die "Feststellungsprüfung“ ablegen. </p>
+<div class="page-header">
+<h2>Deutsche Sprachprüfung für den Hochschulzugang ausländischer Studienbewerber (DSH)</h2>
+</div>
+<p>Auf die DSH bereitet das Lehrgebiet Deutsch als Fremdsprache (DaF) beim jeweiligen Akademischen Auslandsamt vor. Dort kann man sich auch über die Anforderungen der DSH und über Vorbereitungskurse informieren. </p>
+<div class="page-header">
+<h2>Feststellungsprüfung </h2>
+</div>
+<p>Feststellungsprüfung ist ein Kurzwort für "Prüfung zur Feststellung der Eignung ausländischer Studienbewerberinnen und Studienbewerber für die Aufnahme eines Studiums an Hochschulen in der Bundesrepublik Deutschland". 
+Die Feststellungsprüfung kann in Nordrhein-Westfalen seit dem Wintersemester 2010/2011 nur noch extern abgelegt werden, da die Studienkollegs an den Hochschulen in NRW nicht mehr bestehen. </p>
+<div class="page-header">
+<h2>Wer muss die Feststellungsprüfung ablegen?</h2>
+</div>
+<p>Ob eine ausländische Studienbewerberin / ein ausländischer Studienbewerber die Feststellungsprüfung ablegen muss, richtet sich nach der im Heimatland erworbenen Schul- bzw. Hochschulbildung.  Ausländische Studienbewerberinnen und Studienbewerber, deren Hochschulzugangsberechtigung mit der deutschen nur bedingt vergleichbar ist, müssen vor Beginn ihres Fachstudiums die Feststellungsprüfung ablegen. Detaillierte Informationen über die hiervon betroffenen Länder finden Sie auf der Seite der Kultusministerkonferenz (KMK). Da die Entscheidung über die Hochschulzulassung nicht nur vom Heimatland, sondern auch von den dort erworbenen Vorbildungsnachweisen abhängt, sollten Sie im Zweifelsfall bei dem Akademischen Auslandsamt der jeweiligen Hochschule nachfragen, ob Sie die Feststellungsprüfung ablegen müssen oder nicht. </p>
+<div class="page-header">
+<h2>Welche Deutschkenntnisse muss man bei der Bewerbung nachweisen? </h2>
+</div>
+<p>Sie müssen über Deutschkenntnisse auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GeR) verfügen. Das zuständige Ministerium hat festgelegt, dass der Nachweis durch ein Zeugnis eines anerkannten Bildungsträgers erfolgen muss. Anerkannte Bildungsträger sind u.a. Einrichtungen der Weiterbildung (öffentliche Anbieter), die Goethe-Institute, staatlich anerkannte Anbieter sowie Anbieter, die KMK-Zertifikate vergeben. </p>
+<p>Alternativ werden als Nachweis auch Zeugnisse über die folgenden Prüfungen akzeptiert:</p>
+<ul>
+<li>TestDaF – minimal TDN3 in allen vier Fertigkeitsbereichen –;</li>
+<li>DSH-1 einer Hochschule mit gültiger Registrierung bei der HRK;</li>
+</ul>
+<div class="page-header">
+<h2>Wann kann man die Feststellungsprüfung ablegen und wie sieht sie aus?</h2>
+</div>
+<p>Die Feststellungsprüfung findet zweimal jährlich statt. Sie besteht aus einem schriftlichen und einem mündlichen Teil. Es werden drei Fächer schriftlich und ein Fach mündlich geprüft. Die Prüfungsfächer richten sich nach den gewählten Schwerpunkten. 
+Die erfolgreich absolvierte Feststellungsprüfung ist eine Voraussetzung zur Aufnahme eines Fachstudiums an allen deutschen Hochschulen, die das entsprechende Fach anbieten. </p>
+<div class="page-header">
+<h2>Wo kann man sich informieren?</h2>
+</div>
+<p>Auskunft zum Studium von internationalen Studierenden erteilt das Akademische Auslandsamt der jeweiligen Hochschule. In allen fachlichen Fragen (Wahl eines Schwerpunktes, Prüfungsanforderungen, Prüfungsvorbereitung, Prüfungsablauf etc.) wenden Sie sich bitte per E-Mail oder telefonisch an die unter der Rubrik Kontakt angegebene Adresse. </p>
+<div class="page-header">
+<h2>Wer hilft bei der Vorbereitung auf die Prüfung?</h2>
+</div>
+<p>Für Fragen bezüglich der Prüfungsanforderungen in den einzelnen Fächern sowie der fachlichen Vorbereitung auf die jeweiligen Prüfungsfächer stehen Ihnen Fachberaterinnen und Fachberater zur Verfügung, mit denen Sie ggf. zu persönlichen Beratungsgesprächen in Kontakt gebracht werden.</p>
+<!--
+   <aside>
+      <npsobj name="template_content_downloads" insertvalue="template" />
+   </aside>
+-->
+<aside>
+<hr/>
+<div class="panel panel-danger">
+<div class="panel-heading">
+<div class="panel-title">Besuchen Sie auch</div>
+</div>
+<!-- Begin Linkliste Besuchen Sie auch -->
+<div class="list-group">
+<a class="list-group-item" href="http://www.sprachnachweis.de/sprachnachweis/" target="_blank" title="Sprachnachweise"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Sprachnachweise <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+<a class="list-group-item" href="http://www.testdaf.de/index.php" target="_blank" title="TestDaF-Institut"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  TestDaF-Institut <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+<a class="list-group-item" href="https://www.daad.de/de/index.html" target="_blank" title="Deutscher Akademischer Austauschdienst"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Deutscher Akademischer Austauschdienst <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+<a class="list-group-item" href="http://www.studienkollegs.de/" target="_blank" title="Homepage der Studienkollegs an deutschen Hochschulen"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Homepage der Studienkollegs an deutschen Hochschulen <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+<a class="list-group-item" href="http://anabin.kmk.org/" target="_blank" title="Kultusministerkonferenz (KMK) / Anerkennung ausländischer Zeugnisse"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Kultusministerkonferenz (KMK) / Anerkennung ausländischer Zeugnisse <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+<a class="list-group-item" href="http://www.hochschulkompass.de/" target="_blank" title="Hochschulrektorenkonferenz / Hochschulkompass"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Hochschulrektorenkonferenz / Hochschulkompass <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+<a class="list-group-item" href="http://www.studienwahl.de/de/studieren/finder.htm" target="_blank" title="Studien- und Berufswahl"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Studien- und Berufswahl <span alt="Logo: externe Links (Globe)" class="glyphicon glyphicon-new-window"></span> <small>externe Webseite</small></a>
+</div>
+<!-- End Linkliste Besuchen Sie auch -->
+</div>
+<hr/>
+<div class="panel panel-danger">
+<div class="panel-heading">
+<div class="panel-title">Rechtsgrundlagen</div>
+</div>
+<!-- Begin Linkliste Rechtsgrundlagen -->
+<div class="list-group">
+<a class="list-group-item" href="https://recht.nrw.de/lmi/owa/br_text_anzeigen?v_id=10000000000000000655" target="_blank" title="Verordnung über die Feststellungsprüfung zur Aufnahme eines Hochschulstudiums (Feststellungsprüfungsordnung Hochschule – PO-FeP-Hochschule)"><span alt="Logo: Link" class="glyphicon glyphicon-link"></span>  Verordnung über die Feststellungsprüfung zur Aufnahme eines Hochschulstudiums (Feststellungsprüfungsordnung Hochschule – PO-FeP-Hochschule)</a>
+</div>
+<!-- End Linkliste Rechtsgrundlagen -->
+</div>
+</aside>
+</article>
+</div>
+</section>
+<!-- End left grid -->
+<!--UdmComment-->
+<!-- Begin right grid -->
+<!-- End right grid -->
+<!-- Begin right grid -->
+<section>
+<div class="col-md-4">
+<div class="panel panel-primary" id="downloadcenter-profile-box" style="display: none;">
+<!-- Standard-Panel-Inhalt -->
+<div class="panel-heading"><span class="glyphicon glyphicon-user"></span> Profilverwaltung</div>
+<div class="panel-body">
+               Sie sind angemeldet als <strong class="Fullname"></strong>
+</div>
+<!-- Listengruppe -->
+<ul class="list-group">
+<li class="list-group-item"><a class="Edit-Profile-Link" href="../../../../profil/index.html" title="Profil-Verwaltung">Profil bearbeiten</a></li>
+<li class="list-group-item"><a class="Delete-Profile-Link" href="../../../../profil/index.html" title="Profil-Verwaltung">Profil löschen</a></li>
+<li class="list-group-item"><a class="Logout-Link" href="../../../../profil/logout/index.html" title="Abmeldung">Abmelden</a></li>
+</ul>
+</div>
+<div class="panel panel-primary">
+<div class="panel-heading">Themen</div>
+<!-- Begin Ebenennavigation -->
+<div class="list-group">
+<a class="list-group-item" href="bewerbung/index.html">Bewerbung und Zulassung</a>
+<a class="list-group-item" href="pruefungsbeispiele/index.html">Prüfungsbeispiele</a>
+</div>
+<!-- End Ebenennavigation -->
+</div>
+<div class="panel panel-primary">
+<div class="panel-heading">Haben Sie Fragen?</div>
+<div class="list-group">
+<div class="list-group-item">
+<address>
+<strong>Postanschrift</strong><br/>      
+Bezirksregierung Köln·50606 Köln<br/>
+</address>
+<address>
+<strong>Frau Barteczko</strong><br/>
+<span alt="Logo: Telefon (Phone)" class="glyphicon glyphicon-earphone"></span>  <abbr title="Telefon">T:</abbr> (49)0 221-147 2493
+
+<br/>
+<span alt="Logo: E-Mail (Envelope)" class="glyphicon glyphicon-envelope"></span>  <a href="../../../../mailform/index.php?visit=02211472493" title="E-Mail-Benachrichtigung">E-Mail schreiben</a><br/>
+</address>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- End right grid -->
+</div>
+</div>
+<!-- End Content -->
+<!-- End MainContent -->
+<!-- Begin Pagination -->
+<div class="container">
+<hr/>
+<div class="hidden-print">
+<a class="btn btn-default" href=""><span class="glyphicon glyphicon-arrow-up"></span> Zum Seitenanfang</a> 
+      <a class="btn btn-default" href="javascript:self.print()"><span class="glyphicon glyphicon-print"></span> Seite drucken</a> 
+</div>
+<hr/>
+</div>
+<!-- End Pagination -->
+<!-- Begin optional Marketing messaging -->
+<!-- End optional Marketing messaging -->
+<!-- Begin Footer Jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+<div class="container">
+<h2>Haben Sie Fragen? Wir helfen Ihnen gerne!</h2>
+<p><span alt="Logo: Telefon (Phone)" class="glyphicon glyphicon-earphone"></span> +49(0)221-147-2641 · <span alt="Logo: Telefon (Phone)" class="glyphicon glyphicon-print"></span> +49(0)221-147-3731</p>
+<p><strong>telefonische Sprechzeiten</strong>: 08:30h - 15:00h (Mo - Do) · <strong>Persönliche Besuche sind nur nach vorheriger Absprache möglich</strong></p>
+</div>
+</div>
+<!-- End Jumbotron -->
+<!-- Begin Footer -->
+<div class="container" id="footer" role="contentinfo">
+<footer>
+<div class="hidden-print">
+<p class="pull-right"><a href="">Zum Seitenanfang</a> · <a href="javascript:self.print()">Seite drucken</a></p>
+</div>
+<div class="hidden-print">
+<p>© 2020 Bezirksregierung Köln · <a href="../../../../impressum/index.html" title="Impressum">Impressum</a> · <a href="../../../../datenschutz/index.html" title="Datenschutz (Privacy Policy)">Datenschutz</a> · <a href="../../../../kontakt/index.html" title="Kontakt und Anfahrt">Kontakt</a> · <a href="../../../../egvp/index.html" title="Elektronisches Gerichts- und Verwaltungspostfach (EGVP)">EGVP</a> · <a href="../../../../de-mail/index.html" title="De-Mail">De-Mail</a> · <a href="../../../../crypto-mail/index.html" title="Verschlüsselte E-Mails">Verschlüsselung</a></p>
+</div>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+Letzte Änderung(en): 
+19.07.2019 09:56
+ Uhr | Erstellt am: 18.02.2014 11:13 Uhr</p>
+<a href="https://twitter.com/BezRegKoeln" target="_blank"><img alt="Logo Twitter" src="../../../../icon_social_twitter.png"/></a>
+<a href="https://www.facebook.com/BezirksregierungKoeln" target="_blank"><img alt="Logo Facebook" src="../../../../icon_social_facebook.png"/></a>
+<a href="https://www.instagram.com/bezregkoeln/" target="_blank"><img alt="Logo Instagram" src="../../../../icon_social_insta.png"/></a>
+</footer>
+</div>
+<!-- End Footer -->
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../../../../dist/js/bootstrap.js"></script>
+<script src="../../../../js/bootstrap3-typeahead_min.js"></script>
+<script src="../../../../doc-assets/js/holder.js"></script>
+<!-- script src="js/jquery-1_10_2_min.js"></script-->
+<script src="../../../../js/lightbox-2_6_min.js"></script>
+<script src="../../../../js/typeahead.js"></script>
+<script src="../../../../veranstaltungen/filter-events.js"></script>
+<!--/UdmComment-->
+</body>
+</html>

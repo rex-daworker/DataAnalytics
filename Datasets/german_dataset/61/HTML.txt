@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!--><html class="ie ie6" lang="en"> <!--<![endif]-->
+<!--[if IE 7 ]><!-->
+<!--<![endif]-->
+<!--[if IE 8 ]><!-->
+<!--<![endif]-->
+<!--[if IE 9 ]><!-->
+<!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<!--<![endif]-->
+<head>
+<!-- TradeDoubler site verification 3050239 -->
+<link href="https://www.dw.com/en/learn-german/level-a1/s-13227" rel="canonical"/>
+<link href="https://m.dw.com/en/learn-german/level-a1/s-13227" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="/favicon.png" rel="icon" type="image/png"/>
+<link href="/favicon.png" rel="apple-touch-icon"/>
+<script src="/js/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script src="/js/dsgvo/dsgvo_utils.js" type="text/javascript"></script>
+<script src="/js/beta_ROAD/accessToROAD_Beta.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script src="/js/de.dw.cdaLanguage.min.js?v=6.64.3" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<!-- PAGINATION for SEO -->
+<meta content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+<meta content="1 days" name="revisit-after"/>
+<meta content="Deutsche Welle (www.dw.com)" name="publisher"/>
+<meta content="© 2020 Deutsche Welle (www.dw.com)" name="copyright"/>
+<meta content="Deutsche Welle (www.dw.com)" name="author"/>
+<meta content="app-id=498833085" name="apple-itunes-app"/>
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app"/>
+<meta content="en_GB" name="language"/>
+<meta content="Level A1, Mit dem Einstufungstest die richtige Niveaustufe finden,mit dem Kursfinder den passenden Deutschkurs ermitteln." name="keywords"/>
+<meta content="Level A1, Mit dem Einstufungstest die richtige Niveaustufe finden,mit dem Kursfinder den passenden Deutschkurs ermitteln." name="news_keywords"/>
+<meta content="Mit dem Einstufungstest die richtige Niveaustufe finden, mit dem Kursfinder den passenden Deutschkurs ermitteln." name="description"/>
+<!-- Facebook -->
+<meta content="146634408702997" property="fb:pages"/>
+<meta content="146822482008281" property="fb:pages"/>
+<meta content="46657640977" property="fb:pages"/>
+<meta content="66069193936" property="fb:pages"/>
+<meta content="338998993519" property="fb:pages"/>
+<meta content="164418313578851" property="fb:pages"/>
+<meta content="180013702044400" property="fb:pages"/>
+<meta content="141111232580541" property="fb:pages"/>
+<meta content="130435762955" property="fb:pages"/>
+<meta content="24369314439" property="fb:pages"/>
+<meta content="131314590235972" property="fb:pages"/>
+<meta content="204430626300528" property="fb:pages"/>
+<meta content="229148123764036" property="fb:pages"/>
+<meta content="533361940012569" property="fb:pages"/>
+<meta content="49621769215" property="fb:pages"/>
+<meta content="142061114273" property="fb:pages"/>
+<meta content="125113390860188" property="fb:pages"/>
+<meta content="144393622272640" property="fb:pages"/>
+<meta content="245974238781165" property="fb:pages"/>
+<meta content="171270196224553" property="fb:pages"/>
+<meta content="118184978196457" property="fb:pages"/>
+<meta content="178734186974" property="fb:pages"/>
+<meta content="329373860454526" property="fb:pages"/>
+<meta content="107256659303602" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="122470481130194" property="fb:pages"/>
+<meta content="114256188645" property="fb:pages"/>
+<meta content="165174814436" property="fb:pages"/>
+<meta content="155438574470276" property="fb:pages"/>
+<meta content="50498982209" property="fb:pages"/>
+<meta content="146790007393" property="fb:pages"/>
+<meta content="164947183521601" property="fb:pages"/>
+<meta content="211745678846355" property="fb:pages"/>
+<meta content="134391923301563" property="fb:pages"/>
+<meta content="63821723396" property="fb:pages"/>
+<meta content="188157417929359" property="fb:pages"/>
+<meta content="183239561787790" property="fb:pages"/>
+<meta content="449623021724487" property="fb:pages"/>
+<meta content="138206409609783" property="fb:pages"/>
+<meta content="85945845557" property="fb:pages"/>
+<meta content="226482300719948" property="fb:pages"/>
+<meta content="60713064323" property="fb:pages"/>
+<meta content="239025992817731" property="fb:pages"/>
+<meta content="822896961134864" property="fb:pages"/>
+<meta content="522458607878947" property="fb:pages"/>
+<meta content="188850101556821" property="fb:pages"/>
+<meta content="618268655042471" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="276810869063357" property="fb:pages"/>
+<meta content="100960075341" property="fb:pages"/>
+<meta content="80408983549" property="fb:pages"/>
+<meta content="100897936618493" property="fb:pages"/>
+<meta content="138706041945" property="fb:pages"/>
+<meta content="211775368865879" property="fb:pages"/>
+<meta content="171400242905536" property="fb:pages"/>
+<meta content="132731133463621" property="fb:pages"/>
+<meta content="195750250443390" property="fb:pages"/>
+<meta content="179443708766951" property="fb:pages"/>
+<meta content="1804124663153407" property="fb:pages"/>
+<meta content="134957921127" property="fb:pages"/>
+<meta content="308858529571862" property="fb:pages"/>
+<meta content="245084839304894" property="fb:pages"/>
+<meta content="1643141409322787" property="fb:pages"/>
+<meta content="161206864395653" property="fb:pages"/>
+<meta content="166280690549965" property="fb:pages"/>
+<meta content="1306227629456410" property="fb:pages"/>
+<meta content="172144003288251" property="fb:pages"/>
+<meta content="789839844513554" property="fb:pages"/>
+<meta content="1907513229480533" property="fb:pages"/>
+<meta content="1673788669587458" property="fb:pages"/>
+<meta content="475937372553968" property="fb:pages"/>
+<meta content="670958179648696" property="fb:pages"/>
+<meta content="608485009178753" property="fb:pages"/>
+<meta content="174528749295024" property="fb:pages"/>
+<meta content="86161846910" property="fb:pages"/>
+<meta content="268396416590741" property="fb:pages"/>
+<meta content="239261806709" property="fb:pages"/>
+<meta content="61626715828" property="fb:pages"/>
+<meta content="210354862357400" property="fb:pages"/>
+<meta content="100000944106340" property="fb:admins"/>
+<meta content="100004095264842" property="fb:admins"/>
+<meta content="100004135624835" property="fb:admins"/>
+<meta content="Mit dem Einstufungstest die richtige Niveaustufe finden, mit dem Kursfinder den passenden Deutschkurs ermitteln." property="og:description"/>
+<meta content="https://www.dw.com/en/learn-german/level-a1/s-13227" property="og:url"/>
+<meta content="DW.COM" property="og:site_name"/>
+<meta content="Level A1 | DW" property="og:title"/>
+<link href="/css/dwde-ltr.min.css?v=6.64.3" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-fonts-latin.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-epg-ltr.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style media="screen" type="text/css">
+div#navMain ul#navLevel1 a#n01 {
+color: #fff !important;
+}
+div#navMain ul#navLevel1 a#n01:hover {
+color: #000 !important;
+}
+div#navMain ul#navLevel1 li:hover a#n01 {
+color: #000 !important;
+}
+div#navMain ul#navLevel2 a#navAct2 {
+color: #fff !important;
+}
+</style>
+<script type="text/javascript">
+let DWStructureType = "LANGUAGE_COURSE";
+</script>
+<title>Level A1 | DW</title>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=157204581336210&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
+</script>
+<!-- End Google Tag Manager -->
+<!--[if lt IE 7 ]>
+<script type="text/javascript" src="/js/flyoutsf.js"></script><![endif]-->
+<script src="/js/dwde.min.js?v=6.64.3" type="text/javascript"></script>
+<!-- DW jwplayer skin -->
+<link href="/js/jwplayer8/skins/DW/dwskinfile.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/js/jwplayer8/skins/DW/desktop-additions.css" media="all" rel="stylesheet" type="text/css"/>
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script src="/js/datepicker/jquery.ui.datepicker-en.min.js" type="text/javascript"></script>
+<script async="" crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=deutschewelle"></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "en";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwtest-en';
+</script>
+</head><body id="html_body">
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwInitialTrackingInfo = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fen%2Flearn-german%2Flevel-a1%2Fs-13227",
+maca: "",
+articleChangeDateShort: "20201111",
+structureId: "13227",
+structureTypeId: "99",
+chap: "LEARN+GERMAN::German+Courses::Quick+start::Level+A1",
+pageId: "13227",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "",
+secondCategoryId: "",
+departmentName: ""
+};
+var channelNameAppendix = "-";
+trackingInfo_leve2 = "34";
+trackingInfo_dkLanguage = "2";
+trackingInfo_multi_Value = "";
+trackingInfo_profile = "NORMAL";
+trackingInfo_pageSingleEncoded = "LEARN+GERMAN::German+Courses::Quick+start::Level+A1::Level+A1";
+trackingInfo_multi_Value = "&x1=99&x2=342&x3=13227&x4=13227&x5=Level+A1&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fen%2Flearn-german%2Flevel-a1%2Fs-13227&x8=&x9=20201111&x10=LEARN+GERMAN::German+Courses::Quick+start::Level+A1&x13=1&x14=&x15=&x16=&x17=&x18=&x20=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
+} else {
+window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
+}
+</script>
+<noscript>
+<img alt="" height="1" src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=34&amp;p=LEARN+GERMAN::German+Courses::Quick+start::Level+A1::Level+A1&amp;di=&amp;an=&amp;ac=&amp;x1=99&amp;x2=342&amp;x3=13227&amp;x4=13227&amp;x5=Level+A1&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fen%2Flearn-german%2Flevel-a1%2Fs-13227&amp;x8=&amp;x9=20201111&amp;x10=LEARN+GERMAN::German+Courses::Quick+start::Level+A1&amp;x13=1&amp;x14=&amp;x15=null&amp;x16=null&amp;x17=&amp;x18=&amp;x20=null" width="1"/>
+</noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TXHJH9T" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><!--AT Internet Smart Tag Tracking-->
+<script src="https://commons.dw.com/tracking/smarttag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242",
+cookieSecure: true
+});
+tag.page.set({
+name: "LEARN+GERMAN::German+Courses::Quick+start::Level+A1::Level+A1",
+pageID: "13227",
+level2: 34
+});
+tag.customVars.set({
+site: {
+1: 99,
+2: 342,
+3: 13227,
+4: 13227,
+5: "[Level+A1]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fen%2Flearn-german%2Flevel-a1%2Fs-13227]",
+8: "[]",
+9: 20201111,
+10: "[LEARN+GERMAN::German+Courses::Quick+start::Level+A1]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "",
+16: "",
+17: "",
+18: "",
+19: "",
+20: ""
+}
+});
+tag.dispatch();
+</script>
+<script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">We use cookies to improve our service for you. You can find more information in our data protection declaration.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more" href="/a-18265246">More info</a>
+<a class="cookie__btn cookie__btn--ok" href="#">OK</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li aria-labelledby="Inhalt" role="listitem"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li aria-labelledby="Navigation" role="listitem"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li aria-labelledby="asideLink" role="listitem"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li aria-labelledby="metanavigationLink" role="listitem"><a href="#navMeta" id="metanavigationLink">Metanavigation</a></li>
+<li aria-labelledby="sucheLink" role="listitem"><a href="#search" id="sucheLink">Suche</a></li>
+<li aria-labelledby="languageLink" role="listitem"><a accesskey="6" href="#langSelect" id="languageLink" lang="de" xml:lang="de">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]>
+<div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a data-lang="sq-AL" href="/sq/fokus/s-10250" title="FOKUS">
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a data-lang="am-ET" href="/am/ይዘት/s-11646" title="ይዘት">
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a data-lang="ar-AE" href="/ar/الرئيسية/s-9106" title="DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي">
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a data-lang="bn-BD" href="/bn/বিষয়/s-11929" title="বিষয়">
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a data-lang="bs-BA" href="/bs/teme/s-10037" title="TEME">
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a data-lang="bg-BG" href="/bg/начало/s-10257" title="Начало">
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a data-lang="zh-CN" href="/zh/在线报导/s-9058?&amp;zhongwen=simp" title="在线报导">
+Chinese <span class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a data-lang="zh-CN-t" href="/zh/在线报导/s-9058?&amp;zhongwen=trad" title="在線報導">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="hr-HR" href="/hr/teme/s-9747" title="TEME">
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a data-lang="fa-AF" href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری">
+Dari <span class="native">دری </span></a>
+</li>
+<li><a class="ici" data-lang="en-GB" href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+English <span class="native">English</span></a>
+</li>
+<li><a data-lang="fr-FR" href="/fr/actualités/s-10261" title="ACTUALITÉS">
+French <span class="native">Français</span></a>
+</li>
+<li><a data-lang="de-DE" href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a data-lang="el-GR" href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ">
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a data-lang="ha-NG" href="/ha/batutuwa/s-11603" title="BATUTUWA">
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a data-lang="hi-IN" href="/hi/खबरें/s-11931" title="खबरें">
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="id-ID" href="/id/beranda/s-11546" title="BERANDA">
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a data-lang="sw-TZ" href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI">
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a data-lang="mk-MK" href="/mk/теми/s-10339" title="Теми">
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a data-lang="ps-AF" href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو">
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a data-lang="fa-IR" href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی">
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a data-lang="pl-PL" href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata">
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a data-lang="pt-002" href="/pt-002/notícias/s-13918" title="NOTÍCIAS">
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a data-lang="pt-BR" href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo">
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="ro-RO" href="/ro/focus/s-10575" title="FOCUS">
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a data-lang="ru-RU" href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире">
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a data-lang="sr-RS" href="/sr/rubrike/s-10682" title="RUBRIKE">
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a data-lang="es-ES" href="/es/actualidad/s-30684" title="ACTUALIDAD">
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a data-lang="tr-TR" href="/tr/gündem/s-10201" title="GÜNDEM">
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a data-lang="uk-UA" href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ">
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a data-lang="ur-PK" href="/ur/عنوانات/s-11933" title="عنوانات">
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM has chosen English as your language setting. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div class="v2" id="langSelect">
+<a href="javascript:void(0);" id="langSelectTrigger" name="langSelectTrigger">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/en/dw-akademie/about-us/s-9519" title="DW AKADEMIE">DW AKADEMIE</a>
+</div>
+<div class="metaLink"><a href="/en/about-dw/profile/s-30688" title="ABOUT DW">ABOUT DW</a>
+</div>
+<div class="metaLink"><a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div class="dwnews" id="logo">
+<a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img alt="Deutsche Welle" height="100" src="/cssi/dwlogo-print.gif" width="98"/>
+</div>
+<div id="search">
+<form action="/search/en" class="modular" id="navSearchForm" method="get" title="GlobalSearch">
+<input name="searchNavigationId" param="searchNavigationId" type="hidden" value="2469"/>
+<input name="languageCode" param="languageCode" type="hidden" value="en"/>
+<input name="origin" param="origin" type="hidden" value="gN"/>
+<input id="item" name="item" placeholder="Search LEARN GERMAN"/>
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">TOP STORIES</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/en/top-stories/germany/s-1432" title="Germany| News and in-depth reporting from Berlin and beyond">Germany</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/berlin-wall/s-101222" title="Fall of the Berlin Wall">Berlin Wall</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/coronavirus/s-32798" title=" Coronavirus and Covid-19 - latest news about COVID-19 ">Coronavirus</a>
+</li>
+<li><a href="/en/top-stories/world/s-1429" title="World| Breaking news and perspectives from around the globe">World</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/europe/s-1433" title="Europe| News and current affairs from around the continent">Europe</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/africa/s-12756" title="Africa">Africa</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/crime-fighters/s-32392" title="Crime Fighters">Crime Fighters</a>
+</li>
+<li><a href="/en/top-stories/the-77-percent/s-41461495" title="The 77 Percent">The 77 Percent</a>
+</li>
+<li><a href="/en/top-stories/africa-on-the-move/s-32368" title="Africa on the Move">Africa on the Move</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/asia/s-12758" title="Asia| An in-depth look at news from across the continent">Asia</a>
+</li>
+<li><a href="/en/top-stories/americas/s-12757" title="Americas| North and South American news impacting on Europe">Americas</a>
+</li>
+<li><a href="/en/top-stories/middle-east/s-14207" title="Middle East| News and analysis of events in the Arab world">Middle East</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/business/s-1431" title="Business| Economy and finance news from a German perspective">Business</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/founders-valley/s-39731714" title="Founders Valley">Founders Valley</a>
+</li>
+<li><a href="/en/top-stories/women/s-37923702" title="Wo+men">Wo+men</a>
+</li>
+<li><a href="/en/top-stories/my-2030/s-32437" title="My 2030">My 2030</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/science/s-12526" title="Science| In-depth reporting on science and technology">Science</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/environment/s-11798" title="Environment| All topics from climate change to conservation">Environment</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/global-ideas/s-30654" title="Global Ideas">Global Ideas</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/doingyourbit/s-32436" title="#doingyourbit">DoingYourBit</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/eco-africa/s-32676" title="Eco Africa">Eco Africa</a>
+</li>
+<li><a href="/a-19385797" title="Living Planet">Living Planet</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/culture/s-1441" title="Culture| Arts, music and lifestyle reporting from Germany">Culture</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/film/s-101405" title="Film">Film</a>
+</li>
+<li><a href="/en/top-stories/books/s-101406" title="Books">Books</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/music/s-14019" title="Music">Music</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/arts/s-10553" title="Arts">Arts</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/digital-culture/s-101407" title="Digital Culture">Digital Culture</a>
+</li>
+<li><a href="/en/top-stories/lifestyle/s-30526" title="Lifestyle">Lifestyle</a>
+</li>
+<li><a href="/en/top-stories/travel/s-7550" title="DW Travel">Travel</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/bthvn2020/s-12257" title="BTHVN2020">BTHVN2020</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/sports/s-8171" title="Sports| German football and major international sports news">Sports</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>SPECIAL</h4>
+<ul class="sitemap">
+<li><a href="/en/top-stories/100-must-reads/s-43415865" title="100 German Must-Reads - a unique list of 100 works of German literature published in English">100 Must-Reads</a></li>
+<li><a href="/en/top-stories/50-kitchens-one-city/s-32914" title="50 kitchens, one city - 50 recipes, 50 restaurants, 50 nations">50 kitchens, one city</a></li>
+<li><a href="/en/top-stories/baking-bread/s-47577851" title="Baking Bread: What bread reveals about the EU">Baking Bread</a></li>
+<li><a href="/en/top-stories/dw-freedom/s-101506" title="DW Freedom | Speech. Expression. Media.">DW Freedom</a></li>
+<li><a href="/en/top-stories/expedition-humboldt/s-46674363" title="Expedition Humboldt">Expedition Humboldt</a></li>
+<li><a href="/en/top-stories/gutenberg-in-the-cyberstorm/s-101302" title="Gutenberg in the Cyberstorm">Gutenberg in the Cyberstorm</a></li>
+<li><a href="/en/top-stories/meet-the-germans/s-32641" title="Meet the Germans">Meet the Germans</a></li>
+<li><a href="/en/top-stories/planet-berlin/s-48259213" title="Planet Berlin - The global tourist guide for Germanyʼs booming capital">Planet Berlin</a></li>
+<li><a href="/en/top-stories/the-migration-dilemma/s-39042364" title="The Migration Dilemma">The Migration Dilemma</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/en/media-center/s-100824" title="Media Center">Media Center</a>
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/en/media-center/live-tv/s-100825" title="Watch DW's TV live streams online: Breaking news 24/7">Live TV</a>
+</li>
+<li role="menuitem">
+<a href="/en/media-center/all-media-content/s-100826" title="All media content">All media content</a>
+</li>
+<li role="menuitem">
+<a href="/en/media-center/latest-programs/s-100827" title="Latest Programs">Latest Programs</a>
+</li>
+<li role="menuitem">
+<a href="/en/media-center/podcasts/s-100977" title="Podcasts">Podcasts</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/en/tv/s-1452" title="TV">TV</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/en/tv/schedule-and-reception/s-4757" title="Schedule and Reception">Schedule and Reception</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/tv/tv-programs/s-9103" title="TV Programs">TV Programs</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">TV programs</h4>
+<ul class="sitemap">
+<li><a href="/en/tv/arts21/s-7885" title="Arts.21 - The Culture Magazine">Arts.21</a></li>
+<li><a href="/en/tv/arts-and-culture/s-47176598" title="Arts and Culture">Arts and Culture</a></li>
+<li><a href="/en/tv/business/s-30478" title="Business News - The Latest financial, market &amp; economic news">Business</a></li>
+<li><a href="/en/tv/check-in/s-32688" title="Check-in - The Travel Guide">Check-in</a></li>
+<li><a href="/en/tv/close-up/s-100282" title="Close up - The Current Affairs Documentary">Close up</a></li>
+<li><a href="/en/tv/conflict-zone/s-101431" title="Conflict Zone - Confronting the Powerful">Conflict Zone</a></li>
+<li><a href="/en/tv/docfilm/s-3610" title="DocFilm">DocFilm</a></li>
+<li><a href="/en/tv/dw-news/s-3232" title="DW News - latest news and breaking stories">DW News</a></li>
+<li><a href="/en/tv/eco-africa/s-32686" title="Eco Africa">Eco Africa</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/en/tv/eco-india/s-45624129" title="Eco India">Eco India</a></li>
+<li><a href="/en/tv/euromaxx/s-7555" title="Euromaxx - Lifestyle in Europe">Euromaxx</a></li>
+<li><a href="/en/tv/faith-matters/s-3952" title="Faith Matters - The Church Program">Faith Matters</a></li>
+<li><a href="/en/tv/focus-on-europe/s-101185" title="Focus on Europe - Spotlight on People">Focus on Europe</a></li>
+<li><a href="/en/tv/global-3000/s-11487" title="Global 3000 - The Globalization Program">Global 3000</a></li>
+<li><a href="/en/tv/in-good-shape/s-11938" title="In Good Shape - The Health Show">In Good Shape</a></li>
+<li><a href="/en/tv/kick-off/s-12839" title="Kick off! - The Bundesliga Highlights">Kick off!</a></li>
+<li><a href="/en/tv/made-in-germany/s-3066" title="Made in Germany">Made in Germany</a></li>
+<li><a href="/en/tv/reporter/s-31616" title="Reporter - On Location">Reporter</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/en/tv/rev/s-51415805" title="REV">REV</a></li>
+<li><a href="/en/tv/shift/s-30417" title="Shift - Living in the Digital Age">Shift</a></li>
+<li><a href="/en/tv/sports-life/s-51415836" title="Sports Life">Sports Life</a></li>
+<li><a href="/en/tv/the-day/s-32613" title="The Day - News in Review">The Day</a></li>
+<li><a href="/en/tv/the-77-percent/s-47689720" title="The 77 Percent">The 77 Percent</a></li>
+<li><a href="/en/tv/tomorrow-today/s-3062" title="Tomorrow Today - The Science Magazine">Tomorrow Today</a></li>
+<li><a href="/en/tv/to-the-point/s-50034043" title="To the Point">To the Point</a></li>
+<li><a href="/en/tv/world-stories/s-30419" title="World Stories - The Week in Reports">World Stories</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/en/radio/s-32771" title="RADIO">RADIO</a>
+</li>
+<li>
+<a href="/en/learn-german/s-2469" id="n01" title="LEARN GERMAN">LEARN GERMAN</a>
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>German Courses</h4>
+<ul class="sitemap">
+<li><a href="/en/learn-german/german-courses/s-2547" title="German Courses">German Courses</a></li>
+<li><a href="/en/learn-german/quick-start/s-31682" title="Den richtigen Deutschkurs finden und sofort Deutsch lernen">Quick start</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/harry/s-13232" title="Harry">Harry</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/deutsch-interaktiv/s-9572" title="Deutsch Interaktiv">Deutsch Interaktiv</a>
+</li>
+<li><a href="/en/learn-german/radio-d/s-9671" title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/mission-europe/s-9831" title="Mission Europe">Mission Europe</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/deutsch-warum-nicht/s-2548" title="Deutsch - warum nicht?">Deutsch - warum nicht?</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/audiotrainer/s-9677" title="Audiotrainer">Audiotrainer</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/deutschtrainer/s-32896" title="Deutschtrainer">Deutschtrainer</a>
+</li>
+<li><a href="/en/learn-german/die-bienenretter/s-37645137" title="Die Bienenretter">Die Bienenretter</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>German XXL</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376" title="German XXL">German XXL</a></li>
+<li><a href="/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">Deutsch Aktuell</a>
+</li>
+<li><a href="/deutsch-lernen/deutsch-im-fokus/s-9213" title="Deutsch im Fokus">Deutsch im Fokus</a>
+</li>
+<li><a href="/deutsch-lernen/telenovela/s-13121" title="Telenovela">Telenovela</a>
+</li>
+<li><a href="/deutsch-lernen/bandtagebuch/s-13891" title="Bandtagebuch">Bandtagebuch</a>
+</li>
+<li><a href="/deutsch-lernen/landeskunde/s-12377" title="Landeskunde">Landeskunde</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/das-portr%C3%A4t/s-30546" title="Das Porträt">Das Porträt</a>
+</li>
+<li><a href="/deutsch-lernen/podcasts-newsletter/s-11696" title="Podcasts &amp; Newsletter">Podcasts &amp; Newsletter</a>
+</li>
+<li><a href="/deutsch-lernen/service/s-9032" title="Service">Service</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Teaching German</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233" title="Teaching German">Teaching German</a></li>
+<li><a href="/deutsch-lernen/dw-im-unterricht/s-14199" title="DW im Unterricht">DW im Unterricht</a>
+</li>
+<li><a href="/deutsch-lernen/unterrichtsreihen/s-9729" title="Unterrichtsreihen">Unterrichtsreihen</a>
+</li>
+<li><a href="/deutsch-lernen/deutschlehrer-info/s-13503" title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/en/learn-german/german-courses/s-2547" id="navAct2" title="German Courses">German Courses</a></li>
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376" title="German XXL">German XXL</a></li>
+<li><a href="/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233" title="Teaching German">Teaching German</a></li>
+</ul>
+</div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/en/learn-german/s-2469" title="LEARN GERMAN">
+LEARN GERMAN
+</a>
+/
+<a href="/en/learn-german/german-courses/s-2547" title="German Courses">
+German Courses
+</a>
+/
+<a href="/en/learn-german/quick-start/s-31682" title="Den richtigen Deutschkurs finden und sofort Deutsch lernen">
+Quick start
+</a>
+</div>
+</div>
+<div id="innerFrame">
+<div id="bodyContent">
+<!--[if lt IE 8 ]>
+<div class="col4"><![endif]-->
+<div class="col2 left">
+<!-- Article Detail-Teaser -->
+<div class="col2 articleDetailTeaser">
+<div class="group">
+<h4>Level A1</h4>
+<div class="news pseudo linklist">
+<h2>
+Getting started
+</h2>
+<div class="longText">
+<p> Learn simple phrases and sentences relating to familiar topics: Introduce yourself and ask others what their name is and where they come from. Our range of A1 level courses within the Common European Framework of Reference for Languages provides basic knowledge of German.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Multimedia course for beginners (German-English)</h4>
+<div class="news">
+<a href="/en/learn-german/harry/s-13232">
+<h2 class="linkable">
+Harry – gefangen in der Zeit
+</h2>
+<div class="teaserImg">
+<img alt="Sprachkurse Harry Banner" itemprop="image" src="https://static.dw.com/image/16366399_301.jpg" title="Sprachkurse Harry Banner"/> </div>
+<p>Help Harry escape the time warp! In 100 exciting animated episodes for levels A1 to B1, you can join Henry on a completely crazy adventure and learn about German and its language and people.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Start with an audio story (German/English)</h4>
+<div class="news">
+<a href="/en/learn-german/mission-berlin-episodes/s-9837">
+<h2 class="linkable">
+Mission Berlin
+</h2>
+<div class="teaserImg">
+<img alt="DW Sprachkurse Mission Berlin Brandingbanner" itemprop="image" src="https://static.dw.com/image/15705561_301.jpg" title="DW Sprachkurse Mission Berlin Brandingbanner"/> </div>
+<p>"Mission Berlin", which contains 26 episodes, offers an original and interesting approach to language learning. Join the virtual hero, Anna, in fighting the enemies of reunified Germany.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Audio drama for beginners (German/English)</h4>
+<div class="news">
+<a href="/en/learn-german/radio-d-teil-1/s-9672">
+<h2 class="linkable">
+Radio D Part 1
+</h2>
+<div class="teaserImg">
+<img alt="Radio D Teil 1" itemprop="image" src="https://static.dw.com/image/15703236_301.jpg" title="Radio D Teil 1"/> </div>
+<p>"Radio D Part 1" focuses on listening comprehension. A1 and A2 learners can join reporters Paula and Philipp for 26 exciting episodes. Read along in the manuscript as you listen to each story.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+</div>
+<div class="col2">
+<!-- Article Detail-Teaser -->
+<div class="col2 articleDetailTeaser">
+<div class="group">
+<h4>how to start</h4>
+<div class="news pseudo linklist">
+</div>
+<div class="linkList intern">
+<a href="/en/learn-german/placement-test/s-13226">
+<h2>
+Course Finder
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="https://learngerman.dw.com/en/placementDashboard" rel="noopener" target="_blank">
+<h2>
+Placement Test
+  </h2>
+</a>
+</div>
+</div>
+</div>
+<div class="col2">
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>Our courses sorted by level</h4>
+<!-- links -->
+<div class="linkList intern">
+<a href="/en/learn-german/level-a1/s-13227">
+<h2>
+Level A1
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/learn-german/level-a2/s-13228">
+<h2>
+Level A2
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/learn-german/level-b1/s-13229">
+<h2>
+Level B1
+  </h2>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>   </h4>
+<!-- links -->
+<div class="linkList intern">
+<a href="/en/learn-german/level-b2/s-13230">
+<h2>
+Level B2
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/learn-german/level-c/s-13231">
+<h2>
+Level C
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/common-european-framework-of-reference-for-languages/a-6529726">
+<h2>
+European Framework
+  </h2>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>104 lessons from A1 to B1 (German/English)</h4>
+<div class="news">
+<a href="/en/learn-german/deutsch-warum-nicht/s-2548">
+<h2 class="linkable">
+Deutsch – warum nicht?
+</h2>
+<div class="teaserImg">
+<img alt="DW Sprachkurse Deutschkurse Warum nicht Infografik" itemprop="image" src="https://static.dw.com/image/16914794_301.png" title="DW Sprachkurse Deutschkurse Warum nicht Infografik"/> </div>
+<p>"Deutsch – warum nicht?" caters to levels A1 to B1 and follows the adventures of student Andreas and his invisible companion. The 104 lessons include dialogues, exercises and audios.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Vocabulary to-go (German/English)</h4>
+<div class="news">
+<a href="/en/learn-german/deutschtrainer/s-32896">
+<h2 class="linkable">
+Deutschtrainer
+</h2>
+<div class="teaserImg">
+<img alt="DEUTSCHKURSE | Deutschtrainer | Englisch (DW)" itemprop="image" src="https://static.dw.com/image/36606342_301.png" title="DEUTSCHKURSE | Deutschtrainer | Englisch (DW)"/> </div>
+<p>Use the Deutschtrainer to effectively learn basic vocabulary needed for everyday life and to improve your pronunciation.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<div class="col2 dkLanguageSelectionTeaser">
+<h4>German courses</h4>
+<form class="modular" name="langform">
+<div class="lineExtra"></div>
+<div class="formElement doppel">
+<label for="selection">Our German courses are also available in your language:</label>
+<select id="selection" name="selection" onchange="self.location=(document.langform.selection.options[document.langform.selection.selectedIndex].value)" size="1">
+<option>Choose your language:</option>
+<option value="/sq/mësoni-gjermanisht/s-3659">Albanian</option>
+<option value="/am/ጀርመንኛ-መማር/s-11706">Amharic</option>
+<option value="/ar/تعلُّم-الألمانية/s-8428">Arabic</option>
+<option value="/bn/জার্মান-ভাষা-শিখুন/s-11729">Bengali</option>
+<option value="/bs/učite-njemački/s-2638">Bosnian</option>
+<option value="/bg/да-учим-немски/s-2650">Bulgarian</option>
+<option value="/zh/德语天地/s-2582">Chinese</option>
+<option value="/hr/učenje-njemačkog/s-3795">Croatian</option>
+<option value="/fa-af/آموزش-زبان-آلمانی/s-11731">Dari</option>
+<option value="/en/learn-german/s-2469">English</option>
+<option value="/fr/apprendre-lallemand/s-2616">French</option>
+<option value="/de/deutsch-lernen/s-2055">German</option>
+<option value="/el/μαθαινω-γερμανικα/s-2718">Greek</option>
+<option value="/ha/koyon-jamusanci/s-3825">Hausa</option>
+<option value="/hi/जर्मन-सीखिये/s-11074">Hindi</option>
+<option value="/id/bahasa-jerman/s-11710">Indonesian</option>
+<option value="/sw/kujifunza-kijerumani/s-11716">Kiswahili</option>
+<option value="/mk/учење-германски/s-10220">Macedonian</option>
+<option value="/ps/د-الما-ني-ژ-بی-زده-کړه/s-11720">Pashto</option>
+<option value="/fa-ir/آموزش-آلمانی/s-2768">Persian</option>
+<option value="/pl/nauka-niemieckiego/s-2732">Polish</option>
+<option value="/pt-br/aprender-alemão/s-2199">Portuguese for Brazil</option>
+<option value="/ro/învaţă-germană/s-2693">Romanian</option>
+<option value="/ru/учить-немецкий/s-2559">Russian</option>
+<option value="/sr/učite-nemački/s-3759">Serbian</option>
+<option value="/es/aprender-alemán/s-4639">Spanish</option>
+<option value="/tr/almanca-öğrenin/s-2604">Turkish</option>
+<option value="/uk/вивчати-німецьку/s-9954">Ukrainian</option>
+<option value="/ur/جرمن-سیکھئے/s-4235">Urdu</option>
+</select>
+</div>
+<div class="lineExtra"></div>
+</form>
+</div>
+</div>
+<!--[if lt IE 8 ]></div><![endif]-->
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">
+<li><a href="/en/top-stories/s-9097" style="font-weight: bold;" title="News and current affairs from Germany and around the world">TOP STORIES</a>
+</li>
+<li><a href="/en/top-stories/germany/s-1432" title="Germany| News and in-depth reporting from Berlin and beyond">Germany</a></li>
+<li><a href="/en/top-stories/coronavirus/s-32798" title=" Coronavirus and Covid-19 - latest news about COVID-19 ">Coronavirus</a></li>
+<li><a href="/en/top-stories/world/s-1429" title="World| Breaking news and perspectives from around the globe">World</a></li>
+<li><a href="/en/top-stories/business/s-1431" title="Business| Economy and finance news from a German perspective">Business</a></li>
+<li><a href="/en/top-stories/science/s-12526" title="Science| In-depth reporting on science and technology">Science</a></li>
+<li><a href="/en/top-stories/environment/s-11798" title="Environment| All topics from climate change to conservation">Environment</a></li>
+<li><a href="/en/top-stories/culture/s-1441" title="Culture| Arts, music and lifestyle reporting from Germany">Culture</a></li>
+<li><a href="/en/top-stories/sports/s-8171" title="Sports| German football and major international sports news">Sports</a></li>
+<li> </li>
+<li><a href="/en/a-z-index/index-en">A - Z Index</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/en/media-center/s-100824" style="font-weight: bold;" title="Media Center">MEDIA CENTER</a>
+</li>
+<li><a href="/en/media-center/live-tv/s-100825" title="Watch DW's TV live streams online: Breaking news 24/7">Live TV</a></li>
+<li><a href="/en/media-center/all-media-content/s-100826" title="All media content">All media content</a></li>
+<li><a href="/en/media-center/latest-programs/s-100827" title="Latest Programs">Latest Programs</a></li>
+<li><a href="/en/media-center/podcasts/s-100977" title="Podcasts">Podcasts</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/en/tv/s-1452" style="font-weight: bold;" title="TV">TV</a>
+</li>
+<li><a href="/en/tv/schedule-and-reception/s-4757" title="Schedule and Reception">Schedule and Reception</a></li>
+<li><a href="/en/tv/tv-programs/s-9103" title="TV Programs">TV Programs</a></li>
+<li> </li>
+<li><a href="/en/radio/s-32771" style="font-weight: bold;" title="RADIO">RADIO</a>
+</li>
+</ul>
+<ul class="footer">
+<li><a href="/en/learn-german/s-2469" style="font-weight: bold;" title="LEARN GERMAN">LEARN GERMAN</a>
+</li>
+<li><a href="/en/learn-german/german-courses/s-2547" title="German Courses">German Courses</a></li>
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376" title="German XXL">German XXL</a></li>
+<li><a href="/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233" title="Teaching German">Teaching German</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/en/about-dw/profile/s-30688" style="font-weight: bold;" title="ABOUT DW">ABOUT DW</a>
+</li>
+<li><a href="/en/about-dw/profile/s-30688" title="Who we are">Who we are</a></li>
+<li><a href="/en/about-dw/press/s-3293" title="Press">Press</a></li>
+<li><a href="/en/about-dw/gmf/s-43101535" title="Global Media Forum">GMF</a></li>
+<li><a href="/en/about-dw/business-sales/s-3303" title="Business &amp; Sales">Business &amp; Sales</a></li>
+<li><a href="https://dwadsales.com/" title="Advertising">Advertising</a></li>
+<li><a href="/en/about-dw/travel/s-3972" title="Travel Distribution">Travel</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/en/service/reception/s-6809" style="font-weight: bold;" title="Service">SERVICE</a>
+</li>
+<li><a href="/en/service/reception/s-6809" title="Receiving Deutsche Welle's TV programming in your area">Reception</a></li>
+<li><a href="/en/service/apps-co/s-51995939" title="DW Apps for iOS, Android, Smart TV and smart speaker">Apps &amp; Co.</a></li>
+<li><a href="/newsletter-registration/a-15718229" title="Newsletters &amp; Co.">Newsletters &amp; Co.</a></li>
+<li><a href="/en/service/faq/s-30600" title="FAQ: Answers to frequently asked questions at DW">FAQ</a></li>
+<li><a href="/en/service/contact/s-30606" title="Deutsche Welle contact information">Contact</a></li>
+<li> </li>
+<li><a href="/en/dw-akademie/about-us/s-9519" style="font-weight: bold;" title="DW AKADEMIE">DW AKADEMIE</a>
+</li>
+<li><a href="/en/dw-akademie/about-us/s-9519" title="About us">About us</a></li>
+<li><a href="/en/dw-akademie/media-development/s-12120" title="Media Development">Media Development</a></li>
+<li><a href="/en/dw-akademie/masters-degree/s-12276" title="Master's Degree">Master's Degree</a></li>
+<li><a href="/en/dw-akademie/traineeship/s-12130" title="Traineeship">Traineeship</a></li>
+<li><a href="/en/dw-akademie/training/s-12125" title="Training">Training</a></li>
+</ul>
+<p id="copyright">
+© 2020 Deutsche Welle |
+<a href="/en/european-union-general-data-protection-regulationgdpr-valid-may-25-2018/a-18265246">Privacy Policy</a> |
+<a href="/imprint">Legal notice</a> |
+<a href="/contact">Contact</a>
+| <a href="https://m.dw.com/en/learn-german/level-a1/s-13227" id="mobilePreferredLink">Mobile version</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+</body></html>

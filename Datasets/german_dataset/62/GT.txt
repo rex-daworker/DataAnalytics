@@ -1,0 +1,1 @@
+['themen', 'nachrichten', 'internationale', 'nachrichten', 'news', 'aktuelles', 'live-ticker', 'kommentar', 'analyse', 'schlagzeilen']

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/Organization">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f0ca25aadf39b00123aa9ab&amp;product=inline-share-buttons" type="text/javascript"></script>
+<link href="./stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="./yaml/navigation/b_vlist.css" rel="stylesheet"/>
+<style type="text/css">
+	.bvr {font-family: 'Special Elite', 'AmerType Md BT', Memorandum, Times; color:green; font-weight: 400; font-size: 3vw; margin-top: 0.3em; margin-bottom: 0.8em; text-shadow: 3px 3px 3px #3d3c3d; }
+	blockquote p{font-family: Georgia,"Times New Roman",Times,serif;font-size: 12pt;margin-bottom: 3pt;text-indent: 0;text-align:left;line-height: 1.4em}
+	span.autor{font-weight:bold}
+</style>
+<link href="../favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="86400" http-equiv="expires"/>
+<meta content="de" name="Content-Language"/>
+<link href="./index.php" rel="index" title="willkommen"/>
+<link href="./index.php" rel="up" title="willkommen"/>
+<meta content="Bund für vereinfachte rechtschreibung" property="og:site_name"/>
+<meta content="willkommen" property="og:title"/>
+<meta content="rechtschreibreform" property="article:tag"/>
+<meta content="rechtschreibung" property="article:tag"/>
+<meta content="Bund für vereinfachte rechtschreibung" itemprop="name"/>
+<meta content="Unsere ziele: verbesserung der rechtschreibung im interesse der lesenden und der schreibenden, erhaltung und pflege des kulturguts buchstabenschrift" itemprop="description"/>
+<meta content="Landolt Rolf" name="author"/>
+<meta content="rechtschreibreform" name="subject"/>
+<meta content="rechtschreibreform, rechtschreibereform, schreibreform, BVR, kleinschreibung, rechtschreibung, orthographie, ortografie, orthografie, buchstabenschrift" name="keywords"/>
+<meta content="Unsere ziele: verbesserung der rechtschreibung im interesse der lesenden und der schreibenden, erhaltung und pflege des kulturguts buchstabenschrift" name="description"/>
+<title>Willkommen beim Bund für vereinfachte rechtschreibung</title>
+<link href="https://plus.google.com/100286297901148010377" rel="publisher"/>
+<script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f0ca25aadf39b00123aa9ab&amp;cms=website" type="text/javascript"></script>
+<script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f0ca25aadf39b00123aa9ab&amp;product=inline-share-buttons" type="text/javascript"></script>
+<script type="text/javascript">
+window.___gcfg = {lang: 'de'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
+<script type="text/javascript">
+  window.___gcfg = {lang: 'de'};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</head>
+<body>
+<!-- read 2019110 -->
+<header class="main-header">
+<div class="mobmenu"><a href="./nav.php" style="text-decoration:none">≡</a></div>
+<div class="wobinich"><a href="./index.php" title="Bund für vereinfachte rechtschreibung">willkommen</a></div>
+<div class="wobinich"><a href="./kontakt.php">kontakt</a></div>
+<div class="wobinich"><a href="./impressum.php" title="haftung, verweise, copyright">impressum</a></div>
+<!-- <div><a href="http://f25.parsimony.net/forum63578/">forum</a></div> -->
+<div class="wobinich"><a href="./suche.php" title="suchen">suchen</a></div>
+</header>
+<main class="content">
+<div style="position:absolute; top:140px; left:130px; width:190px; height:65px; text-align: center; font-family: sans-serif;font-size:14pt;background-color: rgba(240,180,180,0.2);padding: 3px; z-index: 10">
+<svg height="80" width="400">
+<text fill="red" transform="rotate(11 20,40)" x="0" y="15">ortografie.ch ersetzt </text>
+<a xlink:href="http://www.sprache.org/bvr/">
+<text fill="red" transform="rotate(11 20,40)" x="24" y="35">sprache.org</text>
+</a>
+ortografie.ch ersetzt in zukunft sprache.org
+</svg>
+</div>
+<section>
+<a name="top"></a>
+<h1 itemprop="name" style="display:none">Willkommen beim Bund für vereinfachte rechtschreibung (BVR)</h1>
+<table class="std">
+<tr>
+<td valign="top">
+<div style="font-size:2vw;text-align: left;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif">Willkommen beim</div>
+<div class="bvr">Bund für vereinfachte rechtschreibung (BVR)</div>
+<p>CH-8000 Zürich, Schweiz</p>
+<p>gegründet 1924 in Olten<!-- <br>
+mitgliederzahl: ca. 800 --></p>
+</td>
+<td align="center" valign="top">
+<!-- <P ALIGN="CENTER"><IMG SRC="./img/bs1924f.gif"> <IMG SRC="./img/bgjub75c.gif" WIDTH="194" HEIGHT="198" ALT="90 jahre BVR"> -->
+<img alt="90 jahre BVR" height="225" src="./img/bs_ortpflege72a.png" title="Bund für vereinfachte rechtschreibung (BVR)" width="225"/>
+</td>
+<td valign="top">
+<div style="font-size:2vw;text-align: right;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif">Welcome to</div>
+<div class="bvr" style="text-align: right;">Federation for simplified spelling</div>
+<p align="right">CH-8000 Zurich, Switzerland</p>
+</td>
+</tr>
+</table>
+<!-- 
+<DIV Style="font-size: 10pt; color:red; text-align: center;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; margin-top:0px; margin-bottom:0px">
+<a class="int" href="./b_gv.php"><B>Generalversammlung:</B></a> samstag, 28. april, 14.30 uhr in Zürich
+</DIV>
+
+<DIV Style="font-size: 10pt; color:white; font-weight: bold; text-align: center;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; margin:10px 100px 10px 100px; padding: 5px; background-color: darkgrey;">
+<img src="./img/construction.gif" width="50" height="82">
+</DIV>
+ -->
+</section>
+<section>
+<div style="background-color:white;text-align:center;margin:1em;padding:1em">Neu: Suche nach <a class="int" href="./medien/personen.php" style="font-weight:bold">artikeln einzelner autoren</a> in presse und internet.</div>
+<div style="border: solid; border-color: lightgrey; padding: 6px; margin-top: 3px; margin-bottom: 18px; border-width: 3px 6px 6px 3px;">
+<h2 style="margin-top:12px">Das aktuelle zitat <!-- Der aktuelle widerspruch --></h2>
+<article id="bzStadlerToni">
+<div class="zitcont boXXX"><div class="who">
+<p><span class="autor" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Toni Stadler</span></span>, histori­ker und publizist, <span itemscope="" itemtype="http://schema.org/Periodical"><span itemprop="name">Neue Zür­cher Zeitung</span></span>, <span content="2020-04-14" itemprop="datePublished">14. 4. 2020</span></p>
+</div><div class="what">
+<blockquote>
+<p>Nach der Corona-Krise sollte das gesamte <a class="int" href="./stichwort/schule.php" title="stichwort schule">Bil­dungs­ange­bot</a> auf seine Relevanz für die Ge­staltung von Gegen­wart und Zukunft über­prüft werden.</p>
+</blockquote>
+</div></div>
+</article>
+<div class="wobinich" title="Was früher an dieser stelle stand">Die gesammelten <a class="int" href="./zitate.php">aktuellen zitate</a>, <a class="int" href="./zitatwiderspruch.php">aktuellen widersprüche</a>, <a class="int" href="./zitatlosung.php">die aktuelle losung</a></div>
+</div>
+<!-- <div style="text-align: center; margin: 36px 0"><img src="img/BVR1anim.gif" width="256.5" height="83"></div> -->
+</section>
+<section>
+<table style="width:100%;border: solid; border-color: lightgrey; padding: 6px; margin: 18px 0; border-width: 3px 6px 6px 3px;">
+<tr>
+<td><a href="./werbebanner.php"><img alt="banner" src="./img/banner-468x60Duden.gif" title="Verwenden Sie unsere banner!"/></a></td>
+<td>Verwenden Sie unsere <a href="./werbebanner.php">werbebanner</a>!</td>
+</tr>
+</table>
+<div class="grid2aa"><div title="Spenden Sie via kreditkarte!">
+<p><script src="//03b06c9.netsolstores.com/add-a-store.aspx?pid=1&amp;lid=11" type="text/javascript"></script></p>
+</div><div style="text-align: right">
+<p style="font-size:120%">iban <span style="font-family:Monospace">CH06 0900 0000 3003 1747 0</span></p>
+</div></div>
+<div class="sharethis-inline-share-buttons" style="margin:16px 0"></div>
+</section>
+<hr/>
+<section>
+<hr/>
+<div style="width:500px">
+<a class="twitter-timeline" href="https://twitter.com/ortografie?ref_src=twsrc%5Etfw">Tweets by ortografie</a> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+</div>
+<!-- <script language=javascript type="text/javascript" src="http://ss.webring.com/navbar?f=j;y=bvr;u=defurl">
+</script>
+<div style="text-align: center; font-size: 6pt">Powered by <a href="http://dir.webring.com/rw" target=_top>WebRing</a>.</div>
+<noscript><center><table bgcolor=gray cellspacing=0 border=2><tr>
+<td><table cellpadding=2 cellspacing=0 border=0><tr><td align=center>
+<font size=-1>This site is a member of WebRing.<br>To browse visit <a href="http://ss.webring.com/navbar?f=l;y=bvr;u=defurl">
+Here</a>.</font></td></tr></table></td></tr></table>
+</center></noscript> -->
+</section>
+<footer class="i">
+<div class="sharethis-inline-share-buttons" style="margin:16px 0"></div>
+<div class="grid2aa wobinich"><div>
+<a class="button" href="#top"><span style="font-size: medium; ">↑</span> nach oben</a>
+</div><div itemprop="editor" style="text-align: right; font-style: italic">
+<a href="./person/LandoltRolf.php">Rolf Landolt</a>
+</div></div>
+</footer>
+</main>
+<aside class="primary-sidebar">
+<div style="position: sticky;top:1rem;right:.5rem">
+<nav class="ym-vlist">
+<!-- nav 2019212a -->
+<div class="ym-vtitle">Was tut der BVR?</div>
+<ul>
+<li><a href="./vorschlaege/ziel.php" title="Was will der BVR?">ziele des BVR</a></li>
+<li><a href="./institution/BVR-mittel.php" title="Wie erreicht der BVR seine ziele?">mittel des BVR</a></li>
+<li><a href="./stellungnahmen/index.php" title="Der Bund für vereinfachte rechtschreibung nimmt stellung">stellungnahmen des BVR</a></li>
+<li><a href="./berichte/index.php" title="jahresberichte, pressemitteilungen des BVR">berichte</a></li>
+<li><a href="./institution/BVR-vorstand.php" title="Der vorstand des BVR">vorstand</a></li>
+</ul>
+<div class="ym-vtitle">Was kann ich tun?</div>
+<ul>
+<li><a href="./institution/BVR-mitglied.php" title="Der BVR braucht auch Sie!">werden Sie mitglied!</a></li>
+<li><a href="./beispiel/index.php" title="starten statt warten!">anwendung in der praxis</a></li>
+</ul>
+<div class="ym-vtitle">Öffentlichkeit</div>
+<ul>
+<li><a href="./chronik/index.php" title="reformgeschichte in chronologischer abfolge">chronik</a></li>
+<li><a href="./zitate.php" title="zitate, widersprüche">das aktuelle zitat</a></li>
+<li><a href="./medien/index.php" title="aus presse und internet">aus presse und internet</a></li>
+<li><a href="./buchpublikationen/index.php" title="diverse bücher">buchpublikationen</a></li>
+<li><a href="./fundsachen/index.php" title="«falsches» in presse und internet">fundsachen</a></li>
+<li><a href="./stichwort/index.php" title="rechtschreibreform von A bis Z">was ist was: stichworte</a></li>
+<li><a href="./person/index.php" title="personen von A bis Z">wer ist wer: personen</a></li>
+<li><a href="./institution/index.php" title="institutionen von A bis Z">wer ist wer: institutionen</a></li>
+</ul>
+</nav>
+<section id="social">
+<div class="sharethis-inline-follow-buttons"></div>
+<div class="wobinich" style="text-align:right;margin-top:3em"><a class="button" href="#top"><span style="font-size: medium; ">↑</span> nach oben</a></div>
+</section>
+</div>
+</aside>
+<aside class="secondary-sidebar">
+<div style="position: sticky;top:1rem;left:.5rem">
+<section id="logo">
+<!-- col 3 2019110 -->
+<div style="margin-bottom:2em;text-align:center"><img height="177" src="./img/bsrr-mitgl-707.png" width="177"/></div><div style="margin-bottom:2em"><img height="135" src="./img/bvrfraktur.png" title="Wie man auch schon geschrieben hat oder schreiben könnte" width="205"/></div></section>
+<section id="newcontent">
+<div class="wobinich" style="margin:24px 0 0 12px">
+<div style="font-weight: bold; letter-spacing:3px; color: red">Geändert:</div>
+<!-- new 2019110 -->
+<div>2. 11. <a href="../beispiel/index.php">anwendung in der praxis</a></div><div>20. 10. <a href="../buchpublikationen/index.php">buchpublikationen</a></div><div>16. 10. <a href="../stichwort/index.php">stichworte</a></div><div>13. 10. <a href="../institution/index.php">institutionen</a></div><div>8. 10. <a href="../medien/index.php">presse und internet</a></div><div>26. 9. <a href="../person/index.php">personen</a></div><div>6. 9. <a href="../stellungnahmen/index.php">stellungnahmen</a></div><div>8. 8. <a href="../chronik/index.php">chronik</a></div><div>28. 7. <a href="../fundsachen/index.php">fundsachen</a></div></div>
+</section>
+</div>
+</aside>
+<footer class="main-footer">
+<address>Bund für vereinfachte rechtschreibung (BVR), CH-8000 Zürich, Schweiz</address>
+<div class="wobinich"><em>Schreibweise:</em> gemäss unserem <a class="int" href="./vorschlaege/ziel.php">«kleinen ziel»</a>, zitate in originalschreibweise; worttrennung am zeilenende teilweise durch den brauser.</div>
+</footer>
+</body>
+</html>

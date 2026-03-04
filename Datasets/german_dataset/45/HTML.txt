@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<!-- MetaExtraction: 0. Anerkennungsportal -->
+<!-- #AiD#page#: 3, DEU -->
+<!-- Zielgruppeneinstieg -->
+<!-- #AiD#keywords#:  -->
+<!-- #AiD#title#: Anerkennungsportal -->
+<!-- #AiD#description#: Anerkennung in Deutschland ist das offizielle Informationsportal zum Anerkennungsgesetz des Bundes. Das Portal informiert &uuml;ber die Verfahren zur Anerkennung von ausl&auml;ndischen Berufsabschl&uuml;ssen in Deutschland. -->
+<!-- #AiD#searchable#: true -->
+<!-- #AiD#searchboost#: 1.0 -->
+<!-- #AiD#teaserpicture#: https://www.anerkennung-in-deutschland.de/assets/content/default_768x372.jpg -->
+<!-- #AiD#teaserdescription#:  -->
+<title>Anerkennungsportal</title>
+<meta content="2020-05-29T10:36:54+01:00" name="date"/>
+<meta content="index, follow" name="robots"/>
+<!-- cms metadata -->
+<meta content="berufliche Anerkennung, Beruf anerkennen, Anerkennungsverfahren, Anerkennungsgesetz, Referenzberuf, Gleichstellung, Anerkennungsberatung, Beratung zur Anerkennung, Berufserlaubnis, reglementierte Berufe,  Zeugnisanerkennung, Berufsabschluss Ausland" name="keywords"/>
+<meta content="Anerkennung in Deutschland ist das offizielle Informationsportal zum Anerkennungsgesetz des Bundes. Das Portal informiert über die Verfahren zur Anerkennung von ausländischen Berufsabschlüssen in Deutschland." name="description"/>
+<meta content="Anerkennung in Deutschland ist das offizielle Informationsportal zum Anerkennungsgesetz des Bundes. Das Portal informiert über die Verfahren zur Anerkennung von ausländischen Berufsabschlüssen in Deutschland." property="og:description"/>
+<meta content="Anerkennung in Deutschland - Anerkennungsportal" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="Anerkennung in Deutschland - Anerkennungsportal" property="og:site_name"/>
+<meta content="https://www.anerkennung-in-deutschland.de/assets/content/aid_socialmedia.png" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@BIBB_de" name="twitter:site"/>
+<meta content="Anerkennung in Deutschland - Anerkennungsportal" name="twitter:title"/>
+<meta content="Anerkennung in Deutschland ist das offizielle Informationsportal zum Anerkennungsgesetz des Bundes. Das Portal informiert über die Verfahren zur Anerkennung von ausländischen Berufsabschlüssen in Deutschland." name="twitter:description"/>
+<meta content="@BIBB_de" name="twitter:creator"/>
+<meta content="https://www.anerkennung-in-deutschland.de/assets/content/aid_socialmedia.png" name="twitter:image"/>
+<meta content="https://www.anerkennung-in-deutschland.de" name="twitter:domain"/>
+<!-- 2020.11.W3 -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://www.anerkennung-in-deutschland.de/system/library/favicon.ico" rel="shortcut icon"/>
+<link href="/webassets/aidworld/css/style.css" rel="stylesheet" type="text/css"/>
+<meta content="https://www.anerkennung-in-deutschland.de/html/de/index.php" property="og:url"/>
+</head>
+<body id="body">
+<div id="app">
+<!--###searchindexing:ignore###-->
+<header>
+<div class="meta">
+<div class="container clearfix py-2">
+<a href="https://www.bibb.de" target="_blank" title="Bundesinstitut für Berufsbildung (BIBB) - Deutschland">
+<img src="https://www.anerkennung-in-deutschland.de/system/layout/BIBB-Logo_DE_SW.svg" width="80"/>
+</a>
+<div class="meta-wrapper">
+<span>Ein Angebot des Bundesinstituts für Berufsbildung</span>
+<a href="https://www.bibb.de" target="_blank" title="Bundesinstitut für Berufsbildung (BIBB) - Deutschland">
+                Mehr Infos
+            </a>
+</div>
+</div>
+</div>
+<div class="logos">
+<div class="container pt-4">
+<div class="row">
+<div class="col-6 mb-0 logo-aid">
+<a href="https://www.anerkennung-in-deutschland.de/html/de/index.php" target="_self" title="Anerkennung in Deutschland">
+<img src="https://www.anerkennung-in-deutschland.de/system/layout/AID-Logo_de.svg"/>
+</a>
+</div>
+<div class="col-6 mb-0 text-right logo-bm">
+<a href="http://www.bmbf.de" target="_blank" title="Bundesministerium für Bildung und Forschung - BMBF">
+<img src="https://www.anerkennung-in-deutschland.de/system/layout/BMBF-Logo_DE.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="languages">
+<div class="container">
+<ul class="language-switcher clearfix">
+<li>
+<span class="dropdown-label">Sprache:</span>
+<div class="dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" href="#" id="dropdownMenuLink" role="button">
+<span class="language-text">Deutsch</span>
+<span class="language-icon"></span>
+</a>
+<div aria-labelledby="dropdownMenuLink" class="dropdown-menu">
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/ar/index.php">العربية</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/en/index.php">English</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/fr/index.php">Français</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/el/index.php">Ελληνικά</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/it/index.php">Italiano</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/pl/index.php">Polski</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/ro/index.php">Română</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/ru/index.php">Русский</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/es/index.php">Español</a>
+<a class="dropdown-item" href="https://www.anerkennung-in-deutschland.de/html/tr/index.php">Türkçe</a>
+<a class="dropdown-item language-item" href="https://www.anerkennung-in-deutschland.de/html/de/leichte-sprache.php">Leichte Sprache <span></span></a>
+<a class="dropdown-item language-item" href="https://www.anerkennung-in-deutschland.de/html/de/gebaerdensprache.php">Gebärdensprache <span></span></a>
+</div>
+</div>
+</li>
+<li class="language-item"><a href="https://www.anerkennung-in-deutschland.de/html/de/leichte-sprache.php">Leichte Sprache</a></li>
+<li class="language-item"><a href="https://www.anerkennung-in-deutschland.de/html/de/gebaerdensprache.php">Gebärdensprache</a></li>
+<!-- Zielgruppeneinstieg -->
+<!-- no search -->
+<li class="burger-button">
+<button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+</li>
+</ul>
+</div>
+</div>
+<!-- MainNavigation -->
+</header>
+<!-- Breadcrumb -->
+<!--/###searchindexing:ignore###-->
+<main>
+<div class="container-fluid bg-gray-200 py-5" id="module59">
+<div class="container">
+<div class="headline text-center">
+<h1>Herzlich willkommen,</h1>
+</div>
+<div class="headline text-center">
+<h2>wie können wir helfen?</h2>
+</div>
+</div>
+<div class="container mt-5">
+<div class="row">
+<div class="col-12 col-md-4">
+<a class="d-inline-block targetgroupteaser icon-anerkennung" href="https://www.anerkennung-in-deutschland.de/html/de/fachkraefte.php" target="_self">
+<div class="image mb-3" style="background-image: url(https://www.anerkennung-in-deutschland.de/assets/content/Teaserbilder/zg-fachkraft-skurat-600x600.png)">
+<div class="icon icon-circle-white">
+<img alt="Anerkennung" src="https://www.anerkennung-in-deutschland.de/system/layout/icon_anerkennung.svg"/>
+</div>
+</div>
+<h3>Fachkräfte</h3>
+<div class="text mb-3">Sie möchten in Ihrem erlernten Beruf arbeiten? Hier erfahren Sie in 11 Sprachen, wie und wo Sie Ihren ausländischen Beruf anerkennen lassen können.</div>
+<div class="btn btn btn-primary float-none">Mehr erfahren</div>
+</a>
+</div><div class="col-12 col-md-4">
+<a class="d-inline-block targetgroupteaser icon-anerkennung" href="https://www.anerkennung-in-deutschland.de/html/de/profis.php" target="_self">
+<div class="image mb-3" style="background-image: url(https://www.anerkennung-in-deutschland.de/assets/content/Teaserbilder/zge-beratung-600x600.jpg)">
+<div class="icon icon-circle-white">
+<img alt="Anerkennung" src="https://www.anerkennung-in-deutschland.de/system/layout/icon_person.svg"/>
+</div>
+</div>
+<h3>Profis</h3>
+<div class="text mb-3">Sie arbeiten in einer Beratungsstelle oder Behörde und sind mit dem Thema Anerkennung professionell betraut? Hier erhalten Sie vertiefte Fachinformationen auf Deutsch und Englisch.</div>
+<div class="btn btn btn-primary float-none">Mehr erfahren</div>
+</a>
+</div><div class="col-12 col-md-4">
+<a class="d-inline-block targetgroupteaser icon-anerkennung" href="https://www.anerkennung-in-deutschland.de/html/de/arbeitgeber.php" target="_self">
+<div class="image mb-3" style="background-image: url(https://www.anerkennung-in-deutschland.de/assets/content/Teaserbilder/zg-arbeitgeber-600x600.jpg)">
+<div class="icon icon-circle-white">
+<img alt="Anerkennung" src="https://www.anerkennung-in-deutschland.de/system/layout/icon_unternehmen.svg"/>
+</div>
+</div>
+<h3>Arbeitgeber</h3>
+<div class="text mb-3">Sie möchten Fachkräfte mit ausländischen Qualifikationen beschäftigen? Hier gibt es praktische Informationen und Unterstützung (nur auf Deutsch).</div>
+<div class="btn btn btn-primary float-none">Mehr erfahren</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid pt-5 pb-5 single-col-small text-center">
+<div class="row">
+<div class="col pt-5 pb-3">
+<h3>Sie benötigen schnelle Hilfe?</h3>
+<p class="h1 ">+49 30 1815-1111</p>
+<p style="margin-bottom:3pt; margin-left:0cm; margin-right:0cm; margin-top:3pt">Die Hotline ist erreichbar von Montag bis Freitag 8 bis 16 Uhr.</p>
+</div>
+</div>
+</div>
+</main>
+<!--###searchindexing:ignore###-->
+<footer>
+<div class="container back-to-top">
+<a class="backToTop" href="#backToTop">
+<img alt="back to top" class="float-right" height="40" src="https://www.anerkennung-in-deutschland.de/system/layout/back-to-top.svg" width="40"/>
+</a>
+</div>
+<div class="upper-footer py-5 text-white">
+<div class="container pb-5">
+<div class="row">
+<!-- Zielgruppeneinstieg -->
+<div class="col-12 col-sm-6 col-md-3 mb-5 mb-lg-1">
+<h3>
+<a class="tel text-white" href="tel:00493018151111">+49 30 1815-1111</a>
+</h3>
+<strong>Hotline „Arbeiten und Leben in Deutschland“</strong>
+<p>Die Hotline ist erreichbar von Montag bis Freitag 8 bis 16 Uhr.</p>
+<a class="facebook" href="https://de-de.facebook.com/anerkennungindeutschland/">
+<span class="fb-icon"></span> Besuchen Sie uns auf Facebook
+    </a>
+<p><a href="https://www.anerkennung-in-deutschland.de/html/de/netiquette-soziale-netzwerke.php">Netiquette Soziale Netzwerke</a></p>
+<p><a href="https://www.anerkennung-in-deutschland.de/html/de/impressum.php">Impressum</a></p>
+<p><a href="https://www.anerkennung-in-deutschland.de/html/de/datenschutz.php">Datenschutz</a></p>
+</div><div class="col-12 col-sm-6 col-md-3">
+<h3>Für Fachkräfte</h3>
+<p>Sie möchten in Deutschland in Ihrem Beruf arbeiten? Wie und wo Sie Ihren Abschluss anerkennen lassen können, erfahren Sie hier in 11 Sprachen.</p>
+<a class="btn btn-secondary float-none" href="https://www.anerkennung-in-deutschland.de/html/de/fachkraefte.php" target="_self" title="Zum Portal für Privatpersonen">Zum Fachkräfte-Bereich</a>
+<br/>
+</div><div class="col-12 col-sm-6 col-md-3">
+<h3>Für Profis</h3>
+<p>Sie beraten oder recherchieren zur Anerkennung ausländischer Berufsqualifikationen? Hier erhalten Sie alle Fachinformationen auf Deutsch und Englisch.</p>
+<a class="btn btn-secondary float-none" href="https://www.anerkennung-in-deutschland.de/html/de/profis.php" target="_self" title="Zum Portal für Profis">Zum Profi-Bereich</a>
+<br/>
+</div><div class="col-12 col-sm-6 col-md-3">
+<h3>Für Arbeitgeber</h3>
+<p>Sie möchten Fachkräfte mit ausländischen Qualifikationen beschäftigen? Hier gibt es praktische Informationen und Unterstützung (nur auf Deutsch).</p>
+<a class="btn btn-secondary float-none" href="https://www.anerkennung-in-deutschland.de/html/de/arbeitgeber.php" target="_self" title="Zum Portal für Arbeitgeber">Zum Arbeitgeber-Bereich</a>
+<br/>
+</div>
+</div>
+</div>
+</div>
+<div class="lower-footer py-4 text-center">
+<strong class="d-block">in Kooperation mit</strong>
+<picture>
+<source media="(min-width: 38em)" srcset="https://www.anerkennung-in-deutschland.de/system/layout/kooperation.png">
+<source srcset="https://www.anerkennung-in-deutschland.de/system/layout/kooperation.png">
+<img alt="Ich bin der ALT Text" src="https://www.anerkennung-in-deutschland.de/system/layout/kooperation.png" style="max-width: 160px"/>
+</source></source></picture>
+</div>
+</footer>
+</div>
+<script charset="utf-8" src="/webassets/aidworld/js/main.min.js" type="text/javascript"></script>
+<!--
+        https://www.anerkennung-in-deutschland.de/html/de/fachkraefte.php
+        https://www.anerkennung-in-deutschland.de/html/de/profis.php
+        https://www.anerkennung-in-deutschland.de/html/de/arbeitgeber.php
+        https://www.anerkennung-in-deutschland.de/html/de/redirect_27.php
+        
+    -->
+<!-- Matomo -->
+<script type="text/javascript">
+          var _paq = _paq || [];
+          _paq.push(["trackPageView"]);
+          _paq.push(["enableLinkTracking"]);
+          (function() {
+            var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.bibb.de/stats/";
+            _paq.push(["setTrackerUrl", u+"piwik.php"]);
+            _paq.push(["setSiteId", "78"]);
+            var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+            g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+<!-- /Matomo -->
+<input id="url-feedback" type="hidden" value="/api/v1/feedback"/>
+<script src="/prod/js/runtime.458898138e234d52d35c.js"></script><script src="/prod/js/0.fe53064b73eb14723a00.js"></script><script src="/prod/js/default.9403f95fa853fae5b07a.js"></script>
+<div class="cookie-info bg-gray-200 pt-4 pb-4" style="display: none">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-10">
+<p>Durch Ihren Besuch auf unserer Internetseite werden Daten von Ihnen erhoben. In Bezug auf den Umgang des BIBB-Portals "Anerkennung in Deutschland" mit Ihren Daten und den Zweck der Verarbeitung möchten wir Sie auf unsere <a href="https://www.anerkennung-in-deutschland.de/html/de/datenschutz.php">Datenschutzerklärung</a> verweisen.</p>
+</div>
+<div class="col-12 col-md-2 col-right">
+<a class="btn btn-primary btn-primary d-block cookie-accept float-none" href="#" target="_self" title="">OK</a>
+</div>
+</div>
+</div>
+</div><script type="text/javascript">
+    var glossar_jsarray = [];
+    
+    if (glossar_jsarray != undefined || glossar_jsarray.length > 0) {
+        function decodeHtml(html) {
+            var txt = document.createElement("textarea");
+            txt.innerHTML = html;
+            return txt.value;
+        }
+        var links = document.querySelectorAll("a.glossary");
+        var i;
+        for (i = 0; i < links.length; i++) {
+            var targetLink = links[i].getAttribute("data-id");
+            var glossaryId = targetLink.split("-")[2];
+            if(glossar_jsarray[glossaryId]){
+                var words= decodeHtml(glossar_jsarray[glossaryId]);
+                links[i].setAttribute("title", decodeHtml(glossar_jsarray[glossaryId]));
+            }
+        }
+    }
+</script>
+<!--/###searchindexing:ignore###-->
+</body>
+</html>

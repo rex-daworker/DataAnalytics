@@ -1,0 +1,1 @@
+['studium', 'in', 'deutschland', 'staatlich', 'fh', 'privat', 'universität', 'fachhochschule', 'technische', 'hochschule', 'film', 'kunst', 'musik']

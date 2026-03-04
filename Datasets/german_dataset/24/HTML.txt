@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<title>Shoplösung in der Cloud - Kostenlos starten - Onlineshop Software - GAMBIO - Gambio GmbH</title>
+<base href="https://www.gambio.de/"/>
+<meta content="index,follow" name="robots"/>
+<meta content="✔ Shopsoftware in der Cloud ✔ SEO Optimiert ✔ Profi-Support ✔ Keine Vorkenntnisse nötig ✔ Webshop schon 20.000 Mal im Einsatz ✔ Sofort starten" name="description"/>
+<meta content="Contao Open Source CMS" name="generator"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" name="viewport"/>
+<link href="assets/css/ea059c97b13f.css" rel="stylesheet"/>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script async="" defer="" src="assets/js/90f32c5846c6.js"></script>
+<link href="share/favicon-gambio-de.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="share/favicon-apple-touch-icon-gambio-de.png" rel="apple-touch-icon"/>
+<meta content="fNb4TKKASAxOiygEqKAIN_6UBnIqx7kZ-n-SpDh7ktY" name="google-site-verification"/>
+<meta content="https://www.gambio.de/files/images/facebook-share.png" property="og:image"/>
+<meta content="Germany" property="og:locality"/>
+<meta content="Germany" property="og:country-name"/>
+<meta content="website" property="og:type"/>
+<meta content="Gambio - Onlineshop-Komplettlösung" property="og:title"/>
+<meta content="gambio.de" property="og:site_name"/>
+<meta content="223245721024606" property="fb:page_id"/>
+<!--[if lt IE 9]><script async defer src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]-->
+<script async="" data-managed="as-oil" data-purposes="3,4" data-src="https://www.googletagmanager.com/gtag/js?id=UA-2535969-2" data-type="text/javascript" type="as-oil"></script>
+<script async="" data-managed="as-oil" data-purposes="3,4" data-type="text/javascript" type="as-oil">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-2535969-2', {
+      'anonymize_ip': true,
+      'linker': {
+        'domains': ['gambio.de', 'gambio.com', 'gambiocloud.com', 'gambio-support.de'],
+        'decorate_forms': true
+      }
+    });
+    gtag('config', 'AW-1068805787');
+
+    function trackEvent(category, action, label, value, callback) {
+      gtag('event', action, {
+        'event_category': category,
+        'event_label': label,
+        'value': value,
+        'non_interaction': true
+      });
+    }
+      </script>
+<!-- Facebook Pixel Code -->
+<script async="" data-managed="as-oil" data-purposes="5" data-type="text/javascript" type="as-oil">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+   fbq('init', '1727719240714540'); 
+  fbq('track', 'PageView');
+  </script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=1727719240714540&amp;ev=PageView
+&amp;noscript=1" width="1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body class="unknown other default" id="top" itemscope="" itemtype="http://schema.org/WebPage">
+<div id="wrapper">
+<header class="navbar navbar-expand-md navbar-dark fixed-top" id="header">
+<div class="container">
+<a class="navbar-brand" href="">
+<span class="navbar-brand-logo"><svg viewbox="0 0 1016.12 286.96" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:#fff}</style></defs><title>gambio_logo</title><g data-name="Ebene 2" id="Ebene_2"><g data-name="Ebene 2" id="Ebene_2-2"><path class="cls-1" d="M2,222.4H40.1c1.42,21.61,16.21,28.44,35.27,28.44,18.2,0,34.7-8.53,34.7-25.88,0-13.65-8.82-24.18-34.13-24.18C29.86,200.78,0,173.48,0,130,0,82.47,36.69,58.29,75.94,58.29c10,0,60,31.86,60,31.86,9.38,11.37,14.5,24.45,14.5,37.54,0,21.33-8.81,40.95-30.15,52.05C151.59,193.39,151.59,217,151.59,225c0,41.81-37.83,62-76.22,62C26.45,287,1.14,263.07,2,222.4ZM111.2,130c0-19.62-15.07-35.26-35.26-35.26-20.76,0-36.41,12.51-36.41,35.26,0,20.48,15.65,33.56,36.41,33.56C94.42,163.52,111.2,152.43,111.2,130Z"></path><path class="cls-1" d="M150.27,129.39c0,39.2-33.64,71-75.13,71"></path><path class="cls-1" d="M75.14,58.29c41.49,0,75.13,31.9,75.13,71.1"></path><rect class="cls-1" height="36.1" transform="translate(-9.63 121.64) rotate(-47.5)" width="22.21" x="122.31" y="53.72"></rect><path class="cls-1" d="M172.14,130.39c0-45.74,31.25-73.29,71.59-73.29,18.75,0,35.51,6.53,43.47,19.32l1.42-16.2H327V200.56H290l-2.28-17.62c-9.09,15.91-29.54,21.88-43.18,21.88C202.54,204.82,172.14,176.69,172.14,130.39Zm115.06,1.42c0-20.17-13.07-38.63-37.22-38.63-20.45,0-36.93,13.92-36.93,37.21s16.48,36.93,36.93,36.93C273,167.32,287.2,149.14,287.2,131.81Z"></path><path class="cls-1" d="M361.62,60.22h35.79l2.84,15.91c9.1-15,24.44-19,36.93-19,15.06,0,32.11,6,41.2,26.13,12.5-19.31,25.56-26.13,46.3-26.13,29.26,0,56,14.2,56,66.76v76.7H539.45V124.71c0-17.9-4.54-29.26-21.31-29.26-16.19,0-23.86,13.92-23.86,29.83v75.28H454V125.28c0-18.47-9.1-30.68-26.14-30.68-16.19,0-25.28,15.05-25.28,31v75H361.62Z"></path><path class="cls-1" d="M652.51,182.66,650,200.56H613.3V1.71h41.2V77.27c12.21-15.06,27.27-20.17,44-20.17,41.19,0,69.88,27.84,69.88,73.29,0,43.75-28.12,74.43-69.31,74.43C681.2,204.82,665.29,201.12,652.51,182.66Zm74.71-52.27c0-21.31-13.07-36.08-34.37-36.08-19,0-37.79,12.22-37.79,36.08,0,26.7,19.32,36.08,37.79,36.08C714.72,166.47,727.22,150.56,727.22,130.39Z"></path><path class="cls-1" d="M792.27,23c0-15.62,11.65-23,23.29-23s23.3,7.39,23.3,23-11.65,23-23.3,23S792.27,38.63,792.27,23Zm2.84,37.21H836V200.56H795.11Z"></path><path class="cls-1" d="M862.44,130.67c0-42.32,30.11-73.57,76.69-73.57,46.88,0,77,31.25,77,73.57,0,44.89-29.26,74.43-77,74.43S862.44,175.56,862.44,130.67Zm112.2,0c0-17.61-10.79-36.93-35.51-36.93-24.14,0-35.22,19.32-35.22,36.93,0,19,10.23,38.07,35.22,38.07S974.64,150.56,974.64,130.67Z"></path></g></g></svg></span>
+<span class="navbar-brand-square"><svg viewbox="0 0 286.96 286.96" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:#fff}</style></defs><title>gambio_logo_square</title><g data-name="Ebene 2" id="Ebene_2"><g data-name="Ebene 2" id="Ebene_2-2"><path class="cls-1" d="M175,110.84A27.19,27.19,0,0,0,147.4,83.22c-16.27,0-28.52,9.8-28.52,27.62,0,16,12.25,26.29,28.52,26.29C161.88,137.13,175,128.45,175,110.84Z"></path><path class="cls-1" d="M0,0V287H287V0ZM203.81,96.65a41.45,41.45,0,0,1,2,12.41,55.51,55.51,0,0,1-.7,8.88,54.61,54.61,0,0,1-19,33.8c20.54,10.86,20.55,27.64,20.55,33.52,0,32.75-29.63,48.57-59.71,48.57-38.32,0-58.15-18.72-57.48-50.58h29.85c1.12,16.94,12.7,22.28,27.63,22.28,14.26,0,27.18-6.68,27.18-20.27,0-10.7-6.91-18.94-26.73-18.94-36.1,0-59.49-21.39-59.49-55.48,0-36.95,28.36-55.88,58.87-56.13h.62l.46,0a61,61,0,0,1,28.31,7.43l0,0,11.75-12.83,20.85,19.1L197,81.22l-.2-.17A53.76,53.76,0,0,1,203.81,96.65Z"></path></g></g></svg></span></a>
+<button aria-controls="navbar-nav-main" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler c-hamburger c-hamburger--htx d-block d-md-none" data-target="#navbar-nav-main" data-toggle="collapse" type="button">
+<span></span>
+</button>
+<!--<button id="meco-overlay-menu-toggle" data-toggle="menu" class="c-hamburger c-hamburger--htx visible-xs-block">
+<span></span> Menü
+</button>-->
+<!-- indexer::stop -->
+<nav class="mod_navigation collapse navbar-collapse block" id="navbar-nav-main" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a class="invisible" href="?_ga=2.24996540.788718440.1564844321-1346127080.1564844321#skipNavigation2">Navigation überspringen</a>
+<ul class="navbar-nav ml-md-auto mr-md-4">
+<li class="nav-item-shop nav-item dropdown submenu sibling first">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link submenu sibling first" data-toggle-hover="dropdown" href="shop/features" itemprop="url" role="button" title="Gambio Onlineshop - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Shop</span>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-features first">
+<a class="dropdown-item first" href="shop/features" itemprop="url" title="Alle Features inklusive - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Features</span>
+</a> </li>
+<li class="nav-item-schnittstellen ">
+<a class="dropdown-item" href="shop/schnittstellen" itemprop="url" title="Zahlreiche Schnittstellen - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Schnittstellen</span>
+</a> </li>
+<li class="nav-item-rechtssicherheit last">
+<a class="dropdown-item last" href="shop/rechtssicherheit" itemprop="url" title="Rechtstexte inklusive - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Rechtssicherheit</span>
+</a> </li>
+</ul>
+</li>
+<li class="nav-item-entdecken nav-item dropdown submenu sibling">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link submenu sibling" data-toggle-hover="dropdown" href="entdecken/gambiografien" itemprop="url" role="button" title="Gambio entdecken - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Entdecken</span>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-gambiografien first">
+<a class="dropdown-item first" href="entdecken/gambiografien" itemprop="url" title="Unsere Gambiografien - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Gambiografien</span>
+</a> </li>
+<li class="nav-item-referenzen ">
+<a class="dropdown-item" href="entdecken/referenzen" itemprop="url" title="Gambio-Shop-Referenzen"><span itemprop="name">Referenzen</span>
+</a> </li>
+<li class="nav-item-ueber-uns last">
+<a class="dropdown-item last" href="entdecken/ueber-uns" itemprop="url" title="Das Gambio Team - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Über uns</span>
+</a> </li>
+</ul>
+</li>
+<li class="nav-item-design nav-item dropdown submenu sibling">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link submenu sibling" data-toggle-hover="dropdown" href="design/themes" itemprop="url" role="button" title="Eigene Designs erstellen - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Design</span>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-vorlagen first">
+<a class="dropdown-item first" href="design/themes" itemprop="url" title="Kostenlose Themes - Shoplösung in der Cloud - Kostenlos starten - GAMBIO"><span itemprop="name">Vorlagen</span>
+</a> </li>
+<li class="nav-item-gambio-styleedit last">
+<a class="dropdown-item last" href="design/styleedit" itemprop="url" title="Gambio StyleEdit - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Gambio StyleEdit</span>
+</a> </li>
+</ul>
+</li>
+<li class="nav-item-hilfe nav-item dropdown submenu sibling">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link submenu sibling" data-toggle-hover="dropdown" href="hilfe/support" itemprop="url" role="button" title="Schnelle Hilfe bei Fragen - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Hilfe</span>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-support navbar-light first">
+<a class="dropdown-item navbar-light first" href="hilfe/support" itemprop="url" title="Professioneller Support - Shoplösung in der Cloud - Kostenlos starten"><span itemprop="name">Support</span>
+</a> </li>
+<li class="nav-item-faq last">
+<a class="dropdown-item last" href="hilfe/faq" itemprop="url" title="Gambio FAQ - Shoplösung in der Cloud - Kostenlos starten - Shopsoftware"><span itemprop="name">FAQ</span>
+</a> </li>
+</ul>
+</li>
+<li class="nav-item-preise nav-item sibling">
+<a class="nav-link sibling" href="preise" itemprop="url" title="Faire Preise - Shoplösung in der Cloud - Kostenlos starten - Shopsystem"><span itemprop="name">Preise</span>
+</a> </li>
+<li class="nav-item-login nav-item login sibling last">
+<a class="nav-link login sibling last" href="https://www.gambio-support.de/" itemprop="url" title="Kundenportal - Shoplösung in der Cloud - Kostenlos starten - Internetshop"><span itemprop="name">Login</span>
+</a> </li>
+<li class="d-md-none py-4 px-5">
+<a class="btn btn-secondary btn-block" href="testshop">Kostenlos starten</a>
+</li>
+</ul>
+<a class="invisible" id="skipNavigation2"> </a>
+</nav>
+<!-- indexer::continue -->
+<div class="form-inline d-none d-lg-block">
+<a class="btn btn-outline-secondary" href="testshop">Kostenlos starten</a>
+</div> </div>
+</header>
+<div class="custom">
+<div id="stage">
+<div class="inside">
+<div class="mod_article mb-4 first last block" id="home-stage">
+<div class="ce_bootstrap_grid_start container first block">
+<div class="ce_bootstrap_grid_start row text-light font-size-lg block">
+<div class="ce_text col-12 lead text-center mt-4 block">
+<h1 class="display-4 mb-2">Dein Shop.</h1>
+<p>Gambio ist die Onlineshop-Komplettlösung</p>
+<p><a class="btn btn-secondary btn-secondary-pulse" href="testshop">Kostenlos starten</a></p>
+</div>
+<div class="ce_bootstrap_grid_start col-10 offset-1 col-md-8 offset-md-2 align-self-end block">
+<div class="ce_bootstrap_grid_start home-stage-arrangement block">
+<a class="gambio-badge ce_rsce_badge d-none d-md-flex gambio-badge-bottomleft gambio-badge-circle hidden-xs" href="entdecken/referenzen" style="display: block; margin-left: -75px; margin-bottom: -25px">
+<span class="text">
+Über <br/>
+20.000 Shops<br/>
+setzen auf<br/>
+Gambio	</span>
+</a>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Gestalte deinen Shop individuell und frei nach deinen Wünschen." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 0; top: 22%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Dank unserer Cloud brauchst du keinerlei Programmierkenntnisse." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 106%; top: 95%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Schütze dich mit einem rechtssicheren Shop vor teuren Abmahnungen." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 40%; top: 69%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Unser Support hilft dir schnell und verständlich – ohne Fachchinesisch." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 50%; top: 100%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Unsere Layouts sind responsive und passen sich allen Geräten optimal an." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 100%; top: 0%" title="">
+</span>
+<div class="screenshot browser ce_rsce_screenshot_browser">
+<span></span>
+<span></span>
+<span></span>
+<div>www.deinshop.de</div>
+<img alt="" src="files/images/screenshot-malibu-productinfo.png"/>
+</div>
+<div class="screenshot smartphone ce_rsce_screenshot_mobile smartphone-small d-none d-md-block">
+<span></span>
+<span></span>
+<img alt="" src="files/images/screenshot-malibu-productinfo-mobile.png"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="container">
+<main id="main">
+<div class="inside">
+<div class="mod_article first block" id="article-111">
+<div class="ce_bootstrap_grid_start container pt-3 px-lg-6 first block">
+<div class="ce_image block">
+<figure class="image_container">
+<a href="shop/schnittstellen">
+<img alt="" height="120" itemprop="image" src="files/images/logos.svg" width="1300"/>
+</a>
+</figure>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-112">
+<div class="ce_bootstrap_grid_start bg-gray py-4 py-md-5 check-list-secondary first block">
+<div class="ce_bootstrap_grid_start container block">
+<div class="ce_bootstrap_grid_start row justify-content-center block">
+<div class="ce_text col col-lg-8 lead text-center block">
+<h1 class="mt-0 mb-4">Erstelle deinen Shop in der <em>Cloud</em></h1>
+<p>Gambio ist die E-Commerce Plattform für professionelle Onlinehändler. Gambio bietet dir alle Funktionen, Schnittstellen und Möglichkeiten, die einen erfolgreichen Onlineshop ausmachen. Du brauchst keine Programmierkenntnisse und verkaufst mit Gambio nicht nur einfach, sondern auch sicher.</p>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start row apply-check-lists lead-lg mt-4 justify-content-center block">
+<div class="ce_text col-md-6 col-xl-4 block">
+<ul class="mb-0">
+<li>Kostenlose Designvorlagen <span class="icon-info" data-container="body" data-content="Das passende Design auswählen, installieren - fertig!" data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Keine Programmierkenntnisse nötig <span class="icon-info" data-container="body" data-content="Wenn du einen Computer bedienen kannst, kannst du Gambio bedienen." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>SEO optimiert <span class="icon-info" data-container="body" data-content="Gambio bietet alle Voraussetzungen, damit du bei Google &amp; Co. vorne mitspielen kannst." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Multichannel-Verkauf <span class="icon-info" data-container="body" data-content="Binde deinen Shop ganz einfach an die großen Marktplätze an und erreiche so noch mehr Kunden." data-placement="top" data-toggle="popover" title=""></span></li>
+</ul>
+</div>
+<div class="ce_text col-md-6 col-xl-4 block">
+<ul class="mb-0">
+<li><span style="font-weight: 400;">Zertifizierte Rechtssicherheit</span> <span class="icon-info" data-container="body" data-content="Abmahnungen? Nicht mit uns! Mit der Gambio Cloud erhältst du Rechtstexte mit Haftungsübernahme ohne Zusatzkosten." data-placement="top" data-toggle="popover" title=""></span></li>
+<li><span style="font-weight: 400;">Zahlungsabwicklung mit PayPal &amp; Co.</span> <span class="icon-info" data-container="body" data-content="Gambio arbeitet mit den bekanntesten Payment-Dienstleistern zusammen, damit du einfach und sicher an dein Geld kommst." data-placement="top" data-toggle="popover" title=""></span></li>
+<li><span style="font-weight: 400;">Freundlicher Support</span> <span class="icon-info" data-container="body" data-content="Wenn es doch mal klemmen sollte: unsere Helfer in der Not sind immer für dich da." data-placement="top" data-toggle="popover" title=""></span></li>
+<li><span style="font-weight: 400;">Automatische Updates</span> <span class="icon-info" data-container="body" data-content="Wir stellen dir immer automatisch die aktuelle Shopversion mit den neuesten Features zur Verfügung - du musst nicht einmal einen Knopf drücken." data-placement="top" data-toggle="popover" title=""></span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-64">
+<div class="ce_bootstrap_grid_start container mt-4 mb-5 py-4 px-0 px-sm-4 first block">
+<div class="ce_bootstrap_grid_start row no-gutters block">
+<div class="ce_bootstrap_grid_start col block">
+<div class="ce_bootstrap_grid_start video-slider block">
+<div class="ce_bootstrap_grid_start p-3 block">
+<div class="card video-card ce_rsce_videocard">
+<div class="preview position-relative overflow-hidden">
+<img alt="" src="files/images/videos/bavarian-caps.jpg"/>
+<a class="play" data-lightbox="video" href="https://www.youtube.com/watch?v=mJKwPsfQXj4" style="top: 50%"></a>
+</div>
+<div class="card-body text-center px-lg-4 pt-lg-4 pb-lg-2">
+<p class="citation font-italic d-block d-sm-none d-xl-block">»Für uns als Start-up bringt Gambio als Shopsoftware den idealen Funktionsumfang mit.«</p>
+<p class="name font-size-sm font-italic text-muted">Johannes Sänger / Bavarian Caps</p>
+<p class="category text-secondary font-italic">Start-Up</p>
+</div>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start p-3 block">
+<div class="card video-card ce_rsce_videocard">
+<div class="preview position-relative overflow-hidden">
+<img alt="" src="files/images/videos/schuhkeller.jpg"/>
+<a class="play" data-lightbox="video" href="https://www.youtube.com/watch?v=2k1iCAN8his" style="top: 50%"></a>
+</div>
+<div class="card-body text-center px-lg-4 pt-lg-4 pb-lg-2">
+<p class="citation font-italic d-block d-sm-none d-xl-block">»Wir können Händler nur ermutigen, den Schritt zu gehen, online zu verkaufen.«</p>
+<p class="name font-size-sm font-italic text-muted">Markus Keller-Leist / Schuh Keller</p>
+<p class="category text-secondary font-italic">Small Business</p>
+</div>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start p-3 block">
+<div class="card video-card ce_rsce_videocard">
+<div class="preview position-relative overflow-hidden">
+<img alt="" src="files/images/videos/reifen24.jpg"/>
+<a class="play" data-lightbox="video" href="https://www.youtube.com/watch?v=ipXoZbuOit4" style="top: 50%"></a>
+</div>
+<div class="card-body text-center px-lg-4 pt-lg-4 pb-lg-2">
+<p class="citation font-italic d-block d-sm-none d-xl-block">»Alle gesetzlichen Gegebenheiten wurden von Gambio zur Verfügung gestellt.«</p>
+<p class="name font-size-sm font-italic text-muted">Hendrik Salewski / Reifen24</p>
+<p class="category text-secondary font-italic">Professional</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-46">
+<div class="ce_bootstrap_grid_start container my-5 first block">
+<div class="ce_bootstrap_grid_start row justify-content-center block">
+<div class="ce_bootstrap_grid_start col-md-10 col-lg-8 block">
+<div class="ce_text text-center lead block">
+<h2>Das <em>G</em> steht für <em>Einfachheit!</em></h2>
+<p>Die individuelle Gestaltung deines Shops ist ein Kinderspiel. Aber nicht nur das: Mit Gambio brauchst du keine Programmierkenntnisse, um einen großartigen Shop zu erstellen, verwalten und sicher zu betreiben.</p>
+</div>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start row justify-content-center block">
+<div class="ce_bootstrap_grid_start col col-lg-10 col-xl-8 mt-4 block">
+<div class="position-relative">
+<div class="animation-loading" style="padding-bottom: 61%"></div>
+<div id="animation-styleedit" style="position: absolute; top: 0; left: 0; overflow: hidden; transform: translate3d(0,0,0); text-align: center; opacity: 0; width: 100%; height: 100%"></div>
+</div>
+<script>$(window).load(function(){inView('#animation-styleedit').once('enter',function(){var params={container:document.getElementById('animation-styleedit'),renderer:'svg',loop:!0,autoplay:!0,path:"files/animations/styleedit/data.txt",assetsPath:"files/animations/styleedit/images/"};var sytleedit;sytleedit=lottie.loadAnimation(params);sytleedit.addEventListener('DOMLoaded',function(e){$("#animation-styleedit").animate({"opacity":1})})})})</script>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-47">
+<div class="ce_bootstrap_grid_start bg-primary-gradient text-light first block">
+<div class="ce_bootstrap_grid_start container my-5 py-5 block">
+<div class="ce_bootstrap_grid_start row justify-content-center text-center lead block">
+<div class="ce_text col col-md-8 block">
+<h2><em>Vom Start-up</em><br/>bis zum Traditionsunternehmen</h2>
+<p>An welchem Punkt sich dein Business auch befindet, wir holen dich dort ab. Mehr als 20.000 Händler sind bereits von Gambio begeistert. Werde jetzt Teil der vielfältigen Gambio-Community.</p>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start references-slider mt-4 mb-3 block">
+<div class="reference ce_rsce_reference" href="https://www.bavarian-caps.de/de/" target="_blank">
+<div class="image" style="background-image: url('files/references/https-www-bavarian-caps-de-de.png')">
+<!-- <img src="files/references/https-www-bavarian-caps-de-de.png" alt="bavarian caps"> -->
+</div>
+<div class="title">
+<a href="entdecken/referenzen/referenz/4414" target="_blank"><strong>bavarian caps <span class="arrow-link-secondary"></span></strong></a>
+</div>
+</div>
+<div class="reference ce_rsce_reference" href="https://www.moebelconnection.de" target="_blank">
+<div class="image" style="background-image: url('files/references/https-www-moebelconnection-de.png')">
+<!-- <img src="files/references/https-www-moebelconnection-de.png" alt="Möbelconnection"> -->
+</div>
+<div class="title">
+<a href="entdecken/referenzen/referenz/4968" target="_blank"><strong>Möbelconnection <span class="arrow-link-secondary"></span></strong></a>
+</div>
+</div>
+<div class="reference ce_rsce_reference" href="https://www.tuerenheld.de" target="_blank">
+<div class="image" style="background-image: url('files/references/https-www-tuerenheld-de.png')">
+<!-- <img src="files/references/https-www-tuerenheld-de.png" alt="Türenheld"> -->
+</div>
+<div class="title">
+<a href="entdecken/referenzen/referenz/4872" target="_blank"><strong>Türenheld <span class="arrow-link-secondary"></span></strong></a>
+</div>
+</div>
+<div class="reference ce_rsce_reference" href="https://www.cuckoo.rocks/de/" target="_blank">
+<div class="image" style="background-image: url('files/references/https-www-cuckoo-rocks-de.png')">
+<!-- <img src="files/references/https-www-cuckoo-rocks-de.png" alt="Cuckoo.rocks"> -->
+</div>
+<div class="title">
+<a href="entdecken/referenzen/referenz/6068" target="_blank"><strong>Cuckoo.rocks <span class="arrow-link-secondary"></span></strong></a>
+</div>
+</div>
+<div class="reference ce_rsce_reference" href="https://t-92.at" target="_blank">
+<div class="image" style="background-image: url('files/references/https-t-92-at.png')">
+<!-- <img src="files/references/https-t-92-at.png" alt="T-92"> -->
+</div>
+<div class="title">
+<a href="entdecken/referenzen/referenz/4982" target="_blank"><strong>T-92 <span class="arrow-link-secondary"></span></strong></a>
+</div>
+</div>
+<div class="reference ce_rsce_reference" href="https://www.treppen-intercon.de" target="_blank">
+<div class="image" style="background-image: url('files/references/https-www-treppen-intercon-de.png')">
+<!-- <img src="files/references/https-www-treppen-intercon-de.png" alt="Treppen Intercon"> -->
+</div>
+<div class="title">
+<a href="entdecken/referenzen/referenz/4418" target="_blank"><strong>Treppen Intercon <span class="arrow-link-secondary"></span></strong></a>
+</div>
+</div>
+</div>
+<div class="ce_text text-center lead block">
+<p><span style="font-weight: 400;">Entdecke mehr als 2.000 tolle Shops aller Branchen.</span> <a href="entdecken/referenzen"><strong>Zu den Referenzen  <span class="arrow-link-secondary"></span></strong></a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-290">
+<div class="ce_bootstrap_grid_start container mt-5 mb-4 first block">
+<div class="ce_bootstrap_grid_start row justify-content-center text-center lead block">
+<div class="ce_text col-lg-8 block">
+<h1 style="text-align: center;">Wir sind dein <em>Team E-Commerce</em></h1>
+<p style="text-align: center;">Über 50 Mitarbeiter, und alle vereint eine Mission: Dein erfolgreicher Onlineshop! Von der Entwicklung über den Support bis zur Buchhaltung geben wir jeden Tag alles und stehen an deiner Seite, wenn du uns brauchst.</p>
+</div>
+</div>
+</div>
+<div class="ce_image img-stretch d-md-none block">
+<figure class="image_container">
+<img alt="" height="208" itemprop="image" src="files/images/home/team-ecommerce.jpg" width="767"/>
+</figure>
+</div>
+<div class="ce_bootstrap_grid_start container my-3 d-none d-md-block block">
+<div class="ce_bootstrap_grid_start row justify-content-center block">
+<div class="ce_bootstrap_grid_start col col-xl-10 block">
+<div class="ce_bootstrap_grid_start row block">
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/tobiasschindler.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Müssen wir hier auf irgendeine Zeichenbegrenzun«</p>
+<p class="name font-size-sm font-italic text-muted">Tobias Schindler</p>
+<p class="category text-secondary font-italic">Entwicklung</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/janinablohm.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Bei uns wird service noch großgeschrieben.«</p>
+<p class="name font-size-sm font-italic text-muted">Janina Blohm</p>
+<p class="category text-secondary font-italic">Recruiting</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/nonitocapuno.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Ok, nehmen wir einfach dieses Zitat.«</p>
+<p class="name font-size-sm font-italic text-muted">Nonito Capuno</p>
+<p class="category text-secondary font-italic">Gründer</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/wilkenhaase.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Hier könnte Ihre Werbung stehen.«</p>
+<p class="name font-size-sm font-italic text-muted">Wilken Haase</p>
+<p class="category text-secondary font-italic">Partnermanagement</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/philiprogge.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Weil Stockfotos zu teuer sind.«</p>
+<p class="name font-size-sm font-italic text-muted">Philip Rogge</p>
+<p class="category text-secondary font-italic">Entwicklung</p>
+</div>
+</div>
+</div>
+<div class="w-100"></div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/michaelkroenke.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Was lange lädt, wird niemals gut.«</p>
+<p class="name font-size-sm font-italic text-muted">Michael Krönke</p>
+<p class="category text-secondary font-italic">Support</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/johannabehncke.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Moskau-Inkasso, schön, dass ich Sie erreiche...«</p>
+<p class="name font-size-sm font-italic text-muted">Johanna Behncke</p>
+<p class="category text-secondary font-italic">Backoffice</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/gambio.svg')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<div>
+<p class="jobs">Werde Teil des Teams!</p>
+<p><a class="btn btn-outline-secondary btn-sm" href="ueber-uns/jobs">Zu den Jobs</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/dodjiepe.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Neben mir seht ihr alle blass aus.«</p>
+<p class="name font-size-sm font-italic text-muted">Dodji Epe</p>
+<p class="category text-secondary font-italic">Entwicklung</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/danielschnadt.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Mein Körper isst mein Kapital.«</p>
+<p class="name font-size-sm font-italic text-muted">Daniel Schnadt</p>
+<p class="category text-secondary font-italic">Gründer</p>
+</div>
+</div>
+</div>
+<div class="w-100"></div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/moritzbunjes.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Swipe nach rechts, um mich näher kennen zu lernen.«</p>
+<p class="name font-size-sm font-italic text-muted">Moritz Bunjes</p>
+<p class="category text-secondary font-italic">Entwicklung</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/danielwu.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Gambio wird von führenden Fachchinesen empfohlen.«</p>
+<p class="name font-size-sm font-italic text-muted">Daniel Wu</p>
+<p class="category text-secondary font-italic">Entwicklung</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/barney.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Ich habe Shopify-Aktien und keiner weiß es.«</p>
+<p class="name font-size-sm font-italic text-muted">Barney</p>
+<p class="category text-secondary font-italic">Datenschutz</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/lennardklaefker.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Mein Bart ist etwas kantig.«</p>
+<p class="name font-size-sm font-italic text-muted">Lennard Kläfker</p>
+<p class="category text-secondary font-italic">Marketing</p>
+</div>
+</div>
+</div>
+<div class="team-card flip-card ce_rsce_teamcard col mb-4">
+<div class="flip-card-inner">
+<div class="flip-card-front card">
+<div class="preview" style="background-image: url('files/images/team/timobackhaus.png')"></div>
+</div>
+<div class="flip-card-back card p-3 p-lg-4 text-light d-flex justify-content-center">
+<p class="citation font-italic d-block d-sm-none d-md-block">»Ich habe leider keine Rose für dich.«</p>
+<p class="name font-size-sm font-italic text-muted">Timo Backhaus</p>
+<p class="category text-secondary font-italic">Customizing</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="home-rechtssicherheit">
+<div class="ce_bootstrap_grid_start container-fluid mt-md-4 first block">
+<div class="ce_bootstrap_grid_start row flex-column-reverse flex-xl-row block">
+<div class="ce_bootstrap_grid_start col-12 col-xl-6 bg-gray p-0 block">
+<div class="ce_bootstrap_grid_start position-relative block">
+<div class="ce_image img-stretch block">
+<figure class="image_container">
+<img alt="" height="931" itemprop="image" src="files/images/rechtssicherheit/kissendsgvo.png" width="1400"/>
+</figure>
+</div>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Entspannt zurücklehnen - Rechtstexte mit Haftungsübernahme sind inklusive." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 71.5%; top: 80%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Wir haben für dich die aktuelle Rechtsprechung immer im Blick - und passen den Shop entsprechend an." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 27.3%; top: 82%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-bottom info-dot-align-left" data-container="body" data-content="Wir unterstützen die Initiative Fairness im Handel." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 72.5%; bottom: 82%" title="">
+</span>
+</div>
+</div>
+<div class="ce_text col-12 col-xl-6 bg-primary text-light py-5 px-lg-4 px-xl-5 d-flex flex-column justify-content-center lead block">
+<h2><em>Keine Angst vor Abmahnungen!</em><br/>Wir helfen dir dabei, deinen Shop rechtssicher zu betreiben.</h2>
+<p>Gambio ist bereits mehrfach geprüft und zertifiziert. Wir unterstützen dich dabei, deinen Shop so rechtssicher wie nur möglich zu gestalten und dich vor unnötigen Abmahnungen zu schützen. Sogar individuelle Rechtstexte mit Haftungsübernahme sind in allen Cloud-Tarifen bereits inklusive.</p>
+<p><a class="btn btn-secondary btn-secondary-pulse" href="shop/rechtssicherheit">Mehr zum Thema Rechtssicherheit</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-115">
+<div class="ce_bootstrap_grid_start bg-gray pt-5 pb-4 mb-5 first block">
+<div class="ce_bootstrap_grid_start container block">
+<div class="ce_bootstrap_grid_start row justify-content-center text-center lead block">
+<div class="ce_text col col-md-8 block">
+<h2>Alles dreht sich nur um <em>dich</em></h2>
+<p>Ein ganzes Ökosystem mit über 200 Schnittstellen und Partnern für deinen Erfolg. So haben wir für jede Herausforderung eine passende Lösung.</p>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start row justify-content-center block">
+<div class="ce_bootstrap_grid_start col col-md-10 col-lg-8 block">
+<div class="ce_bootstrap_grid_start position-relative block">
+<div id="animation-oekosystem" style="width:100%; height:100%; display:block; overflow: hidden; transform: translate3d(0,0,0); text-align: center; opacity: 1;"></div>
+<script>$(window).load(function(){inView('#home-rechtssicherheit').once('enter',function(){var params={container:document.getElementById('animation-oekosystem'),renderer:'svg',loop:!0,autoplay:!0,path:"files/animations/oekosystem/data.txt",assetsPath:"files/animations/oekosystem/images/"};var anim;anim=lottie.loadAnimation(params)})})</script>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Du willst mehr? Mit unseren Partnerschnittstellen ist fast alles möglich." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 25%; top: 25%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Wir unterstützen dich beim Aufbau deines Gambio Shops. Unsere Community gibt Tipps, Ideen und Hilfestellungen für den erfolgreichen Start in den Online-Handel. Unser Support hilft mit technischem Know-how, wenn du Fragen hast und nicht weiterkommst." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 36%; top: 36%" title="">
+</span>
+<span class="info-dot ce_rsce_dot info-dot-align-top info-dot-align-left" data-container="body" data-content="Unsere Cloud-Lösung bietet dir höchste Performance und Funktionalität. Das beste dabei: Du kümmerst dich um deine Erfolgsgeschichte und wir uns um die Technik." data-placement="top" data-toggle="popover" href="#" style="display: block; left: 54%; top: 54%" title="">
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="home-keyfigures">
+<div class="ce_bootstrap_grid_start container first block">
+<div class="ce_bootstrap_grid_start row flex-column flex-lg-row block">
+<div class="ce_text col block">
+<p><strong>22307 </strong>Anzahl Shops</p>
+</div>
+<div class="ce_text col block">
+<p><strong>21342399</strong> Gelistete Produkte</p>
+</div>
+<div class="ce_text col block">
+<p class="d-md-none"><strong>2327</strong> Mio Shopumsatz pro Jahr</p>
+<p class="d-none d-md-inline"><strong>2463380768</strong> Shopumsatz pro Jahr</p>
+</div>
+<div class="ce_text col block">
+<p><strong>26768400 </strong>Bestellungen pro Jahr</p>
+</div>
+<div class="ce_text col block">
+<p><strong>362137 </strong>Beiträge im Forum</p>
+</div>
+</div>
+<div class="ce_text source block">
+<p>Quelle: Interne Analyse, Stand Juli 2020</p>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-50">
+<div class="ce_bootstrap_grid_start bg-gray py-5 mt-5 first block">
+<div class="ce_bootstrap_grid_start container block">
+<div class="ce_bootstrap_grid_start row justify-content-center text-center lead block">
+<div class="ce_text col col-md-8 block">
+<h2>Unsere <em>fairen</em> Preise</h2>
+<p>Smart aber fair - wir passen unsere Preise deinen Bedürfnissen an. Bei uns findest du genau den richtigen Plan für deine Pläne.</p>
+</div>
+</div>
+<div class="row justify-content-center mt-4 mb-4 mb-md-6">
+<div class="col-10 col-sm-8 col-md-8 col-lg-4">
+<div class="btn-group btn-group-toggle btn-block billing-months-switch">
+<input autocomplete="off" checked="" id="switch_left" name="billing_months" type="radio" value="1"/>
+<label class="btn btn-default col-6" for="switch_left">monatlich</label>
+<input autocomplete="off" id="switch_right" name="billing_months" type="radio" value="12"/>
+<label class="btn btn-default col-6" for="switch_right"> jährlich | -10%</label>
+</div>
+</div>
+</div>
+<div class="cloud-pricing-table">
+<div class="pricing-table-col pricing-table-features">
+<div class="cloud-pricing-table-header p-4">
+<h3>Wähle deinen<br/><em>Cloud Plan</em></h3>
+</div>
+<div class="cloud-pricing-table-body">
+<div class="pricing-table-cell">Transaktionsgebühr
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Du zahlst keine umsatzabhängigen Gebühren - dein Umsatz gehört dir!" data-placement="top" data-toggle="popover" title="Transaktionsgebühr"></span>
+</div>
+<div class="pricing-table-cell">Vertragslaufzeit</div>
+<!-- <div class="pricing-table-cell">Anzahl Artikel</div> -->
+<div class="pricing-table-cell">Admin-Accounts</div>
+<div class="pricing-table-cell">Support</div>
+<!-- <div class="pricing-table-cell">Hosting inklusive</div> -->
+<!-- <div class="pricing-table-cell">Zugang zum Gambio-Forum</div> -->
+<!-- <div class="pricing-table-cell">Zugang zum Kundenportal</div> -->
+<!-- <div class="pricing-table-cell">Eigene Domain nutzen</div> -->
+<!-- <div class="pricing-table-cell">Automatische Updates</div> -->
+<!-- <div class="pricing-table-cell">SSL & Datenschutzpaket</div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight">Rechtssicherheit &amp; -texte
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Individuelle Rechtstexte mit Haftungsübernahme und Update-Flatrate von Protected Shops oder IT-Recht Kanzlei inklusive" data-placement="top" data-toggle="popover" title="Rechtssicherheit &amp; Rechtstexte"></span>
+</div>
+<!--                     <div class="pricing-table-cell">Mehrsprachigkeit
+<span class="icon-info icon-info-secondary"
+data-toggle="popover"
+data-placement="top"
+data-container="body"
+title="Mehrsprachigkeit"
+data-content="Standardsprachen deutsch und englisch, um weitere Sprachen erweiterbar"></span>
+</div> -->
+<div class="pricing-table-cell">"StyleEdit" Designtool
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Passe das Shopdesign nach deinen Wünschen an - ganz ohne Programmierkenntnisse" data-placement="top" data-toggle="popover" title="StyleEdit Designtool"></span>
+</div>
+<!-- <div class="pricing-table-cell">Gutscheine</div> -->
+<!-- <div class="pricing-table-cell">Variantenartikel</div> -->
+<!-- <div class="pricing-table-cell">Import / Export</div> -->
+<!-- <div class="pricing-table-cell">Rechnungen & Lieferscheine</div> -->
+<!-- <div class="pricing-table-cell">Newsletter</div> -->
+<!-- <div class="pricing-table-cell">Customizer</div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight">Marktplätze/Multichannel
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Anbindung an einen Marktplatz (z.B. Amazon oder eBay) via magnalister mit bis zu 20 Artikeluploads und Bestellungen je Monat inklusive" data-placement="top" data-toggle="popover" title="Marktplätze/Multichannel"></span>
+</div>
+<!-- <div class="pricing-table-cell pricing-table-cell-highlight">Retargeting
+<span class="icon-info icon-info-secondary"
+data-toggle="popover"
+data-placement="top"
+data-container="body"
+title=""
+data-content="Voller Funktionsumfang des releva Business Tarifs. Limitiert auf 500 Besucher am Tag im Monatsdurchschnitt im Start-up Paket und je 1.000 Besucher im Small-Business und Professional Paket" data-original-title="Retargeting"></span>
+</div> -->
+<!-- <div class="pricing-table-cell">Staffelpreise</div> -->
+<!-- <div class="pricing-table-cell">B2B</div> -->
+<!-- <div class="pricing-table-cell">FTP-Zugang (eingeschränkt)</div> -->
+<div class="pricing-table-cell">API-Zugang
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Nutze die API, um deinen Shop an die eigene Infrastruktur anzubinden" data-placement="top" data-toggle="popover" title="API-Zugang"></span>
+</div>
+<div class="pricing-table-cell">Google-Paket
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Google Neukundenbonus von 120 EUR / Nutzung der integrierten Schnittstelle zu Google-Diensten wie Shopping und Analytics" data-placement="top" data-toggle="popover" title="Google-Paket"></span>
+</div>
+<div class="pricing-table-cell">Wordpress-Blog mit pressify
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Erstelle deinen Wordpress-Blog im Layout deines Shops" data-placement="top" data-toggle="popover" title="Wordpress-Blog mit pressify"></span>
+</div>
+<div class="pricing-table-cell">Priorisierter Support</div>
+<div class="pricing-table-cell" data-feature="feature-ecommerce-starterpaket">E-Commerce Starter-Paket
+<span class="icon-info icon-info-secondary" data-container="body" data-content="Wir helfen dir beim Umzug zu Gambio oder beim Aufbau deines Shops, importieren für dich Artikel und Kategorien und stellen dir einen persönlichen Kundenberater zur Seite." data-placement="top" data-toggle="popover" title="E-Commerce Starter-Paket"></span>
+</div>
+</div>
+</div>
+<div class="pricing-table-col pricing-table-plan">
+<div class="cloud-pricing-table-header">
+<div class="pricing-table-plan-title">Start-Up</div>
+<div class="icon">
+<svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M10 0C4.5 0 0 4.5 0 10V12V16V17C0 18.7 1.3 20 3 20H4C5.7 20 7 18.7 7 17V14C7 12.3 5.7 11 4 11H2V10C2 5.6 5.6 2 10 2C14.4 2 18 5.6 18 10V11H16C14.3 11 13 12.3 13 14V17C13 18.7 14.3 20 16 20H17C18.7 20 20 18.7 20 17V16V12V10C20 4.5 15.5 0 10 0ZM4 13C4.6 13 5 13.4 5 14V17C5 17.6 4.6 18 4 18H3C2.4 18 2 17.6 2 17V16V13H4ZM17 18C17.6 18 18 17.6 18 17V16V13H16C15.4 13 15 13.4 15 14V17C15 17.6 15.4 18 16 18H17Z" fill="#00143B" fill-opacity="1" fill-rule="evenodd"></path></svg>
+</div>
+<span class="yearly" style="display: none; ">
+<div class="pricing-table-price">
+<strong>17,96 €</strong> / Monat<br/>215,46 € / Jahr
+</div>
+<!-- <form method="post" accept-charset="utf-8" role="form" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=56261b55-7d83-11e9-b350-b8ac6f812f69&amp;billing_months=12">
+<div style="display:none;"><input type="hidden" name="_method" value="POST"></div>
+<button class="btn btn-block btn-outline btn-white" type="submit">Los geht's</button>
+<div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="e8186c0bfd9408887b5831b7b88aa61df194c9da%3A"><input type="hidden" name="_Token[unlocked]" autocomplete="off" value=""></div>
+</form> -->
+</span>
+<span class="monthly">
+<div class="pricing-table-price">
+<strong>19,95 €</strong> / Monat
+</div>
+<!-- <form method="post" accept-charset="utf-8" role="form" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=56261b55-7d83-11e9-b350-b8ac6f812f69&amp;billing_months=1"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><button class="btn btn-block btn-outline btn-white" type="submit">Los geht's</button><div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="f367d6e3c178322b4d6d90eca73faa4a5a8d5737%3A"><input type="hidden" name="_Token[unlocked]" autocomplete="off" value=""></div></form> -->
+</span>
+</div>
+<div class="cloud-pricing-table-body">
+<div class="pricing-table-cell" data-th="Transaktionsgebühr">0%</div>
+<div class="pricing-table-cell" data-th="Vertragslaufzeit">
+<span class="yearly" style="display: none; ">12 Monate</span>
+<span class="monthly">12 Monate</span>
+</div>
+<!-- <div class="pricing-table-cell" data-th="Anzahl Artikel">unbegrenzt</div> -->
+<div class="pricing-table-cell" data-th="Admin-Accounts">1</div>
+<div class="pricing-table-cell" data-th="Support">E-Mail</div>
+<!-- <div class="pricing-table-cell" data-th="Hosting inklusive"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Zugang zum Gambio-Forum"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Zugang zum Kundenportal"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Eigene Domain nutzen"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Auto Update"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="SSL & Datenschutzpaket"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight" data-th="Rechtssicherheit &amp; Rechtstexte"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell" data-th="Mehrsprachigkeit"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell" data-th="StyleEdit Designtool"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell" data-th="Gutscheine"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Variantenartikel"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Import/Export"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Rechnungen & Lieferscheine"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Newsletter"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Customizer"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight" data-th="Marktplätze/Multichannel"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell pricing-table-cell-highlight" data-th="Retargeting"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Staffelpreise"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="B2B"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="FTP-Zugang (eingeschränkt)"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell" data-th="API-Zugang"><span class="pricing-uncheck"></span></div>
+<div class="pricing-table-cell" data-th="Google-Starter-Paket"><span class="pricing-uncheck"></span></div>
+<div class="pricing-table-cell" data-th="Wordpress-Blog mit pressify"><span class="pricing-uncheck"></span></div>
+<div class="pricing-table-cell" data-th="Priorisierter Support"><span class="pricing-uncheck"></span></div>
+<div class="pricing-table-cell" data-th="E-Commerce Starter-Paket"><span class="price"><del>299,00 €</del> 0,00 €</span></div>
+</div>
+<div class="cloud-pricing-table-footer">
+<span class="yearly" style="display: none; ">
+<form accept-charset="utf-8" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=56261b55-7d83-11e9-b350-b8ac6f812f69&amp;billing_months=12" method="post" role="form"><div style="display:none;"><input name="_method" type="hidden" value="POST"/></div><button class="btn btn-block btn-secondary" type="submit">Los geht's</button><div style="display:none;"><input autocomplete="off" name="_Token[fields]" type="hidden" value="e8186c0bfd9408887b5831b7b88aa61df194c9da%3A"/><input autocomplete="off" name="_Token[unlocked]" type="hidden" value=""/></div></form>
+</span>
+<span class="monthly">
+<form accept-charset="utf-8" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=56261b55-7d83-11e9-b350-b8ac6f812f69&amp;billing_months=1" method="post" role="form"><div style="display:none;"><input name="_method" type="hidden" value="POST"/></div><button class="btn btn-block btn-secondary" type="submit">Los geht's</button><div style="display:none;"><input autocomplete="off" name="_Token[fields]" type="hidden" value="f367d6e3c178322b4d6d90eca73faa4a5a8d5737%3A"/><input autocomplete="off" name="_Token[unlocked]" type="hidden" value=""/></div></form>
+</span>
+</div>
+</div>
+<div class="pricing-table-col pricing-table-plan selected">
+<span class="recommended">Unser Tipp</span>
+<div class="cloud-pricing-table-header">
+<div class="pricing-table-plan-title">Small Business</div>
+<div class="icon">
+<svg fill="none" height="20" viewbox="0 0 24 20" width="24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M23.7 8.3L20.7 5.3C20.5 5.1 20.3 5 20 5H17V1C17 0.4 16.6 0 16 0H1C0.4 0 0 0.4 0 1V14C0 14.6 0.4 15 1 15H2.4C2.1 15.5 2 16 2 16.5C2 18.4 3.6 20 5.5 20C7.4 20 9 18.4 9 16.5C9 16 8.9 15.5 8.6 15H15.3C15.1 15.5 14.9 16 14.9 16.5C14.9 18.4 16.5 20 18.4 20C20.3 20 21.9 18.4 21.9 16.5C21.9 16 21.8 15.5 21.5 15H23C23.6 15 24 14.6 24 14V9C24 8.7 23.9 8.5 23.7 8.3ZM2 2H15V6V13H2V2ZM5.5 18C6.3 18 7 17.3 7 16.5C7 15.7 6.3 15 5.5 15C4.7 15 4 15.7 4 16.5C4 17.3 4.7 18 5.5 18ZM20 16.5C20 17.3 19.3 18 18.5 18C17.7 18 17 17.3 17 16.5C17 15.7 17.7 15 18.5 15C19.3 15 20 15.7 20 16.5ZM17 13H22V9.4L19.6 7H17V13Z" fill="black" fill-rule="evenodd"></path></svg>
+</div>
+<span class="yearly" style="display: none; ">
+<div class="pricing-table-price">
+<strong>44,96 €</strong> / Monat<br/>
+539,46 € / Jahr                        </div>
+<!-- <form method="post" accept-charset="utf-8" role="form" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=1d8c4fef-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=12"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><button class="btn btn-block btn-outline btn-white" type="submit">Los geht's</button><div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="2c99b63d981ae791a18216f8facaf53d71386207%3A"><input type="hidden" name="_Token[unlocked]" autocomplete="off" value=""></div></form> --> </span>
+<span class="monthly">
+<div class="pricing-table-price">
+<strong>49,95 €</strong> / Monat                        </div>
+<!-- <form method="post" accept-charset="utf-8" role="form" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=1d8c4fef-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=1"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><button class="btn btn-block btn-outline btn-white" type="submit">Los geht's</button><div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="cec6d3ddc54a1b3db161b2d6fac10b61220bb47a%3A"><input type="hidden" name="_Token[unlocked]" autocomplete="off" value=""></div></form> -->
+</span>
+</div>
+<div class="cloud-pricing-table-body">
+<div class="pricing-table-cell" data-th="Transaktionsgebühr">0%</div>
+<div class="pricing-table-cell" data-th="Vertragslaufzeit">
+<span class="yearly" style="display: none; ">
+12 Monate                        </span>
+<span class="monthly">
+6 Monate                        </span>
+</div>
+<!-- <div class="pricing-table-cell" data-th="Anzahl Artikel">unbegrenzt</div> -->
+<div class="pricing-table-cell" data-th="Admin-Accounts">3</div>
+<div class="pricing-table-cell" data-th="Support">E-Mail/Telefon</div>
+<!-- <div class="pricing-table-cell" data-th="Hosting inklusive"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Zugang zum Gambio-Forum"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Zugang zum Kundenportal"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Eigene Domain nutzen"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Auto Update"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="SSL & Datenschutzpaket"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight" data-th="Rechtssicherheit &amp; Rechtstexte"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell" data-th="Mehrsprachigkeit"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell" data-th="StyleEdit Designtool"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell" data-th="Gutscheine"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Variantenartikel"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Import/Export"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Rechnungen & Lieferscheine"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Newsletter"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Customizer"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight" data-th="Marktplätze/Multichannel"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell pricing-table-cell-highlight" data-th="Retargeting"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Staffelpreise"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="B2B"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="FTP-Zugang (eingeschränkt)"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell" data-th="API-Zugang"><span class="pricing-check"></span></div>
+<div class="pricing-table-cell" data-th="Google-Starter-Paket"><span class="pricing-check"></span></div>
+<div class="pricing-table-cell" data-th="Wordpress-Blog mit pressify"><span class="pricing-uncheck"></span></div>
+<div class="pricing-table-cell" data-th="Priorisierter Support"><span class="pricing-uncheck"></span></div>
+<div class="pricing-table-cell" data-th="E-Commerce Starter-Paket"><span class="price"><del>149,00 €</del> 0,00 €</span></div>
+</div>
+<div class="cloud-pricing-table-footer">
+<span class="yearly" style="display: none; ">
+<form accept-charset="utf-8" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=1d8c4fef-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=12" method="post" role="form"><div style="display:none;"><input name="_method" type="hidden" value="POST"/></div><button class="btn btn-block btn-secondary" type="submit">Los geht's</button><div style="display:none;"><input autocomplete="off" name="_Token[fields]" type="hidden" value="2c99b63d981ae791a18216f8facaf53d71386207%3A"/><input autocomplete="off" name="_Token[unlocked]" type="hidden" value=""/></div></form> </span>
+<span class="monthly">
+<form accept-charset="utf-8" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=1d8c4fef-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=1" method="post" role="form"><div style="display:none;"><input name="_method" type="hidden" value="POST"/></div><button class="btn btn-block btn-secondary" type="submit">Los geht's</button><div style="display:none;"><input autocomplete="off" name="_Token[fields]" type="hidden" value="cec6d3ddc54a1b3db161b2d6fac10b61220bb47a%3A"/><input autocomplete="off" name="_Token[unlocked]" type="hidden" value=""/></div></form>
+</span>
+</div>
+</div>
+<div class="pricing-table-col pricing-table-plan">
+<div class="cloud-pricing-table-header">
+<div class="pricing-table-plan-title">Professional</div>
+<div class="icon">
+<svg fill="none" height="14" viewbox="0 0 24 14" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M24 1V7C24 7.6 23.6 8 23 8C22.4 8 22 7.6 22 7V3.4L14.2 11.2C13.8 11.6 13.2 11.6 12.8 11.2L8.5 6.9L1.7 13.7C1.5 13.9 1.3 14 1 14C0.7 14 0.5 13.9 0.3 13.7C-0.1 13.3 -0.1 12.7 0.3 12.3L7.8 4.8C8.2 4.4 8.8 4.4 9.2 4.8L13.5 9.1L20.6 2H17C16.4 2 16 1.6 16 1C16 0.4 16.4 0 17 0H23C23.1 0 23.3 0 23.4 0.1C23.6 0.2 23.8 0.4 23.9 0.6C24 0.7 24 0.9 24 1Z" fill="black"></path></svg>
+</div>
+<span class="yearly" style="display: none; ">
+<div class="pricing-table-price">
+<strong>89,96 €</strong> / Monat<br/>
+1.079,46 € / Jahr                        </div>
+<!-- <form method="post" accept-charset="utf-8" role="form" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=413e7f76-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=12"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><button class="btn btn-block btn-outline btn-white" type="submit">Los geht's</button><div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="4076f20382607412552c3f400970e23c91073502%3A"><input type="hidden" name="_Token[unlocked]" autocomplete="off" value=""></div></form> --> </span>
+<span class="monthly">
+<div class="pricing-table-price">
+<strong>99,95 €</strong> / Monat                        </div>
+<!-- <form method="post" accept-charset="utf-8" role="form" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=413e7f76-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=1"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><button class="btn btn-block btn-outline btn-white" type="submit">Los geht's</button><div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="7eb4e25dbf3e8f1a56a56dfe9f71336ad177723d%3A"><input type="hidden" name="_Token[unlocked]" autocomplete="off" value=""></div></form> -->
+</span>
+</div>
+<div class="cloud-pricing-table-body">
+<div class="pricing-table-cell" data-th="Transaktionsgebühr">0%</div>
+<div class="pricing-table-cell" data-th="Vertragslaufzeit">
+<span class="yearly" style="display: none; ">
+12 Monate                        </span>
+<span class="monthly">
+3 Monate                        </span>
+</div>
+<!-- <div class="pricing-table-cell" data-th="Anzahl Artikel">unbegrenzt</div> -->
+<div class="pricing-table-cell" data-th="Admin-Accounts">unbegrenzt</div>
+<div class="pricing-table-cell" data-th="Support">E-Mail/Telefon</div>
+<!-- <div class="pricing-table-cell" data-th="Hosting inklusive"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Zugang zum Gambio-Forum"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Zugang zum Kundenportal"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Eigene Domain nutzen"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Auto Update"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="SSL & Datenschutzpaket"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight" data-th="Rechtssicherheit &amp; Rechtstexte"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell" data-th="Mehrsprachigkeit"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell" data-th="StyleEdit Designtool"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell" data-th="Gutscheine"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Variantenartikel"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Import/Export"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Rechnungen & Lieferscheine"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Newsletter"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Customizer"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell pricing-table-cell-highlight" data-th="Marktplätze/Multichannel"><span class="pricing-check"></span></div>
+<!-- <div class="pricing-table-cell pricing-table-cell-highlight" data-th="Retargeting"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="Staffelpreise"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="B2B"><span class="pricing-check"></span></div> -->
+<!-- <div class="pricing-table-cell" data-th="FTP-Zugang (eingeschränkt)"><span class="pricing-check"></span></div> -->
+<div class="pricing-table-cell" data-th="API-Zugang"><span class="pricing-check"></span></div>
+<div class="pricing-table-cell" data-th="Google-Starter-Paket"><span class="pricing-check"></span></div>
+<div class="pricing-table-cell" data-th="Wordpress-Blog mit pressify"><span class="pricing-check"></span></div>
+<div class="pricing-table-cell" data-th="Priorisierter Support"><span class="pricing-check"></span></div>
+<div class="pricing-table-cell" data-th="E-Commerce Starter-Paket"><span class="price">0,00 €</span></div>
+</div>
+<div class="cloud-pricing-table-footer">
+<span class="yearly" style="display: none; ">
+<form accept-charset="utf-8" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=413e7f76-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=12" method="post" role="form"><div style="display:none;"><input name="_method" type="hidden" value="POST"/></div><button class="btn btn-block btn-secondary" type="submit">Los geht's</button><div style="display:none;"><input autocomplete="off" name="_Token[fields]" type="hidden" value="4076f20382607412552c3f400970e23c91073502%3A"/><input autocomplete="off" name="_Token[unlocked]" type="hidden" value=""/></div></form> </span>
+<span class="monthly">
+<form accept-charset="utf-8" action="https://account.gambiocloud.com/de/shops/add?cloud_plan_id=413e7f76-7c98-11e9-b350-b8ac6f812f69&amp;billing_months=1" method="post" role="form"><div style="display:none;"><input name="_method" type="hidden" value="POST"/></div><button class="btn btn-block btn-secondary" type="submit">Los geht's</button><div style="display:none;"><input autocomplete="off" name="_Token[fields]" type="hidden" value="7eb4e25dbf3e8f1a56a56dfe9f71336ad177723d%3A"/><input autocomplete="off" name="_Token[unlocked]" type="hidden" value=""/></div></form>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article block" id="article-48">
+<div class="ce_bootstrap_grid_start bg-gray pb-md-5 first block">
+<div class="ce_bootstrap_grid_start container bg-primary text-light py-5 px-lg-4 px-xl-5 apply-check-lists block">
+<div class="ce_text mb-4 block">
+<h2>Alle <em>Gambio Vorteile</em> <br/>auf einem Blick</h2>
+</div>
+<div class="ce_bootstrap_grid_start row block">
+<div class="ce_text col-12 col-md-4 block">
+<ul>
+<li>Hosting inklusive <span class="icon-info" data-container="body" data-content="Alles aus einer Hand: Software, Server, Wartung und Updates. Verschwende keine Zeit mit Technik." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Zugang zur Gambio-Community <span class="icon-info" data-container="body" data-content="Tausche dich mit tausenden anderen Shopbetreibern aus und profitiere von ihren Erfahrungen." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Zugang zum Kundenportal <span class="icon-info" data-container="body" data-content="Deine zentrale Anlaufstelle rund um deinen Vertrag und offene Anfragen." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Eigene Domain nutzen <span class="icon-info" data-container="body" data-content="Dein Shop, deine Adresse. Du entscheidest, wo dein Shop zu erreichen ist." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Automatische Updates <span class="icon-info" data-container="body" data-content="Wir stellen dir immer automatisch die aktuelle Shopversion mit den neuesten Features zur Verfügung - du musst nicht einmal einen Knopf drücken." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Unbegrenzte Artikel und Kategorien <span class="icon-info" data-container="body" data-content="Du hast in deinem Gambio-Shop keinerlei Begrenzungen hinsichtlich der Anzahl an Artikeln oder der Kategorien, die du anbieten möchtest." data-placement="top" data-toggle="popover" title=""></span></li>
+</ul>
+</div>
+<div class="ce_text col-12 col-md-4 block">
+<ul>
+<li>Professionelle SEO-Tools <span class="icon-info" data-container="body" data-content="Nutze ohne Zusatzkosten professionelle Tools von unserem Partner Seobility als Bestandteil unserer Cloud Pakete" data-placement="top" data-toggle="popover" title=""></span></li>
+<li>SSL &amp; Datenschutzpaket <span class="icon-info" data-container="body" data-content="Deine Daten liegen sicher und geschützt in modernsten Rechenzentren mit optimaler Anbindung und Verfügbarkeit." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Mehrsprachigkeit <span class="icon-info" data-container="body" data-content="Grenzenlos verkaufen: In deinem Gambio-Shop kann per Knopfdruck zwischen verschiedenen Sprachen gewechselt werden." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Gutscheine <span class="icon-info" data-container="body" data-content="Rabatte wirken. Erstelle und versende mit deinem Gambio-Shop Gutscheine an neue oder treue Kunden." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Variantenartikel <span class="icon-info" data-container="body" data-content="Mehrere Farben oder Größen? Kein Problem! Mit Gambio kannst du auch komplexe Artikel anlegen und verwalten." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Import / Export <span class="icon-info" data-container="body" data-content="Egal ob WaWis, Preissuchmaschinen oder Google Shopping. Mit Gambio im- oder exportierst du deine Artikel auf Knopfdruck." data-placement="top" data-toggle="popover" title=""></span></li>
+</ul>
+</div>
+<div class="ce_text col-12 col-md-4 block">
+<ul>
+<li>Kostenlose Themes <span class="icon-info" data-container="body" data-content="Du hast bei Gambio die Wahl zwischen einer ganzen Reihe kostenloser Themes, mit denen du deinem Shop schnell und einfach individuell gestalten kannst." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Rechnungen &amp; Lieferscheine <span class="icon-info" data-container="body" data-content="Passe deine Dokumente frei nach deinen Wünschen an. Der Shop verschickt sie dann automatisch an deine Kunden." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Newsletter <span class="icon-info" data-container="body" data-content="Halte deine Kunden auf dem Laufenden mit dem integrierten Newsletter-Modul." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Customizer <span class="icon-info" data-container="body" data-content="Kein Bock auf 08/15? Mit dem Gambio Customizer kannst du individuell anpassbare Produkte anbieten." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>Staffelpreise <span class="icon-info" data-container="body" data-content="Wer mehr bestellt, soll weniger zahlen? Lege über die Staffelpreise Preisnachlässe je Anzahl fest." data-placement="top" data-toggle="popover" title=""></span></li>
+<li>B2B <span class="icon-info" data-container="body" data-content="Über konfigurierbare Kundengruppen und Steuersätze kannst du mit deinem Shop sowohl an End- als auch an Geschäftskunden verkaufen." data-placement="top" data-toggle="popover" title=""></span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_article last block" id="article-163">
+<div class="ce_bootstrap_grid_start bg-secondary background-pattern first block">
+<div class="ce_bootstrap_grid_start container block">
+<div class="ce_bootstrap_grid_start row min-height-66 align-items-center lead block">
+<div class="ce_text col-12 col-md-8 offset-md-2 text-center p-lg-4 p-xl-5 block">
+<h2><em>Die perfekte Onlineshop-Plattform</em><br/>für deine Idee</h2>
+<p>Wir machen es dir maximal einfach: Erstelle noch heute ganz unkompliziert deinen ersten Testshop. Wir sind für dich da, falls du Fragen haben solltest oder Hilfe benötigst.</p>
+<p><a class="btn btn-primary" href="testshop">Jetzt kostenlos starten</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+<footer id="footer">
+<div class="inside">
+<div class="ce_bootstrap_grid_start footer-navigation first block">
+<div class="ce_bootstrap_grid_start container block">
+<div class="ce_bootstrap_grid_start row block">
+<!-- indexer::stop -->
+<nav class="mod_navigation col-sm-4 col-md-2 block" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<h3>Rechtliches</h3>
+<a class="invisible" href="?_ga=2.24996540.788718440.1564844321-1346127080.1564844321#skipNavigation7">Navigation überspringen</a>
+<ul class="level_1">
+<li class="text-page first"><a class="text-page first" href="rechtliches/impressum" itemprop="url" title="Impressum - Shoplösung in der Cloud - Kostenlos starten - Shopsoftware"><span itemprop="name">Impressum</span></a></li>
+<li class="text-page"><a class="text-page" href="rechtliches/datenschutz" itemprop="url" title="Datenschutz - Shoplösung in der Cloud - Kostenlos starten - Shopsystem"><span itemprop="name">Datenschutz</span></a></li>
+<li class="text-page"><a class="text-page" href="rechtliches/lizenzen" itemprop="url" title="Lizenzen - Shoplösung in der Cloud - Kostenlos starten - GAMBIO"><span itemprop="name">Lizenzen</span></a></li>
+<li class="text-page"><a class="text-page" href="rechtliches/agb-eigenes-hosting" itemprop="url" title="AGB Eigenes Hosting - Shoplösung in der Cloud - Kostenlos starten - GAMBIO"><span itemprop="name">AGB Eigenes Hosting</span></a></li>
+<li class="text-page"><a class="text-page" href="rechtliches/agb-cloud" itemprop="url" title="AGB Cloud - Shoplösung in der Cloud - Kostenlos starten - Internetshop"><span itemprop="name">AGB Cloud</span></a></li>
+<li class="text-page"><a class="text-page" href="rechtliches/widerrufsrecht-widerrufsformular" itemprop="url" title="Widerrufsrecht - Shoplösung in der Cloud - Kostenlos starten - Shopsystem"><span itemprop="name">Widerrufsrecht &amp; Widerrufsformular</span></a></li>
+<li class="text-page"><a class="text-page" href="rechtliches/versand-und-zahlungsbedingungen" itemprop="url" title="Versand und Zahlung - Shoplösung in der Cloud - Kostenlos starten - GAMBIO"><span itemprop="name">Versand- und Zahlungsbedingungen</span></a></li>
+<li class="text-page last"><a class="text-page last" href="rechtliches/forumsbedingungen" itemprop="url" title="Forumsbedingungen - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Forumsbedingungen</span></a></li>
+</ul>
+<a class="invisible" id="skipNavigation7"> </a>
+</nav>
+<!-- indexer::continue -->
+<!-- indexer::stop -->
+<nav class="mod_navigation col-sm-4 col-md-2 block" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<h3>Information</h3>
+<a class="invisible" href="?_ga=2.24996540.788718440.1564844321-1346127080.1564844321#skipNavigation9">Navigation überspringen</a>
+<ul class="level_1">
+<li class="first"><a class="first" href="information/cloud-hosting" itemprop="url" title="Cloud Hosting - Shoplösung in der Cloud - Kostenlos starten - Internetshop"><span itemprop="name">Cloud Hosting</span></a></li>
+<li><a href="information/eigenes-hosting" itemprop="url" title="Eigenes Hosting - Shoplösung in der Cloud - Kostenlos starten - Shopsystem"><span itemprop="name">Eigenes Hosting</span></a></li>
+<li><a href="information/webinare" itemprop="url" title="Webinare - Shoplösung in der Cloud - Kostenlos starten - Shopsoftware"><span itemprop="name">Webinare</span></a></li>
+<li><a href="information/download" itemprop="url" title="Gambio Download - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Download</span></a></li>
+<li><a href="https://developers.gambio.de/" itemprop="url" target="_blank" title="Für Entwickler - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Entwickler-Ressourcen</span></a></li>
+<li><a href="information/partnerprogramm" itemprop="url" title="Partnerprogramm - Shoplösung in der Cloud - Kostenlos starten - Shopsystem"><span itemprop="name">Partnerprogramm</span></a></li>
+<li><a href="https://www.gambio.de/blog/" itemprop="url" target="_blank" title="Blog - Shoplösung in der Cloud - Kostenlos starten - Onlineshop Software"><span itemprop="name">Blog</span></a></li>
+<li class="last"><a class="last" href="hilfe/forum" itemprop="url" title="Forum - Shoplösung in der Cloud - Kostenlos starten - Onlineshop Software"><span itemprop="name">Forum</span></a></li>
+</ul>
+<a class="invisible" id="skipNavigation9"> </a>
+</nav>
+<!-- indexer::continue -->
+<!-- indexer::stop -->
+<nav class="mod_navigation col-sm-4 col-md-2 block" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<h3>Über uns</h3>
+<a class="invisible" href="?_ga=2.24996540.788718440.1564844321-1346127080.1564844321#skipNavigation10">Navigation überspringen</a>
+<ul class="level_1">
+<li class="first"><a class="first" href="entdecken/ueber-uns" itemprop="url" title="Wir sind Gambio - Shoplösung in der Cloud - Kostenlos starten - Webshop"><span itemprop="name">Über uns</span></a></li>
+<li><a href="ueber-uns/geschichte" itemprop="url" title="Unsere Geschichte - Shoplösung in der Cloud - Kostenlos starten - GAMBIO"><span itemprop="name">Geschichte</span></a></li>
+<li><a href="ueber-uns/philosophie" itemprop="url" title="Unsere Philosophie - Shoplösung in der Cloud - Kostenlos starten - GAMBIO"><span itemprop="name">Philosophie</span></a></li>
+<li><a href="ueber-uns/team" itemprop="url" title="Das Gambio-Team - Shoplösung in der Cloud - Kostenlos starten - Shopsystem"><span itemprop="name">Team</span></a></li>
+<li class="last"><a class="last" href="ueber-uns/jobs" itemprop="url" title="Jobs @ Gambio - Shoplösung in der Cloud - Kostenlos starten - Internetshop"><span itemprop="name">Jobs</span></a></li>
+</ul>
+<a class="invisible" id="skipNavigation10"> </a>
+</nav>
+<!-- indexer::continue -->
+<div class="ce_bootstrap_grid_start col-6 col-md-3 block">
+<div class="mb-5">
+<h3>Aktuelles</h3>
+<p><a href="https://www.gambio.de/blog/" target="_blank" title="WeLove E-Commerce Blog by Gambio">
+<svg fill="none" height="55" viewbox="0 0 120 55" width="120" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0L60.1802 0L120 0V40H0V0Z" fill="#002337"></path>
+<path d="M28.7606 15.144L25.9286 24.456L23.0006 15.144H20.2166L24.3926 27.048H27.2726L28.6646 23.112L29.8406 18.984L30.9926 23.112L32.3846 27.048H35.2646L39.4166 15.144H36.6566L33.7286 24.456L30.8966 15.144H28.7606ZM52.7608 22.008C53.2168 17.184 50.6248 14.856 46.8088 14.856C43.1128 14.856 40.5928 17.424 40.5928 21.024C40.5928 24.816 43.0888 27.288 46.9768 27.288C48.8008 27.288 50.8408 26.616 52.0648 25.272L50.4568 23.712C49.7368 24.528 48.2248 24.984 47.0248 24.984C44.8648 24.984 43.3768 23.808 43.1608 22.008H52.7608ZM43.2088 19.92C43.5928 18.048 45.0808 17.064 46.8808 17.064C48.8728 17.064 50.2408 18.048 50.3848 19.92H43.2088Z" fill="white"></path>
+<path d="M55.3776 10.224V27H57.8496V10.224H55.3776ZM66.657 14.928C62.985 14.928 60.561 17.616 60.561 21.096C60.561 24.6 62.961 27.24 66.657 27.24C70.377 27.24 72.801 24.6 72.801 21.096C72.801 17.616 70.305 14.928 66.657 14.928ZM66.657 17.208C68.817 17.208 70.305 19.008 70.305 21.096C70.305 23.208 68.937 24.936 66.657 24.936C64.401 24.936 63.033 23.208 63.033 21.096C63.033 19.008 64.401 17.208 66.657 17.208ZM83.7068 15.144L81.9308 19.44L80.0588 24.456L77.9708 18.96L76.3867 15.144H73.6508L78.6908 27.048H81.4028L86.4188 15.144H83.7068ZM99.5186 22.008C99.9746 17.184 97.3826 14.856 93.5666 14.856C89.8706 14.856 87.3506 17.424 87.3506 21.024C87.3506 24.816 89.8466 27.288 93.7346 27.288C95.5586 27.288 97.5986 26.616 98.8226 25.272L97.2146 23.712C96.4946 24.528 94.9826 24.984 93.7826 24.984C91.6226 24.984 90.1346 23.808 89.9186 22.008H99.5186ZM89.9666 19.92C90.3506 18.048 91.8386 17.064 93.6386 17.064C95.6306 17.064 96.9986 18.048 97.1426 19.92H89.9666Z" fill="#FEC300"></path>
+<path d="M8.46762 46.835V47.625H5.02762V50.005H7.81262V50.765H5.02762V53.21H8.46762V54H4.05262V46.835H8.46762ZM10.6932 50.625H13.1632V51.38H10.6932V50.625ZM20.78 52.52C20.8333 52.52 20.8816 52.5417 20.925 52.585L21.305 53C21.0116 53.34 20.655 53.605 20.235 53.795C19.8183 53.985 19.315 54.08 18.725 54.08C18.2083 54.08 17.74 53.9917 17.32 53.815C16.9 53.635 16.5416 53.385 16.245 53.065C15.9483 52.7417 15.7183 52.355 15.555 51.905C15.3916 51.455 15.31 50.96 15.31 50.42C15.31 49.88 15.3966 49.385 15.57 48.935C15.7466 48.485 15.9933 48.0983 16.31 47.775C16.6266 47.4517 17.005 47.2017 17.445 47.025C17.8883 46.845 18.3766 46.755 18.91 46.755C19.4366 46.755 19.89 46.8367 20.27 47C20.6533 47.1633 20.9933 47.385 21.29 47.665L20.975 48.11C20.9516 48.1433 20.925 48.1717 20.895 48.195C20.865 48.215 20.8216 48.225 20.765 48.225C20.7216 48.225 20.675 48.21 20.625 48.18C20.5783 48.1467 20.5216 48.1067 20.455 48.06C20.3883 48.0133 20.31 47.9633 20.22 47.91C20.13 47.8567 20.0233 47.8067 19.9 47.76C19.7766 47.7133 19.6333 47.675 19.47 47.645C19.3066 47.6117 19.1183 47.595 18.905 47.595C18.5216 47.595 18.17 47.6617 17.85 47.795C17.5333 47.925 17.26 48.1117 17.03 48.355C16.8 48.5983 16.62 48.895 16.49 49.245C16.3633 49.595 16.3 49.9867 16.3 50.42C16.3 50.8667 16.3633 51.265 16.49 51.615C16.62 51.965 16.795 52.2617 17.015 52.505C17.2383 52.745 17.5016 52.9283 17.805 53.055C18.1083 53.1817 18.435 53.245 18.785 53.245C18.9983 53.245 19.19 53.2333 19.36 53.21C19.53 53.1833 19.6866 53.1433 19.83 53.09C19.9766 53.0367 20.1116 52.97 20.235 52.89C20.3616 52.8067 20.4883 52.7083 20.615 52.595C20.6716 52.545 20.7266 52.52 20.78 52.52ZM30.4307 50.42C30.4307 50.9567 30.3457 51.45 30.1757 51.9C30.0057 52.3467 29.7657 52.7317 29.4557 53.055C29.1457 53.3783 28.7723 53.63 28.3357 53.81C27.9023 53.9867 27.4223 54.075 26.8957 54.075C26.369 54.075 25.889 53.9867 25.4557 53.81C25.0223 53.63 24.6507 53.3783 24.3407 53.055C24.0307 52.7317 23.7907 52.3467 23.6207 51.9C23.4507 51.45 23.3657 50.9567 23.3657 50.42C23.3657 49.8833 23.4507 49.3917 23.6207 48.945C23.7907 48.495 24.0307 48.1083 24.3407 47.785C24.6507 47.4583 25.0223 47.205 25.4557 47.025C25.889 46.845 26.369 46.755 26.8957 46.755C27.4223 46.755 27.9023 46.845 28.3357 47.025C28.7723 47.205 29.1457 47.4583 29.4557 47.785C29.7657 48.1083 30.0057 48.495 30.1757 48.945C30.3457 49.3917 30.4307 49.8833 30.4307 50.42ZM29.4357 50.42C29.4357 49.98 29.3757 49.585 29.2557 49.235C29.1357 48.885 28.9657 48.59 28.7457 48.35C28.5257 48.1067 28.259 47.92 27.9457 47.79C27.6323 47.66 27.2823 47.595 26.8957 47.595C26.5123 47.595 26.164 47.66 25.8507 47.79C25.5373 47.92 25.269 48.1067 25.0457 48.35C24.8257 48.59 24.6557 48.885 24.5357 49.235C24.4157 49.585 24.3557 49.98 24.3557 50.42C24.3557 50.86 24.4157 51.255 24.5357 51.605C24.6557 51.9517 24.8257 52.2467 25.0457 52.49C25.269 52.73 25.5373 52.915 25.8507 53.045C26.164 53.1717 26.5123 53.235 26.8957 53.235C27.2823 53.235 27.6323 53.1717 27.9457 53.045C28.259 52.915 28.5257 52.73 28.7457 52.49C28.9657 52.2467 29.1357 51.9517 29.2557 51.605C29.3757 51.255 29.4357 50.86 29.4357 50.42ZM36.4792 51.41C36.5258 51.49 36.5658 51.575 36.5992 51.665C36.6358 51.7517 36.6708 51.84 36.7042 51.93C36.7375 51.8367 36.7725 51.7483 36.8092 51.665C36.8458 51.5783 36.8875 51.4917 36.9342 51.405L39.3592 47C39.4025 46.9233 39.4475 46.8767 39.4942 46.86C39.5408 46.8433 39.6075 46.835 39.6942 46.835H40.4092V54H39.5592V48.735C39.5592 48.665 39.5608 48.59 39.5642 48.51C39.5675 48.43 39.5725 48.3483 39.5792 48.265L37.1242 52.745C37.0408 52.895 36.9242 52.97 36.7742 52.97H36.6342C36.4842 52.97 36.3675 52.895 36.2842 52.745L33.7742 48.25C33.7842 48.3367 33.7908 48.4217 33.7942 48.505C33.8008 48.5883 33.8042 48.665 33.8042 48.735V54H32.9542V46.835H33.6692C33.7558 46.835 33.8225 46.8433 33.8692 46.86C33.9158 46.8767 33.9608 46.9233 34.0042 47L36.4792 51.41ZM46.8784 51.41C46.9251 51.49 46.9651 51.575 46.9984 51.665C47.0351 51.7517 47.0701 51.84 47.1034 51.93C47.1367 51.8367 47.1717 51.7483 47.2084 51.665C47.2451 51.5783 47.2867 51.4917 47.3334 51.405L49.7584 47C49.8017 46.9233 49.8467 46.8767 49.8934 46.86C49.9401 46.8433 50.0067 46.835 50.0934 46.835H50.8084V54H49.9584V48.735C49.9584 48.665 49.9601 48.59 49.9634 48.51C49.9667 48.43 49.9717 48.3483 49.9784 48.265L47.5234 52.745C47.4401 52.895 47.3234 52.97 47.1734 52.97H47.0334C46.8834 52.97 46.7667 52.895 46.6834 52.745L44.1734 48.25C44.1834 48.3367 44.1901 48.4217 44.1934 48.505C44.2001 48.5883 44.2034 48.665 44.2034 48.735V54H43.3534V46.835H44.0684C44.1551 46.835 44.2217 46.8433 44.2684 46.86C44.3151 46.8767 44.3601 46.9233 44.4034 47L46.8784 51.41ZM58.1676 46.835V47.625H54.7276V50.005H57.5126V50.765H54.7276V53.21H58.1676V54H53.7526V46.835H58.1676ZM61.8282 51.01V54H60.8632V46.835H62.8882C63.3415 46.835 63.7332 46.8817 64.0632 46.975C64.3932 47.065 64.6648 47.1967 64.8782 47.37C65.0948 47.5433 65.2548 47.7533 65.3582 48C65.4615 48.2433 65.5132 48.5167 65.5132 48.82C65.5132 49.0733 65.4732 49.31 65.3932 49.53C65.3132 49.75 65.1965 49.9483 65.0432 50.125C64.8932 50.2983 64.7082 50.4467 64.4882 50.57C64.2715 50.6933 64.0248 50.7867 63.7482 50.85C63.8682 50.92 63.9748 51.0217 64.0682 51.155L66.1582 54H65.2982C65.1215 54 64.9915 53.9317 64.9082 53.795L63.0482 51.235C62.9915 51.155 62.9298 51.0983 62.8632 51.065C62.7965 51.0283 62.6965 51.01 62.5632 51.01H61.8282ZM61.8282 50.305H62.8432C63.1265 50.305 63.3748 50.2717 63.5882 50.205C63.8048 50.135 63.9848 50.0383 64.1282 49.915C64.2748 49.7883 64.3848 49.6383 64.4582 49.465C64.5315 49.2917 64.5682 49.1 64.5682 48.89C64.5682 48.4633 64.4265 48.1417 64.1432 47.925C63.8632 47.7083 63.4448 47.6 62.8882 47.6H61.8282V50.305ZM73.2143 52.52C73.2677 52.52 73.316 52.5417 73.3593 52.585L73.7393 53C73.446 53.34 73.0893 53.605 72.6693 53.795C72.2527 53.985 71.7493 54.08 71.1593 54.08C70.6427 54.08 70.1743 53.9917 69.7543 53.815C69.3343 53.635 68.976 53.385 68.6793 53.065C68.3827 52.7417 68.1527 52.355 67.9893 51.905C67.826 51.455 67.7443 50.96 67.7443 50.42C67.7443 49.88 67.831 49.385 68.0043 48.935C68.181 48.485 68.4277 48.0983 68.7443 47.775C69.061 47.4517 69.4393 47.2017 69.8793 47.025C70.3227 46.845 70.811 46.755 71.3443 46.755C71.871 46.755 72.3243 46.8367 72.7043 47C73.0877 47.1633 73.4277 47.385 73.7243 47.665L73.4093 48.11C73.386 48.1433 73.3593 48.1717 73.3293 48.195C73.2993 48.215 73.256 48.225 73.1993 48.225C73.156 48.225 73.1093 48.21 73.0593 48.18C73.0127 48.1467 72.956 48.1067 72.8893 48.06C72.8227 48.0133 72.7443 47.9633 72.6543 47.91C72.5643 47.8567 72.4577 47.8067 72.3343 47.76C72.211 47.7133 72.0677 47.675 71.9043 47.645C71.741 47.6117 71.5527 47.595 71.3393 47.595C70.956 47.595 70.6043 47.6617 70.2843 47.795C69.9677 47.925 69.6943 48.1117 69.4643 48.355C69.2343 48.5983 69.0543 48.895 68.9243 49.245C68.7977 49.595 68.7343 49.9867 68.7343 50.42C68.7343 50.8667 68.7977 51.265 68.9243 51.615C69.0543 51.965 69.2293 52.2617 69.4493 52.505C69.6727 52.745 69.936 52.9283 70.2393 53.055C70.5427 53.1817 70.8693 53.245 71.2193 53.245C71.4327 53.245 71.6243 53.2333 71.7943 53.21C71.9643 53.1833 72.121 53.1433 72.2643 53.09C72.411 53.0367 72.546 52.97 72.6693 52.89C72.796 52.8067 72.9227 52.7083 73.0493 52.595C73.106 52.545 73.161 52.52 73.2143 52.52ZM80.625 46.835V47.625H77.185V50.005H79.97V50.765H77.185V53.21H80.625V54H76.21V46.835H80.625ZM86.3542 54V46.835H88.6392C89.0792 46.835 89.4575 46.8783 89.7742 46.965C90.0942 47.0517 90.3558 47.175 90.5592 47.335C90.7658 47.495 90.9175 47.6917 91.0142 47.925C91.1142 48.155 91.1642 48.415 91.1642 48.705C91.1642 48.8817 91.1358 49.0517 91.0792 49.215C91.0258 49.3783 90.9425 49.53 90.8292 49.67C90.7192 49.81 90.5792 49.935 90.4092 50.045C90.2425 50.155 90.0458 50.245 89.8192 50.315C90.3425 50.4183 90.7375 50.6067 91.0042 50.88C91.2708 51.1533 91.4042 51.5133 91.4042 51.96C91.4042 52.2633 91.3475 52.54 91.2342 52.79C91.1242 53.04 90.9608 53.255 90.7442 53.435C90.5308 53.615 90.2675 53.755 89.9542 53.855C89.6442 53.9517 89.2892 54 88.8892 54H86.3542ZM87.3242 50.735V53.23H88.8742C89.1508 53.23 89.3875 53.1983 89.5842 53.135C89.7842 53.0717 89.9475 52.9833 90.0742 52.87C90.2042 52.7533 90.2992 52.6167 90.3592 52.46C90.4192 52.3 90.4492 52.125 90.4492 51.935C90.4492 51.565 90.3175 51.2733 90.0542 51.06C89.7942 50.8433 89.3992 50.735 88.8692 50.735H87.3242ZM87.3242 50.045H88.6042C88.8775 50.045 89.1142 50.015 89.3142 49.955C89.5142 49.895 89.6792 49.8117 89.8092 49.705C89.9425 49.5983 90.0408 49.47 90.1042 49.32C90.1675 49.1667 90.1992 49 90.1992 48.82C90.1992 48.4 90.0725 48.0917 89.8192 47.895C89.5658 47.6983 89.1725 47.6 88.6392 47.6H87.3242V50.045ZM94.9988 53.185H98.0988V54H94.0288V46.835H94.9988V53.185ZM106.62 50.42C106.62 50.9567 106.535 51.45 106.365 51.9C106.195 52.3467 105.955 52.7317 105.645 53.055C105.335 53.3783 104.962 53.63 104.525 53.81C104.092 53.9867 103.612 54.075 103.085 54.075C102.558 54.075 102.078 53.9867 101.645 53.81C101.212 53.63 100.84 53.3783 100.53 53.055C100.22 52.7317 99.9801 52.3467 99.8101 51.9C99.6401 51.45 99.5551 50.9567 99.5551 50.42C99.5551 49.8833 99.6401 49.3917 99.8101 48.945C99.9801 48.495 100.22 48.1083 100.53 47.785C100.84 47.4583 101.212 47.205 101.645 47.025C102.078 46.845 102.558 46.755 103.085 46.755C103.612 46.755 104.092 46.845 104.525 47.025C104.962 47.205 105.335 47.4583 105.645 47.785C105.955 48.1083 106.195 48.495 106.365 48.945C106.535 49.3917 106.62 49.8833 106.62 50.42ZM105.625 50.42C105.625 49.98 105.565 49.585 105.445 49.235C105.325 48.885 105.155 48.59 104.935 48.35C104.715 48.1067 104.448 47.92 104.135 47.79C103.822 47.66 103.472 47.595 103.085 47.595C102.702 47.595 102.353 47.66 102.04 47.79C101.727 47.92 101.458 48.1067 101.235 48.35C101.015 48.59 100.845 48.885 100.725 49.235C100.605 49.585 100.545 49.98 100.545 50.42C100.545 50.86 100.605 51.255 100.725 51.605C100.845 51.9517 101.015 52.2467 101.235 52.49C101.458 52.73 101.727 52.915 102.04 53.045C102.353 53.1717 102.702 53.235 103.085 53.235C103.472 53.235 103.822 53.1717 104.135 53.045C104.448 52.915 104.715 52.73 104.935 52.49C105.155 52.2467 105.325 51.9517 105.445 51.605C105.565 51.255 105.625 50.86 105.625 50.42ZM112.339 53.295C112.532 53.295 112.709 53.2867 112.869 53.27C113.032 53.25 113.185 53.2217 113.329 53.185C113.472 53.1483 113.607 53.105 113.734 53.055C113.86 53.0017 113.987 52.9417 114.114 52.875V51.295H113.004C112.94 51.295 112.889 51.2767 112.849 51.24C112.812 51.2033 112.794 51.1583 112.794 51.105V50.555H114.994V53.305C114.814 53.435 114.625 53.5483 114.429 53.645C114.235 53.7417 114.027 53.8233 113.804 53.89C113.584 53.9533 113.347 54 113.094 54.03C112.84 54.0633 112.565 54.08 112.269 54.08C111.749 54.08 111.272 53.9917 110.839 53.815C110.405 53.635 110.032 53.385 109.719 53.065C109.405 52.7417 109.16 52.355 108.984 51.905C108.81 51.455 108.724 50.96 108.724 50.42C108.724 49.8733 108.809 49.375 108.979 48.925C109.152 48.475 109.397 48.09 109.714 47.77C110.034 47.4467 110.419 47.1967 110.869 47.02C111.322 46.8433 111.829 46.755 112.389 46.755C112.672 46.755 112.935 46.7767 113.179 46.82C113.422 46.86 113.647 46.92 113.854 47C114.064 47.0767 114.257 47.1717 114.434 47.285C114.61 47.395 114.775 47.52 114.929 47.66L114.654 48.1C114.597 48.19 114.524 48.235 114.434 48.235C114.38 48.235 114.322 48.2167 114.259 48.18C114.175 48.1333 114.082 48.0767 113.979 48.01C113.875 47.9433 113.749 47.88 113.599 47.82C113.452 47.7567 113.277 47.7033 113.074 47.66C112.874 47.6167 112.635 47.595 112.359 47.595C111.955 47.595 111.59 47.6617 111.264 47.795C110.937 47.925 110.659 48.1133 110.429 48.36C110.199 48.6033 110.022 48.9 109.899 49.25C109.775 49.5967 109.714 49.9867 109.714 50.42C109.714 50.8733 109.777 51.2783 109.904 51.635C110.034 51.9883 110.215 52.2883 110.449 52.535C110.682 52.7817 110.959 52.97 111.279 53.1C111.599 53.23 111.952 53.295 112.339 53.295Z" fill="#00143B"></path>
+</svg></a></p>
+</div>
+<div class="ce_trustedshops_overall_rating block">
+<h3>Bewertung</h3>
+<div itemprop="itemReviewed" itemscope="" itemtype="https://schema.org/Product">
+<span itemprop="name">gambio.de</span>
+<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" style="display: inline;">
+<a href="https://www.trustedshops.com/buyerrating/info_X930841337E6CCDE1C6A378E2DB438AE8.html">
+(<span itemprop="reviewCount">167</span> Bewertungen)
+</a>
+<div class="rating_stars">
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+</div>
+<span content="4.83" itemprop="ratingValue">4,83</span> von		<span itemprop="bestRating">5</span>
+</div>
+</div>
+</div>
+</div>
+<div class="ce_text col-6 col-md-3 block">
+<h3>Kontakt</h3>
+<p><strong>Schreib uns an:</strong><br/><a href="mailto:info@gambio.de">info@gambio.de</a><br/><a href="kontakt">zum Kontaktformular</a></p>
+<p><strong>Ruf uns an:</strong><br/>0800 - 22 34 678<br/>+49 421 - 22 34 678</p>
+<p>
+</p><div class="input-group mb-4 mt-4 language-switcher">
+<button aria-expanded="false" aria-haspopup="true" class="btn btn-outline-primary dropdown-toggle" data-toggle="dropdown" type="button">
+<svg height="600" style="width: 20px; height: 12px" viewbox="0 0 5 3" width="1000" xmlns="http://www.w3.org/2000/svg">
+<desc>Flag of Germany</desc>
+<rect fill="#000" height="3" id="black_stripe" width="5" x="0" y="0"></rect>
+<rect fill="#D00" height="2" id="red_stripe" width="5" x="0" y="1"></rect>
+<rect fill="#FFCE00" height="1" id="gold_stripe" width="5" x="0" y="2"></rect>
+</svg>
+  deutsch
+</button>
+<div class="dropdown-menu">
+<a class="dropdown-item" href="https://www.gambio.com/">
+<svg height="600" style="width: 20px; height: 12px" viewbox="0,0 25,15" width="1000" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#00247d" height="15" width="25"></rect>
+<path d="M 0,0 L 25,15 M 25,0 L 0,15" stroke="#fff" stroke-width="3"></path>
+<path d="M 12.5,0 V 15 M 0,7.5 H 25" stroke="#fff" stroke-width="5"></path>
+<path d="M 12.5,0 V 15 M 0,7.5 H 25" stroke="#cf142b" stroke-width="3"></path>
+</svg>
+  english
+</a>
+<a class="dropdown-item" href="">
+<svg height="600" style="width: 20px; height: 12px" viewbox="0 0 5 3" width="1000" xmlns="http://www.w3.org/2000/svg">
+<desc>Flag of Germany</desc>
+<rect fill="#000" height="3" id="black_stripe" width="5" x="0" y="0"></rect>
+<rect fill="#D00" height="2" id="red_stripe" width="5" x="0" y="1"></rect>
+<rect fill="#FFCE00" height="1" id="gold_stripe" width="5" x="0" y="2"></rect>
+</svg>
+  deutsch
+</a>
+</div>
+</div>
+<div class="my-4">
+<p><a href="#" trigger-cookie-consent-panel="">Cookie Einstellungen</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start footer-copyright block">
+<div class="ce_bootstrap_grid_start container block">
+<div class="ce_bootstrap_grid_start row block">
+<div class="ce_image col-4 block">
+<figure class="image_container">
+<a href="https://www.it-recht-kanzlei.de/Service/pruefzeichen.php?sid=1e5c3-d7b4" target="_blank">
+<img alt="" height="78" itemprop="image" src="files/images/it-recht/ITK_vorgeprueft-200.png" width="200"/>
+</a>
+</figure>
+</div>
+<div class="col-4">
+<div class="row mb-4">
+<div class="col-6 text-center">
+<a href="https://www.kununu.com/de/gambio" rel="noopener" target="_blank"><img class="img-responsive" height="106" src="files/images/kununu/open-company.png" width="160"/></a>
+</div>
+<div class="col-6 text-center">
+<a href="https://www.kununu.com/de/gambio" rel="noopener" target="_blank"><img class="img-responsive" height="106" src="files/images/kununu/top-company.png" width="160"/></a>
+</div>
+</div>
+</div>
+<div class="ce_text col-4 mb-3 block">
+<p><img alt="" src="files/images/google-premium-partner.png" style="float: right;" width="200"/></p>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start row justify-content-center block">
+<div class="ce_text text-center block">
+<p>© by Gambio GmbH 2020<br/>Alle aufgeführten Firmen-, Markennamen und Warenzeichen sind Eigentum ihrer jeweiligen Inhaber und dienen lediglich zur Identifikation und Beschreibung von Produkten und Leistungen. <br/>Alle Preise exkl. gesetzl. MwSt. Dieses Angebot richtet sich ausschließlich an Gewerbetreibende und Freiberufler.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="ce_bootstrap_grid_start footer-advantages block">
+<div class="ce_text container text-center block">
+<ul>
+<li>Shopsoftware</li>
+<li>SEO optimiert</li>
+<li>Profi-Support</li>
+<li>Keine Vorkenntnisse nötig</li>
+<li>Webshop schon 20.000 Mal im Einsatz</li>
+<li>Sofort starten</li>
+</ul>
+<p>Shopsoftware - Onlineshop Software - Webshop - Internetshop - Shop Support</p>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script>$(window).load(function(){$('[data-lightbox]').magnificPopup({'type':'iframe'})})</script>
+<!-- begin SnapEngage code -->
+<script async="" data-managed="as-oil" data-purposes="6" data-src="https://checkout.gambio.de/bestellung/snapengage/ls-system.js" data-type="text/javascript" type="as-oil"></script>
+<script async="" data-managed="as-oil" data-purposes="6" data-type="text/javascript" type="as-oil">
+    if(1 || $.cookie('lcvisit') == 'snapchat_ON')
+    {
+      (function() {
+        var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+        se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/1bd10501-1866-417f-8392-838bded3460b.js';
+        var done = false;
+        se.onload = se.onreadystatechange = function() {
+          if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+            done = true;
+            /* Place your SnapEngage JS API code below */
+            /* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
+          }
+        };
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+      })();
+    }
+    </script>
+<!-- end SnapEngage code -->
+<!-- bing.com -->
+<script async="" data-managed="as-oil" data-purposes="7" data-type="text/javascript" type="as-oil">(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5318398"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img height="0" src="//bat.bing.com/action/0?ti=5318398&amp;Ver=2" style="display:none; visibility: hidden;" width="0"/></noscript>
+<!-- releva.nz -->
+<script async="" data-managed="as-oil" data-purposes="8" data-src="https://pix.hyj.mobi/rt?t=d&amp;action=s&amp;cid=7246" data-type="text/javascript" type="as-oil"></script>
+<script id="oil-configuration" type="application/configuration">
+    {
+      "config_version": 1,
+      "advanced_settings": true,
+      "timeout": 0,
+      "iabVendorListUrl": "https://www.gambio.de/cookie-consent-vendor-list.json",
+      "locale": {
+        "localeId": "deDE_01",
+        "version": 1,
+        "texts": {
+          "label_intro_heading": "Diese Webseite verwendet Cookies und andere Technologien",
+          "label_intro": "Wir verwenden Cookies und  ähnliche Technologien, auch von Drittanbietern, um die ordentliche Funktionsweise der Website zu gewährleisten, die Nutzung unseres Angebotes zu analysieren und Ihnen ein bestmögliches Einkaufserlebnis bieten zu können. Weitere Informationen finden Sie in unserer <a href='https://www.gambio.de/rechtliches/datenschutz'>Datenschutzerklärung</a>.",
+          "label_button_yes": "Speichern",
+          "label_button_yes_all": "Alle Akzeptieren",
+          "label_button_advanced_settings": "Weitere Informationen",
+          "label_cpc_heading": "Cookie Einstellungen",
+          "label_cpc_activate_all": "Alle aktivieren",
+          "label_cpc_deactivate_all": "Alle deaktivieren",
+          "label_nocookie_head": "Keine Cookies erlaubt.",
+          "label_nocookie_text": "Bitte aktivieren Sie Cookies in den Einstellungen Ihres Browsers."
+        }
+      },
+      "poi_activate_poi": true,
+      "poi_hub_origin": "//www.gambio.de",
+      "poi_hub_path": "/consent-hub.html",
+      "poi_group_name": "Gambio"
+    }
+  </script>
+<script src="https://www.gambio.de/files/theme/oil.js"></script>
+<script>!function(e){var n={};function t(o){if(n[o])return n[o].exports;var r=n[o]={i:o,l:!1,exports:{}};return e[o].call(r.exports,r,r.exports,t),r.l=!0,r.exports}t.m=e,t.c=n,t.d=function(e,n,o){t.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:o})},t.r=function(e){Object.defineProperty(e,"__esModule",{value:!0})},t.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(n,"a",n),n},t.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},t.p="/",t(t.s=115)}({115:function(e,n,t){"use strict";!function(e,n){e.__cmp||(e.__cmp=function(){function t(e){if(e){var t=!0,r=n.querySelector('script[type="application/configuration"]#oil-configuration');if(null!==r&&r.text)try{var a=JSON.parse(r.text);a&&a.hasOwnProperty("gdpr_applies_globally")&&(t=a.gdpr_applies_globally)}catch(e){}e({gdprAppliesGlobally:t,cmpLoaded:o()},!0)}}function o(){return!(!e.AS_OIL||!e.AS_OIL.commandCollectionExecutor)}var r=[],a=function(n,a,c){if("ping"===n)t(c);else{var i={command:n,parameter:a,callback:c};r.push(i),o()&&e.AS_OIL.commandCollectionExecutor(i)}};return a.commandCollection=r,a.receiveMessage=function(n){var a=n&&n.data&&n.data.__cmpCall;if(a)if("ping"===a.command)t(function(e,t){var o={__cmpReturn:{returnValue:e,success:t,callId:a.callId}};n.source.postMessage(o,n.origin)});else{var c={callId:a.callId,command:a.command,parameter:a.parameter,event:n};r.push(c),o()&&e.AS_OIL.commandCollectionExecutor(c)}},function(n){(e.attachEvent||e.addEventListener)("message",function(e){n.receiveMessage(e)},!1)}(a),function e(){if(!(n.getElementsByName("__cmpLocator").length>0))if(n.body){var t=n.createElement("iframe");t.style.display="none",t.name="__cmpLocator",n.body.appendChild(t)}else setTimeout(e,5)}(),a}())}(window,document)}})</script>
+<script src="https://www.gambio.de/files/theme/GxCookieConsent.js"></script>
+</body>
+</html>

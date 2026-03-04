@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]> <html class="no-js lt-ie9"  lang="de" dir="ltr"> <![endif]--><!--[if IE 9]> <html class="no-js ie9"  lang="de" dir="ltr"> <![endif]--><!--[if gt IE 9]><!--><html class="no-js" dir="ltr" lang="de"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="DAAD" name="author"/>
+<meta content="index, follow" name="robots"/>
+<meta content="In Deutschland gibt es verschiedene staatliche und private Hochschultypen: Universitäten, Fachhochschulen, Kunst-, Film-, und Musikhochschulen." name="description"/>
+<meta content=",Studium in Deutschland, staatlich, FH, privat, Universität, Fachhochschule, Technische Hochschule, Film, Kunst, Musik" name="keywords"/>
+<title>Hochschultypen - Studieren in Deutschland - Land der Ideen</title>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/images/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/images/touch-icon-iphone.png" rel="apple-touch-icon"/>
+<link href="/images/touch-icon-ipad.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/images/touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/images/touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/css/vendor/css-min-vendor.css" rel="stylesheet"/>
+<link href="/js/vendor/mediaelement/mediaelementplayer.min.css" rel="stylesheet"/>
+<link href="/css/css-min.css?v2.72.2" rel="stylesheet"/>
+<link href="/css/print.css" media="print" rel="stylesheet"/>
+<!--[if lt IE 9]>
+    <script src="/js/vendor/html5shiv.js"></script>
+    <script src="/js/vendor/respond.min.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+        document.write('<meta name="X-Imperia-Live-Info" content="5c2cdd4e-3bca-0350-17bc-1d30c6232b7b/25507/25960/26267/26539/26605/26607" />');
+    </script>
+</head>
+<body id="article">
+<ul class="jump">
+<li><a href="#content">Springe zum Inhalt</a></li>
+<li><a href="#navigation">Springe zur Hauptnavigation</a></li>
+</ul>
+<div id="header">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="logos clearfix">
+<h1>
+<a href="/de/" title="Studieren in Deutschland - Land der Ideen">
+<img alt="Studieren in Deutschland - Land der Idee" src="/medien/studyin.de/logo/logo_landderideen_de.gif"/>
+</a>
+<span class="sr-only">
+                            Studieren in Deutschland - Land der Ideen
+                        </span>
+</h1>
+<span class="sr-only">.</span>
+<a class="extra-header-logo" href="https://pageflow.daad.de/student-journey-de" target="_blank" title="Student Journey (Link öffnet ein neues Fenster)"><img alt="Geh auf eine virtuelle Studienreise" src="/medien/studyin.de/logo/logo_homepage_200x112_de.png"/></a>
+<span class="sr-only">.</span>
+</div>
+</div>
+</div>
+<div class="prioritylink hidden-md hidden-sm hidden-xs">
+<a href="/de/weitere-angebote/veranstaltungen/">Veranstaltungen</a>
+</div>
+</div>
+</div>
+<div class="navbar navbar-default" role="navigation">
+<div class="container">
+<div class="meta-nav">
+<ul class="clearfix">
+<li class="visible-lg language-flag">
+<a>
+<span class="de"></span>
+</a>
+</li>
+<li class="language-flag">
+<a href="/en/plan-your-studies/types-of-universities_26607.php" title="switch to">
+<span class="en inactive"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="sprites mobile-nav"></span>
+</button>
+<div class="mobile-search hidden-lg">
+<form action="/de/suche" class="form-inline" method="get" role="form">
+<div class="input-group input-group-sm">
+<label class="sr-only" for="topsearch">Suche</label>
+<input class="form-control" id="topsearch" name="query" placeholder="Suchbegriff" type="search"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="sprites top-search">Suche</span></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+<div class="navbar-collapse collapse">
+<div class="search-top visible-lg">
+<form action="/de/suche" class="form-inline" method="get" role="form">
+<div class="input-group input-group-sm">
+<label class="sr-only" for="topsearch">Suche</label>
+<input class="form-control" id="topsearch" name="query" placeholder="Suchbegriff" type="search"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="sprites top-search">Suche</span></button>
+</span>
+</div>
+</form>
+</div>
+<h2 class="sr-only">Hauptnavigation</h2>
+<ul class="nav navbar-nav" id="navigation">
+<li class="nav-2"><a class="dropdown-toggle" data-toggle="dropdown" href="/de/deutschland-entdecken/">Deutschland entdecken</a> <ul class="dropdown-menu">
+<li class="">
+<a href="/de/deutschland-entdecken/deutschland-in-kuerze_27096.php"><span class="sprites more"></span>Deutschland in Kürze                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-staedte/"><span class="sprites more"></span>Deutsche Städte                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-sprache/deutsche-sprache_41118.php"><span class="sprites more"></span>Deutsche Sprache                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/student-stories-internationale-studierende-erzaehlen/"><span class="sprites more"></span>Student Stories - internationale Studierende erzählen                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/tradition-und-kultur/"><span class="sprites more"></span>Tradition und Kultur                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/deutschland-entdecken/tradition-und-kultur/ostern_70748.php">Ostern                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/tradition-und-kultur/der-hamburger-hafengeburtstag_70954.php">Der Hamburger Hafengeburtstag                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/tradition-und-kultur/der-hamburger-dom_70753.php">Der Hamburger Dom                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/tradition-und-kultur/das-oktoberfest-in-muenchen_70678.php">Das Oktoberfest in München                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/tradition-und-kultur/der-striezelmarkt-in-dresden_70751.php">Der Striezelmarkt in Dresden                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/"><span class="sprites more"></span>Deutsche Landschaft                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/franken_70756.php">Franken                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/leipziger-neuseenland_70763.php">Leipziger Neuseenland                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/der-limes_70789.php">Der Limes                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/die-stadt-kommern_70806.php">Die Stadt Kommern                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/mecklenburgische-seenplatte_70809.php">Mecklenburgische Seenplatte                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/die-mosel_70810.php">Die Mosel                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/nordsee-und-ostsee_70811.php">Nordsee und Ostsee                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/rhein-main-gebiet_70812.php">Rhein-Main-Gebiet                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/saechsische-schweiz_70816.php">Sächsische Schweiz                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/die-region-spreewald_70872.php">Die Region Spreewald                                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsche-landschaft/wintersport-in-winterberg_70874.php">Wintersport in Winterberg                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/deutsches-essen_70652.php"><span class="sprites more"></span>Deutsches Essen                                        </a>
+</li>
+<li class="">
+<a href="/de/deutschland-entdecken/freizeitaktivitäten/"><span class="sprites more"></span>Freizeitaktivitäten                                        </a>
+</li>
+</ul>
+</li><li class="active nav-3"><a class="dropdown-toggle" data-toggle="dropdown" href="/de/studium-planen/">Studium planen</a> <ul class="dropdown-menu">
+<li class="">
+<a href="/de/studium-planen/5-gruende-fuer-dein-studium-in-deutschland_70674.php"><span class="sprites more"></span>5 Gründe für dein Studium in Deutschland                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/10-schritte-zum-studium-in-deutschland_71197.php"><span class="sprites more"></span>10 Schritte zum Studium in Deutschland                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/studiengang-und-hochschule-finden/"><span class="sprites more"></span>Studiengang &amp; Hochschule finden                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/international-programmes-und-fachkurse_71782.php"><span class="sprites more"></span>International Programmes und Fachkurse                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/"><span class="sprites more"></span>Voraussetzungen                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/eignungstest_34145.php">Eignungstest                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/deutschkenntnisse_26609.php">Deutschkenntnisse                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/hochschulzugangsberechtigung_27788.php">Hochschulzugangsberechtigung                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/visum_26604.php">Visum                                                         </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/finanzierungsnachweis_27533.php">Finanzierungsnachweis                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/voraussetzungen/krankenversicherung_27548.php">Krankenversicherung                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/studium-planen/vorbereitungskurse-und-studienkollegs_28537.php"><span class="sprites more"></span>Vorbereitungskurse und Studienkollegs                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/bewerbung_27435.php"><span class="sprites more"></span>Bewerbung                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/finanzierung-und-stipendien_27633.php"><span class="sprites more"></span>Finanzierung &amp; Stipendien                                        </a>
+</li>
+<li class="active">
+<a href="/de/studium-planen/hochschulsystem/"><span class="sprites more"></span>Hochschulsystem                                        </a>
+<ul class="dropdown-menu">
+<li class="active">
+<a href="/de/studium-planen/hochschultypen_26607.php">Hochschultypen                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/abschluesse-und-studiengaenge_26610.php">Abschlüsse und Studiengänge                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/"><span class="sprites more"></span>Fächergruppen                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/studium-planen/faechergruppen/humanmedizin/humanmedizin_36688.php">Humanmedizin                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/ingenieurwissenschaften_35121.php">Ingenieurwissenschaften                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/naturwissenschaften-und-mathematik_35119.php">Naturwissenschaften und Mathematik                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/veterinaermedizin-agrar--forst--und-ernaehrungswissenschaften-oekologie_61105.php">Veterinärmedizin, Agrar-, Forst- und Ernährungswissenschaften, Ökologie                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/rechts--wirtschafts--und-sozialwissenschaften_61077.php">Rechts-, Wirtschafts- und Sozialwissenschaften                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/schwerpunkte-setzen-und-praxiserfahrung-sammeln_35258.php">Geisteswissenschaften                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/sprach--und-kulturwissenschaften_61103.php">Sprach- und Kulturwissenschaften                                                        </a>
+</li>
+<li class="">
+<a href="/de/studium-planen/faechergruppen/kunst-und-musik_61070.php">Kunst und Musik                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/studium-planen/promotion_71223.php"><span class="sprites more"></span>Promotion                                        </a>
+</li>
+</ul>
+</li><li class="nav-4"><a class="dropdown-toggle" data-toggle="dropdown" href="/de/aufenthalt-planen/">Aufenthalt planen</a> <ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/erste-schritte/"><span class="sprites more"></span>Erste Schritte                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/erste-schritte/immatrikulation_56754.php">Immatrikulation                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/erste-schritte/anmeldung-und-aufenthaltserlaubnis_56753.php">Anmeldung und Aufenthaltserlaubnis                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/geld-und-kosten/"><span class="sprites more"></span>Geld &amp; Kosten                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/geld-und-kosten/lebenshaltungskosten_28220.php">Lebenshaltungskosten                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/geld-und-kosten/geld-und-bankkonto_27017.php">Geld und Bankkonto                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/geld-und-kosten/sparen_28019.php">Geld sparen                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/wohnen/"><span class="sprites more"></span>Wohnen                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/wohnen/wohnung-finden_26611.php">Wohnung finden                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/wohnen/wohnheimfinder/">Wohnheim finden                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/"><span class="sprites more"></span>Tipps für jeden Tag                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/arzt-und-apotheke_56826.php">Arzt und Apotheke                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/einkaufen-und-geld-sparen_56827.php">Einkaufen und Geld sparen                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/telefonieren_56828.php">Telefonieren                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/internet-und-post_56829.php">Internet und Post                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/sicherheit_56830.php">Sicherheit                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/verkehrsmittel_56831.php">Verkehrsmittel                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/studienorganisation/"><span class="sprites more"></span>Studienorganisation                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/studienorganisation/zeitmanagement_70982.php">Zeitmanagement                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/studienorganisation/arbeit-in-der-bibliothek_70983.php">Arbeit in der Bibliothek                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/studienorganisation/lerngruppe_70990.php">Lerngruppe                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/studienorganisation/schreibwerkstatt_71005.php">Schreibwerkstatt                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/studieren-mit-kind_71310.php"><span class="sprites more"></span>Studieren mit Kind                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/studieren-mit-behinderung_71220.php"><span class="sprites more"></span>Studieren mit Behinderung                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/angebote-fuer-fluechtlinge_71221.php"><span class="sprites more"></span>Angebote für Flüchtlinge                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/arbeiten-neben-dem-studium/"><span class="sprites more"></span>Arbeiten neben dem Studium                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/arbeiten-neben-dem-studium/nebenjob_71027.php">Nebenjob                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/arbeiten-neben-dem-studium/praktikum_71023.php">Praktikum                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karrierechancen/"><span class="sprites more"></span>Job &amp; Karriere                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karriere/wege-nach-dem-studium-in-deutschland_71971.php">Wege nach dem Studium in Deutschland                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karriere/jobsuche-in-deutschland_71029.php">Jobsuche in Deutschland                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karriere/bewerbungstipps_71033.php">Bewerbungstipps                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karriere/bewerbungsmappe_71034.php">Bewerbungsmappe                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karriere/karriereservice_71042.php">Karriereservice                                                        </a>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/job-und-karriere/karrieremesse_71043.php">Karrieremesse                                                        </a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/de/aufenthalt-planen/alumni-ehemalige/alumni---ehemalige_71045.php"><span class="sprites more"></span>Alumni - Ehemalige                                        </a>
+</li>
+</ul>
+</li><li class="nav-5"><a class="dropdown-toggle" data-toggle="dropdown" href="/de/ueber-uns/">Über uns</a> <ul class="dropdown-menu">
+<li class="">
+<a href="/de/kontakt/"><span class="sprites more"></span>Kontakt                                        </a>
+</li>
+<li class="">
+<a href="/de/ueber-uns/die-redaktion_28589.php"><span class="sprites more"></span>Die Redaktion                                        </a>
+</li>
+<li class="">
+<a href="/de/ueber-uns/die-study-in-germany-kampagne_71049.php"><span class="sprites more"></span>Die Kampagne Study in Germany - Land of Ideas                                        </a>
+</li>
+<li class="">
+<a href="/de/ueber-uns/der-daad_29127.php"><span class="sprites more"></span>Der DAAD                                        </a>
+</li>
+<li class="">
+<a href="/de/weitere-angebote/"><span class="sprites more"></span>Weitere Angebote                                        </a>
+<ul class="dropdown-menu">
+<li class="">
+<a href="/de/weitere-angebote/veranstaltungen/">Veranstaltungen                                                        </a>
+</li>
+<li class="">
+<a href="/de/weitere-angebote/mitmachaktionen/">Mitmachaktionen                                                        </a>
+</li>
+<li class="">
+<a href="/de/weitere-angebote/faqs---haeufige-fragen_71051.php">FAQs-häufige Fragen                                                        </a>
+</li>
+<li class="">
+<a href="/de/weitere-angebote/faqs-ueber-den-testdaf_71052.php">FAQs über den TestDaF                                                        </a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="nav-6"><a href="/de/blog/">Blog</a></li> </ul>
+</div>
+</div>
+</div>
+<h2 class="sr-only">Breadcrumb</h2>
+<div class="container breadcrumb-wrapper">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="breadcrumb">
+<a href="/de/">Startseite</a>
+
+                › <a href="/de/studium-planen/">Studium planen</a>
+                › <a href="/de/studium-planen/hochschulsystem/">Hochschulsystem</a>
+                › <strong>Hochschultypen</strong>
+</div>
+</div>
+</div>
+</div>
+<div class="container" id="content">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+<div class="introduction">
+<h1>
+<span class="roof">Hochschultypen</span><span class="sr-only">:</span>
+        So entscheidest du dich für die richtige Hochschule
+    </h1>
+<p>
+        In Deutschland kannst du zwischen verschiedenen staatlichen und privaten Hochschulen wählen: Es gibt Universitäten, Fachhochschulen, Kunst-, Film-, und Musikhochschulen. Welche die richtige für dich ist, hängt unter anderem davon ab, was du studieren willst. Die Qualität ist an allen Hochschulen vergleichbar gut.
+        </p>
+<div class="info-box">
+<p>
+                von:                Redaktion</p>
+</div>
+</div>
+<div class="box">
+<figure>
+<img alt="Bücher mit den Aufschriften zu verschiedenen Hochschultypen in Deutschland  © DAAD/contentküche" src="/medien/studyin.de/lernen/fittosize__620_0_885cb8fe3b8b67db8f2e2b21073f6c29_hochschulsystem_1_v2_638x334px.jpg" width="620"/>
+<figcaption>
+<span class="caption-text">Hochschultypen in Deutschland </span>
+<span class="sr-only">.</span>
+<span class="copyright">© DAAD/contentküche</span>
+</figcaption>
+</figure>
+</div>
+<div class="richtext"><p>Mehr als 400 staatlich anerkannte Hochschulen sind in Deutschland an vielen verschiedenen Orten in der ganzen Bundesrepublik zu finden. Alle Hochschulen zusammen bieten rund 20.000 verschiedene Studiengänge an. In der <a class="snooplinktype internal" href="/de/studium-planen/studienfach-und-hochschule-finden/?a=result&amp;q=&amp;degree=&amp;courselanguage=&amp;locations=&amp;admissionsemester=&amp;sort=name&amp;page=1" target="_self">Studiengangssuche</a> kannst du dich über alle Studienmöglichkeiten in Deutschland informieren.</p>
+</div>
+<div class="richtext"><h3>Typen</h3>
+<p>In Deutschland gibt es drei Arten von Hochschulen. Es liegt vor allem an deinen Interessen und beruflichen Plänen, welcher Hochschultyp für dich in Frage kommt.</p>
+<ul>
+<li>Universitäten</li>
+<li><abbr class="glossary-term" rel="glossary-14" title="">Fachhochschulen</abbr></li>
+<li>Kunst-, Film- und Musikhochschulen</li>
+</ul>
+</div>
+<div class="box pull-left">
+<figure>
+<img alt="Statue vor Universität © DAAD/contentküche" src="/medien/studyin.de/campus-gebaeude/hochschultypen_1_290x163px.jpg" width="290"/>
+<figcaption class="small">
+<span class="caption-text">Universität</span>
+<span class="sr-only">.</span>
+<span class="copyright">© DAAD/contentküche</span>
+</figcaption>
+</figure>
+</div>
+<div class="richtext"><h3>Universitäten</h3>
+<p>Universitäten vermitteln vor allem theoretisches Wissen. Das Studium ist stark wissenschaftlich orientiert und es gibt viele unterschiedliche Fächergruppen. Manche Universitäten haben sich auch auf bestimmte Fachgebiete spezialisiert und nennen sich zum Beispiel Technische Universitäten (TU) oder Pädagogische Hochschulen (PH). An einer Universität kannst du außerdem promovieren (den Doktortitel machen); das ist an den meisten Fachhochschulen nicht möglich. Mehr Informationen zu den Studienabschlüssen an Universitäten und den anderen Hochschularten findest du <a class="snooplinktype internal" href="/de/studium-planen/abschluesse-und-studiengaenge_26610.php" target="_self">hier</a>.</p>
+</div>
+<div class="secondary-box info">
+<h3>
+                        Zahlen und Fakten
+                    </h3>
+<p>Im Wintersemester 2018/19 waren in Deutschland 2,86 Millionen Studierende an 426 staatlich anerkannten Hochschulen eingeschrieben. 1.75 Millionen studierten an den 106 Universitäten, 
+1.001,550 an den 246 Fachhochschulen. 
+Insgesamt gab es 394,665 internationale Studierende.</p>
+<ul>
+<li>
+<a href="https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/Publikationen/Downloads-Hochschulen/studierende-hochschulen-endg-2110410197005.html" target="_blank" title="">
+<span class="sprites extern"></span>
+                            www.destatis.de |
+                        Statistisches Bundesamt
+                        </a>
+</li>
+</ul>
+</div>
+<div class="box pull-left">
+<figure>
+<img alt="Blick auf Fachhochschule © DAAD/contentküche" src="/medien/studyin.de/campus-gebaeude/hochschultypen_4_290x163px.jpg" width="290"/>
+<figcaption class="small">
+<span class="caption-text">Fachhochschule</span>
+<span class="sr-only">.</span>
+<span class="copyright">© DAAD/contentküche</span>
+</figcaption>
+</figure>
+</div>
+<div class="richtext"><h3>Fachhochschulen</h3>
+<p>An Fachhochschulen und Hochschulen für angewandte Wissenschaften („<span class="lang-color-en" lang="en"><abbr class="glossary-term" rel="glossary-14" title="">Universities of Applied Sciences</abbr></span>“) ist das Studium sehr praxisorientiert. Der Schwerpunkt liegt stärker auf der beruflichen Anwendung als auf der Theorie, die Ausbildung ist den Anforderungen im Berufsleben angepasst. Wie an Universitäten ist der erste Abschluss der <abbr class="glossary-term" rel="glossary-22" title="">Bachelor</abbr>, der zweite der <abbr class="glossary-term" rel="glossary-65" title="">Master</abbr>. Zum Fächerangebot gehören Gebiete wie Technik, Wirtschaft, Sozialwesen oder Medien. In den Praxisphasen, die fest in den Studienverlauf eingeplant sind und je nach Studiengang ein oder mehrere <abbr class="glossary-term" rel="glossary-86" title="">Semester</abbr> dauern können, geht es darum, <abbr class="glossary-term" rel="glossary-75" title="">Praktika</abbr> und längere Projektphasen bei Unternehmen im In- und Ausland zu absolvieren.</p>
+</div>
+<div class="box pull-left">
+<figure>
+<img alt="Eingang zu einer Hochschule für Musik und Theater  © DAAD/contentküche" src="/medien/studyin.de/campus-gebaeude/hochschultypen_5_v2_290x163px.jpg" width="290"/>
+<figcaption class="small">
+<span class="caption-text">Kunst- und Musikhochschule</span>
+<span class="sr-only">.</span>
+<span class="copyright">© DAAD/contentküche</span>
+</figcaption>
+</figure>
+</div>
+<div class="richtext"><h3>Kunst-, Film- und Musikhochschulen</h3>
+<p>An Kunst-, Film- und Musikhochschulen kannst du künstlerische Fächer studieren, also zum Beispiel Musik, Architektur, Bildende Kunst, Schauspiel, Tanz, Industrie- und Mode-Design. An Hochschulen für moderne Medien werden Regisseure, Kameraleute, Drehbuchautoren sowie andere Film- und Fernsehschaffende ausgebildet. Voraussetzung für ein solches Studium ist ein besonderes Talent, das du in einer Aufnahmeprüfung nachweisen musst. Außergewöhnlich begabte Bewerber dürfen manchmal auch ohne <a class="snooplinktype internal" href="/de/studium-planen/voraussetzungen/hochschulzugangsberechtigung_27788.php" target="_self"><abbr class="glossary-term" rel="glossary-130" title="">Hochschulzugangsberechtigung</abbr></a> studieren. Bitte beachte, dass die meisten Kunst-, Film- und Musikhochschulen auf Deutsch unterrichten.</p>
+</div>
+<div class="secondary-box info">
+<h3>
+                        Duale Ausbildungsangebote
+                    </h3>
+<p></p>
+<ul>
+<li>
+<a href="http://www.ausbildungplus.de/html/" target="_blank" title="">
+<span class="sprites extern"></span>
+                            ausbildungplus.de |
+                        Datenbank AusbildungPlus
+                        </a>
+</li>
+</ul>
+</div>
+<div class="richtext"><h3>Duale Hochschulen</h3>
+<p>Neben einem klassischen Fachhochschul-Studium hast du die Möglichkeit, deine akademische Ausbildung in einem Dualen Studium noch stärker mit dem Einstieg ins Berufsleben zu verknüpfen. Wenn du „<span class="lang-color-en" lang="en">learning by doing</span>“ magst, viel Motivation und gute Deutschkenntnisse mitbringst und schnell ins Berufsleben einsteigen willst, ist die Duale Hochschule das Richtige für dich. Vor allem Fachhochschulen und Berufsakademien, aber auch einzelne Hochschulen bieten solche Studiengänge an.<br/>
+Wenn du dich für ein Duales Studium entscheidest, musst du auch einen Vertrag mit einem Unternehmen abschließen. Für gewöhnlich findet die Ausbildung dann an zwei verschiedenen Orten statt: im Betrieb und an der Hochschule. In den meisten Fällen werden die Arbeitsphasen bezahlt und Studiengebühren übernommen. Es gibt drei Varianten:</p>
+</div>
+<div class="panel-group" id="accordion12_1">
+<div class="panel panel-default" role="presentation">
+<div class="panel-heading" role="presentation">
+<h3 class="panel-title">
+<a class="collapsed" data-parent="#accordion12_1" data-toggle="collapse" href="#collapse12_1_0_0">
+<span class="sprites panel-sprite"></span> ausbildungsintegrierend
+                </a>
+</h3>
+</div>
+<div class="panel-collapse collapse" id="collapse12_1_0_0" style="height: 0px;">
+<div class="panel-body">
+<p>Das Studium ist mit einer Ausbildung in einem anerkannten Ausbildungsberuf verknüpft.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" role="presentation">
+<div class="panel-heading" role="presentation">
+<h3 class="panel-title">
+<a class="collapsed" data-parent="#accordion12_1" data-toggle="collapse" href="#collapse12_1_1_0">
+<span class="sprites panel-sprite"></span> praxisintegrierend
+                </a>
+</h3>
+</div>
+<div class="panel-collapse collapse" id="collapse12_1_1_0" style="height: 0px;">
+<div class="panel-body">
+<p>Studium und Praxisphasen in einem Unternehmen wechseln sich ab. Du erwirbst am Ende einen Hochschulabschluss, aber keinen Abschluss in einem Ausbildungsberuf.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" role="presentation">
+<div class="panel-heading" role="presentation">
+<h3 class="panel-title">
+<a class="collapsed" data-parent="#accordion12_1" data-toggle="collapse" href="#collapse12_1_2_0">
+<span class="sprites panel-sprite"></span> berufsintegrierend/berufsbegleitend
+                </a>
+</h3>
+</div>
+<div class="panel-collapse collapse" id="collapse12_1_2_0" style="height: 0px;">
+<div class="panel-body">
+<p>Das Studium wird mit einer beruflichen Weiterbildung kombiniert. Du arbeitest Vollzeit und lernst hauptsächlich im Selbststudium, ähnlich wie bei einem Fernstudium.  Die Bewerbung erfolgt in den meisten Fällen bei dem Unternehmen, für das du dich interessierst. Am besten, du suchst gezielt nach den Firmen, die deinen Wunsch-Studiengang anbieten. In der Datenbank AusbildungPlus kannst du dich über mehr als 50.000 duale Ausbildungsangebote von Betrieben informieren.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box pull-left">
+<figure>
+<img alt="Blick auf Eingang einer dualen Hochschule © DAAD/contentküche" src="/medien/studyin.de/campus-gebaeude/unis_6_290x163px.jpg" width="290"/>
+<figcaption class="small">
+<span class="caption-text">Duale Hochschule </span>
+<span class="sr-only">.</span>
+<span class="copyright">© DAAD/contentküche</span>
+</figcaption>
+</figure>
+</div>
+<div class="richtext"><p>Wenn du ein passendes Unternehmen gefunden hast, bewirbst du dich dort mit einem Bewerbungsschreiben, einem Lebenslauf und Kopien deiner Zeugnisse. Was genau du einreichen musst, erfährst du bei dem Betrieb, den du dir ausgesucht hast. Kommt deine schriftliche Bewerbung gut an, wirst du zu einem Auswahlverfahren eingeladen. Das besteht meistens aus einem persönlichen Bewerbungsgespräch und einem Test, in dem deine Fähigkeiten geprüft werden. Informiere dich auf jeden Fall rechtzeitig darüber, wie das Bewerbungsverfahren abläuft.</p>
+</div>
+<div class="secondary-box info">
+<h3>
+                        Hochschulpolitik
+                    </h3>
+<p>Bildung wird in Deutschland nicht zentral geregelt. Jedes der 16 Bundesländer hat seine eigenen Hochschulgesetze und Richtlinien. Außerdem sind die Hochschulen in Deutschland sehr selbstständig. Von der Zulassung bis zu den Bewerbungsfristen ist vieles von der jeweiligen Hochschule abhängig. Darum solltest du immer nachfragen, welche Regeln für deine Wunschhochschule gelten.</p>
+<ul>
+</ul>
+</div>
+<div class="richtext"><h3>Staatliche und private Hochschulen</h3>
+<p>Die meisten Hochschulen in Deutschland werden vom Staat finanziert. Einige werden von der Kirche betrieben, daneben gibt es mehr als 120 private Hochschulen, deren Studienabschlüsse vom Staat anerkannt werden. Viele private Hochschulen sind Fachhochschulen.<br/>
+Die Mehrheit der Studierenden in Deutschland ist an staatlichen Hochschulen eingeschrieben. Nur rund 5,5 Prozent besuchen eine private Hochschule. Das liegt auch daran, dass du an privaten Hochschulen zum Teil hohe Studiengebühren bezahlen musst. Die Qualität der Lehre ist an beiden Hochschultypen vergleichbar gut.</p>
+</div>
+<div class="shariff" data-docid="26607" data-lang="de" data-mail-url="mailto:" data-services='["whatsapp","facebook","twitter","facebook-messenger","mail","qzone"]'></div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+<div class="subnav">
+<h3 class="sr-only">Weiterführende Navigation</h3>
+<ul>
+<li>
+<a href="/de/studium-planen/5-gruende-fuer-dein-studium-in-deutschland_70674.php"><span class="sprites intern"></span>5 Gründe für dein Studium in Deutschland                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/10-schritte-zum-studium-in-deutschland_71197.php"><span class="sprites intern"></span>10 Schritte zum Studium in Deutschland                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/studiengang-und-hochschule-finden/"><span class="sprites intern"></span>Studiengang &amp; Hochschule finden                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/international-programmes-und-fachkurse_71782.php"><span class="sprites intern"></span>International Programmes und Fachkurse                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/voraussetzungen/"><span class="sprites intern"></span>Voraussetzungen                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/vorbereitungskurse-und-studienkollegs_28537.php"><span class="sprites intern"></span>Vorbereitungskurse und Studienkollegs                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/bewerbung_27435.php"><span class="sprites intern"></span>Bewerbung                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/finanzierung-und-stipendien_27633.php"><span class="sprites intern"></span>Finanzierung &amp; Stipendien                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/hochschulsystem/"><em><span class="sprites down"></span>Hochschulsystem                                </em></a>
+<ul>
+<li>
+<strong><span class="sprites sub"></span>Hochschultypen                                        </strong>
+</li>
+<li>
+<a href="/de/studium-planen/abschluesse-und-studiengaenge_26610.php"><span class="sprites sub"></span>Abschlüsse und Studiengänge                                        </a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/de/studium-planen/faechergruppen/"><span class="sprites intern"></span>Fächergruppen                        </a>
+</li>
+<li>
+<a href="/de/studium-planen/promotion_71223.php"><span class="sprites intern"></span>Promotion                        </a>
+</li>
+</ul>
+</div>
+<h3 class="sr-only">Weiterführende Informationen</h3>
+<div class="teaser teaser-top-img">
+<a href="/de/studium-planen/10-schritte-zum-studium-in-deutschland_71197.php">
+<h4>Zehn Schritte zum Studium</h4>
+<p>Bewerbung, Visum, Immatrikulation - zehn Schritte zu deinem Studium in Deutschland. Unser Guide hilft dir!</p>
+<p class="more-box">
+<span class="sprites more"></span>
+                        Mehr                </p>
+</a>
+</div>
+<div class="teaser teaser-top-img">
+<a href="/de/studium-planen/studiengang-und-hochschule-finden/">
+<h4>Studiengang und Hochschule finden</h4>
+<p>Du suchst noch einen passenden Studiengang oder eine passende Hochschule für dein Studium in Deutschland? In unserer Datenbank findest du über 18.000 Studiengänge!</p>
+<p class="more-box">
+<span class="sprites more"></span>
+                        Mehr                </p>
+</a>
+</div>
+<div class="teaser teaser-top-img">
+<a href="/de/aufenthalt-planen/arbeiten-neben-dem-studium/praktikum_71023.php">
+<h4>Praktikum</h4>
+<p>Als Praktikant hast du die Möglichkeit erste Erfahrungen im Berufsleben zu sammeln. Du erhältst kleinere Projekte und Aufträge und wirst dabei von einem Mitarbeiter des Unternehmens betreut. </p>
+<p class="more-box">
+<span class="sprites more"></span>
+                        Mehr                </p>
+</a>
+</div>
+</div>
+</div>
+<a class="sprites page-top" href="#header" id="bottom" style="display: block;" title="Zurück nach oben">
+<span class="sr-only">Zurück nach oben</span>
+</a>
+</div>
+<div class="minimap">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="sr-only">Hauptnavigation</h2>
+<ul>
+<li>
+<a href="/de/deutschland-entdecken/">Deutschland entdecken</a>
+<ul>
+<li>
+<a href="/de/deutschland-entdecken/deutschland-in-kuerze_27096.php">Deutschland in Kürze</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/deutsche-staedte/">Deutsche Städte</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/deutsche-sprache/deutsche-sprache_41118.php">Deutsche Sprache</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/student-stories-internationale-studierende-erzaehlen/">Student Stories - internationale Studierende erzählen</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/tradition-und-kultur/">Tradition und Kultur</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/deutsche-landschaft/">Deutsche Landschaft</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/deutsches-essen_70652.php">Deutsches Essen</a>
+</li>
+<li>
+<a href="/de/deutschland-entdecken/freizeitaktivitäten/">Freizeitaktivitäten</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/de/studium-planen/">Studium planen</a>
+<ul>
+<li>
+<a href="/de/studium-planen/5-gruende-fuer-dein-studium-in-deutschland_70674.php">5 Gründe für dein Studium in Deutschland</a>
+</li>
+<li>
+<a href="/de/studium-planen/10-schritte-zum-studium-in-deutschland_71197.php">10 Schritte zum Studium in Deutschland</a>
+</li>
+<li>
+<a href="/de/studium-planen/studiengang-und-hochschule-finden/">Studiengang &amp; Hochschule finden</a>
+</li>
+<li>
+<a href="/de/studium-planen/international-programmes-und-fachkurse_71782.php">International Programmes und Fachkurse</a>
+</li>
+<li>
+<a href="/de/studium-planen/voraussetzungen/">Voraussetzungen</a>
+</li>
+<li>
+<a href="/de/studium-planen/vorbereitungskurse-und-studienkollegs_28537.php">Vorbereitungskurse und Studienkollegs</a>
+</li>
+<li>
+<a href="/de/studium-planen/bewerbung_27435.php">Bewerbung</a>
+</li>
+<li>
+<a href="/de/studium-planen/finanzierung-und-stipendien_27633.php">Finanzierung &amp; Stipendien</a>
+</li>
+<li>
+<a href="/de/studium-planen/hochschulsystem/">Hochschulsystem</a>
+</li>
+<li>
+<a href="/de/studium-planen/faechergruppen/">Fächergruppen</a>
+</li>
+<li>
+<a href="/de/studium-planen/promotion_71223.php">Promotion</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/">Aufenthalt planen</a>
+<ul>
+<li>
+<a href="/de/aufenthalt-planen/erste-schritte/">Erste Schritte</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/geld-und-kosten/">Geld &amp; Kosten</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/wohnen/">Wohnen</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/tipps-fuer-jeden-tag/">Tipps für jeden Tag</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/studienorganisation/">Studienorganisation</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/studieren-mit-kind_71310.php">Studieren mit Kind</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/studieren-mit-behinderung_71220.php">Studieren mit Behinderung</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/angebote-fuer-fluechtlinge_71221.php">Angebote für Flüchtlinge</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/arbeiten-neben-dem-studium/">Arbeiten neben dem Studium</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/job-und-karrierechancen/">Job &amp; Karriere</a>
+</li>
+<li>
+<a href="/de/aufenthalt-planen/alumni-ehemalige/alumni---ehemalige_71045.php">Alumni - Ehemalige</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/de/ueber-uns/">Über uns</a>
+<ul>
+<li>
+<a href="/de/kontakt/">Kontakt</a>
+</li>
+<li>
+<a href="/de/ueber-uns/die-redaktion_28589.php">Die Redaktion</a>
+</li>
+<li>
+<a href="/de/ueber-uns/die-study-in-germany-kampagne_71049.php">Die Kampagne Study in Germany - Land of Ideas</a>
+</li>
+<li>
+<a href="/de/ueber-uns/der-daad_29127.php">Der DAAD</a>
+</li>
+<li>
+<a href="/de/weitere-angebote/">Weitere Angebote</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/de/blog/">Blog</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="general-footer" id="footer">
+<div class="container">
+<div class="row">
+<div class="col-xs-7 col-sm-9 col-md-9 col-lg-8">
+<h2 class="sr-only">Metanavigation</h2>
+<ul class="meta">
+<li class="">
+<a href="/de/kontakt/">Kontakt</a><span class="sprites divider">.</span>
+</li>
+<li class="">
+<a href="/de/weitere-angebote/">Weitere Angebote</a><span class="sprites divider">.</span>
+</li>
+<li class="">
+<a href="/de/impressum_71311.php">Impressum</a><span class="sprites divider">.</span>
+</li>
+<li class="">
+<a href="/de/datenschutz_71313.php">Datenschutz</a><span class="sprites divider">.</span>
+</li>
+<li class="">
+<a href="/de/sitemap">Sitemap</a><span class="sprites divider">.</span>
+</li>
+</ul>
+</div>
+<div class="social-wrapper col-xs-5 col-sm-3 col-md-3 col-lg-4">
+<div class="pull-right">
+<h2 class="pull-left">Soziale Medien</h2>
+<ul class="social">
+<li>
+<a href="https://www.instagram.com/Study.in.Germany_Land.of.Ideas" target="_blank" title="Zu Instagram"><span class="sprites instagram">Instagram</span>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/Study.in.Germany" target="_blank" title="zu Facebook"><span class="sprites facebook">Facebook</span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/c/StudyinGermany_de" target="_blank" title="zu Youtube"><span class="sprites youtube">Youtube</span>
+</a>
+</li>
+<li>
+<a href="/blog/feed/" target="_blank" title="zum Blog RSS Feed"><span class="sprites rss">Blog RSS Feed</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="logos-footer row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg6">
+<a href="https://www.daad.de/de/" target="_blank" title="Deutscher Akademischer Austausch Dienst (Link öffnet ein neues Fenster)"><img alt="Deutscher Akademischer Austausch Dienst" src="/medien/studyin.de/logo/daad_logo_new.png"/></a>
+<span class="sr-only">.</span>
+</div>
+<div class="footer-logo2 col-xs-4 col-sm-3 col-md-3 col-lg3" style="text-align: center;">
+<a href="https://www.bmbf.de" target="_blank" title="Bundesministerium für Bildung und Forschung (Link öffnet ein neues Fenster)"><img alt="Bundesministerium für Bildung und Forschung" src="/medien/studyin.de/logo/bmbf-gef.gif"/></a>
+<span class="sr-only">.</span>
+</div>
+<div class="footer-logo3 col-xs-4 col-sm-3 col-md-3 col-lg3">
+<a href="/fluechtlinge/" target="_blank" title="Informationen für Flüchtlinge (Link öffnet ein neues Fenster)"><img alt="Informationen für Flüchtlinge" src="/medien/studyin.de/logo/logo_infos-fuer-fluechtlinge.png"/></a>
+<span class="sr-only">.</span>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            window.cookieconsent_options = {
+                "message": "Unsere Webseite verwendet Cookies, um den bestmöglichen Service zu gewährleisten. Mit der Nutzung der Seite stimmst du der Cookie-Nutzung zu.",
+                "dismiss": "Ja, ich stimme zu",
+                "learnMore": "Weitere Infos",
+                "link": "/de/datenschutz_71313.php#cookies",
+                "theme": "light-bottom"
+            };
+        </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js" type="text/javascript"></script>
+</div>
+<!-- GA Code Optout -->
+<script type="text/javascript">// <![CDATA[
+        var gaProperty = 'UA-100127283-3';
+
+        // Disable tracking if the opt-out cookie exists.
+        var disableStr = 'ga-disable-'+gaProperty;
+        if (document.cookie.indexOf(disableStr+'=true') > -1) {
+            window[disableStr] = true;
+        }
+
+        function gaOptout()
+        {
+            var gaProperties = ['UA-100127283-3', 'UA-107538528-2']
+            gaProperties.forEach(function(gaProperty) {
+                document.cookie = 'ga-disable-' + gaProperty + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+            });
+
+            window[disableStr] = true;
+
+                alert("Ein Opt-Out-Cookie wurde gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Webseite verhindert.");
+        }
+    </script>
+<!-- End GA Code Optout -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WQ8VK8X');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WQ8VK8X" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script src="/js/vendor/jquery-1.10.1.min.js"></script>
+<script src="/js/vendor/scripts-min-vendor.js"></script>
+<script src="/js/scripts-min.js?v2.72.0"></script>
+<script>
+        glossaryAjaxUrl = 'https://www.daad.de/ajax/glossary/get-term-definition/';
+    </script>
+</body>
+</html>

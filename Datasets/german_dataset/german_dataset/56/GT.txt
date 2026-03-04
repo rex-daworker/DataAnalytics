@@ -1,0 +1,1 @@
+['externe', 'feststellungsprüfung', 'hochschulzugang', 'ausländische', 'studierende']

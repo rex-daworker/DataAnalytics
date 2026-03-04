@@ -1,0 +1,16 @@
+html
+Roblox
+Manage Cookies
+Please choose whether this site may use cookies as described below. You can learn more about how this site uses cookies and related technologies by reading our privacy policy .
+Essential Cookies
+These cookies are required to provide the functionality on the site, such as for user authentication, securing the system or saving cookie preferences.
+Roblox
+Zendesk
+Gigya
+Analytics Cookies
+These cookies used for improving site performance or understanding site usage.
+Google Analytics
+Google Universal Analytics
+Allow
+Roblox uses cookies to personalize content, provide social media features and analyze the traffic on our site. To learn about how we use cookies and how you can manage cookie preferences , please refer to our Privacy and Cookie Policy .
+Accept

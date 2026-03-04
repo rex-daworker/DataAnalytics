@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="/_bin/favicon.ico" rel="shortcut icon"/>
+<title>Galo Resort Hotels - Galo Resort Hotels Madeira Resorts - Official Website</title>
+<!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.js"></script>
+  <![endif]-->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+<meta content="Galo Resort, Galo Hotels, Galomar Hotel, Galosol Hotel, Alpino Atlantico Hotel , Hotel on a cliff in the south coast of Madeira Island, views over the ocean and the Nature Reserve of Garajau, Activities in Madeira, discover Madeira Island" name="keywords"/>
+<meta content="Located on the top of a cliff in the south coast of the Island, with a magnificent view over the ocean and the Nature Reserve of Garajau, the Resort combines 3 different hotels." name="description"/>
+<link href="https://fonts.googleapis.com/css?family=Oswald:400" rel="stylesheet"/>
+<link href="//static.guestcentric.net/cdn/wsbdev/wsbdev_css/lib/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/_css/template.min.css?v=1" rel="stylesheet" type="text/css"/>
+<!-- Website Modules -->
+<meta content="/media/BannerGadget-homepage-test.xml" name="bannerXML"/><link href="/BannerGadget/css/styles.v01-min.css" rel="stylesheet" type="text/css"/><script type="text/javascript">
+						function validate_form(values)
+						{	
+							var field_valid = true;
+							var form_node = document.getElementById("subscribe_newsletter_form");
+							
+                            var alert_message = "";
+                            
+							//validate name
+							if(form_node.fname.value == "")
+							{
+								alert_message += " - Name is missing!\n";
+								field_valid = false;
+							}
+						
+                            if(form_node.femail.value == "")
+                            {
+                                alert_message += " - Email is missing!\n";
+                                field_valid = false;
+                            }
+                            else
+                            {
+                                r = new RegExp("^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,24}$","i");
+
+
+                                if(!r.test( form_node.femail.value ) )
+                                {
+                                    alert_message += " - Email is not in the right format!\n";
+                                    field_valid = false;
+                                }
+                            }
+							
+                            valNode = document.getElementById("cbtermsandconditions-val");
+                        
+                            if (valNode != undefined) { 
+                        
+                                if (form_node&& form_node.cbtermsandconditions && form_node.cbtermsandconditions[1].checked === false) {
+                                    alert_message += " - Please accept PRIVACY terms and conditions\n";
+                                    field_valid = false;
+                                }
+                                
+                            }
+                            
+							
+ 
+                       		if( field_valid == false )
+                       		{
+     	                  		alert (alert_message);
+                       		}
+	                                                  
+							return field_valid;
+							
+						}
+						</script><!-- Google Tag Manager (client) -->
+<script>var gtmDataLayer = [];</script>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+    j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','gtmDataLayer','GTM-WLQK3BB');
+</script>
+<!-- End - Google Tag Manager (client) -->
+<!-- Google webmaster tools verification meta tag (client) -->
+<meta content="rdtoaC5uFJ_VRbBhmUi5L2f41_PjAJWFv_RJhj4e7GQ" name="google-site-verification"/>
+<!-- End - Google webmaster tools verification meta tag (client) -->
+<!-- Google Universal Analytics (gc) -->
+<script>
+    // check if already loaded by 'Google Analytics Code (client)'
+    if (typeof window.ga !== 'function') {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    }
+    ga('create', 'UA-83567335-1', 'auto', {'name': 'gcTracker', 'allowLinker': true});
+    ga('gcTracker.send', 'pageview');
+</script>
+<!-- End - Google Universal Analytics (gc) -->
+<link href="/ImageLinkGadget/css/styles.v01-min.css" rel="stylesheet" type="text/css"/><style>.cookiesWarning{display:none;background:rgba(0,0,0,.8);position:fixed;bottom:0;font-size:12px;color:#fff;width:100%;padding:0 30px;text-align:center;z-index:100002}.cookiesWarning p{margin:0}.cookiesWarning .cookiesWarningTxt{display:inline-block;margin:5px 0;width:80%}.cookiesWarning .cookiesWarningBtnWrapper{width:20%;float:right}.cookiesWarning .cookiesWarningBtn{height:20px;line-height:20px;margin:10px 5px;padding:0 10px;background:#019fdf;font-size:12px;letter-spacing:0;cursor:pointer;display:inline-block}.cookiesWarning .cookiesWarningBtn::after,.cookiesWarning .cookiesWarningBtn::before{width:2px;height:15px;background:#019fdf;position:fixed;top:50%;left:50%}#cookiesWarningMore{background:#fff;color:#000}@media only screen and (max-width:720px){.cookiesWarning .cookiesWarningBtnWrapper,.cookiesWarning p{width:100%}}.cookiesWarning.show{display:block}.cookiesWarning.closed{display:none}</style>
+<script async="" src="https://static.guestcentric.net/cdn/wsbdev/wsbdev_bin/js/plugins/lazyLoad/lazyload.min.js"></script>
+<meta content="Caniço de Baixo" name="geo.placename"/>
+<meta content="Guestcentric website builder" name="generator"/>
+<meta content="website" name="channel"/>
+<link href="https://www.galoresort.com/galo-resort-hotels" rel="canonical"/>
+<!-- Generated Facebook Markup--><meta content="Galo Resort Hotels" property="og:title"/>
+<meta content="Located on the top of a cliff in the south coast of the Island, with a magnificent view over the ocean and the Nature Reserve of Garajau, the Resort combines 3 different hotels." property="og:description"/>
+<meta content="https://www.galoresort.com/media/" property="og:image"/>
+<meta content="https://www.galoresort.com/galo-resort-hotels" property="og:url"/>
+<meta content="website" property="og:type"/>
+</head>
+<body class="homepage-test homepage lang-en default with-bannerGadget">
+<div class="hide" itemscope="" itemtype="//schema.org/Hotel">
+<span itemprop="name">Galo Resort Hotels</span>
+<span itemprop="description">Located on the top of a cliff in the south coast of the Island, with a magnificent view over the ocean and the Nature Reserve of Garajau, the Resort combines 3 different hotels.</span>
+</div>
+<link href="//static.guestcentric.net/cdn/wsbdev/wsbdev_css/mod.loader.06.css" rel="stylesheet" type="text/css"/>
+<div id="loader"><div class="loader"></div></div>
+<!--[if lte IE 8]>
+					<div style="position:fixed;top:50%;left:50%;z-index:10000;width:680px;height:360px;margin:-180px 0 0 -340px;padding:40px;background:#00acec;color:#fff;line-height:28px;font-size:20px;text-align:left;font-family:Helvetica,Arial,sans-serif">
+						<p style="margin-bottom:15px">Hello! Welcome to our new web site. This site is not fully supported in Internet Explorer 8 (and earlier) versions. Please upgrade your Internet Explorer browser to a newer version.</p>
+						<p style="margin-bottom:15px">As an alternative, you can use either of the options below to browse the site:</p>
+						<ol style="font-size:0.8em;margin-bottom:15px;list-style-type:decimal;padding-left:25px;">
+							<li>Use Google Chrome browser. Here is the <a href="https://support.google.com/chrome/answer/95346?hl=en">download link.</a></li>
+							<li>Use Firefox browser. Here is the <a href="//www.mozilla.org/en-US/firefox/new/">download link.</a></li>
+						</ol>
+						<p>Thanks. Galo Resort Hotels.</p>     
+					</div>
+				<![endif]-->
+<header id="topblock">
+<div class="hotellogo">
+<a href="/"><span itemprop="name">Galo Resort Hotels</span><img alt="Galo Resort Hotels" height="108" itemprop="logo" src="/_bin/logo.png" width="177"/></a>
+</div>
+<div class="otherhotels_logos">
+<ul>
+<li class="galosol">
+<a href="//www.galoresort.com/Hotel-Galosol">Galosol Hotel</a>
+<span class="tooltip">Visit hotel website</span>
+</li>
+<li class="alpino">
+<a href="//www.galoresort.com/Hotel-Alpino-Atlantico">Alpino Atlantico Hotel</a>
+<span class="tooltip">Visit hotel website</span>
+</li>
+<li class="galomar">
+<a href="//www.galoresort.com/Hotel-Galomar">Galomar Hotel</a>
+<span class="tooltip">Visit hotel website</span>
+</li>
+</ul>
+</div>
+<span class="navigationToggle"><span></span></span>
+<nav class="navigation">
+<!-- menu -->
+<ul class="nav"><li class="teste"><a href="/covid19-updates">COVID19 Updates</a></li><li class="what-s-on"><a href="/what-s-on">What's on</a></li><li class="best-offers"><a href="/best-offers">Best Offers</a></li><li class="experiences_1"><a href="/experiences">Experiences</a></li><li class="madeira-island"><a href="/madeira-island">Madeira Island</a></li><li class="more-about-us"><a href="/sustainability">Sustainability</a></li><li class="DiscoverHotels"><a href="/best-offers" target="_self">Discover Hotels</a></li></ul>
+<!-- //menu -->
+</nav>
+</header>
+<section id="centerblock">
+<article class="flashContainer">
+<div class="gcb_container"></div>
+</article>
+<article class="bookinggadget">
+<div class="gcBookingGadgetCustom">
+<form accept-charset="utf-8" action="https://book.galoresort.com/api/bg/book.php" method="get" target="_blank">
+<div class="selectField hotel col-md-2">
+<label for="hotel">Hotel</label>
+<select name="apikey">
+<option selected="selected" value="">Choose</option>
+<option value="81a964f30a76fdb367ea38a87eb65d02">Galosol Hotel</option>
+<option value="1600eff5195c8538f90dcd51c95f7218">Alpino Atlântico Hotel</option>
+<option value="2332da77b90cbcdff4e2afc4ccd3da20">Galomar Hotel</option>
+</select>
+</div>
+<div class="selectField date checkin col-md-2 col-sm-6 col-xs-12">
+<div class="datepicker"></div>
+<label for="checkin">Check-in</label>
+<input autocomplete="off" id="checkin" name="startDay" type="text"/><span class="calicon calendarCheckin"></span>
+</div>
+<div class="selectField date checkout col-md-2 col-sm-6 col-xs-12">
+<label for="checkin">Check-out</label>
+<input autocomplete="off" id="checkout" type="text"/><span class="calicon calendarCheckout"></span>
+</div>
+<div class="selectField small col-md-1 col-sm-6 col-xs-12">
+<label for="adults">Adults</label>
+<select name="nrAdults">
+<option value="1">1</option>
+<option selected="" value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</div>
+<div class="selectField small col-md-1 col-sm-6 col-xs-12">
+<label for="children">Children</label>
+<select name="nrChildren">
+<option selected="selected" value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+</select>
+</div>
+<div class="selectField promocode col-md-2">
+<label for="promocode">Promo Code</label>
+<input id="pc" name="pc" type="text"/>
+</div>
+<div class="col-md-2">
+<button class="booknow" type="submit"><span>Book Online</span></button>
+<label class="bar" for="bar">Best Available Rate</label>
+<label class="whybookdirectly" for="whybookdirectly">Why book with us?</label>
+<div class="whybookdirectly_text">
+<h4>Why book with us?</h4>
+<ul>
+<li>
+<strong>No Booking Fees</strong>
+											We don't charge any booking fees for making reservations directly with us.
+										</li>
+<li>
+<strong>Online Reservation Guarantee</strong>
+											By securing your direct online reservation with a credit card we guarantee your room.
+										</li>
+<li>
+<strong>Best Price Guarantee</strong>
+											We're sure the best prices for our hotels are found on our websites.
+										</li>
+<li>
+<strong>Credit Card Safety</strong>
+											Our secure server software (SSL) is the industry standard offering a secure e-commerce transaction.
+										</li>
+<div class="wifi"></div><strong>Free WIFI Available</strong>
+</ul>
+</div>
+</div>
+<input id="nrNights" name="nrNights" type="hidden"/>
+<input name="l" type="hidden" value="en_US"/>
+</form>
+</div>
+</article>
+</section>
+<main id="contentblock">
+<section class="content" id="c1">
+<div class="holder">
+<h1>Galo Resort Hotels</h1>
+<h3>Welcome</h3>
+<p><strong>Now that you found us on-line let us introduce you to</strong></p>
+<h3>Galo Resort Hotels</h3>
+<p><strong>Madeira Active Holidays Resort</strong></p>
+<p>Only a short drive away from the Funchal International Airport “Cristiano Ronaldo”, located on the top of a cliff in the south coast of the Island, this Active Holidays Resort, in Caniço-de-baixo, combines three different hotels: Galosol, Alpino Atlântico and Galomar.</p>
+<p>Discover Madeira Island and enjoy an unforgettable stay in our Resort. We offer a unique active holidays experience with all the services and activities you could dream in a unique atmosphere that features stunning ocean views, private bathing complex, a unique sports club, exclusive activities partners, local and international cuisine. Our challenge is to make your holidays an unforgettable active experience.</p>
+<p>With different concepts, our three hotels feature leisure facilities to guarantee the perfect active holiday experience, in addition to banquet rooms for weddings, meetings and conferences.</p>
+<h3>"Three different Hotels add up to offer a unique experience."</h3>
+<div class="imagelinkgadget small col-md-4 col-sm-6 col-xs-12 website with-title with-legend">
+<a href="https://www.galoresort.com/Hotel-Alpino-Atlantico/home" rel="noopener" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-alpino-atla-ntico-sala_descanso_galo-v2-12-10.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Ayurveda Hotel</span></div>
+<div class="imgTitle"><h3>Alpino Atlântico</h3></div>
+<div class="imgDescription"></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget small col-md-4 col-sm-6 col-xs-12 website with-title with-legend">
+<a href="https://www.galoresort.com/Hotel-Galosol/hotel-galosol" rel="noopener" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkpool-bar-galosol_730412.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Family Friendly</span></div>
+<div class="imgTitle"><h3>Galosol Hotel</h3></div>
+<div class="imgDescription"></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget small col-md-4 col-sm-6 col-xs-12 website with-title with-legend">
+<a href="https://www.galoresort.com/Hotel-Galomar/home" rel="noopener" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkgalomar-piscina_11072018_mg_1641_0042_lowres-co-pia.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Adults Friendly</span></div>
+<div class="imgTitle"><h3>Galomar Hotel</h3></div>
+<div class="imgDescription"></div>
+</div>
+</a>
+</div>
+<hr/>
+<hr/>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/lido-galomar" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkgrh-lido-galomar-beach_lr2.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Enjoy the ocean</span></div>
+<div class="imgTitle"><h3>Ocean and Pools</h3></div>
+<div class="imgDescription">Located on the top of a cliff over a private ocean bay, Galo Resort offers a private bathing complex, 3 outdoor pools and an indoor pool.<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/restaurants-and-bars" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkslide_atlantis.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Taste the local specials</span></div>
+<div class="imgTitle"><h3>Restaurants and Bars</h3></div>
+<div class="imgDescription">During your holidays enjoy our restaurants and bars. For a delicious meal at your choice, our buffet restaurant, a pizzeria and a fish and seafood grill restaurant. For cocktails, wine, gelattos, bites and night entertainment choose one of our bars in loco.<br/></div>
+</div>
+</a>
+</div>
+<hr/>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/spa" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkms1_2239b.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Holistic relaxation based on the 5 elements </span></div>
+<div class="imgTitle"><h3>Ashoka SPA</h3></div>
+<div class="imgDescription">With a unique ocean front location our SPA offers our guests a truly holistic experience. Enjoy our panoramic ocean view saunas, the relaxing massages and beauty treatments. Panoramic saunas (Bio and Finnish) |Turkish Bath | Infra-Red sauna | Panoramic resting room with terrace | Aromatic Herbs Garden<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/galo-active" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkonda-revital-3-_web12.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Feel the energy</span></div>
+<div class="imgTitle"><h3>Galo Active Health Club</h3></div>
+<div class="imgDescription">Galo Active offers an extensive schedule of classes (+50 lessons per week) from traditional freestyle to Les Mills programs using a wide range of areas and venues for sports activities practice including a training room, a cross training room, a yoga studio, a Pilates studio, 3 squash courts, indoor pool + whirlpool and bio and Finnish saunas. All hotels guests have free access to the gym facilities and classes.<br/></div>
+</div>
+</a>
+</div>
+<hr/>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/experiences" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkoutdoor-actividades-canyoning-lokoloko8.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Feel alive</span></div>
+<div class="imgTitle"><h3>Experiences in the Nature</h3></div>
+<div class="imgDescription">We invite all our guests to take the most of their stay and to explore Madeira Island Nature. From hiking to canyoning, snorkeling, diving, stand up paddling, kayaking, trail running, Madeira Island challenges you to unique experiences in the Nature.<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/sustainability" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkimg_117726.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Feel Positive</span></div>
+<div class="imgTitle"><h3>Sustainability Committed</h3></div>
+<div class="imgDescription">At Galo Resort hotels’ we offer our guests a sustainable vacations experience, where you will have an active and important role. Discover our commitments with sustainability and the small everyday steps towards the environment protection and our community benefit. Our main objectives are to change habits and raise awareness. Join us!<br/></div>
+</div>
+</a>
+</div>
+<hr/>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website nolink with-title with-description with-legend">
+<a>
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkslide_wta1.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Check them out</span></div>
+<div class="imgTitle"><h3>Awards and Certifications</h3></div>
+<div class="imgDescription">The recognition of our daily works makes us proud. From environmental certification, tour operators awards, guests satisfaction rankings. Check them all here.   <br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description with-legend">
+<a href="/yoga" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkgalo_compli_yoga_web4.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span>Classes and programs</span></div>
+<div class="imgTitle"><h3>Yoga</h3></div>
+<div class="imgDescription">The resort appeals to yoga practioners with special yoga venues and bilingual yoga instructors. Yoga sessions, yoga material and Yoga special events. <br/></div>
+</div>
+</a>
+</div>
+<hr/>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description">
+<a href="/what-s-on" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinke1.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>What's on?</h3></div>
+<div class="imgDescription">Check the activities you can enjoy during your stay. <br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget medium col-md-6 col-sm-6 col-xs-12 website with-title with-description">
+<a href="/benefits-program" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkbenefits300x20022.png" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Benefits Program Special code</h3></div>
+<div class="imgDescription"><span>Galo Benefits program is our official program to reward and thank returning loyal guests. In order to be a member, you just have to book directly through our website or our reservations department. </span><br/></div>
+</div>
+</a>
+</div>
+<hr/>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/ayurveda" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-alpino-atla-ntico-sala_descanso_galo-v2-12-3.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Ayurveda</h3></div>
+<div class="imgDescription"><p style="text-align: left;">Are you Vata, Pitta or Kapha? <br/></p></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/back-to-the-sixties" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-outdoor-7h6a20121.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Oldtimer</h3></div>
+<div class="imgDescription">Are you a Time Traveller?<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/diving" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkoutdoor-actividades-mergulho-scooter_split_sonja_sittika_dsc82051.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Diving</h3></div>
+<div class="imgDescription">Are you a Diver?<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/hiking" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-outdoor-fanal3.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Hiking</h3></div>
+<div class="imgDescription">Are you a Hiker?<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/outdoor" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-outdoor-galo-v2-41-3.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Outdoor</h3></div>
+<div class="imgDescription">Are you an explorer?<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/glamping" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-glamping-dsc012694.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Beach Glamping</h3></div>
+<div class="imgDescription">Are you a Dreamer?<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/spa" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinknew-alpino-atla-ntico-centro_cura_ayurvedica_galo-v2-44-8.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>SPA</h3></div>
+<div class="imgDescription">Are you Relaxed?<br/></div>
+</div>
+</a>
+</div>
+<div class="imagelinkgadget slide col-lg-12 website with-title with-description">
+<a href="/restaurants-and-bars" target="_self">
+<div class="imgImageWrapper"><img alt="" class="lazyload" data-src="/media/galo-resort-hotels-imageLinkrestaurante-atlantis-galo-v2-19-.jpg" title=""/></div>
+<div class="imgContentWrapper">
+<div class="imgLink"><span></span></div>
+<div class="imgTitle"><h3>Local Food</h3></div>
+<div class="imgDescription">Are you a Food Lover?<br/></div>
+</div>
+</a>
+</div>
+</div>
+</section>
+</main>
+<footer id="bottomblock">
+<div class="awards-footer">
+<h5 class="aw">Awards &amp; Certifications</h5>
+<div class="footerlogos" style="position:relative;padding:0;display:flex;justify-content:center;align-items: center;flex-flow:wrap;z-index:2;"><img alt="" class="flogos" src="/media/imgs/galo-resort-hotels-footerlogo-3.png" style="margin:20px 2%;display:inline-block;max-height:120px;max-width:200px;"/><img alt="" class="flogos" src="/media/imgs/galo-resort-hotels-footermadeira-selection-2020-5-.jpg" style="margin:20px 2%;display:inline-block;max-height:120px;max-width:200px;"/><img alt="" class="flogos" src="/media/imgs/galo-resort-hotels-footerselo_we_care_2019_verde_v2.jpg" style="margin:20px 2%;display:inline-block;max-height:120px;max-width:200px;"/><script>
+                var elements = document.getElementsByClassName("flogos");
+                for (var i=0; i<elements.length; i++) { elements[i].className += " " + "flogos" +i;}
+                    </script>
+</div>
+</div>
+<section class="newsletter">
+<div class="holder">
+<h1>Subscribe to Galo Resort Hotels newsletter</h1><p>
+		If you would like to receive these newsletters, please provide us with your information.
+		Thank you.
+		We take your privacy very seriously. The information you submit to us will not be disclosed to others.
+	</p><form action="https://secure.guestcentric.net/api/newsletter/subscribe/?apiKey=a4583f9abc0243a9d19e8f74cf2febc4" id="subscribe_newsletter_form" method="POST" onsubmit="return validate_form(this)"><input id="flocation" name="flocation" type="hidden" value=""/>
+<p></p><div><label for="nf-fname">Name:</label></div><div><input id="nf-fname" name="fname" type="text" value=""/></div><p></p><div><label for="nf-femail">Email:</label></div><div><input name="email" style="display:none;" type="hidden" value=""/><input name="username" style="display:none;" type="hidden" value=""/><input id="nf-femail" name="femail" type="text" value=""/></div><p></p><div><label for="cbcountries">Country:</label></div>
+<div><select id="cbcountries" name="fcountry"><option value="0">Country</option><option value="1">Afghanistan</option><option value="2">Aland Islands</option><option value="3">Albania</option><option value="4">Algeria</option><option value="5">American Samoa</option><option value="6">Andorra</option><option value="7">Angola</option><option value="8">Anguilla</option><option value="9">Antarctica</option><option value="10">Antigua and Barbuda</option><option value="11">Argentina</option><option value="12">Armenia</option><option value="13">Aruba</option><option value="14">Australia</option><option value="15">Austria</option><option value="16">Azerbaijan</option><option value="17">Bahamas</option><option value="18">Bahrain</option><option value="19">Bangladesh</option><option value="20">Barbados</option><option value="21">Belarus</option><option value="22">Belgium</option><option value="23">Belize</option><option value="24">Benin</option><option value="25">Bermuda</option><option value="26">Bhutan</option><option value="27">Bolivia</option><option value="243">Bonaire St Eustatius and Saba</option><option value="28">Bosnia and Herzegovina</option><option value="29">Botswana</option><option value="30">Bouvet Island</option><option value="31">Brazil</option><option value="32">British Indian Ocean Territory</option><option value="235">British Virgin Islands</option><option value="33">Brunei Darussalam</option><option value="34">Bulgaria</option><option value="35">Burkina Faso</option><option value="36">Burundi</option><option value="37">Cambodia</option><option value="38">Cameroon</option><option value="39">Canada</option><option value="40">Cape Verde</option><option value="41">Cayman Islands</option><option value="42">Central African Republic</option><option value="43">Chad</option><option value="44">Chile</option><option value="45">China</option><option value="46">Christmas Island</option><option value="47">Cocos (Keeling) Islands</option><option value="48">Colombia</option><option value="49">Comoros</option><option value="50">Congo</option><option value="51">Cook Islands</option><option value="52">Costa Rica</option><option value="53">Côte d'Ivoire</option><option value="54">Croatia</option><option value="55">Cuba</option><option value="242">Curacao</option><option value="56">Cyprus</option><option value="57">Czech Republic</option><option value="244">Democratic Republic of the Congo</option><option value="58">Denmark</option><option value="59">Djibouti</option><option value="60">Dominica</option><option value="61">Dominican Republic</option><option value="62">Ecuador</option><option value="63">Egypt</option><option value="64">El Salvador</option><option value="65">Equatorial Guinea</option><option value="66">Eritrea</option><option value="67">Estonia</option><option value="68">Ethiopia</option><option value="69">Falkland Islands (Malvinas)</option><option value="70">Faroe Islands</option><option value="71">Fiji</option><option value="72">Finland</option><option value="73">France</option><option value="74">French Guiana</option><option value="75">French Polynesia</option><option value="76">French Southern Territories</option><option value="77">Gabon</option><option value="78">Gambia</option><option value="79">Georgia</option><option value="80">Germany</option><option value="81">Ghana</option><option value="82">Gibraltar</option><option value="83">Greece</option><option value="84">Greenland</option><option value="85">Grenada</option><option value="86">Guadeloupe</option><option value="87">Guam</option><option value="88">Guatemala</option><option value="89">Guernsey</option><option value="90">Guinea</option><option value="91">Guinea-Bissau</option><option value="92">Guyana</option><option value="93">Haiti</option><option value="94">Heard Island and McDonald Islands</option><option value="95">Honduras</option><option value="96">Hong Kong</option><option value="97">Hungary</option><option value="98">Iceland</option><option value="99">India</option><option value="100">Indonesia</option><option value="101">Iran</option><option value="102">Iraq</option><option value="103">Ireland</option><option value="104">Isle of Man</option><option value="105">Israel</option><option value="106">Italy</option><option value="107">Jamaica</option><option value="108">Japan</option><option value="109">Jersey</option><option value="110">Jordan</option><option value="111">Kazakhstan</option><option value="112">Kenya</option><option value="113">Kiribati</option><option value="245">Kosovo</option><option value="116">Kuwait</option><option value="117">Kyrgyzstan</option><option value="118">Laos</option><option value="119">Latvia</option><option value="120">Lebanon</option><option value="121">Lesotho</option><option value="122">Liberia</option><option value="123">Libya</option><option value="124">Liechtenstein</option><option value="125">Lithuania</option><option value="126">Luxembourg</option><option value="127">Macao</option><option value="128">Macedonia</option><option value="129">Madagascar</option><option value="130">Malawi</option><option value="131">Malaysia</option><option value="132">Maldives</option><option value="133">Mali</option><option value="134">Malta</option><option value="135">Marshall Islands</option><option value="136">Martinique</option><option value="137">Mauritania</option><option value="138">Mauritius</option><option value="139">Mayotte</option><option value="140">Mexico</option><option value="141">Micronesia</option><option value="142">Moldova</option><option value="143">Monaco</option><option value="144">Mongolia</option><option value="145">Montenegro</option><option value="146">Montserrat</option><option value="147">Morocco</option><option value="148">Mozambique</option><option value="149">Myanmar</option><option value="150">Namibia</option><option value="151">Nauru</option><option value="152">Nepal</option><option value="153">Netherlands</option><option value="154">Netherlands Antilles</option><option value="155">New Caledonia</option><option value="156">New Zealand</option><option value="157">Nicaragua</option><option value="158">Niger</option><option value="159">Nigeria</option><option value="160">Niue</option><option value="161">Norfolk Island</option><option value="114">North Korea</option><option value="162">Northern Mariana Islands</option><option value="163">Norway</option><option value="164">Oman</option><option value="165">Pakistan</option><option value="166">Palau</option><option value="246">Palestinian Territory</option><option value="167">Panama</option><option value="168">Papua New Guinea</option><option value="169">Paraguay</option><option value="170">Peru</option><option value="171">Philippines</option><option value="172">Pitcairn</option><option value="173">Poland</option><option value="174">Portugal</option><option value="175">Puerto Rico</option><option value="176">Qatar</option><option value="177">Réunion</option><option value="178">Romania</option><option value="179">Russia</option><option value="180">Rwanda</option><option value="247">Saint Barthelemy</option><option value="181">Saint Helena</option><option value="182">Saint Kitts and Nevis</option><option value="183">Saint Lucia</option><option value="248">Saint Martin</option><option value="184">Saint Pierre and Miquelon</option><option value="185">Saint Vincent and the Grenadines</option><option value="186">Samoa</option><option value="187">San Marino</option><option value="188">Sao Tome and Principe</option><option value="189">Saudi Arabia</option><option value="190">Senegal</option><option value="191">Serbia</option><option value="192">Seychelles</option><option value="193">Sierra Leone</option><option value="194">Singapore</option><option value="249">Sint Maarten</option><option value="195">Slovakia</option><option value="196">Slovenia</option><option value="197">Solomon Islands</option><option value="198">Somalia</option><option value="199">South Africa</option><option value="250">South Georgia and the South Sandwich Islands</option><option value="115">South Korea</option><option value="200">Spain</option><option value="201">Sri Lanka</option><option value="202">Sudan</option><option value="203">Suriname</option><option value="204">Svalbard and Jan Mayen</option><option value="205">Swaziland</option><option value="206">Sweden</option><option value="207">Switzerland</option><option value="208">Syria</option><option value="209">Taiwan</option><option value="210">Tajikistan</option><option value="211">Tanzania</option><option value="212">Thailand</option><option value="213">Timor-Leste</option><option value="214">Togo</option><option value="215">Tokelau</option><option value="216">Tonga</option><option value="217">Trinidad and Tobago</option><option value="218">Tunisia</option><option value="219">Turkey</option><option value="220">Turkmenistan</option><option value="221">Turks and Caicos Islands</option><option value="222">Tuvalu</option><option value="223">Uganda</option><option value="224">Ukraine</option><option value="225">United Arab Emirates</option><option value="226">United Kingdom</option><option value="227">United States</option><option value="228">United States Minor Outlying Islands</option><option value="236">United States Virgin Islands</option><option value="229">Uruguay</option><option value="230">Uzbekistan</option><option value="231">Vanuatu</option><option value="234">Vatican City State</option><option value="232">Venezuela</option><option value="233">Vietnam</option><option value="237">Wallis and Futuna</option><option value="238">Western Sahara</option><option value="239">Yemen</option><option value="240">Zambia</option><option value="241">Zimbabwe</option></select></div>
+<div>
+<input class="cbtermsandconditions" name="cbtermsandconditions" type="hidden" value="0"/>
+<input class="cbtermsandconditions" id="nf-cbtermsandconditions" name="cbtermsandconditions" style="width: auto; height: auto; margin-right: 5px;" type="checkbox" value="1"/><label for="nf-cbtermsandconditions"> <a class="wspShortConsentText" href="https://www.galoresort.com/hotel-gdpr.html" target="_blank">I accept the Terms and Conditions and the Privacy and Personal Data Policy, which is an integral part thereof</a></label><span class="required" id="cbtermsandconditions-val"></span>
+</div>
+<div class="g-recaptcha" data-sitekey="6Ld_oiAUAAAAAFcxRSDFdXcficXtWRWu_Q8jVYix" id="recaptcha1482"></div><div><input style="font-weight: bold;" type="submit" value="SUBMIT"/></div></form><p><a href="hotel-unsubscribe.html">If you wish to stop receiving our newsletter, Click here. </a></p>
+</div>
+</section>
+<section class="socialmedia">
+<div class="holder">
+<label class="share">#beactivefeelalive<span>Share your experience</span></label>
+<ul>
+<li class="pinterest"><a href="https://pt.pinterest.com/galoresort/" target="_blank"><span>Pinterest Galo Resort Hotels</span></a></li>
+<li class="instagram"><a href="https://www.instagram.com/galoresort/" target="_blank"><span>Instagram Galo Resort Hotels</span></a></li>
+<li class="facebook"><a href="https://www.facebook.com/GaloResort/" target="_blank"><span>Facebook Galo Resort Hotels</span></a></li>
+<li class="linkedin"><a href="https://pt.linkedin.com/in/galo-resort-hotels-5a7854b7" target="_blank"><span>Linked Inn Galo Resort Hotels</span></a></li>
+<li class="twitter"><a href="https://twitter.com/galoresort" target="_blank"><span>Twitter Galo Resort Hotels</span></a></li>
+<li class="youtube"><a href="https://www.youtube.com/c/GaloResortHotelsCani%C3%A7o" target="_blank"><span>Youtube Galo Resort Hotels</span></a></li>
+<!-- galosol -->
+<li class="holidaycheck galosol"><a href="https://www.holidaycheck.de/hi/galo-resort-galosol/1bf3bcba-8d82-35e3-a5f5-fb405b9a3074?q=Galo+Resort+Galosol+%2F+Cani%C3%A7o+%28Hotel%29" target="_blank"><span>Holiday Check Galo Resort Hotels</span></a></li>
+<li class="tripadvisor galosol"><a href="https://www.tripadvisor.com.br/Hotel_Review-g580258-d280575-Reviews-Hotel_Galosol-Canico_Madeira_Madeira_Islands.html" target="_blank"><span>Tripadvisor Galo Resort Hotels</span></a></li>
+<!-- galomar -->
+<li class="holidaycheck galomar"><a href="https://www.holidaycheck.de/hi/galo-resort-galomar/00e1f50d-a945-3404-85be-cd94d4175d24?q=Galo+Resort+Galomar+%2F+Cani%C3%A7o+%28Hotel%29" target="_blank"><span>Holiday Check Galo Resort Hotels</span></a></li>
+<li class="tripadvisor galomar"><a href="https://www.tripadvisor.pt/Hotel_Review-g580258-d551163-Reviews-Hotel_Galomar-Canico_Madeira_Madeira_Islands.html" target="_blank"><span>Tripadvisor Galo Resort Hotels</span></a></li>
+<!-- Alpino Atlântico -->
+<li class="holidaycheck alpino"><a href="https://www.holidaycheck.de/hi/galo-resort-alpino-atlantico-adults-only/dd6c5e7d-3534-31d5-9e08-4ec3e315ed00?q=Galo+Resort+Alpino+Atlantico+Adults+only+%2F+Cani%C3%A7o+%28Hotel%29" target="_blank"><span>Holiday Check Galo Resort Hotels</span></a></li>
+<li class="tripadvisor alpino"><a href="https://www.tripadvisor.pt/Hotel_Review-g580258-d573674-Reviews-Hotel_Alpino_Atlantico-Canico_Madeira_Madeira_Islands.html" target="_blank"><span>Tripadvisor Galo Resort Hotels</span></a></li>
+<li class="clean"></li>
+</ul>
+</div>
+</section>
+<div class="holder">
+<address class="hoteladdress" itemscope="" itemtype="//schema.org/Hotel">
+<span class="hotelname col-md-6 col-sm-12" itemprop="name">Galo Resort Hotels</span>
+<span class="addressblock col-md-6 col-sm-12" itemprop="address" itemscope="" itemtype="//schema.org/PostalAddress">
+<span itemprop="addressLocality">Caniço de Baixo</span>, <span itemprop="postalCode">9125-031 </span> / <a class="phoneblock" href="tel:+351291930930" itemprop="telephone">Phone +351 291 930 930</a>
+</span>
+</address>
+<nav class="footermenu">
+<ul><li><a href="/hotel-contacts.html">Contact Us</a></li><li><a href="/recrutamento">Recrutamento</a></li><li><a href="/hotel-subscribe.html">Subscribe Newsletter</a></li><li><a href="/hotel-unsubscribe.html">Unsubscribe Newsletter</a></li><li><a href="/sustainability">Sustainability</a></li><li><a href="/diving">Diving &amp; Snorkeling</a></li><li><a href="/ayurveda">Ayurveda</a></li><li><a href="/hiking">Hiking</a></li><li><a href="/outdoor">Outdoor Activities</a></li><li><a href="/glamping">Glamping</a></li><li><a href="/pizzeria-galosol">Pizzeria Galosol</a></li><li><a href="/complimentary-services">Complimentary Services</a></li><li><a href="/lido-galomar">Lido Galomar</a></li><li><a href="/spa">SPA</a></li><li><a href="/galo-active">Galo Active</a></li><li><a href="/casa-da-oliveira-villa">Casa da Oliveira Villa</a></li><li><a href="/allergy-friendly-hotel">Allergy Friendly Hotel</a></li><li><a href="/best-offers">Best Offers</a></li><li><a href="/what-s-on">What's on</a></li><li><a href="/certifications">Certifications</a></li><li><a href="/experiences">Experiences</a></li><li><a href="/hotel-sitemap.html">Sitemap</a></li><li><a href="/room-directory">Room Directory</a></li><li><a href="/hotel-gdpr.html">Privacy and Data Policy</a></li><li><a href="/galo-mascots">Galo mascots</a></li><li><a href="/tour-operators">Tour Operators</a></li><li><a href="/benefits-program">Galo Benefits Program</a></li>
+</ul>
+</nav>
+</div>
+<section id="hotelseals"></section>
+<section id="seals">
+<div class="sealsHolder">
+<div class="security">
+<img alt="VeriSign Secured, McAfee Secure, W3C CSS compliant" height="30" src="/_bin/seals_seals.png" width="258"/>
+</div>
+<div class="powered">
+<a href="https://www.guestcentric.com/hotel-website-free-trial" rel="noopener" target="_blank"><img alt="GuestCentric - Hotel website &amp; booking technology" height="15" src="/_bin/seals_gclogo.png" width="337"/></a>
+</div>
+</div>
+</section>
+</footer>
+<button class="scroll" id="scroll"><label>Scroll top</label></button>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://static.guestcentric.net/js/ycal/ycal-min.js" type="text/javascript"></script>
+<script src="/BannerGadget/js/script.v02-min.js" type="text/javascript"></script><script> document.getElementById("flocation").value=window.location; </script><script defer="" src="https://static.guestcentric.net/js/marketing-min.js" type="text/javascript"></script>
+<div class="cookiesWarning" id="cookiesWarning"><div class="cookiesWarningTxt"><p>This site uses cookies to improve your browsing experience and provide you the best service possible. Continuing browsing the site you consent to their use.</p></div><div class="cookiesWarningBtnWrapper"><div class="cookiesWarningBtn" id="cookiesWarningMore">View more</div><div class="cookiesWarningBtn" id="cookiesWarningClose">Ok</div></div></div><script>!function(){var a=YAHOO.util,b=a.Selector,c=a.Dom,d=a.Event,e=b.query('#cookiesWarning')[0],f=b.query('#cookiesWarningMore')[0],g=b.query('#cookiesWarningClose')[0],h=function(a){var b=document.cookie.match('(^|;) ?'+a+'=([^;]*)(;|$)');return b?b[2]:null},i=function(a,b){var c,d,e=new Date;c=a+'='+b,d=new Date(e.getFullYear()+1,e.getMonth(),e.getDay()),c+=';expires='+d.toGMTString(),document.cookie=c};null==h('gc_ckWarn')&&e&&(d.addListener(f,'click',function(a){a&&d.stopPropagation(a),c.removeClass(e,'show'),d.removeListener(f,'click'),window.location.href='hotel-policies.html'}),d.addListener(g,'click',function(a){a&&d.stopPropagation(a),c.removeClass(e,'show'),d.removeListener(g,'click'),i('gc_ckWarn','yes')}),c.addClass(e,'show'))}();</script><script src="https://www.google.com/recaptcha/api.js?onload=renderRecaptcha&amp;render=explicit&amp;hl=en_US"></script>
+<script src="https://static.guestcentric.net/js/loadReCaptcha.min.js?v=20201027"></script>
+<!-- Website Libs -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lettering.js/0.7.0/jquery.lettering.js" type="text/javascript"></script>
+<script src="//static.guestcentric.net/cdn/wsbdev/wsbdev_bin/js/gc-website.min.js" type="text/javascript"></script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js" type="text/javascript"></script>
+<!-- Website Javascript -->
+<script src="/_js/template.min.js?v=1" type="text/javascript"></script>
+<!-- end -->
+</body>
+</html>

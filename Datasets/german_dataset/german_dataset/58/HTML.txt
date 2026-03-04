@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="de" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8"/>
+<title>Sprachen lernen - Berlin.de</title>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1605105375" rel="stylesheet" type="text/css"/>
+<!-- theme switch begin -->
+<link href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1605105375" rel="stylesheet" type="text/css"/>
+<link href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1605105375" rel="stylesheet" type="text/css"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="//www.berlin.de/i9f/v4/css/images/misc/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" type="image/png"/>
+<!-- theme switch end -->
+<!-- "property" validiert nicht, nimm "name" -->
+<meta content="http://www.berlin.de/i9f/images/facebook_default_icon_land.png" name="og:image"/>
+<meta content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png" name="og:image:secure_url"/>
+<script src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1605105375"></script>
+<script src="//www.berlin.de/i9f/v4/js/bo-info.js?ts=1605105375"></script>
+<meta content="imperia9/14/1177/89531/190918/342668/445488/458843" data-filename="index.php" name="generator"/> <meta content="2019-11-15" name="dcterms.date"/>
+<meta content="Sprachen lernen" name="dcterms.title"/>
+<meta content="Fremdsprachen bilingulaer Unterricht, ii458843" name="keywords"/>
+<link href="https://www.berlin.de/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/" rel="canonical"/>
+<!-- head - items - flexe -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- Headsection: Views_Flex_Text -->
+<!-- /head - items - flexe -->
+<!-- head - overview - flexe -->
+<!-- Headsection: Views_InfoColumn -->
+<link href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/index.php/rss" rel="alternate" type="application/rss+xml"/><!-- head - overview - /flexe -->
+</head>
+<body class="locale_de bobde">
+<div class="bo-page-wrapper ">
+<div class="container-wrapper container-portal-header">
+<!-- Werbung -->
+<div class="skyscraper hidden-phone">
+<!-- kommunal: beberlin -->
+</div>
+<div class="container">
+<div class="row">
+<div class="span12">
+<!-- NAVIGATION BEGIN: portal -->
+<div class="html5-header portal-header hidden-phone">
+<div class="red-line"></div>
+<div class="html5-figure main-image">
+<a href="https://www.berlin.de/">
+<img alt="Zur Homepage von Berlin.de" class="portal-logo hide-mobile" src="//www.berlin.de/i9f/v4/css/images/berlin_de.png"/>
+</a>
+</div><!-- /html5-figure -->
+<p class="navSkip hidden-phone osvnp">Navigiere direkt zu:</p>
+<ul class="navSkip hidden-phone">
+<li><a href="#aural_institutionssuche">Suche</a></li>
+<li><a href="#aural_maincontent">Inhalt</a></li>
+</ul>
+<nav aria-label="Portal Navigation">
+<h6 class="aural">Portal Navigation</h6>
+<p class="aural" id="bo-portalnavilinkslabel">Besuchen Sie auch unsere anderen Themen-Bereiche:</p>
+<ul aria-labelledby="bo-portalnavilinkslabel" class="portal-navi" id="bo-portalnavilinks">
+<li class="active"><a href="https://www.berlin.de/politik-verwaltung-buerger/">Politik, Verwaltung, Bürger</a></li>
+<li><a href="https://www.berlin.de/kultur-und-tickets/">Kultur &amp; Ausgehen</a></li>
+<li><a href="https://www.berlin.de/tourismus/">Tourismus</a></li>
+<li><a href="https://www.berlin.de/wirtschaft/">Wirtschaft</a></li>
+<li><a href="https://www.berlin.de/special/">Lifestyle</a></li>
+<li><a href="https://www.berlin.de/adressen/">BerlinFinder</a></li>
+<li><a href="https://www.berlin.de/stadtplan/">Stadtplan</a></li>
+</ul>
+</nav><!-- /html5-nav -->
+</div><!-- /html5-header -->
+<!-- NAVIGATION END: portal -->
+</div>
+</div>
+</div>
+</div>
+<!-- navi mobil header inc -->
+<div class="sticky-header hidden-desktop hidden-tablet bde-gradient">
+<div class="red-line"></div>
+<div class="portal-logo">
+<a href="https://www.berlin.de" title="Link führt zur Startseite von Berlin.de">
+<img alt="Bild zeigt: Berlin.de Logo" src="//www.berlin.de/i9f/v4/css/images/berlin_de.png" title="Link führt zur Startseite von Berlin.de"/>
+</a>
+</div>
+</div>
+<!-- navi mobil header inc -->
+<div class="container-wrapper container-content template-land_overview" id="top">
+<div class="container">
+<div class="row">
+<div class="span12">
+<!-- NAVIGATION BEGIN: horizontal-->
+<div class="row">
+<div class="span12">
+<!--NAVIGATION BEGIN: meta-->
+<div class="html5-header content-header ">
+<div class="row">
+<div class="span5">
+<div class="html5-section section-logo without-logo">
+<div class="html5-section text">
+<a href="/sen/bjf/" title='Link zu: Startseite von "Senatsverwaltung für Bildung, Jugend und Familie"'><span class="institution">Senatsverwaltung für</span>
+<span class="title">Bildung, Jugend und Familie</span></a> </div>
+</div>
+<div class="beberlin hidden-desktop hidden-tablet">
+<img alt="Berlin" class="berlin-logo" src="//www.berlin.de/i9f/v4/css/images/logo_berlin_m_srgb.svg"/>
+</div>
+</div>
+<div class="span7">
+<div class="html5-nav meta-navi">
+<ul class="nav">
+<li class="odd pos0"><a href="/sen/bjf/a-bis-z/">A bis Z</a></li><li class="even pos1"><a href="/sen/bjf/service/presse/">Presse</a></li><li class="odd pos2"><a href="/sen/bjf/service/newsletter/">Newsletter</a></li><li class="even pos3"><a class="ic-fa-twitter" href="https://twitter.com/senbjf" target="_blank" title="Twitter SenBJF (Öffnet in neuem Fenster)">Twitter SenBJF</a></li><li class="odd pos4"><a class="ic-fa-instagram" href="https://www.instagram.com/senbildjugfam" target="_blank" title="Instagram SenBJF (Öffnet in neuem Fenster)">Instagram SenBJF</a></li><li class="even pos5"><a class="ic-fa-facebook" href="https://www.facebook.com/senbildjugfam/" target="_blank" title="Facebook SenBJF (Öffnet in neuem Fenster)">Facebook SenBJF</a></li><li class="odd pos6"><a class="ic-fa-youtube" href="https://www.youtube.com/senbjf" target="_blank" title="Youtube SenBJF (Öffnet in neuem Fenster)">Youtube SenBJF</a></li><!-- FLEX BEGIN: Metalangselector -->
+<li>
+<a href="/sen/bjf/leichte-sprache/artikel.895402.de-plain.php" hreflang="de" title="Link zu einer anderen Sprache: Leichte Sprache"> <img alt="Link zu einer anderen Sprache: Leichte Sprache" class="nosocials" src="//www.berlin.de/i9f/v4/css/images/misc/leichtesprache.svg"/>
+    Leichte Sprache</a></li>
+<!-- FLEX END: Metalangselector -->
+</ul>
+</div>
+<!--META BEGIN: SEARCH-->
+<div class="html5-section search navbar">
+<div class="navbar-inner">
+<div class="nav-collapse search-collapse collapse">
+<form action="/sen/bildung/suche.php" class="institutionssuche" method="get">
+<div class="control-group searchform " role="search">
+<label class="aural" id="aural_institutionssuche">
+            Suche auf der Internetseite "Senatsverwaltung für Bildung, Jugend und Familie":        </label>
+<input aria-labelledby="aural_institutionssuche" maxlength="255" name="q" placeholder="Suchbegriff" title='Hier können Sie einen Text eingeben, um die Internetseite "Senatsverwaltung für Bildung, Jugend und Familie" zu durchsuchen' type="search"/>
+<button class="btn global-search-submit" type="submit">
+<span class="hidden-phone">Suchen</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<!--META END: SEARCH-->
+</div>
+</div>
+</div>
+<!-- NAVIGATION END: meta-->
+</div>
+</div>
+<div class="row">
+<div class="span12">
+<span class="mobile-blue-line hidden-desktop hidden-tablet"></span>
+<div class="content-navi-wrapper navbar hidden-phone">
+<div class="html5-nav content-navi-top navbar-inner smallfontsize">
+<nav aria-label="Hauptnavigation" class="nav-collapse mainnav-collapse collapse">
+<h6 class="aural">Hauptnavigation</h6>
+<ul class="nav level1">
+<li class=" has-submenu">
+<a href="/sen/bildung/schule/">Schule</a> <ul class="nav"><li class="">
+<a href="/sen/bildung/schule/berliner-schulen/">Berliner Schulen</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/bildungswege/">Bildungswege</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/pruefungen-und-abschluesse/">Prüfungen und Abschlüsse</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/besondere-schulangebote/">Besondere Schulangebote</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/inklusion/">Inklusion</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/foerderung/">Förderung</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/ganztaegiges-lernen/ganztagsschulen/">Ganztägiges Lernen</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/gute-schule/">Gute Schule</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/digitale-schule/">Digitale Schule</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/rechtsvorschriften/">Rechts­vorschriften</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/schulentwicklungsplanung/">Schulentwick­lungsplanung</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/bauen-und-sanieren/">Bauen und Sanieren</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/bildungsstatistik/">Bildungs­statistik</a> </li></ul> </li>
+<li class=" active has-submenu">
+<a href="/sen/bildung/unterricht/">Unterricht</a> <ul class="nav"><li class=" active">
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/">Fächer / Rahmen­lehrpläne</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/individuelles-lernen/">Individuelles Lernen</a> </li>
+<li class="">
+<a href="/sen/bildung/schule/foerderung/sprachfoerderung/">Sprachbildung</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/kulturelle-bildung/">Kulturelle Bildung</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/politische-bildung/">Politische Bildung</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/schulqualitaet/">Schulqualität</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/kooperationen/">Kooperationen</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/wettbewerbe/">Wettbewerbe</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/medien/">Medien</a> </li>
+<li class="">
+<a href="/sen/bildung/unterricht/reisende/">Reisende</a> </li></ul> </li>
+<li class=" has-submenu">
+<a href="/sen/bildung/schule-und-beruf/">Schule und Beruf</a> <ul class="nav"><li class="">
+<a href="/sen/bildung/schule-und-beruf/berufliche-bildung/">Berufliche Bildung</a> </li>
+<li class="">
+<a href="/sen/bildung/schule-und-beruf/jugendberufsagentur/">Jugend­berufsagentur</a> </li>
+<li class="">
+<a href="/sen/bildung/schule-und-beruf/berufs-und-studienorientierung/">Berufs- und Studien­orientierung</a> </li></ul> </li>
+<li class=" has-submenu">
+<a href="/sen/bildung/fachkraefte/">Fachkräfte</a> <ul class="nav"><li class="">
+<a href="/sen/bildung/fachkraefte/lehrerausbildung/">Lehrer­ausbildung</a> </li>
+<li class="">
+<a href="/sen/bildung/fachkraefte/einstellungen/">Einstellungen</a> </li>
+<li class="">
+<a href="/sen/bildung/fachkraefte/qualifizierung/">Qualifizierung</a> </li></ul> </li>
+<li class=" has-submenu">
+<a href="/sen/bildung/unterstuetzung/">Unterstützung</a> <ul class="nav"><li class="">
+<a href="/sen/bildung/unterstuetzung/beratungszentren-sibuz/">Beratungszentren (SIBUZ)</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/gewalt-und-notfaelle/">Gewalt und Notfälle­</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/praevention-in-der-schule/">Prävention in der Schule</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/schulpsychologie/">Schul­psychologie</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/bonus-programm/">Bonus-Programm</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/verfuegungsfonds/">Verfügungsfonds</a> </li>
+<li class="">
+<a href="/sen/jugend/jugend/jugendsozialarbeit/artikel.340995.php">Schul­sozial­arbeit</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/koordinierung-schule-und-jugendhilfe/">Koordinierung Schule und Jugendhilfe</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/proschul/">proSchul</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/schulinspektion/">Schulinspektion</a> </li>
+<li class="">
+<a href="/sen/bjw/ueber-uns/adressen/#schulaufsicht">Schulaufsicht</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/bildungsverbuende/">Bildungs­verbünde</a> </li>
+<li class="">
+<a href="/sen/bildung/unterstuetzung/egovernment/">eGovernment</a> </li></ul> </li>
+<li class=" has-submenu">
+<a href="/sen/bildung/lebenslanges-lernen/">Lebenslanges Lernen</a> <ul class="nav"><li class="">
+<a href="/sen/bildung/lebenslanges-lernen/vhs/">VHS</a> </li>
+<li class="">
+<a href="/sen/bildung/lebenslanges-lernen/zweiter-bildungsweg/">Zweiter Bildungsweg</a> </li>
+<li class="">
+<a href="/sen/bildung/lebenslanges-lernen/alphabetisierung-und-grundbildung/">Alpha­betisierung und Grundbildung</a> </li>
+<li class="">
+<a href="/sen/bildung/lebenslanges-lernen/fortbildung-fuer-weiterbildner/">Fortbildung für Weiterbildner</a> </li>
+<li class="">
+<a href="/sen/bildung/lebenslanges-lernen/lernorte/">Lernorte</a> </li></ul> </li>
+<li class=" has-submenu">
+<a href="/sen/bildung/politik/bildungspolitik/">Politik</a> <ul class="nav"><li class="">
+<a href="/sen/bildung/politik/bildungspolitik/">Bildungspolitik</a> </li></ul> </li>
+</ul>
+<div class="berlinmarke beberlin"><img alt="Logo Berlin" src="//www.berlin.de/i9f/v4/css/images/logo_berlin_m_srgb.svg" title="Berlin Marke Bär"/></div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="emergency-box">
+<h2 class="title">Regelbetrieb in Kitas und Schulen mit Hygieneregeln</h2>
+<div class="textile">
+<ul>
+<li>
+<a href="/sen/bjf/coronavirus/aktuelles/schrittweise-schuloeffnung/">Informationen zum Schulbetrieb</a> | <a href="/sen/bjf/coronavirus/aktuelles/corona_stufenplan_fuer_berliner_schulen__senbjf.pdf">Stufenplan für Schulen</a> | <a href="/sen/bjf/coronavirus/aktuelles/schrittweise-schuloeffnung/#test">Tests für Schulpersonal</a>
+</li>
+<li>
+<a href="/sen/bjf/coronavirus/aktuelles/schrittweise-oeffnung-kita-und-kindertagespflege/">Informationen zum Kita-Betrieb</a> | <a href="/sen/bjf/coronavirus/aktuelles/schrittweise-oeffnung-kita-und-kindertagespflege/#test">Tests für Kita-Personal</a>
+</li>
+<li>
+<a href="/sen/bjf/coronavirus/aktuelles/grafiken-und-medien/">Grafiken und Medien zu Corona für Kitas, Schulen und Einrichtungen der Jugend- und Familienhilfe, auch mehrsprachig</a>
+</li>
+</ul>
+</div></div>
+<!--NAVIGATION END: horizontal-->
+<!-- content start -->
+<!-- row - span12 -->
+<!-- NAVIGATION BEGIN: breadcrumb -->
+<div class="row row-breadcrumb">
+<div class="span10">
+<nav aria-label="Breadcrumb" class="html5-section breadcrumb">
+<p class="aural" id="aural_breadcrumblabel">Sie befinden sich hier:</p>
+<ul aria-labelledby="aural_breadcrumblabel">
+<li class="odd pos0"><a class="homehaus" href="/sen/bildung/">Senats­verwaltung Abteilung Bildung</a></li><li class="even pos1"><a href="/sen/bildung/unterricht/">Unterricht</a></li><li class="odd pos2"><a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/">Fächer / Rahmen­lehrpläne</a></li><li class="even pos3"><a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/">Sprachen</a></li> <li class="aural">Sprachen lernen</li>
+</ul>
+</nav>
+</div>
+<div class="span2"></div>
+</div>
+<!-- NAVIGATION END: breadcrumb -->
+<!--TEMPLATE BEGIN: overview-->
+<div class="row">
+<div class="span2 column-left">
+<!-- NAVIGATION BEGIN: vertical -->
+<div class="html5-nav content-navigation-left navbar">
+<div class="navbar-inner">
+<nav aria-label="Sekundäre Navigation" class="hidden-phone nav-collapse collapse">
+<h6 class="aural">Sekundäre Navigation</h6>
+<ul class="nav level-0">
+<li class="active"><a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/">Fächer / Rahmen­lehrpläne</a> <ul class="level-1"><li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/rahmenlehrplaene/">Rahmenlehrpläne</a> </li>
+<li class="active">
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/">Sprachen</a> </li>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/ethik/">Ethik</a> </li>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/religion-und-weltanschauung/">Religion und Weltanschauung</a> </li>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/schulsport/">Schulsport</a> </li>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/faecheruebergreifende-themen/">Fächer­übergreifende Themen</a> </li>
+</ul> </li>
+</ul>
+</nav>
+</div>
+</div>
+<!-- NAVIGATION END: vertical -->
+</div>
+<div class="span7 column-content">
+<h6 class="aural" id="aural_maincontent">Inhaltsspalte</h6>
+<div class="html5-section article" role="main">
+<div class="html5-header header">
+<h1 class="title">Sprachen lernen</h1>
+</div>
+<div class="html5-section main-image">
+<div class="html5-figure image main type-article" style="">
+<img alt="Miniatur-Eifelturm steht vor lernendem Jungen" loading="lazy" src="/converjon/?ts=1458117466&amp;width=540&amp;height=270&amp;url=https%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Funterricht%2Ffaecher-rahmenlehrplaene%2Fsprachen%2Fimg_4820_sprachen_lernen.jpg%3Fts%3D1458117466.jpg"/>
+<div class="caption">
+<span class="copyright">Bild: SenBJW </span>
+</div>
+</div>
+</div>
+<div class="html5-section body">
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-section body">
+<div class="text textalignleft">
+<div class="textile">
+<p>
+    Wer Fremdsprachen erlernt, hält einen Schlüssel für eine gute Zukunft in der Hand. Es ist ein Schlüssel, der das Tor zu einer beruflichen Erfüllung aufschließen hilft, weil Fremdsprachen Mobilität und Flexibilität fördern. Dieser Schlüssel passt aber auch, wenn es darum geht, die Persönlichkeit junger Menschen zu fördern und sie zu offenen und toleranten Bürgern werden zu lassen.
+  </p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-header header">
+<h3 class="title" id="headline_1_1">Berlin spricht viele Sprachen</h3> </div>
+<div class="html5-section body">
+<div class="text textalignleft">
+<div class="textile">
+<p>
+    Berlins Vielfalt ist einzigartig! Nirgendwo sonst im deutschsprachigen Raum finden Sie so viele unterschiedliche Kulturen in einer Stadt, entdecken junge Menschen aus allen Ländern gemeinsam die Welt und das Leben. Sprache ist zentral für unsere Kommunikation, und allen, die eine oder mehrere Fremdsprachen erlernen, eröffnen sich neue Welten, die ihnen sonst vielleicht verborgen geblieben wären.
+  </p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-header header">
+<h3 class="title" id="headline_1_2">Bilingualer Unterricht</h3> </div>
+<div class="html5-section body">
+<div class="text textalignleft">
+<div class="textile">
+  Bilingualer Unterricht ist ein über den traditionellen Fremdsprachenunterricht hinausgehendes Angebot, in dem neben der Unterrichtssprache Deutsch auch eine Fremdsprache als Unterrichtssprache verwendet wird. So wird beispielsweise nicht nur im Englisch-Unterricht Englisch gesprochen, sondern auch in Geschichte oder Geografie.
+  <ul>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/SchulListe.aspx?IDKategorie=46&amp;IDAngebot=351&amp;TextID=19">Schulen, die bilingualen Unterricht in Deutsch-Englisch anbieten</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/SchulListe.aspx?IDKategorie=46&amp;IDAngebot=346&amp;TextID=20">Schulen, die bilingualen Unterricht in Deutsch-Französisch anbieten</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/SchulListe.aspx?IDKategorie=46&amp;IDAngebot=347&amp;TextID=22">Schulen, die bilingualen Unterricht in Deutsch-Spanisch anbieten</a>
+</li>
+</ul>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-header header">
+<h3 class="title" id="headline_1_3">Zweisprachige deutsch-türkische Alphabetisierung und Erziehung</h3> </div>
+<div class="html5-section body">
+<div class="text textalignleft">
+<div class="textile">
+<p>
+    Die zweisprachige deutsch-türkische Alphabetisierung/Erziehung wendet sich in erster Linie an Schülerinnen und Schüler mit der Muttersprache Türkisch. Durch den zusätzlichen Unterricht Türkisch als Muttersprache sollen die Kinder in ihrer Sprach- und Identitätsentwicklung gefördert werden, im Deutschen Anschluss an die Anforderungen der Oberschule und im Türkischen Anschluss an die türkischsprachige Schriftkultur finden.
+  </p>
+<p>
+<strong>Kooperations-Unterricht</strong>
+</p>
+<p>
+    Der deutsch-türkische Kooperations-Unterricht (Koop) hat das Ziel, die Entwicklung der Zweisprachigkeit zu koordinieren. In diesen Stunden unterrichten zwei Lehrkräfte gleichzeitig, die eine mit türkischer, die andere mit deutscher Muttersprache.<br/>
+    Durch die Teilnahme von Kindern nicht türkischer Herkunft am zweisprachigen Koop-Unterricht und durch zusätzliche Arbeitsgemeinschaften Türkisch auf freiwilliger Basis soll über den Erwerb von Sprachkenntnissen hinaus ein Beitrag zur interkulturellen Erziehung geleistet werden. Aufgenommen werden Kinder aller Berliner Bezirke.
+  </p>
+<p>
+    Die Teilnahme an diesem Angebot ist freiwillig und bedarf der schriftlichen Zustimmung der Erziehungsberechtigten, die zuvor über den Inhalt von der aufnehmenden Schule zu informieren sind.
+  </p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild float"> <div class="html5-figure image main-image imagealignleft type-teaserhochkant" style="">
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/flyer_zweisprachige_erziehung_deutsch.pdf" target="_blank" title="Flyer Türkisch-Deutsch in deutscher Sprache (Öffnet in neuem Fenster)"> <img alt="Link zu: Flyer Türkisch-Deutsch in deutscher Sprache" loading="lazy" src="/converjon/?ts=1566207672&amp;width=166&amp;height=221&amp;url=https%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Funterricht%2Ffaecher-rahmenlehrplaene%2Fsprachen%2Fmargin_166_221_552094a7842062c5f02f060d22130a8a_cover-tuerkisch-deutsch_dt.jpg%3Fts%3D1566207672.jpg"/>
+</a>
+</div>
+<div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<strong>Flyer in deutscher Sprache</strong>
+<ul>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/flyer_zweisprachige_erziehung_deutsch.pdf"><span class="caps">TÜRKISCH</span> + <span class="caps">DEUTSCH</span> = <span class="caps">ZUKUNFT</span> Zweisprachiger Unterricht an Berliner Grundschulen</a>
+</li>
+</ul><strong>Grundschulen mit dem deutsch-türkischen Angebot</strong>
+<ul>
+<li>Friedrichshain-Kreuzberg: Jens-Nydahl-Grundschule
+    </li>
+<li>Mitte (Ortsteil Wedding): Wedding-Grundschule + Leo-Lionni-Grundschule
+    </li>
+<li>Neukölln: Rixdorfer Grundschule
+    </li>
+</ul>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild float"> <div class="html5-figure image main-image imagealignleft type-teaserhochkant" style="">
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/flyer_zweisprachige_erziehung_tuerkisch.pdf" target="_blank" title="Flyer Türkisch - Deutsch in türkischer Sprache (Öffnet in neuem Fenster)"> <img alt="Link zu: Flyer Türkisch - Deutsch in türkischer Sprache" loading="lazy" src="/converjon/?ts=1566205832&amp;width=166&amp;height=221&amp;url=https%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Funterricht%2Ffaecher-rahmenlehrplaene%2Fsprachen%2Fmargin_166_221_3dd7f73e28e9523576a061e79e54bba7_cover-tuerkisch-deutsch_tuerk.jpg%3Fts%3D1566205832.jpg"/>
+</a>
+</div>
+<div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<strong>Flyer in türkischer Sprache</strong>
+<ul>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/flyer_zweisprachige_erziehung_tuerkisch.pdf"><span class="caps">TÜRKÇE</span> + <span class="caps">ALMANCA</span> = <span class="caps">GELECEK</span> Berlin ilkokullarında iki dilli eğitim</a>
+</li>
+</ul><strong>Berlin‘de Türkçe-Almanca dersleri olan ilkokullar</strong>
+<ul>
+<li>Friedrichshain-Kreuzberg: Jens-Nydahl-Grundschule
+    </li>
+<li>Mitte (Ortsteil Wedding): Wedding-Grundschule + Leo-Lionni-Grundschule
+    </li>
+<li>Neukölln: Rixdorfer Grundschule
+    </li>
+</ul>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<p>
+<strong>Spezielle Stundentafel</strong>
+</p>
+<p>
+    Für die Klassen der zweisprachigen deutsch-türkischen Alphabetisierung/Erziehung gilt eine spezielle Stundentafel. In allen Lernbereichen bzw. Fächern außer Türkisch als Muttersprache und der AG Türkisch werden die Schülerinnen und Schüler gemeinsam unterrichtet. Schüler türkischer Muttersprache erhalten ab Klasse 1 zusätzlichen Türkischunterricht. Schüler anderer Muttersprachen können freiwillig an einer AG Türkisch teilnehmen.
+  </p>
+<p>
+    Der zusätzliche Unterricht Türkisch als Muttersprache und die AG Türkisch wird von Lehrkräften mit türkischer Muttersprache und der Koop-Unterricht gemeinsam von Lehrkräften mit deutscher bzw. türkischer Muttersprache erteilt. Die Schülerinnen und Schüler nehmen am regulären Fremdsprachenunterricht in der Grundschule teil.
+  </p>
+<p>
+    Schüler nichtdeutscher Muttersprache erhalten bei Bedarf Sprachförderung gemäß den aktuellen Richtlinien für die Lehrerstundenzumessung. Gegebenenfalls sind geeignete Organisationsmodelle anzuwenden, die eine Belastung einzelner Schüler durch eine zu hohe Wochenstundenzahl vermeiden.
+  </p>
+<p>
+<strong>Lehrkräfte</strong><br/>
+    In der zweisprachigen deutsch-türkischen Alphabetisierung/Erziehung unterrichten zum einen Lehrkräfte mit der Muttersprache Deutsch und Türkischkenntnissen, zum anderen Lehrkräfte mit der Muttersprache Türkisch und hervorragenden Deutschkenntnissen (Fachstudium oder deutsches Sprachdiplom entsprechend den gesetzlichen Bestimmungen). Die Nutzung geeigneter Unterrichtsmaterialien liegt in der Eigenverantwortung der Schulen. Für den zweisprachigen Lese-Schreiblehrgang stehen eigens entwickelte Materialien zur Verfügung.
+  </p>
+<p>
+<strong>Projekttage</strong>
+</p>
+<p>
+    In jedem Schuljahr sollten mehrere Projekttage durchgeführt werden. Empfohlen wird darüber hinaus am Ende jeden Schuljahres die Durchführung einer Projektwoche, die der Verstärkung der europäischen und internationalen Dimension u. a. durch gemeinsame Aktivitäten aller an der zweisprachigen Erziehung beteiligten Schulen dient.
+  </p>
+<p>
+    Nach Beendigung der Grundschule sollten die Schülerinnen und Schüler der Klassen mit zweisprachiger deutsch-türkischer Alphabetisierung/Erziehung vorrangig auf Gymnasien oder Integrierte Sekundarschulen übergehen, die Türkisch als 2. Fremdsprache anbieten.
+  </p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-header header">
+<h3 class="title" id="ag">Herkunftssprachlicher Unterricht Türkisch an Berliner Grundschulen</h3> </div>
+<div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<p>
+    Die Herkunfts- oder Familiensprache jedes Kindes ist ein wertvoller Schatz. Sie zu erlernen und gut zu beherrschen, ist für die Entwicklung der Persönlichkeit und die Identität eines Kindes von hoher Bedeutung. Es verschafft ihm Zugang zur Welt und zur Kultur der eigenen Herkunft.<br/>
+    Zugleich erleichtert die Fähigkeit, sich in der eigenen Herkunftssprache auszudrücken, auch das Erlernen anderer Sprachen – nicht zuletzt das Deutschlernen. Daher bieten inzwischen <strong>67 Grundschulen</strong> Arbeitsgemeinschaften „Herkunftssprache Türkisch“ an.
+  </p>
+<p>
+<strong>Wann und wo findet der Unterricht in der AG „Herkunftssprache Türkisch“ statt?</strong>
+</p>
+<p>
+    Der herkunftssprachliche Unterricht beginnt als ein Angebot für Schülerinnen und Schüler der Jahrgangsstufen 1 bis 3 und wird in der Regel in den Jahrgangsstufen 4 bis 6 fortgeführt.
+  </p>Der Unterricht
+  <ul>
+<li>wird von Lehrkräften des Landes Berlin erteilt,
+    </li>
+<li>ergänzt den Regelunterricht,
+    </li>
+<li>ist kostenlos
+    </li>
+<li>und umfasst 2 Wochenstunden.
+    </li>
+</ul>
+<p>
+    Die Teilnahme ist freiwillig. Nach der Anmeldung ist die regelmäßige Teilnahme für die Schülerinnen und Schüler verpflichtend.<br/>
+<strong>Was lernen die Schülerinnen und Schüler?</strong>
+</p>Der Unterricht in der „Herkunftssprache Türkisch“ wird an die mündlichen und schriftlichen Sprachfähigkeiten der Kinder in Türkisch anknüpfen und diese systematisch ausbauen. Es gibt einen Lehrplan mit fünf Schwerpunktthemen:
+  <ul>
+<li>„Meine Familie und ich“,
+    </li>
+<li>„Die Schule und meine Wohnumgebung“,
+    </li>
+<li>„Die Türkei“,
+    </li>
+<li>„Das Jahr in der Natur“,
+    </li>
+<li>„Feste und Feiern“.
+    </li>
+</ul>
+<p>
+    Die Schülerinnen und Schüler lernen durch viele sprachliche Anregungen und Aktivitäten (besser) Türkisch zu sprechen und zu erzählen, Texte zu lesen und eigene kurze Texte zu verschiedenen Anlässen zu schreiben.
+  </p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild float"> <div class="html5-figure image main-image imagealignleft type-teaserhochkant" style="">
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/2019_hsu_tuerkisch.pdf" title="AG Herkunftssprache Türkisch"> <img alt="Link zu: AG Herkunftssprache Türkisch" loading="lazy" src="/converjon/?ts=1532430131&amp;width=166&amp;height=221&amp;url=https%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Funterricht%2Ffaecher-rahmenlehrplaene%2Fsprachen%2Fcrop__425.25_567_18_1___4b4f1432dddbd147dac89a0283c88a97_cover-flyer-tuerkisch.jpg%3Fts%3D1532430131.jpg"/>
+</a>
+<div class="caption">
+<span class="copyright">Bild: SenBJF</span>
+</div>
+</div>
+<div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<p>
+<strong>Herkunftssprachlicher Unterricht Türkisch an Berliner Grundschulen</strong>
+</p>
+<p>
+    In diesem Flyer finden Sie als Eltern alle Informationen zum AG-Angebot “Herkunftsprachlicher Unterricht in Türkisch” und Sie können Ihr Kind damit auch direkt für den Unterricht anmelden.
+  </p>
+<ul>
+<li>
+<a href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/2019_hsu_tuerkisch.pdf">Herkunftssprachlicher Unterricht Türkisch an Berliner Grundschulen</a> (Flyer)
+    </li>
+</ul>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-header header">
+<h3 class="title" id="headline_1_9">Herkunftssprachlicher Unterricht Arabisch an Berliner Grundschulen</h3> </div>
+<div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<p>
+    Gute Kenntnisse der deutschen Sprache und die Beherrschung der Herkunftssprache sind wichtige Grundlagen für erfolgreiches Lernen und eine aussichtsreiche Schullaufbahn. Mit dem Ziel, die Mehrsprachigkeit zu fördern, bieten zurzeit sechs Grundschulen herkunftssprachlichen Unterricht in Arabisch an.
+  </p>
+<p>
+    Dieses Angebot knüpft an die mündlichen und schriftlichen Sprachfähigkeiten der Kinder in Arabisch an und baut diese systematisch aus. Sie lernen durch viele sprachliche Anregungen und Aktivitäten Arabisch zu sprechen, Texte zu lesen und eigene kurze Texte zu verfassen.
+  </p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-section body">
+<div class="text textalignleft">
+<div class="textile">
+<p>
+    Der herkunftssprachliche Unterricht Arabisch ist ein Angebot für die Jahrgangsstufen 1 bis 6. Er umfasst 2 Wochenstunden, ist kostenlos, ergänzt den Regelunterricht und wird von Berliner Lehrkräften erteilt. Die Teilnahme ist freiwillig, aber nach der Anmeldung verpflichtend.
+  </p>
+<p>
+    Im Schuljahr 2018/19 bieten die folgenden Grundschulen herkunftssprachlichen Unterricht Arabisch an:
+  </p>
+<ul>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/Schulportrait.aspx?IDSchulzweig=18865">Wedding-Grundschule</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/Schulportrait.aspx?IDSchulzweig=19072">Schule am Fliederbusch</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/Schulportrait.aspx?IDSchulzweig=19264">Erika-Mann-Grundschule</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/Schulportrait.aspx?IDSchulzweig=18872">Carl-Bolle-Schule</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/Schulportrait.aspx?IDSchulzweig=19432">Löwenzahn-Schule</a>
+</li>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/Schulportrait.aspx?IDSchulzweig=19012">Silberstein-Grundschule</a>
+</li>
+</ul>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+</div>
+</div>
+</div>
+<!-- INCLUDE BEGIN: Infocolumn -->
+<div class="span3 column-right html5-aside" role="complementary">
+<h2 class="aural">Es folgen die Inhalte der rechten Seitenspalte</h2>
+<div class="html5-section content-marginal">
+<!-- FLEX BEGIN: Contact -->
+<div class="html5-section modul-contact block boxmerge">
+<div class="html5-header header">
+<h2 class="title">Senatsverwaltung für Bildung, Jugend und Familie</h2> </div>
+<div class="html5-section body">
+<div class="textile">
+<p>
+    Bernhard-Weiß-Str. 6<br/>
+    10178 Berlin<br/>
+<a class=" extern" href="http://osm.org/go/0MbFjTwj?m=" target="_blank" title=" (Öffnet in neuem Fenster)">Stadtplan</a>
+</p>
+<p>
+    Telefon: <a href="tel+4930902275050">+49 30 90227-5050</a><br/>
+<a href="mailto:post@senbjf.berlin.de">post@senbjf.berlin.de</a>
+</p>
+<p>
+<a href="/sen/bjf/service/ihre-ansprechpartner/">Ihre Ansprechpartner</a>
+</p>
+</div>
+</div>
+</div>
+<!-- FLEX END: Contact -->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-section body">
+<div class="text textalignleft">
+<div class="textile">
+<p>
+<a href="https://twitter.com/senbjf" target="_blank" title="Twitter SenBJF (Öffnet in neuem Fenster)"><i aria-label="Twitter SenBJF - öffnet in neuem Fenster" class="ic-fa-twitter xlarge" title="Twitter SenBJF - öffnet in neuem Fenster"><!-- icon --></i></a>  <a href="https://www.instagram.com/senbildjugfam" target="_blank" title="Instagram SenBJF (Öffnet in neuem Fenster)"><i aria-label="Instagram SenBJF - öffnet in neuem Fenster" class="ic-fa-instagram xlarge" title="Instagram SenBJF - öffnet in neuem Fenster"><!-- icon --></i></a>  <a href="https://www.facebook.com/senbildjugfam/" target="_blank" title="Facebook SenBJF (Öffnet in neuem Fenster)"><i aria-label="Facebook SenBJF - öffnet in neuem Fenster" class="ic-fa-facebook xlarge" title="Facebook SenBJF - öffnet in neuem Fenster"><!-- icon --></i></a>  <a href="https://www.youtube.com/senbjf" target="_blank" title="Youtube SenBJF (Öffnet in neuem Fenster)"><i aria-label="Youtube SenBJF - öffnet in neuem Fenster" class="ic-fa-youtube xlarge" title="Youtube SenBJF - öffnet in neuem Fenster"><!-- icon --></i></a><br/>
+<a href="/sen/bjf/ueber-uns/audit-berufundfamilie/artikel.501812.php"><img alt="Beruf und Familie" class="misc-icon" src="/i9f/v4/css/images/misc/audit.svg" title="Beruf und Familie"/></a>
+</p>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild"> <div class="html5-header header">
+<h3 class="title" id="headline_8_0">Mehr Infos</h3> </div>
+<div class="html5-section body">
+<div class="text ">
+<div class="textile">
+<ul>
+<li>
+<a href="/sen/bildung/schule/berliner-schulen/schulverzeichnis/">Sprachenangebote im Schulverzeichnis finden</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="/sen/bildung/schule/besondere-schulangebote/staatliche-europaschule/">Staatliche Europaschule Berlin</a>
+</li>
+</ul>
+</div> </div>
+</div>
+</div>
+<!--FLEX END: Text/Bild-->
+</div>
+</div>
+<!-- INCLUDE END: Infocolumn -->
+</div>
+<!--TEMPLATE END: overview-->
+<!--    container-wrapper + container + row + span12 -->
+<div class="row">
+<div class="span12">
+<div class="html5-footer content-footer" role="contentinfo">
+<!-- NAVIGATION BEGIN: footer -->
+<div class="html5-nav">
+<ul class="nav">
+<li><a class="ic-fa-impressum" href="/sen/bjf/service/impressum/">Impressum</a></li>
+<li><a class="ic-fa-mail" href="/sen/bjf/service/ihre-ansprechpartner/">Ansprechpartner</a></li>
+<li><a class="ic-fa-lock" href="/sen/bjf/datenschutzerklaerung.703487.php">Datenschutz</a></li>
+<li><a class="ic-fa-access" href="/sen/bjf/barrierefreiheitserklaerung.904428.php">Digitale Barrierefreiheit</a></li>
+<li class="right"><a class="ic-fa-print" href="javascript:window.print();">Druckversion</a></li>
+<li class="right"><a class="ic-fa-totop" href="#top">zum Seitenanfang</a></li>
+</ul>
+</div>
+<!-- NAVIGATION END: footer -->
+<div class="section_splitter hidden-desktop hidden-tablet"></div>
+<div class="html5-nav meta-navi hidden-desktop hidden-tablet">
+<ul class="nav">
+<li class="odd pos0"><a href="/sen/bjf/a-bis-z/">A bis Z</a></li><li class="even pos1"><a href="/sen/bjf/service/presse/">Presse</a></li><li class="odd pos2"><a href="/sen/bjf/service/newsletter/">Newsletter</a></li><li class="even pos3"><a class="ic-fa-twitter" href="https://twitter.com/senbjf" target="_blank" title="Twitter SenBJF (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Twitter SenBJF</a></li><li class="odd pos4"><a class="ic-fa-instagram" href="https://www.instagram.com/senbildjugfam" target="_blank" title="Instagram SenBJF (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Instagram SenBJF</a></li><li class="even pos5"><a class="ic-fa-facebook" href="https://www.facebook.com/senbildjugfam/" target="_blank" title="Facebook SenBJF (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Facebook SenBJF</a></li><li class="odd pos6"><a class="ic-fa-youtube" href="https://www.youtube.com/senbjf" target="_blank" title="Youtube SenBJF (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Youtube SenBJF</a></li><!-- FLEX BEGIN: Metalangselector -->
+<li>
+<a href="/sen/bjf/leichte-sprache/artikel.895402.de-plain.php" hreflang="de" title="Link zu einer anderen Sprache: Leichte Sprache"> <img alt="Link zu einer anderen Sprache: Leichte Sprache" class="nosocials" src="//www.berlin.de/i9f/v4/css/images/misc/leichtesprache.svg"/>
+    Leichte Sprache</a></li>
+<!-- FLEX END: Metalangselector -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- MOBILE NAVIGATION START -->
+<div class="navigation-mobile hidden-desktop hidden-tablet" role="navigation">
+<p class="navSkip">Navigiere direkt zu:</p>
+<ul class="navSkip">
+<li><a href="#mobile-nav-toggle" id="hiddenNavToggler" tabindex="1">Navigation <!-- append text per css here --></a></li>
+</ul>
+<button aria-labelledby="hiddenNavToggler" class="btn nav-toggle" id="mobile-nav-toggle" title="Mobile Navigation">
+<span class="aural">Öffnet und schließt die mobile Navigation</span>
+<span class="icon-menu">
+<span class="line line-1"></span>
+<span class="line line-2"></span>
+<span class="line line-3"></span>
+</span>
+</button>
+<div class="wrapper">
+<div class="sticky-container-head">
+<div class="offcanvas-search">
+<form action="/sen/bildung/suche.php" class="institutionssuche institutionssuche-mobile" method="get">
+<div class="control-group searchform mobile" role="search">
+<label class="aural" id="aural_institutionssuche_mobile">
+            Suche auf der Internetseite "Senatsverwaltung für Bildung, Jugend und Familie":        </label>
+<input aria-labelledby="aural_institutionssuche_mobile" maxlength="255" name="q" placeholder="Suchbegriff" title='Hier können Sie einen Text eingeben, um die Internetseite "Senatsverwaltung für Bildung, Jugend und Familie" zu durchsuchen' type="search"/>
+<button class="btn global-search-submit" type="submit">
+<span class="hidden-phone">Suchen</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+<div class="nav-container">
+<div class="nav-container-body">
+<ul class="nav-menu menu">
+<li class="menu-item has-dropdown ">
+<a class="menu-link" href="#!">
+                                Senatsverwaltung für Bildung, Jugend und Familie                                </a>
+<!-- HIER 0 -->
+<ul class="nav-dropdown menu ">
+<li class="menu-item">
+<a class="menu-link" href="/sen/bjf/" title='Link zu: Startseite von "Senatsverwaltung für Bildung, Jugend und Familie"'>Senatsverwaltung für Bildung, Jugend und Familie: Startseite</a> <ul class="nav"><li class=" menu-item">
+<a class=" menu-link" href="/sen/bildung/schule/">Schule</a> </li>
+<li class=" menu-item active">
+<a class=" menu-link" href="/sen/bildung/unterricht/">Unterricht</a> </li>
+<li class=" menu-item">
+<a class=" menu-link" href="/sen/bildung/schule-und-beruf/">Schule und Beruf</a> </li>
+<li class=" menu-item">
+<a class=" menu-link" href="/sen/bildung/fachkraefte/">Fachkräfte</a> </li>
+<li class=" menu-item">
+<a class=" menu-link" href="/sen/bildung/unterstuetzung/">Unterstützung</a> </li>
+<li class=" menu-item">
+<a class=" menu-link" href="/sen/bildung/lebenslanges-lernen/">Lebenslanges Lernen</a> </li>
+<li class=" menu-item">
+<a class=" menu-link" href="/sen/bildung/politik/bildungspolitik/">Politik</a> </li></ul> </li>
+</ul>
+<!-- HIER 1 -->
+<ul class="sub crumbs1">
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/">Unterricht</a>
+<ul class="sub crumbs2">
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/">Fächer / Rahmen­lehrpläne</a><ul class="sub level-1">
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/rahmenlehrplaene/">Rahmenlehrpläne</a>
+</li>
+<li class="menu-item has-no-dropdown">
+<a class="menu-link active" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/sprachen/">Sprachen</a>
+</li>
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/ethik/">Ethik</a>
+</li>
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/religion-und-weltanschauung/">Religion und Weltanschauung</a>
+</li>
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/schulsport/">Schulsport</a>
+</li>
+<li class="menu-item has-no-dropdown">
+<a class="menu-link" href="/sen/bildung/unterricht/faecher-rahmenlehrplaene/faecheruebergreifende-themen/">Fächer­übergreifende Themen</a>
+</li>
+</ul><!-- class="sub level-1" -->
+</li>
+</ul><!-- crumbs1 -->
+</li>
+</ul><!-- crumbs2 -->
+<!-- HIER 2 -->
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- MOBILE NAVIGATION END -->
+<div class="container-wrapper container-footer">
+<div class="container">
+<div class="row">
+<div class="span12">
+<!-- template start: portal-footer -->
+<div class="html5-footer portal-footer">
+<div>
+<div class="textile">
+<p>
+    © Senatsverwaltung für Bildung, Jugend und Familie
+  </p>
+</div> <p>
+            Berlin.de ist ein Angebot des Landes Berlin und der BerlinOnline Stadtportal GmbH &amp; Co. KG.            Weitere Informationen hierzu finden Sie im <a href="https://www.berlin.de/wir-ueber-uns-be/impressum/">Impressum</a>.        </p>
+</div>
+<div class="html5-nav">
+<ul class="nav">
+<li>Weitere Metropol-Webseiten:</li>
+<li><a href="https://www.hamburg.de/">Hamburg</a></li>
+<li><a href="https://www.muenchen.de/">München</a></li>
+<li><a href="https://www.koeln.de/">Köln</a></li>
+</ul>
+</div><!-- /html5-nav -->
+</div><!-- /html5-footer -->
+<!-- /template end: portal-footer -->
+</div>
+</div>
+</div>
+</div>
+<script src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1605105375"></script>
+</div><!-- /bo-page-wrapper -->
+<!-- Zaehlpixel -->
+<div id="cp">
+<script>/*<![CDATA[*/
+if (typeof(DartIvwKategorie) == "undefined") DartIvwKategorie="beberlin";
+
+/*]]>*/</script>
+</div>
+<!-- /Zaehlpixel -->
+</body>
+</html>

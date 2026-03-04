@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="de" name="language"/>
+<meta content="notranslate" name="google"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0" name="viewport"/>
+<title>Wörterbuch - Online-Übersetzung - bab.la</title>
+<meta content="bab.la Wörterbuch: Suche nach Millionen von Übersetzungen im kostenlosen Online-Wörterbuch in vielen unterschiedlichen Sprachen." name="description"/>
+<meta content="Wörterbuch, Übersetzung, Online-Wörterbuch" name="keywords"/> <meta content="index,follow" name="robots"/> <link href="https://de.bab.la/woerterbuch/" rel="canonical"/> <link href="https://www.babla.co.id/kamus/" hreflang="id" rel="alternate"/>
+<link href="https://www.babla.cn/词典/" hreflang="zh-Hans" rel="alternate"/>
+<link href="https://cs.bab.la/slovnik/" hreflang="cs" rel="alternate"/>
+<link href="https://da.bab.la/ordbog/" hreflang="da" rel="alternate"/>
+<link href="https://www.babla.gr/λεξικο/" hreflang="el" rel="alternate"/>
+<link href="https://en.bab.la/dictionary/" hreflang="en" rel="alternate"/>
+<link href="https://es.bab.la/diccionario/" hreflang="es" rel="alternate"/>
+<link href="https://fr.bab.la/dictionnaire/" hreflang="fr" rel="alternate"/>
+<link href="https://it.bab.la/dizionario/" hreflang="it" rel="alternate"/>
+<link href="https://ja.bab.la/辞書/" hreflang="ja" rel="alternate"/>
+<link href="https://www.babla.kr/사전/" hreflang="ko" rel="alternate"/>
+<link href="https://hu.bab.la/szótár/" hreflang="hu" rel="alternate"/>
+<link href="https://nl.bab.la/woordenboek/" hreflang="nl" rel="alternate"/>
+<link href="https://www.babla.no/ordbok/" hreflang="no" rel="alternate"/>
+<link href="https://pl.bab.la/slownik/" hreflang="pl" rel="alternate"/>
+<link href="https://pt.bab.la/dicionario/" hreflang="pt" rel="alternate"/>
+<link href="https://ro.bab.la/dicționar/" hreflang="ro" rel="alternate"/>
+<link href="https://www.babla.ru/словарь/" hreflang="ru" rel="alternate"/>
+<link href="https://fi.bab.la/sanakirja/" hreflang="fi" rel="alternate"/>
+<link href="https://sv.bab.la/lexikon/" hreflang="sv" rel="alternate"/>
+<link href="https://www.babla.co.th/dictionary/" hreflang="th" rel="alternate"/>
+<link href="https://tr.bab.la/sozluk/" hreflang="tr" rel="alternate"/>
+<link href="https://www.babla.vn/tu-dien/" hreflang="vi" rel="alternate"/>
+<script>
+        var iaw = iaw || {};
+        iaw.que = iaw.que || [];
+        iaw.cmd = iaw.cmd || [];
+    </script>
+<!-- OneTrust Using TCF with Prebid  -->
+<script charset="UTF-8" src="https://cdn.cookielaw.org/consent/tcf.stub.js" type="text/javascript"></script>
+<!-- OneTrust Cookies Consent Notice start for bab.la -->
+<script src="https://cdn.cookielaw.org/consent/a164f2c2-ed5e-446a-bdcc-348b8cc96441/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="a164f2c2-ed5e-446a-bdcc-348b8cc96441" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+        function OptanonWrapper() { }
+    </script>
+<!-- OneTrust Cookies Consent Notice end for bab.la -->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<link href="//static.bab.la/" rel="preconnect"/>
+<link href="https://securepubads.g.doubleclick.net" rel="preconnect"/>
+<link href="https://c2shb.ssp.yahoo.com" rel="preconnect"/>
+<link href="https://ib.adnxs.com" rel="preconnect"/>
+<link href="https://bidder.criteo.com" rel="preconnect"/>
+<link href="https://as-sec.casalemedia.com" rel="preconnect"/>
+<link href="https://idm-d.openx.net" rel="preconnect"/>
+<link href="https://hbopenbid.pubmatic.com" rel="preconnect"/>
+<link href="https://fastlane.rubiconproject.com" rel="preconnect"/>
+<link href="https://prg.smartadserver.com" rel="preconnect"/>
+<link href="https://a.teads.tv" rel="preconnect"/>
+<link href="https://tlx.3lift.com" rel="preconnect"/>
+<link href="https://ad.yieldlab.net" rel="preconnect"/>
+<script>
+  iaw.que.push(function() {
+
+        iaw.setPageLayout('default');
+        iaw.setPageCriteria({'l': 'de', 'pc': 'browse', 'pt': 'home', 'dc': 'enfi', 'sfr': 'lab_dict_enfi'});
+        iaw.setPageLabels(["wprod"]);
+        iaw.setCountry('FI');
+        iaw.useEuConsentInfo();  iaw.enableAdSlotRefresher();
+
+  if(typeof ga != "undefined") {
+    iaw.setGA(ga);
+  }
+  //iaw.enableLogs();
+});
+</script>
+<script async="" src="//static.bab.la/js/vendor/iaw-babla.min.js?v=1595858799"></script><link href="//static.bab.la/css/basic.css?v=1595858799" rel="stylesheet"/>
+<link as="style" href="//static.bab.la/css/extra.css?v=1595858799" onload="this.rel='stylesheet'" rel="preload"/>
+<noscript><link href="//static.bab.la/css/extra.css?v=1595858799" rel="stylesheet"/></noscript>
+<script>
+        !function(n){"use strict";n.loadCSS||(n.loadCSS=function(){});var t,o=loadCSS.relpreload={};o.support=function(){var e;try{e=n.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),o.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},o.poly=function(){if(!o.support())for(var t=n.document.getElementsByTagName("link"),e=0;e<t.length;e++){var a=t[e];"preload"!==a.rel||"style"!==a.getAttribute("as")||a.getAttribute("data-loadcss")||(a.setAttribute("data-loadcss",!0),o.bindMediaToggle(a))}},o.support()||(o.poly(),t=n.setInterval(o.poly,500),n.addEventListener?n.addEventListener("load",function(){o.poly(),n.clearInterval(t)}):n.attachEvent&&n.attachEvent("onload",function(){o.poly(),n.clearInterval(t)})),"undefined"!=typeof exports?exports.loadCSS=loadCSS:n.loadCSS=loadCSS}("undefined"!=typeof global?global:this);    </script>
+<link href="//static.bab.la/img/languages/apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-60x60.png" rel="apple-touch-icon-precomposed" sizes="60x60"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76"/>
+<link href="//static.bab.la/img/languages/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+<link href="//static.bab.la/img/languages/favicon-196x196.png" rel="icon" sizes="196x196" type="image/png"/>
+<link href="//static.bab.la/img/languages/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="//static.bab.la/img/languages/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="//static.bab.la/img/languages/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="//static.bab.la/img/languages/favicon-128.png" rel="icon" sizes="128x128" type="image/png"/>
+<meta content="bab.la" name="application-name"/>
+<meta content="#FFFFFF" name="msapplication-TileColor"/>
+<meta content="//static.bab.la/img/languages/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="//static.bab.la/img/languages/mstile-70x70.png" name="msapplication-square70x70logo"/>
+<meta content="//static.bab.la/img/languages/mstile-150x150.png" name="msapplication-square150x150logo"/>
+<meta content="//static.bab.la/img/languages/mstile-310x150.png" name="msapplication-wide310x150logo"/>
+<meta content="//static.bab.la/img/languages/mstile-310x310.png" name="msapplication-square310x310logo"/>
+<script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga("create", "UA-149407836-1", "auto");
+        ga("set", "anonymizeIp", true);
+        ga("require", "displayfeatures");
+        ga("set", "dimension1", "languages");
+        ga("set", "dimension2", "dictionary");
+                ga("send", "pageview");
+        var response_code = "200";
+        if(response_code.startsWith("4") || response_code.startsWith("5"))
+            ga("send", "event", "Error", response_code, window.location.href); 
+    </script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<!-- Pubstack Tag -->
+<script async="" src="https://boot.pbstck.com/v1/tag/f18c027f-eefb-48c2-b89a-f013e1828e06"></script>
+<!-- Blockthrough -->
+<script>
+        var btScript = document.createElement('script');
+        btScript.src = '//idmgroup-com.videoplayerhub.com/videoloader.js';
+        document.head.appendChild(btScript);
+    </script>
+</head>
+<body class="languages"><a id="top" style="float:left;width:0;height:0;overflow:hidden;"></a><aside class="site-switch-toggle">
+<a class="navbar-brand" href="#" role="button"><span class="babla-logo">bab.la</span><span class="material-icons">arrow_drop_down</span></a>
+</aside>
+<nav class="navbar">
+<div class="navbar-header">
+<a class="navbar-brand" href="/"><span class="babla-logo">bab.la - Online dictionaries, vocabulary, conjugation, grammar</span></a>
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#babla-navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="babla-navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a href="/ubersetzer/" onclick="babTE('MenuLinks', 'translator', 'de');">Übersetzer</a></li>
+<li class="active"><a href="/woerterbuch/" onclick="babTE('MenuLinks', 'dictionary', 'de');">Wörterbuch</a></li>
+<li><a href="/konjugieren/" onclick="babTE('MenuLinks', 'conjugation', 'de');">Konjugieren</a></li>
+<li><a href="/phrasen/" onclick="babTE('MenuLinks', 'phrases', 'de');">Phrasen</a></li>
+<li><a href="/spiele/" onclick="babTE('MenuLinks', 'games', 'de');">Spiele</a></li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Mehr von bab.la <span class="material-icons">arrow_drop_down</span></a>
+<ul class="dropdown-menu">
+<li><a href="/sprachtest/" onclick="babTE('MenuLinks', 'quiz', 'de');">Tests</a></li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav site-switch-nav">
+<li class="languages active"><a href="/" onclick="babTE('MenuLinks', 'languages', 'de');">Wörterbücher</a></li>
+<li class="magazine"><a href="/living-abroad/" onclick="babTE('MenuLinks', 'magazine', 'de');">Living Abroad</a></li>
+<li class="corporate"><a href="/unternehmen/" onclick="babTE('MenuLinks', 'corporate', 'de');">Über uns</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<!-- li><a href='#'>Login</a></li -->
+<li class="language-setting dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+<span class="material-icons visual-label">public</span>
+<span class="mobile-label">Sprache der Webseite</span>
+<span class="material-icons">arrow_drop_down</span>
+</a>
+<ul class="dropdown-menu">
+<li class="dropdown-header">Sprache der Webseite</li>
+<li>
+<a href="https://www.babla.co.id/kamus/" onclick="babTE('MenuLinks', ' id', 'de');">
+<span class="flag id"> id</span>
+                                    Bahasa Indonesia                                </a>
+</li>
+<li>
+<a href="https://www.babla.cn/词典/" onclick="babTE('MenuLinks', ' cn', 'de');">
+<span class="flag cn"> cn</span>
+                                    汉语                                </a>
+</li>
+<li>
+<a href="https://cs.bab.la/slovnik/" onclick="babTE('MenuLinks', ' cs', 'de');">
+<span class="flag cz"> cs</span>
+                                    Česky                                </a>
+</li>
+<li>
+<a href="https://da.bab.la/ordbog/" onclick="babTE('MenuLinks', ' da', 'de');">
+<span class="flag dk"> da</span>
+                                    Dansk                                </a>
+</li>
+<li class="active">
+<a href="javascript:location.hostname='de.bab.la';" onclick="babTE('MenuLinks', 'de', 'de');">
+<span class="flag de">de</span>
+                                    Deutsch                                </a>
+</li>
+<li>
+<a href="https://www.babla.gr/λεξικο/" onclick="babTE('MenuLinks', ' el', 'de');">
+<span class="flag gr"> el</span>
+                                    Ελληνικά                                </a>
+</li>
+<li>
+<a href="https://en.bab.la/dictionary/" onclick="babTE('MenuLinks', ' en', 'de');">
+<span class="flag uk-us"> en</span>
+                                    English                                </a>
+</li>
+<li>
+<a href="https://es.bab.la/diccionario/" onclick="babTE('MenuLinks', ' es', 'de');">
+<span class="flag es"> es</span>
+                                    Español                                </a>
+</li>
+<li>
+<a href="https://fr.bab.la/dictionnaire/" onclick="babTE('MenuLinks', ' fr', 'de');">
+<span class="flag fr"> fr</span>
+                                    Français                                </a>
+</li>
+<li>
+<a href="https://it.bab.la/dizionario/" onclick="babTE('MenuLinks', ' it', 'de');">
+<span class="flag it"> it</span>
+                                    Italiano                                </a>
+</li>
+<li>
+<a href="https://ja.bab.la/辞書/" onclick="babTE('MenuLinks', ' ja', 'de');">
+<span class="flag jp"> ja</span>
+                                    日本語                                </a>
+</li>
+<li>
+<a href="https://www.babla.kr/사전/" onclick="babTE('MenuLinks', ' ko', 'de');">
+<span class="flag kr"> ko</span>
+                                    한국어                                </a>
+</li>
+<li>
+<a href="https://hu.bab.la/szótár/" onclick="babTE('MenuLinks', ' hu', 'de');">
+<span class="flag hu"> hu</span>
+                                    Magyar                                </a>
+</li>
+<li>
+<a href="https://nl.bab.la/woordenboek/" onclick="babTE('MenuLinks', ' nl', 'de');">
+<span class="flag nl"> nl</span>
+                                    Nederlands                                </a>
+</li>
+<li>
+<a href="https://www.babla.no/ordbok/" onclick="babTE('MenuLinks', ' no', 'de');">
+<span class="flag no"> no</span>
+                                    Norsk                                </a>
+</li>
+<li>
+<a href="https://pl.bab.la/slownik/" onclick="babTE('MenuLinks', ' pl', 'de');">
+<span class="flag pl"> pl</span>
+                                    Polski                                </a>
+</li>
+<li>
+<a href="https://pt.bab.la/dicionario/" onclick="babTE('MenuLinks', ' pt', 'de');">
+<span class="flag pt-br"> pt</span>
+                                    Português                                </a>
+</li>
+<li>
+<a href="https://ro.bab.la/dicționar/" onclick="babTE('MenuLinks', ' ro', 'de');">
+<span class="flag ro"> ro</span>
+                                    Română                                </a>
+</li>
+<li>
+<a href="https://www.babla.ru/словарь/" onclick="babTE('MenuLinks', ' ru', 'de');">
+<span class="flag ru"> ru</span>
+                                    Русский                                </a>
+</li>
+<li>
+<a href="https://fi.bab.la/sanakirja/" onclick="babTE('MenuLinks', ' fi', 'de');">
+<span class="flag fi"> fi</span>
+                                    Suomi                                </a>
+</li>
+<li>
+<a href="https://sv.bab.la/lexikon/" onclick="babTE('MenuLinks', ' sv', 'de');">
+<span class="flag se"> sv</span>
+                                    Svenska                                </a>
+</li>
+<li>
+<a href="https://www.babla.co.th/dictionary/" onclick="babTE('MenuLinks', ' th', 'de');">
+<span class="flag th"> th</span>
+                                    ไทย                                </a>
+</li>
+<li>
+<a href="https://tr.bab.la/sozluk/" onclick="babTE('MenuLinks', ' tr', 'de');">
+<span class="flag tr"> tr</span>
+                                    Türkçe                                </a>
+</li>
+<li>
+<a href="https://www.babla.vn/tu-dien/" onclick="babTE('MenuLinks', ' vi', 'de');">
+<span class="flag vn"> vi</span>
+                                    Tiếng Việt                                </a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<main class="main">
+<i id="scrollhelper"></i>
+<aside class="action-wrapper" id="fixed2">
+<div class="logo-flash" onclick="window.location.href='/'">Search dictionary</div>
+<div class="keyboard-wrapper carousel" data-ride="carousel">
+<div class="container-fluid carousel-inner">
+<div class="babla-extra-letter-set item active">
+<div class="babla-extra-letter-set-line">
+<a class="keyboardSwitch" href="#" title="Finnisch"><span class="flag fi"></span> Finnisch</a>
+<a class="keyboard-char" href="#" rel="å">å</a>
+<a class="keyboard-char" href="#" rel="ä">ä</a>
+<a class="keyboard-char" href="#" rel="ö">ö</a>
+<a class="keyboard-char" href="#" rel="š">š</a>
+</div>
+</div>
+</div>
+</div>
+<div class="action-panel">
+<div class="container-fluid">
+<div class="action-panel-form">
+<div class="action-panel-form-item action-panel-form-item-language">
+<a class="action-panel-form-language-switch action-links-toggle" href="#" role="button">
+<span class="material-icons">expand_more</span>
+<span class="flag uk">Englisch</span>
+<span class="flag fi">Finnisch</span>
+</a>
+</div>
+<div class="action-panel-form-item action-panel-form-item-input" id="prefetch">
+<span class="form-prefix"><span class="material-icons">search</span></span>
+<label class="sr-only" for="bablasearch">Übersetzen</label>
+<input autocomplete="off" autofocus="" class="action-search typeahead" id="bablasearch" onmouseover="this.select();this.focus()" placeholder="Englisch oder Finnisch" type="text" value=""/>
+<a class="action-panel-form-clear" href="#"><span class="material-icons">cancel</span></a>
+<input id="babDict" type="hidden" value="enfi"/><input id="babSearchUrl" type="hidden" value="https://en.bab.la/dictionary/english-finnish/"/>
+</div>
+<div class="action-panel-form-item action-panel-form-item-keyboard">
+<a class="action-panel-form-keyboard" href="#"><span class="material-icons">keyboard</span></a>
+</div>
+<div class="action-panel-form-item action-panel-form-item-submit">
+<a class="action-panel-form-submit" href="javascript:babSearch()">Übersetzen<span class="material-icons">arrow_forward</span></a>
+</div>
+</div>
+</div>
+</div>
+</aside>
+<aside class="action-links">
+<div class="container-fluid">
+<div class="dict-switch-help">
+<div class="h3">Wörterbuch wechseln</div>
+<p>Schon gewusst? Alle unsere Wörterbücher sind bidirektional, das heißt du kannst Wörter in beiden Sprachen gleichzeitig nachschlagen.</p>
+</div>
+<nav class="dict-select-wrapper">
+<div class="dict-select-column">
+<div class="dict-select-portion-header">Englisch Wörterbücher</div>
+<ul>
+<li onclick="location.href='https://en.bab.la/dictionary/english-finnish/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-finnish/">
+<span class="flag uk">Englisch</span>
+<span class="flag fi">Finnisch</span>
+                Englisch – Finnisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/englisch-deutsch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/englisch-deutsch/">
+<span class="flag uk">Englisch</span>
+<span class="flag de">Deutsch</span>
+                Englisch – Deutsch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-arabic/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-arabic/">
+<span class="flag uk">Englisch</span>
+<span class="flag eg">Arabisch</span>
+                Englisch – Arabisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-chinese/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-chinese/">
+<span class="flag uk">Englisch</span>
+<span class="flag cn">Chinesisch</span>
+                Englisch – Chinesisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-danish/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-danish/">
+<span class="flag uk">Englisch</span>
+<span class="flag dk">Dänisch</span>
+                Englisch – Dänisch    </a>
+</li> <li class="collapse" id="collapseDictsBlock1">
+<ul>
+<li onclick="location.href='https://en.bab.la/dictionary/english-french/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-french/">
+<span class="flag uk">Englisch</span>
+<span class="flag fr">Französisch</span>
+                Englisch – Französisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-greek/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-greek/">
+<span class="flag uk">Englisch</span>
+<span class="flag gr">Griechisch</span>
+                Englisch – Griechisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-hindi/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-hindi/">
+<span class="flag uk">Englisch</span>
+<span class="flag in">Hindi</span>
+                Englisch – Hindi    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-hungarian/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-hungarian/">
+<span class="flag uk">Englisch</span>
+<span class="flag hu">Ungarisch</span>
+                Englisch – Ungarisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-indonesian/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-indonesian/">
+<span class="flag uk">Englisch</span>
+<span class="flag id">Indonesisch</span>
+                Englisch – Indonesisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-italian/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-italian/">
+<span class="flag uk">Englisch</span>
+<span class="flag it">Italienisch</span>
+                Englisch – Italienisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-japanese/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-japanese/">
+<span class="flag uk">Englisch</span>
+<span class="flag jp">Japanisch</span>
+                Englisch – Japanisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-korean/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-korean/">
+<span class="flag uk">Englisch</span>
+<span class="flag kr">Koreanisch</span>
+                Englisch – Koreanisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-dutch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-dutch/">
+<span class="flag uk">Englisch</span>
+<span class="flag nl">Niederländisch</span>
+                Englisch – Niederländisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-norwegian/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-norwegian/">
+<span class="flag uk">Englisch</span>
+<span class="flag no">Norwegisch</span>
+                Englisch – Norwegisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-polish/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-polish/">
+<span class="flag uk">Englisch</span>
+<span class="flag pl">Polnisch</span>
+                Englisch – Polnisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-portuguese/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-portuguese/">
+<span class="flag uk">Englisch</span>
+<span class="flag pt-br">Portugiesisch</span>
+                Englisch – Portugiesisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-romanian/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-romanian/">
+<span class="flag uk">Englisch</span>
+<span class="flag ro">Rumänisch</span>
+                Englisch – Rumänisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-russian/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-russian/">
+<span class="flag uk">Englisch</span>
+<span class="flag ru">Russisch</span>
+                Englisch – Russisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-spanish/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-spanish/">
+<span class="flag uk">Englisch</span>
+<span class="flag es">Spanisch</span>
+                Englisch – Spanisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-swedish/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-swedish/">
+<span class="flag uk">Englisch</span>
+<span class="flag se">Schwedisch</span>
+                Englisch – Schwedisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-swahili/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-swahili/">
+<span class="flag uk">Englisch</span>
+<span class="flag ke">Swahili</span>
+                Englisch – Swahili    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-thai/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-thai/">
+<span class="flag uk">Englisch</span>
+<span class="flag th">Thai</span>
+                Englisch – Thai    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-vietnamese/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-vietnamese/">
+<span class="flag uk">Englisch</span>
+<span class="flag vn">Vietnamesisch</span>
+                Englisch – Vietnamesisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-czech/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-czech/">
+<span class="flag uk">Englisch</span>
+<span class="flag cz">Tschechisch</span>
+                Englisch – Tschechisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-turkish/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-turkish/">
+<span class="flag uk">Englisch</span>
+<span class="flag tr">Türkisch</span>
+                Englisch – Türkisch    </a>
+</li> <li onclick="location.href='https://en.bab.la/dictionary/english-esperanto/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://en.bab.la/dictionary/english-esperanto/">
+<span class="flag uk">Englisch</span>
+<span class="flag eo">Esperanto</span>
+                Englisch – Esperanto    </a>
+</li> </ul>
+</li>
+<li>
+<a aria-controls="collapseDictsBlock1" aria-expanded="false" class="more collapsed" data-toggle="collapse" href="#collapseDictsBlock1" role="button">
+<span class="material-icons">expand_more</span>
+                                    Weitere Englisch Wörterbücher                                </a>
+</li>
+</ul>
+</div>
+<div class="dict-select-column">
+<div class="dict-select-portion-header">Finnisch Wörterbücher</div>
+<ul>
+<li onclick="location.href='https://fi.bab.la/sanakirja/suomi-englanti/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://fi.bab.la/sanakirja/suomi-englanti/">
+<span class="flag fi">Finnisch</span>
+<span class="flag uk">Englisch</span>
+                Finnisch – Englisch    </a>
+</li> </ul>
+</div>
+<div class="dict-select-column">
+<div class="dict-select-portion-header">Andere Wörterbücher</div>
+<ul>
+<li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-chinesisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-chinesisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag cn">Chinesisch</span>
+                Deutsch – Chinesisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-daenisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-daenisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag dk">Dänisch</span>
+                Deutsch – Dänisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-franzoesisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-franzoesisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag fr">Französisch</span>
+                Deutsch – Französisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-italienisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-italienisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag it">Italienisch</span>
+                Deutsch – Italienisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-niederlaendisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-niederlaendisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag nl">Niederländisch</span>
+                Deutsch – Niederländisch    </a>
+</li> <li class="collapse" id="collapseDictsBlock3">
+<ul>
+<li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-polnisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-polnisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag pl">Polnisch</span>
+                Deutsch – Polnisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-portugiesisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-portugiesisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag pt-br">Portugiesisch</span>
+                Deutsch – Portugiesisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-russisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-russisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag ru">Russisch</span>
+                Deutsch – Russisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-schwedisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-schwedisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag se">Schwedisch</span>
+                Deutsch – Schwedisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-spanisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-spanisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag es">Spanisch</span>
+                Deutsch – Spanisch    </a>
+</li> <li onclick="location.href='https://de.bab.la/woerterbuch/deutsch-tuerkisch/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://de.bab.la/woerterbuch/deutsch-tuerkisch/">
+<span class="flag de">Deutsch</span>
+<span class="flag tr">Türkisch</span>
+                Deutsch – Türkisch    </a>
+</li> <li onclick="location.href='https://it.bab.la/dizionario/italiano-francese/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://it.bab.la/dizionario/italiano-francese/">
+<span class="flag it">Italienisch</span>
+<span class="flag fr">Französisch</span>
+                Italienisch – Französisch    </a>
+</li> <li onclick="location.href='https://it.bab.la/dizionario/italiano-romeno/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://it.bab.la/dizionario/italiano-romeno/">
+<span class="flag it">Italienisch</span>
+<span class="flag ro">Rumänisch</span>
+                Italienisch – Rumänisch    </a>
+</li> <li onclick="location.href='https://es.bab.la/diccionario/espanol-frances/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://es.bab.la/diccionario/espanol-frances/">
+<span class="flag es">Spanisch</span>
+<span class="flag fr">Französisch</span>
+                Spanisch – Französisch    </a>
+</li> <li onclick="location.href='https://es.bab.la/diccionario/espanol-italiano/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://es.bab.la/diccionario/espanol-italiano/">
+<span class="flag es">Spanisch</span>
+<span class="flag it">Italienisch</span>
+                Spanisch – Italienisch    </a>
+</li> <li onclick="location.href='https://es.bab.la/diccionario/espanol-portugues/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://es.bab.la/diccionario/espanol-portugues/">
+<span class="flag es">Spanisch</span>
+<span class="flag pt-br">Portugiesisch</span>
+                Spanisch – Portugiesisch    </a>
+</li> <li onclick="location.href='https://pl.bab.la/slownik/polski-rosyjski/'+$('#bablasearch').val()">
+<a class="action-links-toggle" href="https://pl.bab.la/slownik/polski-rosyjski/">
+<span class="flag pl">Polnisch</span>
+<span class="flag ru">Russisch</span>
+                Polnisch – Russisch    </a>
+</li> </ul>
+</li>
+<li>
+<a aria-controls="collapseDictsBlock3" aria-expanded="false" class="more collapsed" data-toggle="collapse" href="#collapseDictsBlock3" role="button">
+<span class="material-icons">expand_more</span>
+                                    Weitere Englisch Wörterbücher                                </a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</aside> <div class="page">
+<nav class="breadcrumbs-nav">
+<ol class="breadcrumb">
+<li><a href="/">bab.la</a></li>
+<li class="active"><strong> Wörterbuch</strong></li>
+</ol>
+</nav>
+<aside class="info-panel">
+<div class="info-wrapper" id="topslot-container">
+<div id="ad_topslot">
+<script>
+                        iaw.cmd.push(function() {
+                            iaw.display("ad_topslot");
+                        });
+                    </script>
+</div>
+</div>
+</aside>
+<div class="column-wrapper">
+<aside class="column-left" id="fixed-left">
+<div class="info-wrapper">
+<div id="ad_leftslot">
+<script>
+                            iaw.cmd.push(function() {
+                                iaw.display("ad_leftslot");
+                            });
+                        </script>
+</div>
+</div>
+</aside>
+<div class="content-column"><div class="content">
+<div class="container">
+<h1 class="section-label">bab.la Wörterbuch</h1>
+<p>Die bab.la-Online-Wörterbücher sind der ideale Begleiter für deine Sprachlern-Reise. Ob du gerade angefangen hast, eine neue Sprache zu lernen oder ob du Sprachenprofi bist, unsere Wörterbücher erfüllen deine Übersetzungswünsche. Wir wissen, dass es knifflig sein kann, die richtige Übersetzung zu finden. Darum sind unsere Wörterbücher gespickt mit Synonymen, Beispielen und Kontextsätzen, um zu sehen wie Wörter im echten Leben verwendet werden. Die bab.la-Online-Wörterbücher sind eine wesentliche Sprachressource für ein vielsprachiges Leben. Lasse nichts in der Übersetzung verloren gehen - nutze das bab.la-Wörterbuch und finde die beste Übersetzung für jede Gelegenheit. </p>
+</div>
+</div><div class="content">
+<div class="container">
+<h2 class="section-label">Deutsch Online Wörterbücher</h2>
+<nav class="dict-select-wrapper"><div class="dict-select-column"><ul>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-englisch/" title="Deutsch-Englisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/englisch-deutsch/" title="Englisch-Deutsch Wörterbuch"><span class="flag uk">Englisch</span></a>
+<a href="/woerterbuch/deutsch-englisch/" title="Deutsch-Englisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/englisch-deutsch/" title="Englisch-Deutsch Wörterbuch">Englisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-englisch/" title="Deutsch-Englisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-chinesisch/" title="Deutsch-Chinesisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/chinesisch-deutsch/" title="Chinesisch-Deutsch Wörterbuch"><span class="flag cn">Chinesisch</span></a>
+<a href="/woerterbuch/deutsch-chinesisch/" title="Deutsch-Chinesisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/chinesisch-deutsch/" title="Chinesisch-Deutsch Wörterbuch">Chinesisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-chinesisch/" title="Deutsch-Chinesisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-daenisch/" title="Deutsch-Dänisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/daenisch-deutsch/" title="Dänisch-Deutsch Wörterbuch"><span class="flag dk">Dänisch</span></a>
+<a href="/woerterbuch/deutsch-daenisch/" title="Deutsch-Dänisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/daenisch-deutsch/" title="Dänisch-Deutsch Wörterbuch">Dänisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-daenisch/" title="Deutsch-Dänisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-franzoesisch/" title="Deutsch-Französisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/franzoesisch-deutsch/" title="Französisch-Deutsch Wörterbuch"><span class="flag fr">Französisch</span></a>
+<a href="/woerterbuch/deutsch-franzoesisch/" title="Deutsch-Französisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/franzoesisch-deutsch/" title="Französisch-Deutsch Wörterbuch">Französisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-franzoesisch/" title="Deutsch-Französisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-italienisch/" title="Deutsch-Italienisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/italienisch-deutsch/" title="Italienisch-Deutsch Wörterbuch"><span class="flag it">Italienisch</span></a>
+<a href="/woerterbuch/deutsch-italienisch/" title="Deutsch-Italienisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/italienisch-deutsch/" title="Italienisch-Deutsch Wörterbuch">Italienisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-italienisch/" title="Deutsch-Italienisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-niederlaendisch/" title="Deutsch-Niederländisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/niederlaendisch-deutsch/" title="Niederländisch-Deutsch Wörterbuch"><span class="flag nl">Niederländisch</span></a>
+<a href="/woerterbuch/deutsch-niederlaendisch/" title="Deutsch-Niederländisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/niederlaendisch-deutsch/" title="Niederländisch-Deutsch Wörterbuch">Niederländisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-niederlaendisch/" title="Deutsch-Niederländisch Wörterbuch"> </a></div>
+</li>
+</ul></div><div class="dict-select-column"><ul><li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-polnisch/" title="Deutsch-Polnisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/polnisch-deutsch/" title="Polnisch-Deutsch Wörterbuch"><span class="flag pl">Polnisch</span></a>
+<a href="/woerterbuch/deutsch-polnisch/" title="Deutsch-Polnisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/polnisch-deutsch/" title="Polnisch-Deutsch Wörterbuch">Polnisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-polnisch/" title="Deutsch-Polnisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-portugiesisch/" title="Deutsch-Portugiesisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/portugiesisch-deutsch/" title="Portugiesisch-Deutsch Wörterbuch"><span class="flag pt-br">Portugiesisch</span></a>
+<a href="/woerterbuch/deutsch-portugiesisch/" title="Deutsch-Portugiesisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/portugiesisch-deutsch/" title="Portugiesisch-Deutsch Wörterbuch">Portugiesisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-portugiesisch/" title="Deutsch-Portugiesisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-russisch/" title="Deutsch-Russisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/russisch-deutsch/" title="Russisch-Deutsch Wörterbuch"><span class="flag ru">Russisch</span></a>
+<a href="/woerterbuch/deutsch-russisch/" title="Deutsch-Russisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/russisch-deutsch/" title="Russisch-Deutsch Wörterbuch">Russisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-russisch/" title="Deutsch-Russisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-schwedisch/" title="Deutsch-Schwedisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/schwedisch-deutsch/" title="Schwedisch-Deutsch Wörterbuch"><span class="flag se">Schwedisch</span></a>
+<a href="/woerterbuch/deutsch-schwedisch/" title="Deutsch-Schwedisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/schwedisch-deutsch/" title="Schwedisch-Deutsch Wörterbuch">Schwedisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-schwedisch/" title="Deutsch-Schwedisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-spanisch/" title="Deutsch-Spanisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/spanisch-deutsch/" title="Spanisch-Deutsch Wörterbuch"><span class="flag es">Spanisch</span></a>
+<a href="/woerterbuch/deutsch-spanisch/" title="Deutsch-Spanisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/spanisch-deutsch/" title="Spanisch-Deutsch Wörterbuch">Spanisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-spanisch/" title="Deutsch-Spanisch Wörterbuch"> </a></div>
+</li>
+<li class="bab-custom-dictsub">
+<div class="bab-dictsub-left-content">
+<a href="/woerterbuch/deutsch-tuerkisch/" title="Deutsch-Türkisch Wörterbuch"><span class="flag de">Deutsch</span></a>
+<a href="/woerterbuch/tuerkisch-deutsch/" title="Türkisch-Deutsch Wörterbuch"><span class="flag tr">Türkisch</span></a>
+<a href="/woerterbuch/deutsch-tuerkisch/" title="Deutsch-Türkisch Wörterbuch">Deutsch</a> - <a href="/woerterbuch/tuerkisch-deutsch/" title="Türkisch-Deutsch Wörterbuch">Türkisch</a> </div>
+<div class="bab-dictsub-right-content"><a href="/woerterbuch/deutsch-tuerkisch/" title="Deutsch-Türkisch Wörterbuch"> </a></div>
+</li>
+</ul></div></nav>
+</div>
+</div>
+<div class="teaser-wrapper"><div class="teaser languages">
+<div class="content">
+<a class="container" href="/spiele/hangman">
+<span class="section-label">Spielempfehlung</span>
+<span class="teaser-image" style="background-image:url(//static.bab.la/img/teasers/teaser-hangman.jpg) !important;"></span>
+<span class="teaser-header">Galgenmännchen</span>
+<span class="teaser-text">Lust auf ein Spiel? Oder lernst du lieber neue Wörter? Hier hast du beides in einem!</span>
+<span class="teaser-eyecatcher">Jetzt spielen<span class="material-icons"></span></span>
+</a>
+</div>
+</div><div class="teaser magazine">
+<div class="content">
+<a class="container" href="/daenemark/anleitung-hygge">
+<span class="section-label">Living Abroad</span>
+<span class="teaser-image" style="background-image:url(//static.bab.la/pic/living/Denmark/Hygge/teaser-la-hygge.jpg) !important;"></span>
+<span class="teaser-header">Eine Anleitung für mehr hygge im Leben</span>
+<span class="teaser-text">Was genau ist eigentlich hygge? Warum sagen die Dänen ständig, wenn sie etwas genossen haben, dass es „hyggelig“...</span>
+<span class="teaser-eyecatcher">Weiterlesen<span class="material-icons"></span></span>
+</a>
+</div>
+</div></div><div class="teaser-wrapper"><div class="teaser ad" style="text-align:center">
+<aside class="info-panel" style="margin:auto">
+<div class="info-wrapper">
+<div id="ad_btmslot"><script>iaw.cmd.push(function() { iaw.display("ad_btmslot"); });</script></div>
+</div>
+</aside>
+</div>
+</div><div class="content">
+<div class="container">
+<h2 class="section-label">Mehr über unsere Wörterbücher</h2>
+<h3 class="h4">Sprachen lieben und leben</h3>
+<p>Das bab.la-Online-Wörterbuch wird jeden Tag von einem Team von Sprachliebhabern aktualisiert. Wir geben unser Bestes, jeden Tag neue Wörter hinzuzufügen. Unsere Redakteure halten dauernd Ausschau nach neuen Ausdrücken: Sprachen gedeihen mit neu geschaffenen Wörtern. Ein Beispiel dafür sind Modewörter, die Social Media-Kanäle durchdringen und immer häufiger in täglichen Unterhaltungen benutzt werden. Wir sind ebenfalls Weltbürger und wenden mehrere Sprachen in unserem täglichen Leben an. Dieses Wissen nutzen wir, wenn wir Übersetzungen zum bab.la-Wörterbuch hinzufügen: Wir ergänzen nicht nur die offensichtlichen Übersetzungen, sondern auch die umgangssprachlichen Bedeutungen, auf die man stoßen könnte, wenn man die Fremdsprache im täglichen Leben anwendet. Du kannst unsere Tipps über das <a href="/living-abroad/">Leben im Ausland</a> in unserem Magazin nachlesen. Dort wirst du witzige Beispiele finden wie wir letztendlich Deutsch gelernt haben, ein Sprachmissverständnis nach dem anderen ebenso wie nützliche Informationen darüber, wie du Sprachen benutzt wenn du dein Leben im Ausland beginnst. Wie du wahrscheinlich gemerkt hast, ist unser Wörterbuch nicht nur ein staubiges Buch in einem Bücherregal: Unser Wörterbuch lebt und wächst jeden Tag, genau wie deine Sprachkenntnisse.</p>
+<h3 class="h4">Übersetze und lerne Sprachen</h3>
+<p>Die bab.la-Wörterbuchredakteure kennen sich bestens mit dem Prozess des Sprachlernens aus. Unser Team ist vielsprachig und diese Eigenschaft spiegelt sich in unserer Art wider wie wir zweisprachige Wörterbücher erstellen. Wir wissen wie es ist, wenn du nach einer Übersetzung suchst. Das ultimative Ziel ist es, das Wort zu lernen und in der Lage zu sein, es in einer Alltagsunterhaltung in der Fremdsprache anwenden zu können. Darum bieten wir deutlich mehr Information als nur die Übersetzungen: Wörter werden in ihrem Kontext benutzt. Praktische Anwendungsbeispiele werden dir helfen, dir die Wörter anzueignen und sie in dein Vokabular der Fremdsprache zu integrieren. Unsere Wörterbücher beinhalten Beispielsätze für jede Übersetzung. Synonyme werden dir helfen, dein Vokabular zu bereichern und die gleiche Sache in unterschiedlicher Weise auszudrücken. Die ähnlichen Übersetzungen zeigen dir andere Arten, das Wort zu benutzen. Und schließlich kannst du die komplette <a href="/konjugieren/">Konjugation</a> nachschlagen wenn du ein neues Verb lernst: Du wirst nicht an der Infinitivform hängenbleiben! Wenn du das neue Vokabular auf spassige Art und Weise üben willst, kannst du unsere <a href="/spiele/">Sprachspiele</a> spielen (Vorsicht: <a href="/spiele/hangman/">Galgenmännchen</a> macht süchtig!).Wenn du nach einen größeren Herausforderung suchst und neue Fakten in einer Fremdsprache lernen willst, dann kannst du eine immense Anzahl an Themen mit unseren <a href="/sprachtest/">Sprachtests</a> erforschen. Ob du noch dabei bist, mit einer neuen Sprache klarzukommen oder sie schon fließend sprichst, das bab.la-Online-Wörterbuch wird deine Sprachenbedürfnisse stillen. </p>
+<h3 class="h4">Finde die richtige Übersetzung</h3>
+<p>Die bab.la-Online-Wörterbücher werden dir helfen, die richtige Übersetzung für jedes Wort zu finden in der Fremdsprache die du lernst. Unsere Wörterbücher bieten ein breites Spektrum an Übersetzungen, von der allgemeinen Bedeutung bis hin zu den ganz speziellen Nuancen. "Wie kann ich zwischen all den möglichen Übersetzungen wählen?", fragst du dich vielleicht. Im bab.la-Online-Wörterbuch sind die Übersetzungen für jedes Wort nach ihren Bedeutungen gruppiert. Du kannst direkt den Kasten lesen, der sich auf den Kontext bezieht, der am besten zu deiner Übersetzung passt. Mit verschiedenen Bedeutungsgruppen meinen wir verschiedene Anwendungsbeispiele für ein bestimmtes Wort. Einige Möglichkeiten sind: umgangssprachlich, vulgär, regional oder sich auf ein bestimmes Sachgebiet beziehend, wie etwa Finanzen oder Geschäftswelt. Das bab.la-Online-Wörterbuch hilft dir dabei, dich mit den unterschiedlichen Übersetzungen des Wortes, das du nachschlägst, vertraut zu machen. Wenn du schnell eine einfache Übersetzung brauchst, benutze das bab.la-Wörterbuch; wenn du mit Sprachen arbeitest und Hilfe bei terminologischen Fragen suchst, benutze ebenfalls das bab.la-Wörterbuch.</p>
+<h3 class="h4">Ein schnell wachsendes Online-Wörterbuch</h3>
+<p>Im Moment gibt es 44 bab.la-Online-Wörterbücher. Aber das reicht noch nicht. Wir sind ständig dabei, die Qualität unserer Wörterbücher zu verbessern und die Anzahl zu erhöhen: Sei dir sicher dass in der Zukunft neue Sprachkombinationen und mehr Wörterbücher herauskommen werden. Unsere Online-Wörterbücher decken Sprachen aus aller Welt ab. Hier ist eine Liste der Sprachen in die du übersetzen kannst (nach Sprachfamilien sortiert): Romanische Sprachen (Französisch, Italienisch, Portugiesisch, Spanisch, Rumänisch), Germanische Sprachen (Englisch, Deutsch, Niederländisch, Schwedisch, Norwegisch, Dänisch), Slawische Sprachen (Russisch, Polnisch, Tschechisch), Asiatische Sprachen (Chinesisch, Japanisch, Koreanisch, Indonesisch, Thai, Vietnamesisch). Das ist noch nicht alles! Wenn du Wörter in Hindi, Arabisch, Türkisch, Ungarisch, Griechisch, Finnisch oder Esperanto (ja, wir haben auch ein Esperanto-Wörterbuch) übersetzen willst, dann ist das bab.la-Online-Wörterbuch die Seite, die es zu besuchen gilt. Welche Sprache wird die nächste sein? Bleib dran, wir sind immer dabei, neue Sprachen zu ergänzen und neue Sprachkombinationen in unser vielsprachiges Wörterbuch zu integrieren.</p>
+</div>
+</div><div class="site-footer">
+<div class="container">
+<nav class="social-links">
+<div class="h5">Lass uns in Kontakt bleiben</div>
+<ul>
+<li><a class="facebook" href="https://www.facebook.com/babla.languages" onclick="babTE('MenuLinks', 'facebook', 'de');" rel="noopener nofollow" target="_blank"><span class="icomoon icon-facebook" title="Facebook"></span><span class="h-label"></span></a></li>
+<li><a class="vk" href="https://vk.com/bablaru" onclick="babTE('MenuLinks', 'vk', 'de');" rel="noopener nofollow" target="_blank"><span class="icomoon icon-vk" title="VK"></span><span class="h-label"></span></a></li>
+<li><a class="instagram" href="https://www.instagram.com/babla.languages/" onclick="babTE('MenuLinks', 'instagram', 'de');" rel="noopener nofollow" target="_blank" title="Instagram"><span class="icomoon icon-instagram"></span><span class="h-label"></span></a></li>
+<li><a class="linkedin" href="https://www.linkedin.com/company/bab-la---loving-languages" onclick="babTE('MenuLinks', 'linkedin', 'de');" rel="noopener nofollow" target="_blank" title="LinkedIn"><span class="icomoon icon-linkedin"></span><span class="h-label"></span></a></li>
+<li><a class="youtube" href="https://www.youtube.com/user/bablalanguages/featured" onclick="babTE('MenuLinks', 'youtube', 'de');" rel="noopener nofollow" target="_blank" title="YouTube"><span class="icomoon icon-youtube-play"></span><span class="h-label"></span></a></li>
+<li><a class="twitter" href="https://twitter.com/babla" onclick="babTE('MenuLinks', 'twitter', 'de');" rel="noopener nofollow" target="_blank" title="Twitter"><span class="icomoon icon-twitter"></span><span class="h-label"></span></a></li>
+</ul>
+</nav>
+<div class="footer-nav-wrapper">
+<nav class="footer-nav">
+<div class="footer-nav-block">
+<div class="h5 footer-nav-header">Wörterbücher</div>
+<ul>
+<li><a href="/ubersetzer/" onclick="babTE('MenuLinks', 'translator', 'de');">Übersetzer</a></li>
+<li><a href="/woerterbuch/" onclick="babTE('MenuLinks', 'dictionary', 'de');">Wörterbuch</a></li>
+<li><a href="/konjugieren/" onclick="babTE('MenuLinks', 'conjugation', 'de');">Konjugieren</a></li>
+<li><a href="/sprachtest/" onclick="babTE('MenuLinks', 'quizzes', 'de');">Tests</a></li>
+<li><a href="/spiele/" onclick="babTE('MenuLinks', 'games', 'de');">Spiele</a></li>
+<li><a href="/phrasen/" onclick="babTE('MenuLinks', 'phrases', 'de');">Phrasen</a></li>
+</ul>
+</div>
+<div class="footer-nav-block">
+<div class="h5 footer-nav-header">Living Abroad</div>
+<ul>
+<li><a href="/living-abroad/" onclick="babTE('MenuLinks', 'magazine', 'de');">Magazin</a></li>
+</ul>
+</div>
+<div class="footer-nav-block">
+<div class="h5 footer-nav-header">Über uns</div>
+<ul>
+<li><a href="/unternehmen/" onclick="babTE('MenuLinks', 'about us', 'de');">Über uns</a></li>
+<li><a href="/nachrichten/" onclick="babTE('MenuLinks', 'news', 'de');">Nachrichten</a></li>
+<li><a href="/unternehmen/kontakt/" onclick="babTE('MenuLinks', 'contact', 'de');">Kontakt</a></li>
+<li><a href="/unternehmen/werbung" onclick="babTE('MenuLinks', 'advertising', 'de');">Werbung</a></li>
+<li><a href="/unternehmen/presse" onclick="babTE('MenuLinks', 'press', 'de');">Presse</a></li>
+<li><a href="/unternehmen/jobs" onclick="babTE('MenuLinks', 'jobs', 'de');">Jobs</a></li>
+</ul>
+</div>
+</nav>
+</div>
+<footer>
+<div class="col-sm-8 footer-copyright">
+<p>Copyright © IDM 2020, soweit nicht anders angegeben. <span class="rights">Alle Rechte vorbehalten.</span></p>
+<nav class="legal-nav">
+<ul>
+<li><a href="/unternehmen/agb" onclick="babTE('MenuLinks', 'terms of use', 'de');">Allgemeine Geschäftsbedingungen</a></li>
+<li><a href="/unternehmen/datenschutz" onclick="babTE('MenuLinks', 'privacy policy', 'de');">Datenschutzerklärung</a></li>
+<li><a href="/unternehmen/cookies" onclick="babTE('MenuLinks', 'cookie policy', 'de');">Cookie-Richtlinie</a></li>
+<li><a class="ot-sdk-show-settings" id="ot-sdk-btn" style="cursor:pointer;font-size:inherit;">Consent Management</a></li>
+</ul>
+</nav>
+</div>
+</footer>
+</div>
+</div>
+<aside class="back-to-top" style="display:none;"><a class="icon-link scroll-link" href="#top" role="button"><i class="material-icons">arrow_upward</i></a></aside>
+</div>
+<aside class="column-right" id="fixed-right">
+<div class="info-wrapper">
+<div id="ad_rightslot"><script>iaw.cmd.push(function() { iaw.display("ad_rightslot"); });</script></div>
+</div>
+</aside>
+</div>
+</div>
+</main>
+<script defer="" src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script defer="" src="//static.bab.la/js/vendor/bootstrap.min.js"></script>
+<script defer="" src="//static.bab.la/js/vendor/scrollFixedTypeahead.min.js"></script>
+<script defer="" src="//static.bab.la/js/babla.js?v=1595858799"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function() {
+        babInitSearchField("#bablasearch","d");$("#bablasearch").focus();$(".typeahead").typeahead("close");$("#bablasearch").select();    });
+</script>
+<script>
+window.addEventListener("load", function(){
+
+// IDM - Disable cookie layer if CMP is displayed
+if(iaw.euConsentInfoUsed) return;
+window.cookieconsent.initialise({
+  "cookie":{
+  "name":"bConsent",
+  "domain": "de.bab.la"
+  },
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#6C6C79"
+    },
+    "button": {
+      "background": "#0077cc"
+    }
+  },
+content: {"message": "Wir verwenden Cookies, um Ihre Erfahrung auf unserer Webseite zu verbessern. Diese Webseite verwendet Cookies, die zielgerichtete Werbung bereitstellen und Ihre Nutzung dieser Webseite verfolgen. Wenn Sie auf \"Weiter\" klicken oder unsere Webseite weiterhin nutzen, stimmen Sie unserer Verwendung von Cookies zu. Sie können Ihre Cookie-Einstellungen jederzeit ändern.","dismiss": "Weiter","link": "Mehr erfahren","href": "https://global.oup.com/cookiepolicy" },dismissOnTimeout:2000,})});
+</script>
+<!--
+85-->
+</body>
+</html>

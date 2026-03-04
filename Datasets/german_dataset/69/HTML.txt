@@ -1,0 +1,1500 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!--><html class="ie ie6" lang="de"> <!--<![endif]-->
+<!--[if IE 7 ]><!-->
+<!--<![endif]-->
+<!--[if IE 8 ]><!-->
+<!--<![endif]-->
+<!--[if IE 9 ]><!-->
+<!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<!--<![endif]-->
+<head>
+<link href="https://www.dw.com/de/deutsch-lernen/nachrichten/s-8030" rel="canonical"/>
+<link href="https://m.dw.com/de/deutsch-lernen/nachrichten/s-8030" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="/favicon.png" rel="icon" type="image/png"/>
+<link href="/favicon.png" rel="apple-touch-icon"/>
+<script src="/js/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script src="/js/dsgvo/dsgvo_utils.js" type="text/javascript"></script>
+<script src="/js/beta_ROAD/accessToROAD_Beta.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script src="/js/de.dw.cdaLanguage.min.js?v=6.64.3" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<!-- PAGINATION for SEO -->
+<meta content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+<meta content="1 days" name="revisit-after"/>
+<meta content="Deutsche Welle (www.dw.com)" name="publisher"/>
+<meta content="© 2020 Deutsche Welle (www.dw.com)" name="copyright"/>
+<meta content="Deutsche Welle (www.dw.com)" name="author"/>
+<meta content="app-id=498833085" name="apple-itunes-app"/>
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app"/>
+<meta content="de_DE" name="language"/>
+<meta content="Nachrichten, Deutsch Akuell,kostenlos Deutsche Nachrichten hören,Deutsch lernen" name="keywords"/>
+<meta content="Nachrichten, Deutsch Akuell,kostenlos Deutsche Nachrichten hören,Deutsch lernen" name="news_keywords"/>
+<meta content="Deutsch lernen mit aktuellen Tagesnachrichten und Hintergrundberichten: Langsam &amp; verständlich gesprochene Audios und Videos - ideal für Fortgeschrittene." name="description"/>
+<!-- Facebook -->
+<meta content="146634408702997" property="fb:pages"/>
+<meta content="146822482008281" property="fb:pages"/>
+<meta content="46657640977" property="fb:pages"/>
+<meta content="66069193936" property="fb:pages"/>
+<meta content="338998993519" property="fb:pages"/>
+<meta content="164418313578851" property="fb:pages"/>
+<meta content="180013702044400" property="fb:pages"/>
+<meta content="141111232580541" property="fb:pages"/>
+<meta content="130435762955" property="fb:pages"/>
+<meta content="24369314439" property="fb:pages"/>
+<meta content="131314590235972" property="fb:pages"/>
+<meta content="204430626300528" property="fb:pages"/>
+<meta content="229148123764036" property="fb:pages"/>
+<meta content="533361940012569" property="fb:pages"/>
+<meta content="49621769215" property="fb:pages"/>
+<meta content="142061114273" property="fb:pages"/>
+<meta content="125113390860188" property="fb:pages"/>
+<meta content="144393622272640" property="fb:pages"/>
+<meta content="245974238781165" property="fb:pages"/>
+<meta content="171270196224553" property="fb:pages"/>
+<meta content="118184978196457" property="fb:pages"/>
+<meta content="178734186974" property="fb:pages"/>
+<meta content="329373860454526" property="fb:pages"/>
+<meta content="107256659303602" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="122470481130194" property="fb:pages"/>
+<meta content="114256188645" property="fb:pages"/>
+<meta content="165174814436" property="fb:pages"/>
+<meta content="155438574470276" property="fb:pages"/>
+<meta content="50498982209" property="fb:pages"/>
+<meta content="146790007393" property="fb:pages"/>
+<meta content="164947183521601" property="fb:pages"/>
+<meta content="211745678846355" property="fb:pages"/>
+<meta content="134391923301563" property="fb:pages"/>
+<meta content="63821723396" property="fb:pages"/>
+<meta content="188157417929359" property="fb:pages"/>
+<meta content="183239561787790" property="fb:pages"/>
+<meta content="449623021724487" property="fb:pages"/>
+<meta content="138206409609783" property="fb:pages"/>
+<meta content="85945845557" property="fb:pages"/>
+<meta content="226482300719948" property="fb:pages"/>
+<meta content="60713064323" property="fb:pages"/>
+<meta content="239025992817731" property="fb:pages"/>
+<meta content="822896961134864" property="fb:pages"/>
+<meta content="522458607878947" property="fb:pages"/>
+<meta content="188850101556821" property="fb:pages"/>
+<meta content="618268655042471" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="276810869063357" property="fb:pages"/>
+<meta content="100960075341" property="fb:pages"/>
+<meta content="80408983549" property="fb:pages"/>
+<meta content="100897936618493" property="fb:pages"/>
+<meta content="138706041945" property="fb:pages"/>
+<meta content="211775368865879" property="fb:pages"/>
+<meta content="171400242905536" property="fb:pages"/>
+<meta content="132731133463621" property="fb:pages"/>
+<meta content="195750250443390" property="fb:pages"/>
+<meta content="179443708766951" property="fb:pages"/>
+<meta content="1804124663153407" property="fb:pages"/>
+<meta content="134957921127" property="fb:pages"/>
+<meta content="308858529571862" property="fb:pages"/>
+<meta content="245084839304894" property="fb:pages"/>
+<meta content="1643141409322787" property="fb:pages"/>
+<meta content="161206864395653" property="fb:pages"/>
+<meta content="166280690549965" property="fb:pages"/>
+<meta content="1306227629456410" property="fb:pages"/>
+<meta content="172144003288251" property="fb:pages"/>
+<meta content="789839844513554" property="fb:pages"/>
+<meta content="1907513229480533" property="fb:pages"/>
+<meta content="1673788669587458" property="fb:pages"/>
+<meta content="475937372553968" property="fb:pages"/>
+<meta content="670958179648696" property="fb:pages"/>
+<meta content="608485009178753" property="fb:pages"/>
+<meta content="174528749295024" property="fb:pages"/>
+<meta content="86161846910" property="fb:pages"/>
+<meta content="268396416590741" property="fb:pages"/>
+<meta content="239261806709" property="fb:pages"/>
+<meta content="61626715828" property="fb:pages"/>
+<meta content="210354862357400" property="fb:pages"/>
+<meta content="100000944106340" property="fb:admins"/>
+<meta content="100004095264842" property="fb:admins"/>
+<meta content="100004135624835" property="fb:admins"/>
+<meta content="Deutsch lernen mit aktuellen Tagesnachrichten und Hintergrundberichten: Langsam &amp; verständlich gesprochene Audios und Videos - ideal für Fortgeschrittene." property="og:description"/>
+<meta content="https://www.dw.com/de/deutsch-lernen/nachrichten/s-8030" property="og:url"/>
+<meta content="DW.COM" property="og:site_name"/>
+<meta content="Nachrichten | DW" property="og:title"/>
+<link href="/css/dwde-ltr.min.css?v=6.64.3" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-fonts-latin.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-epg-ltr.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style media="screen" type="text/css">
+div#navMain ul#navLevel1 a#n01 {
+color: #fff !important;
+}
+div#navMain ul#navLevel1 a#n01:hover {
+color: #000 !important;
+}
+div#navMain ul#navLevel1 li:hover a#n01 {
+color: #000 !important;
+}
+div#navMain ul#navLevel2 a#navAct2 {
+color: #fff !important;
+}
+</style>
+<script type="text/javascript">
+let DWStructureType = "LANGUAGE_COURSE";
+</script>
+<title>Nachrichten | DW</title>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=157204581336210&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
+</script>
+<!-- End Google Tag Manager -->
+<!--[if lt IE 7 ]>
+<script type="text/javascript" src="/js/flyoutsf.js"></script><![endif]-->
+<script src="/js/dwde.min.js?v=6.64.3" type="text/javascript"></script>
+<!-- DW jwplayer skin -->
+<link href="/js/jwplayer8/skins/DW/dwskinfile.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/js/jwplayer8/skins/DW/desktop-additions.css" media="all" rel="stylesheet" type="text/css"/>
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script src="/js/datepicker/jquery.ui.datepicker-de.min.js" type="text/javascript"></script>
+<script async="" crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=deutschewelle"></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "de";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwtest-de';
+</script>
+</head><body id="html_body">
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwInitialTrackingInfo = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fde%2Fdeutsch-lernen%2Fnachrichten%2Fs-8030",
+maca: "",
+articleChangeDateShort: "20201111",
+structureId: "8030",
+structureTypeId: "99",
+chap: "DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten",
+pageId: "8030",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "",
+secondCategoryId: "",
+departmentName: ""
+};
+var channelNameAppendix = "-";
+trackingInfo_leve2 = "34";
+trackingInfo_dkLanguage = "1";
+trackingInfo_multi_Value = "";
+trackingInfo_profile = "NORMAL";
+trackingInfo_pageSingleEncoded = "DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten::Nachrichten";
+trackingInfo_multi_Value = "&x1=99&x2=341&x3=8030&x4=8030&x5=Nachrichten&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fdeutsch-lernen%2Fnachrichten%2Fs-8030&x8=&x9=20201111&x10=DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten&x13=1&x14=&x15=&x16=&x17=&x18=&x20=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
+} else {
+window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
+}
+</script>
+<noscript>
+<img alt="" height="1" src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=34&amp;p=DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten::Nachrichten&amp;di=&amp;an=&amp;ac=&amp;x1=99&amp;x2=341&amp;x3=8030&amp;x4=8030&amp;x5=Nachrichten&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fdeutsch-lernen%2Fnachrichten%2Fs-8030&amp;x8=&amp;x9=20201111&amp;x10=DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten&amp;x13=1&amp;x14=&amp;x15=null&amp;x16=null&amp;x17=&amp;x18=&amp;x20=null" width="1"/>
+</noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TXHJH9T" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><!--AT Internet Smart Tag Tracking-->
+<script src="https://commons.dw.com/tracking/smarttag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242",
+cookieSecure: true
+});
+tag.page.set({
+name: "DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten::Nachrichten",
+pageID: "8030",
+level2: 34
+});
+tag.customVars.set({
+site: {
+1: 99,
+2: 341,
+3: 8030,
+4: 8030,
+5: "[Nachrichten]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fde%2Fdeutsch-lernen%2Fnachrichten%2Fs-8030]",
+8: "[]",
+9: 20201111,
+10: "[DEUTSCH+LERNEN::Deutsch+XXL::Deutsch+Aktuell::Nachrichten]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "",
+16: "",
+17: "",
+18: "",
+19: "",
+20: ""
+}
+});
+tag.dispatch();
+</script>
+<script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">Wir verwenden Cookies, um unser Angebot für Sie zu verbessern. Mehr Informationen dazu finden Sie in unserer Datenschutzerklärung.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more" href="/a-18265186">Mehr Infos</a>
+<a class="cookie__btn cookie__btn--ok" href="#">Okay</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li aria-labelledby="Inhalt" role="listitem"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li aria-labelledby="Navigation" role="listitem"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li aria-labelledby="asideLink" role="listitem"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li aria-labelledby="metanavigationLink" role="listitem"><a href="#navMeta" id="metanavigationLink">Metanavigation</a></li>
+<li aria-labelledby="sucheLink" role="listitem"><a href="#search" id="sucheLink">Suche</a></li>
+<li aria-labelledby="languageLink" role="listitem"><a accesskey="6" href="#langSelect" id="languageLink" lang="de" xml:lang="de">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]>
+<div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a data-lang="sq-AL" href="/sq/fokus/s-10250" title="FOKUS">
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a data-lang="am-ET" href="/am/ይዘት/s-11646" title="ይዘት">
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a data-lang="ar-AE" href="/ar/الرئيسية/s-9106" title="DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي">
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a data-lang="bn-BD" href="/bn/বিষয়/s-11929" title="বিষয়">
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a data-lang="bs-BA" href="/bs/teme/s-10037" title="TEME">
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a data-lang="bg-BG" href="/bg/начало/s-10257" title="Начало">
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a data-lang="zh-CN" href="/zh/在线报导/s-9058?&amp;zhongwen=simp" title="在线报导">
+Chinese <span class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a data-lang="zh-CN-t" href="/zh/在线报导/s-9058?&amp;zhongwen=trad" title="在線報導">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="hr-HR" href="/hr/teme/s-9747" title="TEME">
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a data-lang="fa-AF" href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری">
+Dari <span class="native">دری </span></a>
+</li>
+<li><a data-lang="en-GB" href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+English <span class="native">English</span></a>
+</li>
+<li><a data-lang="fr-FR" href="/fr/actualités/s-10261" title="ACTUALITÉS">
+French <span class="native">Français</span></a>
+</li>
+<li><a class="ici" data-lang="de-DE" href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a data-lang="el-GR" href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ">
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a data-lang="ha-NG" href="/ha/batutuwa/s-11603" title="BATUTUWA">
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a data-lang="hi-IN" href="/hi/खबरें/s-11931" title="खबरें">
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="id-ID" href="/id/beranda/s-11546" title="BERANDA">
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a data-lang="sw-TZ" href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI">
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a data-lang="mk-MK" href="/mk/теми/s-10339" title="Теми">
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a data-lang="ps-AF" href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو">
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a data-lang="fa-IR" href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی">
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a data-lang="pl-PL" href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata">
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a data-lang="pt-002" href="/pt-002/notícias/s-13918" title="NOTÍCIAS">
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a data-lang="pt-BR" href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo">
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="ro-RO" href="/ro/focus/s-10575" title="FOCUS">
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a data-lang="ru-RU" href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире">
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a data-lang="sr-RS" href="/sr/rubrike/s-10682" title="RUBRIKE">
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a data-lang="es-ES" href="/es/actualidad/s-30684" title="ACTUALIDAD">
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a data-lang="tr-TR" href="/tr/gündem/s-10201" title="GÜNDEM">
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a data-lang="uk-UA" href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ">
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a data-lang="ur-PK" href="/ur/عنوانات/s-11933" title="عنوانات">
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM hat Deutsch als Spracheinstellung für Sie gewählt. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div class="v2" id="langSelect">
+<a href="javascript:void(0);" id="langSelectTrigger" name="langSelectTrigger">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/de/dw-akademie/über-uns/s-8101" title="DW AKADEMIE">DW Akademie</a>
+</div>
+<div class="metaLink"><a href="/de/unternehmen/profil/s-30626" title="UNTERNEHMEN">Unternehmen</a>
+</div>
+<div class="metaLink"><a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div class="dwnews" id="logo">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img alt="Deutsche Welle" height="100" src="/cssi/dwlogo-print.gif" width="98"/>
+</div>
+<div id="search">
+<form action="/search/de" class="modular" id="navSearchForm" method="get" title="GlobalSearch">
+<input name="searchNavigationId" param="searchNavigationId" type="hidden" value="2055"/>
+<input name="languageCode" param="languageCode" type="hidden" value="de"/>
+<input name="origin" param="origin" type="hidden" value="gN"/>
+<input id="item" name="item" placeholder="DEUTSCH LERNEN durchsuchen"/>
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a>
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland-verstehen/s-12019" title="Deutschland verstehen">Deutschland verstehen</a>
+</li>
+<li><a href="/de/themen/deutschland-evangelisch-katholisch/s-101276" title="Deutschland evangelisch-katholisch">Deutschland evangelisch-katholisch</a>
+</li>
+<li><a href="/de/themen/erste-schritte-in-deutschland/s-32443" title="Erste Schritte in Deutschland">Erste Schritte in Deutschland</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a>
+</li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/europa/s-12322" title="Europa">Europa</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/nahost/s-12323" title="Nahost">Nahost</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/afrika/s-12324" title="Afrika">Afrika</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/amerika/s-12325" title="Amerika - Die aktuellsten Nachrichten und Informationen">Amerika</a>
+</li>
+<li><a href="/de/themen/asien/s-12326" title="Asien">Asien</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a>
+<ul class="sitemap">
+<li><a href="/de/themen/filme/s-1564" title="Filme">Filme</a>
+</li>
+<li><a href="/de/themen/bücher/s-1568" title="Bücher">Bücher</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/musik/s-12771" title="Musik">Musik</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kunst/s-101381" title="Kunst">Kunst</a>
+</li>
+<li><a href="/de/themen/digitales-leben/s-30511" title="Digitales Leben">Digitales Leben</a>
+</li>
+<li><a href="/de/themen/lebensart/s-101382" title="Lebensart">Lebensart</a>
+</li>
+<li><a href="/de/themen/reise/s-1644" title="DW Reise">Reise</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/bthvn2020/s-5269" title="BTHVN2020">BTHVN2020</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/global-ideas/s-30494" title="Global Ideas">Global Ideas</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>Specials</h4>
+<ul class="sitemap">
+<li><a href="/de/themen/100-gute-bücher/s-43415822" title="100 gute Bücher - ein literarisches Jahrhundert-Panorama deutschsprachiger Literatur">100 Gute Bücher</a></li>
+<li><a href="/de/themen/50-küchen-eine-heimat/s-32912" title="50 Küchen, eine Heimat – 50 Restaurants, 50 Rezepte, 50 Länder">50 Küchen, eine Heimat</a></li>
+<li><a href="/de/themen/baking-bread/s-47577721" title="Baking Bread - Was uns Brot über die EU verrät">Baking Bread</a></li>
+<li><a href="/de/themen/erster-weltkrieg/s-101010" title="Der Erste Weltkrieg">Erster Weltkrieg</a></li>
+<li><a href="/de/themen/expedition-humboldt/s-46674226" title="Expedition Humboldt">Expedition Humboldt</a></li>
+<li><a href="/de/themen/meet-the-germans/s-32643" title="Meet the Germans">Meet the Germans</a></li>
+<li><a href="/de/themen/mit-17-das-jahrhundert-der-jugend/s-101112" title="Mit 17... Das Jahrhundert der Jugend">Mit 17... Das Jahrhundert der Jugend</a></li>
+<li><a href="/de/themen/planet-berlin/s-47577671" title="Planet Berlin - der Weltreiseführer für Deutschlands lebendige Metropole">Planet Berlin</a></li>
+<li><a href="http://de.qantara.de/" title="Qantara.de">Qantara.de</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/media-center/s-100813" title="Das Media Center: Die Mediathek der Deutschen Welle">Media Center</a>
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/de/tv/s-9093" title="TV">TV</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">TV Sendungen</h4>
+<ul class="sitemap">
+<li><a href="/de/tv/37-grad/s-10145" title="37 Grad">37 Grad</a></li>
+<li><a href="/de/tv/anne-will/s-12701" title="Anne Will">Anne Will</a></li>
+<li><a href="/de/tv/auf-den-punkt/s-50033855" title="Auf den Punkt">Auf den Punkt</a></li>
+<li><a href="/de/tv/auf-ein-wort/s-40362437" title="Auf ein Wort...">Auf ein Wort...</a></li>
+<li><a href="/de/tv/bares-für-rares/s-36399064" title="Bares für Rares">Bares für Rares</a></li>
+<li><a href="/de/tv/bauerfeind/s-36398657" title="Bauerfeind">Bauerfeind</a></li>
+<li><a href="/de/tv/check-in/s-32692" title="Check-in - Das Reisemagazin">Check-in</a></li>
+<li><a href="/de/tv/der-tag/s-32615" title="Der Tag - Nachrichten und Hintergrund">Der Tag</a></li>
+<li><a href="/de/tv/die-anstalt/s-100973" title="Die Anstalt">Die Anstalt</a></li>
+<li><a href="/de/tv/dokfilm/s-3609" title="DokFilm">DokFilm</a></li>
+<li><a href="/de/tv/euromaxx/s-7553" title="Euromaxx- Leben und Kultur in Europa">Euromaxx</a></li>
+<li><a href="/de/tv/europe-in-concert/s-30429" title="Europe in Concert - Top-Acts Live">Europe in Concert</a></li>
+<li><a href="/de/tv/expedition-in-die-heimat/s-50558311" title="Expedition in die Heimat">Expedition in die Heimat</a></li>
+<li><a href="/de/tv/fit-und-gesund/s-11936" title="Fit und gesund">Fit und gesund</a></li>
+<li><a href="/de/tv/fokus-europa/s-101183" title="Fokus Europa - Länder, Menschen, Schicksale">Fokus Europa</a></li>
+<li><a href="/de/tv/frag-den-lesch/s-50033835" title="Frag den Lesch">Frag den Lesch</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/frautv/s-30312" title="FrauTV">FrauTV</a></li>
+<li><a href="/de/tv/glaubenssachen/s-3668" title="Glaubenssachen - Die Kirchensendung">Glaubenssachen</a></li>
+<li><a href="/de/tv/global-3000/s-11486" title="Global 3000 - Das Globalisierungsmagazin">Global 3000</a></li>
+<li><a href="/de/tv/gottesdienst/s-101259" title="Gottesdienst">Gottesdienst</a></li>
+<li><a href="/de/tv/hart-aber-fair/s-12675" title="Hart aber fair">Hart aber fair</a></li>
+<li><a href="/de/tv/heute-xpress/s-53655198" title="Heute Xpress">Heute Xpress</a></li>
+<li><a href="/de/tv/kick-off/s-12837" title="Kick off! - Das Bundesliga-Magazin der DW">Kick off!</a></li>
+<li><a href="/de/tv/kochen-mit-martina-moritz/s-101487" title="Kochen mit Martina &amp; Moritz">Kochen mit Martina &amp; Moritz</a></li>
+<li><a href="/de/tv/kultur21/s-7884" title="Kultur.21 - Das Kulturmagazin">Kultur.21</a></li>
+<li><a href="/de/tv/kulturzeit/s-36398595" title="Kulturzeit">Kulturzeit</a></li>
+<li><a href="/de/tv/ladies-night/s-36400088" title="Ladies Night">Ladies Night</a></li>
+<li><a href="/de/tv/lesenswert/s-36399591" title="Lesenswert">Lesenswert</a></li>
+<li><a href="/de/tv/made-in-germany/s-3054" title="Made in Germany">Made in Germany</a></li>
+<li><a href="/de/tv/markus-lanz/s-12709" title="Markus Lanz">Markus Lanz</a></li>
+<li><a href="/de/tv/maybrit-illner/s-10146" title="Maybrit Illner">Maybrit Illner</a></li>
+<li><a href="/de/tv/nahaufnahme/s-100280" title="Nahaufnahme - Die aktuelle Reportage">Nahaufnahme</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/nuhr-im-ersten/s-100377" title="Nuhr im Ersten">Nuhr im Ersten</a></li>
+<li><a href="/de/tv/projekt-zukunft/s-3210" title="Projekt Zukunft - Das Wissenschaftsmagazin">Projekt Zukunft</a></li>
+<li><a href="/de/tv/pufpaffs-happy-hour/s-32800" title="Pufpaffs Happy Hour">Pufpaffs Happy Hour</a></li>
+<li><a href="/de/tv/quarks/s-36400242" title="Quarks">Quarks</a></li>
+<li><a href="/de/tv/reporter/s-31610" title="Reporter - Vor Ort">Reporter</a></li>
+<li><a href="/de/tv/rev/s-51434653" title="REV">REV</a></li>
+<li><a href="/de/tv/shift/s-30411" title="Shift - Leben in der digitalen Welt">Shift</a></li>
+<li><a href="/de/tv/spätschicht/s-100375" title="Spätschicht">Spätschicht</a></li>
+<li><a href="/de/tv/tagesschau-in-100-sekunden/s-53655084" title="Tagesschau in 100 Sekunden">Tagesschau in 100 Sekunden</a></li>
+<li><a href="/de/tv/verrückt-nach-meer/s-36400533" title="Verrückt nach Meer">Verrückt nach Meer</a></li>
+<li><a href="/de/tv/world-stories/s-101473" title="World Stories - Reportagen der Woche">World Stories</a></li>
+<li><a href="/de/tv/zdfbauhaus/s-53823909" title="ZDF@Bauhaus">ZDF@Bauhaus</a></li>
+<li><a href="/de/tv/zdf-reportage/s-12714" title="ZDF Reportage">ZDF Reportage</a></li>
+<li><a href="/de/tv/zu-tisch/s-36399572" title="Zu Tisch...">Zu Tisch...</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/deutsch-lernen/s-2055" id="n01" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>Deutschkurse</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/schnellstart/s-31674" title="Schnellstart">Schnellstart</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-mobil/s-40884569" title="Deutsch mobil">Deutsch mobil</a>
+</li>
+<li><a href="/de/deutsch-lernen/radio-d/s-9603" title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschtrainer/s-32888" title="Deutschtrainer">Deutschtrainer</a>
+</li>
+<li><a href="/de/deutsch-lernen/harry/s-13219" title="Harry">Harry</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/die-bienenretter/s-36745714" title="Die Bienenretter">Die Bienenretter</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch XXL</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">Deutsch Aktuell</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/video-thema/s-12165" title="Video-Thema">Video-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/top-thema/s-8031" title="Top-Thema">Top-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/nachrichten/s-8030" title="Nachrichten">Nachrichten</a>
+</li>
+<li><a href="/de/deutsch-lernen/glossar/s-9151" title="Glossar">Glossar</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-im-fokus/s-9213" title="Deutsch im Fokus">Deutsch im Fokus</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/alltagsdeutsch/s-9214" title="Alltagsdeutsch">Alltagsdeutsch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/sprachbar/s-9011" title="Sprachbar">Sprachbar</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-sagt-man-so/s-32376" title="Das sagt man so!">Das sagt man so!</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/wort-der-woche/s-9031" title="Wort der Woche">Wort der Woche</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsche-sprache-in-bildern/s-101453" title="Deutsche Sprache – in Bildern">Deutsche Sprache in Bildern</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/telenovela/s-13121" title="Telenovela">Telenovela</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/bandtagebuch/s-13891" title="Bandtagebuch">Bandtagebuch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/landeskunde/s-12377" title="Landeskunde">Landeskunde</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/ticket-nach-berlin/s-32294" title="Ticket nach Berlin">Ticket nach Berlin</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-deutschlandlabor/s-32379" title="Das Deutschlandlabor">Das Deutschlandlabor</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/dialektatlas/s-8150" title="Dialektatlas">Dialektatlas</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/stadtbilder/s-31499" title="Stadtbilder">Stadtbilder</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschland-in-bildern/s-101454" title="Deutschland erleben – in Bildern">Deutschland in Bildern</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/das-porträt/s-30546" title="Das Porträt">Das Porträt</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/podcasts-newsletter/s-11696" title="Podcasts &amp; Newsletter">Podcasts &amp; Newsletter</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/service/s-9032" title="Service">Service</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch unterrichten</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+<li><a href="/de/deutsch-lernen/dw-im-unterricht/s-14199" title="DW im Unterricht">DW im Unterricht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/unterrichtsreihen/s-9729" title="Unterrichtsreihen">Unterrichtsreihen</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschlehrer-info/s-13503" title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" id="navAct2" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+</ul>
+</div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/de/deutsch-lernen/s-2055" title="DEUTSCH LERNEN">
+DEUTSCH LERNEN
+</a>
+/
+<a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">
+Deutsch XXL
+</a>
+/
+<a href="/de/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">
+Deutsch Aktuell
+</a>
+/
+<a href="/de/deutsch-lernen/nachrichten/s-8030" title="Nachrichten">
+Nachrichten
+</a>
+</div>
+</div>
+<div id="innerFrame">
+<div id="bodyContent">
+<div class="col4a">
+<!-- HeaderBanner Teaser -->
+<div class="col4 headerBannerTeaser">
+<div id="headerLarge" style="height: 90px;">
+<div class="headerLargePic" style="height: 90px;">
+<img alt="Logo von den Langsam gesprochenen Nachrichten, ein Nachrichtensprecher vor blauem Hintergrund" itemprop="image" src="https://static.dw.com/image/16914768_202.png" title="Logo von den Langsam gesprochenen Nachrichten, ein Nachrichtensprecher vor blauem Hintergrund"/> </div>
+</div>
+</div>
+</div>
+<!--[if lt IE 8 ]>
+<div class="col4"><![endif]-->
+<div class="col2 left">
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">NIVEAUSTUFE B2, C1</div>
+<!-- Article Detail-Teaser -->
+<div class="col2 articleDetailTeaser">
+<div class="group">
+<h4></h4>
+<div class="news pseudo linklist">
+<h2>
+Langsam gesprochene Nachrichten
+</h2>
+<div class="longText">
+<p> Täglich von Montag bis Samstag findet ihr hier aktuelle Tagesnachrichten der DW – langsam und verständlich gesprochen. Neben der Audio-Datei zum Herunterladen (MP3) gibt es auch den vollständigen Text zum Mitlesen.</p> <p> <strong>Niveaustufen:</strong> B2, C1<br/> <strong>Medien: </strong>Audio, Text<br/> <strong>Sprache:</strong> Deutsch</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/11112020-langsam-gesprochene-nachrichten/a-55560603">
+<h2 class="linkable">
+11.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="teaserImg">
+<img alt="Die Hongkonger Politiker Dennis Kwok, Alvin Yeung, Kenneth Leung und Kwok Ka-ki (v. l.) bei einer Pressekonferenz (Vincent Yu/AP Photo/picture alliance)" itemprop="image" src="https://static.dw.com/image/55560086_301.jpg" title="Die Hongkonger Politiker Dennis Kwok, Alvin Yeung, Kenneth Leung und Kwok Ka-ki (v. l.) bei einer Pressekonferenz (Vincent Yu/AP Photo/picture alliance)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Mittwoch – als Text und als verständlich gesprochene Audio-Datei.<span class="icon audio"></span>
+  </p>
+</a>
+</div>
+<!-- links -->
+<div class="linkList overlayIcon">
+<a class="overlayLink" href="/overlay/media/de/11112020-langsam-gesprochene-nachrichten/55560927/55560603" link="/overlay/media/de/11112020-langsam-gesprochene-nachrichten/55560927/55560603" rel="nofollow">
+<h2>
+Nachrichten von Mittwoch, 11.11.2020 – langsam gesprochen als MP3
+<span class="icon audio"></span>   </h2>
+</a>
+</div>
+<div class="linkList overlayIcon">
+<a class="overlayLink" href="/overlay/media/de/11112020-langsam-gesprochene-nachrichten/55560928/55560603" link="/overlay/media/de/11112020-langsam-gesprochene-nachrichten/55560928/55560603" rel="nofollow">
+<h2>
+Nachrichten von Mittwoch, 11.11.2020 – im Originaltempo als MP3
+<span class="icon audio"></span>   </h2>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">ÄLTERE NACHRICHTEN</div>
+<!-- Accordion Teaser -->
+<div class="col2 accordionTeaser">
+<div class="group accordion" data-fsid="35394315" id="accordion_35394315" role="tablist">
+<div class="news">
+<a href="/de/10112020-langsam-gesprochene-nachrichten/a-55551564">
+<h2 class="linkable">
+10.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201110" data-id="35394315_55551564" data-title="10.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Ein Mann mit einer Langwaffe und Tarnkleidung läuft durch die Trümmer eines Gebäudes. (Iliya Pitalev/Sputnik/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55520725_301.jpg" title="Ein Mann mit einer Langwaffe und Tarnkleidung läuft durch die Trümmer eines Gebäudes. (Iliya Pitalev/Sputnik/dpa/picture alliance)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Dienstag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/09112020-langsam-gesprochene-nachrichten/a-55540412">
+<h2 class="linkable">
+09.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201109" data-id="35394315_55540412" data-title="09.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="George W. Bush (AFP/Getty Images/Saul Loeb)" itemprop="image" src="https://static.dw.com/image/18013594_301.jpg" title="George W. Bush (AFP/Getty Images/Saul Loeb)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Montag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/07112020-langsam-gesprochene-nachrichten/a-55527530">
+<h2 class="linkable">
+07.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201107" data-id="35394315_55527530" data-title="07.11.2020 – Langsam gesprochene Nachrichten">
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Samstag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/06112020-langsam-gesprochene-nachrichten/a-55516326">
+<h2 class="linkable">
+06.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201106" data-id="35394315_55516326" data-title="06.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="USA: Wahlhelfer bei der Auszählung von Wahlzetteln (Joe Skipper/REUTERS)" itemprop="image" src="https://static.dw.com/image/55491349_301.jpg" title="USA: Wahlhelfer bei der Auszählung von Wahlzetteln (Joe Skipper/REUTERS)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Freitag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<!-- Accordion Teaser -->
+<div class="col2 accordionTeaser">
+<div class="group accordion" data-fsid="35394317" id="accordion_35394317" role="tablist">
+<div class="news">
+<a href="/de/05112020-langsam-gesprochene-nachrichten/a-55506847">
+<h2 class="linkable">
+05.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201105" data-id="35394317_55506847" data-title="05.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Joe Biden lächelt und hat die Faust zu einer Siegesgeste auf Brusthöhe erhoben. Im Hintergrund ist die Flagge der USA zu sehen. (Angela Weiss/AFP)" itemprop="image" src="https://static.dw.com/image/55504325_301.jpg" title="Joe Biden lächelt und hat die Faust zu einer Siegesgeste auf Brusthöhe erhoben. Im Hintergrund ist die Flagge der USA zu sehen. (Angela Weiss/AFP)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Donnerstag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/04112020-langsam-gesprochene-nachrichten/a-55493827">
+<h2 class="linkable">
+04.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201104" data-id="35394317_55493827" data-title="04.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Ein Bildschirm mit den vorläufigen Ergebnissen der US-Wahl. (Carl Court/Getty Images)" itemprop="image" src="https://static.dw.com/image/55493892_301.jpg" title="Ein Bildschirm mit den vorläufigen Ergebnissen der US-Wahl. (Carl Court/Getty Images)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Mittwoch – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/03112020-langsam-gesprochene-nachrichten/a-55481849">
+<h2 class="linkable">
+03.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201103" data-id="35394317_55481849" data-title="03.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Zwei Polizisten an einem der Tatorte der Attentate in Wien (Leonhard Foeger/REUTERS)" itemprop="image" src="https://static.dw.com/image/55481572_301.jpg" title="Zwei Polizisten an einem der Tatorte der Attentate in Wien (Leonhard Foeger/REUTERS)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Dienstag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/02112020-langsam-gesprochene-nachrichten/a-55471095">
+<h2 class="linkable">
+02.11.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201102" data-id="35394317_55471095" data-title="02.11.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Stühle eines Restaurants sind hochkant an die Tische gelehnt (Oliver Berg/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55470024_301.jpg" title="Stühle eines Restaurants sind hochkant an die Tische gelehnt (Oliver Berg/dpa/picture alliance)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Montag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<!-- Accordion Teaser -->
+<div class="col2 accordionTeaser">
+<div class="group accordion" data-fsid="35394346" id="accordion_35394346" role="tablist">
+<div class="news">
+<a href="/de/31102020-langsam-gesprochene-nachrichten/a-55455577">
+<h2 class="linkable">
+31.10.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201031" data-id="35394346_55455577" data-title="31.10.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Das Bild zeigt eingefallene Gebäude und von Trümmern zerstörte Autos nach einem Erdbeben auf der griechischen Inseln Samos." itemprop="image" src="https://static.dw.com/image/55450295_301.jpg" title="Das Bild zeigt eingefallene Gebäude und von Trümmern zerstörte Autos nach einem Erdbeben auf der griechischen Inseln Samos."/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Samstag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/30102020-langsam-gesprochene-nachrichten/a-55443812">
+<h2 class="linkable">
+30.10.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201030" data-id="35394346_55443812" data-title="30.10.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Eine Frau und ein Mann in Schutzanzügen verlassen ein Gebäude. (Rick Bowmer/AP Photo/picture-alliance)" itemprop="image" src="https://static.dw.com/image/55384001_301.jpg" title="Eine Frau und ein Mann in Schutzanzügen verlassen ein Gebäude. (Rick Bowmer/AP Photo/picture-alliance)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Freitag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/29102020-langsam-gesprochene-nachrichten/a-55432083">
+<h2 class="linkable">
+29.10.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201029" data-id="35394346_55432083" data-title="29.10.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Medizinisches Personal hält einen Träger mit Teströhrchen (picture-alliance/S. Simon)" itemprop="image" src="https://static.dw.com/image/55093673_301.jpg" title="Medizinisches Personal hält einen Träger mit Teströhrchen (picture-alliance/S. Simon)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Donnerstag – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+<div class="news closed">
+<a href="/de/28102020-langsam-gesprochene-nachrichten/a-55418579">
+<h2 class="linkable">
+28.10.2020 – Langsam gesprochene Nachrichten
+</h2>
+<div class="newsWrapper" data-date="20201028" data-id="35394346_55418579" data-title="28.10.2020 – Langsam gesprochene Nachrichten">
+<div class="teaserImg">
+<img alt="Ein Restaurantbesitzer steht zwischen hochgestellten Stühlen in seinem Restaurant (Guido Kirchner/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55397113_301.jpg" title="Ein Restaurantbesitzer steht zwischen hochgestellten Stühlen in seinem Restaurant (Guido Kirchner/dpa/picture alliance)"/> </div>
+<p>Trainiere dein Hörverstehen mit den Nachrichten der Deutschen Welle von Mittwoch – als Text und als verständlich gesprochene Audio-Datei. <span class="icon audio"></span>
+  </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col2">
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/mit-dem-profi-im-studio/a-52951134">
+<div class="teaserImg">
+<img alt="Radiosprecher am Mikrophon (DW)" itemprop="image" src="https://static.dw.com/image/52928018_302.jpg" title="Radiosprecher am Mikrophon (DW)"/> </div>
+<div class="teaserContentWrap">
+<h4>Hinter den Kulissen</h4>
+<h2>
+Mit dem Profi im Studio
+</h2>
+<p>Auch in den bewegten Zeiten von Corona bleibt ihr mit den langsam gesprochenen Nachrichten immer auf dem Laufenden. Schaut mit uns hinter die Kulissen dieses beliebten Deutschlern-Formats.<span class="icon tv"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">EURE FAVORITEN</div>
+<!-- PictureGallery -->
+<div class="gallery col2 pictureGalleryTeaser">
+<div class="imgTeaserM slideshow noDim" data-date="20180510" data-firstcategory="19990003" data-id="15826936" data-title="Eure Favoriten">
+<ul class="slides">
+<!-- Picture gallery - related image -->
+<li class="first">
+<div class="teaserImg">
+<img alt="Hongkong Carrie Lam, Dennis Kwok, Kenneth Leung, Kwok Ka-ki, Alvin Yeung (Vincent Yu/AP Photo/picture alliance)" itemprop="image" src="https://static.dw.com/image/55560086_302.jpg" title="Hongkong Carrie Lam, Dennis Kwok, Kenneth Leung, Kwok Ka-ki, Alvin Yeung (Vincent Yu/AP Photo/picture alliance)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+<a class="more" href="/de/11112020-langsam-gesprochene-nachrichten/a-55560603" rel="nofollow" target="_self">mehr</a>
+</div>
+<h4>Eure Favoriten</h4>
+<h2>Platz 1 | Langsam gesprochene Nachrichten</h2>
+<p>Nachrichten von Mittwoch, dem 11. November 2020: Hongkong hat vier Politiker der demokratischen Opposition aus dem Parlament der Sonderverwaltungsregion ausgeschlossen. Wie Hongkongs Regierung mitteilte, wurden den vier Politikern nach einer Entscheidung Pekings ihre Sitze entzogen. Sie waren bereits von der Parlamentswahl im September ausgeschlossen worden.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Thea Kurzbarth (später Mirjam Pollin) mit ihrem Vater und den beiden Geschwistern (Privat)" itemprop="image" src="https://static.dw.com/image/52160299_302.jpg" title="Thea Kurzbarth (später Mirjam Pollin) mit ihrem Vater und den beiden Geschwistern (Privat)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+<a class="more" href="/de/meine-kindheit-war-angst-erinnerungen-an-die-pogromnacht/l-52140903" rel="nofollow" target="_self">mehr</a>
+</div>
+<h4>Eure Favoriten</h4>
+<h2>Platz 2 | „Meine Kindheit war Angst“: Erinnerungen an die Pogromnacht</h2>
+<p>Alltagsdeutsch von Dienstag, dem 10. November 2020: Die Reichspogromnacht gehört zu den dunkelsten Kapiteln deutscher Geschichte. Juden wurden gejagt, ihre Geschäfte zerstört, Synagogen in Brand gesetzt. Das alles erlebte Mirjam Pollin als Kind in Hamburg.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="President-Elect Joe Biden And Vice President-Elect Kamala Harris Address The Nation After Election Win (Tasos Katopodis/Getty Images)" itemprop="image" src="https://static.dw.com/image/55541806_302.jpg" title="President-Elect Joe Biden And Vice President-Elect Kamala Harris Address The Nation After Election Win (Tasos Katopodis/Getty Images)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+<a class="more" href="/de/kamala-harris-wird-erste-us-vizepräsidentin/l-55553805" rel="nofollow" target="_self">mehr</a>
+</div>
+<h4>Eure Favoriten</h4>
+<h2>Platz 3 | Kamala Harris wird erste US-Vizepräsidentin</h2>
+<p>Top-Thema von Dienstag, dem 10. November 2020: In ihrem Amt wird sie ab 2021 nicht nur die erste Frau, sondern auch die erste Person of Color sein. Die neue US-Vizepräsidentin Kamala Harris war in ihrem Leben schon oft Wegbereiterin.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Tami Weissenberg (Robert Richter/DW)" itemprop="image" src="https://static.dw.com/image/55400567_302.jpg" title="Tami Weissenberg (Robert Richter/DW)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+<a class="more" href="/de/häusliche-gewalt-trifft-auch-männer/l-55510807" rel="nofollow" target="_self">mehr</a>
+</div>
+<h4>Eure Favoriten</h4>
+<h2>Platz 4 | Häusliche Gewalt trifft auch Männer</h2>
+<p>Top-Thema von Freitag, dem 06. November 2020: Für viele ist es noch immer ein Tabu: Männer als Opfer häuslicher Gewalt. Hilfsangebote für die Betroffenen gibt es bislang kaum, denn die gesellschaftlichen Rollenbilder sitzen tief. Doch das ändert sich langsam.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Sieben Anzeichen für den Frühling (picture-alliance/dpa/S. Schuldt)" itemprop="image" src="https://static.dw.com/image/52753317_302.jpg" title="Sieben Anzeichen für den Frühling (picture-alliance/dpa/S. Schuldt)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+<a class="more" href="/de/wolle-aus-deutschland-ein-schwieriges-geschäft/l-55497858" rel="nofollow" target="_self">mehr</a>
+</div>
+<h4>Eure Favoriten</h4>
+<h2>Platz 5 | Wolle aus Deutschland: ein schwieriges Geschäft</h2>
+<p>Video-Thema von Mittwoch, dem 04. November 2020: Schafe zu halten ist in Deutschland ein schwieriges Geschäft. Die Wolle bringt kein Geld, denn die Konkurrenz aus dem Ausland ist zu stark und die Verarbeitung zu teuer. Eine Schneiderin möchte das ändern.</p>
+</div>
+</li>
+</ul>
+<br class="clearfix"/>
+<div class="teaserNavWrap">
+<div class="slidePagination">
+<div style="float: right">
+<a class="function tostart" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function rwd" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function fwd" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function toend" href="javascript:void(0);" rel="nofollow"></a>
+</div>
+<a class="function playpause" href="javascript:void(0);" rel="nofollow"></a>
+<span class="slideshowNav"></span>
+</div>
+</div>
+</div>
+</div>
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">LANGSAM GESPROCHENE NACHRICHTEN ALS PODCAST</div>
+<!-- Article Detail-Teaser -->
+<div class="col2 articleDetailTeaser">
+<div class="group">
+<h4></h4>
+<div class="news pseudo linklist">
+<p><strong>Nutzt unsere Audioangebote für den Unterricht oder unterwegs zum Selbstlernen. Hier könnt ihr die Langsam gesprochenen Nachrichten abonnieren!</strong></p>
+</div>
+<div class="linkList intern">
+<a href="http://rss.dw.com/xml/DKpodcast_lgn_de" rel="noopener" target="_blank">
+<h2>
+Langsam gesprochene Nachrichten | Deutsch lernen (RSS)
+  </h2>
+</a>
+</div>
+<div class="linkList external">
+<a href="https://itunes.apple.com/podcast/id282930329?id=282930329" rel="nofollow noopener" target="_blank">
+<h2>
+Langsam gesprochene Nachrichten | Deutsch lernen (iTunes)
+</h2>
+</a>
+</div>
+</div>
+</div>
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">NACHRICHTENVOKABULAR VON A BIS Z</div>
+<!-- Article Detail-Teaser -->
+<div class="col2 articleDetailTeaser">
+<div class="group">
+<h4></h4>
+<div class="news pseudo linklist">
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-a/a-1023749">
+<h2>
+Begriffe aus der Nachrichtensprache - A
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-b/a-2577281">
+<h2>
+Begriffe aus der Nachrichtensprache - B
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-cd/a-2577284">
+<h2>
+Begriffe aus der Nachrichtensprache - CD
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-e/a-2577293">
+<h2>
+Begriffe aus der Nachrichtensprache - E
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-f/a-2577299">
+<h2>
+Begriffe aus der Nachrichtensprache - F
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-g/a-2577302">
+<h2>
+Begriffe aus der Nachrichtensprache - G
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-h/a-2577313">
+<h2>
+Begriffe aus der Nachrichtensprache - H
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-ij/a-2577329">
+<h2>
+Begriffe aus der Nachrichtensprache - IJ
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-k/a-2577364">
+<h2>
+Begriffe aus der Nachrichtensprache - K
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-l/a-2577367">
+<h2>
+Begriffe aus der Nachrichtensprache - L
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-m/a-2577378">
+<h2>
+Begriffe aus der Nachrichtensprache - M
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-n/a-2577385">
+<h2>
+Begriffe aus der Nachrichtensprache - N
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-o/a-2577391">
+<h2>
+Begriffe aus der Nachrichtensprache - O
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-pq/a-2577395">
+<h2>
+Begriffe aus der Nachrichtensprache - PQ
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-r/a-2577401">
+<h2>
+Begriffe aus der Nachrichtensprache - R
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-s/a-2581693">
+<h2>
+Begriffe aus der Nachrichtensprache - S
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-t/a-2581701">
+<h2>
+Begriffe aus der Nachrichtensprache - T
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-u/a-2581711">
+<h2>
+Begriffe aus der Nachrichtensprache - U
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-v/a-2581717">
+<h2>
+Begriffe aus der Nachrichtensprache - V
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-w/a-2581723">
+<h2>
+Begriffe aus der Nachrichtensprache - W
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/begriffe-aus-der-nachrichtensprache-xyz/a-2581763">
+<h2>
+Begriffe aus der Nachrichtensprache - XYZ
+  </h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!--[if lt IE 8 ]></div><![endif]-->
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">
+<li><a href="/de/themen/s-9077" style="font-weight: bold;" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+</li>
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+<li> </li>
+<li><a href="/de/themen-von-a-bis-z/index-de">Themen von A bis Z</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/media-center/s-100813" style="font-weight: bold;" title="Das Media Center: Die Mediathek der Deutschen Welle">MEDIA CENTER</a>
+</li>
+<li><a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a></li>
+<li><a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a></li>
+<li><a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a></li>
+<li><a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a></li>
+<li><a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/tv/s-9093" style="font-weight: bold;" title="TV">TV</a>
+</li>
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a></li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/deutsch-lernen/s-2055" style="font-weight: bold;" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+</li>
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/unternehmen/profil/s-30626" style="font-weight: bold;" title="UNTERNEHMEN">UNTERNEHMEN</a>
+</li>
+<li><a href="/de/unternehmen/profil/s-30626" title="Über uns">Über uns</a></li>
+<li><a href="/de/unternehmen/karriere/s-11525" title="Machen Sie Karriere – Aktuelle Jobs bei der Deutschen Welle">Karriere</a></li>
+<li><a href="/de/unternehmen/presse/s-2981" title="Presse">Presse</a></li>
+<li><a href="/de/unternehmen/business-sales/s-3086" title="Business &amp; Sales">Business &amp; Sales</a></li>
+<li><a href="/de/unternehmen/travel/s-7456" title="Travel Distribution">Travel</a></li>
+<li><a href="https://dwwerbung.com" title="Werbung">Werbung</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/service/empfang/s-4136" style="font-weight: bold;" title="Service">SERVICE</a>
+</li>
+<li><a href="/de/service/empfang/s-4136" title="Empfang der TV Programme der Deutschen Welle in Ihrer Region">Empfang</a></li>
+<li><a href="/de/service/apps-co/s-50833969" title="DW Apps für iOS, Android, Smart TV und Sprachassistenten">Apps &amp; Co.</a></li>
+<li><a href="/newsletter-anmeldung/a-15718221" title="Newsletter &amp; Co.">Newsletter &amp; Co.</a></li>
+<li><a href="/de/service/faq/s-30582" title="FAQ: Antworten auf häufige Fragen an die Deutsche Welle">FAQ</a></li>
+<li><a href="/de/service/kontakt/s-30583" title="Anschriften und Ansprechpartner bei der Deutschen Welle">Kontakt</a></li>
+<li> </li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" style="font-weight: bold;" title="DW AKADEMIE">DW AKADEMIE</a>
+</li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" title="Über Uns | DW Akademie">Über uns</a></li>
+<li><a href="/de/dw-akademie/medienentwicklung/s-11812" title="Medienentwicklung | DW Akademie">Medienentwicklung</a></li>
+<li><a href="/de/dw-akademie/studium/s-12262" title="International Media Studies: Studium bei der Deutschen Welle">Studium</a></li>
+<li><a href="/de/dw-akademie/volontariat/s-11881" title="Starten Sie durch mit einem Volontariat der Deutschen Welle">Volontariat</a></li>
+<li><a href="/de/dw-akademie/medientraining/s-11813" title="Medientraining I Auftritt in Medien und Öffentlichkeit">Medientraining</a></li>
+</ul>
+<p id="copyright">
+© 2020 Deutsche Welle |
+<a href="/de/definition-und-nutzung-von-daten-durch-die-deutsche-welle-gemäß-eu-dsgvo/a-18265186">Datenschutz</a> |
+<a href="/impressum">Impressum</a> |
+<a href="/kontakt">Kontakt</a>
+| <a href="https://m.dw.com/de/deutsch-lernen/nachrichten/s-8030" id="mobilePreferredLink">Mobile Version</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+</body></html>

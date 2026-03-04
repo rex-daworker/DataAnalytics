@@ -1,0 +1,177 @@
+h1,h2,h3,h4,h5,h6 { font-family: "proxima-nova",sans-serif; }
+#banner-search-term.inactive { font-family: "proxima-nova",sans-serif; }
+#banner .hmenu a { font-family: "proxima-nova",sans-serif; }
+#banner-toggle a { font-family: "proxima-nova",sans-serif; }
+#saved-comparisons { font-family: "proxima-nova",sans-serif; }
+.home-hero-text ul { font-family: "proxima-nova",sans-serif; }
+.premium p { font-family: "proxima-nova",sans-serif; }
+.home #logo a.leave-behind{ font-family: "proxima-nova",sans-serif; }
+.video-listing .excerpt-text { font-family: "proxima-nova",sans-serif; }
+.filters.videoIndex { font-family: "proxima-nova",sans-serif; }
+#home-main-primary .listing-footer { font-family: "proxima-nova",sans-serif; }
+#home-reviews h2{color:#3399CC;}
+.home-review a .title{ font-family: "proxima-nova",sans-serif; font-size:18px; line-height:1.1em;font-weight:700; }
+#home-featured-brands { font-family: "proxima-nova",sans-serif; }
+#panel-nav a { font-family: "proxima-nova",sans-serif; font-size:13px; }
+.panel { font-family: "proxima-nova",sans-serif; }
+#side #buzz-commented{ font-family: "proxima-nova",sans-serif;}
+#side #mostCommentedModule h3{color:#333;}
+#site-nav a { font-family: "proxima-nova",sans-serif; font-size:13px; }
+#section-nav a { font-family: "proxima-nova",sans-serif; }
+#extra-nav{ font-family: "proxima-nova",sans-serif; }
+#extra-nav li a:hover { color:#3478c6; }
+.feature-inner{ font-family: "proxima-nova",sans-serif; }
+.department a { font-family: "proxima-nova",sans-serif; color:#3399CC; }
+.department ul.tags li, .department ul.tags li a { font-family: "proxima-nova",sans-serif; }
+article h1 { font-family: "proxima-nova",sans-serif; }
+.deck h2 { color: #999; margin-top: .5em; margin-bottom: .8em; font-weight: 400; line-height: 1.35em; font-size: 1.3em; }	
+#product-hed h1 { font-family: "proxima-nova",sans-serif; }
+#product-hed h2 { font-family: "proxima-nova",sans-serif; }
+#product-hed h3 { font-family: "proxima-nova",sans-serif; color: #333; }
+.pullquote-container p { font-family: "proxima-nova",sans-serif; color:#3478c6; }
+.article-meta .author-name a{ font-family: "proxima-nova",sans-serif; }
+.author-info h3 { font-family: "proxima-nova",sans-serif; }
+#comments header h2 { font-family: "proxima-nova",sans-serif; color: #3399CC; }
+#comment-count, .comment-count{ font-family: "proxima-nova",sans-serif; }
+.comment-tools a{ color: #3399CC; }
+#comment-form h3 { font-family: "proxima-nova",sans-serif; }
+#commentsNavTopContainer { font-family: "proxima-nova",sans-serif; }
+#commentsNavTopContainera.selected.btn-link { background: #ADDE4E; background: -moz-linear-gradient(top, #ADDE4E 0%, #8faf43 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ADDE4E), color-stop(100%,#8faf43)); background: -webkit-linear-gradient(top, #ADDE4E 0%,#8faf43 100%); background: -o-linear-gradient(top, #ADDE4E 0%,#8faf43 100%); background: -ms-linear-gradient(top, #ADDE4E 0%,#8faf43 100%); background: linear-gradient(top, #ADDE4E 0%,#8faf43 100%); }
+#commentsNavTopContainera.selected.btn-link:hover { background: #8faf43; background: -moz-linear-gradient(top, #8faf43 0%, #ADDE4E 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8faf43), color-stop(100%,#ADDE4E)); background: -webkit-linear-gradient(top, #8faf43 0%,#ADDE4E 100%); background: -o-linear-gradient(top, #8faf43 0%,#ADDE4E 100%); background: -ms-linear-gradient(top, #8faf43 0%,#ADDE4E 100%); background: linear-gradient(top, #8faf43 0%,#ADDE4E 100%); }
+span.editorLabel, span.editorBadged{ background-color: #3399CC; }
+body.product section h3, body.category section h3, article details summary { font-family: "proxima-nova",sans-serif; color:#3399cc; }
+#carousel-thumbs-holder .next, #carousel-thumbs-holder .prev{ color: #3399CC; }
+.product section h3, 
+.category section h3{ color: #333; }
+.product #page-lede .flag { font-family: "proxima-nova",sans-serif; }
+.flag .businessReady{background:url(http://csmb.staticworld.net/images/furniture/macworld/BadgeBusinessReady-MW.png) 0 0 no-repeat; }
+.flag .threeSixty{background:url(http://csmb.staticworld.net/images/furniture/macworld/Badge360-MW.png) 0 0 no-repeat; }
+.awardFlag .editorsChoice{background:url(http://csmb.staticworld.net/images/furniture/techhive/site_awards_macworld.png) 0 0 no-repeat; }
+body.product #compare-lede, #product-cap #compare-lede, body.collection #compare-lede { font-family: "proxima-nova",sans-serif; }
+section table.related td h4 { font-family: "proxima-nova",sans-serif; }
+section table.related td.desc p.read-more { font-family: "proxima-nova",sans-serif; }
+#lab-compare .compare-bar-num { font-family: "proxima-nova",sans-serif; }
+#lab-compare .full-compare { font-family: "proxima-nova",sans-serif; }
+#product-meta a, #product-meta summary { font-family: "proxima-nova",sans-serif; }
+.network-col { font-family: "proxima-nova",sans-serif; }
+#footer { font-family: "proxima-nova",sans-serif; }
+a .btn-link,
+a.btn-link,
+button,
+input[type=submit],
+input[type=button] { font-family: "proxima-nova",sans-serif; }
+.side-product-list { font-family: "proxima-nova",sans-serif; }
+.side-module h2,
+.main-module h2 { font-family: "proxima-nova",sans-serif; }
+.side-module h2,
+.main-module h2 { color:#333; font-family:'Helvetica Neue',Arial,sans-serif; }
+.side-module.how-to { font-family: "proxima-nova",sans-serif; }
+.newsletterTitle { font-family: "proxima-nova",sans-serif; }
+.side-superguide { font-family: "proxima-nova",sans-serif; }
+.related-stories { font-family: "proxima-nova",sans-serif; }
+.rating-number { font-family: "proxima-nova",sans-serif; }
+body.category #hed-span h1 { font-family: "proxima-nova",sans-serif; color:#3399CC; }
+body.category.c3105 #hed-span h1 { text-transform: none; }
+body.category #page-lede h2 { font-family: "proxima-nova",sans-serif; color:3399CC; }
+body.category #page-lede h3 { color:3A3A3A; } 
+body.category section li { font-family: "proxima-nova",sans-serif; }
+body.category .badged-module .styled-select select { font-family: "proxima-nova",sans-serif; }
+.slideshow #slides .caption p.credits { font-family: "proxima-nova",sans-serif; }
+.slideshow #slides nav { font-family: "proxima-nova",sans-serif; }
+.peek-desc .price { font-family: "proxima-nova",sans-serif; }
+.peek-desc .category { font-family: "proxima-nova",sans-serif; }
+.peek-compare div { font-family: "proxima-nova",sans-serif; }
+.pagination { font-family: "proxima-nova",sans-serif; }
+.collection-item-meta { font-family: "proxima-nova",sans-serif; }
+.collection-item .title { font-family: "proxima-nova",sans-serif; }
+.column-hed h1 { color:#3399CC; }
+.column-hed h1 a { color:#3399CC; }
+.hed-desc { font-family: "proxima-nova",sans-serif; }
+.column-feature a { font-family: "proxima-nova",sans-serif; }
+body.one-col #hed-span h1 { color:#3399CC; }
+.premium-meta th { font-family: "proxima-nova",sans-serif; }
+p.category, p.category a,span.category, .excerpt span.sponsored { font-family: "proxima-nova",sans-serif; color:#3399CC; }
+#premium-samples p { font-family: "proxima-nova",sans-serif; }
+#superguide-load{ font-family: "proxima-nova",sans-serif; }
+.story-pkg-inner p { font-family: "proxima-nova",sans-serif; }
+#main-search-term{ font-family: "proxima-nova",sans-serif; }
+.filters p { font-family: "proxima-nova",sans-serif; }
+.excerpt .category, .excerpt .sponsored{ font-family: "proxima-nova",sans-serif; }
+.filtered .excerpt.multi-result { font-family: "proxima-nova",sans-serif; }
+.directory-feature a { font-family: "proxima-nova",sans-serif; }
+.welcome { font-family: "proxima-nova",sans-serif; }
+.product-results { font-family: "proxima-nova",sans-serif; }
+#filters-search-term { font-family: "proxima-nova",sans-serif; }
+.storyline-show-more { font-family: "proxima-nova",sans-serif; }
+.storyline-cap { font-family: "proxima-nova",sans-serif; }
+.storyline-timestamp { font-family: "proxima-nova",sans-serif; }
+.storyline-start-link { font-family: "proxima-nova",sans-serif; }
+th.comp-product p.price { font-family: "proxima-nova",sans-serif; }
+th.comparison-links { font-family: "proxima-nova",sans-serif; }
+table.comparison th[scope=row] { font-family: "proxima-nova",sans-serif; }
+table.comparison.comparison-primary th[scope=row]{ color:#3399CC; }
+body.compare-page section h3 { font-family: "proxima-nova",sans-serif; color:#3399CC; }
+.product.download section table.striped tr th[scope="row"] { font-family: "proxima-nova",sans-serif; }
+.download-product-desc a { font-family: "proxima-nova",sans-serif; }
+.download-product-data span.price { font-family: "proxima-nova",sans-serif; }
+.landing-listing .excerpt p.category { font-family: "proxima-nova",sans-serif; }
+.landing-listing .listing-footer { font-family: "proxima-nova",sans-serif; }
+body.business .side-module h2 { font-family: "proxima-nova",sans-serif; }
+#loginModal #network { font-family: "proxima-nova",sans-serif; }
+#loginModal #login_pop { font-family: "proxima-nova",sans-serif; }
+#loginModal #extra-nav-toggle a { background: url("http://csmb.staticworld.net/images/furniture/macworld/nav-elements_sprite-mw.png") no-repeat scroll 0 0 transparent; }
+body.account.macworld label{ font-family: "proxima-nova",sans-serif; }
+.article .resources .hed {
+font-family: "proxima-nova",sans-serif;
+}
+.article .resources .hed a {
+color:#3399CC;
+}
+.article .resources ul li .title {
+font-family: "proxima-nova",sans-serif;
+}
+.article .resources .more {
+font-family: "proxima-nova",sans-serif;
+}
+.article .resources .more a {
+color:#3399CC;
+}
+/* Nativo homepage module */
+#branded-post .excerpt-text .post-text .post-bug a {
+font-weight:bold;
+font-size:15px;
+}
+/*Nativo article inject styling for MW */
+article .nativo-promo .crawl-headline {
+line-height:normal;
+}
+article .nativo-promo .crawl-headline a {
+font-size:16px;
+font-family: "proxima-nova",sans-serif;
+color:#222;
+}
+article .nativo-promo .crawl-headline a:hover {
+color: #3478c6;
+}
+article .nativo-promo .crawl-summary {
+color:#333;
+font-family: "proxima-nova",sans-serif;
+font-size:14px;
+}
+@media only screen and (min-width:320px) and (max-width:767px) { 
+#mobile-nav-toggle { font-family: "proxima-nova",sans-serif; }
+.deck h2 { line-height: 1.3em; font-size: 1.1em; }	
+}
+@media only screen and (min-width:769px) and (max-width:990px) {
+#site-nav a, #panel-nav a{ font-size:12px; }
+}
+/* site-specific styles for video end screen */
+.overlay .similar-videos .more-videos .head {
+font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif, sans-serif; }
+.overlay .similar-videos .related-grid .list-item .item-meta {
+font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif, sans-serif; }
+.overlay .similar-videos .related-grid .list-item .item-meta .title, {
+font-weight: 400; }
+@media only screen and (min-width: 48em) {
+.overlay .similar-videos .related-grid .list-item .item-meta .title {
+font-weight: 700; } }

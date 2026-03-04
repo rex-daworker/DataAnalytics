@@ -1,0 +1,1 @@
+['lehrerbildung', 'deutsch', 'als', 'zweitsprache', 'sprachdiagnostik', 'sprachförderung', 'mehrsprachigkeit']

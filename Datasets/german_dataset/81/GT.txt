@@ -1,0 +1,1 @@
+['brettspiele', 'spiele', 'gesellschaftsspiele', 'test', 'testberichte', 'videos']

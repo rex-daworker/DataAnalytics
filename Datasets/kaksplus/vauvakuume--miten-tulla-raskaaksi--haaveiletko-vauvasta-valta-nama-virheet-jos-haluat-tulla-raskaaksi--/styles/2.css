@@ -1,0 +1,2059 @@
+
+.magazineListingWidget {
+  overflow: hidden;
+}
+
+.magazineCoverLabel span {
+  display: none;
+}
+
+.notbought:not(.sample) .magazineCoverLabel .labelBuy {
+  display: inline;
+}
+
+.bought .magazineCoverLabel .labelDownload {
+  display: inline;
+}
+
+.downloaded .magazineCoverLabel .labelRead {
+  display: inline;
+}
+
+.sample .magazineCoverLabel .labelSample {
+  display: inline;
+}
+.sample .magazineCoverLabel .labelDownload {
+  display: none;
+}
+.downloaded.sample .magazineCoverLabel .labelSample {
+  display: none;
+}
+
+.magazineCover {
+	cursor: pointer;
+}
+
+/* Magazine listing */
+
+.magazineListing {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.magazineItem {
+	display: block;
+	position: relative;
+	float: left;
+	padding: 0 2% 0 0;
+	margin: 0 2% 0 0;
+	/*border-right: 1px solid #ededed;*/
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+  cursor: pointer;
+}
+
+.magazinesize-small {
+  width: 150px;
+}
+
+.magazinesize-medium {
+  width: 207px;
+}
+
+.magazinesize-large {
+  width: 340px;
+}
+
+.magazineItem a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.magazineListingWidget .widgetTitle {
+  margin: 10px 0;
+}
+
+.magazineItem:last-child {
+	margin: 0;
+	border-right: none;
+}
+
+.magazineCover {
+	position: relative;
+	padding: 0 10px 35px 0;
+}
+
+.magazineCover img {
+	display: block;
+	max-width: 100%;
+	width: auto;
+	box-shadow: 2px 2px 5px rgba(0,0,0,.25);
+}
+
+.magazineCoverCurlTop {
+  height: 29px;
+  position: absolute;
+  z-index: 5;
+  right: 9px;
+  left: 0;
+  bottom: 35px;
+	background-size: contain;
+}
+
+.magazineCoverCurlBottom {
+  height: 32px;
+  width: 28%;
+  position: absolute;
+  z-index: 5;
+  right: 9px;
+  top: 100%;
+  margin-top: -35px;
+  background-size: contain;
+}
+
+.notbought:not(.sample) .magazineCoverCurlBottom {
+  background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/coverCurlBuy.png') no-repeat right top transparent;
+  background-size: contain;
+}
+
+.sample .magazineCoverCurlBottom {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/coverCurlFree.png') no-repeat right top transparent;
+  background-size: contain;
+}
+
+.downloaded .magazineCoverCurlTop {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/coverCurlReadTop.png') no-repeat right bottom transparent;
+  background-size: contain;
+}
+.bought:not(.sample) .magazineCoverCurlBottom,
+.downloaded .magazineCoverCurlBottom {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/coverCurlReadBottom.png') no-repeat right top transparent;
+  background-size: contain;
+}
+
+.magazineDownloadProgress {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+.magazineDownloadProgressOverlay {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  bottom: 35px;
+  left: 0;
+  background: rgba(225, 225, 225, 0.8);
+}
+
+.magazineDownloadProgressOverlay canvas {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+
+.magazineDownloadProgressBar {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0 !important;
+}
+
+.magazineDelete {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 12;
+}
+
+.magazineDeleteButton {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  bottom: 35px;
+  left: 0;
+  color: rgb(85, 80, 77);
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  background: rgba(225, 225, 225, 0.8);
+}
+
+.magazineCoverLabel {
+  position: absolute;
+  z-index: 10;
+  bottom: 16px;
+  right: 15px;
+  font-size: 10px;
+  font-weight: 600;
+  width: 20%;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.magazineInfo {
+	position: relative;
+	/*border: 1px solid transparent;*/
+}
+
+.magazineName {
+	position: absolute;
+	z-index: 10;
+	left: 0;
+	bottom: 16px;
+	right: 30%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 11px;
+	font-weight: 600;
+	color: #00aeef;
+}
+
+.magazineName,
+.magazineName a {
+	text-decoration: none;
+	font-weight: 600;
+	color: #00aeef;
+}
+
+.magazineDate {
+	font-weight: 200;
+	color: #9c9895;
+}
+
+.magazineDescription {
+  display: none;
+  white-space: pre-wrap;
+}
+
+.magazinelisting-pagination {
+  clear: both;
+  text-align: center;
+  padding: 10px 0 40px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.magazinelisting-pagination .prev,
+.magazinelisting-pagination .next {
+  cursor: pointer;
+  font-size: 30px;
+  line-height: 30px;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+/* Images */
+.downloaded .magazineCoverCurlTop {
+  background-size: contain !important;
+}
+.downloaded .magazineCoverCurlBottom {
+  background-size: contain !important;
+}
+.notbought .magazineCoverCurlBottom {
+  background-size: contain !important;
+}
+
+.asmag-widget-mrp a {
+  text-decoration: none;
+  color: inherit;
+}
+.asmag-widget-mrp .widget-title {
+  margin-bottom: 20px;
+}
+.asmag-widget-mrp .mrp-widget-item {
+  padding: 8px 0;
+  overflow: hidden;
+}
+
+.asmag-widget-mrp .mrp-widget-item-thumbnail {
+  clear: both;
+  width: 30%;
+  float: left;
+  margin-right: 8px;
+}
+.asmag-widget-mrp .mrp-widget-item-thumbnail img {
+  max-width: 100%;
+}
+.asmag-widget-mrp .mrp-widget-item-issuename,
+.asmag-widget-mrp .mrp-widget-item-title,
+.asmag-widget-mrp .mrp-widget-item-excerpt {
+  max-width: calc(70% - 8px);
+  display: inline-block;
+}
+.asmag-widget-mrp .mrp-widget-item-issuename {
+  font-size: 12px;
+  margin-bottom: 3px;
+  display: block;
+}
+.asmag-widget-mrp .mrp-widget-item-title {
+  text-decoration: none;
+  color: #000;
+  padding-bottom: 8px;
+  font-weight: 700;
+}
+
+.asmag-widget-search .searchResults {
+  margin-top: 16px;
+}
+.asmag-widget-search .searchResult {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  line-height: 1.1em;
+  cursor: pointer;
+  overflow: hidden;
+}
+.asmag-widget-search .searchResultTitle {
+  display: block;
+  margin-bottom: 4px;
+}
+.asmag-widget-search .searchResultIssue {
+  font-size: 0.8em;
+  margin-right: 5px;
+  float: left;
+}
+.asmag-widget-search .searchResultDate {
+  float: right;
+  font-size: 12px;
+}
+.asmag-widget-search .searchResultContext {
+  display: block;
+  clear: both;
+  font-size: 0.8em;
+  padding-top: 4px;
+}
+.asmag-widget-search .searchResultContext b {
+  color: orange;
+  font-weight: 700;
+}
+.asmag-widget-search .searchPages .prevPage,
+.asmag-widget-search .searchPages .nextPage {
+  cursor: pointer;
+}
+.asmag-widget-search .searchPages .prevPage {
+  float: left;
+  margin-right: 5px;
+}
+.asmag-widget-search .searchPages .nextPage {
+  float: right;
+}
+
+.asmag-widget-toc h2 {
+  margin-bottom: 20px;
+}
+
+.asmag-widget-toc .toc-page {
+  border-bottom: 1px solid #ccc;
+  padding: 8px 0 4px;
+  overflow: hidden;
+}
+
+.asmag-widget-toc .pagenumber {
+  display: inline-block;
+  width: 34px;
+  float: left;
+}
+
+.asmag-widget-toc .toc-page a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.asmag-widget-toc .title {
+  display: inline-block;
+  float: left;
+  width: 80%;
+  width: calc(100% - 34px);
+  font-weight: 700;
+}
+
+.asmag-widget-toc .excerpt {
+  clear: both;
+  display: block;
+  padding-left: 34px;
+  padding-top: 5px;
+}
+
+
+/* --- CSS reset, so that the issue view is not affected by WP theme CSS --- */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+#asmag-issue * {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  -webkit-appearance: none;
+  -webkit-user-select: none;
+  -webkit-text-size-adjust: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+#asmag-issue *,
+#asmag-issue *:before,
+#asmag-issue *:after {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+#asmag-issue,
+#asmag-issue 
+div,
+#asmag-issue 
+span,
+#asmag-issue 
+applet,
+#asmag-issue 
+object,
+#asmag-issue 
+iframe,
+#asmag-issue 
+h1,
+
+#asmag-issue h2,
+#asmag-issue 
+h3,
+#asmag-issue 
+h4,
+#asmag-issue 
+h5,
+#asmag-issue 
+h6,
+#asmag-issue 
+p,
+#asmag-issue 
+blockquote,
+#asmag-issue 
+pre,
+#asmag-issue 
+a,
+#asmag-issue 
+abbr,
+#asmag-issue 
+acronym,
+
+#asmag-issue address,
+#asmag-issue 
+big,
+
+#asmag-issue cite,
+
+#asmag-issue code,
+
+#asmag-issue del,
+
+#asmag-issue dfn,
+#asmag-issue 
+img,
+#asmag-issue 
+ins,
+#asmag-issue 
+kbd,
+#asmag-issue 
+q,
+#asmag-issue 
+s,
+#asmag-issue 
+samp,
+#asmag-issue 
+strike,
+
+#asmag-issue 
+tt,
+#asmag-issue 
+var,
+#asmag-issue 
+center,
+#asmag-issue 
+dl,
+#asmag-issue 
+dt,
+#asmag-issue 
+dd,
+
+#asmag-issue ol,
+#asmag-issue 
+ul,
+#asmag-issue 
+li,
+#asmag-issue 
+fieldset,
+#asmag-issue 
+form,
+#asmag-issue 
+label,
+#asmag-issue 
+legend,
+#asmag-issue 
+table,
+#asmag-issue 
+caption,
+#asmag-issue 
+tbody,
+#asmag-issue 
+tfoot,
+#asmag-issue 
+thead,
+#asmag-issue 
+tr,
+#asmag-issue 
+th,
+#asmag-issue 
+td,
+#asmag-issue 
+article,
+#asmag-issue 
+aside,
+#asmag-issue 
+canvas,
+#asmag-issue 
+details,
+#asmag-issue 
+embed,
+#asmag-issue 
+figure,
+#asmag-issue 
+figcaption,
+#asmag-issue 
+footer,
+#asmag-issue 
+header,
+#asmag-issue 
+hgroup,
+#asmag-issue 
+menu,
+#asmag-issue 
+nav,
+#asmag-issue 
+output,
+#asmag-issue 
+ruby,
+#asmag-issue 
+section,
+#asmag-issue 
+summary,
+#asmag-issue 
+time,
+#asmag-issue 
+mark,
+#asmag-issue 
+audio,
+#asmag-issue 
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  clear: none;
+  color: inherit;
+}
+
+/* HTML5 display-role reset for older browsers */
+#asmag-issue article,
+
+#asmag-issue aside,
+
+#asmag-issue details,
+#asmag-issue 
+figcaption,
+#asmag-issue 
+figure,
+
+#asmag-issue footer,
+
+#asmag-issue header,
+#asmag-issue 
+hgroup,
+
+#asmag-issue menu,
+
+#asmag-issue nav,
+#asmag-issue 
+section {
+	display: block;
+}
+#asmag-issue {
+  line-height: normal;
+  font-size: 16px;
+}
+#asmag-issue ol,
+#asmag-issue 
+ul {
+	list-style: none;
+}
+#asmag-issue blockquote,
+
+#asmag-issue q {
+	quotes: none;
+}
+#asmag-issue blockquote:before,
+#asmag-issue 
+blockquote:after,
+#asmag-issue 
+q:before,
+#asmag-issue 
+q:after {
+	content: '';
+	content: none;
+}
+#asmag-issue table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#asmag-issue script,
+#asmag-issue style {
+  display: none !important;
+}
+
+/* From WebKit default CSS */
+#asmag-issue h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+#asmag-issue h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+#asmag-issue h3 {
+  font-size: 1.17em;
+  font-weight: bold;
+}
+#asmag-issue h4 {
+  font-weight: bold;
+}
+#asmag-issue h5 {
+  font-size: .83em;
+  font-weight: bold;
+}
+#asmag-issue h6 {
+  font-size: .67em;
+  font-weight: bold;
+}
+
+#asmag-issue .textcontainer p,
+#asmag-issue .textcontainer h1,
+#asmag-issue .textcontainer h2,
+#asmag-issue .textcontainer h3,
+#asmag-issue .textcontainer h4,
+#asmag-issue .textcontainer h5,
+#asmag-issue .textcontainer h6 {
+  min-height: 1em;
+}
+
+#asmag-issue input,
+#asmag-issue select,
+#asmag-issue label,
+#asmag-issue textarea {
+  -webkit-user-select: auto;
+}
+
+html.asmag-active {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+body.asmag-active {
+  overflow: hidden !important;
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  position: absolute !important;
+  left: 0 !important;
+  right: 0 !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  background: black !important;
+}
+
+html.asmag-active,
+body.asmag-active {
+  -ms-touch-action: none;
+}
+html.asmag-active *,
+body.asmag-active * {
+  -ms-content-zooming: none;
+  content-zooming: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -ms-content-zoom-limit-min: 100%;
+  -ms-content-zoom-limit-max: 100%;
+  -ms-scroll-chaining: none;
+}
+
+body.asmag-active > * {
+  display: none;
+}
+
+html.asmag-online .offline-only,
+body.asmag-online .offline-only,
+html.asmag-offline .online-only,
+body.asmag-offline .online-only {
+  display: none;
+}
+
+#asmag-issue {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	overflow: hidden;
+	background-color: black;
+	display: none;
+  margin: 0;
+  padding: 0;
+}
+
+#asmag-issue .asmag-page {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: white;
+}
+
+#ajax-magazine {
+	display: none;
+	position: absolute;
+	z-index: 10;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: #000;
+}
+
+
+#asmag-issue #developer {
+  position: fixed;
+  z-index: 1000;
+  right: 5px;
+  bottom: 5px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  font-size: 10px;
+  background: red;
+  color: #fff;
+  font-family: sans-serif;
+  border-radius: 25px;
+}
+
+
+#asmag-issue #ajax-magazine-overlay {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 150;
+	background: #000;
+}
+
+
+#asmag-issue #offlinenotice {
+	position: absolute;
+	z-index: 210;
+	right: 10px;
+	bottom: 10px;
+	padding: 5px 10px;
+	background: rgba(0,0,0,.6);
+	color: #fff;
+	font-weight: 600;
+	font-size: 12px;
+	border-radius: 5px;
+  cursor: pointer;
+}
+
+#asmag-issue .noncachedpage {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 45%;
+  font-size: 1.2em;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+
+#asmag-issue #toc {
+    display: none;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 150;
+    width: 80%;
+    min-width: 280px;
+    max-width: 360px;
+    background-color: #000;
+}
+
+
+#asmag-issue #toc p {
+    font-size: 11px;
+    font-family: 'Helvetica Neue', Helvetica;
+}
+
+#asmag-issue .tableOfContents {
+	display: block;
+}
+
+#asmag-issue .tableOfContents li {
+	overflow: auto;
+	display: block;
+	clear: both;
+	width: 100%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border-bottom: 2px solid #f0f0f0;
+	cursor: pointer;
+}
+
+#asmag-issue .tableOfContents li img {
+	float: left;
+	max-width: 20%;
+	height: auto;
+	margin: 0 10px 0 0;
+}
+
+#asmag-issue .tableOfContents li h4 {
+	margin: 0 0 5px;
+	font-size: 14px;
+	line-height: 18px;
+	color: #7e7976;
+}
+
+#asmag-issue .tableOfContents li p {
+	font-size: 11px;
+	line-height: 15px;
+	color: #9a9997;
+}
+
+
+#asmag-issue #overlay {
+    display: none;
+    position: absolute;
+    z-index: 50;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,.6);
+    opacity: .75;
+}
+
+
+#asmag-issue #overlay p {
+    position: absolute;
+    top: 55%;
+    right: 0;
+    left: 0;
+    font-size: 80%;
+    font-style: italic;
+    text-align: center;
+    color: #fff;
+}
+
+
+#asmag-issue #overlay.loader {
+    background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/loader.gif') rgba(0,0,0,1) no-repeat center center;
+}
+
+#asmag-issue #tplLabel {
+  position: absolute;
+  z-index: 1000;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  background-color: rgba(255,255,255,0.7);
+}
+
+.shared #asmag-issue .shared-metadata {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 24px;
+  z-index: 10;
+  font-size: 16px;
+  text-align: center;
+}
+.shared #asmag-issue .shared-metadata .issuename {
+  bottom: 0;
+  padding: 7px 10px 10px 33px;
+  z-index: 10;
+  background-color: rgba(255,255,255,0.9);
+  font-size: 16px;
+  display: inline-block;
+  text-align: left;
+  background-image: url(http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/link-external.png);
+  background-repeat: no-repeat;
+  background-position: 10px 7px;
+  background-size: 17px auto;
+  cursor: pointer;
+}
+.shared #asmag-issue .shared-metadata .issuename a {
+  text-decoration: none;
+}
+@media screen and (max-width: 500px) {
+  .shared #asmag-issue .shared-metadata {
+    right: 0;
+  }
+}
+
+#asmag-issue .shareButton, .homeButton {
+	float: right;
+	width: 36px;
+	height: 36px;
+	margin: 20px 10px 0 0;
+	cursor: pointer;
+}
+
+#asmag-issue .shareButton:first-of-type {
+	margin-right: 20px;
+}
+
+#asmag-issue .shareFacebook {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/shareFacebook.png') no-repeat center center transparent;
+	background-size: 36px auto;
+}
+
+#asmag-issue .shareTwitter {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/shareTwitter.png') no-repeat center center transparent;
+	background-size: 36px auto;
+}
+
+#asmag-issue .shareEmail {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/shareEmail.png') no-repeat center center transparent;
+	background-size: 36px auto;
+}
+
+#asmag-issue .homeButton {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	margin: 0;
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/buttonHome.png') no-repeat center center transparent;
+	background-size: 36px auto;
+}
+
+#asmag-issue .slimMode .homeButton {
+	left: 66px;
+}
+
+#asmag-issue #issueMenu {
+  /* Make room for the page indicator on the bottom of the issue view */
+  height: auto !important;
+  top: 0;
+  bottom: 40px;
+}
+
+
+#asmag-issue #revealtop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 20px;
+  z-index: 1;
+  height: 8%;
+  min-height: 35px;
+  background-image: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/menuikoni.png');
+  background-repeat: no-repeat;
+  background-position: 98% center;
+}
+
+#asmag-issue #androidhelperleft {
+  position: absolute;
+  top: 50%;
+  height: 200px;
+  margin-top: -100px;
+  left: 0;
+  width: 30px;
+  z-index: 5;
+  cursor: pointer;
+}
+
+#asmag-issue #androidhelperright {
+  position: absolute;
+  top: 50%;
+  height: 200px;
+  margin-top: -100px;
+  right: 20px;
+  width: 30px;
+  z-index: 5;
+  cursor: pointer;
+}
+.asmag-touch #asmag-issue #androidhelperright {
+  right: 0;
+}
+
+#asmag-issue #magazine-wrapper {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-width: 1200px;
+  margin: 0;
+  padding: 0;
+}
+
+#asmag-issue-loading {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/loader-000.gif') no-repeat center center black;
+  background-size: 24px 24px;
+  display: block;
+}
+
+#swipeview-slider > div {
+  overflow: hidden;
+}
+
+#swipeview-slider > div > div {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+}
+/* Hide #asmag-swipeview-page-123 until the replacement has been loaded. 
+Otherwise we'd be shown the old page momentarily before the new one loads. */
+#swipeview-slider > div.swipeview-loading > div {
+  display: none !important;
+}
+#swipeview-slider > div > div.inLoad::before {
+  content: ' ';
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -12px;
+  margin-top: -12px;
+  background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/loader-000.gif') no-repeat center center transparent;
+  background-size: 24px 24px;
+}
+
+#asmag-issue .asmag-swipeview-subpage {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+  overflow: hidden;
+}
+
+#asmag-issue #toc-internal {
+    display: none;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    height: 100%;
+    width: 270px;
+    background-color: #111;
+    color: #fff;
+    background: #fff;
+}
+
+#asmag-issue .browserleft {
+    background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/arrowhead-left.png') no-repeat center center transparent;
+    background-size: 55%;
+}
+
+#asmag-issue .browserright {
+    background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/arrowhead-right.png') no-repeat center center transparent;
+    background-size: 55%;
+}
+
+#asmag-issue .horscroll {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+#asmag-issue .fullscreen {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#asmag-issue .scroll {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+#asmag-issue .only {
+    display: none;
+}
+
+html { -webkit-text-size-adjust:none; }
+
+
+#asmag-issue .toc-item-selected {
+    background-color: #df1b22;
+}
+
+#asmag-issue #pageIndicator {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 40px;
+  background-color: #555;
+  z-index: 60;
+}
+
+#asmag-issue #pageTrack {
+  width: 90%;
+  height: 4px;
+  margin: 17px auto 0;
+  background: white;
+  border-radius: 4px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+#asmag-issue #pageProgress {
+  position: relative;
+  top: -6px;
+  height: 17px;
+  background: #f6941d;
+  border-radius: 4px;
+  color: black;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#asmag-issue #pageDownloadProgress {
+  position: absolute;
+  left: 0;
+  background-color: #FFAA55;
+  width: 90%;
+  top: 0;
+  bottom: 0;
+  transition-duration: 2s;
+  transition-property: width;
+  display: none;
+}
+
+#asmag-issue .highlight {
+  color: white;
+  background-color: crimson;
+}
+
+#asmag-issue .texthighlightable * {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  -o-user-select: text;
+  user-select: text;
+}
+
+#asmag-issue #highlightPopup {
+  display: none;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  border: solid 1px black;
+  padding: 5px 8px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  z-index: 1000;
+  background-color: white;
+  -webkit-user-select: none;
+}
+
+#asmag-issue #highlightPopup > div {
+  cursor: pointer;
+}
+
+#asmag-issue .searchResultHighlight {
+  color: white;
+  background: gray;
+  border-radius: 4px;
+}
+
+#asmag-issue .jumpAnchor .searchResultHighlight {
+  background: #f6941d;
+}
+
+#asmag-issue #notapplied-highlights {
+  z-index: 40;
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  bottom: 40px;
+  background-color: #fcfcfc;
+  overflow: hidden;
+  box-shadow: 1px 1px 12px #555;
+  max-height: 88%;
+  max-width: 720px;
+  margin: 0 auto;
+}
+#asmag-issue #notapplied-highlights-content {
+  padding: 10px 16px 32px;
+  font-weight: 700;
+}
+#asmag-issue .notapplied-highlights-row {
+  border-top: 1px dotted #ccc;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding-top: 4px;
+  font-weight: 400;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+#asmag-issue .notapplied-highlights-row::before {
+  content: '\b7\a0';
+  font-weight: 700;
+}
+#asmag-issue #notapplied-highlights-close {
+  cursor: pointer;
+  border: 3px solid white;
+  max-width: 98%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+
+/* Menu styles */
+
+#asmag-issue .trayMenu input[type="text"],
+#asmag-issue .trayMenu input[type="email"],
+#asmag-issue .trayMenu input[type="number"],
+#asmag-issue .trayMenu input[type="password"] {
+	width: 100%;
+	color: #787370;
+	font-size: 12px;
+	padding: 10px;
+	-moz-box-shadow: inset 1px 1px 5px #999;
+  box-shadow: inset 1px 1px 5px #999;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border-radius: 0;
+}
+
+#asmag-issue .trayMenuBack {
+	top: 20px;
+	left: 20px;
+	width: 36px;
+	height: 36px;
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/buttonBack.png') no-repeat center center transparent;
+	background-size: auto 36px;
+	cursor: pointer;
+}
+
+#asmag-issue .close {
+	background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/buttonClose.png') no-repeat center center transparent;
+  background-size: auto 36px;
+}
+
+#asmag-issue .trayMenuHeader {
+  z-index: 1; /* so that the box-shadow shows on top of other elements */
+	box-shadow: 0 1px 2px #777;
+}
+
+#asmag-issue .trayMenuBody, .trayMenuContentFrame {
+	overflow: hidden;
+}
+
+#asmag-issue .trayMenuContentItem {
+	overflow: auto;
+	height: 100%;
+	-webkit-overflow-scrolling: touch;
+}
+
+#asmag-issue .trayMenuList {
+	position: relative;
+	background: #f8faf9;
+	box-shadow: inset -2px 0 5px rgba(0,0,0,.25);
+}
+
+#asmag-issue .trayMenuList ul {
+	width: 100%;
+}
+
+#asmag-issue .trayMenuContent {
+	background: #f8faf9;
+}
+
+#asmag-issue .trayMenuContainer, .trayMenuHeaderContent {
+	width: 100%;
+}
+
+#asmag-issue .trayMenuItem {
+	width: 100%;
+	padding: 15px 20px;
+	border-bottom: 1px solid #bbbbbb;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	text-transform: uppercase;
+	color: #787370;
+	cursor: pointer;
+	letter-spacing: 1px;
+	box-shadow: inset -2px 0 5px rgba(0,0,0,.25);
+}
+
+#asmag-issue .slimMode .trayMenuList {
+	background: transparent;
+}
+
+#asmag-issue .slimMode .trayMenuList ul {
+	width: 100%;	
+}
+
+#asmag-issue .slimMode .trayMenuHeader {
+	width: 100%;
+	box-shadow: 0 1px 2px #777;
+	background: #dedede; /* Old browsers */
+	background: -moz-linear-gradient(top, #dedede 0%, #eeeff1 40%, #eeeff1 50%, #eeeff1 60%, #dedede 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dedede), color-stop(40%,#eeeff1), color-stop(50%,#eeeff1), color-stop(60%,#eeeff1), color-stop(100%,#dedede)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dedede', endColorstr='#dedede',GradientType=0 ); /* IE6-9 */
+}
+
+#asmag-issue .slimMode .trayMenuItem, .slimMode .trayMenuItem.active {
+	width: 100%;
+	border-bottom: 1px solid #bbbbbb;
+	box-shadow: none;
+	text-shadow: none;
+	color: #787370;
+	background: #f7f9f8; /* Old browsers */
+	background: -moz-linear-gradient(top, #f7f9f8 0%, #f5f6f8 50%, #ececec 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f7f9f8), color-stop(50%,#f5f6f8), color-stop(100%,#ececec)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f9f8', endColorstr='#ececec',GradientType=0 ); /* IE6-9 */
+}
+
+#asmag-issue .slimMode .trayMenuContentHeaderItem {
+	z-index: 5;
+	box-shadow: 0 1px 2px #555;
+}
+
+#asmag-issue .slimMode .trayMenuContentHeaderItem {
+	color: #fff;
+	text-indent: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+	background: #63a2cb; /* Old browsers */
+	background: -moz-linear-gradient(top, #63a2cb 0%, #69b9ec 40%, #69b9ec 50%, #69b9ec 60%, #62a1ca 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#63a2cb), color-stop(40%,#69b9ec), color-stop(50%,#69b9ec), color-stop(60%,#69b9ec), color-stop(100%,#62a1ca)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #63a2cb 0%,#69b9ec 40%,#69b9ec 50%,#69b9ec 60%,#62a1ca 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #63a2cb 0%,#69b9ec 40%,#69b9ec 50%,#69b9ec 60%,#62a1ca 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #63a2cb 0%,#69b9ec 40%,#69b9ec 50%,#69b9ec 60%,#62a1ca 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #63a2cb 0%,#69b9ec 40%,#69b9ec 50%,#69b9ec 60%,#62a1ca 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#63a2cb', endColorstr='#62a1ca',GradientType=0 ); /* IE6-9 */
+}
+
+#asmag-issue .trayMenuItem.active {
+	color: #fff;
+	cursor: default;
+  font-weight: 600;
+  -webkit-box-shadow: 0 2px 3px 0 #888;
+  -moz-box-shadow: 0 2px 3px 0 #888;
+  -ms-box-shadow: 0 2px 3px 0 #888;
+  -o-box-shadow: 0 2px 3px 0 #888;
+  box-shadow: 0 2px 3px 0 #888;
+}
+
+#asmag-issue .trayMenuContentButton {
+  background: #c9c8ca;
+  background: -moz-linear-gradient(top,  #c9c8ca 20%, #bcb6b6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#c9c8ca), color-stop(100%,#bcb6b6));
+  background: -webkit-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: -o-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: -ms-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: linear-gradient(to bottom,  #c9c8ca 20%,#bcb6b6 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9c8ca', endColorstr='#bcb6b6',GradientType=0 );
+  border-bottom: 2px solid #a59e9f;
+  border-right: 1px solid #b8b7ba;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+
+#asmag-issue .trayMenuContentButton > span {
+  color: #685e61;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 7px 10px;
+  min-height: 1.3em;
+  font-weight: 700;
+  font-size: 12px;
+  text-align: center;
+  line-height: 15px;
+  letter-spacing: 1px;
+}
+
+#asmag-issue .trayMenuContentWrapper {
+	padding: 20px;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+#asmag-issue .trayMenuContentWrapper p {
+	margin-top: 1em;
+	color: #444;
+}
+
+#asmag-issue .trayMenuContentWrapper a {
+	text-decoration: none;
+	color: #00acec;
+}
+
+#asmag-issue .trayMenuContentItem #loginWrapper p {
+  color: #787370;
+}
+
+#asmag-issue .trayMenuContentItem #loginWrapper input[type="text"],
+#asmag-issue .trayMenuContentItem #loginWrapper input[type="email"],
+#asmag-issue .trayMenuContentItem #loginWrapper input[type="number"],
+#asmag-issue .trayMenuContentItem #loginWrapper input[type="password"] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#asmag-issue .trayMenuContentItem #loginWrapper .trayMenuContentButton {
+  margin-top: 0.7em;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper .login-toptip {
+  margin-top: 1.8em;
+  border-top: 2px solid #eee;
+  padding-top: 1.3em;
+  color: #444;
+  font-size: 13px;
+	line-height: 18px;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper .login-bottomtip {
+  margin-top: 1.3em;
+  font-size: 0.9em;
+  color: #444;
+  font-size: 13px;
+	line-height: 18px;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_login,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_toregister,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_forgotsubnum,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_backtolog,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_forgotpass {
+  height: 2.7em;
+  float: left;
+  white-space: nowrap;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_login {
+  width: 54%;
+  margin-right: 1%;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_toregister {
+  width: 44%;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_forgotsubnum,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_forgotpass {
+  width: 64%;
+  margin-right: 1%;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_backtolog {
+  width: 34%;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_login span,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_toregister span,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_forgotsubnum span,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_backtolog span,
+#asmag-issue .trayMenuContentItem #loginWrapper #btn_forgotpass span {
+  padding-top: 1.2em;
+}
+#asmag-issue .trayMenuContentItem #loginWrapper #form_changepass,
+#asmag-issue .trayMenuContentItem #loginWrapper #form_editcontact {
+  margin-top: 1em;
+}
+#asmag-issue .trayMenuContentItem #loginLoader {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/loader-fff.gif') rgba(255,255,255,0.7) no-repeat center center;
+  z-index: 5;
+}
+
+#asmag-issue .trayMenuItem {
+	background: #f7f9f8; /* Old browsers */
+	background: -moz-linear-gradient(top, #f7f9f8 0%, #f5f6f8 50%, #ececec 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f7f9f8), color-stop(50%,#f5f6f8), color-stop(100%,#ececec)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #f7f9f8 0%,#f5f6f8 50%,#ececec 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f9f8', endColorstr='#ececec',GradientType=0 ); /* IE6-9 */
+}
+#asmag-issue .trayMenuHeader {
+	background: #dedede; /* Old browsers */
+	background: -moz-linear-gradient(top, #dedede 0%, #eeeff1 40%, #eeeff1 50%, #eeeff1 60%, #dedede 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dedede), color-stop(40%,#eeeff1), color-stop(50%,#eeeff1), color-stop(60%,#eeeff1), color-stop(100%,#dedede)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #dedede 0%,#eeeff1 40%,#eeeff1 50%,#eeeff1 60%,#dedede 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dedede', endColorstr='#dedede',GradientType=0 ); /* IE6-9 */
+}
+#asmag-issue .slimMode .trayMenuContentHeaderItem,
+#asmag-issue .trayMenuItem.active {
+	background: #69B7E7; /* Old browsers */
+}
+
+#asmag-issue .trayMenuList,
+#asmag-issue .trayMenuContent {
+	background-color: #fcfcfc;
+}
+
+/* Search bar settings */
+#asmag-issue .issueSearchField {
+  padding-bottom: 10px;
+}
+
+#asmag-issue .issueSearchEntry input {
+  background-image: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/search.png');
+  padding-bottom: 10px;
+  background-size: 25px 25px;
+  background-repeat: no-repeat;
+  background-position: 98%;
+}
+
+#asmag-issue .issueSearchResults {
+  margin-top: 28px;
+}
+
+
+#asmag-issue .issueSearchResults > :last-child {
+  padding-bottom: 55px;
+}
+
+#asmag-issue .issueSearchResult {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+#asmag-issue .issueSearchResultTitle {
+  font-size: 16px;
+  font-weight: 400;
+  color: #0066FF;
+}
+
+#asmag-issue .issueSearchResultIssue {
+  font-size: 12px;
+  font-weight: normal;
+  color: #777;
+  margin-left: 10px;
+  padding-left: 8px;
+    border-left: 1px solid #777;
+}
+
+#asmag-issue .issueSearchResultDate {
+  font-size: 12px;
+  font-weight: normal;
+  color: #777;
+}
+
+#asmag-issue .issueSearchResultContext {
+  color: #333;
+  font-size: 13px;
+  line-height: 13px;
+  display: block;
+  padding-top: 10px;
+  border-top: 1px solid #DDD;
+}
+
+#asmag-issue .issueSearchPages {
+  margin-top: 1.5em;
+  border-top: 1px solid #999;
+  padding-top: 0.8em;
+}
+
+#asmag-issue .issueSearchPages > span {
+  cursor: pointer;
+  color: #9CCAE7;
+  padding: 0 3px;
+}
+
+#asmag-issue .issueSearchPages > span.lastSearch {
+  float: right;
+}
+
+/* Search filter */
+
+#asmag-issue .issueSearchDropdownWrapper {
+  display: none;
+  top: 8px;
+  position: relative;
+  padding: 10px;
+  margin: 0 auto;
+  background: #69B7E7;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 10px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+}
+
+#asmag-issue .issueSearchDropdownWrapper:after {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: 16px;
+  top: 20px;
+  margin-top: -6px;
+  border-width: 6px 0 6px 6px;
+  border-style: solid;
+  border-color: transparent #fff;   
+}
+
+#asmag-issue .issueSearchDropdownWrapper.active:after {
+  border-color: #fff transparent;
+  border-width: 6px 6px 0 6px ;
+  margin-top: -6px;
+}
+
+#asmag-issue .issueSearchDropdown {
+  display: none;
+}
+
+#asmag-issue .issueSearchDropdown li {
+  list-style-type: none;
+  padding-left: 15px;
+  border-top: 1px solid #fff;
+  padding-top: 4px;
+  margin-top: 4px;
+}
+
+/* Search slider */
+
+#asmag-issue .sliderTxt {
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  color: #555;
+}
+
+#asmag-issue .sliderFrame {
+  position: relative !important;
+  float: right;
+  top: -3px;
+  display: block !important;
+  margin: 0 auto !important;
+  width: 64px !important;
+  height: 24px !important;
+  background-color: #CCC !important;
+  -moz-border-radius: 4px !important;
+  border-radius: 4px !important;
+  -webkit-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25) !important;
+  -moz-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25) !important;
+  box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25) !important;
+}
+
+#asmag-issue .sliderButton {
+  display: block !important;
+  width: 32px !important;
+  height: 24px !important;
+  line-height: 24px !important;
+  background: #EDF2F7 !important;
+  -moz-border-radius: 4px !important;
+  border-radius: 4px !important;
+  -webkit-transition: all 0.25s ease-in-out !important;
+  -moz-transition: all 0.25s ease-in-out !important;
+  transition: all 0.25s ease-in-out !important;
+  color: #000 !important;
+  font-family:sans-serif !important;
+  font-size:11px !important;
+  font-weight:bold !important;
+  text-align: center !important;
+  cursor: pointer !important;
+  -webkit-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25) !important;
+  -moz-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25) !important;
+  box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25) !important;
+  margin-left: 32px !important;
+}
+
+#asmag-issue .sliderButton.on {
+  margin-left: 0 !important;
+  background: #69B7E7 !important;
+}
+
+/* End of search items */
+
+/* Notification boxes / dialogs */
+
+.asmag-notificationBox,
+#asmag-issue .asmag-notificationBox {
+	overflow: auto;
+  -webkit-overflow-scrolling: touch;
+	position: absolute;
+	z-index: 1001;
+	width: 400px;
+	max-width: 90%;
+	max-height: 80%;
+	background: #f8faf9;
+	box-shadow: 0px 1px 5px rgba(0,0,0,.5);
+}
+
+body.asmag-active .asmag-notificationBox,
+body.asmag-active #asmag-issue .asmag-notificationBox {
+  display: block;
+}
+
+.asmag-notificationBox p,
+#asmag-issue .asmag-notificationBox p {
+	font-size: 13px;
+	line-height: 18px;
+}
+
+#asmag-nocookies {
+  z-index: 1000;
+}
+
+#asmag-old-ie-notification {
+  z-index: 2001;
+}
+
+.orderissuereturn {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#asmag-noscriptnotification .asmag-notificationBox {
+  left: 50%;
+  margin-left: -200px;
+  margin-top: 30%;
+}
+.asmag-opaqueOverlay,
+#asmag-issue .asmag-opaqueOverlay {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: #f9f9f9;
+  z-index: 2000;
+  -webkit-transform: translate3d(0,0,0); /* fixes an Android bug where elements don't honor z-index */
+}
+
+.asmag-notificationBoxContent,
+#asmag-issue .asmag-notificationBoxContent {
+  overflow: hidden; /* for floated elements */
+	padding: 25px;
+}
+
+.asmag-notificationBoxContent h2, 
+#asmag-issue .asmag-notificationBoxContent h2, 
+#asmag-issue .trayMenuContentWrapper h2 {
+	margin: 0 0 15px;
+	padding: 0 0 5px;
+	border-bottom: 2px solid #eee;
+	color: #74bae6;
+	font-size: 20px;
+  line-height: 1.1em;
+}
+
+.asmag-notificationBoxContent p,
+#asmag-issue .asmag-notificationBoxContent p {
+	margin: 0 0 16px;
+	color: #444;
+}
+
+.asmag-textButton,
+#asmag-issue .asmag-textButton {
+  background: #c9c8ca;
+  background: -moz-linear-gradient(top,  #c9c8ca 20%, #bcb6b6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#c9c8ca), color-stop(100%,#bcb6b6));
+  background: -webkit-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: -o-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: -ms-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: linear-gradient(to bottom,  #c9c8ca 20%,#bcb6b6 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9c8ca', endColorstr='#bcb6b6',GradientType=0 );
+  border-bottom: 2px solid #a59e9f;
+  border-right: 1px solid #b8b7ba;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+
+.asmag-textButton > span,
+#asmag-issue .asmag-textButton > span {
+  color: #685e61;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 7px 10px;
+  min-height: 1.3em;
+  font-weight: 700;
+  font-size: 12px;
+  text-align: center;
+  line-height: 15px;
+  letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 420px) {
+	.asmag-textButton {
+		clear: both;
+		width: 100%;
+		margin: 10px 0;
+	}
+}
+
+#asmag-paywall .asauth-orderbutton {
+  position: absolute;
+  right: 25px;
+}
+
+#asmag-paywall-wrapper {
+  position: absolute;
+  z-index: 1001;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.6);
+  display: block;
+}
+
+/* Paywall close button */
+#asmag-paywall .asmag-notificationBoxContent > .asmag-textButton {
+  margin-top: 0.8em;
+}
+
+
+/* WoodWing publishing preview CSS */
+
+.wwpubpreview #asmag-issue {
+  background-color: #ccc;
+}
+.wwpubpreview #asmag-issue .wwpubpreview-article {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  overflow: auto;
+  padding: 3em 6%;
+  -webkit-overflow-scrolling: touch;
+}
+.wwpubpreview #asmag-issue .story {
+  margin-bottom: 2.5em;
+}
+
+
+/* Release notes */
+
+#releaseNotesOverlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.65);
+  z-index: 89999;
+  display: block;
+}
+
+#releaseNotesContainer {
+  position: absolute;
+  top: 50%;
+  margin-top: -200px;
+  left: 50%;
+  margin-left: -200px;
+  width: 400px;
+  height: 400px;
+  z-index: 90000;
+  background-color: #eee;
+  border-radius: 2px;
+  padding: 30px 20px;
+  overflow: none;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  display: block;
+}
+
+#releaseNotesContainer h3 {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(68, 68, 68);
+  border-bottom: 1px solid #444;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+#releaseNotesContainer p, #releaseNotesContainer li {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  color: #444;
+}
+
+#releaseNotesContainer ul {
+  margin-left: 16px;
+}
+
+#releaseNotesProgress {
+  position: absolute;
+  bottom: 0;
+  width: 90%;
+}
+
+#releaseNotesProgressSpan {
+  display: block;
+  right: 0;
+  left: 0;
+  height: 20px;
+}
+
+#releaseNotesProgressTrack {
+  width: 90%;
+  height: 4px;
+  margin: 17px auto 0;
+  background: #444;
+  border-radius: 4px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+#releaseNotesProgressInner {
+  position: relative;
+  width: 40px;
+  left: 0px;
+  top: -6px;
+  height: 17px;
+  background: #f6941d;
+  border-radius: 4px;
+  color: black;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#releaseNotesCloseButton {
+  margin: 5px 100px;
+  background: white;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px 4px 4px 4px;
+  font-size: 16px;
+  line-height: 16px;
+  cursor: pointer;
+  width: 160px;  
+  height: 30px;
+  font-weight: 700;
+}
+
+#releaseNotesText {
+ -webkit-overflow-scrolling: touch;
+ overflow: auto;
+ height: 290px;
+}
+
+#releaseNotesContainer .noteBGanimated {
+  background: url('http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/loader-fff.gif') rgba(255,255,255,1) no-repeat center center;
+  background-size: 10%;
+  height: 40px;
+  margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 640px) {
+
+  #releaseNotesContainer {
+    width: 300px;
+    margin-left: -150px;
+    margin-top: -150px;
+    padding: 10px;
+    height: 300px;
+  }
+  
+  #releaseNotesText {
+    height: 210px;
+  }
+  
+  #releaseNotesCloseButton {
+    margin: 5px 60px 15px;
+  }
+
+}
+
+
+#asmag-issue .pageswitcher-indicator-left,
+#asmag-issue .pageswitcher-indicator-right {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background-repeat: repeat-y;
+  width: 70px;
+  z-index: 10;
+}
+#asmag-issue .pageswitcher-indicator-left {
+  left: -70px;
+  background-image: url(http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/pageswitcher-indicator-left.png);
+  background-position: top right;
+}
+#asmag-issue .pageswitcher-indicator-right {
+  left: 100%;
+  background-image: url(http://www.kaksplus.fi/wp-content/plugins/asteikko-mag/includes/system/images/pageswitcher-indicator-right.png);
+  background-position: top left;
+}
+

@@ -1,0 +1,1 @@
+['einzelhandel', 'top', '30', 'ranking', 'umsatz', 'umsätze']

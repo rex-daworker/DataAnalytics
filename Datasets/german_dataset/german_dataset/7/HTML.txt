@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="Bereits in der Vorweihnachtszeit gewinnen Lebensmittel in Europa an Bedeutung - unsere Daten unterstreichen dies. Verglichen mit dem Vormonat stieg die Zeit die auf Lebensmittel Websites verbracht wurde im September 2018 um 13% auf fast 20 Minuten pro Person. Das letzte Mal war das Engagement mit Lebensmittel..." name="description"/>
+<meta content="food sector, multi-platform" name="keywords"/>
+<meta content="https://www.facebook.com/comscoreinc/" property="fb:profile_id"/>
+<meta content="Comscore, Inc." property="og:site_name"/>
+<meta content="Der Online Lebensmittelhandel in Europa" property="og:title"/>
+<meta content="Bereits in der Vorweihnachtszeit gewinnen Lebensmittel in Europa an Bedeutung - unsere Daten unterstreichen dies. Verglichen mit dem Vormonat stieg die Zeit die auf Lebensmittel Websites verbracht wurde im September 2018 um 13% auf fast 20 Minuten pro Person. Das letzte Mal war das Engagement mit Lebensmittel..." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.comscore.com/var/comscore/storage/images/insights/presentations-and-whitepapers/2018/food-in-europe/2502964-7-ger-DE/Der-Online-Lebensmittelhandel-in-Europa.png" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@comscore" name="twitter:site"/>
+<meta content="https://www.comscore.com/ger/Insights/Praesentationen-und-Whitepapers/2018/Der-Online-Lebensmittel-Handel-in-Europa" property="og:url"/>
+<meta content="-r9ywh6BhYNi6SJ67OgL8Lzs-vNzkbEDSMrmdC88UO8" name="google-site-verification"/>
+<meta content="11EE437019AB42D22AEAA2BEC5DC390B" name="msvalidate.01"/>
+<title>Der Online Lebensmittelhandel in Europa - Comscore, Inc.</title>
+<link href="/extension/comscore/design/site/images/favicon.ico" rel="Shortcut icon" type="image/x-icon"/>
+<link href="/extension/comscore/design/site/images/apple-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57"/>
+<link href="/extension/comscore/design/site/images/apple-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="/extension/comscore/design/site/images/apple-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="/extension/comscore/design/site/images/apple-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="/extension/comscore/design/site/images/apple-icon-180x180.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="https://www.comscore.com/ger/Insights/Praesentationen-und-Whitepapers/2018/Der-Online-Lebensmittel-Handel-in-Europa" rel="canonical"/>
+<link href="https://www.comscore.com/Insights/Presentations-and-Whitepapers/2018/Food-in-Europe" hreflang="en" rel="alternate"/> <link href="https://www.comscore.com/ger/Insights/Praesentationen-und-Whitepapers/2018/Der-Online-Lebensmittel-Handel-in-Europa" hreflang="de" rel="alternate"/> <link href="https://www.comscore.com/lat/Prensa-y-Eventos/Praesentationen-und-Whitepapers/2018/El-sector-de-la-alimentacion-online-en-Europa" hreflang="es" rel="alternate"/> <link href="https://www.comscore.com/fre/Perspectives/Presentations-and-Whitepapers/2018/Le-secteur-alimentaire-en-Europe" hreflang="fr" rel="alternate"/> <link href="https://www.comscore.com/ita/Public-Relations/Presentazioni-e-Whitepaper/2018/Il-Settore-del-Food-in-Europa" hreflang="it" rel="alternate"/>
+<script type="application/ld+json">
+	
+		{
+			"@context": "http://schema.org",
+			"@type" : "Organization",
+			"name" : "Comscore, Inc.",
+			"url" : "https://www.comscore.com",
+			"logo" : "https://www.comscore.com/content/download/43764/2490630/file/Comscore_Logo_Mark.png",
+			"sameAs": ["https://www.facebook.com/ComscoreInc","https://www.youtube.com/comscore","https://www.linkedin.com/company/comscore","https://www.twitter.com/comscore","https://weibo.com/n/Comscore","https://en.wikipedia.org/wiki/ComScore"],
+			"location": {
+				"@type": "Place",
+				"name": "Comscore, Inc.",
+				"hasMap": "https://maps.google.com/maps?q=Comscore%2C+11950+Democracy+Drive+Reston%2C+VA+20190%2C+US",
+				"telephone": "(703) 438 2000",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://www.comscore.com/content/download/43762/2490620/file/Comscore_Logo_Color_1028px.png",
+					"height": "167",
+					"width": "1000" 
+				},
+				"url": "https://www.comscore.com",
+				"sameAs": ["https://www.facebook.com/ComscoreInc","https://www.youtube.com/comscore","https://www.linkedin.com/company/comscore","https://www.twitter.com/comscore","https://weibo.com/n/Comscore","https://en.wikipedia.org/wiki/ComScore"],
+				"geo": {
+					"@type": "GeoCoordinates",
+					"latitude": "38.9583597",
+					"longitude": "-77.36025" 
+				},
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "11950 Democracy Drive, Suite 600",
+					"addressLocality": "Reston",
+					"addressRegion": "VA",
+					"postalCode": "20190",
+					"addressCountry": "US" 
+				} 
+			},
+			"founder": "Magid Abraham and Gian Fulgoni",
+    		"foundingDate": "1999" 
+		}
+	
+	</script>
+<link href="/var/comscore/cache/public/stylesheets/92b9d51b22dc949ed5b9d5f0e2c869e4_all.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '118899503']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img03.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'}); var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WZNPWD');</script>
+<script async="" defer="" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576aabf175bcf1a0" type="text/javascript"></script>
+<script type="text/javascript">var addthis_config = {ui_tabindex:0, data_ga_property:'UA-7127158-1', data_ga_social:true, data_track_clickback: false}; var addthis_share={url_transforms:{clean:true,remove:['elqTrackId','elq','elqaid','elqat','elqCampaignId']}};</script>
+</head>
+<body>
+<noscript><iframe aria-hidden="true" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WZNPWD" style="display:none;visibility:hidden" title="Google Tag Manager" width="0"></iframe></noscript>
+<a class="sr-only sr-only-focusable" href="#main_content">Zum Hauptinhalt</a>
+<div class="c-offcanvas-content-wrap">
+<nav aria-label="Hauptnavigation" class="navbar navbar-expand-lg navbar-light bg-white sticky-top pb-lg-0" id="main_nav">
+<button aria-controls="navbarTop" aria-expanded="false" class="navbar-toggler js-offcanvas-toggler px-0" data-target="#navbarTop" data-toggle="collapse" type="button">
+<span class="icon-bar top-bar"></span>
+<span class="icon-bar middle-bar"></span>
+<span class="icon-bar bottom-bar"></span>
+<span class="sr-only">Navigation (de-)aktivieren</span>
+</button>
+<a class="d-inline-block d-lg-none mx-auto" href="/ger" title="Startseite"><img alt="Comscore logo" src="https://www.comscore.com/content/download/43276/2459464/file/Comscore.svg" width="140"/></a>
+<div class="collapse navbar-collapse" data-set="bs" id="navbarTop">
+<ul class="navbar-nav js-append-around d-none d-lg-block" id="nav_logo">
+<li class="nav-item">
+<a class="navbar-brand pt-0h pb-lg-3" href="/ger" title="Startseite"><img alt="Comscore logo" id="Comscore_logo" src="https://www.comscore.com/content/download/43276/2459464/file/Comscore.svg" width="170"/></a>
+</li>
+</ul>
+<ul class="navbar-nav js-append-around medium" id="nav_main_menu">
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link pb-lg-3 dropdown-toggle" data-toggle="dropdown" href="#" id="navbarTop1" role="button" title="Produkte">Produkte</a>
+<div aria-labelledby="navbarTop1" class="dropdown-menu wide">
+<div class="row">
+<div class="col-lg-4 link-list ">
+<a class="dropdown-item" href="/ger/Produkte/Activation" title="Activation">
+<div class="row px-2"><div class="col-3 col-lg-2 px-1"><img alt="Activation" class="img-fluid" src="/ger/content/download/10745/2836266/version/188/file/Activation.svg"/></div><div class="col-9 col-lg-10 p-0">Activation<br/><span class="base">Kombinieren Sie detaillierte Verhaltensdaten und kontextbezogene plattformübergreifende Daten</span></div></div></a>
+</div><!-- /col-lg-4 link-list -->
+<div class="col-lg-4 link-list ">
+<a class="dropdown-item" href="/ger/Produkte/Advertising" title="Advertising">
+<div class="row px-2"><div class="col-3 col-lg-2 px-1"><img alt="Advertising" class="img-fluid" src="/ger/content/download/49620/2949254/version/37/file/advertising-01.svg"/></div><div class="col-9 col-lg-10 p-0">Advertising<br/><span class="base">Messen und bewerten Sie Werbung plattformübergreifend</span></div></div></a>
+</div><!-- /col-lg-4 link-list -->
+<div class="col-lg-4 link-list ">
+<a class="dropdown-item" href="/ger/Produkte/Digitale-Nutzergruppe" title="Digitale Nutzergruppe ">
+<div class="row px-2"><div class="col-3 col-lg-2 px-1"><img alt="Digitale Nutzergruppe " class="img-fluid" src="/ger/content/download/13699/2836404/version/172/file/digital-01.svg"/></div><div class="col-9 col-lg-10 p-0">Digitale Nutzergruppe <br/><span class="base">Messen Sie digitale Nutzergruppen für alle Inhaltstypen </span></div></div></a>
+</div><!-- /col-lg-4 link-list -->
+<div class="col-lg-4 link-list mt-lg-3">
+<a class="dropdown-item" href="/ger/Produkte/Werbewirkung" title="Werbewirkung">
+<div class="row px-2"><div class="col-3 col-lg-2 px-1"><img alt="Werbewirkung" class="img-fluid" src="/ger/content/download/49494/2949676/version/22/file/Marketing-Impact.svg"/></div><div class="col-9 col-lg-10 p-0">Werbewirkung<br/><span class="base">Messen und maximieren Sie Ihre Marketingeffektivität</span></div></div></a>
+</div><!-- /col-lg-4 link-list -->
+<div class="col-lg-4 link-list mt-lg-3">
+<a class="dropdown-item" href="/ger/Produkte/Filme" title="Filme">
+<div class="row px-2"><div class="col-3 col-lg-2 px-1"><img alt="Filme" class="img-fluid" src="/ger/content/download/36903/2836546/version/36/file/movies-01.svg"/></div><div class="col-9 col-lg-10 p-0">Filme<br/><span class="base">Leistung im Kino zu maximieren</span></div></div></a>
+</div><!-- /col-lg-4 link-list -->
+</div></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link pb-lg-3 dropdown-toggle" data-toggle="dropdown" href="#" id="navbarTop2" role="button" title="Insights">Insights</a>
+<div aria-labelledby="navbarTop2" class="dropdown-menu">
+<a aria-label="Insights Übersicht" class="dropdown-item" href="/ger/Insights" title="Insights Übersicht">Übersicht</a>
+<a class="dropdown-item" href="/ger/Insights/Coronavirus" title="Coronavirus Insights">Coronavirus Insights</a>
+<a class="dropdown-item" href="/ger/Insights/Market-Rankings" title="Market Rankings">Market Rankings</a>
+<a class="dropdown-item" href="/ger/Insights/Veranstaltungen-und-Webinars" title="Veranstaltungen">Veranstaltungen</a>
+<a class="dropdown-item" href="/ger/Insights/Kommunikationspraeferenzen" title="Kommunikationspräferenzen">Kommunikationspräferenzen</a>
+</div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link pb-lg-3 dropdown-toggle" data-toggle="dropdown" href="#" id="navbarTop3" role="button" title="Über Uns">Über Uns</a>
+<div aria-labelledby="navbarTop3" class="dropdown-menu">
+<a aria-label="Über Uns Übersicht" class="dropdown-item" href="/ger/Ueber-Uns" title="Über Uns Übersicht">Übersicht</a>
+<a class="dropdown-item" href="/ger/Ueber-Uns/Karriere" title="Karriere">Karriere</a>
+<a class="dropdown-item" href="/ger/Ueber-Uns/Press-Room" title="Pressezentrum">Pressezentrum</a>
+<a class="dropdown-item" href="/ger/Ueber-Uns/Leadership" title="Leadership">Leadership</a>
+<a class="dropdown-item" href="https://ir.comscore.com" target="_blank" title="Investor Relations">Investor Relations</a>
+<a class="dropdown-item" href="/ger/Ueber-Uns/Standorte" title="Standorte">Standorte</a>
+<a class="dropdown-item" href="/ger/Ueber-Uns/Privacy" title="Privatsphäre">Privatsphäre</a>
+<a class="dropdown-item" href="/ger/Ueber-Uns/Drittanbieter-Zulassung" title="Drittanbieter Zulassung, Zertifizierung und Prüfung">Drittanbieter Zulassung, Zertifizierung und Prüfung</a>
+</div>
+</li>
+</ul>
+<ul class="navbar-nav small js-append-around ml-auto" id="nav_language_search">
+<li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link pb-lg-3 pt-lg-1h dropdown-toggle text-primary text-cta" data-toggle="dropdown" href="#" id="language_switch" role="button"><strong>Deutsch</strong></a>
+<div aria-labelledby="language_switch" class="dropdown-menu medium">
+<a class="dropdown-item" href="/Insights/Presentations-and-Whitepapers/2018/Food-in-Europe" title="English">English</a>
+<a class="dropdown-item" href="/lat/Prensa-y-Eventos/Praesentationen-und-Whitepapers/2018/El-sector-de-la-alimentacion-online-en-Europa" title="Español (América Latina)">Español (América Latina)</a>
+<a class="dropdown-item" href="/esl/Insights/Presentations-and-Whitepapers/2018/Food-in-Europe" title="Español (España)">Español (España)</a>
+<a class="dropdown-item" href="/fre/Perspectives/Presentations-and-Whitepapers/2018/Le-secteur-alimentaire-en-Europe" title="Français">Français</a>
+<a class="dropdown-item" href="/ita/Public-Relations/Presentazioni-e-Whitepaper/2018/Il-Settore-del-Food-in-Europa" title="Italiano">Italiano</a>
+<a class="dropdown-item" href="/por/Insights/Presentations-and-Whitepapers/2018/Food-in-Europe" title="Português">Português</a>
+</div></li>
+<li class="nav-item dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link pb-lg-3 pt-lg-1h text-cta text-primary" data-toggle="dropdown" href="#" id="login-dropdown" role="button"><strong>Login</strong></a>
+<div aria-labelledby="login-dropdown" class="dropdown-menu">
+<a class="dropdown-item" href="https://my.comscore.com/welcome/">My Comscore Home</a>
+<a class="dropdown-item" href="https://national-tv.rentrak.com/login.html">TV Essentials</a>
+<a class="dropdown-item" href="https://national-stationview.rentrak.com/login.html">StationView Essentials</a>
+<a class="dropdown-item" href="https://ondemand.rentrak.com/login.html">OnDemand Essentials</a>
+<a class="dropdown-item" href="https://www.boxofficeessentials.com/">Box Office Essentials</a>
+<a class="dropdown-item" href="https://iboe.com/">International Box Office Essentials</a>
+</div>
+</li>
+<li class="nav-item"><a class="nav-link pb-lg-3 pt-lg-1h popup text-cta text-primary" href="/ger/layout/set/popup/Request/Contact/Contact-Us" rel="nofollow" title="Kontaktieren Sie uns"><strong>Kontaktieren Sie uns</strong></a></li>
+<li class="nav-item d-none d-lg-block"><a aria-controls="search_collapse" aria-expanded="false" class="btn btn-link text-cta" data-toggle="collapse" href="#search_collapse" id="search_button" role="button" title="Suchen"><svg class="icon icon-search h6 m-0 p-0"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-search"></use></svg></a></li>
+</ul>
+</div>
+</nav>
+<section aria-label="Suchen comscore.com" class="collapse bg-light border-bottom p-3" id="search_collapse" role="search">
+<div class="container">
+<form action="/ger/content/search" id="custom-search-input-desktop" method="get">
+<div class="form-group row">
+<div class="col-11 pr-0">
+<label class="sr-only" for="search_input">Suchen</label>
+<input class="form-control input-lg w-100" id="search_input" name="SearchText" placeholder="Suchen" type="text"/>
+</div>
+<div class="col-1 p-0">
+<button aria-label="Abschicken" class="btn btn-warning" type="submit"><svg aria-labelledby="search_title1" class="icon icon-search h3 p-0 m-0" role="img"><title id="search_title1">Suche in comscore.com</title><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-search"></use></svg></button>
+</div>
+</div>
+</form>
+</div>
+</section>
+<div id="main_content" role="main" tabindex="-1">
+<section aria-label="Präsentation content" class="bg-light py-5">
+<div class="container" id="mainColumn">
+<div class="mb-4">
+<label class="bg-secondary px-1">Archiv</label> <label>
+													Veranstaltung: 
+												Comscore Whitepaper
+					</label> - 
+								<span class="text-muted medium semibold">20. November 2018</span>
+<h1 class="mt-2">Der Online Lebensmittelhandel in Europa</h1>
+<div class="row no-gutters" id="authors">
+<div class="author col-md-6 mt-3 mb-1">
+<div class="row ml-0">
+<div class="col-1 p-0">
+<img alt="Alex Gevers" class="responsive-item rounded-circle img-fluid" src="/var/comscore/storage/images/profile/people/alex-gevers/2408742-25-eng-US/Alex-Gevers_reference.png"/>
+</div>
+<div class="col pl-2 my-auto">
+<h5 class="mb-0">Alex Gevers</h5><span class="text-muted medium">Senior Insights Manager</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-9 pt-4 border-top">
+<div class="lead">
+<p>Bereits in der Vorweihnachtszeit gewinnen Lebensmittel in Europa an Bedeutung - unsere Daten unterstreichen dies. Verglichen mit dem Vormonat stieg die Zeit die auf Lebensmittel Websites verbracht wurde im September 2018 um 13% auf fast 20 Minuten pro Person. Das letzte Mal war das Engagement mit Lebensmittel Websites in der Weihnachtszeit 2017 so hoch.</p> </div>
+<div class="my-3">
+<p><a class="btn btn-lg btn-primary popup" href="/ger/layout/set/popup/Request/Presentations/2018/Der-Online-Lebensmittel-Handel-in-Europa?req=slides&amp;pre=Der+Online+Lebensmittelhandel+in+Europa" role="button" title="Herunterladen">
+																									Herunterladen 
+																								</a>
+</p>
+</div><!-- /lg-cta -->
+<p>Dieser Report verwendet Multi-Plattform-Daten aus Frankreich, Deutschland, Italien, Spanien und Großbritannien und untersucht Online-Trends und Verhaltensmuster, die den Online Lebensmittelhandel in diesen Ländern beeinflussen.</p><p><strong>Schwerpunktthemen des Berichts sind:</strong></p>
+<ul>
+<li>130 Millionen Menschen - oder 57% der gesamten digitalen Bevölkerung in den EU5 Ländern - besuchten im September 2018 eine Webseite, die mit Lebensmitteln zu tun hat. 81% dieser besuchten eine Lebensmittel Lifestyle Webseite, die Restaurant Bewertungen, Rezepte, Koch Tipps und Essenspläne anbieten. 55% besuchten Lebensmitteleinzelhandel Webseiten, auf denen Benutzer Lebensmittel Einkaufen oder zur Lieferung bestellen. </li>
+</ul>
+<ul>
+<li>Inhaltliche Präferenzen des Lebensmittelpublikums unterscheiden sich zum Publikum der Lebensmitteleinzelhandel Webseiten. Zum Beispiel sind Besucher von E-Cards-Webseiten mit einem Konzentrationsindex von 171, 71% häufiger auf einer Lifestyle-Food-Webseiten zu finden als der durchschnittliche Internetnutzer. </li>
+</ul>
+<ul>
+<li>Mehr als die Hälfte des Publikums die Lebensmittel Webseiten besuchen sind weiblich und über 35 Jahre alt. Lebensmittel-Lifestyle und Lebensmitteleinzelhandel Webseiten der einzelnen Länder weisen die größten Unterschiede auf. </li>
+</ul>
+<ul>
+<li>Traditionelle Lebensmitteleinzelhändler stehen in der Liste der Top-Desktopseiten. Auf der anderen Seite umfasst die Liste der wichtigsten mobilen Apps Lebensmittelzustelldienste wie Just Eat und Fast-Food-Services zum Klicken und Sammeln von Speisen - beispielsweise McDonald‘s.</li>
+</ul>
+<div class="my-3 pt-3 border-top" id="tags">
+<h2 class="mb-2h">More about</h2>
+<a class="btn btn-outline-danger mb-1 mr-1" href="/ger/Insights?tag=Cross Platform"><span class="label label-default">Cross Platform</span></a> <a class="btn btn-outline-danger mb-1 mr-1" href="/ger/Insights?tag=Demographics"><span class="label label-default">Demographics</span></a> <a class="btn btn-outline-danger mb-1 mr-1" href="/ger/Insights?tag=e-Commerce"><span class="label label-default">e-Commerce</span></a> <a class="btn btn-outline-danger mb-1 mr-1" href="/ger/Insights?tag=Mobile"><span class="label label-default">Mobile</span></a> <a class="btn btn-outline-danger mb-1 mr-1" href="/ger/Insights?tag=Multi-Platform"><span class="label label-default">Multi-Platform</span></a>
+</div>
+</div>
+<div class="col-sm-3 pt-4 pr-1 border-top">
+<div class="side-module">
+<label>Ähnliche Produkte</label>
+<div class="mt-1h mb-4">
+<h4 class="mb-1"><a aria-label="Erfahren sie mehr über MMX® Multi-Platform" href="/ger/Produkte/Digitale-Nutzergruppe/Media-RatingsMedia-Metrix-R-Multi-Platform" title="MMX® Multi-Platform">MMX® Multi-Platform</a></h4>
+<p>Die Comscore MMX® Multi-Platform bietet eine Einsicht in das gesamte Nutzerverhalten auf Desktops, Smartphones und Tablets.</p>
+<p>
+<a aria-label="Erfahren sie mehr über MMX Multi-Platform" class="btn btn-danger popup" href="/ger/layout/set/popup/Request/Demos/Media-Metrix-Multi-Platform" role="button" title="MMX Multi-Platform">
+																															Demo anfordern
+																													</a>
+</p>
+</div>
+<!--/list_with_iconslayout -->
+<!-- / locally available -->
+<!--/if count -->
+</div>
+</div><!-- /col-sm-3 -->
+</div><!-- /row-->
+</div><!-- /mainColumn -->
+</section>
+<a name="data-insights"></a>
+<aside aria-label="Newsletter Anmeldung" class="bg-info text-white text-center" id="stay-connected">
+<div class="container">
+<h2>Newsletter Anmeldung</h2>
+<p class="py-2 semibold">Melden Sie sich noch heute an, um Comscore News, Einblicke und Events zu erhalten!</p>
+<a class="btn btn-lg btn-white popup mr-2 text-info m-1" href="/ger/layout/set/popup/Request/Communications-Preference-Center-Short" rel="nofollow" role="button" title="Melden Sie sich an">Melden Sie sich an</a>
+</div>
+</aside>
+<footer class="semibold medium text-muted bg-light border-top pt-2 pb-3" id="footer">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 d-none d-lg-block">
+<nav aria-label="Breadcrumb navigation">
+<ol class="breadcrumb py-2">
+<li class="breadcrumb-item"><a class="text-dark" href="/ger">Startseite</a></li>
+<li class="breadcrumb-item"><a class="text-dark" href="/ger/Insights">Insights</a></li>
+<li class="breadcrumb-item">Präsentationen &amp; Whitepapers</li>
+<li class="breadcrumb-item">2018</li>
+<li class="breadcrumb-item">Der Online Lebensmittelhandel in Europa</li>
+</ol>
+</nav>
+</div>
+</div>
+<div class="row">
+<div class="col text-center border-top py-2">
+<ul class="list-unstyled pt-2">
+<li class="list-inline-item"><a class="twitter text-dark" href="https://www.twitter.com/ComscoreEMEA" title="Twitter"><svg class="icon icon-twitter h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+<li class="list-inline-item"><a class="linkedin text-dark" href="https://www.linkedin.com/company/comscore" title="LinkedIn"><svg class="icon icon-linkedin h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-linkedin"></use></svg></a></li>
+<li class="list-inline-item"><a class="facebook text-dark" href="https://www.facebook.com/ComscoreInc" title="Facebook"><svg class="icon icon-facebook h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+<li class="list-inline-item"><a class=" text-dark" href="https://www.youtube.com/comscore" title="YouTube"><svg class="icon icon-youtube h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-youtube"></use></svg></a></li>
+<li class="list-inline-item"><a class=" text-dark" href="/ger/Insights/communication-preference-center" title="Email"><svg class="icon icon-email h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-email"></use></svg></a></li>
+</ul>
+<p>© 2020 Comscore, Inc.</p>
+<ul class="list-unstyled">
+<li class="list-inline-item"><a class=" text-dark" href="/ger/Ueber-Uns/Datenschutzerklaerung" title="Datenschutzerklärung">Datenschutzerklärung</a></li>
+<li class="list-inline-item"><a class=" text-dark" href="/ger/Ueber-Uns/Nutzungsbedingungen" title="Nutzungsbedingungen">Nutzungsbedingungen</a></li>
+<li class="list-inline-item"><a class="popup text-dark" href="/ger/layout/set/popup/Request/Contact/Contact-Us" title="Kontaktieren Sie Uns">Kontaktieren Sie Uns</a></li>
+</ul>
+</div>
+</div>
+<aside class="c-offcanvas is-hidden bg-secondary text-muted p-0" id="left" role="complementary">
+<div class="navbar bg-light border-bottom">
+<div class="offcanvas-nav d-block d-lg-none w-100" data-set="bs"></div>
+</div>
+<div id="mobile_footer">
+<div class="text-center border-top py-2">
+<ul class="list-unstyled pt-2">
+<li class="list-inline-item"><a class="twitter text-dark" href="https://www.twitter.com/ComscoreEMEA" title="Twitter"><svg class="icon icon-twitter h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+<li class="list-inline-item"><a class="linkedin text-dark" href="https://www.linkedin.com/company/comscore" title="LinkedIn"><svg class="icon icon-linkedin h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-linkedin"></use></svg></a></li>
+<li class="list-inline-item"><a class="facebook text-dark" href="https://www.facebook.com/ComscoreInc" title="Facebook"><svg class="icon icon-facebook h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+<li class="list-inline-item"><a class=" text-dark" href="https://www.youtube.com/comscore" title="YouTube"><svg class="icon icon-youtube h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-youtube"></use></svg></a></li>
+<li class="list-inline-item"><a class=" text-dark" href="/ger/Insights/communication-preference-center" title="Email"><svg class="icon icon-email h2"><use xlink:href="/extension/comscore/design/site/stylesheets/svg/symbol-defs.svg#icon-email"></use></svg></a></li>
+</ul>
+<p>© 2020 Comscore, Inc.</p>
+<ul class="list-unstyled">
+<li class="list-inline-item"><a class=" text-dark" href="/ger/Ueber-Uns/Datenschutzerklaerung" title="Datenschutzerklärung">Datenschutzerklärung</a></li>
+<li class="list-inline-item"><a class=" text-dark" href="/ger/Ueber-Uns/Nutzungsbedingungen" title="Nutzungsbedingungen">Nutzungsbedingungen</a></li>
+<li class="list-inline-item"><a class="popup text-dark" href="/ger/layout/set/popup/Request/Contact/Contact-Us" title="Kontaktieren Sie Uns">Kontaktieren Sie Uns</a></li>
+</ul> </div>
+</div>
+</aside>
+<div class="hidden" data-cnt="EU" data-cntry="FI" id="geo"></div>
+<script type="text/javascript">
+				
+				/* CHECK IF THE COOKIE_CONSENT COOKIE EXISTS - IF NOT, SET COUNT TO 1 */
+				document.addEventListener("DOMContentLoaded",function(event){
+					if(getCookie('csccons')===false){var showed_count=0;}
+					else{var showed_count=getCookie('csccons');}
+
+					if(showed_count<3)
+						{
+							if(showed_count>0){var update_count=parseInt(showed_count,10)+1;} else{var update_count=1;}
+							setCookie('csccons',update_count,1); 
+
+							// AND SHOW THE COOKIE INFO BANNER
+							$('body').prepend('<div id="cookie_consent" class="navbar fixed-bottom navbar-light bg-light shadow"><div class="container"><div class="col-12"><p>Comscore verwendet Cookies, um besser zu verstehen wie Besucher unsere Website nutzen. Wenn Sie unsere Website weiterhin nutzen, geben Sie Ihr Einverständnis zur Verwendung dieser Cookies. Weitere Informationen über Cookies finden Sie in unserer <a href="/ger/About-Comscore/Privacy-Policy">Datenschutzerklärung</a>.</p><p><a id="close_info_banner" class="btn btn-warning" role="button">Schließen</a></p></div></div></div>');
+							$('#cookie_consent').slideDown('slow');
+						}
+
+					$('#close_info_banner').click(function(){$('#cookie_consent').slideUp('slow'); setCookie('csccons',99,1);});
+
+				});
+				
+				</script>
+<div class="modal" id="page_modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-lg" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="page_modal_title">Comscore, Inc.</h5>
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
+</div>
+<div class="modal-body" id="page_modal_body">
+<iframe id="modaliFrame" src="" style="width: 100%; overflow-x: hidden; overflow-y: scroll;" title="Confirmation dialog"></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer></div>
+<script charset="utf-8" src="/var/comscore/cache/public/javascript/270f2cefa547f53342ae4565810b3167.js" type="text/javascript"></script>
+<script>
+		(function( $ ){
+			$.fn.appendAround = function(){
+				return this.each(function(){
+
+					var $self = $( this ),
+							att = "data-set",
+							$parent = $self.parent(),
+							parent = $parent[ 0 ],
+							attval = $parent.attr( att ),
+							$set = $( "["+ att +"='" + attval + "']" );
+
+					function isHidden( elem ){
+						return $(elem).css( "display" ) === "none";
+					}
+
+					function appendToVisibleContainer(){
+						if( isHidden( parent ) ){
+							var found = 0;
+							$set.each(function(){
+								if( !isHidden( this ) && !found ){
+									$self.appendTo( this );
+									found++;
+									parent = this;
+								}
+							});
+						}
+					}
+
+					appendToVisibleContainer();
+
+					$(window).bind( "resize", appendToVisibleContainer );
+
+				});
+			};
+		}( jQuery ));
+	</script>
+<script>
+		$( function(){
+			$( document ).trigger( "enhance" );
+
+			$( '#left' ).offcanvas( {
+				modifiers: "left,overlay",
+				triggerButton: '.js-offcanvas-toggler',
+				onInit :  function() {
+					$(this).removeClass('is-hidden');
+				}
+			} );
+			$( ".js-append-around" ).appendAround();
+		});
+	</script>
+</div></body>
+</html>

@@ -1,0 +1,1 @@
+['spiele-offensive', 'spieleoffensive', 'brettspiele', 'shop', 'kartenspiele', 'shop', 'gesellschaftsspiele', 'shop', 'brettspiele', 'kaufen', 'kartenspiele', 'kaufen', 'gesellschaftsspiele', 'kaufen']

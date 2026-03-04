@@ -1,0 +1,1 @@
+['barrierefreiheit', 'demenz', 'einfache', 'sprache', 'jeanine', 'wein', 'leichte', 'sprache', 'lernschwierigkeiten', 'leseschwäche', 'netzwerk', 'leichte', 'sprache', 'sprache', 'standardsprache', 'verständlichkeit', 'webseiten', 'website']

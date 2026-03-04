@@ -1,0 +1,1 @@
+['galo', 'resort', 'galo', 'hotels', 'galomar', 'hotel', 'galosol', 'hotel', 'alpino', 'atlantico', 'hotel', 'hotel', 'on', 'a', 'cliff', 'in', 'the', 'south', 'coast', 'of', 'madeira', 'island', 'views', 'over', 'the', 'ocean', 'and', 'the', 'nature', 'reserve', 'of', 'garajau', 'activities', 'in', 'madeira', 'discover', 'madeira', 'island']

@@ -1,0 +1,1 @@
+['deutsches', 'theater', 'berlin', 'berlin', 'theater', 'schauspiel', 'sprechtheater', 'spielplan', 'aktuelles']

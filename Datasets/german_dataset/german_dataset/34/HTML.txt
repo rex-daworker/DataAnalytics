@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="de" prefix="og: http://ogp.me/ns#" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<!-- base_head -->
+<head>
+<title>Nachrichten in Leichter Sprache | NDR.de - Fernsehen - Service - Leichte Sprache</title>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Nachrichten in Leichter Sprache " name="title"/>
+<meta content="Nachrichten in Leichter Sprache " property="og:title"/>
+<meta content="Der NDR macht Nachrichten in Leichter Sprache. Diese Nachrichten sind aus Nord·deutschland. Hier können Sie diese Nachrichten lesen. Und hören." name="description"/>
+<meta content="Der NDR macht Nachrichten in Leichter Sprache. Diese Nachrichten sind aus Nord·deutschland. Hier können Sie diese Nachrichten lesen. Und hören." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.ndr.de/coronavirus360_v-contentxl.jpg" property="og:image"/>
+<link href="/fernsehen/service/leichte_sprache/Nachrichten-in-Leichter-Sprache,nachrichtenleichtesprache100.html" rel="canonical"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@ndr" name="twitter:creator"/>
+<meta content="@ndr" name="twitter:site"/>
+<meta content="https://www.ndr.de/fernsehen/service/leichte_sprache/Nachrichten-in-Leichter-Sprache,nachrichtenleichtesprache100.html" name="twitter:domain"/>
+<meta content="Nachrichten in Leichter Sprache " name="twitter:title"/>
+<meta content="Der NDR macht Nachrichten in Leichter Sprache. Diese Nachrichten sind aus Nord·deutschland. Hier können Sie diese Nachrichten lesen. Und hören." name="twitter:description"/>
+<meta content="https://www.ndr.de/coronavirus360_v-contentxl.jpg" name="twitter:image:src"/>
+<meta content="NDR,Norddeutscher Rundfunk,Norddeutschland,Radio,Fernsehen,TV" lang="de" name="keywords"/>
+<meta content="NDR" name="author"/>
+<meta content="orig1" name="generator"/>
+<meta content="index, follow, noarchive, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
+<meta content="de" name="language"/>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/favicon-196x196.png" rel="icon" sizes="196x196" type="image/png"/>
+<link href="/favicon-160x160.png" rel="icon" sizes="160x160" type="image/png"/>
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link as="font" crossorigin="" href="/common/resources/fonts/NDRSansD2Regular.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/common/resources/fonts/NDRSansD2Black.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/common/resources/fonts/NDRSansD2CondBlack.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/common/resources/fonts/ndr_icons_2020_2.woff" rel="preload" type="font/woff"/>
+<meta content="#0c1754" name="msapplication-TileColor"/>
+<meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+<link href="/resources/css/generated/ndrmerged.css?gen=2110" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/resources/css/ie.css" media="all" />
+<![endif]-->
+<!--[if IE 9 ]>
+<link type="text/css" rel="stylesheet" href="/resources/css/ie9.css" media="all" />
+<![endif]-->
+<script src="/common/resources/lib/jquery/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script defer="" src="/common/resources/lib/baselib.js?gen=2110" type="text/javascript"></script>
+<script src="/common/resources/lib/atinternet/smarttag.js"></script>
+<script defer="" src="/resources/js/scripts.js?gen=2110" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('hgroup');
+</script>
+<![endif]-->
+</head>
+<body class="branding ndrtv">
+<a class="skiplink" href="#content" title="Skip to content">Direkt zum Inhalt</a>
+<header id="pageheader" role="navigation">
+<div id="blocker"></div>
+<div class="mainnav">
+<a href="/index.html" id="dachmarkenlogo" title="zur NDR Homepage">
+<span class="invisible srlabel">zur NDR Homepage</span>
+<svg height="100%" viewbox="0 -0.096 64 40" width="100%">
+<path d="M8.923,32.342L3.524,22.62v9.723H0V15.671h3.699l5.624,10.373V15.671h3.524v16.671H8.923z M12.847,15.671V0
+h1.975v15.671H12.847z M12.847,39.465v-7.123h1.975v7.123H12.847z M20.72,15.671c4.124,0,6.249,1.975,6.249,5.798v5.024
+c0,3.924-2.049,5.849-6.249,5.849h-5.898V15.671H20.72z M20.395,29.193c2,0,2.974-1,2.974-3.049v-4.299c0-2.024-1-3.024-2.974-3.024
+h-1.774v10.372H20.395z M37.341,32.342l-2.974-6.398h-2v6.398h-3.699V15.671h5.824c4.099,0,6.048,1.625,6.048,5.099
+c0,2.299-0.85,3.674-2.75,4.499l3.524,7.073H37.341z M34.642,22.919c1.475,0,2.349-0.85,2.349-2.274
+c0-1.475-0.649-2.024-2.349-2.024h-2.35v4.299H34.642z" fill="#ffffff"></path>
+</svg>
+<span id="textlogo">NDR</span>
+</a>
+<div id="radiotvlink" title="zur Navigation Radio &amp; TV"><a href="#"><span class="ndricon_chev-down"></span> RADIO &amp; TV</a></div>
+<div id="menuburger"><a href="#" title="zur Hauptnavigation"><div class="burger"><span class="ndricon_burger"></span></div></a></div>
+<div class="main">
+<div class="gradient_menu"></div>
+<div id="burgermenu">
+<div class="close">
+<a href="#" title="Navigation des Hauptmenüs schließen"><span class="ndricon_x"></span></a>
+</div>
+<div class="searchwrapper">
+<div class="mobile" id="suche">
+<a href="#" title="zur Suche"><span class="ndricon_searchglass"></span></a>
+</div>
+<form action="/suche10.html" class="mobile" id="search" method="get">
+<a href="#" id="searchclose" title="Suche schließen"><span class="ndricon_x"></span></a>
+<label class="invisible" for="searchword">Suchbegriffe:</label>
+<input id="searchword" name="query" placeholder="Suche" type="text"/>
+<input checked="checked" id="check_epg" name="search_epg" type="hidden" value="1"/>
+<input id="sort_by_checkbox" name="sort_by" type="hidden" value="date"/>
+<button title="Suche starten" type="submit"><span class="ndricon_searchglass"></span></button>
+</form>
+</div>
+<nav>
+<ul>
+<li><a href="/nachrichten/" title="zur Übersichtsseite Nachrichten">Nachrichten</a></li>
+<li><a href="/nachrichten/niedersachsen/" title="zur Übersichtsseite Niedersachsen"><span class="full">Niedersachsen</span><span class="abbreviated">NDS</span></a></li>
+<li><a href="/nachrichten/schleswig-holstein/" title="zur Übersichtsseite Schleswig-Holstein"><span class="full">Schleswig-Holstein</span><span class="abbreviated">SH</span></a></li>
+<li><a href="/nachrichten/mecklenburg-vorpommern/" title="zur Übersichtsseite Mecklenburg-Vorpommern"><span class="full">Mecklenburg-Vorpommern</span><span class="abbreviated">MV</span></a></li>
+<li><a href="/nachrichten/hamburg/" title="zur Übersichtsseite Hamburg"><span class="full">Hamburg</span><span class="abbreviated">HH</span></a></li>
+</ul>
+<ul>
+<li><a href="/sport/" title="zur Übersichtsseite Sport">Sport</a></li>
+<li><a href="/ratgeber/" title="zur Übersichtsseite Ratgeber">Ratgeber</a></li>
+<li><a href="/kultur/" title="zur Übersichtsseite Kultur">Kultur</a></li>
+<li><a href="/geschichte/" title="zur Übersichtsseite Geschichte">Geschichte</a></li>
+</ul>
+<ul>
+<li class="right"><a href="/wetter/" title="zur Übersichtsseite Wetter"><span class="abbreviated mobile"><span class="ndricon_weather"></span></span><span class="full">Wetter</span></a></li>
+<li class="right"><a href="/verkehr/" title="zur Übersichtsseite Verkehr"><span class="abbreviated mobile"><span class="ndricon_traffic"></span></span><span class="full">Verkehr</span></a></li>
+</ul>
+</nav>
+</div>
+<div id="radiotvmenu" role="navigation">
+<div class="close">
+<a href="#" role="button" title="Navigation Radio &amp; TV schließen"><span class="ndricon_x"></span></a>
+</div>
+<nav>
+<ul>
+<li>
+<a href="/fernsehen/" title="zur Übersichtsseite Fernsehen"><span class="mainradiotv ndricon_video2"></span>Fernsehen</a>
+<a class="streamradiotv tv" href="/fernsehen/livestream/index.html" title="zur Übersichtsseite Fernsehen"><span class="ndricon_livestream"></span></a>
+<ul>
+<li><a href="/fernsehen/sendungen/" title="zur Seite Übersicht aller Sendungen">Übersicht aller Sendungen</a></li>
+<li><a href="/fernsehen/programm/" title="zur Seite TV-Programm">TV-Programm</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.ardmediathek.de/ndr/" title="zum NDR in der Mediathek"><span class="mainradiotv ndricon_video3"></span>NDR in der Mediathek</a>
+<ul>
+<li><a href="https://www.ardmediathek.de/ndr/suche/sendungen-a-bis-z/" title="Mediathek A-Z">Mediathek A-Z</a></li>
+<li><a href="https://www.ardmediathek.de/ndr/programm" title="zur Seite Sendung verpasst">Sendung verpasst</a></li>
+</ul>
+</li>
+<li>
+<a href="/radio/" title="zur Radio Übersichtsseite"><span class="mainradiotv ndricon_radio"></span>Radio</a>
+<ul>
+<li><a href="/ndr1niedersachsen/" title="zur Homepage von NDR 1 Niedersachsen">NDR 1 Niedersachsen</a>
+<a class="streamradiotv listenlive" href="/ndr1niedersachsen/epg/stationndr100-radioplayer.html" target="_blank" title="NDR 1 Niedersachsen Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/radiomv/" title="zur Homepage von NDR 1 Radio MV">NDR 1 Radio MV</a>
+<a class="streamradiotv listenlive" href="/radiomv/epg/stationradiomv102-radioplayer.html" target="_blank" title="NDR 1 Radio MV Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/wellenord/" title="zur Homepage von NDR 1 Welle Nord">NDR 1 Welle Nord</a>
+<a class="streamradiotv listenlive" href="/wellenord/epg/stationwellenord102-radioplayer.html" target="_blank" title="NDR 1 Welle Nord Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/903/" title="zur Homepage von NDR 90,3">NDR 90,3</a>
+<a class="streamradiotv listenlive" href="/903/epg/stationneunzigdrei102-radioplayer.html" target="_blank" title="NDR 90.3 Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/ndr2/" title="zur Homepage von NDR 2">NDR 2</a>
+<a class="streamradiotv listenlive" href="/ndr2/epg/stationndrzwei102-radioplayer.html" target="_blank" title="NDR 2 Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/info/" title="zur Homepage von NDR Info">NDR Info</a>
+<a class="streamradiotv listenlive" href="/info/epg/stationndrinfo102-radioplayer.html" target="_blank" title="NDR Info Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/ndrkultur/" title="zur Homepage von NDR Kultur">NDR Kultur</a>
+<a class="streamradiotv listenlive" href="/ndrkultur/epg/stationndrkultur102-radioplayer.html" target="_blank" title="NDR Kultur Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="//www.n-joy.de/" title="zur Homepage von N-JOY">N-JOY</a>
+<a class="streamradiotv listenlive" href="https://www.n-joy.de/epg/stationnjoy100-radioplayer.html" target="_blank" title="N-Joy Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/infospezial/" title="zur Homepage von NDR Info Spezial">NDR Info Spezial</a>
+<a class="streamradiotv listenlive" href="/infospezial/epg/stationinfospezial102-radioplayer.html" target="_blank" title="NDR Info Spezial Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/ndrblue/" title="zur Homepage von NDR Blue">NDR Blue</a>
+<a class="streamradiotv listenlive" href="/ndrblue/epg/stationndrblue102-radioplayer.html" target="_blank" title="NDR Blue Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+<li><a href="/ndrplus/" title="zur Homepage von NDR Plus">NDR Plus</a>
+<a class="streamradiotv listenlive" href="/ndrplus/epg/stationndrplus106-radioplayer.html" target="_blank" title="NDR Plus Livestream"><span class="ndricon_livestream"></span></a>
+</li>
+</ul>
+</li><li>
+<a href="https://www.ardaudiothek.de/" target="_blank" title="zur ARD Audiothek"><span class="mainradiotv ndricon_ARDaudiothek"></span>ARD Audiothek</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<style type="text/css">@media screen and (min-width: 62rem) { .secondlevel_nav, .branding .brandingbar { background-color: #06509E }}</style>
+<div class="secondlevel_nav">
+<div class="wrapper">
+<nav class="subnav" id="outer_nav">
+<span class="gradient_arrow_right"></span>
+<div class="nav_content" id="outer_nav_content">
+<div id="subnav_brandinglogo" style="height:3.5rem; width: 4.999999900000001rem; background-color: #06509E">
+<a href="/fernsehen" title="Zur Startseite: NDR Fernsehen">
+<svg class="svgbrand logo_ndrtv" viewbox="0 0 160 153" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>NDR Fernsehen</title>
+<path class="dm" d="M116.8,62c0-4.2-2.3-5.3-6.1-5.3h-6.1v11.2h6.1C114.3,67.8,116.8,65.7,116.8,62L116.8,62z M128,92.3h-10.3L110,75.7h-5.2
+v16.6h-9.6V49h15.1c9.5,0,15.7,3.1,15.7,13.5c0,5.3-2.1,9.5-7.1,11.4L128,92.3L128,92.3z"></path>
+<polygon points="59.2,49 59.2,8.3 54.1,8.3 54.1,49 " style="fill:#09E5FF;"></polygon>
+<path class="dm" d="M81.4,76.2V65c0-5.3-2.4-7.9-7.7-7.9h-4.6v26.9h4.6C79,84.1,81.4,81.4,81.4,76.2L81.4,76.2z M90.7,77.1
+c0,11-5.7,15.2-16.2,15.2H59.2V49h15.3c10.1,0,16.2,4.5,16.2,15.1L90.7,77.1L90.7,77.1z"></path>
+<polygon class="dm" points="54.1,92.3 54.1,49 44.9,49 44.9,75.9 30.3,49 20.7,49 20.7,92.3 29.9,92.3 29.9,67 43.9,92.3 "></polygon>
+<polygon points="59.2,110.8 59.2,92.3 54.1,92.3 54.1,110.8 " style="fill:#09E5FF;"></polygon>
+<polygon points="75.7,104 71.3,104 71.3,108.9 75.1,108.9 75.1,110.6 71.3,110.6 71.3,117.7 69.2,117.7 69.2,102.4
+75.7,102.4 " style="fill:#09E5FF;"></polygon>
+<polygon points="84,117.7 77.3,117.7 77.3,102.4 83.8,102.4 83.8,104 79.3,104 79.3,108.9 83.3,108.9 83.3,110.6
+79.3,110.6 79.3,116.1 84,116.1 " style="fill:#09E5FF;"></polygon>
+<path d="M94.2,117.7h-2.1l-2.8-7l-1.6,0v6.9h-2v-15.4h3.5c1.5,0,2.7,0.4,3.5,1.3c0.6,0.7,0.9,1.6,0.9,2.7
+c0,1.1-0.3,2.1-0.9,2.8c-0.4,0.5-0.8,0.8-1.4,1.1L94.2,117.7z M87.7,109.3h0.8c2,0,3-0.9,3-2.8c0-0.8-0.2-1.5-0.7-1.9
+c-0.4-0.4-1.2-0.6-2.2-0.6h-1L87.7,109.3L87.7,109.3z" style="fill:#09E5FF;"></path>
+<path d="M104.3,117.7h-2.8c-1.6-4.8-2.8-8.8-3.7-12.1c0,3,0,4.7,0,5.3v6.9h-2v-15.4h2.8l0.1,0.3
+c1.6,4.9,2.7,8.9,3.6,11.8l0-0.8l0-1.2c0-1.8,0-3.3,0-4.4v-5.8h2L104.3,117.7L104.3,117.7z" style="fill:#09E5FF;"></path>
+<path d="M112.4,106.7v-0.5c0-0.7-0.1-1.2-0.3-1.6c-0.3-0.5-0.8-0.7-1.6-0.7c-0.6,0-1.1,0.2-1.4,0.5
+c-0.3,0.3-0.4,0.6-0.4,1.1c0,0.4,0.1,0.9,0.4,1.3c0.3,0.5,1,1.2,2,2.1c1.5,1.3,2.5,2.4,2.9,3.2c0.3,0.7,0.5,1.4,0.5,2.2
+c0,1.2-0.4,2.1-1.1,2.7c-0.7,0.6-1.7,0.9-2.9,0.9c-1.4,0-2.5-0.4-3.2-1.2c-0.6-0.7-0.9-1.5-0.9-2.6v-1.2h2v0.9
+c0,1.6,0.7,2.3,2.1,2.3c0.7,0,1.2-0.2,1.6-0.6c0.3-0.3,0.4-0.7,0.4-1.3c0-0.5-0.2-1.1-0.5-1.6c-0.3-0.5-1.1-1.3-2.1-2.2
+c-0.9-0.8-1.6-1.5-2.2-2.2c-0.7-0.8-1-1.8-1-2.9c0-1.1,0.3-1.9,1-2.5c0.7-0.6,1.6-0.9,2.8-0.9c1.3,0,2.3,0.4,3,1.1
+c0.6,0.6,0.9,1.6,0.9,2.8v0.7L112.4,106.7L112.4,106.7z" style="fill:#09E5FF;"></path>
+<polygon points="123.5,117.7 116.8,117.7 116.8,102.4 123.3,102.4 123.3,104 118.8,104 118.8,108.9 122.7,108.9
+122.7,110.6 118.8,110.6 118.8,116.1 123.5,116.1 " style="fill:#09E5FF;"></polygon>
+<polygon points="133.2,117.7 131.2,117.7 131.2,110.5 127.1,110.5 127.1,117.7 125.1,117.7 125.1,102.4 127.1,102.4
+127.1,108.8 131.2,108.8 131.2,102.4 133.2,102.4 " style="fill:#09E5FF;"></polygon>
+<polygon points="142.5,117.7 135.7,117.7 135.7,102.4 142.2,102.4 142.2,104 137.8,104 137.8,108.9 141.7,108.9
+141.7,110.6 137.8,110.6 137.8,116.1 142.5,116.1 " style="fill:#09E5FF;"></polygon>
+<path d="M152.5,117.7h-2.8c-1.6-4.8-2.8-8.8-3.7-12.1c0,3,0,4.7,0,5.3v6.9h-2v-15.4h2.8l0.1,0.3
+c1.6,4.9,2.7,8.9,3.6,11.8l0-0.8l0-1.2c0-1.8,0-3.3,0-4.4v-5.8h2L152.5,117.7L152.5,117.7L152.5,117.7z" style="fill:#09E5FF;"></path>
+</svg><span class="branding_label">NDR Fernsehen</span>
+</a>
+</div>
+<button class="pn-Advancer pn-Advancer_Left" id="pnAdvancerLeft" type="button">
+<span aria-label="weitere Menüpunkte" class="icon icon_arrow_left"></span>
+</button>
+<ul class="" id="branding_navigation">
+<li><a href="/fernsehen/livestream/index.html">Livestream</a></li>
+<li><a href="/fernsehen/sendungen/index.html">Sendungen A-Z</a></li>
+<li><a href="/fernsehen/programm/index.html">Programm</a></li>
+<li class="active"><a href="/fernsehen/service/index.html">Service</a></li></ul>
+<span class="subnav_Indicator" id="pnIndicator"></span>
+</div>
+</nav>
+<button class="pn-Advancer pn-Advancer_Right" id="pnAdvancerRight" type="button">
+<span aria-label="weitere	Menüpunkte" class="icon icon_arrow_right"></span>
+</button>
+</div>
+</div>
+</header>
+<div id="page">
+<a name="content"></a>
+<div class="container w100">
+</div>
+<div class="pagepadding">
+<article class="w100 idxvorspann">
+<div class="modulepadding copytext">
+<!-- module contentpage -->
+<header>
+<h1>
+Nachrichten in Leichter Sprache</h1>
+</header>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Nachrichten in Leichter Sprache",
+"description": "Der NDR macht Nachrichten in Leichter Sprache. Diese Nachrichten sind aus Nord·deutschland. Hier können Sie diese Nachrichten lesen. Und hören.",
+"image": [
+"https://www.ndr.de/coronavirus360_v-fullhd.jpg",
+"https://www.ndr.de/coronavirus360_v-quadratl.jpg",
+"https://www.ndr.de/coronavirus360_v-gallery.jpg"
+],
+"datePublished": "2020-03-23T15:31:20.805+01:00",
+"dateModified": "",
+"expires": "",
+"isAccessibleforFree" : true,
+"keywords" : "",
+"publisher": {
+"@type": "Organization",
+"name": "NDR",
+"url":	"https://www.ndr.de",
+"sameAs": [
+"https://www.facebook.com/NDR.de",
+"https://twitter.com/ndr"
+],
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.ndr.de/resources/images/logos/ndr_printlogo.gif",
+"width": 53,
+"height": 51
+}
+}
+}
+</script></div>
+</article>
+<section class="w100">
+<h1>
+<span> </span>
+</h1>
+<div class="module w100 std" data-color="col4">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-thumbnailgross.jpg 128w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-contentgross.jpg 568w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-vierspaltig.jpg 760w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-contentxl.jpg 1067w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-fullhd.jpg 1920w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-einspaltig.jpg 184w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-contentklein.jpg 256w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-anderthalbspaltig.jpg 280w,/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Ein als Till Eulenspiegel verkleideter Mann, wartet im Rathaus auf die Sessionseröffnung des Komitee Braunschweiger Karneval. © dpa-Bildfunk Foto: Julian Stratenschulte" class="responsive" src="/nachrichten/niedersachsen/braunschweig_harz_goettingen/karneval2416_v-contentgross.jpg" title="Ein als Till Eulenspiegel verkleideter Mann, wartet im Rathaus auf die Sessionseröffnung des Komitee Braunschweiger Karneval."/>
+</source></picture>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="/fernsehen/service/leichte_sprache/Corona-Virus-Informationen-in-Leichter-Sprache,coronaleichtesprache100.html" title="Zum Artikel: Corona-Virus: Informationen in Leichter Sprache">
+Corona-Virus: Informationen in Leichter Sprache
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Viele Menschen wollen Informationen zum Corona-Virus lesen. Hier können Sie diese Informationen lesen. Diese Informationen sind in Leichter Sprache.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Corona-Virus-Informationen-in-Leichter-Sprache,coronaleichtesprache100.html" title="Zum Artikel: Corona-Virus: Informationen in Leichter Sprache">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="w100">
+<h1>
+<span>CORONA-VIRUS</span>
+</h1>
+<div class="module w50 std" data-color="col8">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/nachrichten/info/corona396_v-thumbnailgross.jpg 128w,/nachrichten/info/corona396_v-contentgross.jpg 568w,/nachrichten/info/corona396_v-vierspaltig.jpg 760w,/nachrichten/info/corona396_v-contentxl.jpg 1067w,/nachrichten/info/corona396_v-fullhd.jpg 1920w,/nachrichten/info/corona396_v-einspaltig.jpg 184w,/nachrichten/info/corona396_v-contentklein.jpg 256w,/nachrichten/info/corona396_v-anderthalbspaltig.jpg 280w,/nachrichten/info/corona396_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Eine Krankenschwester schließt einen Behälter mit einem Abstrich von einem Patienten, der auf das neuartige Coronavirus getestet wird. © KEYSTONE/dpa Foto: Jean-Christophe Bott" class="responsive" src="/nachrichten/info/corona396_v-contentgross.jpg" title="Eine Krankenschwester schließt einen Behälter mit einem Abstrich von einem Patienten, der auf das neuartige Coronavirus getestet wird."/>
+</source></picture>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="/fernsehen/service/leichte_sprache/Alle-Nachrichten-in-Leichter-Sprache,leichtesprachearchiv118.html" title="Zum Artikel: Alle Nachrichten zum Corona-Virus">
+Alle Nachrichten zum Corona-Virus
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Hier finden Sie alle Nachrichten zum Corona-Virus. Diese Nachrichten sind in Leichter Sprache. Und diese Nachrichten sind aus den vergangenen Tagen.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Alle-Nachrichten-in-Leichter-Sprache,leichtesprachearchiv118.html" title="Zum Artikel: Alle Nachrichten zum Corona-Virus">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="module w50 std" data-color="col7">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/home/corona420_v-thumbnailgross.jpg 128w,/home/corona420_v-contentgross.jpg 568w,/home/corona420_v-vierspaltig.jpg 760w,/home/corona420_v-contentxl.jpg 1067w,/home/corona420_v-fullhd.jpg 1920w,/home/corona420_v-einspaltig.jpg 184w,/home/corona420_v-contentklein.jpg 256w,/home/corona420_v-anderthalbspaltig.jpg 280w,/home/corona420_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Darstellung eines Coronavirus © panthermedia/ fotolia.com Foto:  lamianuovasupermail@gmail.com (YAYMicro), peshkov" class="responsive" src="/home/corona420_v-contentgross.jpg" title="Darstellung eines Coronavirus"/>
+</source></picture>
+<div class="textpadding media"><span class="ndricon_extlink2"></span></div>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="https://www.mdr.de/nachrichten-leicht/informationen-zum-corona-virus-100.html" target="_blank" title="Link: Was ist das Corona-Virus?">
+Was ist das Corona-Virus?
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Sie wollen wissen: Was ist das Corona-Virus? Oder wie können Sie sich schützen? Dann klicken Sie hier. Diese Informationen sind vom MDR.
+<a class="cta " href="https://www.mdr.de/nachrichten-leicht/informationen-zum-corona-virus-100.html" title="Link: Was ist das Corona-Virus?">extern</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="w100">
+<div class="module w100 list" data-color="col6">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserpadding">
+<h2>
+<span class="ndricon_article"></span>
+<a href="/fernsehen/service/leichte_sprache/Alle-Nachrichten-in-Leichter-Sprache,leichtesprachearchiv110.html" title="Zum Artikel: Alle Nachrichten in Leichter Sprache">
+Alle Nachrichten in Leichter Sprache
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Hier finden Sie alle Nachrichten in Leichter Sprache. Diese Nachrichten sind aus den vergangenen Wochen.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Alle-Nachrichten-in-Leichter-Sprache,leichtesprachearchiv110.html" title="Zum Artikel: Alle Nachrichten in Leichter Sprache">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="w100">
+<h1>
+<span> Weitere Informationen</span>
+</h1>
+<div class="module w33 std" data-color="col8">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/nachrichten/info/buchstaben101_v-thumbnailgross.jpg 128w,/nachrichten/info/buchstaben101_v-contentgross.jpg 568w,/nachrichten/info/buchstaben101_v-vierspaltig.jpg 760w,/nachrichten/info/buchstaben101_v-contentxl.jpg 1067w,/nachrichten/info/buchstaben101_v-fullhd.jpg 1920w,/nachrichten/info/buchstaben101_v-einspaltig.jpg 184w,/nachrichten/info/buchstaben101_v-contentklein.jpg 256w,/nachrichten/info/buchstaben101_v-anderthalbspaltig.jpg 280w,/nachrichten/info/buchstaben101_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Buchstaben liegen bunt verstreut. © dpa picture alliance Foto: Oliver Berg" class="responsive" src="/nachrichten/info/buchstaben101_v-contentgross.jpg" title="Buchstaben liegen bunt verstreut."/>
+</source></picture>
+<div class="textpadding media"><span class="ndricon_audio-filled"></span></div>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="/fernsehen/service/leichte_sprache/Was-ist-Leichte-Sprache,leichtesprache374.html" title="Zum Artikel: Was ist Leichte Sprache?">
+Was ist Leichte Sprache?
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Leichte Sprache hat besondere Regeln. Wir wollen Ihnen diese Regeln erklären.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Was-ist-Leichte-Sprache,leichtesprache374.html" title="Zum Artikel: Was ist Leichte Sprache?">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="module w33 std" data-color="col4">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/kultur/buch4202_v-thumbnailgross.jpg 128w,/kultur/buch4202_v-contentgross.jpg 568w,/kultur/buch4202_v-vierspaltig.jpg 760w,/kultur/buch4202_v-contentxl.jpg 1067w,/kultur/buch4202_v-einspaltig.jpg 184w,/kultur/buch4202_v-contentklein.jpg 256w,/kultur/buch4202_v-anderthalbspaltig.jpg 280w,/kultur/buch4202_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Buchstaben fliegen aus einem offenem Buch. © fotolia Foto: ra2 studio" class="responsive" src="/kultur/buch4202_v-contentgross.jpg" title="Buchstaben fliegen aus einem offenem Buch."/>
+</source></picture>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="/fernsehen/service/leichte_sprache/Woerterbuch-in-Leichter-Sprache,hintstartseite100.html" title="Zum Artikel: Wörter·buch in Leichter Sprache">
+Wörter·buch in Leichter Sprache
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Sie verstehen ein Wort nicht? Hier haben wir viele Wörter in Leichter Sprache erklärt.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Woerterbuch-in-Leichter-Sprache,hintstartseite100.html" title="Zum Artikel: Wörter·buch in Leichter Sprache">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="module w33 std" data-color="col6">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/service/barrierefreiheit/jahresrueckblick1410_v-thumbnailgross.jpg 128w,/service/barrierefreiheit/jahresrueckblick1410_v-contentgross.jpg 568w,/service/barrierefreiheit/jahresrueckblick1410_v-vierspaltig.jpg 760w,/service/barrierefreiheit/jahresrueckblick1410_v-contentxl.jpg 1067w,/service/barrierefreiheit/jahresrueckblick1410_v-fullhd.jpg 1920w,/service/barrierefreiheit/jahresrueckblick1410_v-einspaltig.jpg 184w,/service/barrierefreiheit/jahresrueckblick1410_v-contentklein.jpg 256w,/service/barrierefreiheit/jahresrueckblick1410_v-anderthalbspaltig.jpg 280w,/service/barrierefreiheit/jahresrueckblick1410_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Autonome randalieren im Schanzenviertel, Elbphilharmonie, Prinz William und seine Frau Herzogin Kate © dpa, NDR Foto: Markus Scholz, Ralph Larmann, Kerina Marin" class="responsive" src="/service/barrierefreiheit/jahresrueckblick1410_v-contentgross.jpg" title="Autonome randalieren im Schanzenviertel, Elbphilharmonie, Prinz William und seine Frau Herzogin Kate"/>
+</source></picture>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="/fernsehen/service/leichte_sprache/Nachrichtenrueckblicke-in-Leichter-Sprache,leichtesprachearchiv102.html" title="Zum Artikel: Nachrichten·rückblicke in Leichter Sprache">
+Nachrichten·rückblicke in Leichter Sprache
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Bis Ende 2017 hat der NDR jede Woche einen Nachrichten·rückblick in Leichter Sprache gemacht.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Nachrichtenrueckblicke-in-Leichter-Sprache,leichtesprachearchiv102.html" title="Zum Artikel: Nachrichten·rückblicke in Leichter Sprache">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="w100">
+<h1>
+<span>Weitere Informationen</span>
+</h1>
+<div class="module w100 list" data-color="col8">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserimage">
+<div class="image-container">
+<picture>
+<source sizes="1px" srcset="/resources/images/placeholder.png 80w,/coronavirus360_v-thumbnailgross.jpg 128w,/coronavirus360_v-contentgross.jpg 568w,/coronavirus360_v-vierspaltig.jpg 760w,/coronavirus360_v-contentxl.jpg 1067w,/coronavirus360_v-fullhd.jpg 1920w,/coronavirus360_v-einspaltig.jpg 184w,/coronavirus360_v-contentklein.jpg 256w,/coronavirus360_v-anderthalbspaltig.jpg 280w,/coronavirus360_v-zweispaltig.jpg 376w" type="image/jpeg">
+<img alt="Ein Virus schwebt vor einer Menschenmenge (Fotomontage) © panthermedia, fotolia Foto: Christian Müller" class="responsive" src="/coronavirus360_v-contentgross.jpg" title="Ein Virus schwebt vor einer Menschenmenge (Fotomontage)"/>
+</source></picture>
+</div>
+</div>
+<div class="teaserpadding">
+<h2>
+<a href="/fernsehen/service/leichte_sprache/Nachrichten-in-Leichter-Sprache,nachrichtenleichtesprache100.html" title="Zum Artikel: Nachrichten in Leichter Sprache">
+Nachrichten in Leichter Sprache
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Der NDR macht Nachrichten in Leichter Sprache. Diese Nachrichten sind aus Nord·deutschland. Hier können Sie diese Nachrichten lesen. Und hören.
+<a class="cta " href="/fernsehen/service/leichte_sprache/Nachrichten-in-Leichter-Sprache,nachrichtenleichtesprache100.html" title="Zum Artikel: Nachrichten in Leichter Sprache">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="module w100 list" data-color="col2">
+<div class="modulepadding">
+<div class="teaser">
+<div class="teaserpadding">
+<h2>
+<span class="ndricon_article"></span>
+<a href="/fernsehen/service/Barrierefreie-Angebote-im-NDR,barrierefrei141.html" title="Zum Artikel: Barrierefreie Angebote im NDR">
+Barrierefreie Angebote im NDR
+</a>
+</h2>
+<div class="teasertext">
+<p>
+Barrierefreie Angebote ermöglichen seh- oder hörbehinderten Menschen den Zugang zu Fernsehen und Internet. Hier ein Überblick über die Angebote im NDR.
+<a class="cta " href="/fernsehen/service/Barrierefreie-Angebote-im-NDR,barrierefrei141.html" title="Zum Artikel: Barrierefreie Angebote im NDR">mehr</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><div class="container w100">
+</div>
+</div>
+<!-- googleoff: index -->
+</div>
+<div id="footer">
+<div class="pagepadding">
+<div class="module footerblock w25">
+<div class="modulepadding">
+<h2>Der NDR</h2>
+<ul>
+<li><a href="/der_ndr/start/index.html" title="Zum Artikel: Unternehmen">Unternehmen</a></li>
+<li><a href="/der_ndr/events/index.html" title="Zum Artikel: Events &amp; Führungen">Events &amp; Führungen</a></li>
+<li><a href="/der_ndr/karriere/index.html" title="Zum Artikel: Karriere">Karriere</a></li>
+<li><a href="/der_ndr/medien_und_bildung/index.html" title="Zum Artikel: Medien &amp; Bildung">Medien &amp; Bildung</a></li>
+<li><a href="/der_ndr/kontakt/index.html" title="Zum Artikel: Kontakt">Kontakt</a></li>
+<li><a href="/der_ndr/presse/index.html" title="Zum Artikel: Presse">Presse</a></li>
+<li><a href="/der_ndr/zahlen_und_daten/index.html" title="Zum Artikel: Zahlen &amp; Daten">Zahlen &amp; Daten</a></li>
+<li><a href="https://www.rundfunkbeitrag.de/" target="_blank" title="Link: Alle Informationen zu den Rundfunkgebühren ab 1. Januar 2013">Rundfunkbeitrag</a></li>
+<li><a href="/der_ndr/empfang_und_technik/index.html" title="Zum Artikel: Empfang &amp; Technik">Empfang &amp; Technik</a></li>
+<li><a href="/der_ndr/unternehmen/rundfunkrat/index.html" title="Zum Artikel: NDR Rundfunkrat">NDR Rundfunkrat</a></li>
+<li><a href="/der_ndr/unternehmen/verwaltungsrat/index.html" title="Zum Artikel: NDR Verwaltungsrat">NDR Verwaltungsrat</a></li>
+</ul>
+</div>
+</div>
+<div class="module footerblock w25">
+<div class="modulepadding">
+<h2>Service</h2>
+<ul>
+<li><a href="/nachrichten/wetter/index.html" title="Zum Artikel: Wetter">Wetter</a></li>
+<li><a href="/nachrichten/verkehr/index.html" title="Zum Artikel: Verkehr">Verkehr</a></li>
+<li><a href="/ratgeber/kochen/index.html" title="Zum Artikel: Rezepte">Rezepte</a></li>
+<li><a href="/fernsehen/videotext/index.html" title="Zum Artikel: NDR Text">NDR Text</a></li>
+<li><a href="/fernsehen/service/Barrierefreie-Angebote-im-NDR,barrierefrei141.html" title="Zum Artikel: Barrierefreiheit">Barrierefreiheit</a></li>
+<li><a href="/fernsehen/service/leichte_sprache/index.html" title="Zum Artikel: Leichte Sprache im NDR">Leichte Sprache im NDR</a></li>
+<li><a href="https://www.ndrticketshop.de/" target="_blank" title="Link: Externer Link zum NDR Ticketshop">Tickets</a></li>
+<li><a href="https://www.ndrshop.de" target="_blank" title="Link: Link zum NDR Shop">Shop</a></li>
+<li><a href="/service/technische_hilfe/index.html" title="Zum Artikel: Hilfe">Hilfe</a></li>
+<li><a href="/home/korrekturuebersicht100.html" title="Zum Artikel: Korrekturen">Korrekturen</a></li>
+<li><a href="/service/newsletter/Abonnieren-Sie-den-NDR-Newsletter,newsletter3444.html" title="Zum Artikel: NDR Newsletter">NDR Newsletter</a></li>
+</ul>
+</div>
+</div>
+<div class="module footerblock w25">
+<div class="modulepadding">
+<h2>Themen</h2>
+<ul>
+<li><a href="/radio/NDR-Programmcheck-Ihre-Fragen-unsere-Antworten,programmcheck100.html" title="Zum Artikel: NDR Programmcheck">NDR Programmcheck</a></li>
+<li><a href="/ratgeber/klimawandel/index.html" title="Zum Artikel: Klimawandel im Norden">Klimawandel im Norden</a></li>
+<li><a href="/ratgeber/reise/ausflugstipps148.html" title="Zum Artikel: Ausflugstipps">Ausflugstipps</a></li>
+<li><a href="/nachrichten/info/Kreuzfahrtschiffe,kreuzfahrtschiffe127.html" title="Zum Artikel: Kreuzschifffahrt im Norden">Kreuzschifffahrt im Norden</a></li>
+<li><a href="/nachrichten/netzwelt/NDR-twitter-facebook-instagram-youtube,ndrsozialenetzwerke101.html" title="Zum Artikel: Social Media">Social Media</a></li>
+<li><a href="/kultur/norddeutsche_sprache/index.html" title="Zum Artikel: Plattdeutsch">Plattdeutsch</a></li>
+<li><a href="/hand_in_hand_fuer_norddeutschland/index.html" title="Zum Artikel: Hand in Hand für Norddeutschland">Hand in Hand für Norddeutschland</a></li>
+<li><a href="/home/thema108.html" title="Zum Artikel: Themen A-Z">Themen A-Z</a></li>
+<li><a href="/geschichte/ndr_retro/index.html" title="Zum Artikel: Archiv: NDR Retro">Archiv: NDR Retro</a></li>
+</ul>
+</div>
+</div><div class="module footerblock w25">
+<div class="modulepadding">
+<h2>NDR Fernsehen</h2>
+<ul>
+<li><a href="/fernsehen/sendungen/index.html" title="Zum Artikel: Sendungen A-Z">Sendungen A-Z</a></li>
+<li><a href="/fernsehen/programm/index.html" title="Zum Artikel: Programm">Programm</a></li>
+<li><a href="/fernsehen/livestream/index.html" title="Zum Video-Livestream: Livestream">Livestream</a></li>
+<li><a href="/fernsehen/service/Mitschnittservice,mitschnitt312.html" title="Zum Artikel: Mitschnittservice">Mitschnittservice</a></li>
+<li><a href="/nachrichten/investigation/Ressort-Investigation-im-NDR,investigation102.html" title="Zum Artikel: Ressort Investigation">Ressort Investigation</a></li>
+<li><a href="/fernsehen/50_jahre/index.html" title="Zum Artikel: Jubiläum NDR Fernsehen">Jubiläum NDR Fernsehen</a></li>
+</ul>
+</div>
+</div></div><div class="module footerblock metanav">
+<div class="pagepadding">
+<ul>
+<li><a href="/service/impressum/index.html" title="Impressum">Impressum</a></li>
+<li><a href="/service/kontakt/index.html" title="Kontakt">Kontakt</a></li>
+<li><a href="/service/datenschutz/index.html" title="Datenschutzerklärung">Datenschutz</a></li>
+<li><a href="http://www.ard.de" title="ARD.de">ARD.de</a></li>
+<li><a class="showcopyrights" href="#">Bildrechte</a></li>
+<li id="copy">© Norddeutscher Rundfunk</li>
+</ul>
+</div>
+<script type="text/javascript">
+if (typeof ATInternet != 'undefined') {
+// Pfad ohne Dateinamen
+path = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+// Einzelne Pfadebenen
+pathArray = path.split( '/' );
+if (pathArray[2] === undefined) pathArray[2] = "";
+if (pathArray[3] === undefined) pathArray[3] = "";
+if (false) {
+pathArray[1] = 'notfound';
+pathArray[2] = '';
+pathArray[3] = '';
+}
+var atiTag = new ATInternet.Tracker.Tag({'site': 595937});
+atiTag.page.set({
+name: encodeURIComponent('Nachrichten in Leichter Sprache'),
+chapter1: encodeURIComponent(pathArray[1]),
+chapter2: encodeURIComponent(pathArray[2]),
+chapter3: encodeURIComponent(pathArray[3]),
+level2: '1'
+});
+atiTag.customVars.set({
+site: {
+1: '[' + encodeURIComponent(document.referrer) + ']',
+2: '[' + encodeURIComponent(document.location.href) + ']',
+3: '[nachrichtenleichtesprache100]',
+4: '[' + encodeURIComponent('Nachrichten in Leichter Sprache') + ']',
+5: '[30879bd7-ec18-46d6-b0a1-a04937ba9986]',
+6: '[' + encodeURIComponent('story') + ']',
+7: '[' + encodeURIComponent('IndexVorspann') + ']',
+8: '[' + encodeURIComponent('ndrtv') + ']',
+9: '',
+10: '',
+11: '[' + encodeURIComponent(document.location.pathname) + ']',
+12: '', // App-Version
+13: '[' + encodeURIComponent('2020-03-23T15:31:20') + ']',
+14: '[Web]',
+15: '[' + encodeURIComponent('') + ']',
+16: '', //Darstellungsgroesse
+17: '[Ja]', //Sendungsbezug
+18: '[NDR]', // Ersteller
+19: '',
+20: '[' + encodeURIComponent('') + ']'
+}
+});
+atiTag.dispatch();
+var atilevel1 = '595937';
+var bra = 'ndrtv';
+var pdt = '2020-03-23T15:31:20';
+var sid = '';
+var src = '';
+var tags = '';
+var uuid = '30879bd7-ec18-46d6-b0a1-a04937ba9986';
+var sophoraID = 'nachrichtenleichtesprache100';
+var pageTitle = 'Nachrichten in Leichter Sprache';
+var objectType = 'story';
+var atiLevel2 = '1';
+var contentType = 'IndexVorspann';
+var distribution = 'Web';
+var sendungsbezug = 'Ja';
+var marke = '';
+}
+</script>
+<!--  IVW SZMnG Tag -->
+<script type="text/javascript">
+$(document).ready(function() {
+if(ndrEmbed.options.services['tracking'].accepted === false) {
+window.setTimeout("getivw()", 1);
+}
+});
+</script>
+</div>
+</div>
+<!-- googleon: index -->
+</body>
+</html>

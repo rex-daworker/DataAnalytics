@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="IMPERIA 7.5.1" name="GENERATOR"/>
+<title>bildung.koeln.de - Elterninformationen zum deutschen Schulsystem in mehreren Sprachen</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="de" http-equiv="content-language"/>
+<meta content="Köln, Elterninformation, Elternbrief, Schule, Schulsystem, mehrsprachig, Primarstufe, Sekundarstufe, I, II, Grundschule, Hauptschule, Gymnasium, Gesamtschule, Ergänzungsschule, Information, Text, RAA, Zmi, Sparkasse, Nrw, Nordrhein, Westfalen, Sprachen, Sprache,  Deutsch, Albanisch, Arabisch, Bosnisch, Englisch, Farsi, Persisch, Französisch, Griechisch, Italienisch, Kroatisch, Kurdisch, Polnisch, Portugiesisch, Romanes, Russisch, Serbisch, Spanisch und Türkisch, Roma, Schulpflicht, Schulformen, Schulwechsel, Schulabschlüsse, Förderangebote, fremdsprachlich, herkunfstsprachlich, Unterricht, Einschulung, Schulbücher, Lernmittel, Schulordnung, Eltermitwirkung, Beratungsstelle, Bildungsfragen, Informationen, Eltern, Migrationshintergrund, Schule, Beratung , Migrantinnen, Migranten, Zuwanderer, Familie, sekundarstufe, I, Sek 1, sekundarstufe II, sek 2, international, Förderklassen, Sprachförderung, Muttersprache, MSU" name="keywords"/>
+<meta content="index,follow" name="robots"/>
+<meta content="bf08dbc2-e371-2039-9b55-1a61705eb62e/232/2369" name="X-Imperia-Live-Info"/>
+<style type="text/css">
+@import url("/css/screen.css");
+
+
+</style>
+<script src="/js/jquery.js" type="text/javascript"></script>
+<script src="/js/jquery.socialshareprivacy.min.js" type="text/javascript"></script>
+<script src="/js/standard.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="TopBox">
+<div id="MetaPositioner">
+<a class="MetaNav" href="/index.html" tabindex="1" title="zur Startseite">Home</a>   |  
+			<a class="MetaNav" href="/sitemap.html" tabindex="60" title="zur Sitemap">Sitemap</a>   |  
+			<a class="MetaNav" href="mailto:info@bildung.koeln.de" tabindex="61" title="E-Mail senden">E-Mail senden</a>   |  
+			<a class="MetaNav" href="/impressum/index.html" tabindex="62" title="zum Impressum">Impressum</a>   |  
+			<a class="MetaNav" href="/datenschutz/index.html" tabindex="63" title="zur Datenschutzerklärung">Datenschutz</a>   |  
+			<a class="MetaNav" href="/hilfe/index.html" tabindex="64" title="zur Hilfe">Hilfe</a>
+</div>
+<a href="/index.html" id="LogoBox" title="bildung.koeln.de – Das Kölner Bildungsportal"><span>bildung.koeln.de – Das Kölner Bildungsportal</span></a>
+<a href="/lernende_region/index.html" id="LogoBoxLrnk" title="Ein Service von: Lernende Region Netzwerk Köln"><span>Ein Service von Lernende Region Netzwerk Köln</span></a>
+<div class="Clear"></div>
+</div>
+<div id="MainNavBox">
+<ul class="NavRow NoBorder">
+<li><a href="/fruehkindliche_bildung/index.html" tabindex="2" title="Frühkindliche Bildung">Frühkindliche Bildung</a></li>
+<li><a class="ActiveMainNav" href="/schule/index.html" tabindex="3" title="Schule">Schule</a></li>
+<li><a href="/berufswahl/index.html" tabindex="4" title="Berufswahl">Berufswahl</a></li>
+<li><a href="/ausbildung_studium/index.html" tabindex="5" title="Ausbildung und Studium">Ausbildung und Studium</a></li>
+</ul>
+<ul class="NavRow">
+<li><a href="/fort_weiterbildung/index.html" tabindex="6" title="Fort- und Weiterbildung">Fort- und Weiterbildung</a></li>
+<li><a href="/gesundheit_bildung/index.html" tabindex="7" title="Gesundheit und Bildung">Gesundheit und Bildung</a></li>
+<li><a href="/grundbildung/index.html" tabindex="8" title="Grundbildung">Grundbildung</a></li>
+<li><a href="/umwelt_kultur/index.html" tabindex="9" title="Umwelt und Kultur">Umwelt und Kultur</a></li>
+</ul>
+<ul class="NavRow">
+<li><a href="/beratung/index.html" tabindex="10" title="Beratung">Beratung</a></li>
+<li><a href="/service_fuer_unternehmen/index.html" tabindex="11" title="Personalentwicklung">Service für Unternehmen</a></li>
+<li><a href="/regionale_bildung/index.html" tabindex="12" title="Regionale Bildung">Regionale Bildung</a></li>
+<li><a href="/lernende_region/index.html" tabindex="13" title="Wir über uns">Wir über uns</a></li>
+</ul>
+<div class="Clear"></div>
+</div>
+<div class="Parent" id="ParentContentBox">
+<div id="SubNavBox">
+<a class="SubNav" href="/schule/schulen_koeln/index.html" tabindex="14" title="Schulen in Köln">Schulen in Köln</a>
+<a class="SubNav" href="/schule/schueleranmeldung/index.html" tabindex="15" title="schüler online - Schüleranmeldung Köln">schüler online - Schüleranmeldung Köln</a>
+<a class="SubNav" href="/schule/berufskolleg/index.html" tabindex="16" title="Berufskolleg">Berufskolleg</a>
+<a class="SubNav" href="/schule/schulabschluesse/index.html" tabindex="17" title="Schulabschlüsse nachholen">Schulabschlüsse nachholen</a>
+<a class="SubNav" href="/schule/aemter_und_behoerden/index.html" tabindex="18" title="Ämter und Behörden">Ämter und Behörden</a>
+<a class="SubNav" href="/schule/schullaufbahn/index.html" tabindex="19" title="Schullaufbahn">Schullaufbahn</a>
+<a class="SubNav" href="/schule/angebote/index.html" tabindex="20" title="Angebote für Schulen, Schüler, Schülerinnen">Angebote für Schulen, Schüler, Schülerinnen</a>
+<a class="SubNav" href="/schule/schulpsychologischer_dienst/index.html" tabindex="21" title="Schulpsychologischer Dienst">Schulpsychologischer Dienst</a>
+<a class="SubNav" href="/schule/ganztagsangebote/index.html" tabindex="22" title="Ganztagsangebote">Ganztagsangebote</a>
+<a class="SubNav" href="/schule/nachhilfe_foerderung/index.html" tabindex="23" title="Nachhilfe und Förderung">Nachhilfe und Förderung</a>
+<a class="SubNav" href="/schule/lernwelt/index.html" tabindex="24" title="Lernwelt">Lernwelt</a>
+<a class="SubNav" href="/schule/netzwerke/index.html" tabindex="25" title="Arbeitskreise, Netzwerke, Initiativen">Arbeitskreise, Netzwerke, Initiativen</a>
+<a class="SubNav" href="/schule/youth_net/index.html" tabindex="26" title="Youth Net">Youth Net</a>
+<a class="SubNav" href="/schule/inklusion/index.html" tabindex="27" title="Inklusive Schulentwicklung">Inklusive Schulentwicklung</a>
+</div>
+<div id="BreadMainBox">
+<!-- PRINTABLE -->
+<div id="BreadCrumpBox">
+<div id="BreadCrumpText">
+<img alt="Orientierungshilfe" border="0" height="19" src="/images/breadcrump.gif" width="6"/>
+<a class="BreadCrump" href="/" title="Home">Home</a>
+				: <a class="BreadCrump" href="/schule/">Schule</a>
+</div>
+<!-- /PRINTABLE -->
+</div>
+</div>
+<div id="ContentBox">
+<h1>Elterninformation über das deutsche Schulsystem in 20 Sprachen erhältlich</h1>
+<h2 class="ParentAutor" style="clear:left;">Herausgeber: Kommunales Integrationszentrum Köln</h2>
+<p class="Autor" style="clear:left;">
+</p>
+<div class="RubDescription">
+</div>
+<div class="Column_1sp">
+<div class="Paragraph">
+<div class="BigImgTop">
+<img alt="Elterninformationen Mehrsprachig" border="0" longdesc="IMPERIA:ImageALTc1" src="/imperia/md/images/schule/elterninformationen_mehrsprachig_492x237.jpg" width="492"/><br/>
+<span class="BildUnterText"></span>
+</div>
+					Das Kommunale Integrationszentrum Köln bietet Elterninformationen über das deutsche Schulsystem in 20 Sprachen an.<br/><br/>Zur Verfügung stehen zwei Hefte - eines mit Informationen für Eltern von Kindern vor der Einschulung und eines für Eltern, deren Kinder demnächst auf die weiterführende Schule kommen. Eltern schulpflichtiger Kinder werden darin über die deutsche Schule, Rechte und Pflichten ihrer Kinder und eigene Mitwirkungsmöglichkeiten informiert.
+				</div>
+<div class="Paragraph">
+<h3>
+</h3>
+<ul>
+<li>
+<a class="HREFListe" href="http://ki-koeln.de/languages/" target="_blank" title="Link zu einer externen Webseite">Hier finden Sie die Informationsbroschüren für Eltern zum Herunterladen</a>
+</li>
+</ul>
+</div>
+<div class="Paragraph">
+<h3>
+</h3>
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="CRMParentBox">
+<a class="BoxFinden" href="/suche/index.html" title="Finden leicht gemacht!"><span>Finden leicht gemacht</span></a>
+<div class="CRMBoxTop">
+			Institutionen <span>finden</span>
+</div>
+<div class="CRMBoxSuchlinksContent">
+<div class="CRMBoxLinkitemLinie"><a class="CRMMoreArrow" href="/schule/schulen_koeln/index.html" title="Link zur Suche nach Schulen">Schulen in Köln</a></div>
+<div class="CRMBoxLinkitemLinie"><a class="CRMMoreArrow" href="/beratung/suche/index.html" title="Link zur Suche nach Beratungsstellen">Beratungsstellen</a></div>
+<div class="CRMBoxLinkitemLinieNo"><a class="CRMMoreArrow" href="/fort_weiterbildung/anbieter/index.html" title="Link zur Suche nach Bildungsanbietern">Bildungsanbieter</a></div>
+</div>
+<div class="CRMBoxTop">
+			Kurse <span>finden</span>
+</div>
+<div class="CRMBoxSuchlinksContent">
+<div class="CRMBoxLinkitemLinie"><a class="CRMMoreArrow" href="/fort_weiterbildung/kurse/index.html" title="Link zur Suche nach Bildungsangeboten">Weiterbildung</a></div>
+<div class="CRMBoxLinkitemLinie"><a class="CRMMoreArrow" href="/beratung/sprachfoerderung/integrationskurse_suchen/index.html" title="Link zur Suche nach Integrationskursen">Integrationskurse</a></div>
+<div class="CRMBoxLinkitemLinie"><a class="CRMMoreArrow" href="/beratung/angebote_jugendliche/jugendfoerderkurse/index.html" title="Link zur Suche nach Jugendförderkursen">Jugendförderkurse</a></div>
+<div class="CRMBoxLinkitemLinie"><a class="CRMMoreArrow" href="/umwelt_kultur/umweltbildung/" title="Link zur Suche nach Angeboten der Umweltbildung">Umweltbildung</a></div>
+<div class="CRMBoxLinkitemLinieNo"><a class="CRMMoreArrow" href="/gesundheit_bildung/gesunde_lebenswelten/gesundheitsfoerderung/" title="Link zur Suche nach gesundheitsfördernden Angeboten">Gesundheits-<br/>fördernde Angebote</a></div>
+</div>
+<div class="CRMBoxTop">
+			Artikel <span>finden</span>
+</div>
+<div class="CRMBoxSuche">
+<form action="/cgi-bin/site_search.pl" method="get" name="f1">
+<input name="HTML-NR" type="hidden" value="1"/>
+<input name="GROUP" type="hidden" value="gesamt"/>
+<input class="SucheInput" id="Suchbegriff" maxlength="64" name="SEARCH" onfocus="this.select();" type="text" value="Artikelsuche"/><input alt="Suche starten" border="0" class="arrow" height="18" src="/images/takeplace.gif" type="image" width="18"/>
+</form>
+</div>
+<div class="CRMBoxLinksPos">
+<a class="CRMLinkTop" href="/linkbibliothek/index.html" title="zur Linkbibliothek">
+				Linkbibliothek
+			</a>
+<a class="CRMLinkTop" href="/materialbibliothek/index.html" title="zur Materialbibliothek">
+				Materialbibliothek
+			</a>
+<a class="CRMLinkTop" href="/veranstaltungen/index.html" style="margin-bottom: 7px;" title="zum Terminkalender">
+				Terminkalender
+			</a>
+</div>
+<div class="CRMBoxTop">Veranstaltungstipp</div>
+<div class="CRMBoxContent">
+<b>Berufe live Rheinland Online</b><br/>
+				Do. 12.11.2020, <br/>
+<a class="CRMMore" href="/veranstaltungen/veranstaltung_detail.html?idx=13937" title="mehr Information">[mehr]</a>
+</div>
+<div class="CRMBoxTop">
+			Aktuelles
+		</div>
+<div class="CRMBoxContent">
+<div>
+</div>
+<div style="margin-top:8px;">
+</div>
+<div style="margin-top:8px;">Angebote für Kinder und Jugendliche aus Familien mit Migrationshintergrund.
+				<a class="CRMMore" href="/schule/nachhilfe_foerderung/sprachfoerderung/index.html" title="mehr Information">[mehr]</a>
+</div>
+</div>
+<div class="CRMBoxTop">
+			Kontakt
+		</div>
+<div class="CRMBoxContent">
+<b>Kommunales Integrationszentrum der Stadt Köln</b><br/><br/>Kleine Sandkaul 5,<br/>50667 Köln<br/>Tel. (0221) 221 29292 <br/>Fax (0221) 221 29166<br/><br/>
+<br/><a class="CRMMore" href="mailto:ki@stadt-koeln.de" title="Email senden"><img alt="Symbol" border="0" height="13" src="/images/crm_emailicon.gif" width="12"/> Email senden</a>
+</div>
+<div class="CRMBoxTop">
+			Weitere Infos
+		</div>
+<div class="CRMBoxContent">
+<div class="CRMBoxLinkitem" style="margin-top:0px;"><a class="CRMMore" href="http://www.kommunale-integrationszentren-nrw.de/mehrsprachige-informationen" title="Link zu einem anderen Artikel">Das Kommunale Integrationszentrum Köln hält weitere Informationen für Sie bereit</a></div>
+<div class="CRMBoxLinkitem"><a class="CRMMore" href="/schule/nachhilfe_foerderung/sprachfoerderung/zmi/index.html" title="Link zu einem anderen Artikel">Zentrum für Mehrsprachigkeit und Integration (Z.M.I.)</a></div>
+</div>
+</div>
+</div><!--Ende ParentContentBox- Box-->
+<div id="FooterBox">
+<span>
+<a class="HREFfooter" href="/drucken_tpl.php?datei=/schule/artikel/artikel_02480.html&amp;action=print" target="_blank" title="Artikel drucken">
+<img alt="Artikel drucken" border="0" height="13" src="/images/drucken.gif" width="17"/>
+			Artikel drucken
+		</a>
+</span>
+<span>
+<a class="HREFfooter" href="/drucken_pdf.html?pfad=/schule/artikel/artikel_02480.html&amp;FORMAT=.pdf" target="_blank" title="Artikel als PDF">
+<img alt="Artikel als PDF" border="0" height="13" src="/images/pdf.gif" width="11"/>
+			Artikel als PDF
+		</a>
+</span>
+<span>
+<a class="HREFfooter" href="#BreadCrumpBox" title="zum Seitenanfang">
+<img alt="zum Seitenanfang" border="0" height="13" src="/images/pfeil_oben.gif" width="12"/>
+			zum Seitenanfang
+		</a>
+</span>
+</div>
+<div id="FooterSocialMediaBox">
+<div class="SocialMediaLinks">
+<a class="LinkFacebook" href="https://de-de.facebook.com/pages/bildungkoelnde-Das-K%C3%B6lner-Bildungsportal/252006528153249" target="_blank" title="bildung.koeln.de bei Facebook"><span>bildung.koeln.de bei Facebook</span></a>
+<a class="LinkGoogleplus" href="https://plus.google.com/106850430210726354698" target="_blank" title="bildung.koeln.de bei Google+"><span>bildung.koeln.de bei Google+</span></a>
+</div>
+<div class="SocialSharePrivacy" id="socialshareprivacy"></div>
+</div>
+<!-- Cookie Link Settings -->
+<a class="CookieLinkSettings js_cookie_opensettings" data-nosnippet="" href="" style="display:none;" title="">
+<div></div>
+	Cookie Einstellungen
+</a>
+<!-- Cookie Layer -->
+<div class="CookieLayer" data-nosnippet="" id="js_cookie_compliance" style="display:none;">
+<form action="">
+<div class="CookieLayerWrap">
+<p class="CookieText">
+<span class="CookieTitle">
+				Cookie Hinweise und Einstellungen
+			</span>
+			Diese Website verwendet Cookies für eine optimale Darstellung und die angebotenen Services. Welche Cookies verwendet werden, können Sie selbst entscheiden.
+			 <span class="text-nowrap">Mit Klick auf</span> den Link Cookie Einstellungen am Ende der Website können Sie Ihre Auswahl jederzeit einsehen und erneut bearbeiten.
+		</p>
+<div class="CookieCategories">
+<div>
+<label class="CheckboxDisabled">Notwendige Cookies
+					<span class="Checkmark Checked js_cookie_optin_chk_req" data-group="req"></span>
+</label>
+<a class="CookieInfo js_cookie_openmodal" data-modal="req" href="" title="Cookie-Hinweise und Einstellungen"></a>
+</div>
+<div>
+<label class="js_cookie_grouplabel">Funktionale Cookies
+					<span class="Checkmark js_cookie_optin_chk" data-group="func"></span>
+</label>
+<a class="CookieInfo js_cookie_openmodal" data-modal="func" href="" title="Cookie-Hinweise und Einstellungen"></a>
+</div>
+<div>
+<label class="js_cookie_grouplabel">Statistik-Cookies
+					<span class="Checkmark js_cookie_optin_chk" data-group="stat"></span>
+</label>
+<a class="CookieInfo js_cookie_openmodal" data-modal="stat" href="" title="Cookie-Hinweise und Einstellungen"></a>
+</div>
+</div>
+<div class="CookieButtons">
+<button class="CookieButton01 js_cookie_compliance_btn" data-type="custom"><span>Auswahl bestätigen</span></button>
+<button class="CookieButton02 js_cookie_compliance_btn" data-type="all"><span>Alle Cookies akzeptieren</span></button>
+</div>
+<div class="CookieLinks">
+<p>
+<a href="/datenschutz/" title="">Datenschutzerklärung</a> | <a href="/impressum/" title="">Impressum</a>
+</p>
+</div>
+</div>
+<!-- Modal -->
+<div class="CookieModal js_cookie_modal" style="display:none;">
+<a class="CookieModalClose js_cookie_closemodal" href="" title="schließen">
+</a>
+<div class="CookieModalContainer">
+<!-- Cookie Group -->
+<div class="js_cookie_modalinfo" data-modal="req" style="display: none;">
+<p class="h3">
+					Notwendige Cookies
+				</p>
+<p>
+					Notwendige Cookies dienen dem technisch einwandfreien Betrieb dieser Website und können daher von Ihnen nicht deaktiviert werden. 
+				</p>
+</div>
+<!-- /Cookie Group -->
+<!-- Cookie Group -->
+<div class="js_cookie_modalinfo" data-modal="func" style="display: none;">
+<p class="h3">
+					Funktionale Cookies
+				</p>
+<p>
+					Diese funktionalen Cookies ermöglichen uns die Bereitstellung folgender komfortabler Website-Funktionen:
+				</p>
+<div class="CookieList">
+<!-- Item Cookie -->
+<div class="CookieItem">
+<label>Google Maps
+							<input class="js_cookie_optin_chk" data-type="single" name="optins[]" type="checkbox" value="gmaps"/>
+<span class="Checkmark"></span>
+</label>
+<a class="CookieLinkMore js_cookie_opendesc" href="" title="mehr Informationen"></a>
+<div class="CookieInfoText js_cookie_desc" style="display:none;">
+<p>
+<strong>Beschreibung:</strong><br/>
+								Web-Mapping-Dienst, Kartendarstellung
+							</p>
+<p>
+<strong>Unternehmen, das die Daten verarbeitet:</strong><br/>
+								Google LLC
+							</p>
+<p>
+<strong>Funktionsdauer:</strong><br/>
+								6 Monate, ggf. länger
+							</p>
+<p>
+<strong>Typ:</strong><br/>
+								3rd Party
+							</p>
+</div>
+</div>
+<!-- /Cookie Item -->
+</div>
+</div>
+<!-- /Cookie Group -->
+<!-- Cookie Group -->
+<div class="js_cookie_modalinfo" data-modal="stat" style="display: none;">
+<p class="h3">
+					Statistik Cookies
+				</p>
+<p>
+					Statistik-Cookies werden von uns eingesetzt, um die Qualität dieser Website und ihre Inhalte zu optimieren. Durch folgende Cookies erfahren wir, wie diese Webseite genutzt wird und können unser Angebot stetig verbessern:
+				</p>
+<div class="CookieList">
+<!-- Cookie Item -->
+<div class="CookieItem">
+<label>IVW
+							<input class="js_cookie_optin_chk" data-type="single" name="optins[]" type="checkbox" value="ivw"/>
+<span class="Checkmark"></span>
+</label>
+<a class="CookieLinkMore js_cookie_opendesc" href="" title="mehr Informationen"></a>
+<div class="CookieInfoText js_cookie_desc" style="display: none;">
+<p>
+<strong>Beschreibung:</strong><br/>
+								Statistische Analyse und Auswertung der Webseiten-Besuche
+							</p>
+<p>
+<strong>Unternehmen, das die Daten verarbeitet:</strong><br/>
+								IVW e.V., Lernende Region - Netzwerk Köln e.V.
+							</p>
+<p>
+<strong>Funktionsdauer:</strong><br/>
+								keine Angaben verfügbar
+							</p>
+<p>
+<strong>Typ:</strong><br/>
+								3rd Party
+							</p>
+</div>
+</div>
+<!-- /Cookie Item -->
+<!-- Cookie Item -->
+<div class="CookieItem">
+<label>Google Analytics
+							<input class="js_cookie_optin_chk" data-type="single" name="optins[]" type="checkbox" value="ga"/>
+<span class="Checkmark"></span>
+</label>
+<a class="CookieLinkMore js_cookie_opendesc" href="" title="mehr Informationen"></a>
+<div class="CookieInfoText js_cookie_desc" style="display: none;">
+<p>
+<strong>Beschreibung:</strong><br/>
+								Statistische Analyse und Auswertung der Webseiten-Besuche
+							</p>
+<p>
+<strong>Unternehmen, das die Daten verarbeitet:</strong><br/>
+								Google LLC
+							</p>
+<p>
+<strong>Funktionsdauer:</strong><br/>
+								2 Jahre
+							</p>
+<p>
+<strong>Typ:</strong><br/>
+								3rd Party
+							</p>
+</div>
+</div>
+<!-- /Cookie Item -->
+</div>
+</div>
+<!-- /Cookie Group -->
+</div>
+</div>
+<!-- /Modal -->
+</form>
+</div>
+<!-- /Cookie Layer -->
+<script type="text/javascript">
+if(jQueryIsLoaded){
+  jQuery(document).ready(function($){
+	
+	
+	// ----------------------- Cookie-Opt-In NEU
+	/* config */	
+	var cookieLifetimeDays = 7;
+
+	var cookieOptions = new Array();
+
+	cookieOptions['mat'] = true; 	 // Matomo/Piwik	
+	cookieOptions['ga'] = false; 	 // GoogleAnalytics	
+	cookieOptions['gtm'] = false; 	 // Google Tag Manager	
+	cookieOptions['gmaps'] = true;   // Google Maps	
+	cookieOptions['yt'] = false; 	 // YouTube with Cookies	
+	cookieOptions['ts'] = false; 	 // Trusted Shops	
+	cookieOptions['sf'] = false; 	 // Salesforce CRM	
+	cookieOptions['hs'] = false; 	 // HubSpot CRM	
+	cookieOptions['ivw'] = false; 	 // IVW Analyse
+
+	/* grouping */
+	var cookieGroups = { 
+		"stat": { "codes": ["mat", "ga", "gtm", "ivw"] }, 
+		"func": { "codes": ["gmaps", "yt", "ts", "klarna"] }, 
+		"mktg": { "codes": ["sf", "hs"] } 
+	}
+
+	/* master function for activating scripts / embeds */
+	function activateCookies(optCode) {
+
+		// script activation
+		if (optCode != 'yt' && optCode != 'gmaps') {
+			$("script[data-codedatoncmp='"+optCode+"']").each(function(){
+				if ($(this).attr("type") === 'text/plain') {
+					var new_script = document.createElement('script');
+					if ($(this).attr("src") && $(this).attr("src").length > 0) {
+						new_script.setAttribute('src', $(this).attr("src"));
+					}
+					if ($(this).html() && $(this).html().length > 0) {
+						new_script.innerHTML = $(this).html();
+					}
+					new_script.setAttribute('type', 'text/javascript');
+					$(this).replaceWith(new_script);
+					//my_script.parentNode.replaceChild(new_script, my_script);
+				}			
+			});
+		}
+
+		// embed activation
+		if (optCode == 'yt') {
+		}		
+		if (optCode == 'gmaps') {
+			$("iframe[data-codedatoncmp='"+optCode+"']").each(function(){
+					var mySrc = $(this).attr("data-src");
+					$(this).attr("src", mySrc);
+			});
+			$("#MapParent").attr("data-optinstatus", "1");
+			var initScrollPosTmp = $('html, body').scrollTop();
+			if (initScrollPosTmp > 0) {
+				$('html, body').scrollTop((initScrollPosTmp - 1));
+			}
+		}
+
+	}
+
+	/* manage group checkboxes when individual checkbox changed */
+	$('#js_cookie_compliance input.js_cookie_optin_chk[data-type="single"]').change(function() {
+		var myGroupCode = $(this).closest(".js_cookie_modalinfo").attr("data-modal");
+		var numMyOptins = $(this).closest(".js_cookie_modalinfo").find('input.js_cookie_optin_chk[data-type="single"]').length;
+		var numMyOptinsChecked = $(this).closest(".js_cookie_modalinfo").find('input.js_cookie_optin_chk[data-type="single"]:checked').length;
+		if (numMyOptinsChecked < 1) {
+			$('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').removeClass("Checked");
+			$('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').removeClass("Alpha50");
+		} else if (numMyOptinsChecked == numMyOptins)  {
+			if ($('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').hasClass("Checked") !== true) {
+				$('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').addClass("Checked");
+			}
+			if ($('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').hasClass("Alpha50") === true) {
+				$('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').removeClass("Alpha50");
+			}
+		} else if (numMyOptinsChecked >= 1 && numMyOptinsChecked < numMyOptins)  {
+			if ($('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').hasClass("Checked") !== true) {
+				$('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').addClass("Checked");
+			}
+			if ($('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').hasClass("Alpha50") !== true) {
+				$('#js_cookie_compliance .js_cookie_optin_chk[data-group="' + myGroupCode + '"]').addClass("Alpha50");
+			}
+		}
+	});
+
+	/* manage individual checkboxes when group checkbox changed */
+	$('#js_cookie_compliance .js_cookie_grouplabel').click(function(e) {
+		e.preventDefault();
+		var myCheckmark = $(this).find(".js_cookie_optin_chk").first();
+		var myGroupCode = myCheckmark.attr("data-group");
+		if (myGroupCode && myGroupCode.length > 1)  {
+			$(this).removeClass("Alpha50");
+			if (myCheckmark.hasClass("Checked") === true) {
+				myCheckmark.removeClass("Checked");
+				$('#js_cookie_compliance .js_cookie_modalinfo[data-modal="' + myGroupCode + '"] input.js_cookie_optin_chk[data-type="single"]').attr('checked', false);
+			} else {
+				myCheckmark.addClass("Checked");
+				$('#js_cookie_compliance .js_cookie_modalinfo[data-modal="' + myGroupCode + '"] input.js_cookie_optin_chk[data-type="single"]').attr('checked', true);
+			}
+		}
+	});
+
+	/* read cookie and hide dialog/preselect checkboxes if valid */
+	var nameEQ = encodeURIComponent('my_compliance_optins') + "=";
+	var myCookieVal = null;
+	var ca = document.cookie.split(';');
+	for (var i = 0; i < ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+		if (c.indexOf(nameEQ) === 0) myCookieVal = decodeURIComponent(c.substring(nameEQ.length, c.length));
+	}
+	if (myCookieVal != null) {
+		$("#js_cookie_compliance").hide();
+		$('#js_cookie_compliance .js_cookie_modal').hide(); 
+		$(".js_cookie_opensettings").show();
+		$('#js_cookie_compliance input.js_cookie_optin_chk').attr('checked', false);
+		/* preselect checkboxes */
+		var optIns = myCookieVal.split(",");
+		for (var i = 0; i < optIns.length; i++) {
+			// activate scripts / embeds if selected
+			activateCookies(optIns[i]);
+			// preselect individual checkbox
+			$('#js_cookie_compliance input.js_cookie_optin_chk[value="' + optIns[i] + '"]').attr('checked', true).change();
+		}
+	} else {
+		$('#js_cookie_compliance input.js_cookie_optin_chk').attr('checked', false).change();
+		$("#js_cookie_compliance").show();
+	}
+	$("#js_cookie_compliance .js_cookie_compliance_btn").click(function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+
+		var actionType = $(this).attr("data-type");
+
+		$("#js_cookie_compliance").fadeOut(250, function() {
+
+			if (actionType == 'all') {
+				$('#js_cookie_compliance input.js_cookie_optin_chk[data-type="group"]').attr('checked', true).change();
+				$('#js_cookie_compliance input.js_cookie_optin_chk[data-type="single"]').attr('checked', true).change();
+			}
+			$('#js_cookie_compliance .js_cookie_modal').hide(); 
+			$(".js_cookie_opensettings").show();
+
+			var optIns = new Array();
+			$('#js_cookie_compliance input.js_cookie_optin_chk[data-type="single"]:checked').each(function(){
+				optIns.push($(this).val());
+			});
+
+			/* write cookie for X days and don't bother anymore */
+			var expires = new Date();
+			expires.setTime(expires.getTime() + (cookieLifetimeDays * 24 * 60 * 60 * 1000));
+			document.cookie = 'my_compliance_optins=' + optIns.join(',') + '; path=/; expires=' + expires.toUTCString();
+
+			// activate scripts / embeds if selected
+			for (var i = 0; i < optIns.length; i++) {
+				activateCookies(optIns[i]);
+			}
+
+		});
+	});
+	$("#js_cookie_compliance .js_cookie_openmodal").click(function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		$('#js_cookie_compliance .js_cookie_modalinfo[data-modal!="' + $(this).attr("data-modal") + '"]').hide();
+		$('#js_cookie_compliance .js_cookie_modalinfo[data-modal="' + $(this).attr("data-modal") + '"]').show();
+		$('#js_cookie_compliance .js_cookie_modal').fadeIn(250); 
+	});
+	$("#js_cookie_compliance .js_cookie_closemodal").click(function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		$('#js_cookie_compliance .js_cookie_modal').fadeOut(250); 
+	});
+	$("#js_cookie_compliance .js_cookie_opendesc").click(function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		if ($(this).hasClass('Active') === false) {
+			$(this).closest(".js_cookie_modalinfo").find(".js_cookie_desc").slideUp(250);
+			$(this).closest(".js_cookie_modalinfo").find(".js_cookie_opendesc").removeClass('Active');
+			$(this).addClass('Active');
+			$(this).closest(".CookieItem").find(".js_cookie_desc").slideDown(250);
+		} else {
+			$(this).removeClass('Active');
+			$(this).closest(".CookieItem").find(".js_cookie_desc").slideUp(250);
+		}
+	});
+	$(".js_cookie_opensettings").click(function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		$(this).hide(); 
+		$('#js_cookie_compliance').fadeIn(250); 
+	});
+	
+	
+	
+  });
+}
+</script>
+<!-- neuer IVW-Aufruf bildung.koeln.de -->
+<script data-codedatoncmp="ivw" src="https://script.ioam.de/iam.js" type="text/plain"></script>
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript"> 
+var iam_data = { 
+"st":"koeln", 
+"cp":"bildungkoeln", 
+"oc":"bildungkoeln", 
+"mg" : "yes", // migrationsmodus
+"sv":"ke",  
+"co":"Museen" 
+} 
+// nur ausloesen, wenn HEAD-Code geladen und iom vorhanden ist:
+if (typeof iom == 'object') {   
+  iom.c(iam_data);  
+} 
+</script>
+<!--/SZM -->
+<script data-codedatoncmp="ga" type="text/plain">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30193040-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+</body>
+</html>

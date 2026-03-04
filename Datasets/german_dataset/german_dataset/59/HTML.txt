@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta content="Infopark CMS Fiona; 7.0.1; 53616c7465645f5fff0d0000591f0000186c73a41c50e63c" name="generator"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Martin Mirgel, Oliver Wruck" name="author"/>
+<meta content="Presseinformationen" name="description"/>
+<meta content="Presseinformationen, Pressemeldungen" name="keywords"/>
+<meta content="index,follow" name="Robots"/>
+<meta content="1 day" name="revisit-after"/>
+<meta content="447554B320C0450CF1A9B9C082184E19" name="msvalidate.01"/>
+<!-- Favicons -->
+<link href="../doc-assets/ico/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../doc-assets/ico/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="../doc-assets/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<link href="../doc-assets/ico/apple-touch-icon_57x57.png" rel="apple-touch-icon"/>
+<link href="../doc-assets/ico/apple-touch-icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="../doc-assets/ico/apple-touch-icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="../doc-assets/ico/apple-touch-icon-152.png" rel="apple-touch-icon" sizes="152x152"/>
+<title>Presseinformationen</title>
+<link href="//www.bezreg-koeln.nrw.de/brk_internet/rss/presseinformationen.xml" rel="alternate" title="RSS" type="application/rss+xml"/>
+<!-- Bootstrap core CSS -->
+<link href="../dist/css/bootstrap.css" rel="stylesheet"/>
+<!-- Just for debugging purposes. Don't actually copy this line! -->
+<!--[if lt IE 9]><script src="docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+<!-- Custom styles for this template -->
+<link href="../carousel.css" rel="stylesheet" type="text/css"/>
+<!-- Custom styles for this template -->
+<!-- <link rel="stylesheet" type="text/css"href="jumbotron.css"> -->
+<!-- Custom styles for autocomplete -->
+<link href="../css/jquery_autocomplete.css" rel="stylesheet" type="text/css"/>
+<!-- Custom styles for lightbox -->
+<link href="../css/lightbox.css" rel="stylesheet"/>
+<!-- Custom styles for typeahead -->
+<link href="../css/typeahead.css" rel="stylesheet"/>
+<!-- Custom styles page -->
+<link href="../dist/css/custom_styles.css" rel="stylesheet"/>
+<link href="../dist/css/youtube.css" rel="stylesheet"/>
+<!-- Custom styles for eventmanagement -->
+<link href="../css/pi-widget.css" rel="stylesheet" type="text/css"/>
+<!-- Essential Javascript -->
+<!-- <script src="external://code.jquery.com/jquery-1.10.2.min.js"></script> -->
+<script src="../dist/js/jquery-1_10_2_min.js"></script>
+<!-- Downloadbereich / Login -->
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.cmsbs.lib.browser.Widget/lib/1.0.0.js"></script>
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.cmsbs.lib.browser.Widget/pihandlebars/3.0.0.js"></script>
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.cmsbs.auth2.Auth/c/374ea7de-5e3a-4680-82da-bac1b98778d8"></script>
+<script src="//www.bezreg-koeln.nrw.de/p/de.pinuts.bezregkoeln.downloadcenter.DownloadRequest/__resource/js/main.js"></script>
+<!-- Copyright (c) 2000-2018 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+//var et_pagename = "";
+//var et_areas = "";
+//var et_url = "";
+//var et_target = "";
+//var et_tval = "";
+//var et_tonr = "";
+//var et_tsale = 0;
+//var et_basket = "";
+//var et_cust = 0;
+</script>
+<script charset="UTF-8" data-block-cookies="true" data-respect-dnt="true" data-secure-code="USEohb" id="_etLoader" src="//static.etracker.com/code/e.js" type="text/javascript"></script>
+<!-- etracker tracklet 4.1 end -->
+</head>
+<body>
+<!--UdmComment-->
+<a class="sr-only" href="../index.html#content" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Zum Hauptinhalt springen (Skip to main content)</a>
+<a class="sr-only" href="../index.html#footer" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Zum Seitenende springen (Skip to footer)</a>
+<!-- Logo -->
+<header>
+<div class="branding container" role="banner">
+<div class="pull-left">
+<p class="claim">Region denken. Praktisch entscheiden.</p>
+</div>
+<div class="pull-right" id="logo"><a href="../index.html" title="Gehe zu: Startseite"><img alt="Absenderkennung der Bezirksregierung Köln" class="img-responsive" src="../logo.png"/></a></div> <!-- /logo -->
+</div>
+</header>
+<div class="fakeheader"></div>
+<!-- Begin Navbar -->
+<nav>
+<div class="navbar-wrapper" role="navigation">
+<div class="container">
+<div class="navbar navbar-inverse navbar-static-top">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" title="Menü für die mobile Darstellung" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Behörde <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../grusswort/index.html" title="Grußwort">Grußwort der Regierungspräsidentin</a></li>
+<li class="divider"></li>
+<li><a href="../behoerdenleitbild/index.html" title="Behördenleitbild">Behördenleitbild</a></li>
+<li><a href="../behoerdenleitung/index.html" title="Die Behördenleiterin">Behördenleitung</a></li>
+<li><a href="../organisationsplan.pdf" target="_blank" title="Organisationsplan">Organisationsplan</a></li>
+<li><a href="../regierungsbezirk/index.html" title="Der Regierungsbezirk">Regierungsbezirk Köln</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Veranstaltungen</li>
+<li><a href="../veranstaltungen/index.html" title="Veranstaltungen">Veranstaltungskalender</a></li>
+<li><a href="../veranstaltungen_lfb_sport/index.html" title="Veranstaltungen Lehrerfortbildung Sport">Veranstaltungskalender Lehrerfortbildung Sport</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Bezirksregierung als Arbeitgeber</li>
+<li><a href="../stellen/index.html" title="Stellenangebote">Stellenangebote</a></li>
+<li><a href="../karriere-als-volljurist/index.html" title="Karriere als Volljurist">Karriere als Volljurist</a></li>
+<li><a href="../ausbildung/index.html" title="Ausbildung und Referendariate">Ausbildung und Referendariat</a></li>
+<li><a href="../rechtsreferendariat/index.html" title="Rechtsreferendariat">Rechtsreferendariat</a></li>
+<li><a href="../vormerkstelle/index.html" title="Die Vormerkstelle NRW">Vormerkstelle</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Service</li>
+<li><a href="../bibliothek/index.html" title="Bibliothek">Bibliothek</a></li>
+<li><a href="../reisekostenstelle/index.html" title="Reisekosten-Berechnung und Erstattung dienstlich veranlasster Reisen">Reisekostenstelle</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Publikationen und Presseinformationen</li>
+<li><a href="index.html" title="Presseinformationen">Presseinformationen</a></li>
+<li><a href="../publikationen/index.html" title="Publikationen und Informationsmaterial">Publikationen und Informationsmaterial</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">So erreichen Sie uns</li>
+<li><a href="../kontakt/index.html" title="Kontakt und Anfahrt">Kontakt und Anfahrt</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Leistungen <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../leistungen/index.html" title="Leistungen">Leistungen</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Dienstleistungen und Aufgaben</li>
+<li><a href="../leistungen/abteilung02/index.html" title="Abteilung 2 - Ordnungsrecht, Gesundheit, Sozialwesen, Gefahrenabwehr und Verkehr">Ordnungsrecht, Gesundheit, Sozialwesen, Gefahrenabwehr und Verkehr</a></li>
+<li><a href="../leistungen/abteilung03/index.html" title="Abteilung 3 - Regionale Entwicklung, Kommunalaufsicht und Wirtschaft">Regionale Entwicklung, Kommunalaufsicht und Wirtschaft </a></li>
+<li><a href="../leistungen/abteilung04/index.html" title="Abteilung 4 - Schule">Schule und Ausbildungsförderung</a></li>
+<li><a href="../leistungen/abteilung05/index.html" title="Abteilung 5 - Umwelt und Arbeitsschutz">Umwelt und Arbeitsschutz</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Personalvertretung</li>
+<li><a href="../personalvertretung/index.html" title="Personalräte für Lehrerinnen und Lehrer">Personalräte für Lehrerinnen und Lehrer</a></li>
+<li><a href="../personalrat/index.html" title="Personalrat und Bezirkspersonalrat bei der Bezirksregierung Köln">Personalrat und Bezirkspersonalrat</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Verfahren und amtliche Veröffentlichungen</li>
+<li><a href="../verfahren/index.html" title="Verfahren">Verfahren</a></li>
+<li><a href="../eu-melde-und-informationspflichten/index.html" title="Melde- und Informationspflichten der EU">Melde- und Informationspflichten der EU</a></li>
+<li><a href="../umweltinspektionsberichte/index.html" title="Umweltinspektionsberichte">Umweltinspektionsberichte</a></li>
+<li><a href="../legionellenbefunde/index.html" title="Legionellen in Verdunstungskühlanlagen, Kühltürmen und Nassabscheidern">Legionellenbefunde</a></li>
+<li><a href="../amtsblatt/index.html" title="Amtsblatt für den Regierungsbezirk Köln">Amtsblatt für den Regierungsbezirk Köln</a></li>
+<li class="divider"></li>
+<li><a href="../eugeschaeftsstelle/index.html" title="EU-Geschäftsstelle - Wirtschaft und Berufsbildung - der Bezirksregierung Köln">EU-Geschäftsstelle Wirtschaft und Berufsbildung</a></li>
+<li><a href="../geschaeftsstelle_gigabit_nrw/index.html" title="Geschäftsstelle Gigabit.NRW">Geschäftsstelle Gigabit.NRW </a></li>
+<li><a href="../vergabekammer/index.html" title="Vergabekammer Rheinland">Vergabekammer</a></li>
+<li><a href="../kommunalinvestitionsfoerderungsgesetz/index.html" title="Kommunalinvestitionsförderungsgesetz">Kommunalinvestitionsförderungsgesetz</a></li>
+<li><a href="../digitalpakt-schule/index.html" title="DigitalPakt Schule">DigitalPakt Schule</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Gremien <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../gremien/index.html" title="Gremien">Gremien</a></li>
+<li class="divider"></li>
+<li><a href="../gremien/regionalrat/index.html" title="Regionalrat des Regierungsbezirks Köln">Regionalrat</a></li>
+<li><a href="../gremien/braunkohlenausschuss/index.html" title="Braunkohlenausschuss">Braunkohlenausschuss</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region">Geobasis NRW<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="../geobasis/index.html" title="Geobasis NRW - Produkte und Dienstleistungen">Geobasis NRW</a></li>
+<li class="divider"></li>
+<li><a href="../geobasis/raumbezug/index.html" title="Raumbezug">Raumbezug</a></li>
+<li><a href="../geobasis/geodaetische_fachprogramme/index.html" title="Geodätische Fachprogramme">Geodätische Fachprogramme</a></li>
+<li><a href="../geobasis/luftbildinformationen/index.html" title="Luftbildinformationen">Luftbildinformationen</a></li>
+<li><a href="../geobasis/hoehenmodelle/index.html" title="Höhenmodelle">Höhenmodelle</a></li>
+<li><a href="../geobasis/3d_gebaeudemodelle/index.html" title="3D-Gebäudemodelle">3D-Gebäudemodelle</a></li>
+<li><a href="../geobasis/landschaftsmodelle/index.html" title="Landschaftsmodelle">Landschaftsmodelle</a></li>
+<li><a href="../geobasis/topographische_karten/index.html" title="Topographische Karten">Topographische Karten</a></li>
+<li><a href="../geobasis/verwaltungskarten/index.html" title="Verwaltungskarten und -grenzen">Verwaltungskarten und -grenzen</a></li>
+<li><a href="../geobasis/touristik-und-freizeitinformationen/index.html" title="Touristik- und Freizeitinformationen NRW">Touristik- und Freizeitinformationen NRW</a></li>
+<li><a href="../geobasis/liegenschaftskataster/index.html" title="Liegenschaftskataster">Liegenschaftskataster</a></li>
+<li><a href="../geobasis/grundstueckswertermittlung/index.html" title="Grundstückswertermittlung">Grundstückswertermittlung</a></li>
+<li><a href="../geobasis/webdienste/index.html" title="Webdienste">Webdienste</a></li>
+<li><a href="../geobasis/inspire/index.html" title="INSPIRE">INSPIRE</a></li>
+<li><a href="../geobasis/bundesweite_produkte/index.html" title="Bundesweite Produkte">Bundesweite Produkte</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Wissenswertes</li>
+<li><a href="../geobasis/ausbildung/index.html" title="Ausbildung und Karriere bei Geobasis NRW">Ausbildung und Karriere bei Geobasis NRW</a></li>
+<li><a href="../geobasis/opendata/index.html" title="Open Data - Digitale Geobasisdaten NRW">Open Data - Digitale Geobasisdaten NRW</a></li>
+<li><a href="../fachausstellung/index.html" title="Fachausstellung 200 Jahre Landesvermessung">Führung: Fachausstellung 200 Jahre Landesvermessung</a></li>
+<li><a href="../nrw-zahlen-geodaten/index.html" title="Unser NRW - Nordrhein-Westfalen in Zahlen und Geodaten">Unser NRW - Nordrhein-Westfalen in Zahlen und Geodaten</a></li>
+<li class="divider"></li>
+<li class="dropdown-header">Geodaten-Anwendungen</li>
+<li><a href="../tim-online/index.html" title="TIM-online">TIM-online</a></li>
+<li><a href="../geobasis/geodaten-anwendungen/index.html" title="Geodaten-Anwendungen">Geodaten-Anwendungen</a></li>
+</ul>
+</li>
+</ul>
+<form action="../suche/index.php" class="navbar-form navbar-right" method="POST">
+<div class="form-group">
+<input aria-label="Suchen" class="form-control" id="query" name="q" placeholder="Suchen" type="search"/>
+</div>
+<button class="btn btn-success" type="submit">OK</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- End Navbar -->
+<!-- Begin Carousel -->
+<!-- End Carousel -->
+<!-- Begin optional Marketing messaging -->
+<!-- End optional Marketing messaging -->
+<!-- Begin optional Featurettes -->
+<!-- End optional Featurettes -->
+<!-- Begin 1st Breadcrump -->
+<div class="container">
+<div class="hidden-print">
+<ol class="breadcrumb">
+<a href="../index.html" title="Bezirksregierung Köln | Ihr Verwaltungsdienstleister in der Region"><span alt="Logo: Startseite (Home)" class="glyphicon glyphicon-home"></span></a>    
+         
+            
+
+            
+               <li class="active">
+                  Presseinformationen</li>
+</ol>
+</div>
+</div>
+<!-- End 1st Breadcrump -->
+<!--/UdmComment-->
+<!-- Begin MainContent -->
+<!-- Begin Content -->
+<div class="container" id="content" role="main">
+<div class="row">
+<!-- Beginn left grid -->
+<section>
+<div class="col-md-8">
+<article>
+<header>
+<h1>Presseinformationen</h1><hr/>
+</header>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>Pressemeldung</th>
+<th>Zusammenfassung</th>
+<th>zuletzt aktualisiert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>069</td>
+<td><a href="2020/069/index.html">Erneute Vollquarantäne und Aufnahmestopp in Bonner Flüchtlingsunterkunft</a></td>
+<td>Nachdem am 9. November viele neue Bewohner in der Erstaufnahmeeinrichtung des Landes NRW (EAE) in Bonn aufgenommen wurden, erfolgte eine Volltestung aller Bewohner auf Covid-19.</td>
+<td>11.11.2020 16:44 Uhr</td>
+</tr>
+<tr>
+<td>068</td>
+<td><a href="2020/068/index.html">Römische Wasserleitung im Herzen von Köln</a></td>
+<td>Ein wertvolles Stück Geschichte nun vor der Bezirksregierung Köln angekommen</td>
+<td>11.11.2020 15:19 Uhr</td>
+</tr>
+<tr>
+<td>067</td>
+<td><a href="2020/067/index.html">Mer losse d’r Dom en Kölle</a></td>
+<td>Die Bezirksregierung Köln fördert die Restaurierung und den Erhalt des Kölner Doms mit einer Summe von ca. 1,1 Millionen Euro.</td>
+<td>10.11.2020 16:12 Uhr</td>
+</tr>
+<tr>
+<td>066</td>
+<td><a href="2020/066/index.html">Schulnahes Bildungsangebot für Kinder und Jugendliche in Flüchtlingseinrichtung gestartet</a></td>
+<td>In der Zentralen Unterbringungseinrichtung (ZUE) des Landes NRW in Sankt Augustin hat diese Woche erstmalig im Kölner Regierungsbezirk stattgefunden.</td>
+<td>06.11.2020 14:15 Uhr</td>
+</tr>
+<tr>
+<td>065</td>
+<td><a href="2020/065/index.html">L 333 von Dattenfeld aus in Richtung Schladern halbseitig für die 46. KW gesperrt</a></td>
+<td>Gehölzpflege zur Verkehrssicherung an der L333 in Windeck-Schladern</td>
+<td>06.11.2020 12:50 Uhr</td>
+</tr>
+<tr>
+<td>064</td>
+<td><a href="2020/064/index.html">Bezirksregierung Köln entlastet kommunale Haushalte um 37 Millionen Euro</a></td>
+<td>64 Kommunen erhalten vollständige Übernahme der Eigenanteile in der Städtebauförderung 2020</td>
+<td>06.11.2020 12:48 Uhr</td>
+</tr>
+<tr>
+<td>063</td>
+<td><a href="2020/063/index.html">Bezirksregierung Köln beendet Flurbereinigung Kirchhoven</a></td>
+<td>Die Flurbereinigung zur Realisierung der Ortsumgehung Haaren, Kirchhoven, Lieck und Heinsberg ist erfolgreich abgeschlossen.</td>
+<td>27.10.2020 16:09 Uhr</td>
+</tr>
+<tr>
+<td>062</td>
+<td><a href="2020/062/index.html">Land, Stadt und DUH einigen sich außergerichtlich auf einen Vergleich im Klageverfahren zur Luftreinhalteplanung Aachen</a></td>
+<td>DUH, Luftreinhalteplanung Aachen, Natur- und Verbraucherschutz</td>
+<td>27.10.2020 13:31 Uhr</td>
+</tr>
+<tr>
+<td>061</td>
+<td><a href="2020/061/index.html">Ab Januar 2021: Bad Honnefer Jugendherberge keine Landesunterkunft für Geflüchtete mehr</a></td>
+<td>Die Einrichtung des Deutschen Jugendherbergswerk (DJH) in Bad Honnef wird nur noch bis Endes des Jahres zur Unterbringung von Flüchtlingen genutzt. Der Betrieb als Landesunterkunft wird nicht über den 31. Dezember 2021 hinaus erfolgen.</td>
+<td>23.10.2020 10:53 Uhr</td>
+</tr>
+<tr>
+<td>060</td>
+<td><a href="2020/060/index.html">EAE in Bonn: Vollquarantäne durch Gesundheitsamt aufgehoben</a></td>
+<td>Das Gesundheitsamt der Stadt Bonn hat am gestrigen Tag die Vollquarantäne für die Erstaufnahmeeinrichtung des Landes NRW in Bonn aufgehoben.</td>
+<td>20.10.2020 10:53 Uhr</td>
+</tr>
+<tr>
+<td>059</td>
+<td><a href="2020/059/index.html">Vollquarantäne und Aufnahmestopp in Bonner Flüchtlingsunterkunft</a></td>
+<td>Das Gesundheitsamt der Stadt Bonn hat heute einen Aufnahmestopp für die Erstaufnahmeeinrichtung des Landes NRW in Bonn veranlasst.</td>
+<td>16.10.2020 16:12 Uhr</td>
+</tr>
+<tr>
+<td>058</td>
+<td><a href="2020/058/index.html">LKW Großkontrolle: Bezirksregierung Köln sorgt für Sicherheit im LKW-Verkehr</a></td>
+<td>LKW Großkontrolle: Bezirksregierung Köln sorgt für Sicherheit im LKW-Verkehr</td>
+<td>08.10.2020 06:36 Uhr</td>
+</tr>
+<tr>
+<td>057</td>
+<td><a href="2020/057/index.html">Regionalrat unterstützt mit einem Kraftakt das Revier bei der Bewältigung des Strukturwandels</a></td>
+<td>Beschluss zur Gewerbeflächenentwicklung</td>
+<td>02.10.2020 14:42 Uhr</td>
+</tr>
+<tr>
+<td>054</td>
+<td><a href="2020/056/index.html">Bezirksregierung Köln rettet „Langeler Weiher“ in Köln-Porz</a></td>
+<td>Wasserversorgung durch neuen Brunnen dauerhaft sichergestellt</td>
+<td>01.10.2020 15:21 Uhr</td>
+</tr>
+<tr>
+<td>055</td>
+<td><a href="2020/055/index.html">Konsolidierungshilfe im Jahr 2020</a></td>
+<td>Stärkungspaktkommunen aus dem Regierungsbezirk Köln erhält ca. 11 Millionen Euro</td>
+<td>24.09.2020 15:23 Uhr</td>
+</tr>
+<tr>
+<td>054</td>
+<td><a href="2020/054/index.html">Bürgerbeteiligung zum Planfeststellungsverfahren für den 6-streifigen Ausbau der A 565 zwischen Bonn-Endenich und AK Bonn-Nord</a></td>
+<td>Am Donnerstag, den 10.09.2020 beginnt die Öffentlichkeitsbeteiligung zum 6-streifigen Ausbau der A 565 zwischen der Anschlussstelle Bonn-Endenich und dem Autobahnkreuz Bonn-Nord.</td>
+<td>09.09.2020 11:04 Uhr</td>
+</tr>
+<tr>
+<td>053</td>
+<td><a href="2020/053/index.html">Bezirksregierung Köln genehmigt die Errichtung und den Betrieb der Gasversorgungsleitung EUSAL</a></td>
+<td>Mit Beschluss vom 13. August 2020 hat die Bezirksregierung Köln das Planfeststellungsverfahren für den Bau und den Betrieb  der Gasversorgungsleitung „EUSAL“ und einer Gas-Druckregel- und Messanlage (GDRM) der Open Grid Europe GmbH abgeschlossen.</td>
+<td>26.08.2020 16:47 Uhr</td>
+</tr>
+<tr>
+<td>052</td>
+<td><a href="2020/052/index.html">Hälfte der NRW-Künstlerstipendien inzwischen vergeben - Die meisten Anträge bei Bezirksregierung Köln</a></td>
+<td>Mit einem umfangreichen Stipendienprogramm unterstützt das Land NRW seit bald zwei Wochen freischaffende Künstlerinnen und Künstler dabei, ihre Arbeit trotz der durch Corona gerade für den Kultursektor bestehenden Einschränkungen fortzusetzen.</td>
+<td>24.08.2020 10:49 Uhr</td>
+</tr>
+<tr>
+<td>051</td>
+<td><a href="2020/051/index.html">DigitalPakt Schule NRW- Stadt Eschweiler erhält dritte Bewilligung für Fördermittel</a></td>
+<td>Die Bezirksregierung Köln fördert die Ausstattung für digitalen Unterricht an fünf Grundschulen der Stadt Eschweiler.</td>
+<td>21.08.2020 13:38 Uhr</td>
+</tr>
+<tr>
+<td>050</td>
+<td><a href="2020/050/index.html">Bezirksregierung Köln genehmigt vorzeitigen Baubeginn der Firma Steil</a></td>
+<td>Der Firma Theo Steil GmbH wurde für den neuen Standort Godorf am 19.08.2020 die Zulassung erteilt, mit vorbereitenden Maßnahmen zu beginnen.</td>
+<td>20.08.2020 06:43 Uhr</td>
+</tr>
+<tr>
+<td>049</td>
+<td><a href="2020/049/index.html">Ufer- und Auenmodellierung an der Sieg</a></td>
+<td>Die Bezirksregierung Köln gestaltet zurzeit im Rahmen der Siegunterhaltung das Flussufer an mehreren Stellen um.</td>
+<td>13.08.2020 13:58 Uhr</td>
+</tr>
+<tr>
+<td>048</td>
+<td><a href="2020/048/index.html">Arbeiten in den Ferien: Gefährliche Jobs und Akkordarbeit sind tabu</a></td>
+<td>In NRW haben die Schulferien begonnen. Das ist für viele der  Schülerinnen und Schüler, die perfekte Gelegenheit ihr Taschengeld aufzubessern.</td>
+<td>09.07.2020 12:23 Uhr</td>
+</tr>
+<tr>
+<td>047</td>
+<td><a href="2020/047/index.html">Bezirksregierung Köln bestätigt: Stromleitung führt durch Hürth</a></td>
+<td>Mit einem Planergänzungsbeschluss vom 25.06.2020 hat die Bezirksregierung Köln ihren Planfeststellungsbeschluss vom 30.12.2016 für den Bau- und Betrieb der „Höchstspannungsfreileitung Rommerskirchen-Sechtem“ ergänzt und Fehler korrigiert.</td>
+<td>06.07.2020 10:26 Uhr</td>
+</tr>
+<tr>
+<td>046</td>
+<td><a href="2020/046/index.html">Regierungspräsidentin Gisela Walsken überreicht rund 44 Millionen Euro für Städtebau</a></td>
+<td>Regierungspräsidentin Gisela Walsken überreichte am Donnerstag 21 Zuwendungsbescheide in Höhe von insgesamt ca. 44 Millionen Euro an 16 Städte und Gemeinden des Regierungsbezirks.</td>
+<td>02.07.2020 14:40 Uhr</td>
+</tr>
+<tr>
+<td>045</td>
+<td><a href="2020/045/index.html">Kölner Regierungspräsidentin übergibt 3 Millionen Euro für den Städtebau in Bergisch Gladbach</a></td>
+<td>Regierungspräsidentin Gisela Walsken überreichte heute an die Stadt Bergisch Gladbach zwei Förderbescheide aus dem Städtebauförderprogramm NRW 2020 mit einem Fördervolumen von insgesamt knapp 3 Millionen Euro.</td>
+<td>30.06.2020 07:26 Uhr</td>
+</tr>
+<tr>
+<td>044</td>
+<td><a href="2020/044/index.html">8 Millionen Euro für den Städtebau in Leverkusen</a></td>
+<td>Regierungspräsidentin Gisela Walsken übergibt Förderbescheide</td>
+<td>30.06.2020 07:20 Uhr</td>
+</tr>
+<tr>
+<td>043</td>
+<td><a href="2020/043/index.html">Kölner Regierungspräsidentin unterstützt Kölner Zoo in der Corona Krise</a></td>
+<td>Kölner Regierungspräsidentin unterstützt Kölner Zoo in der Corona Krise</td>
+<td>25.06.2020 16:59 Uhr</td>
+</tr>
+<tr>
+<td>042</td>
+<td><a href="2020/042/index.html">Flüchtlingsunterkunft Sankt Augustin coronafrei</a></td>
+<td>In den Landesunterkünften im Regierungsbezirk Köln sind inzwischen fast alle Bewohner wieder gesund.</td>
+<td>22.06.2020 17:01 Uhr</td>
+</tr>
+<tr>
+<td>041</td>
+<td><a href="2020/041/index.html">Auch in Corona-Zeiten gibt es Zeugnisse - Bezirksregierung Köln bietet Zeugnistelefon an</a></td>
+<td>Die Bezirksregierung Köln bietet deshalb auch in diesem Jahr wieder ein Zeugnistelefon für Schülerinnen und Schüler, Eltern und Lehrkräfte an.</td>
+<td>22.06.2020 08:09 Uhr</td>
+</tr>
+<tr>
+<td>040</td>
+<td><a href="2020/040/index.html">A 61 - Vollsperrung ab Wochenende zwischen Bergheim und Bergheim-Süd in Fahrtrichtung Koblenz</a></td>
+<td>Ab Sonntag den 21. Juni (0.00 Uhr) bis voraussichtlich 16. August, ist die A 61 zwischen den Anschlussstellen Bergheim und Bergheim-Süd in Fahrtrichtung Koblenz komplett gesperrt.</td>
+<td>19.06.2020 06:59 Uhr</td>
+</tr>
+<tr>
+<td>039</td>
+<td><a href="2020/039/index.html">Bürgerbeteiligung zum Um- und Ausbau des Autobahnkreuzes AK Oberhausen beginnt</a></td>
+<td>Am Montag, den 22.06.2020, beginnt die Öffentlichkeitsbeteiligung zum Um- und Ausbau des Autobahnkreuzes Oberhausen, einschließlich des 6-streifigen Ausbaus der A3 bis zur Anschlussstelle Dinslaken.</td>
+<td>18.06.2020 13:04 Uhr</td>
+</tr>
+<tr>
+<td>038</td>
+<td><a href="2020/038/index.html">Unterstützung in der Corona-Krise - Regierungspräsidentin Walsken überreicht THW Dankesurkunde</a></td>
+<td>Die Bezirksregierung Köln bedankt sich für die Unterstützung in der Corona-Krisenarbeit bei den drei Kölner THW-Ortsverbänden.</td>
+<td>05.06.2020 14:30 Uhr</td>
+</tr>
+<tr>
+<td>037</td>
+<td><a href="2020/037/index.html">Amtsübergabe bei der Bezirksregierung</a></td>
+<td>Köln hat eine neue Regierungsvizepräsidentin und damit eine weibliche Doppelspitze.</td>
+<td>03.06.2020 14:33 Uhr</td>
+</tr>
+<tr>
+<td>036</td>
+<td><a href="2020/036/index.html">Bestätigte Corona-Fälle in Schleidener Flüchtlingsunterkunft</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Schleiden wurden am Wochenende 18 Bewohner positiv auf das COVID-19 Virus getestet.</td>
+<td>25.05.2020 15:27 Uhr</td>
+</tr>
+<tr>
+<td>035</td>
+<td><a href="2020/035/index.html">Neue positive Fälle in Bonner Flüchtlingsunterkunft</a></td>
+<td>In der Bonner Landesunterkunft für Flüchtlinge ( Jugendherberge auf dem Venusberg ) sind aktuell 12 Personen positiv auf COVID-19 getestet worden.</td>
+<td>25.05.2020 06:39 Uhr</td>
+</tr>
+<tr>
+<td>034</td>
+<td><a href="2020/034/index.html">Vorbeugende Maßnahmen zum Schutz der Flüchtlinge vor Corona</a></td>
+<td>Ab Ende Mai wird die Bezirksregierung Köln die Einrichtung des Deutschen Jugendherbergswerk (DJH) in Bad Honnef vorrübergehend zur Unterbringung von Flüchtlingen nutzen. Ein Mietvertrag für das nächste halbe Jahr wurde bereits abgeschlossen.</td>
+<td>20.05.2020 15:07 Uhr</td>
+</tr>
+<tr>
+<td>033</td>
+<td><a href="2020/033/index.html">Aktuelle Corona-Testergebnisse in Sankt Augustiner Flüchtlingseinrichtung</a></td>
+<td>Kontaktverfolgung eingeleitet</td>
+<td>20.05.2020 06:53 Uhr</td>
+</tr>
+<tr>
+<td>032</td>
+<td><a href="2020/032/index.html">Aufhebung der Ausgangssperre in Bonner Flüchtlingsunterkunft</a></td>
+<td>In der  Erstaufnahmeeinrichtung des Landes NRW in Bonn wird mit dem heutigen Nachmittag die Ausgangssperre aufgehoben.</td>
+<td>18.05.2020 13:41 Uhr</td>
+</tr>
+<tr>
+<td>031</td>
+<td><a href="2020/031/index.html">Corona in Sankt Augustiner Flüchtlingseinrichtung - Aktueller Sachstand nach Massentestung -</a></td>
+<td>Nach Bekanntwerden der ersten positiv getesteten Person in der ZUE Sankt Augustin, wurde umgehend eine Volltestung aller Bewohner und Mitarbeiter der Unterkunft veranlasst.</td>
+<td>18.05.2020 06:47 Uhr</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="2020/030/index.html">„Bundesbüdchen“ zurück im Regierungsviertel</a></td>
+<td>Die Bundesstadt Bonn hat ihr historisches Wahrzeichen, den denkmalgeschützten Kiosk „Bundesbüdchen“, zurück.</td>
+<td>18.05.2020 06:40 Uhr</td>
+</tr>
+<tr>
+<td>029</td>
+<td><a href="2020/029/index.html">Corona-Fälle in Euskirchener Flüchtlingsunterkunft -  Aktueller Sachstand nach erneuter Testung</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Euskirchen wurde am 11.05.2020 eine erneute Testung von 220 Personen auf den COVID-19-Virus durchgeführt.</td>
+<td>15.05.2020 13:29 Uhr</td>
+</tr>
+<tr>
+<td>028</td>
+<td><a href="2020/028/index.html">Positiver COVID-19 Fall in Sankt Augustiner Flüchtlingseinrichtung</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Sankt Augustin, wurde eine Person positiv auf das COVID-19 Virus getestet.</td>
+<td>14.05.2020 17:04 Uhr</td>
+</tr>
+<tr>
+<td>027</td>
+<td><a href="2020/027/index.html">Weitere Maßnahmen in Bonner Flüchtlingsunterkunft nach Covid-19-Testung</a></td>
+<td>In der Erstaufnahmeeinrichtung (EAE) des Landes NRW in Bonn werden weitere Maßnahmen zum Schutz der Bewohner umgesetzt.</td>
+<td>14.05.2020 16:08 Uhr</td>
+</tr>
+<tr>
+<td>026</td>
+<td><a href="2020/026/index.html">Landesregierung weitet die Hilfe für Soloselbständige und Künstlerinnen und Künsler in NRW aus - Soforthilfe-Hotline der Bezirksregierung Köln wieder erreichbar</a></td>
+<td>Damit die NRW-Soforthilfe 2020 allen Kleinunternehmen in der Corona-Krise die erhoffte Unterstützung bringt, hat die Landesregierung eine schnelle, faire Vertrauensschutzlösung entwickelt.</td>
+<td>14.05.2020 06:42 Uhr</td>
+</tr>
+<tr>
+<td>025</td>
+<td><a href="2020/025/index.html">Erörterungstermin Theo Steil abgesagt</a></td>
+<td>Der für den 3. Juni 2020 vorgesehene Erörterungstermin zur Umlagerung des Betriebes der Firma Theo Steil von Köln-Deutz nach Köln-Godorf wird ersatzlos abgesagt.</td>
+<td>13.05.2020 15:19 Uhr</td>
+</tr>
+<tr>
+<td>024</td>
+<td><a href="2020/024/index.html">Corona-Fälle in Euskirchener Flüchtlingsunterkunft - Aktuelle Maßnahmen und Quarantänevorschriften</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Euskirchen wurde die Quarantäne bis auf weiteres verlängert.</td>
+<td>07.05.2020 14:53 Uhr</td>
+</tr>
+<tr>
+<td>023</td>
+<td><a href="2020/023/index.html">Autobahnvollsperrung im Mai</a></td>
+<td>Sperrung der A1 zwischen den Anschlussstellen Weilerswist-West und Euskirchen in beiden Fahrtrichtungen an zwei Sonntagen im Mai</td>
+<td>07.05.2020 14:00 Uhr</td>
+</tr>
+<tr>
+<td>022</td>
+<td><a href="2020/022/index.html">Testung der Bewohner in Kreuzauer Flüchtlingsunterkunft</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Kreuzau wurden die Bewohner auf den Covid-19-Virus getestet.  Neben der positiv getesteten Person sind 110 der derzeit untergebrachten Personen negativ.</td>
+<td>07.05.2020 13:21 Uhr</td>
+</tr>
+<tr>
+<td>021</td>
+<td><a href="2020/021/index.html">Bonner Jugendherberge wird Flüchtlingsunterkunft</a></td>
+<td>Ab dem 06.05.2020 wird die Bezirksregierung Köln die Jugendherberge auf dem Venusberg zur Unterbringung von Flüchtlingen nutzen. Dort finden vor allem potentielle Coronarisikogruppen sowie Familien mit Kindern Platz.</td>
+<td>05.05.2020 19:06 Uhr</td>
+</tr>
+<tr>
+<td>020</td>
+<td><a href="2020/020/index.html">Regierungspräsidentin Gisela Walsken fördert den Naturschutz mit 5,5  Millionen Euro</a></td>
+<td>Mit einem Fördervolumen von insgesamt 5,5 Millionen Euro hat die Bezirksregierung Köln im vergangenen Jahr zahlreiche Projekte des Naturschutzes in der Region  gefördert.</td>
+<td>05.05.2020 15:14 Uhr</td>
+</tr>
+<tr>
+<td>019</td>
+<td><a href="2020/019/index.html">Situation und Maßnahmen innerhalb der Erstaufnahmeeinrichtung Köln im Kontext der Corona Pandemie</a></td>
+<td>Die Erstaufnahmeeinrichtung (EAE) Köln hat in der vergangenen Woche Maßnahmen ergriffen und damit auf die aktuelle Situation im Kontext der Corona-Pandemie reagiert.</td>
+<td>05.05.2020 10:02 Uhr</td>
+</tr>
+<tr>
+<td>018</td>
+<td><a href="2020/018/index.html">Neuer Corona-Fall in Bonner Flüchtlingsunterkunft</a></td>
+<td>In der Erstaufnahmeeinrichtung des Landes NRW in Bonn wurde eine Bewohnerin positiv auf das COVID-19 Virus getestet.</td>
+<td>04.05.2020 07:07 Uhr</td>
+</tr>
+<tr>
+<td>017</td>
+<td><a href="2020/017/index.html">Bestätigter Corona-Fall in Kreuzauer Flüchtlingsunterkunft</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Kreuzau wurde heute der 1. Corona-Fall bestätigt.</td>
+<td>05.05.2020 10:02 Uhr</td>
+</tr>
+<tr>
+<td>016</td>
+<td><a href="2020/016/index.html">Bestätigte Corona-Fälle in Euskirchener Flüchtlingsunterkunft</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Euskirchen wurde die Quarantäne bis zum 13. Mai verlängert.</td>
+<td>30.04.2020 06:44 Uhr</td>
+</tr>
+<tr>
+<td>015</td>
+<td><a href="2020/015/index.html">Bestätigte Corona-Fälle in Bonner Flüchtlingsunterkunft</a></td>
+<td>In der  Erstaufnahmeeinrichtung des Landes NRW in Bonn wurden von 271 Bewohnern 40 Personen auf das COVID-19 Virus getestet.</td>
+<td>28.04.2020 07:05 Uhr</td>
+</tr>
+<tr>
+<td>014</td>
+<td><a href="2020/014/index.html">Bestätigter Corona-Fall in Bonner Flüchtlingsunterkunft</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Bonn wurde am Wochenende eine Bewohnerin positiv auf das COVID-19 Virus getestet. Die Flüchtlingsunterkunft steht seitdem unter Quarantäne und eine Volltestung wurde veranlasst.</td>
+<td>15.04.2020 11:04 Uhr</td>
+</tr>
+<tr>
+<td>013</td>
+<td><a href="2020/013/index.html">Bestätigte Corona-Fälle in Euskirchener Flüchtlingsunterkunft</a></td>
+<td>In der Zentralen Unterbringungseinrichtung des Landes NRW in Euskirchen, wurden 39 Geflüchtete positiv auf das COVID-19 Virus getestet.</td>
+<td>03.04.2020 15:12 Uhr</td>
+</tr>
+<tr>
+<td>012</td>
+<td><a href="2020/012/index.html">Milliardensoforthilfe für den Wirtschaftsmotor des Landes startet ab heute</a></td>
+<td>Bezirksregierungen bearbeiten Förderanträge für NRW-Soforthilfe</td>
+<td>27.03.2020 16:32 Uhr</td>
+</tr>
+<tr>
+<td>011</td>
+<td><a href="2020/011/index.html">Soforthilfe für Künstler in NRW angelaufen</a></td>
+<td>Mit großer Resonanz wurde das Soforthilfeprogramm für freischaffende Künstlerinnen und Künstler in Nordrhein-Westfalen angenommen.</td>
+<td>25.03.2020 10:45 Uhr</td>
+</tr>
+<tr>
+<td>010</td>
+<td><a href="2020/010/index.html">Regionalrat Köln fasst einstimmig Beschlüsse für den gesamten Regierungsbezirk: Regionalplan-Konzept und „Abgrabungsplan“</a></td>
+<td>Heute hat der Regionalrat Köln einstimmig zwei zentrale Beschlüsse gefasst, die für den gesamten Regierungsbezirk von Bedeutung sind.</td>
+<td>13.03.2020 12:45 Uhr</td>
+</tr>
+<tr>
+<td>009</td>
+<td><a href="2020/009/index.html">Sperrung der A 562 zwischen Anschlussstelle Bonn-Bad Godesberg/Bonn-Rheinaue über den Rhein in Fahrtrichtung AS Bonn-Ramersdorf</a></td>
+<td>In der Nacht von Freitag auf Samstag (6./7. März) wird die Autobahn 562 in Fahrtrichtung Bonn-Ramersdorf ab der Anschlussstelle Bonn-Bad Godesberg zwischen 22:00 Uhr und 06:00 Uhr voll gesperrt.</td>
+<td>05.03.2020 11:01 Uhr</td>
+</tr>
+<tr>
+<td>008</td>
+<td><a href="2020/008/index.html">Bezirksregierung Köln entbindet Firma Hüttebräucker von Betriebspflicht - Linienverkehr geht planmäßig weiter</a></td>
+<td>Die Bezirksregierung Köln hat die Firma Hüttebräucker auf ihren eigenen Antrag hin zum 1. März 2020 von der Betriebspflicht entbunden.</td>
+<td>03.03.2020 07:46 Uhr</td>
+</tr>
+<tr>
+<td>007</td>
+<td><a href="2020/007/index.html">Flüchtlingsstaatssekretär Andreas Bothe sowie Regierungspräsidentin Gisela Walsken eröffnen „Zentralstelle Fachkräfteeinwanderung NRW (ZFE NRW)“</a></td>
+<td>Zur Umsetzung des am 01.März 2020 in Kraft getretenen Fachkräfteeinwanderungsgesetzes wurde dazu die "Zentralstelle Fachkräfteeinwanderung NRW (ZFE NRW)" in Bonn errichtet.</td>
+<td>02.03.2020 10:10 Uhr</td>
+</tr>
+<tr>
+<td>006</td>
+<td><a href="2020/006/index.html">Land, Stadt Düren und DUH einigen sich auf Vergleich im Klageverfahren zur Luftreinhalteplanung Düren</a></td>
+<td>Das Land Nordrhein-Westfalen, die Stadt Düren und die Deutsche Umwelthilfe (DUH) haben sich vor dem Oberverwaltungsgericht (OVG) Münster auf einen Vergleich zur Umsetzung des Luftreinhalteplans Düren geeinigt.</td>
+<td>28.02.2020 13:43 Uhr</td>
+</tr>
+<tr>
+<td>005</td>
+<td><a href="2020/005/index.html">Himmelslaternen - Kölner Behörde zieht 730 aus dem Verkehr</a></td>
+<td>Die Bezirksregierung Köln hat bei einer Kontrolle sogenannte Himmelslaternen (Sky-, Flug-, Kong-Ming-Laternen usw.) aus dem Verkehr gezogen. Insgesamt wurden bei einem Onlinehändler rund 730 vorgefunden. Der weitere Verkauf wurde unterbunden.</td>
+<td>19.02.2020 10:52 Uhr</td>
+</tr>
+<tr>
+<td>004</td>
+<td><a href="2020/004/index.html">Regionalplan-Konzept dem Regionalrat vorgestellt - Lösungsvorschläge für die unterschiedlichen Herausforderungen in der Region</a></td>
+<td>Heute wurde dem Regionalrat Köln erstmalig ein Plankonzept für einen neuen Regionalplan für den gesamten Regierungsbezirk Köln vorgestellt.</td>
+<td>07.02.2020 12:31 Uhr</td>
+</tr>
+<tr>
+<td>003</td>
+<td><a href="2020/003/index.html">Genehmigungsverfahren Theo Steil GmbH Umweltverträglichkeitsprüfung liegt vor – Fahrplan für Fortsetzung der Genehmigungsverfahren steht</a></td>
+<td>Im Genehmigungsverfahren der Firma Theo Steil GmbH liegt der Bezirksregierung Köln nun die notwendige Umweltverträglichkeits-prüfung (UVP) vor.</td>
+<td>07.02.2020 12:28 Uhr</td>
+</tr>
+<tr>
+<td>002</td>
+<td><a href="2020/002/index.html">Bezirksregierung Köln veröffentlicht Abgrabungsplan für den Regierungsbezirk Köln</a></td>
+<td>Die Bezirksregierung Köln erarbeitet zurzeit einen Plan, um in unserem Regierungsbezirk das Abgraben von Rohrstoffvorräten wie hochwertigen Kiesen und Sanden in möglichst ergiebigen und räumlich verträglichen Bereichen zu lenken.</td>
+<td>31.01.2020 10:41 Uhr</td>
+</tr>
+<tr>
+<td>001</td>
+<td><a href="2020/001/index.html">Land, Stadt Bonn und DUH einigen sich auf Vergleich im Klageverfahren zur Luftreinhalteplanung Bonn</a></td>
+<td>Ministerin Ursula Heinen-Esser: "Der Bezirksregierung und der Stadt Bonn ist es gelungen, wirksame Maßnahmen festzulegen, um den Stickstoffdioxidgrenzwert einzuhalten"</td>
+<td>23.01.2020 13:04 Uhr</td>
+</tr>
+</tbody><tbody>
+</tbody></table>
+</article>
+</div>
+</section>
+<!-- End left grid -->
+<!--UdmComment-->
+<!-- Begin right grid -->
+<!-- End right grid -->
+<!-- Begin right grid -->
+<section>
+<div class="col-md-4">
+<div class="panel panel-primary" id="downloadcenter-profile-box" style="display: none;">
+<!-- Standard-Panel-Inhalt -->
+<div class="panel-heading"><span class="glyphicon glyphicon-user"></span> Profilverwaltung</div>
+<div class="panel-body">
+               Sie sind angemeldet als <strong class="Fullname"></strong>
+</div>
+<!-- Listengruppe -->
+<ul class="list-group">
+<li class="list-group-item"><a class="Edit-Profile-Link" href="../profil/index.html" title="Profil-Verwaltung">Profil bearbeiten</a></li>
+<li class="list-group-item"><a class="Delete-Profile-Link" href="../profil/index.html" title="Profil-Verwaltung">Profil löschen</a></li>
+<li class="list-group-item"><a class="Logout-Link" href="../profil/logout/index.html" title="Abmeldung">Abmelden</a></li>
+</ul>
+</div>
+<div class="panel panel-primary">
+<div class="panel-heading">Themen</div>
+<!-- Begin Ebenennavigation -->
+<div class="list-group">
+<a class="list-group-item" href="2017/index.html">Alle Presseinformationen 2017</a>
+<a class="list-group-item" href="2018/index.html">Alle Presseinformationen 2018</a>
+<a class="list-group-item" href="2019/index.html">Alle Presseinformationen 2019</a>
+<a class="list-group-item" href="ansprechpartner/index.html">Ansprechpartner</a>
+</div>
+<!-- End Ebenennavigation -->
+</div>
+</div>
+</section>
+<!-- End right grid -->
+</div>
+</div>
+<!-- End Content -->
+<!-- End MainContent -->
+<!-- Begin Pagination -->
+<div class="container">
+<hr/>
+<div class="hidden-print">
+<a class="btn btn-default" href=""><span class="glyphicon glyphicon-arrow-up"></span> Zum Seitenanfang</a> 
+      <a class="btn btn-default" href="javascript:self.print()"><span class="glyphicon glyphicon-print"></span> Seite drucken</a> 
+</div>
+<hr/>
+</div>
+<!-- End Pagination -->
+<!-- Begin optional Marketing messaging -->
+<!-- End optional Marketing messaging -->
+<!-- Begin Footer Jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+<div class="container">
+<h2>Haben Sie Fragen? Wir helfen Ihnen gerne!</h2>
+<p><span class="glyphicon glyphicon-earphone"></span> +49(0)221-147-0 · <span class="glyphicon glyphicon-envelope"></span> pressestelle@bezreg-koeln.nrw.de</p>
+<p><strong>telefonische Sprechzeiten</strong>: 08:30h - 15:00h (Mo - Do) · <strong>Persönliche Besuche sind nur nach vorheriger Absprache möglich</strong></p>
+</div>
+</div>
+<!-- End Jumbotron -->
+<!-- Begin Footer -->
+<div class="container" id="footer" role="contentinfo">
+<footer>
+<div class="hidden-print">
+<p class="pull-right"><a href="">Zum Seitenanfang</a> · <a href="javascript:self.print()">Seite drucken</a></p>
+</div>
+<div class="hidden-print">
+<p>© 2020 Bezirksregierung Köln · <a href="../impressum/index.html" title="Impressum">Impressum</a> · <a href="../datenschutz/index.html" title="Datenschutz (Privacy Policy)">Datenschutz</a> · <a href="../kontakt/index.html" title="Kontakt und Anfahrt">Kontakt</a> · <a href="../egvp/index.html" title="Elektronisches Gerichts- und Verwaltungspostfach (EGVP)">EGVP</a> · <a href="../de-mail/index.html" title="De-Mail">De-Mail</a> · <a href="../crypto-mail/index.html" title="Verschlüsselte E-Mails">Verschlüsselung</a></p>
+</div>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+Letzte Änderung(en): 
+23.01.2020 13:12
+ Uhr | Erstellt am: 20.05.2014 15:06 Uhr</p>
+<a href="https://twitter.com/BezRegKoeln" target="_blank"><img alt="Logo Twitter" src="../icon_social_twitter.png"/></a>
+<a href="https://www.facebook.com/BezirksregierungKoeln" target="_blank"><img alt="Logo Facebook" src="../icon_social_facebook.png"/></a>
+<a href="https://www.instagram.com/bezregkoeln/" target="_blank"><img alt="Logo Instagram" src="../icon_social_insta.png"/></a>
+</footer>
+</div>
+<!-- End Footer -->
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../dist/js/bootstrap.js"></script>
+<script src="../js/bootstrap3-typeahead_min.js"></script>
+<script src="../doc-assets/js/holder.js"></script>
+<!-- script src="js/jquery-1_10_2_min.js"></script-->
+<script src="../js/lightbox-2_6_min.js"></script>
+<script src="../js/typeahead.js"></script>
+<script src="../veranstaltungen/filter-events.js"></script>
+<!--/UdmComment-->
+</body>
+</html>

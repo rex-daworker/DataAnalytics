@@ -1,0 +1,1 @@
+['lehrbeauftragte', 'duale', 'dozenten', 'dhbw', 'duales', 'studium', 'duale', 'hochschule', 'baden', 'württemberg', 'studium', 'und', 'ausbildung', 'studieninteressierte', 'duale', 'partner', 'duale', 'dozenten', 'praxisintegrierend', 'duale', 'bachelorstudiengänge', 'dualer', 'master', 'praxisorientiert', 'intensivstudium', 'praxisnah', 'praxisphasen']

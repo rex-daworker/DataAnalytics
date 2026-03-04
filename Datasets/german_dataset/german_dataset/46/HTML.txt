@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<base href="https://www.alumniportal-deutschland.org/"/>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="1" name="revisit-after"/>
+<meta content="1" name="includeGlobal"/>
+<meta content="de" name="language"/>
+<meta content="Alumniportal Deutschland" name="author"/>
+<meta content="all" name="robots"/>
+<meta content="Alumniportal Deutschland" name="copyright"/>
+<meta content="General" name="rating"/>
+<meta content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" name="SKYPE_TOOLBAR"/>
+<meta content="AB-xQEb7Mza8o7R_KWbd_yrQOe6c-QUd_qut9HvjyFE" name="google-site-verification"/>
+<link href="typo3temp/compressor/merged-01dfd1addfb30afd1bd0ed5e9e144256-223123fc81c851013df0861490cc332f.css?1590737296" media="all" rel="stylesheet" type="text/css"/>
+<link href="typo3temp/compressor/merged-d46f7624657d2b468291ff9c335a63e0-88fec8b4d7f5e4f53aa7ac32bae5efeb.css?1590749868" media="all" rel="stylesheet" type="text/css"/>
+<script src="typo3/sysext/core/Resources/Public/JavaScript/Contrib/jquery/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery.noConflict();
+/*]]>*/
+</script>
+<title>Hochschulbildung in Tunesien - Alumniportal Deutschland</title>
+<meta content="Hochschulbildung in Tunesien - Alumniportal Deutschland" name="title"/>
+<meta content="Hochschulbildung, Tunesien, Beate Schindler-Kovats, DAAD" name="keywords"/>
+<meta content="Beate Schindler-Kovats leitet das DAAD-Büro in Tunis. Im Interview spricht sie über die Probleme der Hochschulbildung in Tunesien." name="description"/>
+<meta content="2016-08-22" name="date"/>
+<link href="http://www.alumniportal-deutschland.org/studium-weiterbildung/studium-ausbildung/hochschulbildung-tunesien-beate-schindler-kovats/" rel="canonical"/>
+<script src="https://use.typekit.net/xqh8nzh.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<meta content="Hochschulbildung in Tunesien" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="http://www.alumniportal-deutschland.org/studium-weiterbildung/studium-ausbildung/hochschulbildung-tunesien-beate-schindler-kovats/" property="og:url"/>
+<meta content="www.alumniportal-deutschland.org" property="og:site_name"/>
+<meta content="Beate Schindler-Kovats leitet das DAAD-Büro in Tunis. Im Interview spricht sie über die Probleme der Hochschulbildung in Tunesien." property="og:description"/>
+<meta content="https://www.alumniportal-deutschland.org//assets/_processed_/d/a/csm_moodmotiv-906x700_350f862c6c.jpg" property="og:image"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KTKWJDH');</script>
+</head>
+<body>
+<header class="page-header" id="js-page-header">
+<div class="header-mobile container">
+<div class="nav-icon-mobile-wrap">
+<span class="nav-icon-mobile js-toggle-menu-nav">
+<svg class="icon-burger">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-burger"></use>
+</svg>
+<svg class="icon-close">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-close"></use>
+</svg>
+</span>
+</div>
+<div class="apd-logo-mobile-wrap">
+<a class="apd-logo-mobile" href="/" title="Alumniportal Deutschland"><img alt="Alumniportal Deutschland" src="/assets/Resources/Public/Images/apd-logo.svg"/></a>
+</div>
+<div class="user-icon-mobile-wrap">
+<a href="https://community.alumniportal-deutschland.org/" target="_blank" title="Login">
+<span class="user-icon-mobile">
+<svg class="icon-user">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-user"></use>
+</svg>
+</span>
+</a>
+</div>
+</div>
+<div class="menu-nav js-menu-nav no-transition">
+<div class="patch"></div>
+<div class="scroll-container-outer">
+<div class="scroll-container-inner">
+<div class="desktop container">
+<nav class="nav-main"><a href="#"><img alt="" class="logo-reduced" src="/assets/Resources/Public/Images/apd-logo-reduced.svg"/></a><ul class="first-level" id="js-navigation"><li class="active show"><a class="active show" href="magazin/" title="Magazin">Magazin</a><ul class="second-level"><li><a href="deutschland/" title="Deutschland">Deutschland</a></li><li><a href="studium-weiterbildung/" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a></li><li><a href="wissenschaft-forschung/" title="Wissenschaft &amp; Forschung">Wissenschaft &amp; Forschung</a></li><li><a href="alumni-geschichten/" title="Alumni-Geschichten">Alumni-Geschichten</a></li><li><a href="karriere/" title="Karriere">Karriere</a></li><li><a href="schwerpunktthemen/" title="Schwerpunktthemen">Schwerpunktthemen</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="aktuelles/" title="Aktuelles">Aktuelles</a><ul class="second-level"><li><a href="aktuelles/ausschreibungen/" title="Ausschreibungen">Ausschreibungen</a></li><li><a href="aktuelles/ankuendigungen/" title="Ankündigungen">Ankündigungen</a></li><li><a href="aktuelles/alumni-treffen/" title="Alumni-Treffen">Alumni-Treffen</a></li><li><a href="aktuelles/mitmachaktionen/" title="Mitmachaktionen">Mitmachaktionen</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="digitales-lernen/" title="Digitales Lernen">Digitales Lernen</a><ul class="second-level"><li><a href="digitales-lernen/deutsche-sprache/" title="Deutsche Sprache">Deutsche Sprache</a><ul class="third-level"><li><a href="digitales-lernen/deutsche-sprache/verstehen-sie-deutsch/" title="Verstehen Sie Deutsch">Verstehen Sie Deutsch?</a></li><li><a href="digitales-lernen/deutsche-sprache/deutsch-auf-die-schnelle/" title="Deutsch auf die Schnelle">Deutsch auf die Schnelle</a></li><li><a href="digitales-lernen/deutsche-sprache/online-deutsch-lernen/" title="Online Deutsch lernen">Online Deutsch lernen</a></li><li><a href="digitales-lernen/deutsche-sprache/einstufungstest/" title="Einstufungstest">Einstufungstest</a></li><li><a href="digitales-lernen/deutsche-sprache/deutschkurse/" title="Deutschkurse">Deutschkurse</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="digitales-lernen/web-seminare/" title="Web-Seminare">Web-Seminare</a></li><li><a href="digitales-lernen/e-books/" title="E-Books">E-Books</a><ul class="third-level"><li><a href="digitales-lernen/e-books/karriere-berufswahl/" title="Karriere und Berufswahl">Karriere und Berufswahl</a></li><li><a href="digitales-lernen/e-books/kommunikation/" title="Kommunikation und Präsentation">Kommunikation und Präsentation</a></li><li><a href="digitales-lernen/e-books/management-und-strategie/" title="Management und Strategie">Management und Strategie</a></li><li><a href="digitales-lernen/e-books/persoenliche-entwicklung/" title="Persönliche Entwicklung">Persönliche Entwicklung</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="digitales-lernen/hoerbuecher/" title="Hörbücher">Hörbücher</a></li><li><a href="digitales-lernen/quizze/" title="Quizze">Quizze</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="ueber-uns/" title="Über uns">Über uns</a><ul class="second-level"><li><a href="ueber-uns/als-alumni-auf-dem-portal/" title="Als Alumni auf dem Portal">Als Alumni auf dem Portal</a></li><li><a href="services/alumni-alumniportal-deutschland/als-unternehmen-auf-dem-portal/" title="Als Unternehmen auf dem Portal">Als Unternehmen auf dem Portal</a></li><li><a href="ueber-uns/als-hochschule-auf-dem-portal/" title="Als Hochschule auf dem Portal">Als Hochschule auf dem Portal</a></li><li><a href="ueber-uns/angebote-fuer-alumni-netzwerke/" title="Angebote für Alumni-Netzwerke">Angebote für Alumni-Netzwerke</a></li><li><a href="ueber-uns/partner/" title="Partner">Partner</a></li></ul><span class="level-toggle"><svg class="icon-arrow-down"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-arrow-down"></use></svg></span></li><li><a href="mitglieder/" title="Community">Community</a></li></ul></nav>
+</div>
+<div class="language"><span class="active">DE</span> • <a href="en/study-continuing-education/study-training/university-education-tunisia-beate-schindler-kovats/">EN</a></div>
+</div>
+</div>
+</div>
+<div class="header-desktop container">
+<a class="apd-logo" href="/" title="Alumniportal Deutschland"><img alt="Alumniportal Deutschland" class="img-responsive" src="/assets/Resources/Public/Images/apd-logo.svg"/></a>
+<div class="header-buttons">
+<div class="language-wrapper js-search-hide">
+<div class="language"><span class="active">DE</span> • <a href="en/study-continuing-education/study-training/university-education-tunisia-beate-schindler-kovats/">EN</a></div>
+</div>
+<div class="portal js-search-hide">
+<a href="https://community.alumniportal-deutschland.org/" target="_blank" title="Login">
+<span class="icon"><svg class="icon-user">
+<use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-user"></use>
+</svg></span>Login
+          </a>
+</div>
+<div class="registration"><a class="bt-default bt-red" href="https://community.alumniportal-deutschland.org/" target="_blank">Jetzt Mitglied werden</a></div>
+</div>
+</div>
+</header>
+<div class="page-wrapper" id="js-page-wrapper">
+<main class="page-container contentpage">
+<section class="article-wrap">
+<div class="container">
+<div class="row">
+<div class="col-lg-3">
+<nav class="sidebar-nav"><ul><li><a href="deutschland/" title="Deutschland">Deutschland</a></li><li><a class="active" href="studium-weiterbildung/" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a></li><li><a href="wissenschaft-forschung/" title="Wissenschaft &amp; Forschung">Wissenschaft &amp; Forschung</a></li><li><a href="alumni-geschichten/" title="Alumni-Geschichten">Alumni-Geschichten</a></li><li><a href="karriere/" title="Karriere">Karriere</a></li><li><a href="schwerpunktthemen/" title="Schwerpunktthemen">Schwerpunktthemen</a></li></ul></nav>
+</div>
+<div class="col-lg-9">
+<article>
+<header>
+<div class="page-intro sdg-page-intro">
+<div id="c6432">
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+<div class="ce-outer">
+<div class="ce-inner">
+<div class="ce-row">
+<div class="ce-column">
+<div class="ce-media">
+<img alt="" height="540" src="fileadmin/bilder/studium-weiterbildung/DAAD-Schindler-Kovats.jpg" width="960"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ce-bodytext">
+</div>
+</div>
+</div>
+</div>
+<ol class="breadcrumb"><li><a href="https://www.alumniportal-deutschland.org/" title="Startseite">Startseite</a></li><li><a href="magazin/" title="Magazin">Magazin</a></li><li><a href="studium-weiterbildung/" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a></li><li><a href="studium-weiterbildung/studium-ausbildung/" title="Studium &amp; Ausbildung">Studium &amp; Ausbildung</a></li><li class="active">Hochschulbildung in Tunesien</li></ol>
+</header>
+<section>
+<div class="comment-like-wrap">
+<div class="tx-ppw-comments-count">
+<div class="comment-header-left">
+<a href="studium-weiterbildung/studium-ausbildung/hochschulbildung-tunesien-beate-schindler-kovats/#comments">
+<span class="ppw-icon-comment"></span>
+<div>
+<span class="comment-header-number">6</span>
+<span class="comment-header-text">
+                        
+                                Kommentare
+                            
+                    </span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div id="c4135">
+<h1 class="">Beate Schindler-Kovats: „Die Hochschulbildung in Tunesien sollte praxisorientierter sein“</h1>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p><b>In Tunesien sind doppelt so viele Akademiker arbeitslos wie junge Menschen ohne Studienabschluss. Die Hochschulbildung sei zu theoretisch und zu viele Studenten seien eingeschrieben, sagt Beate Schindler-Kovats, Leiterin des DAAD-Informationszentrums  in Tunis. Sie glaubt, dass nur eine Reform des Ausbildungswesens und ein <acronym title="Mentalität = Auffassung, Denkweise, Einstellung, Überzeugung, Weltanschauung">Mentalitätswandel</acronym> langfristig etwas ändern können.</b> </p>
+<p>Etwa 30 Prozent der Akademiker in Tunesien sind arbeitslos. Beate Schindler-Kovats nennt dafür gleich mehrere Gründe. Sie hat aber auch Verbesserungsvorschläge, die sie im Interview erläutert.</p>
+</div>
+</div>
+</div>
+<div id="c10073">
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<blockquote style="margin-bottom:0;margin-top:0;"><p>„Die Chance arbeitslos zu sein steigt mit der Höhe des Abschlusses“ </p></blockquote>
+</div>
+</div>
+</div>
+<div id="c4136">
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p><b>Etwa 30 Prozent der tunesischen Akademiker sind arbeitslos. Woran liegt das?</b> </p>
+<p><b>Beate Schindler-Kovats:</b> Dafür gibt es mehrere Ursachen: Zum einen gibt es in Tunesien sehr viele Akademiker und zu wenige qualifizierte Fachkräfte mit Berufsausbildung. Der tunesische Staat bietet eine Studienplatzgarantie – das führt dazu, dass fast alle Abiturienten studieren. Eine Berufsausbildung ist dagegen wenig attraktiv und wird nicht als Alternative gesehen. Insbesondere die verarbeitende Industrie in Tunesien braucht aber Fachkräfte und Arbeiter. Der Bedarf an Akademikern und Promovierten ist hingegen begrenzt. Die Chance arbeitslos zu sein steigt mit der Höhe des Abschlusses. Viele junge Leute sind an den Hochschulen <acronym title="jemanden parken = jemanden übergangsweise irgendwo abstellen/unterbringen">„geparkt“</acronym> und viele sind als Doktoranden <acronym title="pro forma = der Form halber, der Form wegen; um einer Vorschrift zu genügen; nur zum Schein (Quelle: Duden.de)">„pro forma“</acronym> eingeschrieben, um nicht arbeitslos zu sein.</p>
+<p>Zum anderen fehlt eine Verbindung zwischen Theorie und Praxis. Die Ausbildung an tunesischen Hochschulen ist wenig praxisorientiert und geht an den Bedürfnissen des Arbeitsmarktes vorbei. Daher gibt es viele „Generalisten“ und wenig Spezialisten. Zudem ist die Lernkultur (Auswendiglernen, <acronym title="reproduzieren = abbilden, nachahmen, nacharbeiten, nachbilden, nachgestalten, nachschaffen (Quelle: Duden.de)">Reproduzieren</acronym>) nicht hilfreich. Unternehmen beklagen, dass es an innovativ denkenden und handelnden Arbeitskräften und an <acronym title="Soft Skills = soziale Kompetenzen, Kompetenz im zwischenmenschlichen Bereich, Fähigkeit im Umgang mit anderen Menschen">Soft Skills</acronym> mangelt. Tunesische Studenten und Absolventen haben oft nicht gelernt, für sich selbst Verantwortung zu übernehmen und zeigen wenig <acronym title="Initiative = Aktivität, Energie, Entschlossenheit, Entschlusskraft, Schwung, Tatkraft, Unternehmungsgeist (Quelle: Duden.de)">Initiative</acronym>.</p>
+<p><b>Wie schätzen Sie die Qualität der tunesischen Hochschulbildung ein?</b> </p>
+<p><b>Beate Schindler-Kovats:</b> Die Qualität der Hochschulbildung ist in den letzten Jahren unter dem Druck der Arbeitsmarktsituation gesunken. Es werden viele neue Hochschulprogramme geschaffen, um die jungen Leute in Master- und Promotionsprogrammen unterzubringen, damit sie erst einmal von der  Straße weg sind. Es gibt kein <acronym title="Akkreditierungssystem = System zur Erfassung">Akkreditierungssystem</acronym> oder Qualitätsmanagement. Hinzu kommen massive Streiks im Bildungssektor – sowohl bei den Lehrenden als auch Studierenden. Die Streiks blockieren den normalen Semesterbetrieb, das hat negative Auswirkungen auf das Bildungsniveau.</p>
+</div>
+</div>
+</div>
+<div id="c10063">
+<div class="tx-ppw-apd-poll">
+<div class="poll-wrap">
+<div class="poll-header">
+<p>Mein Studium in meinem Heimatland ...</p>
+</div>
+<div class="poll-content" id="poll-9">
+<form action="studium-weiterbildung/studium-ausbildung/hochschulbildung-tunesien-beate-schindler-kovats/?tx_ppwapdpoll_poll%5Baction%5D=ajaxVote&amp;tx_ppwapdpoll_poll%5Bcontroller%5D=Poll&amp;cHash=9de0cec20260905506d5dac6467e1aae" id="pollForm-9" method="post" onsubmit="return false;">
+<div>
+<input name="tx_ppwapdpoll_poll[__referrer][@extension]" type="hidden" value="PpwApdPoll"/>
+<input name="tx_ppwapdpoll_poll[__referrer][@vendor]" type="hidden" value="Apd"/>
+<input name="tx_ppwapdpoll_poll[__referrer][@controller]" type="hidden" value="Poll"/>
+<input name="tx_ppwapdpoll_poll[__referrer][@action]" type="hidden" value="show"/>
+<input name="tx_ppwapdpoll_poll[__referrer][arguments]" type="hidden" value="YTowOnt9358eb66c9ca4da04d54a863666e7afaca4ba5d39"/>
+<input name="tx_ppwapdpoll_poll[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:10:"PpwApdPoll";s:11:"@controller";s:4:"Poll";s:7:"@action";s:4:"show";s:7:"@vendor";s:3:"Apd";}c0ce1f88cac9ae770d14950b78fb29ea03381820'/>
+<input name="tx_ppwapdpoll_poll[__trustedProperties]" type="hidden" value='a:4:{s:7:"vote-9}";i:1;s:12:"enableCookie";i:1;s:11:"currentPage";i:1;s:13:"languageParam";i:1;}cf83c060d3192de49190b0a9e39618694875030a'/>
+</div>
+<div class="radio">
+<label for="voteAnswer-31">
+<input id="voteAnswer-31" name="tx_ppwapdpoll_poll[vote-9}]" type="radio" value="31"/>
+            
+              
+              
+                ... ist/war zu theoretisch und ohne Praxisbezug.
+              
+            
+          </label>
+</div>
+<div class="radio">
+<label for="voteAnswer-32">
+<input id="voteAnswer-32" name="tx_ppwapdpoll_poll[vote-9}]" type="radio" value="32"/>
+            
+              
+              
+                ... hat mich fit für den Arbeitsmarkt gemacht.
+              
+            
+          </label>
+</div>
+<div class="radio">
+<label for="voteAnswer-33">
+<input id="voteAnswer-33" name="tx_ppwapdpoll_poll[vote-9}]" type="radio" value="33"/>
+            
+              
+              
+                ... hat mir viel Spielraum für Praktika und Nebenjobs gelassen, die zu wichtigen Erfahrungen und Kontakten beigetragen haben.
+              
+            
+          </label>
+</div>
+<input id="enableCookie-9" name="tx_ppwapdpoll_poll[enableCookie]" type="hidden" value="0"/>
+<input id="currentPage-9" name="tx_ppwapdpoll_poll[currentPage]" type="hidden" value="407"/>
+<input id="languageParam-9" name="tx_ppwapdpoll_poll[languageParam]" type="hidden" value="0"/>
+<div class="poll-bt-wrap">
+<button class="bt-default bt-yellow submitPoll" id="submitPoll-9">
+          Abstimmen
+        </button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="c4137">
+<h2 class="">Hochschulbildung sollte praxisorientierter sein</h2>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p><b>Welche Verbesserungsvorschläge hätten Sie?</b> </p>
+<p><b>Beate Schindler-Kovats:</b> Ich bin für eine praxisorientiertere Ausbildung an den tunesischen Hochschulen wie beispielsweise an Fachhochschulen in Deutschland. Außerdem wäre eine Zusammenarbeit zwischen Hochschulen und der Industrie sinnvoll. Hier fördert der DAAD bereits erfolgreiche <acronym title="Pilotprojekt = Projekt, in dem versuchsweise neuartige Verfahren, Arbeitsweisen o. Ä. angewendet werden (Quelle: Duden.de)">Pilotprojekte</acronym> in Kooperation mit deutschen Industriepartnern und Hochschulen. Die Lernkultur sowie die Arbeitshaltung und Arbeitsweisen müssten sich ändern. Es müsste mehr für die Integration von mehr Praktika in die Hochschulbildung geworben werden.</p>
+<p><b>Wie kann ein Auslandsaufenthalt die Chancen auf dem tunesischen Arbeitsmarkt verändern?</b> </p>
+<p><b>Beate Schindler-Kovats:</b> Rückkehrende Alumni sind ein Mehrwert für die tunesischen Hochschulen und den tunesischen Arbeitsmarkt. Es gibt bereits einige positive Beispiele gelungener Reintegration. Rückkehrer sind aktiv im Bereich Existenzgründung. Aber <acronym title="nach wie vor = noch immer">nach wie vor</acronym> existieren in Tunesien Hürden und bürokratische Hindernisse bei der Anerkennung ausländischer Abschlüsse und Leistungen.</p>
+<p><b>Wie beeinflusst die Abwanderung gut ausgebildeter junger Leute Tunesien?</b> </p>
+<p><b>Beate Schindler-Kovats:</b> <acronym title="Der Begriff „Brain Drain“ bezeichnet die Auswanderung hoch qualifizierter Fachkräfte ins Ausland.">„Brain Drain“</acronym> ist ein akutes Problem. Rund 3.000 Hochschullehrer sollen in den letzten Jahren in die Golfregion abgewandert sein, weil sie dort bessere Bedingungen vorfinden und eine sehr viel bessere Bezahlung bekommen.</p>
+<p>Junge Leute wandern aus, suchen Studien- und Arbeitsmöglichkeiten vor allem in Europa und Kanada. Mediziner, Pflegekräfte und Ingenieure werden als Fachkräfte abgeworben. Wer es nicht legal schafft, nimmt die Flüchtlingsrouten über das Mittelmeer. In Deutschland aus- oder weitergebildete Akademiker kommen leider nur zu einem sehr geringen Prozentsatz nach Tunesien zurück. Hier müsste die tunesische Regierung Anreize schaffen zurückzukehren.</p>
+</div>
+</div>
+</div>
+<div class="youtubeVideo">
+<figure>
+<div class="videoWrapper" style="
+			height: 0;
+			overflow: hidden;
+			position: relative;
+			padding-bottom:
+				
+					56.25%
+				
+				
+			;
+		">
+<iframe allowfullscreen="" id="youtubeVideo_6167" mozallowfullscreen="" src="https://www.youtube.com/embed/aqrIOL2ec2Y?modestbranding=0
+				&amp;theme=dark
+				&amp;autohide=1
+				&amp;autoplay=0
+				&amp;showinfo=0
+				&amp;rel=0
+				
+				
+				" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" webkitallowfullscreen="">
+</iframe>
+</div>
+</figure>
+</div>
+<div id="c4138">
+<h2 class="">Eine Deutschland-Alumna aus Tunesien erzählt</h2>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p>Ich heiße <a href="alumni-geschichten/videos/" target="_blank" title="Alumni-Videos: Chayma Berrhouma aus Tunesien">Chayma Berrhouma</a>, bin 24 Jahre alt und ich komme aus Tunesien. Ich bin Telekommunikationsingenieurin und habe meinen Abschluss an der Hochschule für Kommunikation in Tunis (SUP’COM) gemacht. Meine Masterarbeit habe ich am renommierten Fraunhofer Institut für Offene Kommunikationssysteme (Fraunhofer FOKUS) in Berlin geschrieben.</p>
+<p>Während meines Aufenthalts in Deutschland musste ich eine Reihe von Herausforderungen meistern, darunter die Bewertung meiner Masterarbeit. Dadurch, dass ich in einem Land lebte, dessen Sprache ich nicht sprach und in dem ich keine Verwandten hatte, habe ich gelernt, Verantwortung zu übernehmen und selbstständig zu arbeiten.</p>
+<p>Außerdem hatte ich Gelegenheit, bei der <a href="http://www.alumniportal-deutschland.org/alumni-news/news-detail/news/erste-deutsch-tunesische-karrieremesse-trained-in-germany-erfolgreich-abgeschlossen.html" target="_blank" title="Alumniportal Deutschland: Deutsch-tunesische Karrieremesse „Trained in GermanY“ erfolgreich abgeschlossen">Karrieremesse „Trained in GermanY“ in Tunis</a> am Stand des Alumniportals zu arbeiten. Es war eine sehr erfolgreiche Veranstaltung. Junge Tunesier konnten sich dort über Arbeitsmöglichkeiten in Deutschland und Tunesien informieren und ihre Berufsvorstellungen mit gut ausgebildeten Ingenieuren des Alumniportals besprechen.</p>
+<p>Für mich persönlich war diese Veranstaltung sehr hilfreich. Ich konnte verschiedene Themen aus dem Bereich „Studieren und arbeiten in Deutschland“ mit sehr interessanten Leuten diskutieren, die in Deutschland eine tolle Karriere aufgebaut haben und dann in ihr Heimatland zurückgekehrt sind, um hier ihr Wissen und ihre Erfahrung einzubringen.</p>
+<p class="meta-text">Interviews: Verena Striebinger</p>
+</div>
+</div>
+</div>
+<div class="article-block-white">
+<div id="c4142">
+<h2 class="">Arbeitslose Akademiker in Tunesien</h2>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<p>Wie können arbeitslose Akademiker in Tunesien fit gemacht werden für den Arbeitsmarkt? Gezielte Projekte und Karrieremessen helfen, die Situation zu verbessern.</p>
+<p><a href="http://www.alumniportal-deutschland.org/?id=406" target="_top" title="Alumniportal Deutschland: Artikel „Fit für den Arbeitsmarkt – arbeitslose Akademiker in Tunesien“"><b>Artikel „Fit für den Arbeitsmarkt – arbeitslose Akademiker in Tunesien“</b></a> </p>
+<p><a class="redButton" href="http://www.alumniportal-deutschland.org/?id=406" target="_top" title="Alumniportal Deutschland: Artikel „Fit für den Arbeitsmarkt – arbeitslose Akademiker in Tunesien“">Zum Artikel</a></p>
+</div>
+</div>
+</div>
+</div>
+<div><p>Mai 2016</p></div>
+<div id="c4140">
+<div id="c13">
+<div class="ce-textpic ce-left ce-above">
+<div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+<div class="ce-row">
+<div class="ce-column">
+<div class="ce-media">
+<img alt="" height="31" src="fileadmin/user_upload/cc_license_by.png" width="88"/>
+</div>
+</div>
+</div>
+</div>
+<div class="ce-bodytext">
+<p>Dieser Text ist lizenziert unter einer <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" title="Creative Commons Namensnennung 4.0 International Lizenz (englisch)">Creative Commons Namensnennung 4.0 International Lizenz</a>. Möglicherweise unterliegen zusätzliche Inhalte wie Bilder und Videos jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den <a href="services/datenschutz-nutzungsbedingungen/" target="_blank" title="Alumniportal Deutschland: Nutzungsbedingungen und Datenschutzrichtlinie">Nutzungsbedingungen und der Datenschutzrichtlinie</a> einverstanden. Zudem gilt folgende <a href="en/services/creative-commons/" target="_blank" title="Alumniportal Deutschland: Creative Commons (englisch)">Regelung für die korrekte Benennung der Urheber und Quelle sowie Übersetzungen</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="tx-ppw-comments">
+<h2>Kommentare</h2>
+<div id="comments">
+<div class="comment-block">
+<div class="row">
+<div class="col-sm-10">
+<div class="author">Herr ounsa ammar</div>
+<div class="date meta-text">
+                                    
+                                        23. August 2016
+                                        
+                                        
+                                    
+                                </div>
+</div>
+</div>
+<div class="comment"><p>Liebe Frau ;Es hat mich viel gefreut dass Sie mal ein Antwort fuer mein Kommentar gemacht haben.Was Sie hier eingebracht ist voellig war,es steht keine beziehung zwischen Hochschulen und Arbeitswelt oder Arbeitsmarkt  .Normaleweise  muss die Ausbildung  an Hochschulen  nach genauer Angaben von der Indusrtie und der Wirtshaft vorgehen; und am Ende es gebt keine Verantwortung von der Regierung  solche Aenderungen beizubringen.Ich biete Sie um Entschuldigung vieleicht ist mein Ausdrucken nicht richtig gemacht weil ich bin Augenoptiker vom Beruf.</p></div>
+</div>
+<div class="comment-block">
+<div class="row">
+<div class="col-sm-10">
+<div class="author">Beate Schindler-Kovats</div>
+<div class="date meta-text">
+                                    
+                                        22. August 2016
+                                        
+                                        
+                                    
+                                </div>
+</div>
+</div>
+<div class="comment"><p>Vielen Dank für den Kommentar, lieber Herr Ammar: Zu Ihrer Frage: Die Ausbidung an Hochschulen in Tunesien, Algerien und Marokko ist sehr theorielastig. Die Curricula sollten stärker praxis- und arbeitsmarktorientiert sein. Die Hochschulen sollten sich modernisieren und reformieren, in dem sie stärker mit der Wirtschaft und Industrie zusammenarbeiten.  Und auch ein Mentalitätswandel müsste stattfinden: die Lernkultur und Arbeitshaltung sowie die Arbeitsweisen an Hochschulen ist sehr lehrerzentriert und wenig interaktiv. Mehr Eigenständigkeit und Präsentationstechniken, kreatives und kritisches Denken statt Auswendiglernen hilft den Studenten, sich auf die Arbeitswelt vorzubereiten.</p></div>
+</div>
+<div class="comment-block">
+<div class="row">
+<div class="col-sm-2">
+<div class="image">
+<img alt="" class="img-circle" src="https://www.alumniportal-deutschland.org/community/mod/profile/icondirect.php?username=ounsopt"/>
+</div>
+</div>
+<div class="col-sm-10">
+<div class="author">Herr Ounsa Ammar</div>
+<div class="date meta-text">
+                                    
+                                        11. August 2016
+                                        
+                                        
+                                    
+                                </div>
+</div>
+</div>
+<div class="comment"><p>Ich bin nicht aus Tunisien sonderen aus Algerien und ich gebe Frau Kovats Recht aber die Frage ist; wie kann man das aanderen?</p></div>
+</div>
+<div id="more_comments">
+<div id="ajax_loader_more_comments" style="display:none;">
+<img alt="" src="/assets/Resources/Public/Images/ajax-loader.gif"/>
+</div>
+<a class="bt-default bt-yellow more_comments" data-language-id="0" data-page-id="407" href="#" id="reload_comments">
+                            weitere Kommentare (3)
+                        </a>
+</div>
+</div>
+</div>
+<div class="tx-ppw-comments" id="comment-form">
+<h2>Jetzt kommentieren</h2>
+<div class="comment-form-block">
+<form action="studium-weiterbildung/studium-ausbildung/hochschulbildung-tunesien-beate-schindler-kovats/kommentar-erstellen/#comment-form" method="post" name="newComment">
+<div>
+<input name="tx_ppwcomments_pi2[__referrer][@extension]" type="hidden" value="PpwComments"/>
+<input name="tx_ppwcomments_pi2[__referrer][@vendor]" type="hidden" value="Ppw"/>
+<input name="tx_ppwcomments_pi2[__referrer][@controller]" type="hidden" value="Comment"/>
+<input name="tx_ppwcomments_pi2[__referrer][@action]" type="hidden" value="new"/>
+<input name="tx_ppwcomments_pi2[__referrer][arguments]" type="hidden" value="YTowOnt9358eb66c9ca4da04d54a863666e7afaca4ba5d39"/>
+<input name="tx_ppwcomments_pi2[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:11:"PpwComments";s:11:"@controller";s:7:"Comment";s:7:"@action";s:3:"new";s:7:"@vendor";s:3:"Ppw";}b6e8dc6d08354e53f7562c3e34fff4381164d20c'/>
+<input name="tx_ppwcomments_pi2[__trustedProperties]" type="hidden" value='a:1:{s:10:"newComment";a:6:{s:4:"code";i:1;s:4:"hint";i:1;s:7:"comment";i:1;s:10:"authorName";i:1;s:11:"authorEmail";i:1;s:12:"notification";i:1;}}6edf97406046f7aae26403208c7cd8296d721cfc'/>
+</div>
+<div class="code-hint">
+<input id="code" name="tx_ppwcomments_pi2[newComment][code]" type="text" value=""/>
+<input id="hint" name="tx_ppwcomments_pi2[newComment][hint]" type="text" value=""/>
+</div>
+<div class="form-group ">
+<label for="comment">
+        Ihr Kommentar <strong>*</strong>
+</label>
+<textarea class="form-control" cols="40" id="comment" name="tx_ppwcomments_pi2[newComment][comment]" rows="6"></textarea>
+<span class="error-message">
+</span>
+</div>
+<div class="form-group ">
+<label for="author_name">
+        Ihr Name <strong>*</strong>
+</label>
+<input class="form-control" id="author_name" name="tx_ppwcomments_pi2[newComment][authorName]" type="text" value=""/>
+<span class="error-message">
+</span>
+</div>
+<div class="form-group ">
+<label for="author_email">
+        Ihre E-Mail Adresse <strong>*</strong>
+</label>
+<input class="form-control" id="author_email" name="tx_ppwcomments_pi2[newComment][authorEmail]" type="text"/>
+<span class="error-message">
+</span>
+</div>
+<div class="checkbox">
+<label for="notification">
+<input name="tx_ppwcomments_pi2[newComment][notification]" type="hidden" value=""/><input class="checkbox" id="notification" name="tx_ppwcomments_pi2[newComment][notification]" type="checkbox" value="1"/>
+        Möchten Sie benachrichtigt werden, wenn weitere Kommentar eingetragen werden?
+    </label>
+</div>
+<input class="bt-default bt-red" type="submit" value="Speichern"/>
+</form>
+</div>
+</div>
+</section>
+<aside>
+<div id="c4139">
+<h3 class="">Weiterführende Links</h3>
+<div class="ce-textpic ce-center ce-above">
+<div class="ce-bodytext">
+<ul class="link-list"> <li> <a href="https://www.daad.de/miniwebs/ictunis/de/" target="_blank" title="Webseite des DAAD-Informationszentrums in Tunis">Webseite des DAAD-Informationszentrums in Tunis</a></li> <li> <a href="http://www.changebyexchange.de/archiv/de/21911/index.html" target="_blank" title="Change by Exchange: DAAD IC-Büro Tunis">Change by Exchange: DAAD IC-Büro Tunis</a></li> <li> <a href="https://www.daad.de/der-daad/daad-aktuell/de/27109-ein-land-im-aufbruch/" target="_blank" title="DAAD Aktuell: Ein Land im Aufbruch">DAAD Aktuell: Ein Land im Aufbruch</a></li> </ul>
+</div>
+</div>
+</div>
+</aside>
+</article>
+<div class="social-media-wrap">
+<div>
+<div class="shariff" data-lang="de" data-services='["facebook","twitter","linkedin"]' enablebackend="" services="facebook, twitter, linkedin"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="footer-subpage">
+<div class="container">
+<div class="footer-socialmedia">
+<span>Folgen Sie uns</span>
+<a href="https://www.facebook.com/Alumniportal/" target="_blank" title=""><svg class="icon-facebook"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-facebook"></use></svg></a>
+<a href="https://twitter.com/alumni_de" target="_blank" title=""><svg class="icon-twitter"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-twitter"></use></svg></a>
+<a href="https://www.youtube.com/user/Alumniportal" target="_blank" title=""><svg class="icon-youtube"><use xlink:href="/assets/Resources/Public/Images/sprite.svg#icon-youtube"></use></svg></a>
+</div>
+<nav class="row subpage-nav-wrap">
+<div class="col-lg-2 col-wrap">
+<a href="magazin/" title="Magazin">Magazin</a><a href="deutschland/" title="Deutschland">Deutschland</a><a href="studium-weiterbildung/" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a><a href="wissenschaft-forschung/" title="Wissenschaft &amp; Forschung">Wissenschaft &amp; Forschung</a><a href="alumni-geschichten/" title="Alumni-Geschichten">Alumni-Geschichten</a><a href="karriere/" title="Karriere">Karriere</a><a href="schwerpunktthemen/" title="Schwerpunktthemen">Schwerpunktthemen</a>
+</div>
+<div class="col-lg-2 col-wrap">
+<a href="digitales-lernen/" title="Digitales Lernen">Digitales Lernen</a><a href="digitales-lernen/deutsche-sprache/" title="Deutsche Sprache">Deutsche Sprache</a><a href="digitales-lernen/web-seminare/" title="Webinare">Webinare</a><a href="digitales-lernen/e-books/" title="E-Books">E-Books</a><a href="digitales-lernen/hoerbuecher/" title="Hörbücher">Hörbücher</a><a href="digitales-lernen/quizze/" title="Quizze">Quizze</a>
+<div class="footer-second-nav">
+</div>
+</div>
+<div class="col-lg-2 col-wrap">
+<a href="aktuelles/" title="Aktuelles">Aktuelles</a><a href="aktuelles/ausschreibungen/stipendien-deutschland/" title="Ausschreibungen">Ausschreibungen</a><a href="aktuelles/ankuendigungen/ankuendigungen/" title="Ankündigungen">Ankündigungen</a><a href="aktuelles/alumni-treffen/" title="Alumni-Treffen">Alumni-Treffen</a><a href="aktuelles/mitmachaktionen/" title="Mitmachaktionen">Mitmachaktionen</a>
+</div>
+<div class="col-lg-2 col-wrap">
+<a href="mitglieder/" title="Community">Community</a><a href="http://www.alumniportal-deutschland.org/community.alumniportal-deutschland.org/" title="Zugang über die Webseite">Zugang über die Webseite</a><a href="http://https://apps.apple.com/us/app/graduway-community/id1457549791" title="App für Apple">App für Apple</a><a href="http://https://play.google.com/store/apps/details?id=com.gradway.daadnetwork" title="App für Android">App für Android</a>
+<div class="footer-second-nav">
+</div>
+</div>
+<div class="col-lg-2 col-wrap">
+<a href="ueber-uns/" title="Über Uns">Über Uns</a><a href="ueber-uns/partner/" title="Partner">Partner</a><a href="services/datenschutz-nutzungsbedingungen/" title="Datenschutz &amp; Nutzungsbedingungen">Datenschutz &amp; Nutzungsbedingungen</a><a href="services/verhaltenskodex/" title="Verhaltenskodex">Verhaltenskodex</a><a href="services/kontakt/" title="Kontakt">Kontakt</a><a href="services/impressum/" title="Impressum">Impressum</a>
+</div>
+<div class="col-lg-2 col-wrap">
+<a href="services/newsletter/" title="Dienste">Dienste</a><a href="services/newsletter/" title="Newsletter">Newsletter</a><a href="services/hilfe-faq/" title="Hilfe &amp; FAQ">Hilfe &amp; FAQ</a><a href="services/sitemap/" title="Sitemap">Sitemap</a>
+</div>
+</nav>
+<div class="footer-partner">
+<div class="row">
+<div class="col-md-6 col-lg-3">
+<a href="http://www.humboldt-foundation.de/web/start.html" target="_blank" title="Alexander von Humboldt-Stiftung/Foundation">
+<img alt="Alexander von Humboldt-Stiftung/Foundation" src="/assets/Resources/Public/Images/von-humboldt_logo_de.png"/>
+</a>
+</div>
+<div class="col-md-6 col-lg-3">
+<a href="http://www.daad.de/" target="_blank" title="Deutscher Akademischer Austauschdienst e.V.">
+<img alt="Deutscher Akademischer Austauschdienst e.V." src="/assets/Resources/Public/Images/daad_logo_de.png"/>
+</a>
+</div>
+<div class="col-md-6 col-lg-3">
+<a href="http://www.goethe.de/" target="_blank" title="Goethe-Institut">
+<img alt="Goethe-Institut" src="/assets/Resources/Public/Images/goethe_logo_de.png"/>
+</a>
+</div>
+<div class="col-md-6 col-lg-3">
+<a href="http://www.auswaertiges-amt.de/" target="_blank" title="Auswärtiges Amt">
+<img alt="Auswärtiges Amt" src="/assets/Resources/Public/Images/auswaertiges_amt_logo_de.png"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="js-cookie cookie-info" id="ppw-cookie-info" style="display:none;">
+<div class="container">
+<p>
+      
+        
+          Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer <a href="services/datenschutz-nutzungsbedingungen/" target="_self">Datenschutzerklärung.</a> *
+        
+      
+    </p>
+<button class="primary-bt" id="ppw-cookie-set">Ich stimme zu</button>
+</div>
+</div>
+<div class="overlay" id="js-overlay"></div>
+<!-- Copyright (c) 2000-2012 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- BEGIN etracker Tracklet 3.0 -->
+<script type="text/javascript">document.write(String.fromCharCode(60)+"script type=\"text/javascript\" src=\"http"+("https:"==document.location.protocol?"s":"")+"://code.etracker.com/t.js?et=vU3uKg\">"+String.fromCharCode(60)+"/script>");</script>
+<!-- etracker PARAMETER 3.0 -->
+<script type="text/javascript">
+
+var et_url = "https%3A%2F%2Fwww.alumniportal-deutschland.org%2Fstudium-weiterbildung%2Fstudium-ausbildung%2Fhochschulbildung-tunesien-beate-schindler-kovats%2F";
+var et_pagename = "%5Bde%5D%20Startseite%20%3E%20Themen%20%26%20Projekte%20%3E%20Studium%20%26%20Weiterbildung%20%3E%20Studium%20%26%20Ausbildung%20%3E%20Hochschulbildung%20in%20Tunesien%20%20407";
+var et_areas = "Portal%2FThemen%20%26%20Projekte%2FStudium%20%26%20Weiterbildung%2FStudium%20%26%20Ausbildung%2FHochschulbildung%20in%20Tunesien";
+var et_se = "9";
+var et_et = "vU3uKg";
+
+</script>
+<!-- etracker PARAMETER END -->
+<script type="text/javascript">_etc();</script>
+<noscript><p><a href="http://code.etracker.com"><img alt="" src="https://code.etracker.com/nscnt.php?et=vU3uKg" style="border:0px;"/></a></p></noscript>
+<!-- etracker CODE NOSCRIPT 3.0 -->
+<noscript>
+<p><a href="http://code.etracker.com/app?et=vU3uKg">
+<img alt="" src="https://code.etracker.com/nscnt.php?et=vU3uKg&amp;et_url=https%3A%2F%2Fwww.alumniportal-deutschland.org%2Fstudium-weiterbildung%2Fstudium-ausbildung%2Fhochschulbildung-tunesien-beate-schindler-kovats%2F&amp;et_pagename=%5Bde%5D%20Startseite%20%3E%20Themen%20%26%20Projekte%20%3E%20Studium%20%26%20Weiterbildung%20%3E%20Studium%20%26%20Ausbildung%20%3E%20Hochschulbildung%20in%20Tunesien%20%20407&amp;et_areas=Portal%2FThemen%20%26%20Projekte%2FStudium%20%26%20Weiterbildung%2FStudium%20%26%20Ausbildung%2FHochschulbildung%20in%20Tunesien&amp;et_se=9" style="border:0px;"/>
+</a></p>
+</noscript>
+<!-- etracker CODE NOSCRIPT END -->
+<!-- etracker CODE END -->
+<script src="typo3temp/compressor/merged-0ef2a452355ed317ae30139175ca76e1-c505e8c2461535aff121292ace395c0b.js?1590744872" type="text/javascript"></script>
+<script src="typo3temp/compressor/merged-274ff9ecee577754ec8cda4fb4488cee-fe5a8b94331c20eb84258e73a63254a6.js?1590737296" type="text/javascript"></script>
+<script src="assets/Resources/Public/JavaScript/slick.min.js" type="text/javascript"></script> <script src="assets/Resources/Public/JavaScript/slick.min.js" type="text/javascript"></script>
+</body></html>

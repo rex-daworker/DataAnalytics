@@ -1,0 +1,1894 @@
+<!DOCTYPE HTML>
+<html data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"red"}' dir="ltr" lang="de-de">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<base href="https://www.brettspiel-news.de/"/>
+<meta content="Brettspiel, Kartenspiel, Analoge Spiele, Spiele kaufen," name="keywords"/>
+<meta content="www.brettspiel-news.de 2019" name="rights"/>
+<meta content="Super User" name="author"/>
+<meta content="Das Online-Magazin zum Thema, Brettspiele, analoge Spiele, Kartenspiele und digitale Spiele." name="description"/>
+<meta content="Joomla! - Open Source Content Management" name="generator"/>
+<title>Brettspiel-News.de</title>
+<link href="https://www.brettspiel-news.de/index.php/suchen?id=2812&amp;format=opensearch" rel="search" title="Suchen Brettspiel-News.de" type="application/opensearchdescription+xml"/>
+<link href="/templates/jp-power/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="https://www.brettspiel-news.de/modules/mod_responsive_grid_for_articles/assets/css/style.css?v=3.4.3" rel="stylesheet" type="text/css"/>
+<link href="https://www.brettspiel-news.de/modules/mod_responsive_grid_for_articles/assets/fancybox/jquery.fancybox.css?v=2.1.3" rel="stylesheet" type="text/css"/>
+<link href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css"/>
+<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css"/>
+<link href="/media/template/raxo-prime-650c0b02.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.brettspiel-news.de/modules/mod_datetime/tmpl/default.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+@media (min-width:1200px) {
+					 	#regridart-227.mix-grid .mix, .gap {
+							width: 31.3333333333%;
+							max-width: 31.3333333333%;
+						}
+					 }@media (min-width:980px) and (max-width:1199px) {
+					 	#regridart-227.mix-grid .mix, .gap {
+							width: 31.3333333333%;
+							max-width: 31.3333333333%;
+						}
+					 }@media (min-width:768px) and (max-width:979px) {
+					 	#regridart-227.mix-grid .mix, .gap {
+							width: 48%;
+							max-width: 48%;
+						}
+					 }@media (min-width:480px) and (max-width:767px) {
+					 	#regridart-227.mix-grid .mix, .gap {
+							width: 98%;
+							max-width: 98%;
+						}
+					 }@media (max-width:479px) {
+					 	#regridart-227.mix-grid .mix, .gap {
+							width: 98%;
+							max-width: 98%;
+						}
+					 }#regridart-227.regridart.mix-list .upper-mix {
+	width: 180px;
+}#regridart-227.regridart .upper-mix {
+			border: 1px solid #20228a;			
+		}
+		#regridart-227.regridart .upper-mix {
+			border-radius: 5px;			
+		}
+		
+	</style>
+<script class="joomla-script-options new" type="application/json">{"csrf.token":"46be5b0623d6037e12a2834a9db1fd2e","system.paths":{"root":"","base":""},"system.keepalive":{"interval":840000,"uri":"\/index.php\/component\/ajax\/?format=json"}}</script>
+<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+<script src="/media/template/core-77e8e0b1.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="/media/template/polyfill.event-2c667d7e.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script><![endif]-->
+<script src="/media/template/keepalive-431166bc.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script>
+<script src="/media/template/jquery.min-1fa75bfb.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script>
+<script src="/media/template/jquery-noconflict-909eab70.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script>
+<script src="/media/template/jquery-migrate.min-f6f57327.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script>
+<script src="/media/template/bootstrap.min-c81bbe99.js?078e8b88113d2a286aa638a3bb7eff78" type="text/javascript"></script>
+<script type="text/javascript">
+(function($) {
+		$(function(){
+		
+			////////////////////////
+			// Create Filters Object
+			////////////////////////
+			
+			var buttonFilter227 = {
+	  
+				// Declare any variables we will need as properties of the object
+				$filters: null,
+				$reset: null,
+				groups: [],
+				outputArray: [],
+				outputString: "",
+				
+				// The "init" method will run on document ready and cache any jQuery objects we will need.
+				init: function()
+				{
+					var self = this; 
+					
+					self.$filters = jQuery("#Filters227");
+					self.$reset = jQuery("#reset-rgrid-227");
+					self.$container = jQuery("#regridart-227");
+					
+					self.$filters.find(".filters-list").each(function(){
+					  self.groups.push({
+						$buttons: jQuery(this).find(".filter"),
+						active: ""
+					  });
+					});
+					
+					self.bindHandlers();
+				},
+				
+				// The "bindHandlers" method will listen for whenever a button is clicked. 
+				bindHandlers: function()
+				{
+				var self = this;
+				
+					// Handle filter clicks
+					self.$filters.on("click", ".filter", function(e)
+					{
+					  e.preventDefault();
+					  
+					  var $button = jQuery(this);
+					  
+						// Add hash to url
+						var $data_filter_raw = $button.attr("data-filter");
+						if ($data_filter_raw != "all")
+						{
+							var $data_filter = $data_filter_raw.substr(1);
+						}
+						else
+						{
+							var $data_filter = $data_filter_raw;
+						}
+						window.location.hash = $data_filter;
+					  
+					  // If the button is active, remove the active class, else make active and deactivate others.
+					  
+					  if (!$button.hasClass("active"))
+					  {
+						$button.addClass("active").siblings(".filter").removeClass("active");
+					  }
+					  
+					  self.parseFilters();
+					});
+				
+					// Handle reset click
+					self.$reset.on("click", function(e)
+					{
+					  e.preventDefault();
+					  
+					  self.$filters.find(".filter").removeClass("active");
+					  self.$filters.find(".filter:first-child").addClass("active");
+					  
+					  window.location.hash = "all";
+					  self.parseFilters();
+					});
+				},
+				
+				// The parseFilters method checks which filters are active in each group:
+				parseFilters: function()
+				{
+					var self = this;
+					
+					// loop through each filter group and grap the active filter from each one.
+					
+					for(var i = 0, group; group = self.groups[i]; i++){
+					  group.active = group.$buttons.filter(".active").attr("data-filter") || "";
+					  if (group.active == "all")
+					  {
+						  group.active = "";
+					  }
+					}
+					
+					self.concatenate();
+				},
+				
+				// The "concatenate" method will crawl through each group, concatenating filters as desired:
+				concatenate: function()
+				{
+					var self = this;
+					
+					self.outputString = ""; // Reset output string
+					
+					for(var i = 0, group; group = self.groups[i]; i++){
+					  self.outputString += group.active;
+					}
+					
+					// If the output string is empty, show all rather than none:
+					
+					!self.outputString.length && (self.outputString = "all"); 
+					
+					// We can check the console here to take a look at the filter string that is produced
+					//console.log(self.outputString); 
+					
+					// Send the output string to MixItUp via the "filter" method:
+					if(self.$container.mixItUp("isLoaded")){
+						self.$container.mixItUp("filter", self.outputString);
+					}
+				}
+				
+			};
+		
+			////////////////////////
+			// Create Sortings Object
+			////////////////////////
+			
+			var sortingObject227 = {
+	  
+				// Declare any variables we will need as properties of the object
+				$sortings: null,
+				groups: [],
+				outputArray: [],
+				outputString: "",
+				
+				// The "init" method will run on document ready and cache any jQuery objects we will need.
+				init: function()
+				{
+					var self = this; 
+					
+					self.$sortings = jQuery("#Sorts227");
+					self.$container = jQuery("#regridart-227");
+					
+					self.$sortings.find(".sort").each(function(){
+					  self.groups.push({
+						$sortings: jQuery(this),
+						active: ""
+					  });
+					});
+					
+					self.bindHandlers();
+				},
+				
+				// The "bindHandlers" method will listen for whenever a button is clicked. 
+				bindHandlers: function()
+				{
+				var self = this;
+				
+					// Handle sorting clicks
+					self.$sortings.on("click", ".sort", function(e)
+					{
+					  e.preventDefault();
+					  
+					  var $sort = jQuery(this);
+					  
+					  // If the button is active, remove the active class, else make active and deactivate others.
+					  
+					  if (!$sort.hasClass("active"))
+					  {
+						$sort.addClass("active").siblings(".sort").removeClass("active");
+					  }
+					  
+					  self.parseSortings();
+					});		
+				},
+				
+				// The parseSortings method checks which sortings are active:
+				parseSortings: function()
+				{
+					var self = this;
+					
+					// loop through each sorting group and grap the active sorting from each one.
+					
+					for(var i = 0, group; group = self.groups[i]; i++){
+					  group.active = group.$sortings.filter(".active").attr("data-sort") || "";
+					}
+					
+					self.outputString = ""; // Reset output string
+					
+					for(var i = 0, group; group = self.groups[i]; i++){
+					  self.outputString += group.active;
+					}
+					
+					// We can check the console here to take a look at the sorting string that is produced
+					//console.log(self.outputString); 
+					
+					// Send the output string to MixItUp via the "filter" method:
+					if(self.$container.mixItUp("isLoaded")){
+						self.$container.mixItUp("sort", self.outputString);
+					}
+				}
+			};
+			
+			//////////////////////
+			// Instantiate mixitup
+			//////////////////////
+			
+			buttonFilter227.init();
+			
+			sortingObject227.init();
+			
+			// Get hash from url
+			var tempfilter = window.location.hash ? '.'+(window.location.hash).replace("#","") : "all";
+			
+			if (tempfilter.substring(0, 5) == ".cat-" || tempfilter.substring(0, 5) == ".tag-") {
+				var filterOnLoad = tempfilter;
+			}
+			else
+			{
+				var filterOnLoad = "all";	
+			}
+			
+			jQuery("#regridart-227").mixItUp(
+			{
+				animation: {
+					enable: true,
+					effects: "fade ",
+					duration: 500,
+					easing: "cubic-bezier(0.47, 0, 0.745, 0.715)",
+					perspectiveDistance: "3000px",
+					perspectiveOrigin: "50% 50%",
+					queue: true,
+					queueLimit: 20,
+					animateChangeLayout: false,
+					animateResizeContainer: true,
+					animateResizeTargets: true,
+					staggerSequence: null,
+					reverseOut: false
+				},
+				callbacks: {
+					onMixLoad: null,
+					onMixStart: null,
+					onMixEnd: null,
+					onMixFail: function(){
+        				//alert("No items were found matching the selected filters.");
+					},
+					onMixBusy: null
+				},
+				controls: {
+					enable: false,
+					live: false,
+					toggleFilterButtons: false,
+					toggleLogic: "or",
+					activeClass: "active"
+				},
+				layout: {
+					display: "inline-block",
+					containerClass: "mix-grid",
+					containerClassFail: "fail",
+				},
+				load: {
+					filter: filterOnLoad,
+					sort: "default:asc"
+				},
+				selectors: {
+					target: ".mix",
+					filter: ".filter",
+					sort: ".sort"
+				}
+			});	
+			
+			///////////////////////////////////////////////////
+			// Bind layout buttons to toList and toGrid methods
+			///////////////////////////////////////////////////
+			
+			jQuery("#ToList227").on("click",function(){
+				jQuery(".button227").removeClass("active");
+				jQuery(this).addClass("active");
+				jQuery("#regridart-227").mixItUp("changeLayout", {
+					containerClass: "mix-list"
+				}, function(state){
+					// callback function
+				});
+			});
+			
+			jQuery("#ToGrid227").on("click",function(){
+				jQuery(".button227").removeClass("active");
+				jQuery(this).addClass("active");
+				jQuery("#regridart-227").mixItUp("changeLayout", {
+					containerClass: "mix-grid"
+				}, function(state){
+					// callback function
+				});
+			}); 
+			
+			/////////////////			
+			// Dropdown lists
+			/////////////////
+			
+			jQuery(".cat-label227").on("click",function(){
+				jQuery(".mix-tags227").removeClass("expanded");
+				jQuery(".mix-cats227").toggleClass("expanded");
+			}); 
+			jQuery(".tag-label227").on("click",function(){
+				jQuery(".mix-cats227").removeClass("expanded");
+				jQuery(".mix-tags227").toggleClass("expanded");
+			}); 	
+			
+			//////////
+			// Buttons
+			//////////
+			
+			jQuery(".button227").on("click",function(){	  	
+				jQuery(".drop_down227").removeClass("expanded");
+			}); 
+			
+			/////////////////////////////
+			// Active button on page load
+			/////////////////////////////
+			
+			if (filterOnLoad !== "all")
+			{
+				jQuery(".filter[data-filter='"+filterOnLoad+"']").addClass("active").siblings(".filter").removeClass("active");
+			}
+													
+			jQuery(document).mouseup(function (e)
+			{
+				var container_cats = jQuery(".mix-cats227");
+				var container_tags = jQuery(".mix-tags227");
+			
+				if ((!container_cats.is(e.target) && container_cats.has(e.target).length === 0) && (!container_tags.is(e.target) && container_tags.has(e.target).length === 0))
+				{
+					jQuery(".mix-cats227").removeClass("expanded");
+					jQuery(".mix-tags227").removeClass("expanded");
+				}
+			});		
+	
+		})
+	})(jQuery);JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+	</script>
+<script src="https://www.brettspiel-news.de/modules/mod_responsive_grid_for_articles/assets/js/jquery.mngrid.min.js" type="text/javascript"></script>
+<script src="https://www.brettspiel-news.de/modules/mod_responsive_grid_for_articles/assets/fancybox/jquery.fancybox.pack.js?v=2.1.3" type="text/javascript"></script>
+<link href="/templates/jp-power/apple_touch_icon.png" rel="apple-touch-icon-precomposed"/>
+<link href="/media/template/bootstrap-c74d59dd.css" rel="stylesheet"/>
+<link href="/media/template/theme-49737e2d.css" rel="stylesheet"/>
+<link href="css:custom.css" rel="stylesheet"/>
+<script src="/media/template/theme-2c0c5bab.js"></script>
+<style type="text/css">
+#bottom-c{ background-image:url(https://www.brettspiel-news.de/)}
+</style>
+</head>
+<body class="tm-sidebar-b-right tm-sidebars-1 tm-isblog">
+<div class="logobar">
+<!-- TOP Outer -->
+<div class="toolbar-outer uk-clearfix">
+<div class="uk-container uk-container-center no-space">
+<div class="tm-toolbar uk-clearfix uk-hidden-small">
+<div class="uk-float-left"><div class="uk-panel">
+<div class="uk-margin-top uk-margin-bottom"><a class="uk-icon-button uk-icon-twitter" data-mce-empty="1" href="https://twitter.com/brettspiel_news" rel="noopener" target="_blank"> </a> <a class="uk-icon-button uk-icon-instagram" data-mce-empty="1" href="https://www.instagram.com/brettspielnewsde/?hl=de" rel="noopener" target="_blank"> </a> <a class="uk-icon-button uk-icon-facebook" data-mce-empty="1" href="https://www.facebook.com/brettspielnewsDE/" rel="noopener" target="_blank"> </a></div></div>
+<div class="uk-panel">
+<span class="mod_datetime"><time datetime="2020-11-11T19:21:36+01:00">
+<span id="mod_datetime_visitors_time_254"></span>
+<script type="text/javascript">
+			<!--
+			zone=0
+			isitlocal=true;
+			ampm="";
+			
+			function mod_datetime_visitors_time_254()
+			{
+				now=new Date();
+				ofst=now.getTimezoneOffset()/60; 
+				
+				
+				now.setUTCHours(now.getUTCHours()+Math.abs(ofst), now.getUTCMinutes());
+				timezone = now.getTimezoneOffset();
+				secs=now.getUTCSeconds();
+				sec=-1.57+Math.PI*secs/30;
+				mins=now.getUTCMinutes();
+				min=-1.57+Math.PI*mins/30;
+				hr=(isitlocal)? now.getUTCHours():(now.getUTCHours() + parseInt(ofst)) + parseInt(zone);
+				hrs=-1.575+Math.PI*hr/6+Math.PI*parseInt(now.getMinutes())/360;
+				if (hr < 0) hr+=24;
+				if (hr > 23) hr-=24;
+				
+				ampm = (hr > 11)?"":"";
+				
+				statusampm = ampm;
+				
+				hr2 = hr;
+				if (hr2 == 0) hr2=24;//24 or 12
+				(hr2 < 13)?hr2:hr2 %= 24;// 24 or 12
+				if (hr2<10) hr2="0"+hr2
+var finaltime=hr2+":"+((mins < 10)?"0"+mins:mins)+":"+((secs < 10)?"0"+secs:secs)+" "+statusampm;
+	
+				document.getElementById("mod_datetime_visitors_time_254").innerHTML=finaltime
+				setTimeout("mod_datetime_visitors_time_254()",1000)
+			}
+			mod_datetime_visitors_time_254()
+			//-->    
+		</script></time></span>
+</div></div>
+<div class="uk-navbar-flip">
+<div class="uk-hidden-small">
+<form action="/index.php" class="uk-search" data-uk-search="{'source': '/index.php/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Suchergebnis', 'msgMoreResults': 'Weitere Ergebnisse', 'msgNoResults': 'Nichts gefunden', flipDropdown: 1}" id="search-215-5fac2bb055e80" method="post">
+<input class="uk-search-field" name="searchword" placeholder="suchen..." type="text"/>
+<input name="task" type="hidden" value="search"/>
+<input name="option" type="hidden" value="com_search"/>
+<input name="Itemid" type="hidden" value="258"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-container uk-container-center no-space">
+<div class="logo uk-hidden-small uk-text-center">
+<a class="tm-logo" href="https://www.brettspiel-news.de">
+<p><img alt="" src="/images/LOGO_BSN.png"/></p></a>
+</div>
+</div>
+<div data-uk-sticky="{top:-300, animation: 'uk-animation-slide-top'}" id="menu-outer">
+<nav class="tm-navbar uk-navbar">
+<div class="uk-container uk-container-center no-space">
+<ul class="uk-navbar-nav uk-hidden-small"><li class="uk-active"><a href="/index.php"><i class="uk-icon-home"></i> Startseite</a></li><li aria-expanded="false" aria-haspopup="true" class="uk-parent" data-uk-dropdown="{'preventflip':'y'}"><a href="/index.php/premium"><i class="uk-icon-plus-square"></i> PREMIUM</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/premium/exklusive-artikel-vorab-lesen"><i class="uk-icon-check"></i> Exklusive Artikel vorab lesen</a></li><li><a href="/index.php/premium/hier-anmelden"><i class="uk-icon-sign-in"></i> Hier Anmelden</a></li><li><a href="https://steadyhq.com/de/brettspiel-news" onclick="window.open(this.href, 'targetWindow', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,'); return false;"><i class="uk-icon-bullhorn"></i> Unterstütze uns</a></li></ul></div></div></div></li><li><a href="/index.php/nachrichten-uebersicht">Nachrichten</a></li><li><a href="/index.php/brettspieltest-uebersicht">Brettspiel-Test </a></li><li><a href="/index.php/magazin-fuer-brettspieler-start">Magazin</a></li><li><a href="https://shop.brettspiel-news.de/"><i class="uk-icon-credit-card"></i> SHOP</a></li><li aria-expanded="false" aria-haspopup="true" class="uk-parent" data-uk-dropdown="{'preventflip':'y'}"><a href="/index.php/charts">Charts</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/charts/kickstarter-charts-brettspiele-heute"><i class="uk-icon-caret-square-o-right"></i> Kickstarter Charts Brettspiele heute</a></li><li><a href="/index.php/charts/kickstarter-charts-brettspiele-gestern"><i class="uk-icon-caret-square-o-right"></i> Kickstarter Charts Brettspiele gestern</a></li><li><a href="/index.php/charts/brandneu-zu-kaufen"><i class="uk-icon-caret-square-o-right"></i> BRANDNEU</a></li></ul></div></div></div></li><li><a href="/index.php/unsere-redaktion">Das Team</a></li><li><a href="/index.php/suchen">Suchen</a></li></ul>
+<a class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas="" href="#offcanvas"></a>
+<div class="uk-navbar-content uk-navbar-center uk-visible-small">
+<a class="tm-logo-small" href="https://www.brettspiel-news.de">
+<p><img alt="LOGO BSN small" src="/images/LOGO_BSN_small.png"/></p></a>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="top-b-outer uk-cover-background" id="top-b">
+<div class="uk-container uk-container-center">
+<section class="tm-top-b uk-grid uk-grid-divider" data-uk-grid-margin="" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}"><div class="uk-width-1-1">
+<div class="uk-panel" data-uk-scrollspy="{cls:''}">
+<div class="allmode-box raxo-prime">
+<div class="raxo-wrap">
+<div class="raxo-top"><div class="raxo-wrap">
+<article class="raxo-item raxo-category-id9 raxo-featured">
+<a class="raxo-link" href="/index.php/nachrichten/6506-red-outpost-bilder-zum-spiel" title="RED OUTPOST // Bilder zum Spiel"></a>
+<div class="raxo-image"><a href="/index.php/nachrichten/6506-red-outpost-bilder-zum-spiel"><img alt="RED OUTPOST // Bilder zum Spiel" src="/images/raxo_thumbs/amp/tb-w500-h400-fit-int-20e746daf237f3df14fbca1d745a1fae.jpg" title="RED OUTPOST // Bilder zum Spiel"/></a></div>
+<div class="raxo-overlay">
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/index.php/nachrichten/6506-red-outpost-bilder-zum-spiel">RED OUTPOST // Bilder zum Spiel</a></h3>
+</div>
+<div class="raxo-meta">
+<span class="raxo-date">November 11, 2020</span>
+<span class="raxo-hits">185</span>
+</div>
+</div>
+</article>
+<article class="raxo-item raxo-category-id8 raxo-featured">
+<a class="raxo-link" href="/index.php/brettspieltest/6518-test-5-minute-mystery-mastermind-edition" title="TEST // 5 MINUTE MYSTERY - MASTERMIND EDITION"></a>
+<div class="raxo-image"><a href="/index.php/brettspieltest/6518-test-5-minute-mystery-mastermind-edition"><img alt="TEST // 5 MINUTE MYSTERY - MASTERMIND EDITION" src="/images/raxo_thumbs/amp/tb-w500-h400-fit-int-c9d4221ed6a0b9c65e7a8154518fd651.jpg" title="TEST // 5 MINUTE MYSTERY - MASTERMIND EDITION"/></a></div>
+<div class="raxo-overlay">
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/index.php/brettspieltest/6518-test-5-minute-mystery-mastermind-edition">TEST // 5 MINUTE MYSTERY - MASTERMIND…</a></h3>
+</div>
+<div class="raxo-meta">
+<span class="raxo-date">November 11, 2020</span>
+<span class="raxo-hits">419</span>
+</div>
+</div>
+</article>
+<article class="raxo-item raxo-category-id9 raxo-featured">
+<a class="raxo-link" href="/index.php/nachrichten/6534-project-l-von-asmodee-auf-deutsch" title="PROJECT L // von Asmodee auf deutsch"></a>
+<div class="raxo-image"><a href="/index.php/nachrichten/6534-project-l-von-asmodee-auf-deutsch"><img alt="PROJECT L // von Asmodee auf deutsch" src="/images/raxo_thumbs/amp/tb-w500-h400-fit-int-3f93d320f293b4c97e02f8a1787c6d40.jpg" title="PROJECT L // von Asmodee auf deutsch"/></a></div>
+<div class="raxo-overlay">
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/index.php/nachrichten/6534-project-l-von-asmodee-auf-deutsch">PROJECT L // von Asmodee auf deutsch</a></h3>
+</div>
+<div class="raxo-meta">
+<span class="raxo-date">November 11, 2020</span>
+<span class="raxo-hits">614</span>
+</div>
+</div>
+</article>
+<article class="raxo-item raxo-category-id9 raxo-featured">
+<a class="raxo-link" href="/index.php/nachrichten/6450-tidal-blades-bilder-der-ks-version" title="TIDAL BLADES // Bilder der KS-Version"></a>
+<div class="raxo-image"><a href="/index.php/nachrichten/6450-tidal-blades-bilder-der-ks-version"><img alt="TIDAL BLADES // Bilder der KS-Version" src="/images/raxo_thumbs/amp/tb-w500-h400-fit-int-6e0af919498900f57146da9f3ea62aa5.jpg" title="TIDAL BLADES // Bilder der KS-Version"/></a></div>
+<div class="raxo-overlay">
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/index.php/nachrichten/6450-tidal-blades-bilder-der-ks-version">TIDAL BLADES // Bilder der KS-Version</a></h3>
+</div>
+<div class="raxo-meta">
+<span class="raxo-date">November 11, 2020</span>
+<span class="raxo-hits">758</span>
+</div>
+</div>
+</article>
+<article class="raxo-item raxo-category-id9 raxo-featured">
+<a class="raxo-link" href="/index.php/nachrichten/6535-kickstarter-neue-projekte-kw-46-2020" title="KICKSTARTER // Neue Projekte KW 46-2020"></a>
+<div class="raxo-image"><a href="/index.php/nachrichten/6535-kickstarter-neue-projekte-kw-46-2020"><img alt="KICKSTARTER // Neue Projekte KW 46-2020" src="/images/raxo_thumbs/amp/tb-w500-h400-fit-int-2d3878dc55d67e03ed8ec35b4c607192.jpg" title="KICKSTARTER // Neue Projekte KW 46-2020"/></a></div>
+<div class="raxo-overlay">
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/index.php/nachrichten/6535-kickstarter-neue-projekte-kw-46-2020">KICKSTARTER // Neue Projekte KW 46-2020</a></h3>
+</div>
+<div class="raxo-meta">
+<span class="raxo-date">November 10, 2020</span>
+<span class="raxo-hits">1049</span>
+</div>
+</div>
+</article>
+<article class="raxo-item raxo-category-id9 raxo-featured">
+<a class="raxo-link" href="/index.php/nachrichten/6201-sakura-bilder-vom-spiel" title="SAKURA // Bilder vom Spiel"></a>
+<div class="raxo-image"><a href="/index.php/nachrichten/6201-sakura-bilder-vom-spiel"><img alt="SAKURA // Bilder vom Spiel" src="/images/raxo_thumbs/amp/tb-w500-h400-fit-int-b0d3b715e5d7cf388157250db54f229a.jpg" title="SAKURA // Bilder vom Spiel"/></a></div>
+<div class="raxo-overlay">
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/index.php/nachrichten/6201-sakura-bilder-vom-spiel">SAKURA // Bilder vom Spiel</a></h3>
+</div>
+<div class="raxo-meta">
+<span class="raxo-date">November 10, 2020</span>
+<span class="raxo-hits">425</span>
+</div>
+</div>
+</article>
+</div></div>
+</div>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+<div class="main-outer" id="main-content">
+<div class="uk-container uk-container-center">
+<div class="tm-middle uk-grid" data-uk-grid-margin="" data-uk-grid-match="">
+<div class="tm-main uk-width-medium-4-5">
+<section class="tm-main-top uk-grid" data-uk-grid-margin="" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}">
+<div class="uk-width-1-1 uk-hidden-medium uk-hidden-large"><div class="uk-panel uk-hidden-large uk-hidden-medium" data-uk-scrollspy="{cls:'uk-animation-fade'}"><div class="bannergroup">
+<div class="banneritem">
+<a href="/index.php/component/banners/click/20" rel="noopener noreferrer" target="_blank" title="SHOP-Banner Mobil">
+<img alt="SHOP-Banner Mobil" src="https://www.brettspiel-news.de/images/Spiele/2020/banner_kurz_Overlay_shop.jpg"/>
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></div>
+<div class="uk-width-1-1"><div class="uk-panel" data-uk-scrollspy="{cls:'uk-animation-fade'}"><div class="bannergroup">
+<div class="banneritem">
+<a href="https://www.spiele-offensive.de/referrer.php?p=8&amp;pid=448&amp;bid=143" target="_blank"> <img alt="Brettspiele günstig kaufen" src="https://www.spiele-offensive.de/gfxa/wbg/728x90_2.jpg"/></a> <div class="clr"></div>
+</div>
+</div>
+</div></div>
+</section>
+<main class="tm-content">
+<div id="system-message-container">
+</div>
+<article class="uk-article">
+<!-- START: Modules Anywhere -->
+<!-- Controls -->
+<div class="mix-controls justify">
+<!-- List / Grid buttons -->
+<div class="mix-sorts" id="Sorts227">
+<!-- Toggle Layout type -->
+<div class="ToGrid button button227 active" id="ToGrid227">
+<i class="toggle_layout"></i>
+</div>
+<div class="ToList button button227 " id="ToList227">
+<i class="toggle_layout"></i>
+</div>
+<!-- Title sorting -->
+<div class="sort button button227" data-sort="title:desc">
+<span>Titel</span><i class="fa fa-sort-alpha-desc"></i>
+</div>
+<!-- Date sorting -->
+<div class="sort button button227" data-sort="date:desc">
+<span>Datum</span><i class="fa fa-sort-numeric-desc"></i>
+</div>
+<!-- Author sorting -->
+<!-- Hits sorting -->
+<div class="sort button button227" data-sort="hits:desc">
+<span>Aufrufe</span><i class="fa fa-sort-numeric-desc"></i>
+</div>
+</div>
+<!-- Filters -->
+<div class="mix-filters" id="Filters227">
+<!-- Category Dropdown Filters -->
+<div class="drop_down drop_down227 mix-cats227">
+<div class="label cat-label227">
+<i class="fa fa-angle-down"></i>
+<div data-label="Nach Kategorie">Nach Kategorie</div>
+</div>
+<ul class="filters-list">
+<li class="filter active" data-filter="all">Alle Anschauen</li>
+<li class="filter" data-filter=".cat-Brettspielest">Brettspielest</li>
+<li class="filter" data-filter=".cat-Magazin">Magazin</li>
+<li class="filter" data-filter=".cat-Nachrichten">Nachrichten</li>
+</ul>
+</div>
+<!-- Tag Dropdown Filters -->
+<div class="drop_down drop_down227 mix-tags227">
+<div class="label tag-label227">
+<i class="fa fa-angle-down"></i>
+<div data-label="Nach Schlagwort">Nach Schlagwort</div>
+</div>
+<ul class="filters-list">
+<li class="filter active" data-filter="all">Alle Anschauen</li>
+<li class="filter" data-filter=".tag-1-4-Spieler">1-4 Spieler</li>
+<li class="filter" data-filter=".tag-1-5-Spieler">1-5 Spieler</li>
+<li class="filter" data-filter=".tag-1-7-Spieler">1-7 Spieler</li>
+<li class="filter" data-filter=".tag-120-180-Minuten">120-180 Minuten</li>
+<li class="filter" data-filter=".tag-15-Minuten">15 Minuten</li>
+<li class="filter" data-filter=".tag-15-45-Minuten">15-45 Minuten</li>
+<li class="filter" data-filter=".tag-2-Spieler">2 Spieler</li>
+<li class="filter" data-filter=".tag-2-4-Spieler">2-4 Spieler</li>
+<li class="filter" data-filter=".tag-2-5-Spieler">2-5 Spieler</li>
+<li class="filter" data-filter=".tag-2-6-Spieler">2-6 Spieler</li>
+<li class="filter" data-filter=".tag-3-13-Spieler">3-13 Spieler</li>
+<li class="filter" data-filter=".tag-3-7-Spieler">3-7 Spieler</li>
+<li class="filter" data-filter=".tag-30-120-Minuten">30-120 Minuten</li>
+<li class="filter" data-filter=".tag-30-45-Minuten">30-45 Minuten</li>
+<li class="filter" data-filter=".tag-4-9-Spieler">4-9 Spieler</li>
+<li class="filter" data-filter=".tag-45-100-Minuten">45-100 Minuten</li>
+<li class="filter" data-filter=".tag-45-120-Minuten">45-120 Minuten</li>
+<li class="filter" data-filter=".tag-60-Minuten">60 Minuten</li>
+<li class="filter" data-filter=".tag-60-75-Minuten">60-75 Minuten</li>
+<li class="filter" data-filter=".tag-60-90-Minuten">60-90 Minuten</li>
+<li class="filter" data-filter=".tag-75-150-Minuten">75-150 Minuten</li>
+<li class="filter" data-filter=".tag-90-Minuten">90 Minuten</li>
+<li class="filter" data-filter=".tag-Abenteuer">Abenteuer</li>
+<li class="filter" data-filter=".tag-Action-Selection">Action-Selection</li>
+<li class="filter" data-filter=".tag-Adventskalender">Adventskalender</li>
+<li class="filter" data-filter=".tag-Aktionen-programmieren">Aktionen programmieren</li>
+<li class="filter" data-filter=".tag-Angebot">Angebot</li>
+<li class="filter" data-filter=".tag-Auktion-Bieten">Auktion/Bieten</li>
+<li class="filter" data-filter=".tag-Branche">Branche</li>
+<li class="filter" data-filter=".tag-Crowdfunding">Crowdfunding</li>
+<li class="filter" data-filter=".tag-Deckbauspiel">Deckbauspiel</li>
+<li class="filter" data-filter=".tag-Detektiv">Detektiv</li>
+<li class="filter" data-filter=".tag-Engine-Builder">Engine Builder</li>
+<li class="filter" data-filter=".tag-Entdecken">Entdecken</li>
+<li class="filter" data-filter=".tag-Eurogame">Eurogame</li>
+<li class="filter" data-filter=".tag-Familienspiel">Familienspiel</li>
+<li class="filter" data-filter=".tag-Geheime-Ziele">Geheime Ziele</li>
+<li class="filter" data-filter=".tag-Gewinnspiel">Gewinnspiel</li>
+<li class="filter" data-filter=".tag-Handeln">Handeln</li>
+<li class="filter" data-filter=".tag-Historisch">Historisch</li>
+<li class="filter" data-filter=".tag-Kampagne">Kampagne</li>
+<li class="filter" data-filter=".tag-Kampfstrategie">Kampfstrategie</li>
+<li class="filter" data-filter=".tag-Kartenspiel">Kartenspiel</li>
+<li class="filter" data-filter=".tag-Kennerspiel">Kennerspiel</li>
+<li class="filter" data-filter=".tag-Kennerspiel-des-Jahres">Kennerspiel des Jahres</li>
+<li class="filter" data-filter=".tag-Kickstarter">Kickstarter</li>
+<li class="filter" data-filter=".tag-Kooperativ">Kooperativ</li>
+<li class="filter" data-filter=".tag-Kriegsspiel">Kriegsspiel</li>
+<li class="filter" data-filter=".tag-Kämpfen">Kämpfen</li>
+<li class="filter" data-filter=".tag-Messe">Messe</li>
+<li class="filter" data-filter=".tag-Miniaturen">Miniaturen</li>
+<li class="filter" data-filter=".tag-Mittelalter">Mittelalter</li>
+<li class="filter" data-filter=".tag-Partyspiel">Partyspiel</li>
+<li class="filter" data-filter=".tag-Pick-up-and-deliver">Pick up and deliver</li>
+<li class="filter" data-filter=".tag-Politik">Politik</li>
+<li class="filter" data-filter=".tag-Premium">Premium</li>
+<li class="filter" data-filter=".tag-Ressourcenmanagement">Ressourcenmanagement</li>
+<li class="filter" data-filter=".tag-Rollenspiel">Rollenspiel</li>
+<li class="filter" data-filter=".tag-SD20B">SD20B</li>
+<li class="filter" data-filter=".tag-Science-Fiction">Science Fiction</li>
+<li class="filter" data-filter=".tag-Semi-Kooperativ">Semi-Kooperativ</li>
+<li class="filter" data-filter=".tag-Set-sammeln">Set sammeln</li>
+<li class="filter" data-filter=".tag-Sets-erstellen">Sets erstellen</li>
+<li class="filter" data-filter=".tag-Simultanes-Spielen">Simultanes Spielen</li>
+<li class="filter" data-filter=".tag-Solospiel">Solospiel</li>
+<li class="filter" data-filter=".tag-Sport">Sport</li>
+<li class="filter" data-filter=".tag-Stragie">Stragie</li>
+<li class="filter" data-filter=".tag-Strategie">Strategie</li>
+<li class="filter" data-filter=".tag-TSD20">TSD20</li>
+<li class="filter" data-filter=".tag-Take-That">Take That!</li>
+<li class="filter" data-filter=".tag-Videospielumsetzung">Videospielumsetzung</li>
+<li class="filter" data-filter=".tag-Weltall">Weltall</li>
+<li class="filter" data-filter=".tag-Weltraum">Weltraum</li>
+<li class="filter" data-filter=".tag-Wettrennen">Wettrennen</li>
+<li class="filter" data-filter=".tag-Worker-Placement">Worker Placement</li>
+<li class="filter" data-filter=".tag-Workerplacement">Workerplacement</li>
+<li class="filter" data-filter=".tag-Würfelplatzierung">Würfelplatzierung</li>
+<li class="filter" data-filter=".tag-Würfelspiel">Würfelspiel</li>
+<li class="filter" data-filter=".tag-Zauberei">Zauberei</li>
+<li class="filter" data-filter=".tag-brandneu">brandneu</li>
+<li class="filter" data-filter=".tag-kreativ">kreativ</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Define column class -->
+<!-- Define empty li's -->
+<ul class="regridart mix-col-0 theme_minimal" id="regridart-227">
+<!-- Minimal Theme -->
+<li class="mix cat-Nachrichten tag-Videospielumsetzung tag-Semi-Kooperativ tag-Kickstarter tag-Rollenspiel tag-1-4-Spieler tag-Abenteuer" data-author="Daniel Krause" data-date="2020-11-10 09:49:11" data-hits="2134" data-title="horizon-zero-dawn-the-board-game-wurde-ausgeliefert">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6531-horizon-tero-dawn-the-board-game-wurde-ausgeliefert">
+<img alt="HORIZON ZERO DAWN: THE BOARD GAME // wurde ausgeliefert" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/horizon_zero_dawn_brettspiel.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/horizon_zero_dawn_brettspiel.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6531-horizon-tero-dawn-the-board-game-wurde-ausgeliefert">HORIZON ZERO DAWN: THE BOARD GAME // wurde ausgeliefert</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 10</p>
+<!-- Hits -->
+<p class="mix-hits">2134 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kennerspiel tag-2-5-Spieler" data-author="Daniel Krause" data-date="2020-11-09 23:00:01" data-hits="1414" data-title="nidavellir-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6492-nidavellir-bilder-vom-spiel">
+<img alt="NIDAVELLIR // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/n/nidavellir/nidavellir02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/n/nidavellir/nidavellir02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6492-nidavellir-bilder-vom-spiel">NIDAVELLIR // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 10</p>
+<!-- Hits -->
+<p class="mix-hits">1414 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Florian Horn " data-date="2020-11-09 23:00:00" data-hits="1574" data-title="my-bgg-app-self-tracking">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6526-my-bgg-app-self-tracking">
+<img alt="MY BGG APP // Self tracking" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/self_tracking.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/self_tracking.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6526-my-bgg-app-self-tracking">MY BGG APP // Self tracking</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 10</p>
+<!-- Hits -->
+<p class="mix-hits">1574 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-2-Spieler tag-Kartenspiel" data-author="Daniel Krause" data-date="2020-11-09 21:41:51" data-hits="916" data-title="7-wonders-duel-agora-erweiterung-angekndigt">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6528-7-wonders-duel-agora-erweiterung-angekuendigt">
+<img alt="7 WONDERS – DUEL // AGORA Erweiterung angekündigt" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/duel_agora.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/duel_agora.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6528-7-wonders-duel-agora-erweiterung-angekuendigt">7 WONDERS – DUEL // AGORA Erweiterung angekündigt</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 09</p>
+<!-- Hits -->
+<p class="mix-hits">916 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-Pick-up-and-deliver tag-60-Minuten tag-Wettrennen tag-2-4-Spieler" data-author="Deniz Jansen" data-date="2020-11-09 13:42:16" data-hits="1859" data-title="test-roundforest">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6519-test-roundforest">
+<img alt="TEST // ROUNDFOREST" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/r/roundforest/IMG_3885.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/r/roundforest/IMG_3885.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6519-test-roundforest">TEST // ROUNDFOREST</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 09</p>
+<!-- Hits -->
+<p class="mix-hits">1859 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-09 10:45:55" data-hits="1222" data-title="calcio-2021-neuheit-bei-ravensburger">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6527-calcio-2021-neuheit-bei-ravensburger">
+<img alt="CALCIO // 2021 Neuheit bei Ravensburger" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/calicio.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/calicio.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6527-calcio-2021-neuheit-bei-ravensburger">CALCIO // 2021 Neuheit bei Ravensburger</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 09</p>
+<!-- Hits -->
+<p class="mix-hits">1222 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-4-9-Spieler tag-Kennerspiel tag-120-180-Minuten tag-Science-Fiction tag-Strategie" data-author="Daniel Krause" data-date="2020-11-08 23:00:01" data-hits="942" data-title="siderische-konfluenz-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6491-siderische-konfluenz-bilder-vom-spiel">
+<img alt="SIDERISCHE KONFLUENZ // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/s/siderischekonfluenz/siderische_konfluenz02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/s/siderischekonfluenz/siderische_konfluenz02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6491-siderische-konfluenz-bilder-vom-spiel">SIDERISCHE KONFLUENZ // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 09</p>
+<!-- Hits -->
+<p class="mix-hits">942 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-08 23:00:00" data-hits="847" data-title="tinners-trail-neuauflage-startet-2021-auf-kickstarter">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6502-tinners-trail-neuauflage-startet-2021-auf-kickstarter">
+<img alt="TINNERS‘ TRAIL // Neuauflage startet 2021 auf Kickstarter" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/sdj2020/tinner_trails.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/sdj2020/tinner_trails.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6502-tinners-trail-neuauflage-startet-2021-auf-kickstarter">TINNERS‘ TRAIL // Neuauflage startet 2021 auf Kickstarter</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 09</p>
+<!-- Hits -->
+<p class="mix-hits">847 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-30-45-Minuten tag-Set-sammeln tag-Semi-Kooperativ tag-1-5-Spieler tag-Kartenspiel" data-author="Marisa &amp; Marco Kuhn" data-date="2020-11-08 13:20:05" data-hits="1511" data-title="test-pact">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6482-test-pact">
+<img alt="TEST // PACT" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/pact/IMG_3852.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/pact/IMG_3852.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6482-test-pact">TEST // PACT</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 08</p>
+<!-- Hits -->
+<p class="mix-hits">1511 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-45-120-Minuten tag-Politik tag-1-5-Spieler" data-author="Daniel Krause" data-date="2020-11-08 10:00:01" data-hits="1090" data-title="pax-pamir-bilder-der-deutschen-version">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6472-pax-pamir-bilder-der-deutschen-version">
+<img alt="PAX PAMIR // Bilder der deutschen Version" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/paxpamir/pax_pamir_spiel03.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/paxpamir/pax_pamir_spiel03.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6472-pax-pamir-bilder-der-deutschen-version">PAX PAMIR // Bilder der deutschen Version</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 08</p>
+<!-- Hits -->
+<p class="mix-hits">1090 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kennerspiel-des-Jahres tag-Familienspiel tag-Sets-erstellen tag-Würfelspiel tag-Branche tag-Solospiel" data-author="Johannes Grashorn" data-date="2020-11-07 23:00:00" data-hits="3880" data-title="feuerland-spiele-charity-aktion">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6517-feuerland-spiele-charity-aktion">
+<img alt="FEUERLAND SPIELE // Charity Aktion" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/feuerlandcharity.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/feuerlandcharity.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6517-feuerland-spiele-charity-aktion">FEUERLAND SPIELE // Charity Aktion</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 08</p>
+<!-- Hits -->
+<p class="mix-hits">3880 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Magazin tag-kreativ tag-Miniaturen" data-author="Jan Maguna" data-date="2020-11-07 23:00:00" data-hits="6744" data-title="wie-bemale-ich-miniaturen-teil-i">
+<div class="upper-mix">
+<a href="/index.php/magazin-ueber-brettspiele/6522-wie-bemale-ich-miniaturen-teil-i">
+<img alt="WIE BEMALE ICH MINIATUREN? // TEIL I" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/miniaturen/miniaturen_teil1.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/miniaturen/miniaturen_teil1.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/magazin-ueber-brettspiele/6522-wie-bemale-ich-miniaturen-teil-i">WIE BEMALE ICH MINIATUREN? // TEIL I</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 08</p>
+<!-- Hits -->
+<p class="mix-hits">6744 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-brandneu" data-author="Daniel Krause" data-date="2020-11-07 19:00:00" data-hits="1542" data-title="brandneu-kw-45-in-2020">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6521-brandneu-kw-45-in-2020">
+<img alt="BRANDNEU // KW 45 in 2020" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/banners/brand_neu_banner_neu.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/banners/brand_neu_banner_neu.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6521-brandneu-kw-45-in-2020">BRANDNEU // KW 45 in 2020</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Samstag November 07</p>
+<!-- Hits -->
+<p class="mix-hits">1542 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-Workerplacement tag-90-Minuten tag-1-5-Spieler tag-Eurogame tag-Deckbauspiel" data-author="Alex &amp; Wandee Steinmaier" data-date="2020-11-07 13:32:01" data-hits="1587" data-title="test-panjun">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6483-test-panjun">
+<img alt="TEST // PANJUN" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/g/gugong/panjun/IMG_3799.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/g/gugong/panjun/IMG_3799.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6483-test-panjun">TEST // PANJUN</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Samstag November 07</p>
+<!-- Hits -->
+<p class="mix-hits">1587 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Angebot" data-author="Daniel Krause" data-date="2020-11-07 10:20:18" data-hits="870" data-title="bsn-spielmatten-am-811-endet-vorbestellaktion">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6398-bsn-spielmatten-zweite-auflage-vorbestellung-moeglich-2">
+<img alt="BSN SPIELMATTEN // am 8.11. endet Vorbestellaktion" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/spielmatten_vorbestellung_messestand.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/spielmatten_vorbestellung_messestand.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6398-bsn-spielmatten-zweite-auflage-vorbestellung-moeglich-2">BSN SPIELMATTEN // am 8.11. endet Vorbestellaktion</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Samstag November 07</p>
+<!-- Hits -->
+<p class="mix-hits">870 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-07 10:02:20" data-hits="420" data-title="die-reisen-des-zheng-he-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6480-die-reisen-des-zheng-he-bilder-vom-spiel">
+<img alt="DIE REISEN DES ZHENG HE // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/d/diereisedeszenghe/die_reise_des_zeng_he02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/d/diereisedeszenghe/die_reise_des_zeng_he02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6480-die-reisen-des-zheng-he-bilder-vom-spiel">DIE REISEN DES ZHENG HE // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Samstag November 07</p>
+<!-- Hits -->
+<p class="mix-hits">420 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-1-7-Spieler tag-Simultanes-Spielen tag-Worker-Placement tag-Kooperativ tag-Crowdfunding tag-Solospiel tag-Strategie" data-author="Johannes Grashorn" data-date="2020-11-06 23:00:01" data-hits="1129" data-title="atlantis-rising-auf-deutsch-von-skellig-games">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6490-atlantis-rising-auf-deutsch-von-skellig-games">
+<img alt="ATLANTIS RISING // auf Deutsch von Skellig Games" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/atlantisrising_skellig.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/atlantisrising_skellig.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6490-atlantis-rising-auf-deutsch-von-skellig-games">ATLANTIS RISING // auf Deutsch von Skellig Games</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Samstag November 07</p>
+<!-- Hits -->
+<p class="mix-hits">1129 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-06 23:00:00" data-hits="389" data-title="pocket-detective-fall-1-erscheint-in-krze">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6499-pocket-detective-fall-1-erscheint-in-kuerze">
+<img alt="POCKET DETECTIVE // Fall 1 erscheint in Kürze" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/pocketdetective/fall1/pocket_detective_fall102.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/pocketdetective/fall1/pocket_detective_fall102.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6499-pocket-detective-fall-1-erscheint-in-kuerze">POCKET DETECTIVE // Fall 1 erscheint in Kürze</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Samstag November 07</p>
+<!-- Hits -->
+<p class="mix-hits">389 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Gewinnspiel tag-Premium" data-author="Daniel Krause" data-date="2020-11-06 19:00:21" data-hits="5728" data-title="gewinnspiel-november-2020">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6512-gewinnspiel-november-2020">
+<img alt="GEWINNSPIEL // November 2020" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/gewinnspiel_insel_der_katzen.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/gewinnspiel_insel_der_katzen.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6512-gewinnspiel-november-2020">GEWINNSPIEL // November 2020</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Freitag November 06</p>
+<!-- Hits -->
+<p class="mix-hits">5728 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Zauberei tag-Sport tag-2-Spieler" data-author="Daniel Krause" data-date="2020-11-06 18:00:01" data-hits="7045" data-title="update-harry-potter-catch-the-snitch-verschoben">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6507-kickstarter-harry-potter-catch-the-snitch">
+<img alt="UPDATE // Harry Potter: Catch the Snitch verschoben" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/harry_potter_catch_the_snitch_cover.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/harry_potter_catch_the_snitch_cover.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6507-kickstarter-harry-potter-catch-the-snitch">UPDATE // Harry Potter: Catch the Snitch verschoben</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Freitag November 06</p>
+<!-- Hits -->
+<p class="mix-hits">7045 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-15-45-Minuten tag-Detektiv tag-1-4-Spieler tag-Kooperativ" data-author="Daniel Krause" data-date="2020-11-06 13:42:45" data-hits="1832" data-title="test-micromacro-crime-city">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6510-test-micromacro-crime-city">
+<img alt="TEST // MICROMACRO: CRIME CITY" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/m/micromacro/micro_macro02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/m/micromacro/micro_macro02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6510-test-micromacro-crime-city">TEST // MICROMACRO: CRIME CITY</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Freitag November 06</p>
+<!-- Hits -->
+<p class="mix-hits">1832 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-SD20B tag-60-90-Minuten tag-1-5-Spieler tag-Worker-Placement tag-Strategie" data-author="Daniel Krause" data-date="2020-11-06 10:20:29" data-hits="528" data-title="pendulum-bilder-der-deutschen-version">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6469-pendulum-bilder-der-deutschen-version">
+<img alt="PENDULUM // Bilder der deutschen Version" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/pendulum/DE/Pendulum_de_version03.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/pendulum/DE/Pendulum_de_version03.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6469-pendulum-bilder-der-deutschen-version">PENDULUM // Bilder der deutschen Version</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Freitag November 06</p>
+<!-- Hits -->
+<p class="mix-hits">528 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-45-100-Minuten tag-Kickstarter tag-2-4-Spieler tag-Crowdfunding tag-Strategie" data-author="Daniel Krause" data-date="2020-11-05 23:00:00" data-hits="724" data-title="paris-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6471-paris-bilder-vom-spiel">
+<img alt="PARIS // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/paris/PARIS03.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/paris/PARIS03.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6471-paris-bilder-vom-spiel">PARIS // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Freitag November 06</p>
+<!-- Hits -->
+<p class="mix-hits">724 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-05 23:00:00" data-hits="964" data-title="unangenehme-gste-vorbestellaktion">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6487-unangenehme-gaeste-vorbestellaktion">
+<img alt="UNANGENEHME GÄSTE // Vorbestellaktion" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/unangenehme_gaeste.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/unangenehme_gaeste.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6487-unangenehme-gaeste-vorbestellaktion">UNANGENEHME GÄSTE // Vorbestellaktion</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Freitag November 06</p>
+<!-- Hits -->
+<p class="mix-hits">964 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Engine-Builder tag-Science-Fiction tag-1-5-Spieler tag-Worker-Placement tag-Eurogame tag-Crowdfunding tag-Solospiel" data-author="Johannes Grashorn" data-date="2020-11-05 20:20:23" data-hits="1435" data-title="star-scrappers-orbital-auf-kickstarter">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6509-star-scrappers-orbital-auf-kickstarter">
+<img alt="STAR SCRAPPERS: ORBITAL // auf Kickstarter" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/starscrappersorbital.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/starscrappersorbital.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6509-star-scrappers-orbital-auf-kickstarter">STAR SCRAPPERS: ORBITAL // auf Kickstarter</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Donnerstag November 05</p>
+<!-- Hits -->
+<p class="mix-hits">1435 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Branche" data-author="Daniel Krause" data-date="2020-11-05 11:20:48" data-hits="3799" data-title="spiel-des-jahres-frdert-2021-cafs-kneipen-und-gaststtten">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6508-spiel-des-jahres-foerdert-2021-cafes-kneipen-und-gaststaetten">
+<img alt="SPIEL DES JAHRES // fördert 2021 Cafés, Kneipen und Gaststätten" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/spieldes-jahres-foerdert_cafes_kneipen_gaststaetten.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/spieldes-jahres-foerdert_cafes_kneipen_gaststaetten.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6508-spiel-des-jahres-foerdert-2021-cafes-kneipen-und-gaststaetten">SPIEL DES JAHRES // fördert 2021 Cafés, Kneipen und Gaststätten</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Donnerstag November 05</p>
+<!-- Hits -->
+<p class="mix-hits">3799 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-TSD20 tag-Take-That tag-15-Minuten tag-Aktionen-programmieren tag-3-7-Spieler tag-Kartenspiel" data-author="Jan Maguna" data-date="2020-11-05 11:00:00" data-hits="4083" data-title="test-super-colt-express">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6381-test-super-colt-express">
+<img alt="TEST // SUPER COLT EXPRESS" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/c/coltsuperexpress/super_colt_express_2_meinung.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/c/coltsuperexpress/super_colt_express_2_meinung.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6381-test-super-colt-express">TEST // SUPER COLT EXPRESS</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Donnerstag November 05</p>
+<!-- Hits -->
+<p class="mix-hits">4083 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kartenspiel" data-author="Daniel Krause" data-date="2020-11-05 10:00:20" data-hits="358" data-title="coyote-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6441-coyote-bilder-vom-spiel">
+<img alt="COYOTE // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/c/coyote/coyote02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/c/coyote/coyote02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6441-coyote-bilder-vom-spiel">COYOTE // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Donnerstag November 05</p>
+<!-- Hits -->
+<p class="mix-hits">358 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kickstarter tag-Crowdfunding tag-Strategie" data-author="Daniel Krause" data-date="2020-11-04 23:00:00" data-hits="975" data-title="carnegie-von-quined-games-angekndigt">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6474-carnegie-von-quined-games-angekuendigt">
+<img alt="CARNEGIE // von Quined Games angekündigt" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/CARNEGIE-BOX-VISUAL-1-latest-version-left-1536x1086.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/CARNEGIE-BOX-VISUAL-1-latest-version-left-1536x1086.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6474-carnegie-von-quined-games-angekuendigt">CARNEGIE // von Quined Games angekündigt</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Donnerstag November 05</p>
+<!-- Hits -->
+<p class="mix-hits">975 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-Stragie tag-Ressourcenmanagement tag-60-Minuten tag-1-4-Spieler tag-Eurogame tag-Solospiel" data-author="Niels Frederik Heinemann" data-date="2020-11-04 13:32:03" data-hits="1496" data-title="test-meister-der-renaissance">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6481-test-meister-der-renaissance">
+<img alt="TEST // MEISTER DER RENAISSANCE" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/m/meisterderressance/IMG_2649.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/m/meisterderressance/IMG_2649.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6481-test-meister-der-renaissance">TEST // MEISTER DER RENAISSANCE</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Mittwoch November 04</p>
+<!-- Hits -->
+<p class="mix-hits">1496 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-2-6-Spieler tag-Kickstarter tag-Mittelalter tag-Crowdfunding tag-Kartenspiel tag-Deckbauspiel" data-author="Daniel Krause" data-date="2020-11-04 11:22:16" data-hits="1381" data-title="kickstarter-clash-of-armies-startet-am-12112020">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6504-kickstarter-clash-of-armies-startet-am-12-11-2020">
+<img alt="KICKSTARTER // CLASH OF ARMIES startet am 12.11.2020" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/sdj2020/clash-of-armies.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/sdj2020/clash-of-armies.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6504-kickstarter-clash-of-armies-startet-am-12-11-2020">KICKSTARTER // CLASH OF ARMIES startet am 12.11.2020</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Mittwoch November 04</p>
+<!-- Hits -->
+<p class="mix-hits">1381 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Mittelalter tag-1-4-Spieler tag-Worker-Placement tag-Solospiel" data-author="Johannes Grashorn" data-date="2020-11-04 07:31:31" data-hits="938" data-title="ruber-aus-skythien-vorbestellbar-bei-schwerkraft">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6505-raeuber-aus-skythien-vorbestellbar-bei-schwerkraft">
+<img alt="RÄUBER AUS SKYTHIEN // vorbestellbar bei Schwerkraft" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/räuberausskythien.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/räuberausskythien.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6505-raeuber-aus-skythien-vorbestellbar-bei-schwerkraft">RÄUBER AUS SKYTHIEN // vorbestellbar bei Schwerkraft</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Mittwoch November 04</p>
+<!-- Hits -->
+<p class="mix-hits">938 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-3-13-Spieler tag-Partyspiel" data-author="Daniel Krause" data-date="2020-11-03 23:00:01" data-hits="878" data-title="trial-by-trolley-erscheint-in-krze">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6497-trial-by-trolley-erscheint-in-kuerze">
+<img alt="TRIAL BY TROLLEY // erscheint in Kürze" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/trial_by_trolley.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/trial_by_trolley.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6497-trial-by-trolley-erscheint-in-kuerze">TRIAL BY TROLLEY // erscheint in Kürze</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Mittwoch November 04</p>
+<!-- Hits -->
+<p class="mix-hits">878 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Familienspiel tag-Kartenspiel" data-author="Daniel Krause" data-date="2020-11-03 23:00:00" data-hits="334" data-title="punktesalat-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6443-punktesalat-bilder-vom-spiel">
+<img alt="PUNKTESALAT // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/punktesalat/punkte_salat02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/punktesalat/punkte_salat02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6443-punktesalat-bilder-vom-spiel">PUNKTESALAT // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Mittwoch November 04</p>
+<!-- Hits -->
+<p class="mix-hits">334 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kickstarter tag-Crowdfunding" data-author="Daniel Krause" data-date="2020-11-03 22:00:00" data-hits="1501" data-title="kickstarter-neue-projekte-kw-45-2020">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6503-kickstarter-neue-projekte-kw-45-2020">
+<img alt="KICKSTARTER // Neue Projekte KW 45-2020" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/banners/themen/crowdfunding.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/banners/themen/crowdfunding.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6503-kickstarter-neue-projekte-kw-45-2020">KICKSTARTER // Neue Projekte KW 45-2020</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 03</p>
+<!-- Hits -->
+<p class="mix-hits">1501 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-15-Minuten tag-Auktion-Bieten tag-2-4-Spieler" data-author="Sandra &amp; Tobias Zimmermann" data-date="2020-11-03 13:21:04" data-hits="1367" data-title="test-die-schtze-von-cibola">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6451-test-die-schaetze-von-cibola">
+<img alt="TEST // DIE SCHÄTZE VON CIBOLA" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/d/dieschaetzevoncibola/IMG_3190.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/d/dieschaetzevoncibola/IMG_3190.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6451-test-die-schaetze-von-cibola">TEST // DIE SCHÄTZE VON CIBOLA</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 03</p>
+<!-- Hits -->
+<p class="mix-hits">1367 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-03 10:59:47" data-hits="2117" data-title="brettspieltisch-kapplex-mit-neuem-shop">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6488-brettspieltisch-kapplex-mit-neuem-shop">
+<img alt="BRETTSPIELTISCH // KAPPLEX mit neuem SHOP" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/kapplex_shop_neu.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/kapplex_shop_neu.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6488-brettspieltisch-kapplex-mit-neuem-shop">BRETTSPIELTISCH // KAPPLEX mit neuem SHOP</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 03</p>
+<!-- Hits -->
+<p class="mix-hits">2117 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kämpfen tag-Partyspiel tag-Simultanes-Spielen tag-Würfelspiel tag-2-4-Spieler" data-author="Johannes Grashorn" data-date="2020-11-03 07:16:44" data-hits="618" data-title="naruto-ninja-arena-erscheint-ende-2020">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6462-naruto-ninja-arena-erscheint-ende-2020">
+<img alt="NARUTO: NINJA ARENA // erscheint Ende 2020" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/narutoninja_cover.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/narutoninja_cover.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6462-naruto-ninja-arena-erscheint-ende-2020">NARUTO: NINJA ARENA // erscheint Ende 2020</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 03</p>
+<!-- Hits -->
+<p class="mix-hits">618 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kampfstrategie tag-Kriegsspiel tag-2-Spieler tag-Strategie" data-author="Daniel Krause" data-date="2020-11-02 23:00:01" data-hits="1136" data-title="der-marsch-des-fortschritts-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6479-der-marsch-des-fortschritts-bilder-vom-spiel">
+<img alt="DER MARSCH DES FORTSCHRITTS // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/d/dermarschdesfortschritts/Der_marsch_des_fortschritts02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/d/dermarschdesfortschritts/Der_marsch_des_fortschritts02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6479-der-marsch-des-fortschritts-bilder-vom-spiel">DER MARSCH DES FORTSCHRITTS // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 03</p>
+<!-- Hits -->
+<p class="mix-hits">1136 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-02 23:00:00" data-hits="707" data-title="alma-mater-ab-mitte-november-verfgbar">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6496-alma-mater-ab-mitte-november-verfuegbar-kaufen">
+<img alt="ALMA MATER // ab Mitte November verfügbar" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/alma_mater.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/alma_mater.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6496-alma-mater-ab-mitte-november-verfuegbar-kaufen">ALMA MATER // ab Mitte November verfügbar</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Dienstag November 03</p>
+<!-- Hits -->
+<p class="mix-hits">707 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-11-02 19:00:56" data-hits="6576" data-title="world-in-flames-bilder-vom-grten-brettspiel-der-welt">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6277-world-in-flames-bilder-vom-groessten-brettspiel-der-welt">
+<img alt="WORLD IN FLAMES // Bilder vom größten Brettspiel der Welt" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/w/worldinflames/IMG_4361.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/w/worldinflames/IMG_4361.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6277-world-in-flames-bilder-vom-groessten-brettspiel-der-welt">WORLD IN FLAMES // Bilder vom größten Brettspiel der Welt</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 02</p>
+<!-- Hits -->
+<p class="mix-hits">6576 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-75-150-Minuten tag-Geheime-Ziele tag-Action-Selection tag-Auktion-Bieten tag-Worker-Placement tag-2-4-Spieler" data-author="Marisa &amp; Marco Kuhn" data-date="2020-11-02 14:11:00" data-hits="1884" data-title="test-throne-of-allegoria">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6453-test-throne-of-allegoria">
+<img alt="TEST // THRONE OF ALLEGORIA" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/t/throneofallegoria/IMG_3121.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/t/throneofallegoria/IMG_3121.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6453-test-throne-of-allegoria">TEST // THRONE OF ALLEGORIA</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 02</p>
+<!-- Hits -->
+<p class="mix-hits">1884 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Messe tag-Branche" data-author="Johannes Grashorn" data-date="2020-11-02 11:13:54" data-hits="1296" data-title="spielwarenmesse-nrnberg-2021-verschoben-auf-den-sommer">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6495-spielwarenmesse-nuernberg-2021-verschoben-auf-den-sommer">
+<img alt="SPIELWARENMESSE NÜRNBERG 2021 // verschoben auf den Sommer" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/spielwarenmesse2021.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/redaktion/Johannes/spielwarenmesse2021.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6495-spielwarenmesse-nuernberg-2021-verschoben-auf-den-sommer">SPIELWARENMESSE NÜRNBERG 2021 // verschoben auf den Sommer</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 02</p>
+<!-- Hits -->
+<p class="mix-hits">1296 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Handeln tag-Mittelalter tag-2-5-Spieler" data-author="Daniel Krause" data-date="2020-11-02 08:20:10" data-hits="870" data-title="hansa-teutonica-big-box-erscheint-im-november-2020">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6478-hansa-teutonica-big-box-erscheint-im-november-2020-kaufen">
+<img alt="HANSA TEUTONICA BIG BOX // erscheint im November 2020" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/hansa_teutonica_big_box.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/hansa_teutonica_big_box.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6478-hansa-teutonica-big-box-erscheint-im-november-2020-kaufen">HANSA TEUTONICA BIG BOX // erscheint im November 2020</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 02</p>
+<!-- Hits -->
+<p class="mix-hits">870 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-SD20B tag-Historisch tag-Kriegsspiel tag-2-Spieler tag-Strategie" data-author="Daniel Krause" data-date="2020-11-01 23:00:35" data-hits="611" data-title="french-indian-war-1757-1759-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6410-french-indian-war-1757-1759-bilder-vom-spiel">
+<img alt="FRENCH &amp; INDIAN WAR 1757-1759 // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/f/frenchandindianwar/IMG_4990.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/f/frenchandindianwar/IMG_4990.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6410-french-indian-war-1757-1759-bilder-vom-spiel">FRENCH &amp; INDIAN WAR 1757-1759 // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 02</p>
+<!-- Hits -->
+<p class="mix-hits">611 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Kämpfen tag-Würfelplatzierung tag-Kampagne tag-2-Spieler" data-author="Florian Horn " data-date="2020-11-01 23:00:00" data-hits="1710" data-title="dice-throne-deluxe-version-und-erweiterung-angekndigt">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6494-dice-throne-deluxe-version-und-erweiterung-angekuendigt">
+<img alt="DICE THRONE // Deluxe Version und Erweiterung angekündigt" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/Dice_Throne_Adventures.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/Dice_Throne_Adventures.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6494-dice-throne-deluxe-version-und-erweiterung-angekuendigt">DICE THRONE // Deluxe Version und Erweiterung angekündigt</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Montag November 02</p>
+<!-- Hits -->
+<p class="mix-hits">1710 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-Adventskalender" data-author="Daniel Krause" data-date="2020-11-01 19:02:47" data-hits="892" data-title="exit-adventskalender-das-gesunkene-u-boot">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6493-exit-adventskalender-das-gesunkene-u-boot">
+<img alt="EXIT ADVENTSKALENDER // DAS GESUNKENE U-BOOT" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/e/exitkalender20/exit_adventskalender00.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/e/exitkalender20/exit_adventskalender00.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6493-exit-adventskalender-das-gesunkene-u-boot">EXIT ADVENTSKALENDER // DAS GESUNKENE U-BOOT</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 01</p>
+<!-- Hits -->
+<p class="mix-hits">892 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten tag-30-120-Minuten tag-Mittelalter tag-1-4-Spieler tag-Strategie" data-author="Daniel Krause" data-date="2020-11-01 16:10:17" data-hits="1117" data-title="praga-caput-regni-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6473-praga-caput-regni-bilder-vom-spiel">
+<img alt="PRAGA CAPUT REGNI // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/praga/praga03.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/p/praga/praga03.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6473-praga-caput-regni-bilder-vom-spiel">PRAGA CAPUT REGNI // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 01</p>
+<!-- Hits -->
+<p class="mix-hits">1117 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Brettspielest tag-60-75-Minuten tag-Detektiv tag-Weltall tag-Wettrennen tag-Entdecken tag-Weltraum tag-1-4-Spieler" data-author="Deniz Jansen" data-date="2020-11-01 12:00:59" data-hits="3422" data-title="test-the-search-for-planet-x">
+<div class="upper-mix">
+<a href="/index.php/brettspieltest/6484-test-the-search-for-planet-x">
+<img alt="TEST // THE SEARCH FOR PLANET X" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/t/thesearchforplanetx/IMG_3239.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/t/thesearchforplanetx/IMG_3239.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/brettspieltest/6484-test-the-search-for-planet-x">TEST // THE SEARCH FOR PLANET X</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 01</p>
+<!-- Hits -->
+<p class="mix-hits">3422 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-10-31 23:00:01" data-hits="4098" data-title="haus-des-geldes-escape-game-bilder-vom-spiel">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6470-haus-des-geldes-escape-game-bilder-vom-spiel">
+<img alt="HAUS DES GELDES – ESCAPE GAME // Bilder vom Spiel" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/h/hausdesgeldes/haus_des_geldes_escape_spiel02.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Bilderverzeichnis/01/h/hausdesgeldes/haus_des_geldes_escape_spiel02.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6470-haus-des-geldes-escape-game-bilder-vom-spiel">HAUS DES GELDES – ESCAPE GAME // Bilder vom Spiel</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 01</p>
+<!-- Hits -->
+<p class="mix-hits">4098 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<li class="mix cat-Nachrichten " data-author="Daniel Krause" data-date="2020-10-31 23:00:00" data-hits="1146" data-title="stormsunder-heirs-of-ruin-deutsche-version-vorbestellbar">
+<div class="upper-mix">
+<a href="/index.php/nachrichten/6486-stormsunder-heirs-of-ruin-deutsche-version-vorbestellbar">
+<img alt="STORMSUNDER:  HEIRS OF RUIN  // deutsche Version vorbestellbar" data-src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/stormsunder_1.jpg" src="https://www.brettspiel-news.de/images/regridart/500x300/images/Spiele/2020/spiel-digital/bsn/stormsunder_1.jpg"/>
+</a>
+</div>
+<div class="inner-mix">
+<!-- Title -->
+<h3>
+<a class="mix-title" href="/index.php/nachrichten/6486-stormsunder-heirs-of-ruin-deutsche-version-vorbestellbar">STORMSUNDER: HEIRS OF RUIN // deutsche Version vorbestellbar</a>
+</h3>
+<div class="mix-extra">
+<!-- Date -->
+<p class="mix-date">Sonntag November 01</p>
+<!-- Hits -->
+<p class="mix-hits">1146 <span>Aufrufe</span></p>
+</div>
+</div>
+</li>
+<!-- Empty li's so that the layout justifies -->
+<li class="gap"></li>
+<li class="gap"></li>
+<li class="gap"></li>
+</ul>
+<!-- END: Modules Anywhere -->
+</article>
+</main>
+</div>
+<aside class="tm-sidebar-b uk-width-medium-1-5"><div class="uk-panel" data-uk-scrollspy="{cls:'uk-animation-fade'}"><h3 class="uk-panel-title">Premium Login</h3>
+<form action="/index.php" class="uk-form" method="post">
+<div class="uk-form-row">
+		Unterstützer genießen die Seite werbefrei. Jetzt Unterstützer werden	</div>
+<div class="uk-form-row">
+<input class="uk-width-1-1" name="username" placeholder="Benutzername" size="18" type="text"/>
+</div>
+<div class="uk-form-row">
+<input class="uk-width-1-1" name="password" placeholder="Passwort" size="18" type="password"/>
+</div>
+<div class="uk-form-row">
+<label for="modlgn-remember-540468574">Angemeldet bleiben</label>
+<input checked="" id="modlgn-remember-540468574" name="remember" type="checkbox" value="yes"/>
+</div>
+<div class="uk-form-row">
+<button class="uk-button uk-button-primary" name="Submit" type="submit" value="Anmelden">Anmelden</button>
+</div>
+<ul class="uk-list uk-margin-bottom-remove">
+<li><a href="/index.php/premium/hier-anmelden?view=reset">Passwort vergessen?</a></li>
+<li><a href="/index.php/premium/hier-anmelden?view=remind">Benutzername vergessen?</a></li>
+</ul>
+<input name="option" type="hidden" value="com_users"/>
+<input name="task" type="hidden" value="user.login"/>
+<input name="return" type="hidden" value="aHR0cHM6Ly93d3cuYnJldHRzcGllbC1uZXdzLmRlLw=="/>
+<input name="46be5b0623d6037e12a2834a9db1fd2e" type="hidden" value="1"/></form>
+</div>
+<div class="uk-panel" data-uk-scrollspy="{cls:''}">
+<p>Steady Unterstützer können hier den Schwebebutton deaktivieren.</p>
+<p><a class="steady-login-button" data-language="de" data-size="medium" style="display: none;"></a></p></div>
+<div class="uk-panel" data-uk-scrollspy="{cls:''}">
+<script id="mcjs">
+	! function(c, h, i, m, p) {
+		m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)
+	}(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a0b4aedace926f269abc36ed6/4b31a09414ec117b154d9f206.js");
+</script></div>
+<div class="uk-panel uk-panel-space uk-hidden-small" data-uk-scrollspy="{cls:'uk-animation-fade'}"><div class="bannergroup">
+<div class="banneritem">
+<a href="/index.php/component/banners/click/2" rel="noopener noreferrer" target="_blank" title="Fantasywelt RECHTS">
+<img alt="Fantasywelt RECHTS" height="600" src="https://www.brettspiel-news.de/images/banners/FW-Webbanner-160x600-GR.jpg" width="160"/>
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></aside>
+</div>
+</div>
+</div>
+<div class="bottom-a-outer uk-cover-background" id="bottom-a">
+<div class="uk-container uk-container-center">
+<section class="tm-bottom-a uk-grid" data-uk-grid-margin="" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}">
+<div class="uk-width-1-1"><div class="uk-panel" data-uk-scrollspy="{cls:'uk-animation-fade'}">
+<div style="width: 80%; align: center; float: left; border: 1px solid #efefef; margin: 10px; border-radius: 0px; background-color: #fff; box-shadow: 5px 7px 10px grey;"><!--- <h2 style="text-align: center; padding: 5px; color: #20228a; text-transform: uppercase;">ER = SIE = ES</h2> ---><img alt="genderneutral" height="78" src="/images/Spiele/2020/genderneutral.jpg" style="margin: 10px; float: left;" width="98"/>
+<p style="padding: 15px; font-size:12px;"><span>Bedingt durch einen besseren Lesefluss hat sich unsere Redaktion, in der viele Frauen sind, darauf geeinigt zukünftig nur noch die männliche Form anzuwenden. Diese richtet sich ausdrücklich an jedes Geschlecht. Niemand soll sich ausgeschlossen fühlen.<br/></span></p>
+</div></div></div>
+</section>
+</div>
+</div>
+<div class="bottom-c-outer uk-cover-background" id="bottom-c">
+<div class="uk-container uk-container-center">
+<section class="tm-bottom-c uk-grid" data-uk-grid-margin="" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}">
+<div class="uk-width-1-1"><div class="uk-panel _myBanner" data-uk-scrollspy="{cls:''}"><div class="bannergroup _myBanner">
+<div class="banneritem">
+<a href="/index.php/component/banners/click/30" rel="noopener noreferrer" target="_blank" title="Andor Oben/Unten">
+<img alt="Andor Oben/Unten" src="https://www.brettspiel-news.de/images/banners/werbung/andor_banner_01_fullbanner_01.jpg"/>
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+<footer class="tm-footer">
+<div class="uk-panel"><ul class="uk-subnav uk-subnav-line"><li><a href="/index.php/impressum">Impressum</a></li><li><a href="/index.php/datenschutzerklaerung">Datenschutzerklärung</a></li><li><a href="/index.php/kontakt">Kontakt</a></li></ul></div>
+</footer>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/site.webmanifest" rel="manifest"/>
+<link color="#20228a" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#20228a" name="msapplication-TileColor"/>
+<meta content="#ffffff" name="theme-color"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-72237867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-72237867-1');
+</script>
+<script src="https://steadyhq.com/widget_loader/278ec279-00bc-4bd9-9c1b-202e883ad232" type="text/javascript"></script>
+<!-- Start Cookie Plugin -->
+<script type="text/javascript">
+  window.CookieHinweis_options = {
+  message: 'Diese Website nutzt Cookies, um bestmögliche Funktionalität bieten zu können.',
+  agree: 'Ok, verstanden',
+  learnMore: 'Mehr Infos',
+  link: 'https://www.brettspiel-news.de/index.php/datenschutzerklaerung', /* Link zu den eigenen Datenschutzbestimmungen */
+  theme: 'dunkel-oben' /* weitere Theme-Optionen sind dunkel-unten oder hell-unten-rechts */
+ };
+</script>
+<!-- Ende Cookie Plugin -->
+<div class="uk-offcanvas" id="offcanvas">
+<div class="uk-offcanvas-bar"><ul class="uk-nav uk-nav-offcanvas"><li class="uk-active"><a href="/index.php"><i class="uk-icon-home"></i> Startseite</a></li><li class="uk-parent"><a href="/index.php/premium"><i class="uk-icon-plus-square"></i> PREMIUM</a><ul class="uk-nav-sub"><li><a href="/index.php/premium/exklusive-artikel-vorab-lesen"><i class="uk-icon-check"></i> Exklusive Artikel vorab lesen</a></li><li><a href="/index.php/premium/hier-anmelden"><i class="uk-icon-sign-in"></i> Hier Anmelden</a></li><li><a href="https://steadyhq.com/de/brettspiel-news" onclick="window.open(this.href, 'targetWindow', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,'); return false;"><i class="uk-icon-bullhorn"></i> Unterstütze uns</a></li></ul></li><li><a href="/index.php/nachrichten-uebersicht">Nachrichten</a></li><li><a href="/index.php/brettspieltest-uebersicht">Brettspiel-Test </a></li><li><a href="/index.php/magazin-fuer-brettspieler-start">Magazin</a></li><li><a href="https://shop.brettspiel-news.de/"><i class="uk-icon-credit-card"></i> SHOP</a></li><li class="uk-parent"><a href="/index.php/charts">Charts</a><ul class="uk-nav-sub"><li><a href="/index.php/charts/kickstarter-charts-brettspiele-heute"><i class="uk-icon-caret-square-o-right"></i> Kickstarter Charts Brettspiele heute</a></li><li><a href="/index.php/charts/kickstarter-charts-brettspiele-gestern"><i class="uk-icon-caret-square-o-right"></i> Kickstarter Charts Brettspiele gestern</a></li><li><a href="/index.php/charts/brandneu-zu-kaufen"><i class="uk-icon-caret-square-o-right"></i> BRANDNEU</a></li></ul></li><li><a href="/index.php/unsere-redaktion">Das Team</a></li><li><a href="/index.php/suchen">Suchen</a></li></ul></div>
+</div>
+<a class="tm-totop-scroller" data-uk-smooth-scroll="{offset: 80}" href="#"></a>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){
+		event.preventDefault();
+		$('html,body').animate({scrollTop:$(this.hash).offset().top-70}, 900);
+		});
+	});
+</script>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/site.webmanifest" rel="manifest"/>
+<link color="#20228a" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#20228a" name="msapplication-TileColor"/>
+<meta content="#ffffff" name="theme-color"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-72237867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-72237867-1');
+</script>
+<script src="https://steadyhq.com/widget_loader/278ec279-00bc-4bd9-9c1b-202e883ad232" type="text/javascript"></script>
+<!-- Start Cookie Plugin -->
+<script type="text/javascript">
+  window.CookieHinweis_options = {
+  message: 'Diese Website nutzt Cookies, um bestmögliche Funktionalität bieten zu können.',
+  agree: 'Ok, verstanden',
+  learnMore: 'Mehr Infos',
+  link: 'https://www.brettspiel-news.de/index.php/datenschutzerklaerung', /* Link zu den eigenen Datenschutzbestimmungen */
+  theme: 'dunkel-oben' /* weitere Theme-Optionen sind dunkel-unten oder hell-unten-rechts */
+ };
+</script>
+<!-- Ende Cookie Plugin -->
+<!-- Google Analytics -->
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', '72237867', 'auto');
+			ga('send', 'pageview');
+			
+			</script>
+<!-- End Google Analytics --></body>
+</html>

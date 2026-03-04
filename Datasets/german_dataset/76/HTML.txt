@@ -1,0 +1,1512 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/WebPage" lang="de-DE">
+<head>
+<meta charset="utf-8"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//fonts.gstatic.com" rel="dns-prefetch"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Roulette, Roulette online, Roulette online spielen, Roulette online kostenlos spielen, Roulette zum Spaß spielen, keine Herunterladen " name="keywords"/>
+<meta content="🥇Spielen Sie die besten Roulette Spiele online 2020 ✅ KOSTENLOS &amp; ECHTGELD ✅ Spezielle Casino Boni für Deutsche Spieler ✅ ohne Download" name="description"/>
+<title>Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland</title>
+<meta content="https://roulette77.de/img/logo.png" itemprop="image"/>
+<meta content="website" property="og:type"/>
+<meta content="https://roulette77.de" property="og:url"/>
+<meta content="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" property="og:title"/>
+<meta content="🥇Spielen Sie die besten Roulette Spiele online 2020 ✅ KOSTENLOS &amp; ECHTGELD ✅ Spezielle Casino Boni für Deutsche Spieler ✅ ohne Download" property="og:description"/>
+<meta content="https://roulette77.de/img/logo-big.png" property="og:image"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="https://roulette77.de" property="twitter:url"/>
+<meta content="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" property="twitter:title"/>
+<meta content="🥇Spielen Sie die besten Roulette Spiele online 2020 ✅ KOSTENLOS &amp; ECHTGELD ✅ Spezielle Casino Boni für Deutsche Spieler ✅ ohne Download" property="twitter:description"/>
+<meta content="https://roulette77.de/img/logo.png" property="twitter:image"/>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&amp;family=Roboto+Condensed:wght@400;700&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="./css/all-styles.css?v=76" media="all" rel="stylesheet"/>
+<link href="https://roulette77.de" rel="canonical"/>
+<link href="https://rolet77indonesia.com/" hreflang="id-ID" rel="alternate"/>
+<link href="https://roulette77.de/" hreflang="de-DE" rel="alternate"/>
+<link href="https://roulette77.fr/" hreflang="fr-FR" rel="alternate"/>
+<link href="https://roulette77.co.uk/" hreflang="en-GB" rel="alternate"/>
+<link href="https://roulette77.nl/" hreflang="nl-NL" rel="alternate"/>
+<link href="https://freeroulettedoc.com/" hreflang="en-CA" rel="alternate"/>
+<link href="https://roulette77australia.com/" hreflang="en-AU" rel="alternate"/>
+<link href="https://roulette77thailand.com/" hreflang="th-TH" rel="alternate"/>
+<link href="https://roulette77vietnam.com/" hreflang="vi-VN" rel="alternate"/>
+<link href="https://roulette77hongkong.com/" hreflang="zh-HK" rel="alternate"/>
+<link href="https://roulette77.se/" hreflang="sv-SE" rel="alternate"/>
+<link href="https://rulett77.com/" hreflang="no-NO" rel="alternate"/>
+<link href="https://ruletti77suomi.com/" hreflang="fi-FI" rel="alternate"/>
+<link href="https://roulette77espana.org/" hreflang="es-ES" rel="alternate"/>
+<link href="https://roulette77.it/" hreflang="it-IT" rel="alternate"/>
+<link href="https://roulette-77.ru/" hreflang="ru-RU" rel="alternate"/>
+<link href="https://roulette77.jp/" hreflang="ja-JP" rel="alternate"/>
+<link href="https://roulette77.us/" hreflang="en-US" rel="alternate"/>
+<link href="http://roulette77.cn/" hreflang="zh-CN" rel="alternate"/>
+<link href="https://roulette77ireland.com/" hreflang="en-IE" rel="alternate"/>
+<link href="https://roulette77canada.org/" hreflang="fr-CA" rel="alternate"/>
+<link href="https://roulette77.be/" hreflang="nl-BE" rel="alternate"/>
+<link href="https://roulette77.at/" hreflang="de-AT" rel="alternate"/>
+<link href="https://roulette77singapore.com/" hreflang="en-SG" rel="alternate"/>
+<link href="https://roulette77newzealand.com/" hreflang="en-NZ" rel="alternate"/>
+<link href="http://rulet77turkiye.com/" hreflang="tr-TR" rel="alternate"/>
+<link href="https://roulette77.com.tw/" hreflang="zh-TW" rel="alternate"/>
+<link href="http://roulette77schweiz.com/" hreflang="de-CH" rel="alternate"/>
+<link href="https://roulette77.co.za/" hreflang="en-ZA" rel="alternate"/>
+<link href="http://roulette77.lu/" hreflang="de-LU" rel="alternate"/>
+<link href="https://roulette77morocco.com/" hreflang="fr-MA" rel="alternate"/>
+<link href="http://roulette77algeria.com/" hreflang="fr-DZ" rel="alternate"/>
+<link href="http://roulette77.li/" hreflang="de-LI" rel="alternate"/>
+<link href="http://roulette77senegal.com/" hreflang="fr-SN" rel="alternate"/>
+<link href="http://roulette77bahamas.com/" hreflang="en-BS" rel="alternate"/>
+<link href="https://roulette77.mx/" hreflang="es-MX" rel="alternate"/>
+<link href="https://ruleta77argentina.com/" hreflang="es-AR" rel="alternate"/>
+<link href="https://ruleta77chili.com/" hreflang="es-CL" rel="alternate"/>
+<link href="https://roulette77.co/" hreflang="es-CO" rel="alternate"/>
+<link href="https://roleta77peru.com/" hreflang="es-PE" rel="alternate"/>
+<link href="https://ruleta77uruguay.com/" hreflang="es-UY" rel="alternate"/>
+<link href="http://ruleta77panama.com/" hreflang="es-PA" rel="alternate"/>
+<link href="https://roulette77belarus.com/" hreflang="ru-BY" rel="alternate"/>
+<link href="https://ruletka77kz.com/" hreflang="ru-KZ" rel="alternate"/>
+<link href="https://ruletka77ukraine.com/" hreflang="ru-UA" rel="alternate"/>
+<link href="http://roulette77egypt.com/" hreflang="ar-EG" rel="alternate"/>
+<link href="http://roulette77emirates.com/" hreflang="ar-AE" rel="alternate"/>
+<link href="https://roulette77korea.com/" hreflang="ko-KR" rel="alternate"/>
+<link href="https://roulette77danmark.com/" hreflang="da-DK" rel="alternate"/>
+<link href="https://roulette77.pl/" hreflang="pl-PL" rel="alternate"/>
+<link href="https://ruleta77slovenia.com/" hreflang="sl-SI" rel="alternate"/>
+<link href="https://ruleta77slovakia.com/" hreflang="sk-SK" rel="alternate"/>
+<link href="https://ruleta77czech.com/" hreflang="cs-CZ" rel="alternate"/>
+<link href="https://roleta77portugal.com/" hreflang="pt-PT" rel="alternate"/>
+<link href="https://roleta77brazil.com/" hreflang="pt-BR" rel="alternate"/>
+<link href="https://roulette77.in/" hreflang="en-IN" rel="alternate"/>
+<link href="http://rulett77estonia.com/" hreflang="et-EE" rel="alternate"/>
+<link href="https://rulet77serbia.com/" hreflang="sr-RS" rel="alternate"/>
+<link href="https://roulette77tanzania.com/" hreflang="sw-TZ" rel="alternate"/>
+<link href="https://roulette77israel.com/" hreflang="he-IL" rel="alternate"/>
+<link href="http://rouleta77cyprus.com/" hreflang="el-CY" rel="alternate"/>
+<link href="https://roulette77.gr/" hreflang="el-GR" rel="alternate"/>
+<link href="http://ruleta77romaina.com/" hreflang="ro-RO" rel="alternate"/>
+<link href="http://roulette77.lv/" hreflang="lv-LV" rel="alternate"/>
+<link href="https://ruletka77georgia.com/" hreflang="ka-GE" rel="alternate"/>
+<link href="https://ruletka77bulgaria.com/" hreflang="bg-BG" rel="alternate"/>
+<link href="https://rulett77hungary.com/" hreflang="hu-HU" rel="alternate"/>
+<link href="https://rulet77croatia.com/" hreflang="hr-HR" rel="alternate"/>
+<link href="http://rulletta77.com/" hreflang="is-IS" rel="alternate"/>
+<link href="https://rulete77lithuania.com/" hreflang="lt-LT" rel="alternate"/>
+<link href="https://ruletka77ua.com/" hreflang="uk-UA" rel="alternate"/>
+<link href="http://roulette77malta.com/" hreflang="mt-MT" rel="alternate"/>
+<link href="https://ruletka77.com/" hreflang="az-AZ" rel="alternate"/>
+<link href="https://rulet77bosnia.com/" hreflang="bs-BA" rel="alternate"/>
+<link href="https://ruletka77uzbekistan.com/" hreflang="uz-UZ" rel="alternate"/>
+<link href="http://roulette77uganda.com/" hreflang="en-UG" rel="alternate"/>
+<link href="http://rulete77.com/" hreflang="sq-AL" rel="alternate"/>
+<link href="http://roulette77cambodia.com/" hreflang="km-KH" rel="alternate"/>
+<link href="http://roleta77.com/" hreflang="ca-AO" rel="alternate"/>
+<link href="http://rolet77.com/" hreflang="ms-BN" rel="alternate"/>
+<link href="https://roulette77kenya.com/" hreflang="en-KE" rel="alternate"/>
+<link href="http://ruleta77ecuador.com/" hreflang="es-EC" rel="alternate"/>
+<link href="http://roulette77jamaica.com/" hreflang="en-JM" rel="alternate"/>
+<link href="http://roulette77nigeria.com/" hreflang="en-NG" rel="alternate"/>
+<link href="http://roulette77lebanon.com/" hreflang="ar-LB" rel="alternate"/>
+<link href="http://rulet77macedonia.com/" hreflang="mk-MK" rel="alternate"/>
+<link href="http://ruleta77gibraltar.com/" hreflang="es-GI" rel="alternate"/>
+<link href="https://ruleta77philippines.com/" hreflang="en-PH" rel="alternate"/>
+<link href="https://rolet77malaysia.com/" hreflang="en-MY" rel="alternate"/>
+<link href="http://roulette77afghanistan.com/" hreflang="ps-AF" rel="alternate"/>
+<link href="http://roulette77asamoa.com/" hreflang="en-AS" rel="alternate"/>
+<link href="http://ruleta77andorra.com/" hreflang="ca-AD" rel="alternate"/>
+<link href="http://roulette77anguilla.com/" hreflang="en-KN" rel="alternate"/>
+<link href="http://roulette77antigua.com/" hreflang="en-AG" rel="alternate"/>
+<link href="http://ruletka77armenia.com/" hreflang="hy-AM" rel="alternate"/>
+<link href="http://roulette77bahrain.com/" hreflang="ar-BH" rel="alternate"/>
+<link href="http://roulette77bangladesh.com/" hreflang="bn-BD" rel="alternate"/>
+<link href="http://roulette77.bz/" hreflang="en-BZ" rel="alternate"/>
+<link href="http://roulette77benin.com/" hreflang="fr-BJ" rel="alternate"/>
+<link href="http://roulette77bhutan.com/" hreflang="en-BT" rel="alternate"/>
+<link href="http://ruleta77bolivia.com/" hreflang="es-BO" rel="alternate"/>
+<link href="http://roulette77botswana.com/" hreflang="tn-BW" rel="alternate"/>
+<link href="http://roulette77ukvirginislands.com/" hreflang="en-VG" rel="alternate"/>
+<link href="http://roulette77burkinafaso.com/" hreflang="fr-BF" rel="alternate"/>
+<link href="http://roulette77burundi.com/" hreflang="fr-BI" rel="alternate"/>
+<link href="https://roulette77cameroon.com/" hreflang="fr-CM" rel="alternate"/>
+<link href="http://roleta77capeverde.com/" hreflang="pt-CV" rel="alternate"/>
+<link href="http://roulette77cf.com/" hreflang="fr-CF" rel="alternate"/>
+<link href="http://roulette77chad.com/" hreflang="fr-TD" rel="alternate"/>
+<link href="http://roulette77cisland.com/" hreflang="en-CX" rel="alternate"/>
+<link href="http://roulette77.cc/" hreflang="en-CC" rel="alternate"/>
+<link href="http://roulette77brazzaville.com/" hreflang="fr-CG" rel="alternate"/>
+<link href="http://roulette77congo.com/" hreflang="fr-CD" rel="alternate"/>
+<link href="http://roulette77cookislands.com/" hreflang="en-CK" rel="alternate"/>
+<link href="http://roulette77costarica.com/" hreflang="es-CR" rel="alternate"/>
+<link href="http://roulette77cotedivoire.com/" hreflang="fr-CI" rel="alternate"/>
+<link href="http://ruleta77cuba.com/" hreflang="es-CU" rel="alternate"/>
+<link href="http://roulette77djibouti.com/" hreflang="fr-DJ" rel="alternate"/>
+<link href="http://roulette77dominica.com/" hreflang="en-DM" rel="alternate"/>
+<link href="http://ruleta77dominican.com/" hreflang="es-DO" rel="alternate"/>
+<link href="http://ruleta77elsalvador.com/" hreflang="es-SV" rel="alternate"/>
+<link href="http://roulette77ethiopia.com/" hreflang="am-ET" rel="alternate"/>
+<link href="http://roulette77fiji.com/" hreflang="en-FJ" rel="alternate"/>
+<link href="http://roulette77.ga/" hreflang="fr-GA" rel="alternate"/>
+<link href="http://roulette77gambia.com/" hreflang="wo-GM" rel="alternate"/>
+<link href="http://roulette77ghana.com/" hreflang="en-GH" rel="alternate"/>
+<link href="http://roulette77greenland.com/" hreflang="nl-GL" rel="alternate"/>
+<link href="http://roulette77guadeloupe.com/" hreflang="fr-GP" rel="alternate"/>
+<link href="http://ruleta77guatemala.com/" hreflang="es-GT" rel="alternate"/>
+<link href="http://roulette77guernsey.com/" hreflang="fr-GG" rel="alternate"/>
+<link href="http://roulette77guyana.com/" hreflang="en-GY" rel="alternate"/>
+<link href="http://roulette77haiti.com/" hreflang="fr-HT" rel="alternate"/>
+<link href="http://ruleta77honduras.com/" hreflang="es-HN" rel="alternate"/>
+<link href="https://roulette77iraq.com/" hreflang="ar-IQ" rel="alternate"/>
+<link href="http://roulette77.im/" hreflang="en-IM" rel="alternate"/>
+<link href="http://roulette77jersey.com/" hreflang="fr-JE" rel="alternate"/>
+<link href="http://roulette77jordan.com/" hreflang="ar-JO" rel="alternate"/>
+<link href="http://roulette77kiribati.com/" hreflang="en-KI" rel="alternate"/>
+<link href="http://roulette77kuwait.com/" hreflang="ar-KW" rel="alternate"/>
+<link href="http://ruletka77kyrgyzstan.com/" hreflang="ky-KG" rel="alternate"/>
+<link href="http://roulette77.la/" hreflang="lo-LA" rel="alternate"/>
+<link href="http://roulette77lesotho.com/" hreflang="st-LS" rel="alternate"/>
+<link href="http://roulette77libya.com/" hreflang="ar-LY" rel="alternate"/>
+<link href="http://roulette77madagascar.com/" hreflang="mg-MG" rel="alternate"/>
+<link href="http://roulette77malawi.com/" hreflang="ny-MW" rel="alternate"/>
+<link href="http://roulette77maldives.com/" hreflang="en-MV" rel="alternate"/>
+<link href="http://roulette77mali.com/" hreflang="fr-ML" rel="alternate"/>
+<link href="http://roulette77mauritius.com/" hreflang="fr-MU" rel="alternate"/>
+<link href="http://roulette77micronesia.com/" hreflang="en-FM" rel="alternate"/>
+<link href="http://ruleta77moldova.com/" hreflang="ro-MD" rel="alternate"/>
+<link href="https://rulet77mongolia.com/" hreflang="mn-MN" rel="alternate"/>
+<link href="http://roulette77.me/" hreflang="hr-ME" rel="alternate"/>
+<link href="http://roulette77monserrat.com/" hreflang="en-MS" rel="alternate"/>
+<link href="https://roleta77mozambique.com/" hreflang="pt-MZ" rel="alternate"/>
+<link href="http://roulette77burma.com/" hreflang="my-MM" rel="alternate"/>
+<link href="http://roulette77namibia.com/" hreflang="af-NA" rel="alternate"/>
+<link href="http://roulette77nauru.com/" hreflang="en-NR" rel="alternate"/>
+<link href="http://roulette77nepal.com/" hreflang="ne-NP" rel="alternate"/>
+<link href="http://ruleta77nicaragua.com/" hreflang="es-NI" rel="alternate"/>
+<link href="http://roulette77niger.com/" hreflang="fr-NE" rel="alternate"/>
+<link href="http://roulette77niue.com/" hreflang="en-NU" rel="alternate"/>
+<link href="http://roulette77norfolk.com/" hreflang="en-NF" rel="alternate"/>
+<link href="http://roulette77oman.com/" hreflang="ar-OM" rel="alternate"/>
+<link href="http://roulette77pakistan.com/" hreflang="ur-PK" rel="alternate"/>
+<link href="http://roulette77palestine.com/" hreflang="ar-PS" rel="alternate"/>
+<link href="http://roulette77papunewguinea.com/" hreflang="en-PG" rel="alternate"/>
+<link href="http://ruleta77paraguay.com/" hreflang="es-PY" rel="alternate"/>
+<link href="http://roulette77pitcairnislands.com/" hreflang="en-PN" rel="alternate"/>
+<link href="http://ruleta77puertorico.com/" hreflang="es-PR" rel="alternate"/>
+<link href="http://roulette77quatar.com/" hreflang="ar-QA" rel="alternate"/>
+<link href="http://roulette77rwanda.com/" hreflang="fr-RW" rel="alternate"/>
+<link href="http://roulette77sthelena.com/" hreflang="en-SH" rel="alternate"/>
+<link href="http://roulette77stvincent.com/" hreflang="en-VC" rel="alternate"/>
+<link href="http://roulette77.ws/" hreflang="en-WS" rel="alternate"/>
+<link href="http://roulette77sanmarino.com/" hreflang="it-SM" rel="alternate"/>
+<link href="http://roulette77st.com/" hreflang="pt-ST" rel="alternate"/>
+<link href="https://roulette77sa.com/" hreflang="ar-SA" rel="alternate"/>
+<link href="http://roulette77seychelles.com/" hreflang="ht-SC" rel="alternate"/>
+<link href="http://roulette77sierraleone.com/" hreflang="en-SL" rel="alternate"/>
+<link href="http://roulette77solomonislands.com/" hreflang="en-SB" rel="alternate"/>
+<link href="http://roulette77somalia.com/" hreflang="so-SO" rel="alternate"/>
+<link href="http://roulette77srilanka.com/" hreflang="si-LK" rel="alternate"/>
+<link href="http://roulette77suriname.com/" hreflang="nl-SR" rel="alternate"/>
+<link href="http://roulette77tajikistan.com/" hreflang="tg-TJ" rel="alternate"/>
+<link href="http://roleta77timorleste.com/" hreflang="pt-TL" rel="alternate"/>
+<link href="http://roulette77togo.com/" hreflang="fr-TG" rel="alternate"/>
+<link href="http://roulette77.tk/" hreflang="en-TK" rel="alternate"/>
+<link href="http://roulette77tonga.com/" hreflang="to-TO" rel="alternate"/>
+<link href="http://roulette77trinidad.com/" hreflang="en-TT" rel="alternate"/>
+<link href="https://roulette77tunisia.com/" hreflang="ar-TN" rel="alternate"/>
+<link href="http://roulette77turkmenistan.com/" hreflang="tk-TM" rel="alternate"/>
+<link href="http://roulette77usvirginislands.com/" hreflang="en-VI" rel="alternate"/>
+<link href="http://roulette77vanautu.com/" hreflang="fr-VU" rel="alternate"/>
+<link href="http://ruleta77venezuela.com/" hreflang="es-VE" rel="alternate"/>
+<link href="http://roulette77zambia.com/" hreflang="ny-ZM" rel="alternate"/>
+<link href="http://roulette77zimbabwe.com/" hreflang="sn-ZW" rel="alternate"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MVRKTKD');</script>
+<!-- End Google Tag Manager -->
+<script src="js/ie6.js" type="text/javascript"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVRKTKD" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Adskeeper Sensor -->
+<script type="text/javascript"> (function() { var d = document, w = window; w.MgSensorData = w.MgSensorData || []; w.MgSensorData.push({ cid:577195, lng:"us", nosafari:true, project: "a.adskeeper.co.uk" }); var l = "a.adskeeper.co.uk"; var n = d.getElementsByTagName("script")[0]; var s = d.createElement("script"); s.type = "text/javascript"; s.async = true; var dt = !Date.now?new Date().valueOf():Date.now(); s.src = "https://" + l + "/mgsensor.js?d=" + dt; n.parentNode.insertBefore(s, n); })(); 
+</script>
+<!-- /Adskeeper Sensor -->
+<div class="page">
+<div class="arrow-up" id="scroller">
+<img alt="arrow-up" src="img/main/arrow-up.png"/>
+</div>
+<div class="header-wrapper">
+<div class="flag-section">
+<div class="flag-list">
+<a class="sprite id_id" href="https://rolet77indonesia.com" title="Roulette77 Indonesia / Bahasa Indonesia"></a>
+<a class="sprite de_de" href="https://roulette77.de" title="Roulette77 Deutschland / Deutsch"></a>
+<a class="sprite fr_fr" href="https://roulette77.fr" title="Roulette77 France / Français"></a>
+<a class="sprite en_gb" href="https://roulette77.co.uk" title="Roulette77 UK / English"></a>
+<a class="sprite da_nl" href="https://roulette77.nl" title="Roulette77 Nederland / Dutch"></a>
+<a class="sprite en_ca" href="https://freeroulettedoc.com" title="Roulette77 Canada / English"></a>
+<a class="sprite en_au" href="https://roulette77australia.com" title="Roulette77 Australia / English"></a>
+<a class="sprite th_th" href="https://roulette77thailand.com" title="Roulette77 ประเทศไทย / ไทย"></a>
+<a class="sprite vi_vn" href="https://roulette77vietnam.com" title="Roulette77 Việt Nam / Tiếng Việt"></a>
+<a class="sprite zh_hk" href="https://roulette77hongkong.com" title="Roulette77 香港 / 繁體中文"></a>
+<a class="sprite sv_se" href="https://roulette77.se" title="Roulette77 Sverige / Svenska"></a>
+<a class="sprite no_no" href="https://rulett77.com" title="Roulette77 Norge / Norsk"></a>
+<a class="sprite fi_fi" href="https://ruletti77suomi.com" title="Roulette77 Suomi / Suomi"></a>
+<a class="sprite es_es" href="https://roulette77espana.org" title="Roulette77 Espana / Español"></a>
+<a class="sprite it_it" href="https://roulette77.it" title="Roulette77 Italia / Italiano"></a>
+<a class="sprite ru_ru" href="https://roulette-77.ru" title="Roulette77 Россия / Русский"></a>
+<a class="sprite ja_jp" href="https://roulette77.jp" title="Roulette77 日本 / 日本語"></a>
+</div>
+</div>
+<nav class="header-nav-section nav-section--extended">
+<div class="triangle">
+<div class="triangle__inner">
+<p class="triangle__text">Spielen</p>
+<p class="triangle__text">online</p>
+</div>
+</div>
+<div class="container">
+<div class="menu-toggle-flag">
+<div class="hamburger-flag de_de"></div>
+</div>
+<div class="menu-toggle">
+<div class="hamburger"></div>
+</div>
+<div class="block-logo-mobile">
+<a class="block-logo-mobile__link" href="/">
+<img alt="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" src="./img/logo-mobile.png" title="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland"/>
+</a>
+</div>
+<div class="flag-section-mobile">
+<div class="flag-list">
+<div class="flag-list__item">
+<a class="sprite id_id" href="https://rolet77indonesia.com" title="Roulette77 Indonesia / Bahasa Indonesia"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite de_de" href="https://roulette77.de" title="Roulette77 Deutschland / Deutsch"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite fr_fr" href="https://roulette77.fr" title="Roulette77 France / Français"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_gb" href="https://roulette77.co.uk" title="Roulette77 UK / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite da_nl" href="https://roulette77.nl" title="Roulette77 Nederland / Dutch"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_ca" href="https://freeroulettedoc.com" title="Roulette77 Canada / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_au" href="https://roulette77australia.com" title="Roulette77 Australia / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite th_th" href="https://roulette77thailand.com" title="Roulette77 ประเทศไทย / ไทย"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite vi_vn" href="https://roulette77vietnam.com" title="Roulette77 Việt Nam / Tiếng Việt"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite zh_hk" href="https://roulette77hongkong.com" title="Roulette77 香港 / 繁體中文"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite sv_se" href="https://roulette77.se" title="Roulette77 Sverige / Svenska"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite no_no" href="https://rulett77.com" title="Roulette77 Norge / Norsk"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite fi_fi" href="https://ruletti77suomi.com" title="Roulette77 Suomi / Suomi"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite es_es" href="https://roulette77espana.org" title="Roulette77 Espana / Español"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite it_it" href="https://roulette77.it" title="Roulette77 Italia / Italiano"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite ru_ru" href="https://roulette-77.ru" title="Roulette77 Россия / Русский"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite ja_jp" href="https://roulette77.jp" title="Roulette77 日本 / 日本語"></a>
+</div>
+</div>
+</div>
+</div>
+<ul class="nav">
+<li class="home-row">
+<a class="nav-item" href="/">Startseite</a>
+</li>
+<li class="nav-group">
+<div class="nav-group__title group-games">
+<span class="nav-group__title-text">Roulette Spiele</span>
+<span class="nav-group__triangle">▼</span>
+</div>
+<ul class="nav-group__list">
+<li class="eur-row">
+<a class="nav-item nav-group__item" href="europäisches-roulette">Europäisches Roulette</a>
+</li>
+<li class="am-row">
+<a class="nav-item nav-group__item" href="amerikanisches-roulette">Amerikanisches Roulette</a>
+</li>
+<li class="french-row">
+<a class="nav-item nav-group__item" href="franzosisches-roulette">Französisches Roulette</a>
+</li>
+<li class="simulator-row">
+<a class="nav-item nav-group__item" href="roulette-simulator">Roulette Simulator</a>
+</li>
+</ul>
+</li>
+<li class="logo-row">
+<a class="logo-block nav-item-logo" href="/">
+<img alt="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" src="https://roulette77.de/img/main/logo.png" title="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland"/>
+</a>
+</li>
+<li class="liveroulette-row">
+<a class="nav-item" href="live-roulette">Live roulette</a>
+</li>
+<li class="nav-group">
+<div class="nav-group__title group-guides">
+<span class="nav-group__title-text">Führer</span>
+<span class="nav-group__triangle">▼</span>
+</div>
+<ul class="nav-group__list">
+<li class="video-row">
+<a class="nav-item nav-group__item" href="roulette-videos">Roulette videos</a>
+</li>
+<li class="how-to-play-row">
+<a class="nav-item nav-group__item" href="wie-man-spielt">Wie man spielt?</a>
+</li>
+<li class="roulette-strategies-row">
+<a class="nav-item nav-group__item" href="roulette-strategien">Roulette Strategien</a>
+</li>
+<li class="roulette-calc-row">
+<a class="nav-item nav-group__item" href="roulette-quotenrechner">Quotenrechner</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="container">
+<div class="header__content">
+<div class="header__games-block tab-block">
+<div class="header__content-title">
+                            Tatsache - das Wort "Roulette" hat im Französischen die gleiche Bedeutung wie "kleines Rad"                        </div>
+<div class="header__content-description">
+                            Erhalten Sie Chancen,
+Roulette online zum Spaß
+und um echtes
+Geld zu spielen.
+Viel Spaß!                        </div>
+<div class="game-block">
+<div class="game-block__eur">
+<div class="game__item game__item--left">
+<a class="game__link-img" href="europäisches-roulette">
+<img alt="european roulette" class="game__img" src="./img/eur-circle.png"/>
+</a>
+<a class="game__link-img-mob" href="europäisches-roulette">
+<img alt="european roulette" class="game__img" src="./img/block-game-eur-mob.png"/>
+</a>
+<a class="game__link-title" href="europäisches-roulette">
+<img alt="european roulette button" class="game__title" src="./img/eur-title.png"/>
+</a>
+<a class="btn__game-play btn__game-play--eur" href="europäisches-roulette">Spielen!</a>
+</div>
+</div>
+<div class="game-block__am">
+<div class="game__item game__item--right">
+<a class="game__link-img" href="amerikanisches-roulette">
+<img alt="american roulette" class="game__img game__img--right" src="./img/am-circle.png"/>
+</a>
+<a class="game__link-img-mob" href="amerikanisches-roulette">
+<img alt="american roulette" class="game__img" src="./img/block-game-am-mob.png"/>
+</a>
+<a class="game__link-title" href="amerikanisches-roulette">
+<img alt="american roulette button" class="game__title" src="./img/am-title.png"/>
+</a>
+<a class="btn__game-play btn__game-play--am" href="amerikanisches-roulette">Spielen!</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header__slider-block">
+<div class="slide__title">
+        BESTE ROULETTE CASINOS FÜR 2020    </div>
+<section class="slider no-padding">
+<div class="slider__item slider__item_first t-and-c__line">
+<div class="slider__item-logo">
+<div class="casinos__number_first"></div>
+<div class="casinos__rate">5/5</div>
+<a class="slider__img-wrap" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow">
+<img alt="spinia casino" src="img/casino-logo/spinia.png"/>
+</a>
+<a class="casinos__title" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow">Spinia</a>
+</div>
+<div class="slider__item-text">
+<span class="casinos__bonuses-text">BONUS €250</span>
+<p class="casinos__bonuses-descr">BONUSPAKET</p>
+<a class="btn__casinos-block btn__casinos-block_slider" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+<div class="slider__item">
+<div class="slider__item-logo">
+<div class="casinos__number">2</div>
+<div class="casinos__rate">5/5</div>
+<a class="slider__img-wrap" href="/go/playamo" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'});" rel="nofollow">
+<img alt="Playamo" src="img/casino-logo/playamo.png"/>
+</a>
+<a class="casinos__title" href="/go/playamo" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow">Playamo</a>
+</div>
+<div class="slider__item-text">
+<span class="casinos__bonuses-text">Bonus bis zu €100</span>
+<p class="casinos__bonuses-descr">Code: FIRSTDEP</p>
+<a class="btn__casinos-block btn__casinos-block_slider" href="/go/playamo" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+<div class="slider__item">
+<div class="slider__item-logo">
+<div class="casinos__number">3</div>
+<div class="casinos__rate">5/5</div>
+<a class="slider__img-wrap" href="/go/betamo" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'});" rel="nofollow">
+<img alt="betamo" src="img/casino-logo/betamo.png"/>
+</a>
+<a class="casinos__title" href="/go/betamo" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow">Betamo</a>
+</div>
+<div class="slider__item-text">
+<span class="casinos__bonuses-text">Bonus bis zu €150</span>
+<p class="casinos__bonuses-descr">Code: START</p>
+<a class="btn__casinos-block btn__casinos-block_slider" href="/go/betamo" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+<div class="slider__item">
+<div class="slider__item-logo">
+<div class="casinos__number">4</div>
+<div class="casinos__rate">5/5</div>
+<a class="slider__img-wrap" href="/go/woocasino" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow">
+<img alt="woocasino" src="img/casino-logo/woocasino.png"/>
+</a>
+<a class="casinos__title" href="/go/woocasino" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow">WooCasino</a>
+</div>
+<div class="slider__item-text">
+<span class="casinos__bonuses-text">Bonus bis zu 100€</span>
+<p class="casinos__bonuses-descr">Code: WOO</p>
+<a class="btn__casinos-block btn__casinos-block_slider" href="/go/woocasino" onclick="gtag('event', 'click', { 'event_category' : 'new-design-index-ref-btn'})" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="about-us">
+<div class="container">
+<div class="about-us__text content-text">
+<h1 class="section-title">Spielen Sie Roulette 77 Online Kostenlos</h1>
+<p>Roulette ist ein Tischspiel, welches in vielen Online Casinos zum Spielen angeboten wird. Dieses Spiel gehört für viele deutsche Spieler zu den beliebtesten Casino Klassikern. Die meisten Spieler kennen dieses Angebot bereits aus den landbasierten Casinos in Deutschland. Online Roulette ist eigentlich genau das gleiche Spiel, nur dass es online gespielt wird. Roulette77 hat sich vor allem, auf die online Version von diesem Klassiker spezialisiert und stellt daher genau die passende Plattform fürs Spielen dar. Bei Roulette77 erhalten die Spieler nicht nur Zugang zur heimischen Version, sondern auch zu anderen Varianten dieses Spieles wie z.B. American oder French Roulette. Zudem können die Spieler diese Anwendung nicht nur über Desktop, sondern auch mit einem Mobile Gerät nutzen. Wenn der Spieler kostenlos Roulette zum Spaß spielen möchte, ist das eine sehr gute Chance, um das Tischspiel mit Spielgeld von allen Seiten kennenzulernen und den Regeln näher zu treten. Sobald die Regeln sitzen und das Spiel verstanden wurde, kann man mit dem Spielen um echtes Geld beginnen.</p>
+<h3>Vorteile vom kostenlosen Spielen</h3>
+<p>Roulette kostenlos zu spielen ist mit einigen Vorteilen verbunden. Diese stellen wir euch in diesem Abschnitt einmal ausführlich vor.</p>
+<ul>
+<li>Ohne Risiko – Sie können dieses Spiel völlig ohne ein Risiko einzugehen spielen. Denn wenn Sie Roulette kostenlos Spielen werden Sie kein Geld verspielen was evtl. noch benötigt wird.</li>
+<li>Der Spaßfaktor - Auch beim kostenlosen Spielen kommt ein hoher Spaßfaktor beim Spielen auf, denn kostenlos spielen bedeutet nicht, dass ohne Geld gespielt wird. Bei Roulette zum Spaß kommt Spielgeld zum Einsatz, welches auch komplett verloren gehen kann. Gerade das macht den Nervenkitzel beim kostenlosen Roulette aus.</li>
+<li>Lernmittel – Gerade Anfänger sollten sich mit dem kostenlosen Spielen befassen, denn diese haben oft noch keinerlei oder nur wenige Erfahrungen mit dem Spiel, daher macht es durchaus Sinn dieses Wunderbare Spiel um Spielgeld und nicht um echtes Geld zu spielen und so die Erfahrungen zu sammeln. So werden keine unnötigen Gelder beim Üben verloren und die Spieler haben diese Gelder nachher noch verfügbar, wenn Sie die Erfahrungen gesammelt haben und um echtes Geld Spielen möchten.</li>
+<li>Neue Strategien lassen sich perfekt mit dem Kostenlosen Spielen erlernen. So können die Spieler selbst Strategien entwickeln und testen oder neu gefundene Strategien aus dem Netz überprüfen und das ganz ohne echtes Geld zu verlieren.</li>
+<li>Zudem lassen sich auch andere Varianten dieses Spieles sehr gut austesten. Während dessen können die Unterschiede entdeckt werden und man kann selbst auch mehr über den Hausvorteil der Einzelnen Varianten erfahren.</li>
+</ul>
+<h3>Vorteile beim Spielen um echtes Geld</h3>
+<p>Aber auch Online Roulette um echtes Geld spielen ist mit einigen Vorteilen verbunden. Und der Vollständigkeitshalber werden wir euch auch diese hier einmal etwas erläutern.</p>
+<ul>
+<li>Nervenkitzel – beim Spielen um echtes Geld steigt der Nervenkitzel um ein erhebliches. Und das ist es auch was viele Spieler am Roulette so lieben.</li>
+<li>Andere Limits – Sie können oft beim online Roulette mit anderen Limits wie in landbasierten Casinos spielen. Das ist es auch was Highroller an diesem Spiel im Online Casino so fasziniert.</li>
+<li>Echte Gewinne – Schaffen Sie es beim Roulette einen größeren Gewinn zu erhalten, ist dieser Gewinn beim Spielen um echtes Geld auch ein Gewinn, den Sie sich wieder auszahlen lassen können.</li>
+<li>Die Nutzung von Bonusaktionen – Spieler, welche dieses Faszinierende Spiel um echtes Geld spielen, können sich oft auch einen Bonus einheimsen und so mit einem höheren Kapital mit dem Spielen beginnen.</li>
+<li>Nutzung des Live Casinos – Mit einer Anzahlung ist es den Spielern auch möglich zuverlässige Live Casinos zu nutzen und das Glück herauszufordern. Dabei sollte allerdings immer auch Verantwortlich gespielt werden.</li>
+<li>Höhere Auszahlungsquoten – Beim Roulette erhalten die Spieler höhere Auszahlungsquoten wie in landbasierten Casinos. Auch Spieler von Spielautomaten zieht es aufgrund dieser Tatsache oft zum Roulette Tisch.</li>
+</ul> </div>
+<div class="about-us__aside-block">
+<ol class="about-us__list-block">
+<li class="about-us__list-item">
+<a class="about-us__link" href="#wie-funktioniert">Wie Funktioniert Roulette</a>
+</li>
+<li class="about-us__list-item">
+<a class="about-us__link about-us__link_marked" href="#für-echtgeld">Für Echtgeld spielen</a>
+</li>
+<li class="about-us__list-item">
+<a class="about-us__link" href="#games">Top kostenlose Roulette Spiele 2020</a>
+</li>
+<li class="about-us__list-item">
+<a class="about-us__link" href="#variationen">Roulette-Variationen</a>
+</li>
+<li class="about-us__list-item">
+<a class="about-us__link" href="#strategien">Roulette Strategien</a>
+</li>
+<li class="about-us__list-item">
+<a class="about-us__link" href="#wie-gewinnt-man">Wie gewinnt man beim Roulette?</a>
+</li>
+<li class="about-us__list-item">
+<a class="about-us__link" href="#faq">FAQs</a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="table__block" id="für-echtgeld">
+<div class="container">
+<div class="section-title">Spiel um Geld in den besten Casinos!</div>
+<div class="casino-table">
+<div class="casino-table__row t-and-c__line">
+<div class="casino-table__column casino-table__column-order">
+<div class="casino-table__num-order casino-table__num-order--first">
+<span>1</span>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-img">
+<div class="casino-table__logo-block">
+<img alt="spinia casino" src="img/casino-logo/spinia.png"/>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-bonus">
+<p class="casino-table__bonus-title">BONUS €250</p>
+<p class="casino-table__description">BONUSPAKET</p>
+<!-- -->
+</div>
+<div class="casino-table__column casino-table__column-num">
+<p class="casino-table__num casino-table__rating">5/5</p>
+<p class="casino-table__description">bewertung</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-games">
+<p class="casino-table__num">1200+</p>
+<p class="casino-table__description">spiele</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-pay">
+<p class="casino-table__num">96%</p>
+<p class="casino-table__description">auszahlung</p>
+</div>
+<div class="casino-table__column casino-table__column-btn">
+<a class="btn__casinos-block btn__casino-table btn__casino-table--first" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'new-des-index-table-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+<div class="casino-table__row t-and-c__line">
+<div class="casino-table__column casino-table__column-order">
+<div class="casino-table__num-order">
+<span>2</span>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-img">
+<div class="casino-table__logo-block">
+<img alt="Playamo" src="img/casino-logo/playamo.png"/>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-bonus">
+<p class="casino-table__bonus-title">Bonus bis zu €100</p>
+<p class="casino-table__description">Code: FIRSTDEP</p>
+</div>
+<div class="casino-table__column casino-table__column-num">
+<p class="casino-table__num casino-table__rating">5/5</p>
+<p class="casino-table__description">bewertung</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-games">
+<p class="casino-table__num">1000+</p>
+<p class="casino-table__description">spiele</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-pay">
+<p class="casino-table__num">96%</p>
+<p class="casino-table__description">auszahlung</p>
+</div>
+<div class="casino-table__column casino-table__column-btn">
+<a class="btn__casinos-block btn__casino-table" href="/go/playamo" onclick="gtag('event', 'click', { 'event_category' : 'new-des-index-table-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+<div class="casino-table__row t-and-c__line">
+<div class="casino-table__column casino-table__column-order">
+<div class="casino-table__num-order">
+<span>3</span>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-img">
+<div class="casino-table__logo-block">
+<img alt="betamo" src="img/casino-logo/betamo.png"/>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-bonus">
+<p class="casino-table__bonus-title">Bonus bis zu €150</p>
+<p class="casino-table__description">Code: START</p>
+</div>
+<div class="casino-table__column casino-table__column-num">
+<p class="casino-table__num casino-table__rating">5/5</p>
+<p class="casino-table__description">bewertung</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-games">
+<p class="casino-table__num">1000+</p>
+<p class="casino-table__description">spiele</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-pay">
+<p class="casino-table__num">96%</p>
+<p class="casino-table__description">auszahlung</p>
+</div>
+<div class="casino-table__column casino-table__column-btn">
+<a class="btn__casinos-block btn__casino-table" href="/go/betamo" onclick="gtag('event', 'click', { 'event_category' : 'new-des-index-table-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+</div>
+<div class="casino-table__row t-and-c__line">
+<div class="casino-table__column casino-table__column-order">
+<div class="casino-table__num-order">
+<span>4</span>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-img">
+<div class="casino-table__logo-block">
+<img alt="woocasino" src="img/casino-logo/woocasino.png"/>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-bonus">
+<p class="casino-table__bonus-title">Bonus bis zu 100€</p>
+<p class="casino-table__description">Code: WOO</p>
+</div>
+<div class="casino-table__column casino-table__column-num">
+<p class="casino-table__num casino-table__rating">5/5</p>
+<p class="casino-table__description">bewertung</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-games">
+<p class="casino-table__num">1200+</p>
+<p class="casino-table__description">spiele</p>sle
+            </div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-pay">
+<p class="casino-table__num">97%</p>
+<p class="casino-table__description">auszahlung</p>
+</div>
+<div class="casino-table__column casino-table__column-btn">
+<a class="btn__casinos-block btn__casino-table" href="/go/woocasino" onclick="gtag('event', 'click', { 'event_category' : 'new-des-index-table-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+</div>
+</div>
+<div class="casino-table__row">
+<div class="casino-table__column casino-table__column-order">
+<div class="casino-table__num-order">
+<span>5</span>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-img">
+<div class="casino-table__logo-block">
+<img alt="CasinoEuro" src="img/casino-logo/casinoeuro.png"/>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-bonus">
+<p class="casino-table__bonus-title">Willkommensbonus</p>
+<p class="casino-table__description">100% bis zu €500</p>
+</div>
+<div class="casino-table__column casino-table__column-num">
+<p class="casino-table__num casino-table__rating">5/5</p>
+<p class="casino-table__description">bewertung</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-games">
+<p class="casino-table__num">1800+</p>
+<p class="casino-table__description">spiele</p>sle
+            </div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-pay">
+<p class="casino-table__num">98%</p>
+<p class="casino-table__description">auszahlung</p>
+</div>
+<div class="casino-table__column casino-table__column-btn">
+<a class="btn__casinos-block btn__casino-table" href="/go/casinoeuro" onclick="gtag('event', 'click', { 'event_category' : 'new-des-index-table-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+<a class="link_terms" href="casino-euro">Rezension</a>
+</div>
+</div>
+<div class="casino-table__row">
+<div class="casino-table__column casino-table__column-order">
+<div class="casino-table__num-order">
+<span>6</span>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-img">
+<div class="casino-table__logo-block">
+<img alt="CasinoClub" src="img/casino-logo/casinoclub.png"/>
+</div>
+</div>
+<div class="casino-table__column casino-table__column-bonus">
+<p class="casino-table__bonus-title">Willkommensbonus</p>
+<p class="casino-table__description">100% bis zu €250</p>
+</div>
+<div class="casino-table__column casino-table__column-num">
+<p class="casino-table__num casino-table__rating">5/5</p>
+<p class="casino-table__description">bewertung</p>
+</div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-games">
+<p class="casino-table__num">600+</p>
+<p class="casino-table__description">spiele</p>sle
+            </div>
+<div class="casino-table__column casino-table__column-num casino-table__column-num-pay">
+<p class="casino-table__num">98%</p>
+<p class="casino-table__description">auszahlung</p>
+</div>
+<div class="casino-table__column casino-table__column-btn">
+<a class="btn__casinos-block btn__casino-table" href="/go/casinoclub" onclick="gtag('event', 'click', { 'event_category' : 'new-des-index-table-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN!</a>
+<a class="link_terms" href="casinoclub">Rezension</a>
+</div>
+</div>
+</div>
+</div>
+<div class="rate-list" id="rate-list">
+<div class="container">
+<div class="rate-list__title">Sie alle haben:</div>
+<div class="rate-list__img-block">
+<img alt="mcafee" src="img/main/mc-afee.png"/>
+<img alt="verci" src="img/main/verci.png"/>
+<img alt="microgaming" src="img/main/microgaming.png"/>
+<img alt="ssl2" src="img/main/ssl2.png"/>
+<img alt="ecogra" src="img/main/ecogra.png"/>
+</div>
+</div>
+</div>
+<div class="block-roulette__content">
+<div class="container">
+<h2 class="section-title mt20" id="games">Top kostenlose Roulette Spiele 2020</h2>
+<div class="game-list-roulette">
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/european-screen/rlt77.jpg')">
+<a class="game-list-roulette__button" data-img="img/european-screen/rlt77.jpg" data-name="Roulette77" data-type="european" data-url="_template_desktop-game-european.htm" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        Roulette77                                        (europäisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/european-screen/pragmatic-game.jpg')">
+<a class="game-list-roulette__button" data-img="img/european-screen/pragmatic-game.jpg" data-name="PragmaticPlay" data-type="european" data-url="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&amp;cur=EUR&amp;websiteUrl=/gs2c/casinoBrand.jsp&amp;gameSymbol=rla&amp;width=640&amp;height=480" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        PragmaticPlay                                        (europäisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/european-screen/dirfx.jpg')">
+<a class="game-list-roulette__button" data-img="img/european-screen/dirfx.jpg" data-name="RelaxGaming" data-type="european" data-url="https://d2drhksbtcqozo.cloudfront.net/casino/games-mt/roulettenouveau/index.html?gameid=roulettenouveau&amp;jurisdiction=MT&amp;channel=web&amp;moneymode=fun" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        RelaxGaming                                        (europäisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/european-screen/red-tiger.jpg')">
+<a class="game-list-roulette__button" data-img="img/european-screen/red-tiger.jpg" data-name="RedTiger" data-type="european" data-url="https://gserver-rtg.redtiger.com/rtg/launcher/EuropeanRoulette" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        RedTiger                                        (europäisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/european-screen/net-ent.jpg')">
+<a class="game-list-roulette__button" data-img="img/european-screen/net-ent.jpg" data-name="NetEnt" data-type="european" data-url="https://netent-static.casinomodule.com/games/europeanroulette3_mobile_html/game/europeanroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&amp;targetElement=netentgame&amp;flashParams.bgcolor=000000&amp;gameId=europeanroulette3_not_mobile&amp;mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Feuropean-roulette%252F&amp;server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&amp;lang=en&amp;sessId=DEMO-2978817962-EUR&amp;operatorId=default" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        NetEnt                                        (europäisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/european-screen/spinomenal-mob.jpg')">
+<a class="game-list-roulette__button" data-img="img/european-screen/spinomenal-mob.jpg" data-name="Spinomenal" data-type="european" data-url="https://games.spinomenal.com/Play/Fun?gameCode=Table_EuropeanRoulette&amp;langCode=en_US&amp;platform=-1&amp;currencyCode=USD&amp;gameToken=FUN_636627051993643366&amp;platform=1&amp;partnerId=SPIN&amp;logo=SPIN&amp;HomeUrl=" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        Spinomenal                                        (europäisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/american-screen/rlt77-american.jpg')">
+<a class="game-list-roulette__button" data-img="img/american-screen/rlt77-american.jpg" data-name="Roulette77" data-type="american" data-url="_template_desktop-game-american.htm" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        Roulette77                                        (amerikanisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/american-screen/b-gaming.jpg')">
+<a class="game-list-roulette__button" data-img="img/american-screen/b-gaming.jpg" data-name="BGaming" data-type="american" data-url="https://bgaming-network.com/games/AmericanRoulette/FUN?play_token=85ee910a-e534-401b-bf41-48754502dcbf" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        BGaming                                        (amerikanisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/american-screen/net-ent-amrrican.jpg')">
+<a class="game-list-roulette__button" data-img="img/american-screen/net-ent-amrrican.jpg" data-name="NetEnt" data-type="american" data-url="https://netent-static.casinomodule.com/games/americanroulette3_mobile_html/game/americanroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&amp;targetElement=netentgame&amp;flashParams.bgcolor=000000&amp;gameId=americanroulette3_not_mobile&amp;mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Famerican-roulette%252F&amp;server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&amp;lang=en&amp;sessId=DEMO-5630842396-EUR&amp;operatorId=default" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        NetEnt                                        (amerikanisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/american-screen/worldmatch.jpg')">
+<a class="game-list-roulette__button" data-img="img/american-screen/worldmatch.jpg" data-name="Worldmatch" data-type="american" data-url="https://wmservices.blob.core.windows.net/resources/HTML5/Roulette/AmericanRoulette/index.html?usertoken=FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF&amp;authKey=FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF&amp;licenseeid=16&amp;gameid=247&amp;configurationid=399&amp;language=en" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        Worldmatch                                        (amerikanisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/french-screen/netent.jpg')">
+<a class="game-list-roulette__button" data-img="img/french-screen/netent.jpg" data-name="NetEnt" data-type="french" data-url="https://netent-static.casinomodule.com/games/frenchroulette3_mobile_html/game/frenchroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&amp;targetElement=netentgame&amp;flashParams.bgcolor=000000&amp;gameId=frenchroulette3_not_mobile&amp;mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Ffrench-roulette%252F&amp;server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&amp;lang=en&amp;sessId=DEMO-3376043969-EUR&amp;operatorId=default" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        NetEnt                                        (französisches)
+                                </div>
+</div>
+<div class="game-list-roulette__item">
+<div class="game-list-roulette__image" style="background-image: url('img/french-screen/habanero.jpg')">
+<a class="game-list-roulette__button" data-img="img/french-screen/habanero.jpg" data-name="Habanero" data-type="french" data-url="https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&amp;keyname=EURoulette&amp;mode=fun&amp;locale=uk&amp;lobbyurl=https%3a%2f%2fhaba88.com%2f)" href="#" rel="nofollow">
+                                                Spielen!                                        </a>
+</div>
+<div class="game-list-roulette__description">
+                                        Habanero                                        (französisches)
+                                </div>
+</div>
+<div class="game-list-roulette__display" style="background-image: url('img/european-screen/rlt77.jpg')">
+<iframe class="game-list-roulette__display-iframe" src="about:blank"></iframe>
+<div class="game-list-roulette__display-btns">
+<a class="game-list-roulette__display-btn" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'index-games'})">
+                                                Für Echtgeld spielen                                        </a>
+<button class="game-list-roulette__display-btn" onclick="gtag('event', 'start', { 'event_category' : 'iframe-free-btn'});">
+                                                Kostenlos spielen                                        </button>
+</div>
+<a class="game-list-roulette__link-bottom" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'index-games'})">
+                                        Für Echtgeld spielen                                </a>
+<button class="game-list-roulette__close">×</button>
+</div>
+</div>
+</div>
+</div>
+<div class="how-rate" id="wie-funktioniert">
+<div class="container">
+<div class="how-rate__block clearfix">
+<div class="how-rate__nav-block">
+<div class="how-rate__img-block">
+<img alt="roulette table" class="lazyload" data-src="img/main/table.png" src="img/blank.png"/>
+</div>
+</div>
+<div class="how-rate__text-block">
+<h2 class="section-title">Wie Funktioniert Roulette</h2>
+<div class="how-rate__content content-text">
+<p>Viele Glücksspieler, die noch nie zuvor Roulette gespielt und sich immer nur auf Spielautomaten fokussiert haben, werden sich die Frage stellen, wie dieses Spiel überhaupt funktioniert. Das Spielprinzip ist sehr leicht zu verstehen und dürfte selbst von einem Kind verstanden werden. Wir haben in diesem Abschnitt dieses Prinzip einmal genauer erläutert</p>
+<ul>
+<li>Der Tisch besteht aus einem Rad und einem Roulette Spielfeld mit einem vorgegebenen Layout, dieses und auch das Wettlimit am Tisch kann sich je nach Roulette Version etwas unterscheiden.</li>
+<li>An einem Roulette Tisch können in der Regel, bis zu 6 Spieler teilnehmen</li>
+<li>Ein Dealer koordiniert den Spielverlauf am Roulette Tisch und ist dafür verantwortlich den Spielern rechtzeitig mitzuteilen, dass keine Einsätze mehr getätigt werden können.</li>
+<li>Die Spieler können Ihre Einsätze vornehmen, indem Sie Ihre Chips auf das Spielfeld platzieren. Dabei können die Spieler wählen, ob Sie auf eine Farbe beim Roulette, auf eine bestimmte Nummer oder auf eine der anderen Wettmöglichkeiten setzen. Die höchsten Gewinne sind auf einer bestimmten Nummer zu erhalten, allerdings sind dabei die Gewinnchancen am Geringsten.</li>
+<li>Nachdem die Spieler Ihre Einsätze vorgenommen haben, wird das Roulette Rad gedreht und während es sich zu drehen beginnt, wirft der Croupier die Kugel in den Kessel des Rads.</li>
+<li>Nachdem das Rad stehen geblieben ist, erhalten die Spieler die Gewonnen haben ihre Gewinne vom Croupier und danach können die nächsten Einsätze am Roulette Tisch vorgenommen werden.</li>
+</ul>
+<p>Des Weiteren haben wir euch noch einmal die verschiedenen Einsatzmöglichkeiten nach den Wettchancen sortiert zusammengefast, sodass ihr euch schnell einen Überblick darüber einholen könnt.</p>
+<h3>Einfache Chancen:</h3>
+<ul>
+<li>Die Farben Rot oder Schwarz</li>
+<li>Die gerade oder ungeraden Zahlen</li>
+<li>Zahlen 1 bis 18</li>
+<li>Zahlen 19 bis 36</li>
+</ul>
+<h3>Mehrfache Chancen:</h3>
+<ul>
+<li>Straight Up (Es wird auf eine bestimmte Zahl gewettet)</li>
+<li>Split Bet (Es wird auf zwei benachbarte Zahlen gewettet)</li>
+<li>Corner Bet (Es wird auf vier Zahlen in einem Quadranten gewettet)</li>
+<li>Street Bet (Es wird auf drei Zahlen in einer Querreihe gewettet)</li>
+<li>Dozen Bet (Es wird auf die zahlen 1 bis 12, 13 bis 24 oder 25 bis 36 gewettet)</li>
+<li>Column Bet (Es wird auf eine der drei Längsreihen gewettet)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="banner-odds__wrap">
+<div class="container">
+<div class="banner-odds__label">
+<span class="banner-odds_label">Neuheit</span>
+</div>
+<div class="banner-odds__text">
+<span class="banner-odds__title">Quotenrechner freigegeben!</span>
+<span class="banner-odds__desc">Berechnen Sie Ihre Gewinnchancen mit Roulette77</span>
+</div>
+<a class="banner-odds__btn" href="roulette-quotenrechner" onclick="gtag('event', 'start', { 'event_category' : 'odds-calc-launch'});" target="_blank">Starten</a>
+</div>
+</div>
+<div class="how-play-roulette" id="variationen">
+<div class="container">
+<h2 class="section-title">Roulette-Variationen</h2>
+<div class="how-play-roulette__text content-text">
+<img alt="roulette wheel" class="lazyload" data-src="img/main/how-to-play-1.png" src="img/blank.png"/>
+<p>Es ist sehr wichtig, dass man als Spieler die Spielregeln kennt und sie gut verinnerlicht. Schließlich macht es kaum Sinn zu spielen, wenn die verschiedenen Variationen des Spiels nicht bekannt sind. Im Prinzip unterscheidet sich europäisches Roulette nicht stark von den zwei bekannten Spielen französisches und amerikanisches Roulette. Dennoch sind einige Unterschiede vorhanden, die der Spieler kennen muss.</p>
+<h3>Französisches Roulette</h3>
+<p>Zum ganz klassischen und „originalen“ Roulette gehört die Französische Version. Hier gibt es einen Roulette Kessel, der mit 37 Ziffern ausgestattet ist. Dabei reichen die Ziffern von 1 bis 37 und natürlich gibt es hier die Null und diese steht als eine grüne Farbe dar. Alle anderen Ziffern wechseln sich in zwei Farben ab, und zwar Rot und Schwarz. Damit stehen den Spielern die Möglichkeiten des Wettens von 1 bis 36. Alle Einsatzfelder sind in der französischen Sprache beschriftet. Damit fühlt sich der Spieler so, als würde er irgendwo in Monaco in einem echten Casino spielen, während er tatsächlich in einem Online Casino an einem Online Roulette Tisch spielt. Das Französische Roulette ist vor allem dafür bekannt, dass manchmal auch mit Ansage-Wetten gespielt werden kann.</p>
+<img alt="chips and table" class="lazyload" data-src="img/main/how-to-play-2.png" src="img/blank.png"/>
+<h3>Amerikanisches Roulette</h3>
+<p>Es gibt auch einige Menschen, die die Behauptung aufstellen, dass Amerikanisches Roulette das „Original“ sei. Ein funke Wahrheit ist an dieser Behauptung durchaus dran. Schließlich war der Roulette Kessel ursprünglich mit 38 Nummern ausgestattet. Es gab die Ziffern 1 bis 36, Zero und eine Doppelnull. Die Doppelnull scheint vielen Spielern kaum Sinn zu machen. Allerdings ist die Doppelnull für den erhöhten Hausvorteil verantwortlich, denn sie erhöht die Wahrscheinlichkeit ein wenig, dass das Haus gewinnt. Darüber hinaus sieht die Zahlenfolge beim Amerikanischen Roulette anders aus. Die benachbarten Zahlen liegen nicht nebeneinander, wie es bei der Französischen Variation der Fall ist, sondern sie stehen sich gegenüber. Allerdings verändert sich an den Gewinnchancen für den Spieler kaum etwas, denn dieses Spiel ist bekanntermaßen ein Glücksspiel.</p>
+<h3>Europäisches Roulette</h3>
+<p>Der Spielablauf und die Roulette Spielregeln unterscheiden sich vom Europäischen zum Französischen Roulette überhaupt nicht. Allerdings wurde das Französische Roulette etwas überarbeitet und so entstand die Europäischen Versionen. Die Einsatzarten wurden lediglich auf Deutsch, Türkisch oder Englisch übersetzt. Darüber hinaus sind Live Casinos mit einem Europäischen Roulette so gestaltet, dass der Spieler immer an einen Live Dealer trifft, der eine andere Sprache als nur Französisch spricht.</p>
+<p>Um bei diesem Spiel mehr Chancen auf Gewinn zu haben, empfiehlt es sich, die mehrfachen Chancen zu nutzen und nach diesem Wettprinzip Einsätze zu machen. Die einfachen Chancen eignen sich hingegen sehr gut, wenn ein Spieler noch unerfahren ist und das Spiel erst einmal abtasten möchte. Ansonsten sind die Roulette Spielregeln klar definiert und da dieses Spiel ein reines Glücksspiel ist, welches keine Chance auf Tricks oder Tipps bietet, sollten definitiv die Spielregeln befolgt werden und es bleibt auf das große Glück zu hoffen.</p> </div>
+</div>
+</div>
+<script>
+    setTimeout(function(){document.querySelectorAll('.lazyload').forEach(function(el){el.src = el.dataset['src'];})},2000);
+
+</script>
+<div class="how-to-place-bets" id="strategien">
+<div class="container">
+<h2 class="section-title">Roulette Strategien</h2>
+<div class="content-text">
+<p>Es gibt eine progressive Roulette Taktik und diese besagt, dass im Fall eines Verlustes die Einsätze erhöht werden. Mit dieser Taktik versucht der Spieler den Versuch wieder mit einem höheren Gewinn auszugleichen. Anschließend kommt der Spieler wieder in die Gewinnzone und fühlt sich sicher. Es gibt vermutlich keine beste Roulette Strategie, die zu 100 Prozent funktioniert, doch es ist sicherlich sinnvoll, wenn man eine gute Strategie ausprobiert. Die Martingale Strategie stellt eine progressive Roulette Taktik dar, die dem Spieler dabei helfen soll, den Verlust durch einen Gewinn auszugleichen. Doch wie funktioniert eigentlich die Martingale Strategie?</p>
+<h3>Die Martingale Strategie</h3>
+<p>Wenn man sich früher mit der Roulette Strategie beschäftigt hat, ist man ganz bestimmt nicht an der Martingale Strategie vorbeigekommen. Das System ist nicht sonderlich schwer und mit etwas Geduld und Kapital ist es möglich, mithilfe dieser Strategie sehr erfolgreich zu sein. Es ist empfehlenswert, dass die Martingale Strategie nur am Französischen oder Europäischen Roulette ausgeübt wird. Sollte die Kugel auf der Null landen, wird der gesamte Einsatz nicht sofort verloren, sondern der Spieler bekommt die Möglichkeit, den Einsatz wieder freizuspielen. Das Amerikanische Roulette besitzt außer der Null noch eine Doppelnull und das macht die Sache natürlich viel schwieriger. Aus diesem Grund ist die Martingale Strategie nicht für das Amerikanische Roulette geeignet.</p>
+<p>Wenn man sich die Martingale Strategie genau anschaut, wird man feststellen, dass die Verluste einer Wette durch Verdoppelungen des Einsatzes wieder ausgeglichen werden. Dieses Roulette System wird auf einfachen Chancen wie gerade oder ungerade Zahlen, Rot oder Schwarz gespielt. Zu Anfang empfiehlt es sich, mit den kleineren Einsätzen in Höhe von einem bis fünf Euro zu spielen. Beim ersten Verlust startet der Spieler mit der Erhöhung seiner Einsätze. Sollte der Spieler fünf Euro Verlust auf Rot einfahren, wird der nächste Einsatz 10 Euro auf Rot lauten. Sollten 10 Euro ebenfalls verlorengehen, werden 20 Euro auf Rot gesetzt und das System geht so weiter, bis ein Gewinn eingefahren wird. Sollte der Spieler endlich das Glück haben und gewinnen, wird nicht nur der Verlust ausgeglichen, sondern es gibt einen kleinen Gewinn obendrauf. Natürlich braucht man als Spieler ausreichend Geduld und auch etwas Kapital, um diese Roulette Strategie nutzen zu können. Es gibt nur wenig Roulette Systeme die funktionieren können und dazu zählt definitiv das Martingale System und die Fibonacci Strategie.</p>
+<h3>Die Fibonacci Strategie</h3>
+<p>Dieses Roulette System ist sehr ähnlich wie das Martingale System, denn auch hierbei wird auf einfache Chancen gespielt und auf Rot oder Schwarz gesetzt. Der Betrag wird eingesetzt einer Fibonacci-Folge gesetzt. Im Internet gibt es die Fibonacci-Zahlen zu sehen. Der erste Einsatz wird entsprechend der Sequenz getätigt und sollte der Spieler verlieren, bewegt er sich zur nächsten Zahl weiter. Bei einem Gewinn bewegt sich der Spieler zwei Zahlen nach hinten, und zwar nach links. Sobald der Anfang von der Fionacci-Reihe erreicht worden ist, werden die Einsätze von Anfang der Sequenz getätigt. Der Einsatz wird fortgeführt in der Reihenfolge nur solange, bis der erste Verlust eingefahren wird. Die Fibonacci Roulette Taktik ist etwas Kompliziert und dürfte nicht von jedem unerfahrenen Spieler sofort auf Anhieb verstanden werden. Aus diesem Grund lohnt es sich, wenn zu Anfang die Martingale Strategie ausprobiert wird.</p> <img alt="roulette bets" class="lazyload" data-src="img/main/how-place-bets.jpg" src="img/blank.png"/>
+</div>
+</div>
+</div>
+<div class="system-block" id="wie-gewinnt-man">
+<div class="container">
+<div class="section-title">Wie gewinnt man beim Roulette?</div>
+<div class="how-win-intro content-text"><p>Mit einigen Roulette Tricks lässt sich die Spielweise optimieren und das führt unweigerlich dazu, dass der Spieler sicher und erfolgreich wird. Häufig sind es die Einsteiger, die sich die Frage nach den guten Roulette Tipps und Tricks stellen. Schließlich erhofft sich jeder Spieler von den Tricks die Gewinnchancen zu steigern und das Spiel zu dominieren.</p></div>
+<div class="system-block__inner">
+<div class="system-item how-win-item">
+<div class="system-text content-text">
+<img alt="rules" src="img/main/rules.png"/>
+<h3>Die La Partage und die En Prison-Regel:</h3>
+<p>Die La Partage Regel kommt immer häufiger in den Online Casinos beim Roulette zur Anwendung. Hierbei verliert der Spieler nur die Hälfte von seinem Einsatz, wenn die Kugel auf der Null liegen bleibt. Die En Prison Regel wird häufig bei der Europäischen Version angewandt. Der Spieler bekommt hierbei die Möglichkeit den gesamten Spieleinsatz zurückzugewinnen, wenn die Kugel auf die Null landet. Das Amerikanische Roulette sorgt dafür, dass der Spieler den ganzen Einsatz verliert, wenn die Kugel auf eine der beiden Null-Felder landet. Dennoch ist es wichtig, dass man als Spieler das Online Casino richtig wählt, denn die La Partage und En Prison Regel findet nicht in allen Online Spielhallen Anwendung. Das liegt daran, dass die Roulette Gewinnchancen mit der Regel erhöht werden.</p>
+<h3>Tricks lassen sich kostenfrei üben:</h3>
+<p>Damit man sich als Spieler an den Tischen sicher fühlt, ist es wichtig, dass man zu Anfang nicht gleich mit dem echten Geld spielt. In einem realen Casino ist das natürlich nicht möglich, doch es handelt sich hierbei um eine online Version. Beim Online Spielen kann der Spieler diese Roulette Tricks nutzen und mit dem Spielgeld spielen. Doch was bringt das Spielen mit dem Spielgeld überhaupt? In erster Linie wird durch das kostenlose Spielen dafür gesorgt, dass der Spieler eigene Taktiken und verschiedene Roulette Tipps ausprobiert. Demnach braucht der Spieler keine Angst zu haben, dass er sein Geld auf das Spiel setzt und womöglich verlieren könnte. Außerdem lassen sich anschließend die Gewinnchancen erhöhen, wenn der Spieler das Spiel richtig verstanden hat.</p> </div>
+</div>
+<div class="system-item how-win-item">
+<div class="system-text content-text">
+<img alt="uders" src="img/main/uders.png"/>
+<h3>An Roulette Tischen mit hohen Gewinnquoten spielen:</h3>
+<p>Die Roulette Gewinnquoten sind sehr wichtig und der Spieler sollte diese unbedingt immer im Auge behalten. Nicht alle Anbieter und Entwickler dieser Spiele veröffentlichen diese Angaben direkt auf der Startseite und aus diesem Grund ist es wichtig, dass man sich die Casinobedingungen genau durchliest. Denn dort findet der Spieler alle wichtigen Informationen zu den verschiedenen Roulette Spielen und das ist vermutlich einer der wichtigsten Roulette Tipps, die es sich unbedingt lohnt zu verinnerlichen. Schließlich liegt die Wahrscheinlichkeit bei einer höheren Gewinnquote höher, dass die Gewinnchancen steigen und der Spieler mit einem lukrativen Gewinn aus dem Spiel rausgeht.</p>
+<h3>Die Bonusangebote sind sehr wichtig:</h3>
+<p>Immer noch haben nicht alle Spieler verstanden, dass Bonusangebote der Schlüssel zum Erfolg beim Online Glücksspiel sind. Schließlich erhält der Spieler bei einem Einzahlungsbonus Spielgeld, welches er zum Spielen an z. B. Roulette Tischen verwenden kann. Damit sinkt auch das Risiko des Verlustes, denn bei einem Verlust verliert der Spieler nicht sein eigenes Geld, sondern das ihm vom Online Casino zur Verfügung gestellte Spielgeld. Folglich lassen sich somit risikofrei verschiedene Strategien ausprobieren und es besteht immer die Chance, dass man einen Gewinn einfährt.</p> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="video-section">
+<div class="container">
+<div class="lucky-number">
+<link href="luckygen/dist/css/luckygenerator.css" rel="stylesheet" type="text/css"/>
+<div class="lg-box">
+<div class="lg-title-upper">Glück Nummer</div>
+<div class="lg-title-bottom">Generator</div>
+<div class="lg-row">
+<input placeholder="Vorname" type="text"/>
+<select class="lg-sex-selector"><option disabled="" selected="">Geschlecht</option></select>
+</div>
+<div class="lg-row"><input class="lg-fw" maxlength="99" placeholder="Geben Sie einen anderen Namen ein" type="text"/></div>
+<div class="lg-row"><span>Geburtstag</span></div>
+<div class="lg-row">
+<select class="lg-day-selector"><option disabled="" selected="">DDD</option></select>
+<select class="lg-month-selector"><option disabled="" selected="">MM</option></select>
+<select class="lg-year-selector"><option disabled="" selected="">YYYY</option></select>
+</div>
+<div class="lg-row"><span>Spieldatum</span></div>
+<div class="lg-row">
+<select class="lg-day-selector"><option disabled="" selected="">11</option></select>
+<select class="lg-month-selector"><option disabled="" selected="">11</option></select>
+<select class="lg-game-year-selector"><option disabled="" selected="">2020</option></select>
+</div>
+<div class="lg-row">
+<button class="lg-start box-lng__btn" onclick="gtag('event', 'start', { 'event_category' : 'lucky-num-gen'})">GENERIEREN</button>
+</div>
+</div>
+<div class="lg-container">
+<div class="lg-wheel-box"></div>
+<div class="lg-lucky-numbers"></div>
+<button class="lg-exit">Exit</button> <br/> <br/>
+</div>
+<script src="luckygen/dist/js/script.min.js"></script>
+<div id="lng-modal">
+<div class="b1">
+<div id="lng-modal__flash"> </div>
+<div id="lng-modal__back"> </div>
+</div>
+</div>
+</div>
+<div class="block-video">
+<div class="block-video__title">Roulette Videos</div>
+<div class="video">
+<iframe allowfullscreen="" class="block-video__iframe" data-src="https://www.youtube.com/embed/j-FPpBx7Gdk" height="170" src="about:blank" style="border: none" width="294"></iframe>
+</div>
+<span class="block-video__link">Wie man Roulette spielt</span>
+<div class="block-video__description">
+                Lernen Sie mit Hilfe dieses Tutorials, wie man Roulette spielt. Wir werden Ihnen beibringen, wie man ein Roulette Spieler wird.            </div>
+<a class="btn__see-all" href="roulette-videos">ALLE VIDEOS SEHEN</a>
+</div>
+<div class="block-email">
+<!--<form class="block-email__inner">-->
+<form action="thanks-subscription" class="block-email__inner" method="post">
+<div class="block-email__title">in Verbindung bleiben</div>
+<div class="block-email__info-text">Geben Sie bitte Ihre E-Mail-Adresse</div>
+<div class="block-email__info-description">unten ein und wir werden Ihnen ein neues Glück Nummer jeden Tag schicken!</div>
+<input class="block-email__input" name="your_email" placeholder="Geben Sie Ihre E-Mail" required="" type="email"/>
+<button class="btn__video-section btn__email" type="submit">ABONNIEREN</button>
+</form>
+</div>
+</div>
+</div>
+<div class="faq-block" id="faq">
+<div class="container">
+<div class="section-title">FAQs</div>
+<div class="accordeon">
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Ich habe Geld auf Ihrer Webseite gewonnen. Wie kann ich das Geld auszahlen lassen?                </div>
+<div class="accordeon__text content-text">
+<p>Wir Roulette77 bieten auf unserer Webseite keine Spiele, die man mit dem echten Geld spielen kann. In unserem Angebot stehen Spiele, die sich ausschließlich mit dem Spielgeld spielen lassen. Aus diesem Grund ist es nicht möglich, dass Sie als Spieler Geld auszahlen lassen können. Vielmehr weisen wir Sie darauf hin, dass Sie in unserer Kategorie „Spiele um Echtgeld“ verschiedene Online Casinos finden, die wir zum Spielen um Echtgeld empfehlen. Dort können Sie sich als Kunde registrieren, eine Einzahlung tätigen und anschließend das gewonnene Geld auszahlen lassen.</p> </div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Warum Amerikanisches Roulette Spielen, wenn man beim Europäischen Roulette höhere Chancen auf den Gewinn hat?                </div>
+<div class="accordeon__text content-text">
+<p>Die Chancen auf den Gewinn liegen bei den beiden Spielen in etwa ungefähr gleich. Hier kommt es viel mehr auf die Vorlieben des jeweiligen Spielers an. Das Amerikanische Roulette unterscheidet sich in der Anordnung der Zahlen und es gibt zwei Nullen. Manche Spieler reizt vor allem die Anordnung der Zahlen, denn beim Amerikanischen Roulette liegen die Nachbarzahlen nicht nebeneinander, sondern gegenüber voneinander. Ansonsten unterscheiden sich die Spiele nicht wesentlich voneinander.</p> </div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Mir wird Angebote eine Software zum Spielen von Roulette Spielen zu kaufen. Lohnt es sich ein solches Angebot überhaupt anzunehmen?                </div>
+<div class="accordeon__text content-text">
+<p>Wir möchten an dieser Stelle ganz klar erwähnen, dass es in der heutigen Zeit überhaupt keinen Sinn macht, ein solches Angebot ernsthaft anzusehen. Schließlich werden alle Casinospiele, sprich alle Roulette Spiele, ohne den Download zum Spielen zur Verfügung gestellt. Deswegen macht es keinen Sinn, wenn eine spezielle Software gekauft und heruntergeladen wird. Alle modernen Spiele lassen sich direkt aus dem Browser ausführen. Dabei spielt es keine Rolle, ob der Spieler auf einem mobilen Endgerät oder auf einem Desktop-PC spielt.</p> </div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Ich kann mein Lieblings Roulette Spiel nicht auf der Webseite finden. Was soll ich tun?                </div>
+<div class="accordeon__text content-text">
+<p>Sollten Sie ein Liebling Roulette Spiel auf unserer Webseite nicht finden können, empfehlen wir Ihnen, sich an unseren Kundensupport zu wenden. Unseren Kundensupport erreichen Sie, wenn Sie auf den Button „Kontakt“ klicken und uns eine E-Mail zukommen lassen. Außerdem empfiehlt es sich, den Kundensupport auch bei anderen Anliegen und Fragen zu nutzen. Unsere kompetenten Mitarbeiter stehen Ihnen zur Verfügung und beantworten alle Fragen so schnell und präzise wie möglich. Daher sollten Sie sich nicht scheuen und bei jeder auftretenden Frage uns jederzeit anschreiben. Wir freuen uns von Ihnen zu hören!</p> </div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Was ist der Unterschied zwischen dem Live Roulette und dem herkömmlichen Roulette?                </div>
+<div class="accordeon__text content-text">
+<p>Immer noch wird diese Fragen von vielen Glücksspielern gestellt. Die herkömmlichen Roulette Spiele werden gegen einen Computer gespielt und das erzeugt nicht die gewünschte Atmosphäre, wie sie in einem echten Casino herrscht. Aus diesem Grund gibt es Live Casinos in den Online Casinos. Hierbei handelt es sich um einen speziellen Bereich, der verschiedene Live Tischspiele bietet, die gegen echte Live Dealer und Croupier per Livestream gespielt werden dürfen. Somit fühlt sich der Spieler so, obwohl er Zuhause vor dem Computer sitzt, als wäre er in einem echten Casino und würde gegen echten Dealer spielen.</p> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="relinking__wrap">
+<div class="container">
+<h2 class="relinking__title">Beliebte Seiten</h2>
+<div class="relinking__cards">
+<a class="relinking__card" href="https://roulette77.de/roulette-strategien">
+<div class="relinking__card-top">
+<img alt="Roulette Strategien" src="./img/relinking/strategies.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Roulette Strategien</span>
+</div>
+</a>
+<a class="relinking__card" href="https://roulette77.de/live-roulette">
+<div class="relinking__card-top">
+<img alt="Live Roulette" src="./img/relinking/live.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Live Roulette</span>
+</div>
+</a>
+<a class="relinking__card" href="https://roulette77.de/wie-man-spielt">
+<div class="relinking__card-top">
+<img alt="Spielregeln" src="./img/relinking/rules.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Spielregeln</span>
+</div>
+</a>
+<a class="relinking__card" href="https://roulette77.de/roulette-simulator">
+<div class="relinking__card-top">
+<img alt="Roulette Simulator" src="./img/relinking/simulator.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Roulette Simulator</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="footer__top">
+<div class="container">
+<div class="footer__menu">
+<ul class="footer__menu-list">
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="kontaktieren-sie-uns">Kontaktieren Sie uns</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="sitemap">Sitemap</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="sprache-wählen">Sprache wählen</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="uber-uns">Über uns</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer__bottom">
+<div class="container">
+<div class="footer__content-wrap">
+<div class="footer__content">
+                    Roulette77 ist der außergewöhnliche Online-Service von Deutsche für Deutsche. Das ist der Ort, wo Sie etwas über das Roulette lernen können ; Regeln und Tricks, besten Strategien, größte Bonusen- alle wichtigen Informationen  gesammelt auf einer österreichischen Website, um Ihre Zeit und Geld zu sparen.                </div>
+<div class="footer__content">
+                    Roulette 77
+                    ist eine unabhängige Website, die keinem Online-Casino angeschlossen ist und Informationen über Online-Roulette bietet. 2011-2020. Alle Rechte sind vorbehalten.                </div>
+<div class="footer__social">
+<a aria-label="Facebook" class="fb" href="/"></a>
+<a aria-label="Twitter" class="tw" href="https://twitter.com/roulette77_team"></a>
+<a aria-label="Youtube" class="youtube" href="https://www.youtube.com/channel/UCUo3debUgP50mCuHGolTcsA"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--</div>-->
+<script type="text/javascript">window.onload = new function(){var hd = document.getElementsByTagName('head').item(0);var js = document.createElement('script'); js.setAttribute('language', 'javascript'); js.setAttribute('src', 'https://certify.gpwa.org/script/roulette77.de/'); hd.appendChild(js); return false;}</script>
+<div class="footer__additional">
+<div class="container">
+<a class="footer__age-logo" href="https://www.schleswig-holstein.de/DE/Fachinhalte/G/gluecksspiel/_documents/onlineCasinospiele.html" rel="nofollow">
+<img alt="Schleswig Holstein" src="./img/schleswig-holstein.png"/>
+</a>
+<a class="footer__age-logo" href="https://www.spielen-mit-verantwortung.de/" rel="nofollow">
+<img alt="Spielen Mit Verantwortung" src="./img/spielen-mit-verantwortung.png"/>
+</a>
+<a href="https://certify.gpwa.org/verify/de/roulette77.de/" id="GPWASeal" onclick="return GPWAVerificationPopup(this)"><img alt="GPWA" border="0" onerror="this.width=0; this.height=0;" src="https://certify.gpwa.org/seal/de/roulette77.de/"/></a>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+<script src="./js/slick.min.js"></script>
+<script>
+        $('.liveRl-info__slider').slick({
+        dots: true,
+        arrows: true,
+        responsive: [
+    {
+      breakpoint: 350,
+      settings: {
+        arrows: false
+      }
+    }
+  ]
+      });
+    </script>
+<script>
+        let ar = document.querySelectorAll('.accord-card .accord-card__arrow'),
+            card = document.querySelectorAll('.accord-card'),
+            text = document.querySelectorAll('.accord-card .accord-card__text');
+        ar.forEach((item, index) => {
+            item.addEventListener('click', ()=>{               
+                text[index].classList.toggle('open');
+                card[index].classList.toggle('open');
+                item.classList.toggle('open');
+            })
+        })
+    </script>
+<script>
+    jQuery(document).ready(function($) {
+
+        $('.menu-toggle').click(function () {
+            $('.nav').toggleClass('opening');
+            $(this).toggleClass('open');
+        });
+
+        $('.menu-toggle-flag').click(function () {
+            $('.flag-section-mobile').toggleClass('opening');
+            $(this).toggleClass('open');
+        });
+
+        $('form input[type=text]').on('change invalid', function () {
+            let textfield = $(this).get(0);
+            textfield.setCustomValidity('');
+            if (!textfield.validity.valid) {
+                textfield.setCustomValidity('Bitte füllen Sie das Feld aus');
+            }
+        });
+
+        $('form input[type=email]').on('change invalid', function () {
+            let textfield = $(this).get(0);
+            textfield.setCustomValidity('');
+            if (!textfield.validity.valid) {
+                textfield.setCustomValidity('Falsche E-Mail-Adresse');
+            }
+        });
+
+        function arrowUp() {
+            $(window).scroll(function () {if ($(this).scrollTop() > 200) {$('#scroller').fadeIn();} else {$('#scroller').fadeOut();}});
+            $('#scroller').click(function () {$('body,html').animate({scrollTop: 0}, 400); return false;});
+        }
+        arrowUp();
+
+        function hidingGame() {
+            $('#mobile-content-iframe').slideToggle("slow", function () {
+                $("html, body").animate({scrollTop: $('#mobile-content-iframe').offset().top});
+            });
+        }
+
+        function hidingOverlay() {$('.content-iframe__overlay').hide();}
+
+        if ($(window).height() > 1045) {
+            loadIframe();
+        }
+        $(window).scroll(function () {
+            loadIframe();
+        });
+
+        let isLoaded = false;
+        function loadIframe() {
+
+            if (!isLoaded) {
+                let srcIframe = $('.block-video__iframe').attr('data-src');
+                $(".block-video__iframe").attr('src', srcIframe);
+                isLoaded = true;
+            }
+        }
+    });
+</script>
+<script>
+    /// dropdown menu  desktop
+    if($('.nav-group').length || 1){
+
+            let isDesktop = function(){
+                return $(window).width() > 779;
+            };
+
+            $('.nav-group').on('mouseenter', function () {
+                if ($(this).hasClass('dropped-down')) {
+                    if (isDesktop()) {
+                        $(this).removeClass('dropped-down');
+                    }
+                } else {
+                    if (isDesktop()) {
+                        $('.nav-group').not(this).removeClass('dropped-down');
+                        $(this).addClass('dropped-down');
+                    }
+                }
+            });
+
+            $('.nav-group__list, .nav-group').on('mouseleave', function (e) {
+                if (!$(e.relatedTarget).hasClass('nav-group__title') && !$(e.relatedTarget).hasClass('nav-group__title-text') && !$(e.relatedTarget).hasClass('nav-group')  ) {
+                    $('.nav-group').removeClass('dropped-down');
+                }
+            });
+
+             $(window).on('resize', function(){
+                 console.log('resizing');
+                    setTimeout(function(){
+                        $('.nav').removeClass('opening');
+                        $('.menu-toggle').removeClass('open');
+                    },200);
+            })
+    }
+
+
+    // dropdown menu mobile
+    $('.nav-group__title').on('click', function(e){
+        if ($(window).width() <= 779) {
+            let el = $(e.target).has('span.nav-group__triangle') ? $(e.currentTarget) : $(e.target);
+            let allNavGroups = $('.nav-group');
+            let navGroup = el.parents('.nav-group');
+
+            if (navGroup.hasClass('mobile-expanded')) {
+
+                navGroup.removeClass('mobile-expanded');
+                el.find('span.nav-group__triangle').css('transform', 'rotate(0)');
+                // el.siblings('.nav-group__list').css('display', 'none');
+                el.siblings('.nav-group__list').removeClass('df').addClass('dn');
+
+            } else if (!navGroup.hasClass('mobile-expanded')) {
+
+                allNavGroups.removeClass('mobile-expanded');
+                $('.nav-group__title span.nav-group__triangle').css('transform', 'rotate(0)');
+                // $('.nav-group__list').css('display', 'none');
+                $('.nav-group__list').removeClass('df').addClass('dn');
+
+                navGroup.addClass('mobile-expanded');
+                el.find('span.nav-group__triangle').css('transform', 'rotate(180deg)');
+                // el.siblings('.nav-group__list').css('display', 'flex');
+                el.siblings('.nav-group__list').removeClass('dn').addClass('df');
+            }
+        }
+    });
+
+    // resetting mobile collapsible menu after resizing
+    $(window).on('resize', function () {
+            $('.nav-group').removeClass('mobile-expanded');
+            $('.nav-group__list').removeClass('df dn');
+            $('.nav-group__title span.nav-group__triangle').css('transform', 'rotate(0)');
+    });
+
+
+</script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script>
+    jQuery(document).ready(function($) {
+        var c_value = Cookies.get('user_visit');
+        if(c_value != 1) {
+            $("#cookie-pop-up").fadeIn( 500 );
+            $("#cookie-ok").click(function() {
+                Cookies.set('user_visit', '1', { expires: 1 });
+                $("#cookie-pop-up").fadeOut( 500 );
+            });
+        }
+    });
+</script>
+<div class="cookie" id="cookie-pop-up">
+<p class="cookie-title">
+        Benachrichtigung über Cookie-Richtlinien    </p>
+<p>
+        Wir verwenden Cookies auf unserer Website. Wenn Sie diese Website weiterhin nutzen, gehen wir davon aus, dass Sie damit zufrieden sind    </p>
+<div class="cookie-close" id="cookie-ok">х</div>
+</div>
+<script>
+    jQuery(document).ready( function ($) {
+//        $('.slider').slick({
+//            dots: true,
+//            arrows: false,
+//            autoplay: false,
+//            autoplaySpeed: 5000,
+//            focusOnSelect: true
+//        });
+        $(".accordeon__row:nth-child(1) .accordeon__title").addClass('active');
+        $(".accordeon__row:nth-child(1) .accordeon__text").css('display', 'block');
+        $('.accordeon .accordeon__title').on('click', f_acc);
+
+        function f_acc() {
+
+            $(".accordeon__row:nth-child(1) .accordeon__title").removeClass('active');
+            $(".accordeon__row:nth-child(1) .accordeon__text").css('display', 'none');
+            $('.accordeon .accordeon__text').not($(this).next()).slideUp(400);
+            $(this).next().slideToggle(500);
+            $(this).toggleClass('active');
+            $('.accordeon__title').not($(this)).removeClass('active');
+            $(this).parent().next().slideDown();
+            return false;
+        }
+    });
+</script>
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-117353870-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-117353870-1');
+</script>
+<div class="overlay" id="exitPopup">
+<div class="exit-popup">
+<img alt="Roulette" class="exit-popup__intro-img" src="img/roulette.png" style="max-width: 300px"/>
+<div class="exit-popup__box">
+<strong class="exit-popup__title">Holen sie sich jetzt einen exklusiven bonus bei Spinia!</strong>
+<img alt="spinia casino" class="exit-popup__img" src="img/casino-logo/spinia.png"/>
+<p>Willkommensbonus 100% für roulette spieler!!</p>
+<a class="exit-popup__btn exit-popup__btn_red popup-close" href="#" onclick="gtag('event', 'start', { 'event_category' : 'exit-popup-no'});" rel="nofollow">Nein, danke</a>
+<a class="exit-popup__btn exit-popup__btn_green" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'exit-popup-btn'});" target="_blank">Bonus holen</a>
+<span class="exit-popup__close popup-close" onclick="gtag('event', 'start', { 'event_category' : 'exit-popup-close'});"></span>
+</div>
+</div>
+</div>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		let windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+		if(windowWidth > 700) {
+			setTimeout( function() {
+				document.addEventListener('mouseout', function (evt) {
+					let popupSession = localStorage.getItem('popup-is-showed');
+					if(evt.relatedTarget === null && !popupSession) {
+						localStorage.setItem('popup-is-showed', 'true');
+						exitPopup.style.cssText = 'display: block';
+					}
+				});
+			}, 5000);
+		} else {
+
+			setTimeout(function () {
+				let popupSession = localStorage.getItem('popup-is-showed');
+
+				if(!popupSession) {
+					localStorage.setItem('popup-is-showed', 'true');
+					exitPopup.style.cssText = 'display: block';
+				}
+			}, 10000);
+		}
+
+		function closePopup() {
+				exitPopup.addEventListener('click', function (ev) {
+				let target = ev.target;
+				if(target.classList.contains('popup-close')) {
+					ev.preventDefault();
+					exitPopup.style.cssText = 'display: none';
+				}
+			})
+		}
+		closePopup()
+	})
+</script>
+<script src="./js/forms.js?v=6"></script>
+<!--free roulette -->
+<script>
+    let frDisplay = $('.game-list-roulette__display'),
+        frFrame = $('.game-list-roulette__display-iframe'),
+        frButtons = $('.game-list-roulette__display-btns'),
+        frDemoBtn = $('button.game-list-roulette__display-btn'),
+        frMoneyBtn = $('a.game-list-roulette__display-btn');
+
+    $('.game-list-roulette__button').on('click', function (e) {
+        let el = $(this);
+
+        let img = el.data('img'),
+            type = el.data('type'),
+            url = el.data('url'),
+            name = el.data('name');
+
+        /// setting background
+        frDisplay.css("backgroundImage", "url(" + img + ")");
+
+        // showing display
+        frDisplay.css('display', 'flex');
+                
+        // setting dataatr to free money btn
+        frDemoBtn.data('url', url);
+        return false;
+    });
+
+    $('button.game-list-roulette__display-btn').on('click', function(e){
+        let iframeSrc = $(this).data('url');
+
+        // hiding buttons
+        frButtons.css('display', 'none');
+
+        // showing Iframe
+        frFrame.attr('src', iframeSrc);
+        return false;
+    });
+
+    /// closing open game and resetting
+    $('.game-list-roulette__close').on('click', function(){
+        frDisplay.css('display', 'none');
+        frButtons.css('display', 'flex');
+        frFrame.attr('src','about:blank');
+    });
+</script>
+</body>
+</html>

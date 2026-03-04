@@ -1,0 +1,172 @@
+
+/* Notification boxes / dialogs */
+
+.asauth-notificationBox p {
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.asauth-opaqueOverlay {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: #f9f9f9;
+  z-index: 2000;
+  -webkit-transform: translate3d(0,0,0); /* fixes an Android bug where elements don't honor z-index */
+}
+
+.asauth-notificationBox {
+	overflow: auto;
+  -webkit-overflow-scrolling: touch;
+	position: absolute;
+	z-index: 20;
+	width: 400px;
+	max-width: 90%;
+	max-height: 80%;
+	background: #f8faf9;
+	box-shadow: 0px 1px 5px rgba(0,0,0,.5);
+}
+
+#asauth-orderproduct {
+  z-index: 9999;
+}
+
+.asauth-notificationBoxContent {
+  overflow: hidden; /* for floated elements */
+	padding: 25px;
+}
+
+.asauth-notificationBoxContent h2 {
+	margin: 0 0 15px;
+	padding: 0 0 5px;
+	border-bottom: 2px solid #eee;
+	color: #00acec;
+	font-size: 20px;
+}
+
+.asauth-notificationBoxContent p {
+	margin: 0 0 30px;
+	color: #444;
+}
+
+.asauth-textButton {
+  background: #c9c8ca;
+  background: -moz-linear-gradient(top,  #c9c8ca 20%, #bcb6b6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#c9c8ca), color-stop(100%,#bcb6b6));
+  background: -webkit-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: -o-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: -ms-linear-gradient(top,  #c9c8ca 20%,#bcb6b6 100%);
+  background: linear-gradient(to bottom,  #c9c8ca 20%,#bcb6b6 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9c8ca', endColorstr='#bcb6b6',GradientType=0 );
+  border-bottom: 2px solid #a59e9f;
+  border-right: 1px solid #b8b7ba;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+
+.asauth-textButton > span {
+  color: #685e61;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 7px 10px;
+  min-height: 1.3em;
+  font-weight: 700;
+  font-size: 12px;
+  text-align: center;
+  line-height: 15px;
+  letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 420px) {
+	.asauth-textButton {
+		clear: both;
+		width: 100%;
+		margin: 10px 0;
+	}
+}
+
+.asauth-paywall-contents .asauth-widget-login {
+  display: none; /* Hide login by default in the paywall dialog */
+}
+
+.asauth-paywall-contents {
+  margin-bottom: 0.8em;
+}
+
+.widget_asauth_widget_product {
+  overflow: hidden;
+}
+.asauth-widget-producttitle {
+  font-size: 14px;
+  line-height: 16px;
+  margin-bottom: 0.5em;
+  font-weight: 700;
+}
+.asauth-widget-productdescription {
+  font-size: 13px;
+  line-height: 16px;
+  margin-bottom: 1em;
+}
+.asauth-widget-productprice {
+  float: left;
+  font-weight: 700;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.asauth-widget-buybutton {
+  margin-top: 0em;
+  margin-right: 1%;
+  background: #c9c8ca;
+  background: -moz-linear-gradient(top, #c9c8ca 20%, #bcb6b6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#c9c8ca), color-stop(100%,#bcb6b6));
+  background: -webkit-linear-gradient(top, #c9c8ca 20%,#bcb6b6 100%);
+  background: -o-linear-gradient(top, #c9c8ca 20%,#bcb6b6 100%);
+  background: -ms-linear-gradient(top, #c9c8ca 20%,#bcb6b6 100%);
+  background: linear-gradient(to bottom, #c9c8ca 20%,#bcb6b6 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9c8ca', endColorstr='#bcb6b6',GradientType=0 );
+  border-bottom: 2px solid #a59e9f;
+  border-right: 1px solid #b8b7ba;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  float: right;
+}
+.asauth-widget-buybutton span {
+  color: #685e61;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0px;
+  min-height: 1.3em;
+  font-weight: 700;
+  font-size: 12px;
+  text-align: center;
+  line-height: 15px;
+  letter-spacing: 1px;
+}
+
+.asauth-logged-in-paywall p {
+  margin-bottom: 6px;
+}
+.asauth-orderbutton {
+  float: right;
+}
+.asauth-logged-in-paywall .loader {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background-color: rgba(255,255,255,0.7);
+  z-index: 5;
+}
+
+.orderproductreturn {
+  font-family: sans-serif;
+}
+

@@ -1,0 +1,1491 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!--><html class="ie ie6" lang="de"> <!--<![endif]-->
+<!--[if IE 7 ]><!-->
+<!--<![endif]-->
+<!--[if IE 8 ]><!-->
+<!--<![endif]-->
+<!--[if IE 9 ]><!-->
+<!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<!--<![endif]-->
+<head>
+<link href="https://www.dw.com/de/wie-deutschland-in-videospielen-dargestellt-wird/a-45161907" rel="canonical"/>
+<link href="https://amp.dw.com/de/wie-deutschland-in-videospielen-dargestellt-wird/a-45161907" rel="amphtml"/>
+<link href="https://m.dw.com/de/wie-deutschland-in-videospielen-dargestellt-wird/a-45161907" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="/favicon.png" rel="icon" type="image/png"/>
+<link href="/favicon.png" rel="apple-touch-icon"/>
+<script src="/js/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script src="/js/dsgvo/dsgvo_utils.js" type="text/javascript"></script>
+<script src="/js/beta_ROAD/accessToROAD_Beta.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script src="/js/de.dw.cdaLanguage.min.js?v=6.64.3" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<!-- PAGINATION for SEO -->
+<meta content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+<meta content="1 days" name="revisit-after"/>
+<meta content="Deutsche Welle (www.dw.com)" name="publisher"/>
+<meta content="© 2020 Deutsche Welle (www.dw.com)" name="copyright"/>
+<meta content="Deutsche Welle (www.dw.com)" name="author"/>
+<meta content="app-id=498833085" name="apple-itunes-app"/>
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app"/>
+<meta content="de_DE" name="language"/>
+<meta content="Gamescom,Videospiele,Computerspiele" name="keywords"/>
+<meta content="Gamescom,Videospiele,Computerspiele" name="news_keywords"/>
+<meta content="Deutschland ist der fünftgrößte Spielemarkt der Welt, aber als Schauplatz für die Videospiele kaum präsent. Das bestätigt sich auch auf der Gamescom. Doch es gibt Hoffnung. Indie-Entwickler zeigen, was möglich ist." name="description"/>
+<!-- Facebook -->
+<meta content="146634408702997" property="fb:pages"/>
+<meta content="146822482008281" property="fb:pages"/>
+<meta content="46657640977" property="fb:pages"/>
+<meta content="66069193936" property="fb:pages"/>
+<meta content="338998993519" property="fb:pages"/>
+<meta content="164418313578851" property="fb:pages"/>
+<meta content="180013702044400" property="fb:pages"/>
+<meta content="141111232580541" property="fb:pages"/>
+<meta content="130435762955" property="fb:pages"/>
+<meta content="24369314439" property="fb:pages"/>
+<meta content="131314590235972" property="fb:pages"/>
+<meta content="204430626300528" property="fb:pages"/>
+<meta content="229148123764036" property="fb:pages"/>
+<meta content="533361940012569" property="fb:pages"/>
+<meta content="49621769215" property="fb:pages"/>
+<meta content="142061114273" property="fb:pages"/>
+<meta content="125113390860188" property="fb:pages"/>
+<meta content="144393622272640" property="fb:pages"/>
+<meta content="245974238781165" property="fb:pages"/>
+<meta content="171270196224553" property="fb:pages"/>
+<meta content="118184978196457" property="fb:pages"/>
+<meta content="178734186974" property="fb:pages"/>
+<meta content="329373860454526" property="fb:pages"/>
+<meta content="107256659303602" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="122470481130194" property="fb:pages"/>
+<meta content="114256188645" property="fb:pages"/>
+<meta content="165174814436" property="fb:pages"/>
+<meta content="155438574470276" property="fb:pages"/>
+<meta content="50498982209" property="fb:pages"/>
+<meta content="146790007393" property="fb:pages"/>
+<meta content="164947183521601" property="fb:pages"/>
+<meta content="211745678846355" property="fb:pages"/>
+<meta content="134391923301563" property="fb:pages"/>
+<meta content="63821723396" property="fb:pages"/>
+<meta content="188157417929359" property="fb:pages"/>
+<meta content="183239561787790" property="fb:pages"/>
+<meta content="449623021724487" property="fb:pages"/>
+<meta content="138206409609783" property="fb:pages"/>
+<meta content="85945845557" property="fb:pages"/>
+<meta content="226482300719948" property="fb:pages"/>
+<meta content="60713064323" property="fb:pages"/>
+<meta content="239025992817731" property="fb:pages"/>
+<meta content="822896961134864" property="fb:pages"/>
+<meta content="522458607878947" property="fb:pages"/>
+<meta content="188850101556821" property="fb:pages"/>
+<meta content="618268655042471" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="276810869063357" property="fb:pages"/>
+<meta content="100960075341" property="fb:pages"/>
+<meta content="80408983549" property="fb:pages"/>
+<meta content="100897936618493" property="fb:pages"/>
+<meta content="138706041945" property="fb:pages"/>
+<meta content="211775368865879" property="fb:pages"/>
+<meta content="171400242905536" property="fb:pages"/>
+<meta content="132731133463621" property="fb:pages"/>
+<meta content="195750250443390" property="fb:pages"/>
+<meta content="179443708766951" property="fb:pages"/>
+<meta content="1804124663153407" property="fb:pages"/>
+<meta content="134957921127" property="fb:pages"/>
+<meta content="308858529571862" property="fb:pages"/>
+<meta content="245084839304894" property="fb:pages"/>
+<meta content="1643141409322787" property="fb:pages"/>
+<meta content="161206864395653" property="fb:pages"/>
+<meta content="166280690549965" property="fb:pages"/>
+<meta content="1306227629456410" property="fb:pages"/>
+<meta content="172144003288251" property="fb:pages"/>
+<meta content="789839844513554" property="fb:pages"/>
+<meta content="1907513229480533" property="fb:pages"/>
+<meta content="1673788669587458" property="fb:pages"/>
+<meta content="475937372553968" property="fb:pages"/>
+<meta content="670958179648696" property="fb:pages"/>
+<meta content="608485009178753" property="fb:pages"/>
+<meta content="174528749295024" property="fb:pages"/>
+<meta content="86161846910" property="fb:pages"/>
+<meta content="268396416590741" property="fb:pages"/>
+<meta content="239261806709" property="fb:pages"/>
+<meta content="61626715828" property="fb:pages"/>
+<meta content="210354862357400" property="fb:pages"/>
+<meta content="100000944106340" property="fb:admins"/>
+<meta content="100004095264842" property="fb:admins"/>
+<meta content="100004135624835" property="fb:admins"/>
+<meta content="Deutschland ist der fünftgrößte Spielemarkt der Welt, aber als Schauplatz für die Videospiele kaum präsent. Das bestätigt sich auch auf der Gamescom. Doch es gibt Hoffnung. Indie-Entwickler zeigen, was möglich ist." property="og:description"/>
+<meta content="https://www.dw.com/de/wie-deutschland-in-videospielen-dargestellt-wird/a-45161907" property="og:url"/>
+<meta content="DW.COM" property="og:site_name"/>
+<meta content="Wie Deutschland in Videospielen dargestellt wird | DW | 21.08.2018" property="og:title"/>
+<meta content="https://static.dw.com/image/45149153_304.jpg" property="og:image"/>
+<meta content="940" property="og:image:width"/>
+<meta content="529" property="og:image:height"/>
+<meta content="https://static.dw.com/image/45149121_304.png" property="og:image"/>
+<meta content="940" property="og:image:width"/>
+<meta content="529" property="og:image:height"/>
+<meta content="https://static.dw.com/image/45160795_304.jpg" property="og:image"/>
+<meta content="940" property="og:image:width"/>
+<meta content="529" property="og:image:height"/>
+<link href="/css/dwde-ltr.min.css?v=6.64.3" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-fonts-latin.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-epg-ltr.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style media="screen" type="text/css">
+div#navMain ul#navLevel1 a#n01 {
+color: #fff !important;
+}
+div#navMain ul#navLevel1 a#n01:hover {
+color: #000 !important;
+}
+div#navMain ul#navLevel1 li:hover a#n01 {
+color: #000 !important;
+}
+div#navMain ul#navLevel2 a#navAct2 {
+color: #fff !important;
+}
+</style>
+<script type="text/javascript">
+let DWStructureType = "NORMAL";
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=157204581336210&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
+</script>
+<!-- End Google Tag Manager -->
+<title>Wie Deutschland in Videospielen dargestellt wird | Digitales Leben | DW | 21.08.2018</title>
+<script src="/js/dwde.min.js?v=6.64.3" type="text/javascript"></script>
+<!-- DW jwplayer skin -->
+<link href="/js/jwplayer8/skins/DW/dwskinfile.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/js/jwplayer8/skins/DW/desktop-additions.css" media="all" rel="stylesheet" type="text/css"/>
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script src="/js/datepicker/jquery.ui.datepicker-de.min.js" type="text/javascript"></script>
+<script async="" crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=deutschewelle"></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "de";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwtest-de';
+</script>
+<script>
+window.adHandler = window.adHandler || {};
+window.adHandler.cmd = window.adHandler.cmd || [];
+adHandler.cmd.push(function () {
+adHandler.service.setTargeting('a-45161907', ['19990010', '19990004']);
+adHandler.service.request();
+});
+</script>
+<script async="" src="/js/advertisement/clickPerformance.desktop.articles.min.js" type="text/javascript"></script>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@dw_deutsch" name="twitter:site"/>
+<meta content="Wie Deutschland in Games dargestellt wird" name="twitter:title"/>
+<meta content="https://static.dw.com/image/45149153_6.jpg" name="twitter:image"/>
+</head><body id="html_body">
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwInitialTrackingInfo = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fde%2Fwie-deutschland-in-videospielen-dargestellt-wird%2Fa-45161907",
+maca: "",
+articleChangeDateShort: "20180821",
+structureId: "30511",
+structureTypeId: "206",
+chap: "THEMEN::Kultur::Digitales+Leben",
+pageId: "45161907",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "19990010",
+secondCategoryId: "19990004",
+departmentName: ""
+};
+var channelNameAppendix = "-";
+trackingInfo_leve2 = "1";
+trackingInfo_dkLanguage = "";
+trackingInfo_multi_Value = "";
+trackingInfo_profile = "NORMAL";
+trackingInfo_pageSingleEncoded = "THEMEN::Kultur::Digitales+Leben::Wie+Deutschland+in+Videospielen+dargestellt+wird";
+trackingInfo_multi_Value = "&x1=206&x2=1&x3=45161907&x4=30511&x5=Wie+Deutschland+in+Videospielen+dargestellt+wird&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fwie-deutschland-in-videospielen-dargestellt-wird%2Fa-45161907&x8=&x9=20180821&x10=THEMEN::Kultur::Digitales+Leben&x13=1&x14=&x15=19990010&x16=19990004&x17=&x18=&x20=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
+} else {
+window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
+}
+</script>
+<noscript>
+<img alt="" height="1" src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=1&amp;p=THEMEN::Kultur::Digitales+Leben::Wie+Deutschland+in+Videospielen+dargestellt+wird&amp;di=&amp;an=&amp;ac=&amp;x1=206&amp;x2=1&amp;x3=45161907&amp;x4=30511&amp;x5=Wie+Deutschland+in+Videospielen+dargestellt+wird&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fwie-deutschland-in-videospielen-dargestellt-wird%2Fa-45161907&amp;x8=&amp;x9=20180821&amp;x10=THEMEN::Kultur::Digitales+Leben&amp;x13=1&amp;x14=&amp;x15=19990010&amp;x16=19990004&amp;x17=&amp;x18=&amp;x20=" width="1"/>
+</noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TXHJH9T" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><!--AT Internet Smart Tag Tracking-->
+<script src="https://commons.dw.com/tracking/smarttag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242",
+cookieSecure: true
+});
+tag.page.set({
+name: "THEMEN::Kultur::Digitales+Leben::Wie+Deutschland+in+Videospielen+dargestellt+wird",
+pageID: "45161907",
+level2: 1
+});
+tag.customVars.set({
+site: {
+1: 206,
+2: 1,
+3: 45161907,
+4: 30511,
+5: "[Wie+Deutschland+in+Videospielen+dargestellt+wird]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fde%2Fwie-deutschland-in-videospielen-dargestellt-wird%2Fa-45161907]",
+8: "[]",
+9: 20180821,
+10: "[THEMEN::Kultur::Digitales+Leben]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "19990010",
+16: "19990004",
+17: "",
+18: "",
+19: "",
+20: ""
+}
+});
+tag.dispatch();
+</script>
+<script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">Wir verwenden Cookies, um unser Angebot für Sie zu verbessern. Mehr Informationen dazu finden Sie in unserer Datenschutzerklärung.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more" href="/a-18265186">Mehr Infos</a>
+<a class="cookie__btn cookie__btn--ok" href="#">Okay</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li aria-labelledby="Inhalt" role="listitem"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li aria-labelledby="Navigation" role="listitem"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li aria-labelledby="asideLink" role="listitem"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li aria-labelledby="metanavigationLink" role="listitem"><a href="#navMeta" id="metanavigationLink">Metanavigation</a></li>
+<li aria-labelledby="sucheLink" role="listitem"><a href="#search" id="sucheLink">Suche</a></li>
+<li aria-labelledby="languageLink" role="listitem"><a accesskey="6" href="#langSelect" id="languageLink" lang="de" xml:lang="de">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]>
+<div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a data-lang="sq-AL" href="/sq/fokus/s-10250" title="FOKUS">
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a data-lang="am-ET" href="/am/ይዘት/s-11646" title="ይዘት">
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a data-lang="ar-AE" href="/ar/الرئيسية/s-9106" title="DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي">
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a data-lang="bn-BD" href="/bn/বিষয়/s-11929" title="বিষয়">
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a data-lang="bs-BA" href="/bs/teme/s-10037" title="TEME">
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a data-lang="bg-BG" href="/bg/начало/s-10257" title="Начало">
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a data-lang="zh-CN" href="/zh/在线报导/s-9058?&amp;zhongwen=simp" title="在线报导">
+Chinese <span class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a data-lang="zh-CN-t" href="/zh/在线报导/s-9058?&amp;zhongwen=trad" title="在線報導">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="hr-HR" href="/hr/teme/s-9747" title="TEME">
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a data-lang="fa-AF" href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری">
+Dari <span class="native">دری </span></a>
+</li>
+<li><a data-lang="en-GB" href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+English <span class="native">English</span></a>
+</li>
+<li><a data-lang="fr-FR" href="/fr/actualités/s-10261" title="ACTUALITÉS">
+French <span class="native">Français</span></a>
+</li>
+<li><a class="ici" data-lang="de-DE" href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a data-lang="el-GR" href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ">
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a data-lang="ha-NG" href="/ha/batutuwa/s-11603" title="BATUTUWA">
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a data-lang="hi-IN" href="/hi/खबरें/s-11931" title="खबरें">
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="id-ID" href="/id/beranda/s-11546" title="BERANDA">
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a data-lang="sw-TZ" href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI">
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a data-lang="mk-MK" href="/mk/теми/s-10339" title="Теми">
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a data-lang="ps-AF" href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو">
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a data-lang="fa-IR" href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی">
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a data-lang="pl-PL" href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata">
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a data-lang="pt-002" href="/pt-002/notícias/s-13918" title="NOTÍCIAS">
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a data-lang="pt-BR" href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo">
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="ro-RO" href="/ro/focus/s-10575" title="FOCUS">
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a data-lang="ru-RU" href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире">
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a data-lang="sr-RS" href="/sr/rubrike/s-10682" title="RUBRIKE">
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a data-lang="es-ES" href="/es/actualidad/s-30684" title="ACTUALIDAD">
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a data-lang="tr-TR" href="/tr/gündem/s-10201" title="GÜNDEM">
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a data-lang="uk-UA" href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ">
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a data-lang="ur-PK" href="/ur/عنوانات/s-11933" title="عنوانات">
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM hat Deutsch als Spracheinstellung für Sie gewählt. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div class="v2" id="langSelect">
+<a href="javascript:void(0);" id="langSelectTrigger" name="langSelectTrigger">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/de/dw-akademie/über-uns/s-8101" title="DW AKADEMIE">DW Akademie</a>
+</div>
+<div class="metaLink"><a href="/de/unternehmen/profil/s-30626" title="UNTERNEHMEN">Unternehmen</a>
+</div>
+<div class="metaLink"><a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div class="dwnews" id="logo">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img alt="Deutsche Welle" height="100" src="/cssi/dwlogo-print.gif" width="98"/>
+</div>
+<div id="search">
+<form action="/search/de" class="modular" id="navSearchForm" method="get" title="GlobalSearch">
+<input name="searchNavigationId" param="searchNavigationId" type="hidden" value="9077"/>
+<input name="languageCode" param="languageCode" type="hidden" value="de"/>
+<input name="origin" param="origin" type="hidden" value="gN"/>
+<input id="item" name="item" placeholder="THEMEN durchsuchen"/>
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a href="/de/themen/s-9077" id="n01" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a>
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland-verstehen/s-12019" title="Deutschland verstehen">Deutschland verstehen</a>
+</li>
+<li><a href="/de/themen/deutschland-evangelisch-katholisch/s-101276" title="Deutschland evangelisch-katholisch">Deutschland evangelisch-katholisch</a>
+</li>
+<li><a href="/de/themen/erste-schritte-in-deutschland/s-32443" title="Erste Schritte in Deutschland">Erste Schritte in Deutschland</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a>
+</li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/europa/s-12322" title="Europa">Europa</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/nahost/s-12323" title="Nahost">Nahost</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/afrika/s-12324" title="Afrika">Afrika</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/amerika/s-12325" title="Amerika - Die aktuellsten Nachrichten und Informationen">Amerika</a>
+</li>
+<li><a href="/de/themen/asien/s-12326" title="Asien">Asien</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a>
+<ul class="sitemap">
+<li><a href="/de/themen/filme/s-1564" title="Filme">Filme</a>
+</li>
+<li><a href="/de/themen/bücher/s-1568" title="Bücher">Bücher</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/musik/s-12771" title="Musik">Musik</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kunst/s-101381" title="Kunst">Kunst</a>
+</li>
+<li><a href="/de/themen/digitales-leben/s-30511" title="Digitales Leben">Digitales Leben</a>
+</li>
+<li><a href="/de/themen/lebensart/s-101382" title="Lebensart">Lebensart</a>
+</li>
+<li><a href="/de/themen/reise/s-1644" title="DW Reise">Reise</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/bthvn2020/s-5269" title="BTHVN2020">BTHVN2020</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/global-ideas/s-30494" title="Global Ideas">Global Ideas</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>Specials</h4>
+<ul class="sitemap">
+<li><a href="/de/themen/100-gute-bücher/s-43415822" title="100 gute Bücher - ein literarisches Jahrhundert-Panorama deutschsprachiger Literatur">100 Gute Bücher</a></li>
+<li><a href="/de/themen/50-küchen-eine-heimat/s-32912" title="50 Küchen, eine Heimat – 50 Restaurants, 50 Rezepte, 50 Länder">50 Küchen, eine Heimat</a></li>
+<li><a href="/de/themen/baking-bread/s-47577721" title="Baking Bread - Was uns Brot über die EU verrät">Baking Bread</a></li>
+<li><a href="/de/themen/erster-weltkrieg/s-101010" title="Der Erste Weltkrieg">Erster Weltkrieg</a></li>
+<li><a href="/de/themen/expedition-humboldt/s-46674226" title="Expedition Humboldt">Expedition Humboldt</a></li>
+<li><a href="/de/themen/meet-the-germans/s-32643" title="Meet the Germans">Meet the Germans</a></li>
+<li><a href="/de/themen/mit-17-das-jahrhundert-der-jugend/s-101112" title="Mit 17... Das Jahrhundert der Jugend">Mit 17... Das Jahrhundert der Jugend</a></li>
+<li><a href="/de/themen/planet-berlin/s-47577671" title="Planet Berlin - der Weltreiseführer für Deutschlands lebendige Metropole">Planet Berlin</a></li>
+<li><a href="http://de.qantara.de/" title="Qantara.de">Qantara.de</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/media-center/s-100813" title="Das Media Center: Die Mediathek der Deutschen Welle">Media Center</a>
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/de/tv/s-9093" title="TV">TV</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">TV Sendungen</h4>
+<ul class="sitemap">
+<li><a href="/de/tv/37-grad/s-10145" title="37 Grad">37 Grad</a></li>
+<li><a href="/de/tv/anne-will/s-12701" title="Anne Will">Anne Will</a></li>
+<li><a href="/de/tv/auf-den-punkt/s-50033855" title="Auf den Punkt">Auf den Punkt</a></li>
+<li><a href="/de/tv/auf-ein-wort/s-40362437" title="Auf ein Wort...">Auf ein Wort...</a></li>
+<li><a href="/de/tv/bares-für-rares/s-36399064" title="Bares für Rares">Bares für Rares</a></li>
+<li><a href="/de/tv/bauerfeind/s-36398657" title="Bauerfeind">Bauerfeind</a></li>
+<li><a href="/de/tv/check-in/s-32692" title="Check-in - Das Reisemagazin">Check-in</a></li>
+<li><a href="/de/tv/der-tag/s-32615" title="Der Tag - Nachrichten und Hintergrund">Der Tag</a></li>
+<li><a href="/de/tv/die-anstalt/s-100973" title="Die Anstalt">Die Anstalt</a></li>
+<li><a href="/de/tv/dokfilm/s-3609" title="DokFilm">DokFilm</a></li>
+<li><a href="/de/tv/euromaxx/s-7553" title="Euromaxx- Leben und Kultur in Europa">Euromaxx</a></li>
+<li><a href="/de/tv/europe-in-concert/s-30429" title="Europe in Concert - Top-Acts Live">Europe in Concert</a></li>
+<li><a href="/de/tv/expedition-in-die-heimat/s-50558311" title="Expedition in die Heimat">Expedition in die Heimat</a></li>
+<li><a href="/de/tv/fit-und-gesund/s-11936" title="Fit und gesund">Fit und gesund</a></li>
+<li><a href="/de/tv/fokus-europa/s-101183" title="Fokus Europa - Länder, Menschen, Schicksale">Fokus Europa</a></li>
+<li><a href="/de/tv/frag-den-lesch/s-50033835" title="Frag den Lesch">Frag den Lesch</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/frautv/s-30312" title="FrauTV">FrauTV</a></li>
+<li><a href="/de/tv/glaubenssachen/s-3668" title="Glaubenssachen - Die Kirchensendung">Glaubenssachen</a></li>
+<li><a href="/de/tv/global-3000/s-11486" title="Global 3000 - Das Globalisierungsmagazin">Global 3000</a></li>
+<li><a href="/de/tv/gottesdienst/s-101259" title="Gottesdienst">Gottesdienst</a></li>
+<li><a href="/de/tv/hart-aber-fair/s-12675" title="Hart aber fair">Hart aber fair</a></li>
+<li><a href="/de/tv/heute-xpress/s-53655198" title="Heute Xpress">Heute Xpress</a></li>
+<li><a href="/de/tv/kick-off/s-12837" title="Kick off! - Das Bundesliga-Magazin der DW">Kick off!</a></li>
+<li><a href="/de/tv/kochen-mit-martina-moritz/s-101487" title="Kochen mit Martina &amp; Moritz">Kochen mit Martina &amp; Moritz</a></li>
+<li><a href="/de/tv/kultur21/s-7884" title="Kultur.21 - Das Kulturmagazin">Kultur.21</a></li>
+<li><a href="/de/tv/kulturzeit/s-36398595" title="Kulturzeit">Kulturzeit</a></li>
+<li><a href="/de/tv/ladies-night/s-36400088" title="Ladies Night">Ladies Night</a></li>
+<li><a href="/de/tv/lesenswert/s-36399591" title="Lesenswert">Lesenswert</a></li>
+<li><a href="/de/tv/made-in-germany/s-3054" title="Made in Germany">Made in Germany</a></li>
+<li><a href="/de/tv/markus-lanz/s-12709" title="Markus Lanz">Markus Lanz</a></li>
+<li><a href="/de/tv/maybrit-illner/s-10146" title="Maybrit Illner">Maybrit Illner</a></li>
+<li><a href="/de/tv/nahaufnahme/s-100280" title="Nahaufnahme - Die aktuelle Reportage">Nahaufnahme</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/nuhr-im-ersten/s-100377" title="Nuhr im Ersten">Nuhr im Ersten</a></li>
+<li><a href="/de/tv/projekt-zukunft/s-3210" title="Projekt Zukunft - Das Wissenschaftsmagazin">Projekt Zukunft</a></li>
+<li><a href="/de/tv/pufpaffs-happy-hour/s-32800" title="Pufpaffs Happy Hour">Pufpaffs Happy Hour</a></li>
+<li><a href="/de/tv/quarks/s-36400242" title="Quarks">Quarks</a></li>
+<li><a href="/de/tv/reporter/s-31610" title="Reporter - Vor Ort">Reporter</a></li>
+<li><a href="/de/tv/rev/s-51434653" title="REV">REV</a></li>
+<li><a href="/de/tv/shift/s-30411" title="Shift - Leben in der digitalen Welt">Shift</a></li>
+<li><a href="/de/tv/spätschicht/s-100375" title="Spätschicht">Spätschicht</a></li>
+<li><a href="/de/tv/tagesschau-in-100-sekunden/s-53655084" title="Tagesschau in 100 Sekunden">Tagesschau in 100 Sekunden</a></li>
+<li><a href="/de/tv/verrückt-nach-meer/s-36400533" title="Verrückt nach Meer">Verrückt nach Meer</a></li>
+<li><a href="/de/tv/world-stories/s-101473" title="World Stories - Reportagen der Woche">World Stories</a></li>
+<li><a href="/de/tv/zdfbauhaus/s-53823909" title="ZDF@Bauhaus">ZDF@Bauhaus</a></li>
+<li><a href="/de/tv/zdf-reportage/s-12714" title="ZDF Reportage">ZDF Reportage</a></li>
+<li><a href="/de/tv/zu-tisch/s-36399572" title="Zu Tisch...">Zu Tisch...</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/deutsch-lernen/s-2055" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>Deutschkurse</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/schnellstart/s-31674" title="Schnellstart">Schnellstart</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-mobil/s-40884569" title="Deutsch mobil">Deutsch mobil</a>
+</li>
+<li><a href="/de/deutsch-lernen/radio-d/s-9603" title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschtrainer/s-32888" title="Deutschtrainer">Deutschtrainer</a>
+</li>
+<li><a href="/de/deutsch-lernen/harry/s-13219" title="Harry">Harry</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/die-bienenretter/s-36745714" title="Die Bienenretter">Die Bienenretter</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch XXL</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">Deutsch Aktuell</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/video-thema/s-12165" title="Video-Thema">Video-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/top-thema/s-8031" title="Top-Thema">Top-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/nachrichten/s-8030" title="Nachrichten">Nachrichten</a>
+</li>
+<li><a href="/de/deutsch-lernen/glossar/s-9151" title="Glossar">Glossar</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-im-fokus/s-9213" title="Deutsch im Fokus">Deutsch im Fokus</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/alltagsdeutsch/s-9214" title="Alltagsdeutsch">Alltagsdeutsch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/sprachbar/s-9011" title="Sprachbar">Sprachbar</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-sagt-man-so/s-32376" title="Das sagt man so!">Das sagt man so!</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/wort-der-woche/s-9031" title="Wort der Woche">Wort der Woche</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsche-sprache-in-bildern/s-101453" title="Deutsche Sprache – in Bildern">Deutsche Sprache in Bildern</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/telenovela/s-13121" title="Telenovela">Telenovela</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/bandtagebuch/s-13891" title="Bandtagebuch">Bandtagebuch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/landeskunde/s-12377" title="Landeskunde">Landeskunde</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/ticket-nach-berlin/s-32294" title="Ticket nach Berlin">Ticket nach Berlin</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-deutschlandlabor/s-32379" title="Das Deutschlandlabor">Das Deutschlandlabor</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/dialektatlas/s-8150" title="Dialektatlas">Dialektatlas</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/stadtbilder/s-31499" title="Stadtbilder">Stadtbilder</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschland-in-bildern/s-101454" title="Deutschland erleben – in Bildern">Deutschland in Bildern</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/das-porträt/s-30546" title="Das Porträt">Das Porträt</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/podcasts-newsletter/s-11696" title="Podcasts &amp; Newsletter">Podcasts &amp; Newsletter</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/service/s-9032" title="Service">Service</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch unterrichten</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+<li><a href="/de/deutsch-lernen/dw-im-unterricht/s-14199" title="DW im Unterricht">DW im Unterricht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/unterrichtsreihen/s-9729" title="Unterrichtsreihen">Unterrichtsreihen</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschlehrer-info/s-13503" title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" id="navAct2" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+</ul>
+</div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+THEMEN
+</a>
+/
+<a href="/de/themen/kultur/s-1534" title="Kultur">
+Kultur
+</a>
+/
+<a href="/de/themen/digitales-leben/s-30511" title="Digitales Leben">
+Digitales Leben
+</a>
+</div>
+</div>
+<div id="innerFrame">
+<div class="adsContainer">
+<div class="advertising">
+<!-- GoogleDfP_Leaderboard -->
+<div class="bannerAd" id="DW_D_Articles_Leaderboard-label">
+<div id="div--Leaderboard">
+<div class="adHeadline">Anzeige</div>
+<div id="DW_D_Articles_Leaderboard"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_Leaderboard -->
+</div>
+</div>
+<div id="bodyContent">
+<div class="col3">
+<h4 class="artikel">Gamescom</h4>
+<h1>Wie Deutschland in Videospielen dargestellt wird</h1>
+<p class="intro">Deutschland ist der fünftgrößte Spielemarkt der Welt, aber als Schauplatz für die Videospiele kaum präsent. Das bestätigt sich auch auf der Gamescom. Doch es gibt Hoffnung. Indie-Entwickler zeigen, was möglich ist.</p>
+<div class="min" id="sharing-bar">
+<span dir="ltr">
+<a class="sharing-item fb static" dir="ltr" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-Facebook-sharing" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'facebook')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item twitter static" dir="ltr" href="https://twitter.com/intent/tweet?source=webclient&amp;text=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-Twitter-sharing+Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'twitter')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item whatsapp static" dir="ltr" href="https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-Whatsapp%2BWeb-sharing+Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'whatsapp-web')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item email static" dir="ltr" href="mailto:?body=https%3A%2F%2Fwww.dw.com%2Fde%2Fwie-deutschland-in-videospielen-dargestellt-wird%2Fa-45161907%3Fmaca%3Dde-EMail-sharing&amp;subject=Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'email')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item fb-messenger option" dir="ltr" href="https://www.facebook.com/dialog/send?app_id=161807964535758&amp;redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-Facebook%2BMessenger%2BWeb-sharing&amp;link=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-Facebook%2BMessenger%2BWeb-sharing&amp;display=popup" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'fb-messenger-web')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item reddit option" dir="ltr" href="https://www.reddit.com/submit?url=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-reddit-sharing" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'reddit')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item telegram option" dir="ltr" href="https://telegram.me/share/url?url=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-Telegram-sharing&amp;text=Wie%20Deutschland%20in%20Games%20dargestellt%20wird" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'telegram')" rel="nofollow" target="new"></a>
+</span>
+<span dir="ltr">
+<a class="sharing-item linkedin option" dir="ltr" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fp.dw.com%2Fp%2F33Ufr%3Fmaca%3Dde-linkedin-sharing&amp;title=Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird&amp;source=DW.COM" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('1', 'Wie%20Deutschland%20in%20Videospielen%20dargestellt%20wird', '45161907', '1', 'linkedin')" rel="nofollow" target="new"></a>
+</span>
+<p class="sharing-item toggler"></p>
+</div> <div class="col3" id="mainGallery">
+<!-- PictureGallery -->
+<div class="gallery col3">
+<div class="imgTeaserL slideshow noDim" data-date="20180821" data-firstcategory="19990010" data-id="45168840" data-title="Games, die in Deutschland spielen">
+<ul class="slides">
+<!-- Picture gallery - related image -->
+<li class="first">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Trüberbrook. (btf)" itemprop="image" src="https://static.dw.com/image/45149153_303.jpg" title="Screenshot aus dem Videospiel Trüberbrook. (btf)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Trüberbrook (2019)</h2>
+<p>Das Spiel "Trüberbrook" von dem kleinen Studio btf aus Köln spielt in der deutschen Provinz. Der US-Student Tannhauser kommt in den 1960ern in das Dorf Trüberbrook und erlebt dort allerlei Mysteriöses. Die Entwickler geizen nicht mit Verweisen auf die deutsche Kulturgeschichte. Goethes Gretchen inklusive.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Through The Darkest Times (Paintbucket Games)" itemprop="image" src="https://static.dw.com/image/45149137_303.png" title="Screenshot aus dem Videospiel Through The Darkest Times (Paintbucket Games)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Through the Darkest of Times (2019)</h2>
+<p>Berlin 1933. Eine Gruppe von Widerstandskämpfern versucht, sich gegen das Nazi-Regime zu behaupten. Trotz seiner visuellen Einfachheit zieht das Strategie-Spiel "Through the Darkest of Times" den Spieler in seinen Bann. Durch seine Entscheidungen kann er die Geschichte beeinflussen. Die Widerstandsgruppe ist fiktiv, alles andere orientiert sich an realen Ereignissen während des Dritten Reichs.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel All Walls Must Fall. (inbetweengames)" itemprop="image" src="https://static.dw.com/image/45149169_303.png" title="Screenshot aus dem Videospiel All Walls Must Fall. (inbetweengames)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>All Walls Must Fall (2018)</h2>
+<p>"All Walls Must Fall" ist eine Agententhriller, der im Berlin der Zukunft spielt. Wir schreiben das Jahr 2089 und der Kalte Krieg wurde nie beendet. Als Spion zieht der Spieler zu wummernden Technobeats durch die Berliner Clubszene, um einen Nuklearschlag abzuwehren. Trotz des interessanten Settings fiel das Spiel bei den Gamern durch. Die Folge: Das kleine Studio inbetweengames musste schließen.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Call of Duty WWII. (Sledgehammer Games)" itemprop="image" src="https://static.dw.com/image/45149035_303.png" title="Screenshot aus dem Videospiel Call of Duty WWII. (Sledgehammer Games)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Call of Duty: WWII (2017)</h2>
+<p>Kriegsspiele sind ein eigenes Genre und der Erste und Zweite Weltkrieg bei vielen Studios besonders beliebt. In "Call of Duty: WWII" kann der Spieler unter anderem durch die Stadt Aachen streifen und die Nazis bekämpfen. Der Holocaust wird in den Shootern jedoch in der Regel ausgespart. Stattdessen geht es den Machern um schnelle Action und ein klares Freund-Feind-Schema.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Emergecy 2017. (Deep Silver)" itemprop="image" src="https://static.dw.com/image/45149061_303.jpg" title="Screenshot aus dem Videospiel Emergecy 2017. (Deep Silver)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Emergency 2017 (2016)</h2>
+<p>Die "Emergency"-Reihe existiert seit 1998. In der Berufs-Simulation schickt der Spieler Feuerwehr, Rettungswagen und die Polizei an Einsatzorte in Köln, München, Berlin oder Hamburg, löscht Brände, behält die Übersicht bei Verkehrsunfällen und rückt natürlich auch an Silvester an, wenn Passanten - wie hier - bewusstlos auf dem Boden liegen.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel No One Lives Forever. (Monolith Production)" itemprop="image" src="https://static.dw.com/image/45149095_303.png" title="Screenshot aus dem Videospiel No One Lives Forever. (Monolith Production)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>No One Lives Forever (2000)</h2>
+<p>"No One Lives Forever" ist ein First-Person-Shooter, dem James Bond hätte Pate stehen können. Der Spieler schlüpft in die Rolle der Geheimagentin Cate Archer, die in den 1960ern eine Terrorgruppe ausschalten soll und dafür quer durch Deutschland reist, unter anderem nach Ost-Berlin, nach Hamburg, an die Nordsee und in die Alpen.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="hideBeforeLoad">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel The beast within. (Sierra On-Line)" itemprop="image" src="https://static.dw.com/image/45150349_303.png" title="Screenshot aus dem Videospiel The beast within. (Sierra On-Line)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Gabriel Knight 2: The Beast Within (1995)</h2>
+<p>In diesem Adventure geht es wirr zu. Die bayerische Landbevölkerung ist in Aufruhr, denn Werwölfe gehen um und es geschehen mysteriöse Morde. Der Okkultismus-Schriftsteller Gabriel Knight wird um Hilfe gerufen und ermittelt u.a. in München, im Schloss Neuschwanstein und in Altötting. Entwickelt wurde das Spiel übrigens von der US-amerikanischen Spieleschmiede Sierra On-Line.</p>
+<p class="author">
+Autorin/Autor: Kristina Reymann-Schneider
+</p>
+</div>
+</li>
+</ul>
+<br class="clearfix"/>
+<div class="teaserNavWrap">
+<div class="slidePagination">
+<div style="float: right">
+<a class="function tostart" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function rwd" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function fwd" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function toend" href="javascript:void(0);" rel="nofollow"></a>
+</div>
+<a class="function playpause" href="javascript:void(0);" rel="nofollow"></a>
+<span class="slideshowNav"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col3" id="printGallery">
+<!-- PictureGallery -->
+<div class="gallery col3">
+<div class="imgTeaserL slideshow noDim" data-date="20180821" data-firstcategory="19990010" data-id="45168840" data-title="Games, die in Deutschland spielen">
+<ul class="slides" initialize="false">
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Trüberbrook. (btf)" itemprop="image" src="https://static.dw.com/image/45149153_303.jpg" title="Screenshot aus dem Videospiel Trüberbrook. (btf)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Trüberbrook (2019)</h2>
+<p>Das Spiel "Trüberbrook" von dem kleinen Studio btf aus Köln spielt in der deutschen Provinz. Der US-Student Tannhauser kommt in den 1960ern in das Dorf Trüberbrook und erlebt dort allerlei Mysteriöses. Die Entwickler geizen nicht mit Verweisen auf die deutsche Kulturgeschichte. Goethes Gretchen inklusive.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Through The Darkest Times (Paintbucket Games)" itemprop="image" src="https://static.dw.com/image/45149137_303.png" title="Screenshot aus dem Videospiel Through The Darkest Times (Paintbucket Games)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Through the Darkest of Times (2019)</h2>
+<p>Berlin 1933. Eine Gruppe von Widerstandskämpfern versucht, sich gegen das Nazi-Regime zu behaupten. Trotz seiner visuellen Einfachheit zieht das Strategie-Spiel "Through the Darkest of Times" den Spieler in seinen Bann. Durch seine Entscheidungen kann er die Geschichte beeinflussen. Die Widerstandsgruppe ist fiktiv, alles andere orientiert sich an realen Ereignissen während des Dritten Reichs.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel All Walls Must Fall. (inbetweengames)" itemprop="image" src="https://static.dw.com/image/45149169_303.png" title="Screenshot aus dem Videospiel All Walls Must Fall. (inbetweengames)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>All Walls Must Fall (2018)</h2>
+<p>"All Walls Must Fall" ist eine Agententhriller, der im Berlin der Zukunft spielt. Wir schreiben das Jahr 2089 und der Kalte Krieg wurde nie beendet. Als Spion zieht der Spieler zu wummernden Technobeats durch die Berliner Clubszene, um einen Nuklearschlag abzuwehren. Trotz des interessanten Settings fiel das Spiel bei den Gamern durch. Die Folge: Das kleine Studio inbetweengames musste schließen.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Call of Duty WWII. (Sledgehammer Games)" itemprop="image" src="https://static.dw.com/image/45149035_303.png" title="Screenshot aus dem Videospiel Call of Duty WWII. (Sledgehammer Games)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Call of Duty: WWII (2017)</h2>
+<p>Kriegsspiele sind ein eigenes Genre und der Erste und Zweite Weltkrieg bei vielen Studios besonders beliebt. In "Call of Duty: WWII" kann der Spieler unter anderem durch die Stadt Aachen streifen und die Nazis bekämpfen. Der Holocaust wird in den Shootern jedoch in der Regel ausgespart. Stattdessen geht es den Machern um schnelle Action und ein klares Freund-Feind-Schema.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel Emergecy 2017. (Deep Silver)" itemprop="image" src="https://static.dw.com/image/45149061_303.jpg" title="Screenshot aus dem Videospiel Emergecy 2017. (Deep Silver)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Emergency 2017 (2016)</h2>
+<p>Die "Emergency"-Reihe existiert seit 1998. In der Berufs-Simulation schickt der Spieler Feuerwehr, Rettungswagen und die Polizei an Einsatzorte in Köln, München, Berlin oder Hamburg, löscht Brände, behält die Übersicht bei Verkehrsunfällen und rückt natürlich auch an Silvester an, wenn Passanten - wie hier - bewusstlos auf dem Boden liegen.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel No One Lives Forever. (Monolith Production)" itemprop="image" src="https://static.dw.com/image/45149095_303.png" title="Screenshot aus dem Videospiel No One Lives Forever. (Monolith Production)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>No One Lives Forever (2000)</h2>
+<p>"No One Lives Forever" ist ein First-Person-Shooter, dem James Bond hätte Pate stehen können. Der Spieler schlüpft in die Rolle der Geheimagentin Cate Archer, die in den 1960ern eine Terrorgruppe ausschalten soll und dafür quer durch Deutschland reist, unter anderem nach Ost-Berlin, nach Hamburg, an die Nordsee und in die Alpen.</p>
+</div>
+</li>
+<!-- Picture gallery - related image -->
+<li class="">
+<div class="teaserImg">
+<img alt="Screenshot aus dem Videospiel The beast within. (Sierra On-Line)" itemprop="image" src="https://static.dw.com/image/45150349_303.png" title="Screenshot aus dem Videospiel The beast within. (Sierra On-Line)"/></div>
+<div class="teaserContentWrap">
+<div class="tools">
+</div>
+<h4>Games, die in Deutschland spielen</h4>
+<h2>Gabriel Knight 2: The Beast Within (1995)</h2>
+<p>In diesem Adventure geht es wirr zu. Die bayerische Landbevölkerung ist in Aufruhr, denn Werwölfe gehen um und es geschehen mysteriöse Morde. Der Okkultismus-Schriftsteller Gabriel Knight wird um Hilfe gerufen und ermittelt u.a. in München, im Schloss Neuschwanstein und in Altötting. Entwickelt wurde das Spiel übrigens von der US-amerikanischen Spieleschmiede Sierra On-Line.</p>
+<p class="author">
+Autorin/Autor: Kristina Reymann-Schneider
+</p>
+</div>
+</li>
+</ul>
+<br class="clearfix"/>
+<div class="teaserNavWrap">
+<div class="slidePagination">
+<div style="float: right">
+<a class="function tostart" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function rwd" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function fwd" href="javascript:void(0);" rel="nofollow"></a>
+<a class="function toend" href="javascript:void(0);" rel="nofollow"></a>
+</div>
+<a class="function playpause" href="javascript:void(0);" rel="nofollow"></a>
+<span class="slideshowNav"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="group">
+<div class="longText">
+<p>Mal angenommen, man würde Deutschland nur durch Videospiele kennen, dann eröffnete sich folgendes Bild: Verlassene, zerstörte Städte, brennende Panzer auf den Straßen, unzählige Soldaten in SS- oder Wehrmachtsuniformen. Denn der Zweite Weltkrieg hat am PC und auf der Konsole nie aufgehört. "Die Weltkriegs-Shooter sind ein etabliertes Genre", sagt Andreas Lange, Direktor des Computerspielemuseums in Berlin. "Leute auf der ganzen Welt haben zu der Thematik einen Zugang." Und so sei es "hauptsächlich ein Weltkriegsbild", das Spiele mit Deutschlandbezug vermitteln würden.</p> <p><strong>Interessieren sich Gamer für Deutschland?</strong></p> <p>Mittlerweile gibt es viele erfolgreiche Open-World-Spiele, die in US-Metropolen ("Grand Theft Auto"-Reihe) spielen, aber auch in London, Paris ("Assassin's Creed"-Reihe) oder Tokio ("Yakuza"-Reihe). Ein Open-World-Spiel entlässt den Spieler in eine offene Welt, in der er sich frei bewegen kann. Ein solches Spiel mit einer deutschen Stadt gibt es bislang nicht. "Ich denke, Games sind ein globales Medium und die ausländischen Hersteller haben Schwierigkeiten, sich vorzustellen, dass ein Spiel, das in Deutschland angesiedelt ist, international erfolgreich sein kann", erklärt Andreas Lange. Zudem gebe es die Erwartungshaltung der Spieler. Wenn Deutschland auf der Packung steht, wollen viele ein Weltkriegsszenario erleben, so Lange. Darüber hinaus ermöglichten Fantasy- oder Zukunftsszenarien den Entwicklern viel mehr kreative Freiheit.</p> <p><strong>Deutsche Kultur in Fantasiewelten</strong></p> <p>Genau aus diesem Grund würden die meisten Spiele gar nicht in realen Welten spielen. "Das ist ja das Spannende an Spielen, dass sie Fantasiewelten entstehen lassen", sagt Felix Falk, Geschäftsführer des Branchenverbands "game". Deshalb sei es viel spannender, wie sich deutsche Kultur in Fantasiewelten widerspiegele. Der Shooter "Spec Ops: The Line" von dem deutschen Entwicklerstudio Yager Development spiele zwar nicht in Deutschland, erzähle aber eine Geschichte, die die Gräuel des Krieges und den inneren Zwiespalt von Soldaten in den Vordergrund stelle. Das sei eine sehr deutsche Erzählweise. Das war neu in dem Genre und machte das Game wohl zum ersten Anti-Kriegsspiel. </p> <div class="picBox medium "> <a class="overlayLink" href="#" link="/overlay/image/article/45161907/45160795" rel="nofollow" style="cursor: pointer;"> <img alt="Deutschland Köln Eröffnung der Gamescom 2018 - Felix Falk (picture-alliance/CITYPRESS 24/Krick)" itemprop="image" src="https://static.dw.com/image/45160795_404.jpg" title="Deutschland Köln Eröffnung der Gamescom 2018 - Felix Falk (picture-alliance/CITYPRESS 24/Krick)"/> </a> <p>Geschäftsführer des Branchenverbands "game": Felix Falk bei der Eröffnung der Gamescom 2018 </p> </div> <p>Gemessen am Umsatz ist Deutschland nach den USA, China, Japan und Südkorea der fünftgrößte Spielemarkt der Welt. Dennoch kommen die ganz großen Spiele aus dem Ausland. "Andere Länder haben früher erkannt, welches Potenzial die Spielbranche hat", so Felix Falk. VR-Technologien, künstliche Intelligenz oder 3-D-Verfahren werden mittlerweile in den verschiedensten Bereichen genutzt. "In Kanada, England oder Frankreich werden Spiele bewusst gefördert. Die Produktion eines Spiels kostet dort bis zu 30 Prozent weniger als in Deutschland." Die Bundesregierung hat den Bedarf erkannt und will - so steht es im Koalitionsvertrag - jetzt auch Games fördern. Im Herbst soll über die Höhe des Förderbetrags entschieden werden.</p> <p><strong>Ungewöhnliches Setting: deutsche Provinz</strong></p> <p>Das Spiel "Trüberbrook" zeigt, dass es auch in Deutschland verortete Spiele gibt, die nichts mit Nazis zu tun haben. Schauplatz ist das fiktive, verschlafene Dorf Trüberbrook in der deutschen Provinz in den 1960er Jahren. Dorthin kommt Hans Tannhauser. Der US-Amerikaner studiert Quantenphysik und hat eine Reise gewonnen - ohne sich daran erinnern zu können, überhaupt an einem Gewinnspiel teilgenommen zu haben. Als Spieler läuft man als Tannhauser gemächlich durch die Level, löst Rätsel, klickt sich durch zahlreiche Dialoge mit allerlei verrückten Charakteren, um am Ende, na klar, die Welt zu retten.</p> <p>Gespickt ist das Spiel mit mehreren Verweisen auf die deutsche Kulturgeschichte: Tannhauser (eine Anspielung auf die Oper von Richard Wagner) trifft auf Gretchen (bekannt aus Goethes "Faust") und spricht mit einem Computer namens Barbarossa (einst Kaiser des römisch-deutschen Reiches). Solche Gags - im Gamer-Jargon Eastereggs - seien von Anfang an bewusst eingebaut worden, um die Spielwelt zu bereichern, sagt der Entwickler des Spiels, Florian Köhne.</p> <p>Es wird für den internationalen Markt produziert und ist komplett in Deutsch und Englisch vertont - wobei die Charaktere zwar Englisch sprechen, aber (mit Ausnahme Tannhausers) mit einem deutschen Akzent. Auch das sei kein Zufall. "Wir wollten eine exotische Welt für Leute erschaffen, die nicht aus Deutschland kommen." Was bei skandinavischen TV-Serien gelingt, nämlich eine gewisse Exotik zu transportieren und die Zuschauer an Orte zu führen, die sie so noch nicht im Fernsehen gesehen haben, könnte auch bei Videospielen klappen, hoffen die Entwickler. Anfang 2019 soll "Trüberbrook" erscheinen.</p> <p><strong>Widerstand ohne Schusswaffen</strong></p> <p>Weniger beschaulich, sondern sehr eindringlich ist das Spiel "Through the Darkest of Times" vom Berliner Zwei-Mann-Studio "Paintbucket Games". Obwohl es frühestens 2019 erscheinen wird, erlangte es bereits vor wenigen Wochen bundesweit Bekanntheit. Denn es ist das erste Spiel in Deutschland, das ab zwölf Jahren freigegeben ist und Hakenkreuze zeigt. Das ermöglichte die jüngste Entscheidung der Unterhaltungssoftware Selbstkontrolle (USK), die in Deutschland Altersfreigaben für Videospiele erteilt.</p> <div class="picBox full "> <a class="overlayLink" href="#" link="/overlay/image/article/45161907/45149121" rel="nofollow" style="cursor: pointer;"> <img alt="Screenshot Videospiel Through The Darkest Times (Paintbucket Games)" itemprop="image" src="https://static.dw.com/image/45149121_401.png" title="Screenshot Videospiel Through The Darkest Times (Paintbucket Games)"/> </a> <p>"Through the Darkest of Times": Hier wird der Spieler zum Widerstandskämpfer </p> </div> <p>Doch viel spannender als die Hakenkreuz-Debatte ist das Spiel selbst. Der Spieler ist der Kopf einer Widerstandsgruppe in Berlin zur Zeit des Dritten Reichs. Trotz des einfachen Erscheinungsbildes mit reduzierter Farbpalette aus schwarz und grau, einigen roten Akzenten sowie vieler Textboxen, zieht einen das Spiel, das den gesamten Zeitraum von 1933 bis 1945 abdeckt, in seinen Bann. "Wir sind auch immer wieder überrascht von der Intensität der Erfahrung, die viele Leute machen", sagt Sebastian Schulz, einer der beiden Entwickler. "Through the Darkest of Times" ist ein antifaschistisches Spiel, das weder den Alltag in Nazi-Deutschland, die Schikanen der SS, noch den Holocaust ausblendet. "Wir sind politische Menschen, auch wenn wir Spieleentwickler sind, und wollen politische Aussagen treffen", sagt Schulz.</p> <p><strong>"Geschichten, die tatsächlich passiert sind"</strong></p> <p>"Es fühlt sich so an, als ob es genau richtig ist, im Moment so ein Spiel zu machen und wir wollten einfach mal eine andere Geschichte erzählen", so Schulz weiter. Nach den Missionen - zum Beispiel Flugblätter drucken und verteilen, Unterstützer rekrutieren, Geld sammeln - treffen sich die Charaktere an einem großen Tisch. Fehlt eine Person, wurde sie wegen ihres Widerstands verhaftet und eingesperrt, ein Bild, das den Spieler nicht unberührt lässt.</p> <p>"Wir versuchen Geschichten zu nehmen, die so tatsächlich passiert sind. Wenn man sich mit den Geschichten beschäftigt, fällt einem auf, wie oft es in der Vergangenheit eigentlich die Chance gab, in eine andere Richtung abzubiegen. Und das ist das Spannende daran, dass man jetzt den Spieler in die Situation bringt, dass er die Entscheidungen treffen kann", so Schulz.</p> <p>Da das Spiel sehr textlastig ist, wollen die Entwickler es in vielen Sprachen herausbringen, um es einem internationalen Publikum zugänglich zu machen. Geplant sind Fassungen in Englisch, Deutsch, Spanisch, Französisch sowie langfristig auch in Italienisch, Polnisch und Russisch.</p>
+</div>
+</div>
+<div style="clear:both; height:0; font-size:1px; line-height: 0"></div>
+<!-- detail_toolbox -->
+<h4>Die Redaktion empfiehlt</h4>
+<div class="group">
+<div class="lineExtra"></div>
+<div class="linkList intern">
+<a href="/de/gamescom-feiert-jubiläum/a-45090728">
+<h2>
+Gamescom feiert Jubiläum </h2>
+<p>Als die Gamescom 2009 erstmals in Köln eröffnete, war die Computerspielmesse vor allem noch ein Treff für Hardcore-Spieler. Seitdem ist viel passiert. Nächste Woche gibts die zehnte Auflage. (15.08.2018)
+  </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/besuchermagnet-in-köln-10-gamescom-eröffnet/a-45153988">
+<h2>
+Besuchermagnet in Köln: 10. Gamescom eröffnet </h2>
+<p>Für Spielefans aus aller Welt ist sie ein fester Termin im Kalender: die Gamescom in Köln. Am Dienstag (21.8.) eröffnet die bereits zehnte Auflage. Auch sonst ist jede Menge los in der Metropole am Rhein. (21.08.2018)
+  </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/lara-croft-und-co-ballern-geht-in-tomb-raider-auch-ohne-große-brüste/a-42969459">
+<h2>
+Lara Croft und Co.: Ballern geht in "Tomb Raider" auch ohne große Brüste
+</h2>
+<p>Lara Crofts Brüste sind nicht nur im neuen "Tomb Raider"-Film geschrumpft. Lange galten Videospiele mit Frauen als sexistisch, doch die Branche hat dazugelernt - denn die Hälfte der Gamer sind Frauen. (14.03.2018)<span class="icon pics"></span>
+  </p>
+</a>
+</div>
+</div>
+<h4>Audio und Video zum Thema</h4>
+<div class="group">
+<div class="lineExtra"></div>
+<div class="linkList overlayIcon">
+<a class="overlayLink" href="/overlay/media/de/videospiel-in-modell-kulisse/42646639/45161907" link="/overlay/media/de/videospiel-in-modell-kulisse/42646639/45161907" rel="nofollow">
+<h2>
+Videospiel in Modell-Kulisse
+<span class="icon tv"></span>   </h2>
+</a>
+</div>
+<div class="linkList overlayIcon">
+<a class="overlayLink" href="/overlay/media/de/die-meistverkauften-videospiele-2017/41843936/45161907" link="/overlay/media/de/die-meistverkauften-videospiele-2017/41843936/45161907" rel="nofollow">
+<h2>
+Die meistverkauften Videospiele 2017
+<span class="icon tv"></span>   </h2>
+</a>
+</div>
+</div>
+<!-- OUTBRAIN WIDGET -->
+<div class="OUTBRAIN" data-src="https://www.dw.com/de/wie-deutschland-in-videospielen-dargestellt-wird/a-45161907" data-widget-id="AR_1"></div>
+<script async="async" src="//widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+</div>
+<!-- RECHTE SPALTE in DETAIL -->
+<div class="col1 dim">
+<div class="group">
+<ul class="smallList">
+<li><strong>Datum</strong>
+21.08.2018
+</li>
+<li>
+<strong>Autorin/Autor</strong>
+Kristina Reymann-Schneider
+</li>
+<li>
+<a class="icon pics " href="/de/media-center/alle-inhalte/s-100814?type=7">Alle Galerien im Media Center</a>
+</li>
+<!-- ESI fragment of related auto topics -->
+<li>
+<strong>Themenseiten</strong>
+<a href="/de/computerspiele/t-18044586">Computerspiele</a>, <a href="/de/gamescom/t-37197356">Gamescom </a>
+</li>
+<li>
+<strong>Schlagwörter</strong>
+<a href="/search/de?languageCode=de&amp;origin=gN&amp;item=Gamescom&amp;searchNavigationId=9077" rel="nofollow">Gamescom</a>,
+<a href="/search/de?languageCode=de&amp;origin=gN&amp;item=Videospiele&amp;searchNavigationId=9077" rel="nofollow">Videospiele</a>,
+<a href="/search/de?languageCode=de&amp;origin=gN&amp;item=Computerspiele&amp;searchNavigationId=9077" rel="nofollow">Computerspiele</a>
+</li>
+<li><a class="icon mail overlayLink" href="#" link="/overlay/send_feedback/page/30511/45161907" rel="nofollow">Schicken Sie uns Ihr Feedback!</a>
+</li>
+<li>
+<strong>Drucken</strong>
+<a class="icon print" href="javascript:window.print()" rel="nofollow">Seite drucken</a>
+</li>
+<li>
+<strong>Permalink</strong>
+https://p.dw.com/p/33Ufr
+</li>
+</ul>
+</div>
+</div>
+<div class="col1 dim">
+<!-- GoogleDfP_SquareSmall -->
+<div class="squareAd" id="DW_D_Articles_Square-label">
+<div id="div--Square_small">
+<div class="adHeadline" id="squareHeadline">Anzeige</div>
+<div id="DW_D_Articles_Square"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_SquareSmall -->
+<!-- External window teaser -->
+<div class="col1 externalWindowTeaser">
+<div class="group">
+<iframe frameborder="0" height="385" marginheight="0" marginwidth="0" scrolling="no" src="https://social.dw.com/fb/widgets/likebox.php?id=239025992817731&amp;lg=de-DE&amp;cols=1" width="220">
+</iframe>
+</div>
+</div>
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>Bücher</h4>
+<div class="news">
+<a href="/de/jay-shetty-und-das-think-like-a-monk-prinzip/a-55542649">
+<div class="teaserImg">
+<img alt="Indien l Influencer und Autor Jay Shetty (Steve Erle/Rowohlt Verlag)" itemprop="image" src="https://static.dw.com/image/55544023_301.jpg" title="Indien l Influencer und Autor Jay Shetty (Steve Erle/Rowohlt Verlag)"/> </div>
+<h2 class="linkable">
+Jay Shetty und das "Think like a Monk"-Prinzip
+</h2>
+<p>Ein Auto, ein Haus, ein Pferd? Materielles, sagt der einstige Mönch Jay Shetty im DW-Gespräch, wird uns nie glücklich machen. Sein Tipp: Denke wie ein Mönch.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>Musik</h4>
+<div class="news">
+<a href="/de/neil-young-der-legendäre-gitarrist-und-rockstar-wird-75/a-55566309">
+<div class="teaserImg">
+<img alt="Neil Young spielt beim BottleRock Napa Valley Music Festival 2019 (Amy Harris/AP Photo/picture-alliance)" itemprop="image" src="https://static.dw.com/image/55523040_301.jpg" title="Neil Young spielt beim BottleRock Napa Valley Music Festival 2019 (Amy Harris/AP Photo/picture-alliance)"/> </div>
+<h2 class="linkable">
+Neil Young: Der legendäre Gitarrist und Rockstar wird 75
+</h2>
+<p>Neil Young gilt als "Godfather of Grunge". Und selbst mit 75 Jahren, nach unzähligen Alben und Tourneen, ist der Rockstar aus Kanada noch immer nicht müde.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>Kunst</h4>
+<div class="news">
+<a href="/de/eisenzeit-ein-deutsch-russisches-schauprojekt/a-55542876">
+<div class="teaserImg">
+<img alt="Skythisches Gefäß (@: Eremitage/St.Petersburg)" itemprop="image" src="https://static.dw.com/image/55540365_301.jpg" title="Skythisches Gefäß (@: Eremitage/St.Petersburg)"/> </div>
+<h2 class="linkable">
+"Eisenzeit": ein deutsch-russisches Schauprojekt </h2>
+<p>1600 Objekte, fünf Jahre Vorbereitung: In der Petersburger Eremitage eröffnet eine deutsch-russische Ausstellung der Superlative - überschattet von Corona.   </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>Lebensart</h4>
+<div class="news">
+<a href="/de/wladimir-kaminer-erinnerungen-an-die-anarchischen-jahre-in-berlin/a-55485062">
+<div class="teaserImg">
+<img alt="Symbolbild Party | Diskokugel (picture-alliance/dpa/C. Soeder)" itemprop="image" src="https://static.dw.com/image/54667813_301.jpg" title="Symbolbild Party | Diskokugel (picture-alliance/dpa/C. Soeder)"/> </div>
+<h2 class="linkable">
+Wladimir Kaminer - Erinnerungen an die anarchischen Jahre in Berlin </h2>
+<p>Der russisch-deutsche Autor Wladimir Kaminer lebt seit 30 Jahren in Deutschland. Er denkt noch gerne an die wilde Zeit in Berlin kurz nach der Wende zurück.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col1 basicTeaser">
+<div class="group">
+<h4>Noch mehr Kultur!</h4>
+<!-- links -->
+<div class="linkList intern">
+<a href="/de/themen/filme/s-1564">
+<h2>
+Film
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/themen/bücher/s-1568">
+<h2>
+Bücher
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/themen/musik/s-12771">
+<h2>
+Musik
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/themen/kunst/s-101381">
+<h2>
+Kunst
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/themen/digitales-leben/s-30511">
+<h2>
+Netzkultur
+  </h2>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/de/themen/lebensart/s-101382">
+<h2>
+Lebensart
+  </h2>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">
+<li><a href="/de/themen/s-9077" style="font-weight: bold;" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+</li>
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+<li> </li>
+<li><a href="/de/themen-von-a-bis-z/index-de">Themen von A bis Z</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/media-center/s-100813" style="font-weight: bold;" title="Das Media Center: Die Mediathek der Deutschen Welle">MEDIA CENTER</a>
+</li>
+<li><a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a></li>
+<li><a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a></li>
+<li><a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a></li>
+<li><a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a></li>
+<li><a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/tv/s-9093" style="font-weight: bold;" title="TV">TV</a>
+</li>
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a></li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/deutsch-lernen/s-2055" style="font-weight: bold;" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+</li>
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/unternehmen/profil/s-30626" style="font-weight: bold;" title="UNTERNEHMEN">UNTERNEHMEN</a>
+</li>
+<li><a href="/de/unternehmen/profil/s-30626" title="Über uns">Über uns</a></li>
+<li><a href="/de/unternehmen/karriere/s-11525" title="Machen Sie Karriere – Aktuelle Jobs bei der Deutschen Welle">Karriere</a></li>
+<li><a href="/de/unternehmen/presse/s-2981" title="Presse">Presse</a></li>
+<li><a href="/de/unternehmen/business-sales/s-3086" title="Business &amp; Sales">Business &amp; Sales</a></li>
+<li><a href="/de/unternehmen/travel/s-7456" title="Travel Distribution">Travel</a></li>
+<li><a href="https://dwwerbung.com" title="Werbung">Werbung</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/service/empfang/s-4136" style="font-weight: bold;" title="Service">SERVICE</a>
+</li>
+<li><a href="/de/service/empfang/s-4136" title="Empfang der TV Programme der Deutschen Welle in Ihrer Region">Empfang</a></li>
+<li><a href="/de/service/apps-co/s-50833969" title="DW Apps für iOS, Android, Smart TV und Sprachassistenten">Apps &amp; Co.</a></li>
+<li><a href="/newsletter-anmeldung/a-15718221" title="Newsletter &amp; Co.">Newsletter &amp; Co.</a></li>
+<li><a href="/de/service/faq/s-30582" title="FAQ: Antworten auf häufige Fragen an die Deutsche Welle">FAQ</a></li>
+<li><a href="/de/service/kontakt/s-30583" title="Anschriften und Ansprechpartner bei der Deutschen Welle">Kontakt</a></li>
+<li> </li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" style="font-weight: bold;" title="DW AKADEMIE">DW AKADEMIE</a>
+</li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" title="Über Uns | DW Akademie">Über uns</a></li>
+<li><a href="/de/dw-akademie/medienentwicklung/s-11812" title="Medienentwicklung | DW Akademie">Medienentwicklung</a></li>
+<li><a href="/de/dw-akademie/studium/s-12262" title="International Media Studies: Studium bei der Deutschen Welle">Studium</a></li>
+<li><a href="/de/dw-akademie/volontariat/s-11881" title="Starten Sie durch mit einem Volontariat der Deutschen Welle">Volontariat</a></li>
+<li><a href="/de/dw-akademie/medientraining/s-11813" title="Medientraining I Auftritt in Medien und Öffentlichkeit">Medientraining</a></li>
+</ul>
+<p id="copyright">
+© 2020 Deutsche Welle |
+<a href="/de/definition-und-nutzung-von-daten-durch-die-deutsche-welle-gemäß-eu-dsgvo/a-18265186">Datenschutz</a> |
+<a href="/impressum">Impressum</a> |
+<a href="/kontakt">Kontakt</a>
+| <a href="https://m.dw.com/de/wie-deutschland-in-videospielen-dargestellt-wird/a-45161907" id="mobilePreferredLink">Mobile Version</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+</body></html>

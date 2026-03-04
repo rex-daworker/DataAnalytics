@@ -1,0 +1,123 @@
+#home-main-primary { font-family: "proxima-nova",sans-serif; }
+#home-main-primary .excerpt p.category{ color:#3399cc; }
+#panel-nav a { border-right:1px solid #575758; }
+#site-nav li:nth-last-child(2){ border-right:none; }
+#site-nav a { padding:12px 12px 10px; }
+#logo a.banner-logo { width:194px; }
+#internal-social{ margin:0 5px 5px; }
+#banner .hmenu li { border-color:#134385; }
+#panel-nav a{ padding:12px 13px 10px;}
+#extra-nav-toggle{ background: #818285; }
+#extra-nav { font-family: "proxima-nova",sans-serif; }
+#superadunit .topbar {background-color:#3799d0;}
+#heroadlogo{ top:-13px; }
+table.stats th{ font-family:"proxima-nova",sans-serif}
+body.product #compare-lede, #product-cap #compare-lede, body.collection #compare-lede{ background: #3399CC; }
+body.collection #compare-lede{ width: 75px; }
+body.collection div#compare-lede div{padding-left:16px;}
+body.product section table.related tr:hover td.compare{ background: #3399cc; }
+body.product section table.related tr.compare-hover td.thumb:before { font-family: "proxima-nova",sans-serif; }
+#product-cap-pricing{ font-family: "proxima-nova",sans-serif; }
+#cap-image-wrapper p{ font-family: "proxima-nova",sans-serif; }
+#cap-details h4 {font-family: "proxima-nova",sans-serif;}
+#capEnlarge:before{ background:#3399cc; }
+.rating .rating-star{ background: url(http://csmb.staticworld.net/images/furniture/macworld/rating-sm-mw.png) 0 0 no-repeat; display: block; height: 19px; width: 50px; }
+.rating .rating-star.zero-star{ background-position: -50px 0; }
+.rating .rating-star.zero-half-star{ background-position: -40px -19px; }
+.rating .rating-star.one-star{ background-position: -40px 0; }
+.rating .rating-star.one-half-star{ background-position: -30px -19px; }
+.rating .rating-star.two-star{ background-position: -30px 0; }
+.rating .rating-star.two-half-star{ background-position: -20px -19px; }
+.rating .rating-star.three-star{ background-position: -20px 0; }
+.rating .rating-star.three-half-star{ background-position: -10px -19px; }
+.rating .rating-star.four-star{ background-position: -10px 0; }
+.rating .rating-star.four-half-star{ background-position: 0px -19px; }
+.rating .rating-star.five-star{ background-position: 0px 0; }
+.rating.large{ width: 75px; }
+.rating.large .rating-star{ background: url(http://csmb.staticworld.net/images/furniture/macworld/rating-lg-mw.png) 0 0 no-repeat; display: block; height: 29px; width: 75px; } 
+.rating.large .rating-star.zero-star{ background-position: -75px 0; }
+.rating.large .rating-star.zero-half-star{ background-position: -60px -29px; }
+.rating.large .rating-star.one-star{ background-position: -60px 0; }
+.rating.large .rating-star.one-half-star{ background-position: -45px -29px; }
+.rating.large .rating-star.two-star{ background-position: -45px 0; }
+.rating.large .rating-star.two-half-star{ background-position: -30px -29px; }
+.rating.large .rating-star.three-star{ background-position: -30px 0; }
+.rating.large .rating-star.three-half-star{ background-position: -15px -29px; }
+.rating.large .rating-star.four-star{ background-position: -15px 0; }
+.rating.large .rating-star.four-half-star{ background-position: 0 -29px; }
+.rating.large .rating-star.five-star{ background-position: 0 0; }
+.slideshow #more-overlay h3{font-family: "proxima-nova",sans-serif;}
+ul.slideshowMore li a, ul.slideshowMore li a:hover{ font-family: "proxima-nova",sans-serif; }
+article figure figcaption, article figure figcaption small{ font-family: "proxima-nova",sans-serif; }
+.article .thm-gallery .items .item-summary { font-family: "proxima-nova",sans-serif; }
+.article .thm-gallery .embed-wrapper .embed-container .item-text .heading { font-family: "proxima-nova",sans-serif; font-weight: normal; }
+.article .thm-gallery .embed-wrapper .embed-container .item-text .heading .duration { font-size: 1rem; color: #999; }
+.article .thm-gallery .embed-wrapper .embed-container .item-text .eyebrow { font-family: "proxima-nova",sans-serif; }
+.embed-wrapper .embed-container .video-js .vjs-big-play-button .item-text .heading .title { font-weight: normal; }
+figure.large .overlay .similar-videos .carousel .list-item .item-info .title { font-family: "proxima-nova",sans-serif; font-weight: 700; }
+figure.large .embed-wrapper .embed-container .item-text .heading { font-family: "proxima-nova",sans-serif; font-weight: normal; }
+figure.large .embed-wrapper .embed-container .item-text .heading .duration { font-size: 1rem; color: #999; }
+figure.large .embed-wrapper .embed-container .item-text .eyebrow { font-family: "proxima-nova",sans-serif; margin-bottom: 5px; }
+figure.large .related-carousel .list-item.now-playing .item-img:after {
+background-color: rgba(37, 167, 215, 0.95); 
+font-family: "proxima-nova",sans-serif;
+}
+figure.large .related-carousel .list-item .item-info { }
+figure.large .related-carousel .list-item .item-info .title:hover { color: #25a7d7; }
+#premium-samples p { font-family: "proxima-nova",sans-serif; }
+.story-pkg-inner p { font-family: "proxima-nova",sans-serif; }
+aside.pullquote { border-top:1px solid #d2d2d2; border-bottom:1px solid #d2d2d2; }
+aside.pullquote q { font-family: "proxima-nova",sans-serif; color:#f27405; background:url(http://csmb.staticworld.net/images/furniture/techhive/icn-pullquote-mw.png) 0 50% no-repeat; }
+#heroLogin li { border-color:#3399cc; }
+.network-header{ font-family:'proxima-nova',sans-serif; }
+#banner-search-submit{ background: #05C7F2; background: -moz-linear-gradient(top,#05C7F2 0%, #3399CC 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#05C7F2), color-stop(100%,#3399CC)); background: -webkit-linear-gradient(top,#05C7F2 0%,#3399CC 100%); background: -o-linear-gradient(top,#05C7F2 0%,#3399CC 100%); background: -ms-linear-gradient(top,#05C7F2 0%,#3399CC 100%); background: linear-gradient(top,#05C7F2 0%,#3399CC 100%); }
+#network-sites a#network-pcworld { width:55px; }
+#network-sites a#network-macworld { width:70px;background-position:-65px -20px; }
+#network-sites a#network-techhive { width:70px;background-position:-145px 0; }
+#home-main-primary .listing-footer a{ color: #3399cc; }
+.how-to .excerpt-text { font-family:"proxima-nova",sans-serif; }
+.side-module.gb-promo { font-family:"proxima-nova",sans-serif; }
+.PM-Article{display: block; height: 20px; width: 109px; margin: 30px 0 0 76px; z-index:6; position:absolute; }
+/* BRANDPOST */
+.brandpost-line1, .brandpost-line2 {
+font-family: "proxima-nova",sans-serif;
+}
+.brandpost-line1 {
+margin-bottom: 14px;
+}
+.brandpost-line2 .brandpost-blurb {
+font-size: 17px;
+}
+@media all and (max-width: 768px) {
+.brandpost-line1 {
+margin-bottom: 10px;
+}	
+}
+.native-author .excerpt p.crawl-headline a,
+.native-author .excerpt p.crawl-summary { font-family:"proxima-nova",sans-serif; }
+/****************** BEGIN RESPONSIVE CSS *********************/
+@media only screen and (min-width:320px) and (max-width:767px) { 
+/* phones, handhelds smaller than iPad */
+#banner #logo a.banner-logo { background:url(http://csmb.staticworld.net/images/furniture/techhive/macworld-mobile-logo.png) 0 0 no-repeat; width:152px; }
+#site-nav a { padding:0; }
+body .network-header {
+display:none;
+}
+body.show-search .network-header {
+display:block;
+}
+}
+@media only screen and (min-width:768px) and (max-width:768px) { 
+/* portrait tablet */
+#site-nav a { padding: 16px 16px 16px 17px; }
+#home-main-primary .excerpt p.crawl-headline a{ font-size:18px }
+}
+@media only screen and (min-width: 769px){ 
+#home-main-primary .excerpt p.post-via{ font-family:"proxima-nova",sans-serif; }
+}
+@media only screen and (min-width:320px) and (max-width:767px) { 
+#banner #logo a.banner-logo { background:url(http://csmb.staticworld.net/images/furniture/techhive/macworld-mobile-logo.png) 0 0 no-repeat; width:152px; }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-resolution: 240dpi){ 
+#logo a.banner-logo { background:url(http://csmb.staticworld.net/images/furniture/techhive/logo-banner-macworld-lg-dark.png) 0 1px no-repeat !important; background-size: 160px 28px !important; width:160px !important; }
+}

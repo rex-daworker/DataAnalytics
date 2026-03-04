@@ -1,0 +1,1 @@
+['last', 'minute', 'flights', 'flight', 'booking', 'online', 'cheap', 'airlines', 'ticket', 'booking', 'cheap', 'flight', 'tickets', 'airlines', 'reservations', 'online', 'airlines', 'reservations', 'flight', 'booking', 'airline', 'tickets', 'travel', 'agency']

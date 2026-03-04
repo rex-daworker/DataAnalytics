@@ -1,0 +1,125 @@
+.tournament-listing {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 0;
+}
+
+.tournament-item {
+	box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+
+	width: 48.6%;
+	margin-right: 1%;
+	display:inline-block;
+	vertical-align: top;
+	margin-bottom: 0;
+	margin-top: 0;
+	cursor: pointer;
+
+	transition: all 0.2s ease;
+
+	-webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
+	-moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
+	box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
+}
+
+.tournament-pysty{
+	width: 48.6%;
+}
+
+.tournament-vaaka{
+	width: 100%;
+	margin: 0.7rem 0 !important;
+}
+
+
+.tournament-item.result-container {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+.tournament-item:hover {
+	margin-top: -5px;
+	margin-bottom: 5px;
+}
+
+.game-end .tournament-item {
+	cursor: default;
+}
+
+.game-end .tournament-item:hover {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.tournament-item img {
+	margin: 0!important;
+	width: 100%;
+
+
+}
+
+.tournament-desc {
+	background: #faefe7;
+	padding: 15px;
+	margin: 0!important;
+}
+
+.game-end .tournament-desc {
+	display:none;
+}
+.tournament-item:nth-child(even) {
+	margin-right:0;
+	margin-left: 1%;
+}
+
+.tourmanent-img-wrap {
+    position: relative;
+    line-height: 0;
+}
+
+.tourmanent-img-wrap:after {
+    content: '�?änestä';
+    font-size: 10px;
+    font-family: tahoma;
+    height: 65px;
+    text-transform: uppercase;
+    width: 65px;
+    color: #fff;
+    background: rgba(0,0,0,0.5);
+    display: block;
+    text-align: center;
+    line-height: 65px;
+    position: absolute;
+    border-radius: 50%;
+    top: 10px;
+    right: 10px;
+    pointer-events: none;
+    transition: all 0.2s ease;
+}
+
+.tournament-item:hover .tourmanent-img-wrap:after {
+	background: #ffa291;
+}
+
+.game-end .tourmanent-img-wrap:after {
+	display:none;
+}
+
+.tournament-item .result-text {
+	font-family: 'Georgia', georgia, serif;
+	font-size: 25px;
+	line-height: 33px;
+}
+
+@media screen and (max-width: 375px) {
+	.tournament-item{
+		width: 100%;
+		margin: 0.7rem 0 !important;
+}

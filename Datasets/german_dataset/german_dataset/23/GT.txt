@@ -1,0 +1,1 @@
+['linguistik', 'syntax', 'semantik', 'pragmatik', 'phonologie', 'morphologie', 'bibliographie', 'forum', 'foren', 'tagung', 'tagungen']

@@ -1,0 +1,1 @@
+['level', 'a1', 'mit', 'dem', 'einstufungstest', 'die', 'richtige', 'niveaustufe', 'finden', 'mit', 'dem', 'kursfinder', 'den', 'passenden', 'deutschkurs', 'ermitteln.']

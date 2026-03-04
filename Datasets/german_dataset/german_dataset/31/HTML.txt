@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/anc_roemer.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8"/>
+<!-- InstanceBeginEditable name="header" -->
+<title>DAS RÖMERHOF HOTEL**** - die Hotelaustattung</title>
+<meta content="51 großzügig ausgestattete, klimatisierte Hotelzimmer bietet Ihnen DAS RÖMERHOF HOTEL**** in Tulln an der Donau" name="description"/>
+<meta content="Hotel, Zimmer, Hotelzimmer, Hotelzimmer in Tulln, Messestadt Tulln, Hotelzimmer für Messebesuch, Zimmer für Messebesuch, Hotelzimmer für Garten Tulln,
+Zimmer für Garten Tulln, klimatisierte Hotelzimmer, Klimatisierte Zimmer, großzügig ausgestattete Hotelzimmer,  großzügig ausgestattete Zimmer, Zimmer für Radfahrer, Donauradweg Zimmer, behindertengerechte Zimmer,
+Frühstück, Frühstücksbuffet, cafe, Kaffee, hausgemachte Mehlspeisen, Tee, Orangensaft, Sekt sowie frisches Obst, Gebäck, Gemüse, Schinken, Eier, Marmelade, Honig und knusprig - frisches, 
+regionale Zutaten, nationale Küche, internationale Küche, Römerhof Adresse, Römerhof Telefonnummer, Römerhof E-Mail, Römerhof E-Mailadresse, Facebook, Instaram, Holidaycheck, Tripadvisor,
+Feste, Hochzeiten, Feiern, Geburtstagsfeiern, Erstkommunion, Firmung, Jubiläen, Familienfeiern, Trauerfeierlichkeiten, Seminare, Seminarraum, Seminare für 90 Personen, Verhandlungen, Konferenzen, 
+Seminarräume, Pausen Verpflegung, Meeting Raum, WLAN, W-Lan, vollklimatisiert, Schulungsraum, Tagungstechnik, Foyer, Wohlfühlambiente, Sauna, Saunarium, Infrarotkabine,Aubad Tulln, Donausplash, Donausplash Tulln,
+WC, Kosmetikspiegel, Haartrockner, Radio, SAT-TV - Flachbildschirm, Telefon, W-LAN, Safe, Minibar, Air-Condition, Klimaanlage, Balkon, á-la-Carte Restaurant, Öffnungszeiten, Rezeptionszeiten, Öffnungszeiten Römerhof, Bildergalerie " name="keywords"/>
+<!-- InstanceEndEditable -->
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0" name="viewport"/>
+<link href="unitegallery/css/unite-gallery.css" rel="stylesheet" type="text/css"/>
+<link href="menue/sm-core-css.css" rel="stylesheet" type="text/css"/>
+<link href="menue/sm-blue/sm-blue.css" rel="stylesheet" type="text/css"/>
+<link href="css/hotel.css" rel="stylesheet" type="text/css"/>
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script src="unitegallery/js/jquery-11.0.min.js" type="text/javascript"></script>
+<script src="unitegallery/js/unitegallery.min.js" type="text/javascript"></script>
+<script src="unitegallery/themes/grid/ug-theme-grid.js" type="text/javascript"></script>
+<script src="menue/jquery.smartmenus.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(function() {
+		$('#main-menu').smartmenus({
+			<!-- subMenusSubOffsetX: 1, -->
+			<!-- subMenusSubOffsetY: -8 -->
+		});
+	});
+</script>
+<script type="text/javascript">
+$(function() {
+  $('#menu-button').click(function()  {
+    var $this = $(this),
+        $menu = $('#main-menu');
+    if (!$this.hasClass('collapsed')) {
+      $menu.addClass('collapsed');
+      $this.addClass('collapsed');
+    } else {
+      $menu.removeClass('collapsed');
+      $this.removeClass('collapsed');
+    }
+    return false;
+  }).click();
+});
+
+</script>
+<script src="js/responsiveslides.min.js"></script>
+<script>
+  $(function() {
+    $(".rslides").responsiveSlides({
+	auto: true,             // Boolean: Animate automatically, true or false
+  speed: 600, 
+  });
+   });
+</script>
+<script>
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 80) {
+            $('.scrollicon').fadeIn();
+        } else {
+            $('.scrollicon').fadeOut();
+        }
+    });
+
+    $('.scrollicon').click(function(){
+        $("html, body").animate({ scrollTop: 0 }, 1200);
+        return false;
+    });
+</script>
+</head>
+<body>
+<div id="slidebox">
+<ul class="rslides">
+<!-- InstanceBeginEditable name="slide" -->
+<li> <img alt="Hotelzimmer" class="elem" src="images/hg_hotel1.jpg"/></li>
+<li> <img alt="Abendessen" class="elem" src="images/hg_hotel2.jpg"/></li>
+<li> <img alt="Hotelansicht" class="elem" src="images/hg_hotel3.jpg"/></li>
+<!-- InstanceEndEditable -->
+</ul>
+<article>
+<header>
+<!-- InstanceBeginEditable name="ueber" --> <h1>Hotel mit Wohlfühlambiente </h1><!-- InstanceEndEditable -->
+</header>
+<div class="section group">
+<!-- InstanceBeginEditable name="main" -->
+<div class="col box_1">
+<h2>Hotel</h2>
+	DAS RÖMERHOF HOTEL****<br/>
+	   heißt Sie herzlich Willkommen!
+	   <br/>
+<br/>
+	   DAS RÖMERHOF HOTEL**** wurde 2009 feierlich eröffnet und ist ein moderner und dennoch traditioneller Familienbetrieb. 
+	   <br/>
+<br/>
+	   Sowohl dem Geschäftsreisenden, als auch dem Kultur-, Sport- und Erholungsgast bieten 51 moderne und klimatisierte Zimmer beste Voraussetzungen, um den Aufenthalt so richtig zu genießen.
+	   <br/>
+</div>
+<div class="col box_2">
+<img alt="Familie Stoiber" class="bildmittig" src="images/img_hotel1.jpg"/>
+</div>
+<div class="col box_3">
+<img alt="Seminarraum" class="bildmittig" src="images/img_hotel6.jpg"/>
+</div>
+<div class="col box_4">
+<h2>Seminare und Konferenzen</h2>
+  	
+  	Für Seminare &amp; Konferenzen stehen Ihnen vier Veranstaltungsräume für 10 Personen bis zu 90 Personen mit optimalen Bedingungen zur Verfügung. 
+  	 <br/>
+<br/>
+  	 Denn nicht nur modernste Ausstattung und persönliches Service sorgen dafür, dass Ihr Meeting ein voller Erfolg wird.
+     <br/>
+<br/>
+     Wenn Sie das Bedürfnis nach Ruhe und Erholung haben und Ihrem Körper etwas Gutes tun wollen, dann lassen Sie in unserem Wohlfühlbereich Ihre Seele baumeln.
+     <br/>
+<br/>
+     Wir freuen uns auf Sie! <br/>
+       Familie Stoiber &amp; DAS RÖMERHOF-TEAM
+     <br/>
+</div>
+<div class="col box_3">
+<h2>Hotelausstattung  </h2>
+<strong>Das erwartet Sie bei uns:</strong><br/>
+51 klimatisierte Zimmer (großteils mit Balkon)<br/>
+W-LAN im gesamten Hotel<br/>
+Nichtraucherhotel<br/>
+Hoteleigene, kostenlose Parkplätze für PKWs, LKWs und Busse <br/>
+Fünf PKW-Garagen gegen Gebühr<br/>
+Wohlfühlbereich &amp; Fitnessraum<br/>
+Frühstücksbuffet werktags bereits ab 06:00 Uhr bis 10:00 Uhr<br/>
+Hotelbar<br/>
+Spieleraum (Billard, Dart, Tischfussball)<br/>
+Versperrbarer Radkeller mit Trockenraum<br/>
+Lift<br/>
+</div>
+<div class="col box_4">
+<img alt="Hotel - Lobby" class="bildmittig" src="images/img_hotel2.jpg"/>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</article>
+</div>
+<div id="menuebox">
+<a id="menu-button"><img alt="Menü" src="menue/menu.png"/></a>
+<ul class="sm sm-blue" id="main-menu">
+<li><a href="#">HOTEL</a>
+<ul>
+<li><a href="index.html">Hotel - Ausstattung</a></li>
+<li><a href="deutsch/hotel_erholung.html">Freizeit &amp; Erholung</a></li>
+<li><a href="deutsch/hotel_galerie.html">Bildergalerie</a></li>
+</ul>
+</li>
+<li><a href="#">ZIMMER</a>
+<ul>
+<li><a href="deutsch/zimmer_aussstattung.html">Zimmer - Ausstattung</a></li>
+<li><a href="htmasp/zimmer_preise.asp?sprache=D&amp;id=1">Preise</a></li>
+<li><a href="deutsch/zimmer_galerie.html">Bildergalerie</a></li>
+</ul>
+</li>
+<li><a href="#">SEMINARE</a>
+<ul>
+<li><a href="deutsch/seminar_raum.html">Seminarräume</a></li>
+<li><a href="deutsch/seminar_galerie.html">Bildergalerie</a></li>
+</ul>
+</li>
+<li><a href="#">VERPFLEGUNG</a>
+<ul>
+<li><a href="deutsch/rest_halbpension.html">Halbpension</a></li>
+<li><a href="deutsch/rest_fruehstueck.html">Frühstück</a></li>
+<li><a href="deutsch/rest_oeffnung.html">Öffnungszeiten</a></li>
+<li><a href="deutsch/rest_galerie.html">Bildergalerie</a></li>
+</ul>
+</li>
+<li><a href="#">KONTAKT</a>
+<ul>
+<li><a href="deutsch/kontakt_adresse.html">Adresse</a></li>
+<li><a href="deutsch/kontakt_impressum.html">Impressum</a></li>
+<li><a href="deutsch/kontakt_datenschutz.html">Datenschutz</a></li>
+<li><a href="deutsch/kontakt_anreise.html">Anreise</a></li>
+<li><a href="deutsch/kontakt_anfrage.html">Anfrage</a></li>
+<li><a href="deutsch/kontakt_bewertungen.html">Bewertungen</a></li>
+<li><a href="http://www.booking.com/hotel/at/hotel-romerhof-tulln.de.html?aid=330843;sid=1529ce3fafb1e65c1166a3c886353e05" target="blank">Jetzt buchen</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="div_buchen">
+<a href="http://www.booking.com/hotel/at/hotel-romerhof-tulln.de.html?aid=330843;sid=1529ce3fafb1e65c1166a3c886353e05" target="new"><img alt="Jetzt buchen" src="images/icon_b.jpg"/></a>
+</div>
+<div id="div_tel">
+<a class="tel-mobile" href="tel:0043227262954">
+<img alt="" height="40" src="images/blind_t.gif"/> </a>
+</div>
+<div id="socialbox">
+<a href="https://www.facebook.com/RoemerhofTulln" target="_new"><img alt="Facebook - Icon" src="images/icon_f.jpg"/></a>
+<a href="https://www.instagram.com/dasroemerhof/?hl=de" target="_new"><img alt="Instagram - Icon" src="images/icon_i.jpg"/></a>
+<a href="mailto://info@hotel-roemerhof.at" target="_blank"><img alt="E-Mail - Icon" src="images/icon_e.jpg"/></a>
+<a href="index.html"><img alt="Deutsche Sprache - Icon" src="images/icon_dt.jpg"/></a>
+<a href="englisch/e_hotel_ausstattung.html"><img alt="Englische Sprache - Icon" src="images/icon_en.jpg"/></a>
+</div>
+<a class="scrollicon" href="#" title="zum Seitenanfang"><div>^</div></a><br/>
+<!-- InstanceBeginEditable name="footer" -->
+<div id="index_buchen">
+<a href="http://www.booking.com/hotel/at/hotel-romerhof-tulln.de.html?aid=330843;sid=1529ce3fafb1e65c1166a3c886353e05" target="new"><img alt="Jetzt buchen" src="images/index_buchen.gif"/></a>
+</div>
+<!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>

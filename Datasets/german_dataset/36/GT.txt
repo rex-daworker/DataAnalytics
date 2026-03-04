@@ -1,0 +1,1 @@
+['hotel', 'liste', 'alle', 'hotels', 'hotel', 'übersicht']

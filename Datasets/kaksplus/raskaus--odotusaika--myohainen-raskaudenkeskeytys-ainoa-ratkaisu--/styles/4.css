@@ -1,0 +1,148 @@
+@charset "UTF-8";
+/*
+ *
+ * The Solr search core styles: searchbar
+ *
+ */
+
+.solr-searchbar {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+    position: relative;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.solr-searchbar *,
+.solr-searchbar *:before,
+.solr-searchbar *:after {
+    box-sizing: inherit;
+}
+
+.solr-searchbar .search-input,
+.solr-searchbar .search-submit {
+    display: block;
+    height: 32px !important;
+    margin-top: 14px !important;
+    margin-bottom: 14px !important;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 1.25em;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.solr-searchbar .search-input {
+    float: left;
+    padding-left: 8px;
+    -webkit-appearance: none;
+    border-radius: 0;
+    appearance: searchfield;
+    width: calc(100% - 55px);
+}
+
+.solr-searchbar .search-submit {
+    float: right;
+    width: 55px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.search-submit .loader  {
+    display: none;
+    font-size: 1.25em;
+}
+
+.search-submit:before {
+    content: "\f002";
+    font: normal normal normal 20px/1 FontAwesome;
+    transition: all 0.3s ease;
+}
+
+.search-submit.searching .loader {
+    display: inline-block;
+}
+
+.search-submit.searching:before {
+    content: "";
+    display: none;
+}
+
+.ui-autocomplete {
+    width: calc(100% - 55px);
+    z-index: 11;
+    background: #efefef;
+    color: #000;
+    border-radius: 0px;
+    border: 0;
+    box-shadow: 1px 1px 2px 0px rgba(50, 50, 50, 0.75);
+}
+
+.ui-autocomplete li {
+    cursor: pointer;
+    font-size: 14px;
+    padding: 8px 5px;
+}
+
+.ui-autocomplete a {
+    color: #000;
+}
+
+.ui-autocomplete-category {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.07em;
+    padding: 5px 0;
+}
+
+.ui-helper-hidden-accessible {
+    display: none;
+}
+
+.ui-autocomplete.ui-menu li:not(.ui-autocomplete-category):hover,
+.ui-autocomplete.ui-menu .ui-state-focus {
+    background: #a7a7a7;
+}
+
+.ui-autocomplete-link-to-search:after {
+    content: ' ‚?∏';
+}
+
+@media only screen and (max-device-width: 480px) {
+    .solr-searchbar .search-submit {
+        display: none !important;
+    }
+    .solr-searchbar .search-input {
+        width: 100% !important;
+        margin: 0px;
+    }
+    #topbar .solr-searchbar .ui-autocomplete,
+    #topbar .solr-searchbar .search-input {
+        width: 97% !important;
+        margin: 14px 1.5%;
+    }
+}
+
+.loader {
+  width: 12px; height: 12px;
+  -webkit-animation: sweep 1s infinite linear;
+  border-radius:75px;
+  border-bottom:5px solid #fff;
+  display:inline-block;
+}
+
+@-webkit-keyframes sweep {
+  to {
+    transform: rotate(360deg);
+    -webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+  }
+}
+
+/* END OF: Ajax py√∂rij√§ */

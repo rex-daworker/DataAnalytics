@@ -1,0 +1,1883 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="2a682aea5f801cddd9f8cda383f13cae" name="verification"/>
+<title>SPIELKULT.de - Brettspiele im Test</title>
+<style fprolloverstyle="">A:hover {color: #FF6600; font-weight: bold}
+</style>
+<meta content="Brettspiele, Spiele, Gesellschaftsspiele, Test, Testberichte, Videos" name="keywords"/>
+<meta content="Die ganze Welt der Brettspiele: Täglich neue Testberichte, dazu kostenlose Erklärvideos, Gewinnspiele, Messeberichte. " name="description"/>
+<style type="text/css">.auto-style210 {
+	font-family: Tahoma;
+	text-align: center;
+	text-decoration: none;
+}
+.auto-style35 {
+	border-width: 0px;
+}
+.auto-style46 {
+	color: #FFFFFF;
+}
+#cookieChoiceInfo a{
+ color: #000000;
+ text-decoration: none;
+ font-weight: bold
+}
+.auto-style90 {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	font-size: 5pt;
+}
+.auto-style92 {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 6pt;
+	background-color: #FFFFFF;
+}
+#cookieChoiceInfo a{
+ color: #000000;
+ text-decoration: none;
+ font-weight: bold
+}
+.auto-style95 {
+	background-color: #000000;
+}
+.auto-style104 {
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 4pt;
+}
+.auto-style108 {
+	font-size: 5pt;
+}
+.auto-style127 {
+	white-space: nowrap;
+	background-color: #000000;
+}
+.auto-style134 {
+	text-align: left;
+	color: #FF0000;
+	background-color: #FFFFFF;
+}
+.auto-style140 {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	font-size: 5pt;
+	text-align: center;
+}
+.auto-style144 {
+	color: #CECECE;
+	font-family: Tahoma;
+	font-size: 9pt;
+}
+.auto-style145 {
+	font-family: Tahoma;
+	font-size: 9pt;
+}
+.auto-style146 {
+	font-size: 4pt;
+	color: #FFFFFF;
+}
+.auto-style148 {
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 13pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.auto-style150 {
+	font-family: Tahoma;
+	font-size: 9pt;
+	text-align: center;
+}
+.auto-style151 {
+	color: #000000;
+}
+.auto-style152 {
+	text-align: center;
+}
+.auto-style153 {
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 7pt;
+	color: #BFBFBF;
+}
+.auto-style154 {
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #BFBFBF;
+}
+.auto-style155 {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #CCCCCC;
+}
+.auto-style149 {
+	font-size: 13pt;
+	font-family: Tahoma;
+}
+.auto-style157 {
+	font-size: 14pt;
+}
+.auto-style158 {
+	font-family: Tahoma;
+	font-size: 13pt;
+	color: #808080;
+	background-color: #FFFFFF;
+}
+.auto-style160 {
+	background-color: #FFFFFF;
+	color: #808080;
+}
+.auto-style162 {
+	color: #808080;
+}
+.auto-style164 {
+	font-family: Tahoma;
+	color: #808080;
+	font-size: 13pt;
+}
+.auto-style165 {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #A0A0A0;
+}
+.auto-style166 {
+	color: #A0A0A0;
+}
+.auto-style170 {
+	color: #999898;
+}
+.auto-style171 {
+	border-width: 0px;
+	color: #999898;
+}
+.auto-style173 {
+	background-color: #CECECE;
+	background-image: url('hggrau16.jpg');
+}
+.auto-style174 {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #666666;
+}
+.auto-style175 {
+	color: #666666;
+}
+.auto-style176 {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #999898;
+}
+.auto-style177 {
+	margin-left: 0px;
+}
+.auto-style178 {
+	color: #999898;
+	font-size: 10pt;
+}
+.auto-style179 {
+	font-size: 10pt;
+}
+.auto-style181 {
+	font-size: 9pt;
+}
+.auto-style210 {
+	font-family: Tahoma;
+	text-align: center;
+	text-decoration: none;
+}
+.auto-style211 {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #999898;
+	white-space: nowrap;
+}
+.auto-style213 {
+	background-color: #E9E9E9;
+}
+.auto-style215 {
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #999898;
+}
+.auto-style198 {
+	color: #BFBFBF;
+}
+</style>
+<link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" rel="stylesheet" type="text/css"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#14a7d0",
+      "border": "#14a7d0"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "message": "Um SPIELKULT.de für Sie optimal gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch eine weitere Nutzung unserer Webseite stimmen Sie der Verwendung von Cookies zu. Mehr Informationen zu Cookies finden Sie in unserer Datenschutzerklärung!",
+    "dismiss": "Ich bin einverstanden!",
+    "link": "Mehr Infos",
+    "href": "https://www.spielkult.de/datenschutz.htm"
+  }
+})});
+</script>
+</head>
+<body alink="#FFFFFF" background="hgms09.gif" bgcolor="#FFFFFF" bottommargin="0" leftmargin="0" link="#FFFFFF" rightmargin="0" topmargin="0" vlink="#FFFFFF">
+<center>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" id="table1882" width="770">
+<tr>
+<td width="750">
+<table bgcolor="#FFFFFF" border="0" bordercolordark="#000000" bordercolorlight="#000000" cellpadding="0" cellspacing="0" id="table1883" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" nowrap="nowrap" width="1000">
+<table border="0" cellpadding="0" cellspacing="0" id="table1884" style="width: 800">
+<tr>
+<td valign="top" width="10"> </td>
+<td valign="top" width="10">
+<img border="0" height="1" src="https://www.spielkult.de/fuell10.jpg" width="10"/></td>
+<td valign="top" width="4"> </td>
+<td nowrap="nowrap" valign="top" width="841">
+<table border="0" bordercolordark="#808080" bordercolorlight="#808080" cellpadding="0" cellspacing="0" id="table1885" width="101%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" id="table1886" width="97%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" id="table1887" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" id="table1888" width="97%">
+<tr>
+<td align="left" bgcolor="#FFFFFF" colspan="2" height="35" nowrap="nowrap" width="827">
+<table border="0" cellpadding="0" cellspacing="0" id="table1889" width="100%">
+<tr>
+<td width="252">
+<font color="#CCCCCC" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<a href="https://www.spielkult.de" style="text-decoration: none">
+<font color="#CCCCCC">
+																www.spielkult.de</font></a></font></td>
+<td> </td>
+<td background="hgoben3.jpg" bgcolor="#FFFFFF" width="141">
+<p align="center">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<a href="https://www.spielkult.de/kontakt.htm" style="text-decoration: none">
+																Kontakt </a>  
+																</font>
+<span style="font-weight: 700">
+<font face="Tahoma" style="font-size: 8pt">
+<a href="https://www.spielkult.de/impressum.htm" style="text-decoration: none">
+																Impressum</a></font></span></p></td>
+<td background="hgoben5.jpg" bgcolor="#FFFFFF" width="56">
+<p align="center">
+<span style="font-weight: 700">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt">
+<a href="https://www.spielkult.de/sksuche.htm" style="text-decoration: none">
+																Suche</a></font></span></p></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FF6600" colspan="2" height="64" nowrap="nowrap" width="827">
+<table border="0" cellpadding="0" cellspacing="0" id="table1890" width="100%">
+<tr>
+<td width="184"> 
+																</td>
+<td>
+<img alt="" height="64" src="sklogo2010neu1.jpg" width="430"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#111111" height="27" nowrap="nowrap" width="185"> 
+														</td>
+<td align="left" bgcolor="#111111" height="27" nowrap="nowrap" width="642">
+<b>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+														 <a href="https://www.spielkult.de/index.htm" style="text-decoration: none">START</a>
+</font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/test.htm" style="text-decoration: none">
+														SPIELETESTS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														|</font></span></font><font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/videos.htm" style="text-decoration: none">
+														VIDEOS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/extras.htm" style="text-decoration: none">
+														EXTRAS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/links.htm" style="text-decoration: none">
+														LINKS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/mitspieler.htm" style="text-decoration: none">
+														TREFF</a></font></b></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" colspan="2">
+<font color="#FFFFFF">
+<span style="font-size: 8pt">
+														Suche</span></font></td>
+</tr>
+<tr>
+<td background="hgleistesuche4.jpg" bgcolor="#FFFFFF" colspan="2">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="height: 21; width: 134px">
+																 </td>
+<td style="height: 21; width: 131px">
+<a href="https://www.spielkult.de/sksuche.htm">
+<img alt="Schnellsuche" border="0" class="auto-style177" height="21" longdesc="https://www.spielkult.de/../00000Spielkult/Schnellsuche" src="https://www.spielkult.de/sksearchschrift120titel.GIF" width="120"/></a></td>
+<td class="auto-style211" style="height: 21">
+<strong>
+<a class="auto-style210" href="https://www.spielkult.de/testgesamt0.htm">
+<span class="auto-style178">
+																#</span></a><font class="auto-style179" size="2"> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamta.htm">
+<span class="auto-style170">
+																A</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtb.htm">
+<span class="auto-style170">
+																B</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtc.htm">
+<span class="auto-style170">
+																C</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtd.htm">
+<span class="auto-style170">
+																D</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamte.htm">
+<span class="auto-style170">
+																E</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtf.htm">
+<span class="auto-style170">
+																F</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtg.htm">
+<span class="auto-style170">
+																G</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamth.htm">
+<span class="auto-style170">
+																H</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamti.htm">
+<span class="auto-style170">
+																I</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtj.htm">
+<span class="auto-style170">
+																J</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtk.htm">
+<span class="auto-style170">
+																K</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtl.htm">
+<span class="auto-style170">
+																L</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtm.htm">
+<span class="auto-style170">
+																M</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtn.htm">
+<span class="auto-style170">
+																N</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamto.htm">
+<span class="auto-style170">
+																O</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtp.htm">
+<span class="auto-style170">
+																P</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtq.htm">
+<span class="auto-style170">
+																Q</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtr.htm">
+<span class="auto-style170">
+																R</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamts.htm">
+<span class="auto-style170">
+																S</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtt.htm">
+<span class="auto-style170">
+																T</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtu.htm">
+<span class="auto-style170">
+																U</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtv.htm">
+<span class="auto-style170">
+																V</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtw.htm">
+<span class="auto-style170">
+																W</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamtx.htm">
+<span class="auto-style170">
+																X</span></a> 
+																<a class="auto-style210" href="https://www.spielkult.de/testgesamty.htm">
+<span class="auto-style170">
+																Y</span></a> 
+																</font>
+<a class="auto-style210" href="https://www.spielkult.de/testgesamtz.htm">
+<span class="auto-style178">
+																Z</span></a></strong></td>
+</tr>
+<tr>
+<td colspan="3" style="height: 13">
+<font color="#FFFFFF">
+<span class="auto-style108">
+																uche</span></font></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" colspan="2">
+<a href="https://www.spielkult.de/bonfire.htm">
+<img class="auto-style35" height="263" src="spielkultneu2020-bonfire.jpg" width="826"/></a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="auto-style146" colspan="2">
+														...</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" id="table1894" width="100%">
+<tr>
+<td class="auto-style104" height="265" style="height: 4" width="826">
+														...</td>
+</tr>
+<tr>
+<td class="auto-style134" height="265" style="height: 12" width="826">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td class="auto-style148" colspan="5" style="width: 826">
+<a href="https://www.spielkult.de/testfam.htm">
+<img alt="" class="auto-style171" height="15" src="skfambutton.gif" width="15"/></a><strong><span class="auto-style155">
+<a class="auto-style210" href="https://www.spielkult.de/testfam.htm">
+<span class="auto-style170">FAMILIE</span></a></span><span class="auto-style176">    </span>
+<span class="auto-style155">
+<a href="https://www.spielkult.de/testsoa.htm">
+<img alt="" class="auto-style171" height="15" src="sksoabutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testsoa.htm">
+<span class="auto-style170">STRATEGIE</span></a></span><span class="auto-style145"><span class="auto-style176">    </span></span><span class="auto-style155">
+<a href="https://www.spielkult.de/testqwr.htm">
+<img alt="" class="auto-style171" height="15" src="skqwrbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testqwr.htm">
+<span class="auto-style170">WISSEN</span></a></span><span class="auto-style145"><span class="auto-style176">    </span>
+</span><span class="auto-style155">
+<a href="https://www.spielkult.de/testkup.htm">
+<img alt="" class="auto-style171" height="15" src="skkupbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testkup.htm">
+<span class="auto-style170">PARTY</span></a><span class="auto-style145"><span class="auto-style176">    </span>
+</span>
+<a href="https://www.spielkult.de/testdlk.htm">
+<img alt="" class="auto-style171" height="15" src="skdlkbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testdlk.htm">
+<span class="auto-style170">DENKEN</span></a><span class="auto-style145"><span class="auto-style176">    </span>
+</span>
+<a href="https://www.spielkult.de/testkin.htm">
+<img alt="" class="auto-style171" height="15" src="skkinbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testkin.htm">
+<span class="auto-style170">KINDER</span></a><span class="auto-style145"><span class="auto-style176">    </span>
+</span>
+<a href="https://www.spielkult.de/testkar.htm">
+<img alt="" class="auto-style171" height="15" src="skkarbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testkar.htm">
+<span class="auto-style170">KARTEN</span></a><span class="auto-style145"><span class="auto-style176">    </span>
+</span>
+<a href="https://www.spielkult.de/testwug.htm">
+<img alt="" class="auto-style171" height="15" src="skwugbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testwug.htm">
+<span class="auto-style170">WÜRFEL</span></a><span class="auto-style145"><span class="auto-style176">    </span>
+</span>
+<a href="https://www.spielkult.de/testaug.htm">
+<img alt="" class="auto-style171" height="15" src="skaugbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testaug.htm">
+<span class="auto-style170">AKTIV</span></a><span class="auto-style145"><span class="auto-style176">    </span>
+</span>
+<a href="https://www.spielkult.de/testler.htm">
+<img alt="" class="auto-style171" height="15" src="sklerbutton.gif" width="15"/></a>
+<a class="auto-style210" href="https://www.spielkult.de/testler.htm">
+<span class="auto-style170">
+																LERNEN</span></a></span></strong></td>
+</tr>
+<tr>
+<td class="auto-style162" style="width: 254px">
+																 </td>
+<td class="auto-style160" style="width: 26">
+																 </td>
+<td class="auto-style158" colspan="3">
+																 </td>
+</tr>
+<tr>
+<td class="auto-style162" style="width: 254px">
+<a href="https://www.spielkult.de/testhistory.htm">
+<img alt="" class="auto-style35" height="30" src="sktitelneuespieletests.gif" width="260"/></a></td>
+<td class="auto-style160" style="width: 26">
+																 </td>
+<td class="auto-style158" colspan="3">
+																Unsere aktuellen<strong><span class="auto-style157">
+																Rezensionen </span></strong>
+																- täglich mehr!</td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style165" style="width: 254px; height: 133px;">
+<a href="https://www.spielkult.de/chartered.htm">
+<img class="auto-style35" height="150" src="skchartered0.jpg" width="260"/></a></td>
+<td style="width: 26px; height: 133px;">
+</td>
+<td class="auto-style165" style="width: 254px; height: 133px;">
+<a href="https://www.spielkult.de/combocolor.htm">
+<img class="auto-style35" height="150" src="skcombocolor0.jpg" width="260"/></a></td>
+<td style="width: 26px; height: 133px;">
+</td>
+<td class="auto-style165" style="width: 254px; height: 133px;">
+<a href="https://www.spielkult.de/feierabend.htm">
+<img class="auto-style35" height="150" src="skfeierabend0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px; height: 13px;">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span><span class="auto-style181">  
+																STRATEGIESPIEL</span></font><span class="auto-style144">
+</span></strong><span class="auto-style144"> 
+																// 11.11.2020</span></span></td>
+<td class="auto-style166" style="width: 26px; height: 13px;">
+</td>
+<td class="auto-style166" style="width: 254px; height: 13px;">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<img alt="Familie" border="0" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/><span class="auto-style181">  
+																FAMILIENSPIEL</span></font><span class="auto-style144">
+</span></strong><span class="auto-style144"> 
+																// 10.11.2020</span></span></td>
+<td class="auto-style166" style="width: 26px; height: 13px;">
+</td>
+<td class="auto-style166" style="width: 254px; height: 13px;">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span><span class="auto-style181">  
+																STRATEGIESPIEL</span></font><span class="auto-style144">
+</span></strong><span class="auto-style144"> 
+																// 09.11.2020</span></span></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style165" style="width: 254px; height: 133px;">
+<a href="https://www.spielkult.de/krazypix.htm">
+<img class="auto-style35" height="150" src="skkrazypix0.jpg" width="260"/></a></td>
+<td style="width: 26px; height: 91px;">
+</td>
+<td class="auto-style165" style="width: 254px; height: 133px;">
+<a href="https://www.spielkult.de/aeonsend.htm">
+<img class="auto-style35" height="150" src="skaeonsend0.jpg" width="260"/></a></td>
+<td style="width: 26px; height: 91px;">
+</td>
+<td class="auto-style165" style="width: 254px; height: 133px;">
+<a href="https://www.spielkult.de/ghostsmoor.htm">
+<img class="auto-style35" height="150" src="skghostmoor0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px; height: 13px;">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<img alt="Party &amp; Kommunikation" border="0" height="10" longdesc="../00000Spielkult/Party &amp; Kommunikation" src="pic3c.jpg" width="10"/><span class="auto-style181">  
+																PARTYSPIEL</span></font><span class="auto-style144">
+</span></strong><span class="auto-style144"> 
+																// 07.11.2020</span></span></td>
+<td class="auto-style166" style="width: 26px; ">
+</td>
+<td class="auto-style166" style="width: 254px; height: 13px;">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span><span class="auto-style181">  
+																STRATEGIESPIEL</span></font><span class="auto-style144">
+</span></strong><span class="auto-style144"> 
+																// 06.11.2020</span></span></td>
+<td class="auto-style166" style="width: 26px; ">
+</td>
+<td class="auto-style166" style="width: 254px; height: 13px;">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<img alt="Familie" border="0" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/><span class="auto-style181">  
+																FAMILIENSPIEL</span></font><span class="auto-style144">
+</span></strong><span class="auto-style144"> 
+																// 05.11.2020</span></span></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style173" style="width: 254">
+<strong>
+<span class="auto-style165">
+																 
+																</span>
+<span class="auto-style174">
+																 <a class="auto-style210" href="https://www.spielkult.de/test.htm"><span class="auto-style175">ALLE SPIELETESTS</span></a></span></strong> </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style173" style="width: 253">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/testneu.htm">
+<span class="auto-style175">
+																ALLE NEUHEITEN</span></a></span></strong> </td>
+<td style="width: 28px">
+																 </td>
+<td class="auto-style173">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/testhistory.htm">
+<span class="auto-style175">
+																DIE 50 NEUESTEN 
+																SPIELETESTS</span></a></span></strong> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/videos.htm">
+<img alt="" class="auto-style35" height="30" src="sktitelneuevideos.gif" width="260"/></a></td>
+<td style="width: 26px">
+</td>
+<td class="auto-style158" colspan="3">
+																Die neuesten
+																<strong>Spielevideos</strong> - 
+																klick &amp; kuck!</td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/pachakuna2.htm">
+<img class="auto-style35" height="150" src="skvpachakuna1.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/ageofsteam2.htm">
+<img class="auto-style35" height="150" src="skvageofsteam1.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/bonfire2.htm">
+<img class="auto-style35" height="150" src="skvbonfire1.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span>
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style165">
+<img alt="Familie" border="0" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/>  </span> </font>
+</strong>
+<span class="auto-style145">
+<strong>
+																P'ACHAKUNA</strong></span></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span>
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style165">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span>  </span> </font>
+</strong>
+<span class="auto-style145">
+<strong>AGE OF 
+																STEAM DELUXE</strong></span></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span>
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style165">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span>  </span> </font>
+</strong>
+<span class="auto-style145">
+<strong>BONFIRE</strong></span></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+																 </td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td class="auto-style166" style="width: 253px">
+																 </td>
+<td class="auto-style166" style="width: 28px">
+																 </td>
+<td class="auto-style166">
+																 </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/tuscany2.htm">
+<img class="auto-style35" height="150" src="skvtuscany1.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/theloop2.htm">
+<img class="auto-style35" height="150" src="skvtheloop1.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/genesia2.htm">
+<img class="auto-style35" height="150" src="skvgenesia1.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span>
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style165">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span>  </span> </font>
+</strong>
+<span class="auto-style145">
+<strong>THE 
+																CASTLES OF 
+																TUSCANY</strong></span></td>
+<td class="auto-style166" style="width: 26px; height: 15px;">
+</td>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span>
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style165">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span>  </span> </font>
+</strong>
+<span class="auto-style145">
+<strong>THE LOOP</strong></span></td>
+<td class="auto-style166" style="width: 26px; height: 15px;">
+</td>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span>
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style165">
+<span class="auto-style144">
+<span class="auto-style145">
+<img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span></span>  </span> </font>
+</strong>
+<span class="auto-style145">
+<strong>GENESIA</strong></span></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style173" style="width: 254">
+<strong>
+<span class="auto-style165">
+																 
+																</span>
+<span class="auto-style174">
+																 <a class="auto-style210" href="https://www.spielkult.de/videoskomplett.htm"><span class="auto-style175">ALLE VIDEOS IM 
+																ÜBERBLICK</span></a></span></strong> </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style173" style="width: 253">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/videos.htm">
+<span class="auto-style175">
+																ALLE NEUHEITEN</span></a></span></strong> </td>
+<td style="width: 28px">
+																 </td>
+<td class="auto-style173">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/videos.htm">
+<span class="auto-style175">
+																ALLE VIDEOS IM 
+																DETAIL</span></a></span></strong> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style153" style="width: 253" valign="bottom">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style154" style="width: 253">
+<strong>Anzeige </strong></td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style152" colspan="5">
+<a href="https://www.spiele-offensive.de/referrer.php?p=7&amp;pid=167&amp;bid=143" target="_blank">
+<img alt="" class="auto-style35" height="90" src="https://www.spiele-offensive.de/gfxa/wbg/728x90_1.jpg" width="728"/></a> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/videos.htm">
+<img alt="" class="auto-style35" height="30" src="sktitelneuevideos.gif" width="260"/></a></td>
+<td style="width: 26px">
+</td>
+<td class="auto-style158" colspan="3">
+																Die neuesten
+																<strong>
+																Wochenrückblicke</strong> - 
+																klick &amp; kuck!</td>
+</tr>
+<tr>
+<td class="auto-style211" style="width: 254px; height: 16px;">
+																 </td>
+<td class="auto-style198" style="width: 23; height: 16px;">
+																				 </td>
+<td class="auto-style211" style="width: 254px; height: 16px;">
+																 </td>
+<td class="auto-style198" style="width: 23; height: 16px;">
+																				 </td>
+<td class="auto-style211" style="width: 254px; height: 16px;">
+																 </td>
+</tr>
+<tr>
+<td class="auto-style211" style="width: 254px; height: 16px;">
+<strong>
+																KALENDERWOCHE 
+																45/2020</strong></td>
+<td class="auto-style198" style="width: 23; height: 16px;">
+</td>
+<td class="auto-style211" style="width: 254px; height: 16px;">
+<strong>
+																KALENDERWOCHE 
+																44/2020</strong></td>
+<td class="auto-style198" style="width: 23; height: 16px;">
+</td>
+<td class="auto-style211" style="width: 254px; height: 16px;">
+<strong>
+																KALENDERWOCHE 
+																43/2020</strong></td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/wr4520.htm">
+<img class="auto-style35" height="146" src="wr4520.jpg" width="260"/></a></td>
+<td style="width: 23">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/wr4420.htm">
+<img class="auto-style35" height="146" src="w4420.jpg" width="260"/></a></td>
+<td style="width: 23">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/wr4320.htm">
+<img class="auto-style35" height="146" src="weekly43klein.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style153" style="width: 253" valign="bottom">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style153" style="width: 253" valign="bottom">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style154" style="width: 253">
+<strong>Anzeige </strong></td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style152" colspan="5">
+<a href="https://www.spiele-offensive.de/referrer.php?p=8&amp;pid=167&amp;bid=143" target="_blank">
+<img alt="" class="auto-style35" height="90" src="https://www.spiele-offensive.de/gfxa/wbg/728x90_2.jpg" width="728"/></a> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/test.htm">
+<img alt="" class="auto-style35" height="30" src="sktitelhighlights.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style164" colspan="3">
+																Die aktuellen 
+																<strong>Empfehlungen</strong> - 
+																Top-Tipps!</td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<a href="https://www.spielkult.de/bonfire.htm">
+<img class="auto-style35" height="150" src="skbonfire0.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 253px">
+<a href="https://www.spielkult.de/tapestry.htm">
+<img class="auto-style35" height="150" src="sktapestry0.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 28px">
+																 </td>
+<td>
+<a href="https://www.spielkult.de/topiary.htm">
+</a><a href="https://www.spielkult.de/tuscany.htm">
+<img class="auto-style35" height="150" src="sktuscany0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style165" style="width: 254px; height: 19px">
+<strong>
+<span class="auto-style145">  
+																</span>
+<span class="auto-style165">
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style145"><img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span>  </font>
+																STRATEGIESPIEL</span></strong></td>
+<td class="auto-style165" style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+<strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style145"><img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span>  </font>
+																STRATEGIESPIEL</span></strong></td>
+<td class="auto-style165" style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+<strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style145"><img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span>  </font>
+																STRATEGIESPIEL</span></strong></td>
+</tr>
+<tr>
+<td style="width: 254px; height: 19px">
+</td>
+<td style="width: 26px; height: 19px">
+</td>
+<td style="width: 253px; height: 19px">
+</td>
+<td style="width: 28px; height: 19px">
+</td>
+<td style="height: 19px">
+																 </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/sagrada.htm">
+</a><a href="https://www.spielkult.de/micromacro.htm">
+<img class="auto-style35" height="150" src="skmicromacro0.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/goennenkoennen.htm">
+<img class="auto-style35" height="150" src="skgoennenkoennen0.jpg" width="260"/></a></td>
+<td style="width: 28px">
+																 </td>
+<td>
+<a href="https://www.spielkult.de/harvest.htm">
+</a><a href="https://www.spielkult.de/isleofcats.htm">
+<img class="auto-style35" height="150" src="skisleofcats0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																</span></strong>
+<span class="auto-style165">
+<strong>
+<font face="Tahoma" style="font-size: 8pt">
+<img alt="Familie" border="0" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/><span class="auto-style181">  
+																FAMILIENSPIEL</span></font></strong></span></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 254px">
+<strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt">
+<img alt="Würfel &amp; Glück" border="0" height="10" longdesc="../00000Spielkult/Würfel &amp; Glück" src="pic2c.jpg" width="10"/>  </font>
+																WÜRFELSPIEL</span></strong></td>
+<td class="auto-style165" style="width: 28px">
+																 </td>
+<td><strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style145"><img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span>  </font>
+																STRATEGIESPIEL</span></strong></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+																 </td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td class="auto-style166" style="width: 28px">
+																 </td>
+<td>
+																 </td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<a href="https://www.spielkult.de/diceforge.htm">
+</a><a href="https://www.spielkult.de/theloop.htm">
+<img class="auto-style35" height="150" src="sktheloop0.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 253px">
+<a href="https://www.spielkult.de/raeuberdernordsee.htm">
+</a><a href="https://www.spielkult.de/mycity.htm">
+<img class="auto-style35" height="150" src="skmycity0.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 28px">
+																 </td>
+<td>
+<a href="https://www.spielkult.de/ageofsteam.htm">
+<img class="auto-style35" height="150" src="skageofsteam0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style165" style="width: 254px; height: 19px">
+<strong>
+<span class="auto-style145">  
+																</span>
+<span class="auto-style165">
+<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style145"><img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span>  </font>
+																STRATEGIESPIEL</span></strong></td>
+<td class="auto-style165" style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+<strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt"><img alt="Familie" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/>  </font>
+																FAMILIENSPIEL</span></strong></td>
+<td class="auto-style165" style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+<strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt">
+<span class="auto-style145"><img alt="Strategie &amp; Aufbau" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5c.jpg" width="10"/></span>  </font>
+																STRATEGIESPIEL</span></strong></td>
+</tr>
+<tr>
+<td style="width: 254px; height: 19px">
+</td>
+<td style="width: 26px; height: 19px">
+<img alt="" class="auto-style166" height="23" src="23luecke.jpg" width="23"/></td>
+<td style="width: 253px; height: 19px">
+</td>
+<td style="width: 28px; height: 19px">
+<img alt="" class="auto-style166" height="23" src="23luecke.jpg" width="23"/></td>
+<td style="height: 19px">
+</td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<a href="https://www.spielkult.de/clansofcaledonia.htm">
+</a><a href="https://www.spielkult.de/pachakuna.htm">
+<img class="auto-style35" height="150" src="skpachakuna0.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td style="width: 253px">
+<a href="https://www.spielkult.de/punktesalat.htm">
+<img class="auto-style35" height="150" src="skpunktesalat0.jpg" width="260"/></a></td>
+<td class="auto-style166" style="width: 28px">
+																 </td>
+<td>
+<a href="https://www.spielkult.de/centrix.htm">
+<img class="auto-style35" height="150" src="skcentrix0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style165" style="width: 254px; height: 19px">
+<strong>
+<span class="auto-style145">   </span></strong><span class="auto-style165"><strong><font face="Tahoma" style="font-size: 8pt"><img alt="Familie" border="0" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/><span class="auto-style181">  
+																FAMILIENSPIEL</span></font></strong></span></td>
+<td class="auto-style165" style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+<strong>
+<span class="auto-style165">  
+																<font face="Tahoma" style="font-size: 8pt">
+<img alt="Karten" border="0" height="10" longdesc="../00000Spielkult/Karten" src="pic6c.jpg" width="10"/>  </font>
+																KARTENSPIEL</span></strong></td>
+<td class="auto-style165" style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+<span class="auto-style165">
+<strong>
+																  
+																<font face="Tahoma" style="font-size: 8pt">
+<img alt="Familie" border="0" class="auto-style166" height="10" longdesc="../00000Spielkult/Familie" src="pic1c.jpg" width="10"/>  
+																<span class="auto-style181">
+																FAMILIENSPIEL</span></font></strong></span></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+																 </td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td class="auto-style166" style="width: 253px">
+																 </td>
+<td class="auto-style166" style="width: 28px">
+																 </td>
+<td class="auto-style166">
+																 </td>
+</tr>
+<tr>
+<td class="auto-style173" style="width: 254">
+<strong>
+<span class="auto-style165">
+																 
+																</span>
+<span class="auto-style174">
+																 <a class="auto-style210" href="https://www.spielkult.de/test.htm"><span class="auto-style175">ALLE SPIELETESTS</span></a></span></strong> </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style173" style="width: 253">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/testneu.htm">
+<span class="auto-style175">
+																ALLE NEUHEITEN</span></a></span></strong> </td>
+<td style="width: 28px">
+																 </td>
+<td class="auto-style173">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/testhall.htm">
+<span class="auto-style175">
+																HALL OF KULT</span></a></span></strong> </td>
+</tr>
+<tr>
+<td style="width: 254px; height: 19px">
+																 </td>
+<td style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+																 </td>
+<td style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+																 </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style153" style="width: 253" valign="bottom">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style215" style="width: 253">
+<strong>Anzeige </strong></td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="5">
+<a href="https://crime-letters.com">
+<img class="auto-style35" height="400" src="crimeletters1.jpg" width="826"/></a></td>
+</tr>
+<tr>
+<td style="width: 254px; height: 19px">
+																 </td>
+<td style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+																 </td>
+<td style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+																 </td>
+</tr>
+<tr>
+<td style="width: 254px; height: 19px">
+</td>
+<td style="width: 26px; height: 19px">
+</td>
+<td style="width: 253px; height: 19px">
+</td>
+<td style="width: 28px; height: 19px">
+</td>
+<td style="height: 19px">
+</td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/spieldesjahres2020.htm">
+<img alt="" class="auto-style35" height="30" src="sktitelspieledesjahres.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style164" colspan="3">
+																Die derzeitigen 
+																<strong>Preisträger</strong> - 
+																von der Fachjury 
+																gekürt!</td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/pictures.htm">
+<img class="auto-style35" height="150" src="skpictures0.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td>
+<a href="https://www.spielkult.de/diecrew.htm">
+<img class="auto-style35" height="150" src="skdiecrew0.jpg" width="260"/></a></td>
+<td style="width: 254px">
+																 </td>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/speedyroll.htm">
+<img class="auto-style35" height="150" src="skspeedyroll0.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style166" style="width: 254px">
+<strong>
+<span class="auto-style165">  </span><img alt="" height="15" src="spieldesjahresbutton1.gif" width="15"/><span class="auto-style165"><font face="Tahoma" style="font-size: 8pt">  </font>
+																SPIEL DES JAHRES 
+																2020</span></strong></td>
+<td class="auto-style166" style="width: 26px">
+																 </td>
+<td><strong>
+<span class="auto-style165">  </span><font face="Tahoma" style="font-size: 8pt"><img alt="" height="15" src="spieldesjahresbutton3.gif" width="15"/><span class="auto-style165">  </span> </font>
+<span class="auto-style144">
+<span class="auto-style165">
+																KENNERSPIEL DES 
+																JAHRES 2020</span></span></strong></td>
+<td style="width: 254px">
+																 </td>
+<td style="width: 254px">
+<strong>
+<span class="auto-style165">  </span><img alt="" height="15" src="spieldesjahresbutton2.gif" width="15"/><span class="auto-style165"><font face="Tahoma" style="font-size: 8pt">  </font>
+																KINDERSPIEL DES 
+																JAHRES 2020</span></strong></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style173" style="width: 254">
+<strong>
+<span class="auto-style165">
+																 
+																</span>
+<span class="auto-style174">
+																 <a class="auto-style210" href="https://www.spielkult.de/test.htm"><span class="auto-style175">ALLE SPIELETESTS</span></a></span></strong> </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style173" style="width: 253">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/extras.htm">
+<span class="auto-style175">
+																EXTRAS</span></a></span></strong> </td>
+<td style="width: 28px">
+																 </td>
+<td class="auto-style173">
+<strong>
+<span class="auto-style165">  
+																</span>
+<span class="auto-style174">
+<a class="auto-style210" href="https://www.spielkult.de/kultspiele2016.htm">
+<span class="auto-style175">
+																KULTSPIELE</span></a></span>  </strong></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style152" colspan="5">
+<strong>
+<span class="auto-style149">
+																SPIELEN ist KULT
+																</span></strong>
+<span class="auto-style149">
+																- seit 13 
+																Jahren 
+																Rezensionen, 
+																Videos, Spieletreffen, 
+																Events und 
+																mehr!</span></td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.spielkult.de/links.htm">
+<img alt="" class="auto-style35" height="30" src="sktitelsocialmedia.gif" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style164" colspan="3">
+																Ihr findet uns auch 
+																in den <strong>sozialen 
+																Netzwerken</strong>!</td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+<a href="https://www.facebook.com/SPIELKULTde" target="_blank">
+<img alt="" class="auto-style35" height="98" src="facebook01.jpg" width="260"/></a></td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+<a href="https://www.twitter.com/SPIELKULTde" target="_blank">
+<img alt="" class="auto-style35" height="98" src="twitterlogo2.jpg" width="260"/></a></td>
+<td style="width: 28px">
+																 </td>
+<td>
+<a href="https://www.instagram.com/spielkultde" target="_blank">
+<img class="auto-style35" height="98" src="instalogo.jpg" width="260"/></a></td>
+</tr>
+<tr>
+<td class="auto-style145" style="width: 254px; height: 19px">
+<strong>
+<span class="auto-style145">  
+																</span>
+<span class="auto-style144">
+																FACEBOOK</span></strong></td>
+<td class="auto-style145" style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+<strong>
+<span class="auto-style145">  
+																</span></strong>
+<span class="auto-style144">
+<strong>TWITTER</strong></span></td>
+<td class="auto-style145" style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+<strong>
+<span class="auto-style145">  
+																</span>
+</strong>
+<span class="auto-style144">
+<strong>
+																INSTAGRAM</strong></span></td>
+</tr>
+<tr>
+<td class="auto-style145" style="width: 254px; height: 19px">
+																 </td>
+<td class="auto-style145" style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+																 </td>
+<td class="auto-style145" style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+																 </td>
+</tr>
+<tr>
+<td class="auto-style213" style="width: 254">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+<a href="https://www.youtube.com/SPIELKULTde" target="_blank">
+<img alt="" class="auto-style35" height="98" src="youtubelogo.jpg" width="260"/></a></td>
+<td style="width: 28px">
+																 </td>
+<td class="auto-style213">
+																 </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px; height: 19px">
+<strong>
+<span class="auto-style145">  
+																</span>
+<span class="auto-style144">
+																YOUTUBE</span></strong></td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px; height: 19px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td class="auto-style215" style="width: 253px; height: 19px">
+<strong>Anzeige </strong></td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style152" colspan="5">
+<a href="https://www.spiele-offensive.de/referrer.php?p=9&amp;pid=167&amp;bid=143" target="_blank">
+<img alt="" class="auto-style35" height="90" src="https://www.spiele-offensive.de/gfxa/wbg/728x90_3.jpg" width="728"/></a> </td>
+</tr>
+<tr>
+<td style="width: 254px">
+																 </td>
+<td style="width: 26px">
+																 </td>
+<td style="width: 253px">
+																 </td>
+<td style="width: 28px">
+																 </td>
+<td> </td>
+</tr>
+<tr>
+<td class="auto-style145" style="width: 254px; height: 19px">
+																 </td>
+<td class="auto-style145" style="width: 26px; height: 19px">
+																 </td>
+<td style="width: 253px; height: 19px">
+																 </td>
+<td class="auto-style145" style="width: 28px; height: 19px">
+																 </td>
+<td style="height: 19px">
+																 </td>
+</tr>
+<tr>
+<td class="auto-style150" colspan="5" style="height: 19px">
+<b>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/index.htm" style="text-decoration: none">
+<span class="auto-style151">START</span></a><span class="auto-style151">
+</span>
+</font>
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/test.htm" style="text-decoration: none">
+<span class="auto-style151">SPIELETESTS</span></a><span class="auto-style151">
+</span> </font>
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														|</font></span><font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/videos.htm" style="text-decoration: none">
+<span class="auto-style151">VIDEOS</span></a><span class="auto-style151">
+</span> </font>
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/extras.htm" style="text-decoration: none">
+<span class="auto-style151">EXTRAS</span></a><span class="auto-style151">
+</span> </font>
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/links.htm" style="text-decoration: none">
+<span class="auto-style151">LINKS</span></a><span class="auto-style151">
+</span> </font>
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/treff.htm" style="text-decoration: none">
+<span class="auto-style151">
+																TREFF</span></a></font></b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="auto-style92">
+														Anzeige</td>
+</tr>
+<tr>
+<td class="auto-style140">
+														S</td>
+</tr>
+<tr>
+<td class="auto-style90">
+														...</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td valign="top" width="146">
+<b>
+<font color="#808080" face="Tahoma" style="font-size: 7pt"><br/>
+		 </font><font color="#CCCCCC" face="Tahoma" style="font-size: 7pt">Anzeige<br/>
+</font>
+<font color="#FFFFFF" face="Tahoma" style="font-size: 2pt">
+						on</font></b><table border="0" cellpadding="0" cellspacing="0" id="table1790" width="100%">
+<tr>
+<td>
+<b>
+<font color="#808080" face="Tahoma" style="font-size: 7pt"> <iframe border="0" frameborder="0" height="600" marginwidth="0" scrolling="no" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&amp;p=11&amp;l=ur1&amp;category=de_outlet&amp;banner=0ANQ3P92AWP1G55V9D02&amp;f=ifr&amp;linkID=e3da8eeecb944acd9ca7d75ac872d241&amp;t=s03d-21&amp;tracking_id=s03d-21" style="border:none;" width="120"></iframe></font></b></td>
+</tr>
+</table>
+<b>
+<font color="#808080" face="Tahoma" style="font-size: 7pt"><br/>
+						 </font><font color="#CCCCCC" face="Tahoma" style="font-size: 7pt"><br/>
+<span class="auto-style46"><span class="auto-style108">
+						....</span>....</span></font></b><table border="0" cellpadding="0" cellspacing="0" id="table1920" width="100%">
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+</table>
+<p> </p></td>
+</tr>
+<tr>
+<td background="hgteamtitel.jpg" bgcolor="#111111" valign="top" width="10"> 
+						</td>
+<td background="hgteamtitel.jpg" class="auto-style95" valign="top" width="10"> 
+						</td>
+<td background="hgteamtitel.jpg" class="auto-style95" valign="top" width="4"> 
+						</td>
+<td background="hgteamtitel.jpg" class="auto-style127" colspan="2" nowrap="nowrap">
+<table border="0" cellpadding="0" cellspacing="0" id="table1921" width="100%">
+<tr>
+<td style="width: 1000">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<span class="auto-style95"> (C) </span>
+<a class="auto-style210" href="https://www.spielkult.de">
+<span class="auto-style95">SPIELKULT.de</span></a><span class="auto-style95">      
+								</span>
+<a class="auto-style210" href="https://www.spielkult.de/impressum.htm">
+<span class="auto-style95">Impressum</span></a><span class="auto-style95">      
+								</span>
+<a class="auto-style210" href="https://www.spielkult.de/datenschutz.htm">
+<span class="auto-style95">Datenschutz</span></a></font></td>
+</tr>
+</table>
+</td>
+<td background="hgteamtitel.jpg" class="auto-style127" valign="top" width="4"> 
+						</td>
+<td background="hgteamtitel.jpg" class="auto-style127" valign="top" width="4"> 
+						</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br/><span class="auto-style46">.</span></center>
+</center>
+</body>
+</html>

@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><!-- PageID 2 - published by OpenText Web Site Management 11.0 - 11.0.0.152 - BABF1 -->
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<title>Bildung und Sprache | Landesverwaltung | Autonome Provinz Bozen - Südtirol</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Bildung und Sprache | Landesverwaltung | Autonome Provinz Bozen - Südtirol" property="og:title"/>
+<meta content="http://www.provinz.bz.it/bildung-sprache/default.asp" property="og:url"/>
+<meta content="Landesverwaltung" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="Ranglisten, Schulkalender, Abendschule, Schule, Kindergarten, Anerkennungen, Kurse, Weiterbildung, Lehrer, Musikschulen" name="keywords"/>
+<meta content="Das Südtiroler Bildungssystem begleitet Kinder, Jugendliche und Erwachsene auf ihren Lebens- und Lernwegen." name="description"/>
+<!-- {"monitor":{"guid":"51814C0E1D3740EBBDDCBE7352073132"}} -->
+<meta content="Südtiroler Informatik AG | Informatica Alto Adige SPA" name="author"/>
+<link href="/lv/css/styles_1.css?v=202008170807" rel="stylesheet"/>
+<link href="/lv/css/styles_2.css?v=202008170807" rel="stylesheet"/>
+<link href="/lv/css/styles_3.css?v=202008170807" rel="stylesheet"/>
+<!--[if lt IE 9]><script src="/lv/js/ie.min.js"></script><![endif]-->
+<link href="/lv/favicon.png" rel="icon"/>
+<link href="/lv/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="/lv/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/lv/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/lv/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/lv/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/><script src="/lv/js/jEuCookieLaw.min.js?v=1497865216498"></script><script src="/lv/js/jqdefer-1.0.0.min.js?v=1497865216498"></script>
+<script>EuCookieLaw&&EuCookieLaw({"modifyURL":"/de/cookie.asp"});</script><link href="http://www.provinz.bz.it/bildung-sprache/default.asp" rel="canonical"/><link href="http://www.provincia.bz.it/formazione-lingue/default.asp" hreflang="it" rel="alternate"/><link href="http://www.provinzia.bz.it/formaziun-lingac/default.asp" hreflang="lld" rel="alternate"/><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QTC7ZJ');</script>
+<!-- End Google Tag Manager --><!-- Published: 2020-10-13 08:51:47 -->
+</head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5QTC7ZJ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="lv_accessibility sr-only-focusable" href="#content">Springe direkt zum Inhalt</a>
+<div id="masthead" role="banner">
+<div class="collapse" id="corporate_nav"><nav aria-label="Service Navigation">
+<a href="http://www.provinz.bz.it/de/">Landesverwaltung</a>
+<a href="https://civis.bz.it/de/">CIVIS, das neue Südtiroler Bürgernetz</a>
+<a href="http://www.provinz.bz.it/de/impressum.asp">Impressum</a>
+<a href="http://www.provinz.bz.it/de/privacy.asp">Privacy</a>
+<a href="/de/cookie.asp">Cookie</a>
+<a href="http://www.provinz.bz.it/de/kontakt.asp">Kontakt</a>
+<a href="http://www.provinz.bz.it/de/feedback.asp">Feedback</a></nav>
+</div>
+<div class="container"><div id="corporate_console">
+<div class="toggler">
+<a aria-controls="corporate_nav" aria-expanded="false" class="btn btn-primary" data-toggle="collapse" href="?utm_campaign=lv-new&amp;utm_source=click&amp;utm_medium=red-arrow#corporate_nav" role="button" title="Menü öffnen"> <i aria-hidden="true" class="lv_expand"></i> </a>
+</div>
+<nav id="language_choice" title="Sprachwahl"><a href="http://www.provincia.bz.it/formazione-lingue/default.asp" hreflang="it" title="Versione italiana della pagina">italiano</a><a href="http://www.provinzia.bz.it/formaziun-lingac/default.asp" hreflang="lld" title="Verjiun ladina dla plata">ladin</a><a class="icon_lsp" href="https://leichte-sprache.provinz.bz.it/" hreflang="de" title="Die Südtiroler Landesverwaltung in leichter Sprache"><img alt="Icon - Leichte Sprache" src="/lv/css/img/leichte-sprache.svg"/> Leichte Sprache</a>
+</nav>
+</div>
+<div id="corporate_header"><div class="lv_logo_container"><div id="logo_sm"><a href="http://www.provinz.bz.it/de/">
+<img alt="Autonome Provinz Bozen - Südtirol" class="logo_sm" src="/lv/css/img/logo_adler.png"/>
+<div id="site_title_sm">Südtiroler<br/>Landesverwaltung</div></a></div></div>
+<div class="lv_nav_container">
+<div aria-label="Hauptnavigation" id="main_nav" role="navigation">
+<header>
+<button class="navbar-toggle" data-target="#main_links" data-toggle="collapse" type="button">
+<span class="lv_accessibility">Navigation öffnen/schließen</span>
+<i aria-hidden="true" class="lv_expand"></i>
+</button>
+</header><div id="main_links">
+<ul class="nav navbar-nav">
+<li><a href="http://www.provinz.bz.it/de/default.asp"><i aria-hidden="true" class="lv_homelink"></i> Home</a></li>
+<li class="dropdown"><a aria-expanded="false" aria-label="Liste der Themenseiten" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Themen <i aria-hidden="true" class="lv_expand"></i></a>
+<ul class="dropdown-menu" role="menu">
+<li><a aria-label="Thema: Arbeit und Wirtschaft" href="http://www.provinz.bz.it/arbeit-wirtschaft/">Arbeit und Wirtschaft</a></li>
+<li><a aria-label="Thema: Bauen und Wohnen" href="http://www.provinz.bz.it/bauen-wohnen/">Bauen und Wohnen</a></li>
+<li><a aria-label="Thema: Bildung und Sprache" href="http://www.provinz.bz.it/bildung-sprache/">Bildung und Sprache</a></li>
+<li><a aria-label="Thema: Kunst und Kultur" href="http://www.provinz.bz.it/kunst-kultur/">Kunst und Kultur</a></li>
+<li><a aria-label="Thema: Politik, Recht und Außenbeziehungen" href="http://www.provinz.bz.it/politik-recht-aussenbeziehungen/">Politik, Recht und Außenbeziehungen</a></li>
+<li><a aria-label="Thema: Verwaltung" href="http://www.provinz.bz.it/verwaltung/">Verwaltung</a></li>
+<li><a aria-label="Thema: Gesundheit und Leben" href="http://www.provinz.bz.it/gesundheit-leben/">Gesundheit und Leben</a></li>
+<li><a aria-label="Thema: Innovation und Forschung" href="http://www.provinz.bz.it/innovation-forschung/">Innovation und Forschung</a></li>
+<li><a aria-label="Thema: Informatik und Digitalisierung" href="http://www.provinz.bz.it/informatik-digitalisierung/">Informatik und Digitalisierung</a></li>
+<li><a aria-label="Thema: Land- und Forstwirtschaft" href="http://www.provinz.bz.it/land-forstwirtschaft/">Land- und Forstwirtschaft</a></li>
+<li><a aria-label="Thema: Sicherheit und Zivilschutz" href="http://www.provinz.bz.it/sicherheit-zivilschutz/">Sicherheit und Zivilschutz</a></li>
+<li><a aria-label="Thema: Familie, Soziales und Gemeinschaft" href="http://www.provinz.bz.it/familie-soziales-gemeinschaft/">Familie, Soziales und Gemeinschaft</a></li>
+<li><a aria-label="Thema: Statistiken und Zählungen" href="http://www.provinz.bz.it/statistiken-zaehlungen/">Statistiken und Zählungen</a></li>
+<li><a aria-label="Thema: Natur und Umwelt" href="http://www.provinz.bz.it/natur-umwelt/">Natur und Umwelt</a></li>
+<li><a aria-label="Thema: Tourismus und Mobilität" href="http://www.provinz.bz.it/tourismus-mobilitaet/">Tourismus und Mobilität</a></li>
+</ul>
+</li>
+<li><a aria-label="Dienstleistungen der Landesverwaltung" href="http://www.provinz.bz.it/de/dienstleistungen.asp"><i aria-hidden="true" class="lv_serviceslink"></i> Dienstleistungen</a></li>
+<li><a aria-label="News der Landesverwaltung" href="http://www.provinz.bz.it/news/de/news.asp"><i aria-hidden="true" class="lv_newslink"></i> News</a></li>
+<li><a aria-label="Kontakte der Landesverwaltung" href="http://www.provinz.bz.it/de/kontakt.asp"><i aria-hidden="true" class="lv_contactslink"></i> Kontakte</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page_header">
+<div class="lv_grid_container">
+<div class="lv_grid_row">
+<div id="page_title">Bildung und Sprache</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content" role="main">
+<section class="lv_themes_visual bg_bildung_sprache">
+<div class="container">
+<div class="row"><script type="text/javascript">
+    jqDefer && jqDefer.addScript("jquery_ui_gsjsonasp_js", [ '/lv/js/jquery-ui-1.10.4.custom.min.js', '/lv/js/gsjsonasp.min.js' ], true);
+</script>
+<div class="lv_extended_search">
+<div class="search_box">
+<form action="/bildung-sprache/suche.asp" id="search" method="get" role="search">
+<fieldset><legend>Suche in Bildung und Sprache</legend>
+<p>In Dienstleistungen, Kontakten und verlinkten Webseiten</p>
+<div class="lv_search_field">
+<label class="lv_accessibility" for="q">Suchbegriff</label>
+<input id="q" name="gsa_kywd" placeholder="Suchbegriff" type="text" value=""/>
+<input name="gsa_site" type="hidden" value="coll_lv_theme_formazione_lingue_de"/>
+<input name="gsa_proxy" type="hidden" value="xml"/>
+<input name="gsa_client" type="hidden" value="provinz_bz_de"/>
+<input name="gsa_lang" type="hidden" value="d"/>
+<input name="gsa_action" type="hidden" value="0s"/>
+<span><button type="submit"><span class="lv_accessibility">Suchen</span> <i aria-hidden="true" class="lv_search"></i></button></span>
+</div>
+</fieldset></form>
+</div>
+<div class="text_box">
+<div class="lv_box">
+<p>Bildung und Sprache sind das Tor zur Welt. Das Südtiroler Bildungssystem begleitet Kinder, Jugendliche und Erwachsene auf ihren Lebens- und Lernwegen und bietet ein flächendeckendes Netz an Diensten, Unterstützung und Beratung.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="lv_background_lightest"><div class="lv_grid_container">
+<div class="lv_grid_spaced"><div class="lv_hilite_text"><h1>Aktuelles zum Bildungsjahr 2020/2021</h1><p>Informationen • Fragen • Antworten</p>
+<p> <a class="lv_btn" href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/news.asp?news_action=4&amp;news_article_id=642276" onclick="ga('send', 'event', 'hilitelink', 'landesverw', 'Aktuelles zum Bildungsjahr 2020/2021');" role="button">Alle Infos »</a> </p>
+</div></div>
+</div></section><section class="lv_background_lightest"><div class="lv_grid_container">
+<div class="lv_box_bordered"><h1 class="lv_heading_primary"><span>Bildung</span></h1><div class="lv_grid_row"><div class="lv_grid_single"><div class="lv_box_lightest ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/default.asp">Kindergarten</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/alle-kindergaerten-in-suedtirol.asp?news_cate_id=21831">Kindergärten in Südtirol</a>, </li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/fuer-familien.asp">Für die Familien,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/einschreibungen.asp">Einschreibungen,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/familien/kindergartenkalender.asp">Kindergartenkalender,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/fuer-die-paedagogischen-fachkraefte.asp" style="background-color: #ffffff;">Für die pädagogischen Fachkräfte,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/landesdirektion-kindergartensprengel.asp">Direktionen</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.musikschule.it/de/ueber-uns.html">Musikschule</a></h3><ul>
+<li><a href="https://musikschulen.provinz.bz.it/angebote.asp">Angebote</a>,</li>
+<li><a href="https://musikschulen.provinz.bz.it/unterrichten/lehrpersonen.asp">Lehrerteam</a>,</li>
+<li><a href="https://musikschulen.provinz.bz.it/musikgruppen/jugendsinfonieorchester-suedtirol.asp" style="background-color: #ffffff;">Jugendsinfonieorchester</a>,</li>
+<li><a href="https://musikschulen.provinz.bz.it/leistungsabzeichen-wettbewerbe.asp">Leistungsabzeichen</a>,</li>
+<li><a href="https://musikschulen.provinz.bz.it/volksmusik.asp">Volksmusik</a>,</li>
+<li><a href="https://musikschulen.provinz.bz.it/italienischsprachige-musikschule-vivaldi.asp">italienischsprachige Musikschule</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/evaluationsstelle-deutschsprachiges-bildungssystem/default.asp">Evaluation</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/evaluationsstelle-deutschsprachiges-bildungssystem/nationale-internationale-erhebungen.asp">Nationale und internationale Erhebungen</a>,</li>
+<li><a href="http://www.provinz.bz.it/evaluationsstelle-deutschsprachiges-bildungssystem/interne-externe-evaluation-schulen.asp">Interne und externe Evaluation, </a></li>
+<li><a href="http://www.provinz.bz.it/evaluationsstelle-deutschsprachiges-bildungssystem/qualitaet.asp">Qualität</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/default.asp">Ausbildungs-, Studien- und Berufsberatung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/beratung.asp">Beratung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/ausbildung.asp">Ausbildung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/beruf.asp">Beruf</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/orientierung.asp">Orientierung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/beratung/anmeldung-berufsberatung.asp">Anmeldung Berufsberatung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/ausbildungs-studien-berufsberatung/ausbildung/anerkennung-studientitel.asp">Studientitelanerkennung</a></li>
+</ul></li></ul>
+</div></div><div class="lv_grid_single"><div class="lv_box_lightest ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/default.asp">Berufsbildung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/berufsschulen-fachschulen.asp">Landesberufs- und Fachschulen</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/berufsausbildung-lehre-meister.asp">Berufsausbildung und Lehre</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/berufliche-weiterbildung.asp">Berufliche Weiterbildung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/lehre.asp">Lehre</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/meisterausbildung.asp">Meister</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/foerderungen.asp">Förderungen</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/matura-in-der-berufsbildung.asp">Berufsmatura</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/berufsbildung/bildungsberatung-berufsorientierung.asp">Beratung</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung.asp">Bildungsverwaltung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/lehrpersonen-grund-mittel-oberschulen.asp">Lehrpersonal an staatlichen Schulen,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/schuldirektionen.asp">Schuldirektionen,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/schulrecht.asp">Schulrecht, </a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/fort-weiterbildung.asp">Fort- und Weiterbildung</a>, </li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/schulgremien.asp">Schulgremien, </a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/rundschreiben-mitteilungen.asp">Rundschreiben und Mitteilungen</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/bildungsfoerderung/">Bildungsförderung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/bildungsfoerderung/foerdermassnahmen-schueler.asp">Fördermaßnahmen für Schüler</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/bildungsfoerderung/foerdermassnahmen-studierende.asp">Fördermaßnahmen für Studierende</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/bildungsfoerderung/foerdermassnahmen-institutionen.asp">Fördermaßnahmen für Institutionen</a></li>
+</ul></li></ul>
+</div></div><div class="lv_grid_single"><div class="lv_box_lightest ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/default.asp">Grund-, Mittel- und Oberschule</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/schueler-eltern/grundschule.asp" style="background-color: #ffffff;">Grundschule</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/schueler-eltern/mittelschule.asp">Mittelschule</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/schueler-eltern/oberschule.asp">Oberschule,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/schueler-eltern/ergebnisse-schulsport.asp">Ergebnisse Schulsport,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/schulkalender.asp">Schulkalender</a>,</li>
+<li><a href="http://www.provinz.bz.it/formazione-lingue/scuola-italiana/">Italienische Schule</a>,</li>
+<li><a href="http://www.provinz.bz.it/formaziun-lingac/scora-ladina/de/default.asp" title="Ladinische Schule">Ladinische Schule</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/default.asp">Didaktik und Beratung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/paedagogische-fachbibliothek.asp">Fachbibliothek</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/pbz-uebersicht.asp">PBZ</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/inklusion.asp">Inklusion</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/berufspaedagogik.asp">Berufspädagogik</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/psychopaedagogische-beratung.asp" style="background-color: #ffffff;">Beratung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/didaktik-beratung/fortbildung.asp">Fortbildung</a>,</li>
+<li><a href="http://www.provincia.bz.it/formazione-lingue/didattica-formazione-docenti/" style="background-color: #ffffff;">Ital. Didaktik und Fortbildung</a>,</li>
+<li><a href="http://www.provinzia.bz.it/formaziun-lingac/didatica-formaziun/de/default.asp">Ladinische Didaktik und Fortbildung</a></li>
+</ul></li><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/258.asp">Weiterbildung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/weiterbildung/weiterbildung-suchen-finden.asp">Kurssuche</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/weiterbildung/bildung-im-dorf.asp">Bildung im Dorf</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/weiterbildung/themen-erwachsenenbildung.asp">Themen der Erwachsenenbildung</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/weiterbildung/foerderungen.asp">Förderungen</a></li>
+</ul></li></ul>
+</div></div></div></div></div></section><section class="lv_background_lightest"><div class="lv_grid_container">
+<div class="lv_box_bordered"><h1 class="lv_heading_primary"><span>Sprache</span></h1><div class="lv_grid_row"><div class="lv_grid_single"><div class="lv_box_lightest ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/default.asp">Zweisprachigkeitsprüfung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/die-zweisprachigkeitspruefung.asp">Zweisprachigkeit</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/die-dreisprachigkeitspruefung.asp">Dreisprachigkeit</a>,</li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/anerkennung-von-sprachzertifikaten.asp">Sprachzertifikate,</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/zweisprachigkeitspruefung/anmeldung-zur-zweisprachigkeitspruefung.asp">Online-Anmeldung</a></li>
+</ul></li></ul>
+</div></div><div class="lv_grid_single"><div class="lv_box_lightest ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/sprachen.asp">Sprachen</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/sprachanbieter.asp">Sprachanbieter</a>,</li>
+<li><a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/sprachen-foerderung.asp">Förderungen,</a></li>
+<li><a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/sprachenlinks.asp">Sprachenlinks</a>, </li>
+<li><a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/sprachvermittlung-immigrantinnen.asp">Migration und Alphabetisierung</a></li>
+</ul></li></ul>
+</div></div></div></div></div></section><section class="lv_background_lightest"><div class="lv_grid_container">
+<div class="lv_grid_row"><div class="lv_grid_full"><div class="lv_box_lighter"><h1 class="lv_heading_primary"><span>Sachverwandte Themen</span></h1><div class="lv_grid_row"><div class="lv_grid_single"><div class="lv_box_lighter ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/verwaltung">Verwaltung</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/verwaltung/personal/">Personal  der Landesverwaltung,</a></li>
+<li><a href="http://www.provinz.bz.it/verwaltung/personal/aufnahme-landesdienst/freie-stellen/freie-stellen-fuer-das-schulpersonal.asp">Personal  der Schulen,</a></li>
+<li><a href="http://www.provinz.bz.it/verwaltung/personal/aufnahme-landesdienst/freie-stellen/freie-stellen-fuer-kindergartenpersonal.asp">Personal der Kindergärten,</a></li>
+<li><a href="http://www.provinz.bz.it/verwaltung/personal/aufnahme-in-den-landesdienst.asp">Personalaufnahme</a></li>
+</ul></li></ul>
+</div></div><div class="lv_grid_single"><div class="lv_box_lighter ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/familie-soziales-gemeinschaft">Familie, Soziales und Gemeinschaft </a></h3><ul>
+<li><a href="http://www.provinz.bz.it/ressorts/familie/familienagentur.asp">Familien</a>,</li>
+<li><a href="http://www.provinz.bz.it/familie-soziales-gemeinschaft/ferien/">Ferienangebote,</a></li>
+<li><a href="http://www.provinz.bz.it/familie-soziales-gemeinschaft/integration/default.asp">Integration</a>,</li>
+<li><a href="http://www.provinz.bz.it/familie-soziales-gemeinschaft/kinder-jugendhilfe/default.asp">Kinder- und Jugendhilfe</a></li>
+</ul></li></ul>
+</div></div><div class="lv_grid_single"><div class="lv_box_lighter ">
+<ul class="lv_theme"><li><h3 class="lv_heading_secondary"><a href="http://www.provinz.bz.it/kunst-kultur">Kunst und Kultur</a></h3><ul>
+<li><a href="http://www.provinz.bz.it/kulturabteilung/bibliotheken/">Bibliotheken  und Lesen</a>,</li>
+<li><a href="http://www.provinz.bz.it/kulturabteilung/film-medien/257.asp">Film  und Medien</a>,</li>
+<li><a href="http://www.provinz.bz.it/kunst-kultur/jugendarbeit/default.asp">Jugendarbeit</a>,</li>
+<li><a href="http://www.provinz.bz.it/kunst-kultur/kultur/">Kultur</a></li>
+</ul></li></ul>
+</div></div></div></div></div></div></div></section>
+<section class="lv_background_lightest">
+<div class="lv_grid_container">
+<div class="lv_grid_row"><div class="lv_grid_single">
+<div class="lv_thumbnail"><img alt="Alt attribute" src="/bildung-sprache/images/00272_760_x_370.jpg"/>
+<div class="lv_caption">
+<h3>Bildungseinrichtungen</h3> <ul class="lv_link_list2">
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/alle-kindergaerten-in-suedtirol.asp?news_cate_id=21831">Kindergärten</a></li>
+<li> <a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/schuldirektionen.asp">Deutschsprachige Schulen</a></li>
+<li><a href="http://www.provincia.bz.it/formazione-lingue/scuola-italiana/sistema-scolastico-italiano.asp"> Italienischsprachige Schulen</a></li>
+<li><a href="http://www.provinz.bz.it/formaziun-lingac/scora-ladina/de/schueler-eltern.asp"> Ladinischsprachige Schulen</a></li>
+<li><a href="http://www.provinz.bz.it/berufsbildung/themen/landesberufsschulen.asp">Landesberufsschulen</a></li>
+<li> <a href="http://www.musikschule.it/de/musikschuldirektionen.html">Musikschulen</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="lv_grid_single">
+<div class="lv_thumbnail"><img alt="Alt attribute" src="/bildung-sprache/images/IMG_0127_-_760_x_370.jpg"/>
+<div class="lv_caption">
+<h3>Kurse</h3> <ul class="lv_link_list2">
+<li><a href="http://weiterbildung.buergernetz.bz.it/">Weiterbildung in Südtirol</a></li>
+<li> <a href="http://www.provinz.bz.it/kulturabteilung/weiterbildung/weiterbildung-kurse.asp">Kurse der Landesverwaltung, Berufs- und Fachschulen </a></li>
+<li> <a href="http://www.musikschule.it/de/angebote/faecher.html">Kurse Musikschule</a></li>
+<li> <a href="http://www.provinz.bz.it/bildung-sprache/deutschsprachige-schule/bildungsverwaltung/fort-weiterbildung.asp">Fortbildungen Lehrpersonal</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/kindergarten/paedagogische-fachkraefte/fortbildungen.asp"> Fortbildungen Kindergartenpersonal</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="lv_grid_single">
+<div class="lv_thumbnail"><img alt="Alt attribute" src="/bildung-sprache/images/Schulamt090_760_x_370.jpg"/>
+<div class="lv_caption">
+<h3>Deutsche Bildungsdirektion</h3> <ul class="lv_link_list2">
+<li><a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=6276">Evaluationsstelle für das deutsche Bildungssystem</a></li>
+<li> <a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=2537">Landesdirektion deutschsprachiger Kindergarten</a></li>
+<li> <a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=1609">Landesdirektion deutschsprachige Grund-, Mittel- und Oberschulen</a></li>
+<li><a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=758">Landesdirektion deutschsprachige Berufsbildung</a></li>
+<li> <a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=2585">Landesdirektion Deutsche und ladinische Musikschule</a></li>
+<li> <a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=1397">Pädagogische Abteilung</a></li>
+<li><a href="http://www.provinz.bz.it/de/kontakt.asp?orga_orgaid=4">Bildungsverwaltung (Abt. 16)</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="lv_background_light"><div class="lv_grid_container">
+<div class="lv_grid_row"><div class="lv_grid_full"><h1 class="lv_heading_primary"><span>Zahlen zu Bildung und Sprache</span></h1><div class="lv_grid_row"><div class="lv_grid_full">
+<ul class="lv_numbers"><li> <span class="number">95</span><div class="number_description"><h3 class="lv_heading_secondary"><a href="/bildung-sprache/kontakt.asp">Einrichtungen kümmern sich um die Inhalte</a></h3><p>Der Bildungsapparat und der große Bereich rund um das Erlernen von Sprachen werden von deutsch-, italienisch- und ladinischsprachigen Bildungseinrichtungen gepflegt, gefördert und organisiert. Hier finden Sie alle Ressorts, Abteilungen, Büros, Dienststellen und Inspektorate, die daran arbeiten.</p>
+</div></li><li> <span class="number">136</span><div class="number_description"><h3 class="lv_heading_secondary"><a href="/bildung-sprache/dienstleistungen.asp">Dienstleistungen stehen für Sie online bereit</a></h3><p>Möchten Sie einen Studientitel anerkennen lassen? Oder die Abendschule besuche? Vielleicht eine Adressdatenbank abrufen? Alle Dienste, die für Bildung und Sprache in Südtriol im Internet beschrieben sind, können Sie hier bequem sortieren und abrufen.</p>
+</div></li></ul>
+</div></div>
+</div></div>
+</div></section>
+</div>
+<div id="content_footer">
+<section class="quicklinks"><div class="lv_grid_single"><h2 class="lv_heading_primary">News</h2><ul>
+<li><a href="http://www.provincia.bz.it/formaziun-lingac/scora-ladina/de/mitteilungen-ladinische-schule.asp">News Ladinische Schule</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/service-media/aktuelles-ueber-die-zwei-dreisprachigkeitspruefungen.asp">News Zwei- und Dreisprachigkeitsprüfungen</a></li>
+</ul></div><div class="lv_grid_single"><h2 class="lv_heading_primary">Media</h2><ul>
+<li><a href="http://www.provincia.bz.it/formaziun-lingac/scora-ladina/de/publikationen.asp">Publikationen Ladinische Schule</a></li>
+<li><a href="http://www.provinz.bz.it/bildung-sprache/zweisprachigkeit/service-media/bildergalerie.asp">Video Zwei- und Dreisprachigkeitsprüfungen</a></li>
+</ul></div><div class="lv_grid_single"><h2 class="lv_heading_primary">Kontakte</h2><ul>
+<li><a href="http://www.provincia.bz.it/it/contatti.asp?orga_orgaid=2737">Ladinische Bildungs- und Kulturdirektion</a></li>
+<li><a href="/bildung-sprache/kontakt.asp?orga_orgaid=2737">Bildungsförderung</a></li>
+<li><a href="/bildung-sprache/kontakt.asp?orga_orgaid=644">Dienststelle für die Zwei- und Dreisprachigkeitsprüfungen</a></li>
+</ul></div></section><section class="updates"><p class="update_time">
+</p><p class="sharing"><a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww%2Eprovinz%2Ebz%2Eit%2Fbildung%2Dsprache%2Fdefault%2Easp&amp;t=Bildung+und+Sprache"><img alt="Facebook" src="/lv/media/img/social/share_fb_de.png"/></a>
+<a href="https://www.twitter.com/share?url=http%3A%2F%2Fwww%2Eprovinz%2Ebz%2Eit%2Fbildung%2Dsprache%2Fdefault%2Easp&amp;text=Bildung+und+Sprache"><img alt="Twitter" src="/lv/media/img/social/share_twitter.png"/></a></p>
+</section>
+</div><div id="corporate_foot" role="contentinfo"><div class="lv_grid_container"><footer><div class="corporate_info"><p>© 2020 <a href="http://www.provinz.bz.it/de/">Autonome Provinz Bozen - Südtirol</a>
+<br/><i aria-hidden="true" class="fa fa-angle-double-right hidden-print"></i> <a href="http://www.provinz.bz.it/de/kontakt.asp">Kontakt</a>
+<br/>Steuernummer: 00390090215
+    <br/>E-Mail:
+    <script type="text/javascript">var a = new Array('info@p','rovinz','.bz.it');document.write("<a href='mailto:"+a[0]+a[1]+a[2]+"'>"+a[0]+a[1]+a[2]+"</a>");</script>
+<br/>PEC:
+    <script type="text/javascript">document.write("<n uers=\"znvygb:nqz&#64;crp.cebi.om.vg\">nqz&#64;crp.cebi.om.vg</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));</script></p>
+<p>Realisierung: <a href="http://www.siag.it/">Südtiroler Informatik AG</a></p></div><div aria-label="Hilfsnavigation" class="corporate_nav" role="navigation">
+<ul><li><a href="http://www.provinz.bz.it/de/transparente-verwaltung.asp">Transparente Verwaltung</a></li><li><a href="http://www.provinz.bz.it/de/impressum.asp">Impressum</a></li><li><a href="http://www.provinz.bz.it/de/privacy.asp">Privacy</a></li><li><a href="http://www.provinz.bz.it/de/cookie.asp">Cookie</a></li><li><a href="http://www.provinz.bz.it/de/feedback.asp">Feedback</a></li></ul></div></footer></div></div>
+<div class="footer_logo"><img alt="Autonome Provinz Bozen - Südtirol" src="/lv/css/img/LW-2Z-3Sp.png"/></div>
+<script src="/lv/js/scripts.min.js?_=201903291231"></script><script>$(document).on("click","a.print,button.print",function(a){a.preventDefault();a.stopPropagation();window.print();return!1}); $(document).on("click","a.btn-social-icon,button.btn-social-icon",function(a){a.preventDefault();a.stopPropagation();a=$(this);var d=$(document.documentElement).attr("lang")||"de",b=encodeURIComponent($(location).attr("href")),c=$(document).attr("title"),c=100<c.length?encodeURIComponent(c.substr(0,97)+"..."):encodeURIComponent(c);a.hasClass("btn-facebook")?window.open("https://www.facebook.com/sharer.php?u="+b+"&t="+c,"","width=700,height=500"):a.hasClass("btn-google-plus")?window.open("https://plus.google.com/share?url="+ b+"&hl="+d,"","width=700,height=500"):a.hasClass("btn-twitter")?window.open("https://twitter.com/share?url="+b+"&text="+c+"&lang="+d,"","width=700,height=500"):a.hasClass("btn-rss")&&(b=a.attr("href"))&&b.length&&$(location).attr("href",b);return!1});
+(function(){$(".toggle-link").each(function(){$(this).click(function(){var a="open",c=$(this).attr("data-target"),b=$(this).attr("data-target-state");"undefined"!==typeof b&&!1!==b&&(a=b);"undefined"==a&&(a="open");$(c).toggleClass("toggle-link-"+a);$(this).toggleClass(a)})})})();
+"undefined"!==typeof jqDefer&&jqDefer.onReady($);</script>
+</body>
+</html>

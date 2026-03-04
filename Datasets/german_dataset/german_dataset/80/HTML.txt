@@ -1,0 +1,2378 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>SPIELKULT.de - Brettspiele im Test - Scythe</title>
+<style fprolloverstyle="">
+A:hover {color: #FF6600; font-weight: bold}
+</style>
+<meta content="Brettspiele, Spiele, Gesellschaftsspiele, Test, Testberichte, Videos, Scythe" name="keywords"/>
+<meta content="Die ganze Welt der Brettspiele: Täglich neue Testberichte, dazu kostenlose Erklärvideos, Gewinnspiele, Messeberichte. " name="description"/>
+<style type="text/css">.auto-style210 {
+	font-family: Tahoma;
+	text-align: center;
+	text-decoration: none;
+}
+.auto-style211 {
+	font-family: Tahoma;
+	font-size: 8pt;
+	text-decoration: none;
+}
+.auto-style42 {
+	font-family: Tahoma;
+	font-size: 32pt;
+	color: #FF6600;
+}
+.auto-style44 {
+	border-style: solid;
+	border-width: 1px;
+}
+.auto-style48 {
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+.auto-style53 {
+	text-align: justify;
+}
+.auto-style56 {
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+.auto-style64 {
+	font-family: Tahoma;
+	font-size: 14pt;
+}
+.auto-style98 {
+	font-size: 8pt;
+}
+.auto-style108 {
+	font-family: Tahoma;
+	font-size: 7pt;
+	color: #FFFFFF;
+}
+.auto-style1 {
+	font-family: Tahoma;
+	font-size: 7pt;
+	color: #0F0F0F;
+}
+.auto-style126 {
+	font-family: Tahoma;
+}
+.auto-style131 {
+	background-color: #FFFFFF;
+}
+.auto-style162 {
+	color: #FFCC66;
+}
+.auto-style174 {
+	font-size: 10pt;
+}
+.auto-style145 {
+	background-color: #E6E6E6;
+}
+.auto-style121 {
+	background-color: #FFFFFF;
+}
+.auto-style149 {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;
+}
+.auto-style157 {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	font-size: 3pt;
+}
+.auto-style158 {
+	color: #808080;
+	font-weight: bold;
+}
+.auto-style154 {
+	color: #808080;
+}
+.auto-style160 {
+	font-size: 10pt;
+	color: #333333;
+}
+.auto-style152 {
+	font-size: 10pt;
+	color: #808080;
+}
+.auto-style148 {
+	background-color: #E6E6E6;
+	font-size: 4pt;
+	color: #E6E6E6;
+}
+.auto-style179 {
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #333333;
+}
+.auto-style180 {
+	color: #FF6600;
+}
+.auto-style181 {
+	border-width: 0;
+	font-family: Tahoma;
+	font-size: 7pt;
+	color: #0F0F0F;
+}
+.auto-style29 {
+	background-color: #E6E6E6;
+	text-align: center;
+}
+.auto-style28 {
+	text-align: center;
+	font-size: 14pt;
+	color: #FF6600;
+	font-family: Tahoma;
+}
+.auto-style5 {
+	color: #FF6600;
+	font-family: Tahoma;
+}
+.auto-style15 {
+	font-size: 8pt;
+	color: #4B4B4B;
+}
+.auto-style31 {
+	font-family: Tahoma;
+}
+.auto-style33 {
+	font-family: Tahoma;
+	font-size: 9pt;
+}
+</style>
+<link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" rel="stylesheet" type="text/css"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#14a7d0",
+      "border": "#14a7d0"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "message": "Um SPIELKULT.de für Sie optimal gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch eine weitere Nutzung unserer Webseite stimmen Sie der Verwendung von Cookies zu. Mehr Informationen zu Cookies finden Sie in unserer Datenschutzerklärung!",
+    "dismiss": "Ich bin einverstanden!",
+    "link": "Mehr Infos",
+    "href": "https://www.spielkult.de/datenschutz.htm"
+  }
+})});
+</script>
+</head>
+<body alink="#FFFFFF" background="hgms09.GIF" bgcolor="#FFFFFF" bottommargin="0" leftmargin="0" link="#FFFFFF" rightmargin="0" topmargin="0" vlink="#FFFFFF">
+<center>
+<table border="0" cellpadding="0" cellspacing="0" id="table1718" width="770">
+<tr>
+<td width="750">
+<table bgcolor="#FFFFFF" border="0" bordercolordark="#000000" bordercolorlight="#000000" cellpadding="0" cellspacing="0" id="table1719" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" nowrap="" width="1000">
+<table border="0" cellpadding="0" cellspacing="0" id="table1720" width="1009">
+<tr>
+<td valign="top" width="10"> 
+										</td>
+<td valign="top" width="10">
+<img border="0" height="1" src="fuell10.jpg" width="10"/></td>
+<td valign="top" width="4"> 
+										</td>
+<td nowrap="" valign="top" width="841">
+<table border="0" bordercolordark="#808080" bordercolorlight="#808080" cellpadding="0" cellspacing="0" id="table1721" width="101%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" id="table1722" width="97%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" id="table1723" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" id="table1724" width="97%">
+<tr>
+<td align="left" bgcolor="#FFFFFF" colspan="3" height="35" nowrap="" width="827">
+<table border="0" cellpadding="0" cellspacing="0" id="table1725" width="100%">
+<tr>
+<td width="252">
+<font color="#CCCCCC" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<a href="https://www.spielkult.de" style="text-decoration: none">
+<font color="#CCCCCC">www.spielkult.de</font></a></font></td>
+<td> 
+						</td>
+<td background="hgoben3.jpg" bgcolor="#FFFFFF" width="141">
+<p align="center">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<a href="https://www.spielkult.de/kontakt.htm" style="text-decoration: none">
+						Kontakt </a>   
+						</font>
+<span style="font-weight: 700">
+<font face="Tahoma" style="font-size: 8pt">
+<a href="https://www.spielkult.de/impressum.htm" style="text-decoration: none">Impressum</a></font></span></p></td>
+<td background="hgoben5.jpg" bgcolor="#FFFFFF" width="56">
+<p align="center"><span style="font-weight: 700">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt">
+<a href="https://www.spielkult.de/sksuche.htm" style="text-decoration: none">
+						Suche</a></font></span></p></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FF6600" colspan="3" height="64" nowrap="" width="827">
+<table border="0" cellpadding="0" cellspacing="0" id="table1760" width="100%">
+<tr>
+<td width="184"> </td>
+<td>
+<img border="0" height="64" src="sklogo2010neu1.jpg" width="430"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#111111" height="27" nowrap="" width="185"> 
+				</td>
+<td align="left" bgcolor="#111111" colspan="2" height="27" nowrap="" width="642">
+<b>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+				 <a href="https://www.spielkult.de/index.htm" style="text-decoration: none">START</a>
+</font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/test.htm" style="text-decoration: none">
+														SPIELETESTS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														|</font></span></font><font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/videos.htm" style="text-decoration: none">
+														VIDEOS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/extras.htm" style="text-decoration: none">
+														EXTRAS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/links.htm" style="text-decoration: none">
+														LINKS</a> </font>
+<font color="#FFFFFF">
+<span style="font-size: 11pt">
+<font face="Trebuchet MS">
+														| </font></span></font>
+<font color="#FFFFFF" face="Trebuchet MS" style="font-size: 11pt">
+<a href="https://www.spielkult.de/mitspieler.htm" style="text-decoration: none">
+														TREFF</a></font></b></td>
+</tr>
+<tr>
+<td align="left" background="hgbor08.gif" bgcolor="#E2E2E2" height="13" nowrap="" width="185"> 
+				</td>
+<td align="left" background="hgbor08.gif" bgcolor="#E2E2E2" height="13" nowrap="" width="445">
+<b>
+<font color="#333333" face="Tahoma" style="font-size: 8pt">  <a href="https://www.spielkult.de/test.htm" style="text-decoration: none"><font color="#333333">Themen</font></a>         
+				<a href="https://www.spielkult.de/testgesamt.htm" style="text-decoration: none">
+<font color="#333333">A bis Z</font></a>         
+				<a href="https://www.spielkult.de/testneu.htm" style="text-decoration: none">
+<font color="#333333">Neuheiten</font></a>         
+				<a href="https://www.spielkult.de/testverlage.htm" style="text-decoration: none">
+<font color="#333333">Verlage</font></a>         
+				</font>
+<a href="https://www.spielkult.de/testhistory.htm" style="text-decoration: none">
+<font color="#333333" face="Tahoma" style="font-size: 8pt">
+				History</font></a></b></td>
+<td align="left" background="hgbor08.gif" bgcolor="#E2E2E2" height="13" nowrap="" width="197"> 
+				</td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" nowrap="" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" id="table1726" width="100%">
+<tr>
+<td background="punkteorange.gif" width="7"> </td>
+<td width="7">
+<img border="0" height="1" src="Rest/borbachfueller10.jpg" width="10"/></td>
+<td valign="top" width="150"><b>
+<font color="#FF6600" face="Tahoma">
+<span style="font-size: 8pt"><br/>
+								&lt; 
+						<a href="https://www.spielkult.de/test.htm" style="text-decoration: none">
+<font color="#FF6600">
+								Zurück zur Übersicht</font></a></span></font></b><p>
+<b><font color="#333333" face="Tahoma" size="4">
+						Spiel-Fakten:</font></b></p>
+<a href="https://www.spielkult.de/testfam.htm">
+<img alt="Familie" border="0" height="26" longdesc="../00000Spielkult/Familie" src="pic1b.jpg" width="26"/></a><a href="https://www.spielkult.de/testsoa.htm"><img alt="Strategie &amp; Aufbau" border="0" height="26" longdesc="../00000Spielkult/Strategie &amp; Aufbau" src="pic5a.jpg" width="26"/></a><font color="#333333"><b><font face="Tahoma"><a href="https://www.spielkult.de/testqwr.htm"><img alt="Wissen &amp; Raten" border="0" height="26" longdesc="../00000Spielkult/Wissen &amp; Raten" src="pic7b.jpg" width="26"/></a></font></b></font><a href="https://www.spielkult.de/testkup.htm"><img alt="Party &amp; Kommunikation" border="0" height="26" longdesc="../00000Spielkult/Party &amp; Kommunikation" src="pic3b.jpg" width="26"/></a><a href="https://www.spielkult.de/testdlk.htm"><img alt="Logik &amp; Kombination" border="0" height="26" longdesc="../00000Spielkult/Logik &amp; Kombination" src="pic10b.jpg" width="26"/></a><font color="#333333"><b><font face="Tahoma"><br/>
+<a href="https://www.spielkult.de/testkin.htm">
+<img alt="Kinder" border="0" height="26" longdesc="../00000Spielkult/Kinder" src="pic8b.jpg" width="26"/></a><a href="https://www.spielkult.de/testkar.htm"><img alt="Karten" border="0" height="26" longdesc="../00000Spielkult/Karten" src="pic6b.jpg" width="26"/></a></font></b></font><a href="https://www.spielkult.de/testwug.htm"><img alt="Würfel &amp; Glück" border="0" height="26" longdesc="../00000Spielkult/Würfel &amp; Glück" src="pic2b.jpg" width="26"/></a><font color="#333333"><b><font face="Tahoma"><a href="https://www.spielkult.de/testaug.htm"><img alt="Aktion &amp; Geschicklichkeit" border="0" height="26" longdesc="../00000Spielkult/Aktion &amp; Geschicklichkeit" src="pic9b.jpg" width="26"/></a></font></b></font><a href="https://www.spielkult.de/testler.htm"><img alt="Lernen" border="0" height="26" longdesc="../00000Spielkult/Lernen" src="pic4b.jpg" width="26"/></a><font color="#333333"><b><font face="Tahoma"><br/>
+</font></b><font face="Tahoma" size="1"><br/>
+</font></font>
+<font color="#333333" face="Tahoma" style="font-size: 8pt">
+<b>Genre: </b>Strategie<b><br/>
+						Erscheinungsjahr:</b> 2016<br/>
+<b>Verlag: </b>Stonemaier Games / Morning Players / <br/>
+								Feuerland Spiele (deutsch)<br/>
+<strong>Autor:</strong> Jamey Stegmaier<br/>
+<strong>Grafik:</strong> Jakub Rozalski<br/>
+<b>Spieleranzahl:</b> 1 bis 5<br/>
+<b>Alter:</b> ab 14 Jahren<br/>
+<b>Spieldauer:</b> 1</font><span class="auto-style179">20 
+								bis 180 Min.</span><p>
+<font color="#333333" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+						Einstiegslevel:<br/>
+</font>
+<font color="#333333" face="Tahoma" style="font-weight: 700; font-size: 2pt">   
+						<br/>
+</font>
+<img border="0" height="45" src="ampel2.jpg" width="130"/></p>
+<table border="0" cellpadding="0" cellspacing="0" id="table1727" width="100%">
+<tr>
+<td colspan="2" nowrap="" width="84%">
+<p align="center">
+<img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l2.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/><img border="0" height="13" src="skp0l.jpg" width="14"/></p></td>
+<td width="16%"> </td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" width="41%"><b>
+<font color="#333333" face="Tahoma" style="font-size: 7pt">
+								 Glück</font></b></td>
+<td bgcolor="#CCCCCC" width="41%">
+<p align="right"><b>
+<font color="#333333" face="Tahoma" style="font-size: 7pt">
+								Taktik  </font></b></p></td>
+<td width="16%"><font color="#FFFFFF">
+<span style="font-size: 7pt">leer</span></font></td>
+</tr>
+<tr>
+<td width="41%"> </td>
+<td width="41%"> </td>
+<td width="16%"> </td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="table1728" width="100%">
+<tr>
+<td width="122"> 
+								</td>
+<td> </td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="table1787" width="100%">
+<tr>
+<td width="122">
+<table border="0" cellpadding="0" cellspacing="0" id="table1780" width="100%">
+<tr>
+<td width="122">
+<span style="font-weight: 700">
+<font color="#333333" face="Tahoma" style="font-size: 7pt">
+						Anzeige</font></span></td>
+<td> </td>
+</tr>
+<tr>
+<td width="122">
+<table border="1" bordercolorlight="#000000" cellpadding="0" cellspacing="0" id="table1781" style="border-collapse: collapse" width="100%">
+<tr>
+<td bgcolor="#FFFFFF">
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=s03d-21&amp;marketplace=amazon&amp;region=DE&amp;placement=B01N4PTC1R&amp;asins=B01N4PTC1R&amp;linkId=b4c4a4220cce1d8a547cada1c0587396&amp;show_border=false&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=021220&amp;bg_color=ffffff" style="width:120px;height:240px;">
+</iframe></td>
+</tr>
+</table>
+</td>
+<td> </td>
+</tr>
+</table>
+</td>
+<td> </td>
+</tr>
+</table>
+<p> </p></td>
+<td width="8">
+<img border="0" height="1" src="borbachfueller15.jpg" width="15"/></td>
+<td width="7"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" id="table1730" width="100%">
+<tr>
+<td nowrap="" width="430">
+<table border="0" cellpadding="0" cellspacing="0" id="table1731" width="100%">
+<tr>
+<td>
+<strong>
+<span class="auto-style42">
+												Scythe<br/></span>
+<span class="auto-style108">
+												...</span></strong><span class="auto-style64"><strong><br/>
+												Völker dieser Erde, greift zu 
+												den Sensen!</strong> </span><span class="auto-style48"><br/>
+<div>
+<div>
+<span style="mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: DE; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+<div>
+															Der Große Krieg ist 
+															vorbei, im Osteuropa 
+															der 1920er Jahre hat 
+															"Die Fabrik" – der 
+															kapitalistische 
+															Stadtstaat hatte den 
+															Krieg mit 
+															gepanzerten Mechs 
+															überflutet – ihre 
+															Pforten geschlossen. 
+															Wer wird den Platz 
+															der Fabrik 
+															einnehmen, wer wird 
+															die Macht in 
+															Osteuropa 
+															übernehmen? 
+															Willkommen in einer 
+															alternativen 
+															Vergangenheit, 
+															willkommen bei 
+															Scythe...</div>
+</span></div>
+</div>
+</span>
+<span class="auto-style56"> <br/>
+</span>
+<img alt="" class="auto-style44" height="355" src="skscythe1.jpg" width="480"/><table border="0" cellpadding="0" cellspacing="0" id="table1732" width="100%">
+<tr>
+<td colspan="3" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" id="table1761" width="100%">
+<tr>
+<td class="auto-style53" style="width: 480" valign="top"> 
+								</td>
+</tr>
+<tr>
+<td class="auto-style53" style="width: 480" valign="top">
+</td>
+</tr>
+<tr>
+<td class="auto-style53" style="width: 480; height: 562px;" valign="top">
+<div class="auto-style48">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+																							In " Scythe" verkörpern 2 bis 5 Spieler (zusätzlich gibt es eine Solovariante, die ich allerdings nicht ausreichend getestet habe, um ein abschließendes und aussagekräftiges Urteil fällen zu können – ich gestehe voll Scham, dass ich einfach kein Solospieler bin) eine von fünf fiktiven Nationen. Darunter befinden sich beispielsweise die Republik Polonia oder das Sächsische Reich, die allesamt das Ziel verfolgen, das meiste Vermögen zu ergattern. Um diesem Ziel näher zu kommen, werden die Spieler Regionen erobern und beherrschen, Kriege führen und vor allem versuchen, ihr Ansehen in der Region zu steigern, weil dieses bei der Schlusswertung entscheidend für die Menge an Geld ist, die man bekommt. <br/><br/><img alt="" class="auto-style44" height="379" src="skscythe2.jpg" width="480"/><br/><br/>Zu Beginn erhält jeder Spieler ein zufälliges Nations- und Spielertableau und "besiedelt" diese mit den unterschiedlichsten Würfeln und Meeplen (dazu später mehr). Das Spielertableau unterscheidet thematisch etwa in mechanisch oder industriell, die Aktionsmöglichkeiten und deren Belohnungen sind bei jedem Tableau anders angeordnet. Abhängig von der Kombination der beiden Tableaus erhalten die Spieler Startkarten (Kampfkarten, Zielkarten), Stärke, Ansehen sowie Startkapital (in Form von Münzen). Zuletzt stellt jeder Spieler seinen Anführer in sein Heimatgebiet und 2 Arbeiter in jede Region, die mit diesem verbunden sind.</div>
+<div>
+																							 </div>
+<div>
+<img alt="" class="auto-style44" height="346" src="skscythe7.jpg" width="480"/></div>
+<div>
+																							 </div>
+<div>
+<strong>Von aufstrebenden Wirtschafts- und Kriegsmächten – der Spielablauf</strong></div>
+<div>
+																							Werfen wir zunächst einen Blick auf das bereits erwähnte Spielertableau, das zentral für den Zug eines Spielers ist, finden sich hier nämlich alle Aktionsmöglichkeiten der Nationen. Das Tableau besteht aus vier Spalten, jede dieser Spalten wiederum besteht aus einer oberen und unteren Aktion. Bin ich am Zug, so muss ich meinen Aktionsmarker (ein klassischer "Mensch ärgere dich nicht"-Pöppel) auf eine freie Spalte setzen, ich kann folglich eine Aktion(spalte) nicht zwei Mal hintereinander benutzen (es sei denn ich spiele die Rusviet-Union, die dürfen das aufgrund ihrer bindividuellen Fähigkeit – was, nebenbei bemerkt, eine sehr starke Eigenschaft ist). Habe ich meinen Aktionsmarker gesetzt, darf ich zunächst die obere Aktion der Spalte ausführen. Alle vier oberen Aktionen dienen dem Ausbau des eigenen Territoriums und der Anschaffung zusätzlicher Ressourcen, wobei vor allem letztere wiederum dazu benutzt werden die unteren Aktionen ausführen zu können. So wird es den Spielern im Laufe des Spiels möglich sein, die wertvollen Mechs (Transport- und Kriegsmaschinen) einzusetzen, bestimmte Gebäude zu bauen, die Boni liefern, die Infrastruktur zu entwickeln oder Rekruten für die eigene Streitmacht anzuwerben, was mir u.a. mehr Stärke oder Ansehen einbringt.<br/><br/><img alt="" class="auto-style44" height="375" src="skscythe8.jpg" width="480"/></div>
+<div>
+																							 </div>
+<div>
+<strong>An vorderster Front: Anführer und Mechs</strong></div>
+<div>
+																							Zu Beginn des Spiels beschränkt sich das eigene Territorium auf wenige Felder, zusätzlich ist die Bewegung dadurch eingeschränkt, dass die Startregionen vom Zentrum des Spielplans durch Flüsse abgeschnitten sind, die für die eigenen Arbeiter unpassierbar sind (ausgenommen die Nordischen Königreiche, deren Arbeiter können nämlich gut schwimmen). Spätestens mit dem Einsetzen der ersten Mechs ändert sich das Thema Mobilität aber schlagartig, erhält man u.a. durch das "Waten" die Möglichkeit, sich mit eben jenen Mechs und auch den eigenen Anführern über bestimmte Wege Flüsse zu passieren; die "Eile" ermöglicht es hingegen, dass die eigenen Truppen sich zusätzlich ein Feld bewegen können, wenn die obere Aktion Bewegung genutzt wird. Und so merkt der Spieler recht schnell, wie die beiden Tableaus miteinander verzahnt sind und diese miteinander interagieren. Eine weitere Besonderheit der Anführer und Mechs ist, dass sie, im Gegensatz zu Arbeitern, Kämpfe in Gebieten auslösen können.<br/><br/><img alt="" class="auto-style44" height="392" src="skscythe9.jpg" width="480"/></div>
+<div>
+																							 </div>
+<div>
+<strong>Kampf um Regionen, Kampf um Ansehen</strong></div>
+<div>
+																							Sobald eine eigene Einheit, die kein Arbeiter ist, ein Feld betritt, in dem sich bereits gegnerische Figuren befinden, kommt es zum Kampf, der vor der unteren Aktion des Spielers durchgeführt wird. Wichtig zu wissen ist, dass immer nur die zwei Spieler am Krieg teilnehmen, deren Einheiten in der betreffenden Region sind. Um herauszufinden, welcher Spieler die Auseinandersetzung gewinnt, wird überprüft, welcher der Kontrahenten mehr Stärke eingesetzt hat. Dazu stellen die Beteiligten geheim auf einer Wählscheibe ihre gewünschte Stärke ein, die maximal 7 sein darf und aus dem eigenen Stärkepool auf der entsprechenden Leiste auf dem Spielbrett genutzt werden muss. <br/><br/><img alt="" class="auto-style44" height="327" src="skscythe4.jpg" width="480"/><br/><br/>Aber Obacht: Ich kann natürlich nur Stärke verwenden, die ich besitze. Zusätzlich kann ich mich entscheiden, pro Anführer und Mech je eine Stärkekarte einzusetzen. Diese bekommt man zu Beginn des Spiels, kann sie aber auch während der Partie durch unterschiedliche Aktionen erlangen und sie können eine Stärke von 2-5 aufweisen. Alle genutzte Stärke (ob durch die Leiste oder Karten) wird am Ende abgezogen bzw. abgelegt. Gleichzeitig decken beide Spieler ihre Wählscheibe auf und vergleichen die Gesamtstärke. Der Spieler, der mehr Stärke eingesetzt hat, gewinnt den Kampf, bei einem Unentschieden gewinnt der Angreifer. Der Gewinner ist fortan der Herrscher der Region und vertreibt alle gegnerischen Einheiten in deren Heimatgebiet. Der Clou: Sollte der Gewinner der Aggressor des Kampfes gewesen sein, muss er je vertriebenem Arbeiter des Gegners einen Ansehenspunkt abgeben. Warum das von Bedeutung ist? Kann man nicht auch wunderbar als Despot die Welt versuchen zu unterdrücken und zu beherrschen? Klar, man kann das bei Scythe versuchen und vor allem das Sächsische Reich kann über kriegerische Auseinandersetzungen viele Punkte ergattern, aber…, und hier bitte aufpassen, Scythe ist trotz des Themas kein wirkliches Kriegsspiel. Gerade das eigene Ansehen und die damit verbundenen Punkte darf man nicht unterschätzen, dienen diese am Ende des Spiels nämlich dazu, in den einzelnen Kategorien für Siegpunkte (Vermögen) weiteres Vermögen einzuheimsen. Dabei ist die Rechnung einfach: je höher mein Ansehen, desto höher der Ertrag der einzelnen Kategorien (wie z.B. beherrschte Gebiet).    <br/><br/><img alt="" class="auto-style44" height="416" src="skscythe5.jpg" width="480"/></div>
+<div>
+																							 </div>
+<div>
+<strong>Begegnungen und „Die Fabrik“</strong></div>
+<div>
+																							Wer bei Scythe Atmosphäre sucht, wird sie zum einen im Artwork finden, zum anderen begeben sich die Anführer während des Spiels auf Reisen. Immer wenn mein Anführer eine Region betritt, in der ein Begegnungsplättchen liegt, darf ich eine entsprechende Karte vom Nachziehstapel der Begegnungskarten ziehen. Dann lese ich den anderen vor, was mein Anführer in dieser Region erlebt. Spieltechnisch habe ich jetzt die Wahl zwischen drei Alternativen, die von vorbildlicher Anführer bis unmoralischer Holzkopf reichen und mir, je böser ich mich verhalte, mehr Ertrag bringen. So kann ich Bewohner der Region unterstützen und erhalte beispielsweise ein Ansehen oder aber ich klaue ihnen einfach einen funktionstüchtigen Mech. Dann darf ich sofort einen meiner Mechs vom Tableau einsetzen, zahle für mein ungebührliches Verhalten jedoch den einen oder anderen Ansehenspunkt. Im Zentrum des Spielbretts befindet sich die zurückgelassene Fabrik, der Ort technischer Neuerung und unbezahlbarer Macht. Sobald mein Anführer sich auf das Feld der Fabrik bewegt und sollten am Ende seiner Bewegung keine gegnerischen Einheiten dort stehen (wir erinnern uns: in solch einem Fall wird ein Kampf ausgelöst), nimmt er sich den verbliebenen Fabrikkartenstapel (zu Beginn des Spiels werden verdeckt Fabrikkarten ausgelegt, die der Spieleranzahl + 1 entspricht. Bei 4 Spielern dementsprechend 5 Karten) und sucht sich eine der Karten heraus. Diese kann er ab seinem nächsten Spielzug als weitere Aktionskarte nutzen, welche ihn z.B. zu schnellerer Bewegung befähigt. Den Besuch der Fabrik inklusive neuer Aktionskarte darf jeder Spieler einmal pro Partie ausführen, mehr als eine zusätzliche Aktionskarte wird folglich niemand erhalten, die Region der Fabrik besetzen darf hingegen weiterhin geschehen – man erhält nur eben keine zusätzliche Karte mehr.</div>
+<div>
+																							 </div>
+<div>
+<img alt="" class="auto-style44" height="176" src="skscythe6.jpg" width="480"/></div>
+<div>
+																							 </div>
+<div>
+<strong>Spielende und oberster Sensenmann (= Sieger)</strong></div>
+<div>
+																							Sobald ein Spieler seinen sechsten Stern gesammelt hat, endet die Partie augenblicklich. Sterne, häh? Sterne erhalte ich immer dann, wenn ich bestimmte Vorgaben erfülle. Dazu gehören u.a. das Gewinnen eines Kampfes, das Einsetzen des vierten Mechs, sobald man seinen letzten Arbeiter eingesetzt hat usw. Anschließend wird abgerechnet, die Spieler schauen dafür auf die Ansehensskala. Abhängig von der erreichten Höhe auf dieser Skala erhalte ich zusätzlich für jeden erhaltenen Stern, für jede Region und jeweils zwei Ressourcen, die sich in meinem Besitz befinden, weiteres Vermögen. Wer nun das meiste Geld hat, gewinnt die Partie der Sensen, bei Gleichstand gibt es eine Rangfolge von Tiebreakern, so z.B. die Gesamtzahl der Arbeiter, Mechs und Gebäude auf dem Spielfeld, die Stärke, das Ansehen usw.<span class="auto-style180"> [dj]</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<b>
+<font face="Tahoma" size="7">
+</font></b></table>
+</td>
+</tr>
+<font face="Tahoma" size="7">
+<b>
+<tr>
+<td bgcolor="#FFFFFF" colspan="3">
+								 </td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" colspan="3">
+<font color="#FFFFFF">
+<span style="font-size: 6pt">Links</span></font></td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" colspan="3">
+<span style="font-weight: 700">
+<font color="#333333" face="Tahoma" style="font-size: 7pt"> Folgen 
+								Sie SPIELKULT.de:</font></span></td>
+</tr>
+<tr>
+<td style="height: 19px" width="22%"><b><span style="font-size: 8pt"> <a href="https://www.facebook.com/pages/SPIELKULTde/121206731232537" style="text-decoration: none" target="_blank"><font color="#000000"><img border="0" height="10" src="facebooklogo.GIF" width="10"/></font></a></span></b><a href="https://www.facebook.com/pages/SPIELKULTde/121206731232537" style="text-decoration: none" target="_blank"><font color="#000000" face="Tahoma" style="font-size: 8pt"><b> 
+						</b>Facebook</font></a></td>
+<td style="height: 19px" width="1%"></td>
+<td style="height: 19px" width="77%">
+<a href="https://www.twitter.com/SPIELKULTde" style="text-decoration: none" target="_blank">
+<img border="0" height="10" src="twitterlogo01.jpg" width="10"/><font color="#000000" face="Tahoma" style="font-size: 8pt"><b> 
+						</b>Twitter</font></a></td>
+</tr>
+<tr>
+<td width="151"> </td>
+<td width="10"> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3">
+<table border="0" bordercolorlight="#333333" cellpadding="0" id="table1772" style="border-collapse: collapse" width="100%">
+<tr>
+<td background="wertung11.GIF" bgcolor="#FF6600" height="27" nowrap="" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" id="table1773" width="100%">
+<tr>
+<td width="23"> </td>
+<td width="144">
+<img border="0" height="22" src="sklogoklein.jpg" width="144"/></td>
+<td><b>
+<font color="#FFFFFF" face="Tahoma" style="font-size: 9pt">
+										 </font><font color="#FFFFFF" face="Tahoma" style="font-size: 13pt">
+</font>
+<font color="#FFFFFF" face="Tahoma" style="font-size: 9pt">
+										Checkpoint</font></b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<table border="0" bordercolordark="#F38305" bordercolorlight="#F38305" cellpadding="0" id="table1774" style="border-collapse: collapse" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<table border="0" bordercolordark="#FFFFFF" bordercolorlight="#FFFFFF" cellpadding="0" id="table1775" style="border-collapse: collapse" width="100%">
+<tr>
+<td bordercolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0" id="table1776" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" colspan="2" height="5" nowrap="" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" id="table1777" width="100%">
+<tr>
+<td bgcolor="#FFCC66" style="width: 15%"> </td>
+<td bgcolor="#FFCC66" style="width: 40%" valign="top">
+<font face="Tahoma" style="font-size: 8pt">
+<b>
+<font face="Tahoma" style="font-size: 7pt">
+<img border="0" height="15" src="plus.jpg" width="16"/> 
+								PLUS:<br/>
+</font>
+<font color="#FFCC66" face="Tahoma" style="font-size: 2pt">
+								PLUS:</font></b><font face="Tahoma" style="font-size: 7pt"><span class="auto-style98"><div>
+<div>
+<div>
+<div>
+<div>
+<div>
+														Thema, Artwork und 
+														Ausstattung <br/>   
+														sind einfach nur "wow"!</div>
+<div>
+														hohe Varianz durch 
+														modulare Tableaus</div>
+<div>
+														unterschiedliche 
+														Strategien möglich </div>
+<div>
+														Nationen bieten 
+														unterschiedliches <br/>   
+														Spielerlebnis</div>
+<div>
+														Krieg ist häufig nicht 
+														der Weisheit <br/>   
+														letzter Schluss</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</span></font>
+</font>
+<font color="#FFCC66" face="Tahoma" style="font-size: 2pt">
+								ENDE</font></td>
+<td bgcolor="#FFCC66" nowrap="" style="width: 1%"> </td>
+<td bgcolor="#FFCC66" valign="top" width="47%">
+<font face="Tahoma" style="font-size: 8pt">
+<b><font face="Tahoma" style="font-size: 7pt">
+<img border="0" height="15" src="minus.jpg" width="16"/> 
+								MINUS:<br/>
+</font>
+<font color="#FFCC66" face="Tahoma" style="font-size: 2pt">
+								MINUS:</font></b><div>
+<div>
+<div>
+											bisweilen lang(atmig)</div>
+<div>
+											Interaktion wider Erwarten eher 
+											gering</div>
+<div>
+											gerade zu Beginn recht linear</div>
+<div>
+											fehlende Spannungskurve</div>
+</div>
+</div>
+<br/>
+</font>
+<font color="#FFCC66" face="Tahoma" style="font-size: 2pt">
+								leer<br/></font></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" colspan="4">
+<font color="#FFFFFF">
+<span style="font-size: 2pt">PUNKTE-CHECK:</span></font></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" colspan="2" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" id="table1778" width="100%">
+<tr>
+<td bgcolor="#FFFFFF" width="31%"><b> <font face="Tahoma" style="font-size: 10pt">   </font> <font face="Tahoma" style="font-size: 9pt">SPIELIDEE</font><font face="Tahoma" style="font-size: 10pt"><br/>
+</font> <font color="#999999" face="Tahoma" style="font-size: 6pt">      
+									      Originalität, Regeln</font></b></td>
+<td bgcolor="#FFFFFF" width="69%"> <img border="0" height="25" src="skp1.jpg" width="26"/><img border="0" height="25" src="skp2.jpg" width="26"/><img border="0" height="25" src="skp3.jpg" width="26"/><img border="0" height="25" src="skp4.jpg" width="26"/><img border="0" height="25" src="skp5.jpg" width="26"/><img border="0" height="25" src="skp6.jpg" width="26"/><img border="0" height="25" src="skp7a.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><b> <font face="Tahoma" style="font-size: 10pt">   </font> <font face="Tahoma" style="font-size: 9pt">AUSSTATTUNG</font><font face="Tahoma" style="font-size: 10pt"><br/>
+</font> <font color="#999999" face="Tahoma" style="font-size: 6pt">      
+									      Material, Umfang</font></b></td>
+<td bgcolor="#FFFFFF"> <img border="0" height="25" src="skp1.jpg" width="26"/><img border="0" height="25" src="skp2.jpg" width="26"/><img border="0" height="25" src="skp3.jpg" width="26"/><img border="0" height="25" src="skp4.jpg" width="26"/><img border="0" height="25" src="skp5.jpg" width="26"/><img border="0" height="25" src="skp6.jpg" width="26"/><img border="0" height="25" src="skp7.jpg" width="26"/><img border="0" height="25" src="skp8.jpg" width="26"/><img border="0" height="25" src="skp9.jpg" width="26"/><img border="0" height="25" src="skp10a.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><b> <font face="Tahoma" style="font-size: 10pt">   </font><font face="Tahoma" style="font-size: 9pt">SPIELABLAUF</font><font face="Tahoma" size="2"><br/>
+</font> <font color="#999999" face="Tahoma" style="font-size: 6pt">      
+									      Mechanik, Einfluss</font></b></td>
+<td bgcolor="#FFFFFF"> <img border="0" height="25" src="skp1.jpg" width="26"/><img border="0" height="25" src="skp2.jpg" width="26"/><img border="0" height="25" src="skp3.jpg" width="26"/><img border="0" height="25" src="skp4.jpg" width="26"/><img border="0" height="25" src="skp5.jpg" width="26"/><img border="0" height="25" src="skp6.jpg" width="26"/><img border="0" height="25" src="skp7a.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFCC66" colspan="2"><b>
+<font face="Trebuchet MS" style="font-size: 3pt"> </font></b><table border="0" cellpadding="0" cellspacing="0" id="table1779" width="100%">
+<tr>
+<td width="4"> </td>
+<td valign="top">
+<a href="mailto:dan@spielkult.de">
+<img alt="" class="auto-style181" height="84" src="skdan0.jpg" width="60"/></a></td>
+<td valign="top"> 
+									          </td>
+<td valign="top"> 
+									          </td>
+<td class="auto-style53" valign="top">
+<div>
+<div class="auto-style126">
+<div>
+<div>
+<div class="auto-style174">
+<div>
+<div>
+<strong>
+																		  Dän:</strong> 
+																		  Eine 
+																		  kurze 
+																		  Info 
+																		  vorab: 
+																		  Ich 
+																		  habe 
+																		  mir 
+																		  auf 
+																		  der 
+																		  SPIEL 
+																		  2016 
+																		  ein 
+																		  Exemplar 
+																		  von 
+																		  Scythe 
+																		  gekauft, 
+																		  damals 
+																		  noch 
+																		  bei 
+																		  Morning 
+																		  Players, 
+																		  inzwischen 
+																		  in 
+																		  Deutschland 
+																		  bei 
+																		  Feuerland 
+																		  erhältlich. 
+																		  Meines 
+																		  Wissens 
+																		  unterscheiden 
+																		  sich 
+																		  die 
+																		  Versionen 
+																		  aber 
+																		  in 
+																		  Ausstattung 
+																		  und 
+																		  Regeln 
+																		  grundsätzlich 
+																		  nicht, 
+																		  ein 
+																		  paar 
+																		  Regelerklärungen 
+																		  wurden 
+																		  wohl 
+																		  optimiert.</div>
+<div>
+																		   </div>
+<div>
+																		  Als 
+																		  Scythe 
+																		  (deutsch: 
+																		  Sense) 
+																		  seinerzeit 
+																		  bei 
+																		  Kickstarter 
+																		  lief, 
+																		  hatte 
+																		  ich 
+																		  unverzüglich 
+																		  meine 
+																		  Unterstützung 
+																		  mit 
+																		  ein 
+																		  paar 
+																		  Mausklicks 
+																		  zugesagt. 
+																		  Da ich 
+																		  in 
+																		  diesem 
+																		  Zeitraum 
+																		  aber 
+																		  irgendwie 
+																		  das 
+																		  Gefühl 
+																		  bekam, 
+																		  ich 
+																		  entwickelte 
+																		  mich 
+																		  zur 
+																		  Melkmaschine 
+																		  der 
+																		  Plattform, 
+																		  musste 
+																		  ich 
+																		  mich 
+																		  zügeln 
+																		  und 
+																		  nahm 
+																		  meinen 
+																		  Beitrag 
+																		  zu 
+																		  Scythe 
+																		  in 
+																		  erster 
+																		  Linie 
+																		  aus 
+																		  Kostengründen 
+																		  zurück. 
+																		  Irgendwie 
+																		  bereute 
+																		  ich 
+																		  anschließend 
+																		  meine 
+																		  Entscheidung 
+																		  und so 
+																		  behielt 
+																		  ich 
+																		  das 
+																		  Projekt 
+																		  des 
+																		  grandiosen 
+																		  Jamey 
+																		  Stegmaiers 
+																		  weiterhin 
+																		  im 
+																		  Blick. 
+																		  Letztlich 
+																		  zögerte 
+																		  ich 
+																		  nicht 
+																		  lange, 
+																		  als es 
+																		  das 
+																		  Spiel 
+																		  auf 
+																		  der 
+																		  letztjährigen 
+																		  SPIEL 
+																		  auch 
+																		  in 
+																		  deutscher 
+																		  Sprache 
+																		  zu 
+																		  erstehen 
+																		  gab 
+																		  (ja, 
+																		  ich 
+																		  hatte 
+																		  wieder 
+																		  etwas 
+																		  Geld 
+																		  übrig 
+																		  und 
+																		  auch 
+																		  meine 
+																		  Freundin 
+																		  hatte 
+																		  knapp 
+																		  zwei 
+																		  Wochen 
+																		  nicht 
+																		  moniert, 
+																		  ich 
+																		  habe 
+																		  zu 
+																		  viele 
+																		  Spiele 
+																		  und 
+																		  wir 
+																		  eigentlich 
+																		  viel 
+																		  zu 
+																		  wenig 
+																		  Platz 
+																		  dafür…). 
+																		  Nun 
+																		  steht 
+																		  fast 
+																		  die 
+																		  nächste 
+																		  SPIEL 
+																		  vor 
+																		  der 
+																		  Tür 
+																		  (Stand: 
+																		  August 
+																		  2017) 
+																		  und 
+																		  ich 
+																		  denke, 
+																		  ich 
+																		  habe 
+																		  das 
+																		  Mammutprojekt 
+																		  Scythe 
+																		  ausgiebig 
+																		  genug 
+																		  getestet, 
+																		  um 
+																		  meine 
+																		  Meinung 
+																		  zum 
+																		  Spiel 
+																		  kundtun 
+																		  zu 
+																		  können.
+																	  </div>
+<div>
+																		   </div>
+<div>
+<strong>
+																		  Don't 
+																		  believe 
+																		  the 
+																		  hype?</strong></div>
+<div>
+																		  Wer 
+																		  Scythe 
+																		  zum 
+																		  ersten 
+																		  Mal 
+																		  erblickt, 
+																		  dessen 
+																		  Mund 
+																		  formt 
+																		  zumeist 
+																		  ein 
+																		  großes 
+																		  "O", 
+																		  das 
+																		  sich 
+																		  in ein 
+																		  träumerisches 
+																		  Lächeln 
+																		  verwandelt, 
+																		  wissen 
+																		  Artwork 
+																		  und 
+																		  Material 
+																		  schlicht 
+																		  und 
+																		  einfach 
+																		  auf 
+																		  voller 
+																		  Linie 
+																		  zu 
+																		  überzeugen. 
+																		  Die 
+																		  Zeichnungen 
+																		  von 
+																		  Jakub 
+																		  Rozalski 
+																		  fangen 
+																		  die 
+																		  künstlerische 
+																		  Welt 
+																		  des 
+																		  ausgehenden 
+																		  19. 
+																		  bzw. 
+																		  beginnenden 
+																		  20. 
+																		  Jahrhunderts 
+																		  wunderbar 
+																		  ein 
+																		  und 
+																		  tragen 
+																		  enorm 
+																		  zur 
+																		  Stimmung 
+																		  der 
+																		  Welt 
+																		  von 
+																		  Scythe 
+																		  bei. 
+																		  Unvermittelt 
+																		  drängt 
+																		  sich 
+																		  dem 
+																		  Betrachtenden 
+																		  die 
+																		  Frage 
+																		  auf: 
+																		  Ist 
+																		  das 
+																		  Spiel 
+																		  so 
+																		  grandios 
+																		  wie es 
+																		  aussieht? 
+																		  Nach 
+																		  meinen 
+																		  Testrunden 
+																		  muss 
+																		  ich 
+																		  konstatieren, 
+																		  dass 
+																		  der 
+																		  große 
+																		  Hype 
+																		  um das 
+																		  Spiel 
+																		  zumindest 
+																		  spielerisch 
+																		  meiner 
+																		  Meinung 
+																		  nach 
+																		  nicht 
+																		  gänzlich 
+																		  gerechtfertigt 
+																		  ist 
+																		  und 
+																		  ich 
+																		  möchte 
+																		  gerne 
+																		  ausführen, 
+																		  warum 
+																		  ich 
+																		  Scythe 
+																		  zwar 
+																		  weiterhin 
+																		  immer 
+																		  wieder 
+																		  einmal 
+																		  auf 
+																		  den 
+																		  Spieltisch 
+																		  hieve, 
+																		  es in 
+																		  den 
+																		  letzten 
+																		  Monaten 
+																		  aber 
+																		  bedeutend 
+																		  weniger 
+																		  geworden 
+																		  ist.</div>
+<div>
+																		   </div>
+<div>
+<strong>
+																		  Von 
+																		  Nationen, 
+																		  Strategien 
+																		  und 
+																		  fehlender 
+																		  Ausgewogenheit</strong></div>
+<div>
+																		  Das 
+																		  Spiel 
+																		  bietet 
+																		  grundsätzlich 
+																		  unterschiedliche 
+																		  Strategien 
+																		  an, 
+																		  die 
+																		  für 
+																		  jede 
+																		  Partie 
+																		  zufällig 
+																		  ausgehändigten 
+																		  Tableaus 
+																		  bieten 
+																		  hohe 
+																		  Varianz 
+																		  und 
+																		  Herausforderung, 
+																		  die zu 
+																		  gefallen 
+																		  wissen. 
+																		  So 
+																		  muss 
+																		  ich 
+																		  die 
+																		  Besonderheiten 
+																		  meiner 
+																		  Nation 
+																		  und 
+																		  die 
+																		  Bedingungen 
+																		  meines 
+																		  Spielertableaus 
+																		  in 
+																		  ihrem 
+																		  Zusammenspiel 
+																		  effektiv 
+																		  nutzen, 
+																		  um 
+																		  eine 
+																		  Chance 
+																		  auf 
+																		  den 
+																		  Sieg 
+																		  zu 
+																		  haben, 
+																		  was 
+																		  gerade 
+																		  am 
+																		  Anfang 
+																		  nicht 
+																		  immer 
+																		  gelingen 
+																		  will. 
+																		  Nicht 
+																		  ganz 
+																		  überzeugen 
+																		  konnten 
+																		  mich 
+																		  die 
+																		  unterschiedlichen 
+																		  Sonderfähigkeiten 
+																		  der 
+																		  einzelnen 
+																		  Nationen, 
+																		  einfach 
+																		  weil 
+																		  ich 
+																		  der 
+																		  Meinung 
+																		  bin, 
+																		  dass 
+																		  z.B. 
+																		  das 
+																		  wiederholte 
+																		  Spielen 
+																		  des 
+																		  gleichen 
+																		  Aktionsbereiches 
+																		  (Rusviet-Union) 
+																		  oder 
+																		  die 
+																		  Fähigkeit 
+																		  eigene 
+																		  Arbeiter 
+																		  über 
+																		  Flüsse 
+																		  gehen 
+																		  lassen 
+																		  zu 
+																		  können, 
+																		  in der 
+																		  Summe 
+																		  weitaus 
+																		  stärker 
+																		  ist, 
+																		  als 
+																		  z.B. 
+																		  eine 
+																		  Kampfkarte 
+																		  pro 
+																		  Zug 
+																		  als 
+																		  beliebige 
+																		  Ressource 
+																		  zu 
+																		  nutzen 
+																		  (Khanat 
+																		  der 
+																		  Krim). 
+																		  Es 
+																		  gibt 
+																		  weitere 
+																		  Elemente, 
+																		  die 
+																		  mir 
+																		  nicht 
+																		  ganz 
+																		  ausgewogen 
+																		  scheinen; 
+																		  so 
+																		  sorgten 
+																		  in 
+																		  meinen 
+																		  Testrunden 
+																		  vor 
+																		  allem 
+																		  die 
+																		  Zielkarten 
+																		  häufig 
+																		  für 
+																		  Unmut; 
+																		  genügte 
+																		  es 
+																		  manchen 
+																		  Spielern 
+																		  ein 
+																		  paar 
+																		  gleiche 
+																		  Regionen 
+																		  zu 
+																		  beherrschen, 
+																		  während 
+																		  andere 
+																		  Zielkarten 
+																		  teilweise 
+																		  anspruchsvolle 
+																		  und 
+																		  schwer 
+																		  machbare 
+																		  Anforderungen 
+																		  stellten, 
+																		  die 
+																		  aus 
+																		  Kombinationen 
+																		  einer 
+																		  bestimmten 
+																		  Anzahl 
+																		  Ansehen, 
+																		  Stärke, 
+																		  Mechs 
+																		  o.ä. 
+																		  bestanden; 
+																		  hier 
+																		  kann 
+																		  einem 
+																		  der 
+																		  Zufall 
+																		  wortwörtlich 
+																		  in die 
+																		  Karten 
+																		  spielen 
+																		  – oder 
+																		  eben 
+																		  nicht. 
+																		  Auch 
+																		  die 
+																		  Begegnungskarten 
+																		  wussten 
+																		  nach 
+																		  einiger 
+																		  Zeit 
+																		  nicht 
+																		  mehr 
+																		  ganz 
+																		  so zu 
+																		  überzeugen, 
+																		  bedienen 
+																		  sie 
+																		  schlussendlich 
+																		  das 
+																		  immer 
+																		  gleiche 
+																		  Prinzip 
+																		  vom 
+																		  Ressourcenerhalt, 
+																		  ohne 
+																		  wirkliche 
+																		  Einschränkungen 
+																		  und 
+																		  Aufwand, 
+																		  da ich 
+																		  irgendwie 
+																		  immer 
+																		  etwas 
+																		  bekomme. 
+																		  Hier 
+																		  wäre 
+																		  thematisch 
+																		  und 
+																		  spielerisch 
+																		  sicher 
+																		  mehr 
+																		  drin 
+																		  gewesen</div>
+<div>
+																		   </div>
+<div>
+<strong>
+																		  Das 
+																		  ist 
+																		  ein 
+																		  Kriegsspiel, 
+																		  oder?</strong></div>
+<div>
+																		  Wer 
+																		  Scythe 
+																		  zum 
+																		  ersten 
+																		  Mal 
+																		  sieht, 
+																		  wer 
+																		  sich 
+																		  die 
+																		  Hintergrundgeschichte 
+																		  anschaut, 
+																		  der 
+																		  könnte 
+																		  meinen, 
+																		  es sei 
+																		  ein 
+																		  Kriegsspiel, 
+																		  bei 
+																		  dem es 
+																		  darum 
+																		  geht 
+																		  sich 
+																		  über 
+																		  Gewalt 
+																		  und 
+																		  Krieg 
+																		  die 
+																		  Herrschaft 
+																		  zu 
+																		  sichern. 
+																		  Das 
+																		  ist im 
+																		  Grunde 
+																		  genommen 
+																		  auch 
+																		  möglich, 
+																		  allerdings 
+																		  waren 
+																		  in den 
+																		  seltensten 
+																		  Fällen 
+																		  in 
+																		  meinen 
+																		  Testrunden 
+																		  die 
+																		  größten 
+																		  Aggressoren 
+																		  am 
+																		  Spieltisch 
+																		  am 
+																		  Ende 
+																		  auch 
+																		  die 
+																		  Sieger. 
+																		  Das 
+																		  liegt 
+																		  in 
+																		  erster 
+																		  Linie 
+																		  an den 
+																		  Sanktionen, 
+																		  die 
+																		  ein 
+																		  provozierter 
+																		  Krieg 
+																		  mit 
+																		  sich 
+																		  bringt, 
+																		  nämlich 
+																		  der 
+																		  Verlust 
+																		  von 
+																		  Ansehen 
+																		  für 
+																		  jeden 
+																		  vertriebenen 
+																		  Arbeiter 
+																		  des 
+																		  Gegners. 
+																		  Was 
+																		  thematisch 
+																		  wunderbar 
+																		  umgesetzt 
+																		  wurde, 
+																		  bedingt 
+																		  meines 
+																		  Erachtens 
+																		  jedoch 
+																		  gleichzeitig 
+																		  einen 
+																		  der 
+																		  spielerischen 
+																		  Nachteile 
+																		  von 
+																		  Scythe: 
+																		  Bevor 
+																		  jemand 
+																		  Gebiete 
+																		  zu 
+																		  erobern 
+																		  versucht, 
+																		  spielt 
+																		  er 
+																		  lieber 
+																		  vor 
+																		  sich 
+																		  hin 
+																		  und 
+																		  sucht 
+																		  freie 
+																		  Gebiete 
+																		  auf 
+																		  dem 
+																		  Spielbrett, 
+																		  mit 
+																		  denen 
+																		  einfacher 
+																		  und 
+																		  effektiver 
+																		  Punkte 
+																		  gesammelt 
+																		  werden 
+																		  können. 
+																		  Das 
+																		  wird 
+																		  mit 
+																		  zunehmender 
+																		  Spielzahl 
+																		  sicherlich 
+																		  schwieriger, 
+																		  da der 
+																		  Platz 
+																		  auf 
+																		  dem 
+																		  Brett 
+																		  weniger 
+																		  ist, 
+																		  aber 
+																		  auch 
+																		  in 
+																		  vielen 
+																		  meiner 
+																		  4-Spieler-Partien 
+																		  waren 
+																		  Spiele 
+																		  dabei, 
+																		  bei 
+																		  denen 
+																		  ist 
+																		  bis 
+																		  zum 
+																		  Spielende 
+																		  zu 
+																		  maximal 
+																		  vier 
+																		  bis 
+																		  fünf 
+																		  kriegerischen 
+																		  Auseinandersetzungen 
+																		  kam – 
+																		  bei 
+																		  einer 
+																		  Spielzeit 
+																		  von 
+																		  knapp 
+																		  drei 
+																		  Stunden 
+																		  wohlgemerkt. 
+																		  Hinzu 
+																		  kommt, 
+																		  dass 
+																		  man 
+																		  für 
+																		  gewonnene 
+																		  Kriege 
+																		  höchstens 
+																		  zwei 
+																		  Sterne 
+																		  erhalten 
+																		  kann 
+																		  (Ausnahme 
+																		  ist 
+																		  das 
+																		  Sächsische 
+																		  Reich, 
+																		  dieses 
+																		  darf 
+																		  unendlich 
+																		  Sterne 
+																		  für 
+																		  Kriege 
+																		  einheimsen), 
+																		  also 
+																		  auch 
+																		  von 
+																		  diesem 
+																		  Gesichtspunkt 
+																		  aus 
+																		  eher 
+																		  weniger 
+																		  lukrativ 
+																		  wirkt. 
+																		  Thematisch 
+																		  halte 
+																		  ich 
+																		  diese 
+																		  Umsetzung 
+																		  von 
+																		  Krieg 
+																		  und 
+																		  seinen 
+																		  Konsequenzen 
+																		  in 
+																		  einem 
+																		  Spiel, 
+																		  wie 
+																		  bereits 
+																		  erwähnt, 
+																		  für 
+																		  äußerst 
+																		  gelungen, 
+																		  spielerisch 
+																		  nimmt 
+																		  es 
+																		  leider 
+																		  eine 
+																		  Menge 
+																		  an 
+																		  Interaktion.</div>
+<div>
+																		   </div>
+<div>
+<strong>
+																		  Der 
+																		  lange 
+																		  Weg 
+																		  zum 
+																		  Sieg</strong></div>
+<div>
+																		  Auf 
+																		  der 
+																		  Verpackung 
+																		  von 
+																		  Scythe 
+																		  (Version 
+																		  von 
+																		  Morning 
+																		  Players) 
+																		  ist 
+																		  eine 
+																		  Spielzeit 
+																		  von 
+																		  115 
+																		  Minuten 
+																		  angegeben. 
+																		  Diese 
+																		  doch 
+																		  ungewöhnliche 
+																		  Angabe 
+																		  wirft 
+																		  Fragen 
+																		  auf, 
+																		  die 
+																		  von 
+																		  Herrn 
+																		  Stegmaier 
+																		  auch 
+																		  beantwortet 
+																		  wurden. 
+																		  Demnach 
+																		  ginge 
+																		  eine 
+																		  durchschnittliche 
+																		  Partie 
+																		  von 
+																		  Scythe 
+																		  ungefähr 
+																		  diese 
+																		  knapp 
+																		  zwei 
+																		  Stunden. 
+																		  Unsere 
+																		  geneigten 
+																		  Leser/innen 
+																		  mögen 
+																		  mir 
+																		  gerne 
+																		  widersprechen, 
+																		  aber 
+																		  in 
+																		  meinen 
+																		  Runden 
+																		  (vor 
+																		  allem 
+																		  ab 4 
+																		  Spielern) 
+																		  dauerten 
+																		  Partie 
+																		  gerne 
+																		  auch 
+																		  mal 
+																		  eine 
+																		  Stunde 
+																		  länger. 
+																		  Zwar 
+																		  gibt 
+																		  die 
+																		  Anleitung 
+																		  ein 
+																		  paar 
+																		  Tipps, 
+																		  wie 
+																		  man 
+																		  Zeit 
+																		  sparen 
+																		  kann, 
+																		  diese 
+																		  sind 
+																		  jedoch 
+																		  nicht 
+																		  immer 
+																		  umsetzbar. 
+																		  So 
+																		  sagt 
+																		  die 
+																		  Anleitung 
+																		  z.B., 
+																		  dass 
+																		  der 
+																		  nächste 
+																		  Spieler 
+																		  seinen 
+																		  Zug 
+																		  beginnen 
+																		  kann, 
+																		  während 
+																		  ich 
+																		  noch 
+																		  meine 
+																		  untere 
+																		  Aktion 
+																		  ausführe. 
+																		  Aus 
+																		  zwei 
+																		  Gründen 
+																		  halte 
+																		  ich 
+																		  diesen 
+																		  Tipp 
+																		  allerdings 
+																		  für 
+																		  totalen 
+																		  Unsinn. 
+																		  Erstens 
+																		  verstärkt 
+																		  es nur 
+																		  noch 
+																		  mehr 
+																		  das 
+																		  "vor 
+																		  sich 
+																		  hinspielen", 
+																		  während 
+																		  die 
+																		  anderen 
+																		  nicht 
+																		  mitbekommen, 
+																		  was 
+																		  ich so 
+																		  fabriziere. 
+																		  Und 
+																		  zweitens 
+																		  ist es 
+																		  schlichtweg 
+																		  gar 
+																		  nicht 
+																		  immer 
+																		  möglich, 
+																		  nämlich 
+																		  dann, 
+																		  wenn 
+																		  ich 
+																		  z.B. 
+																		  über 
+																		  die 
+																		  Aktion 
+																		  Rekrutieren 
+																		  das 
+																		  Recht 
+																		  habe, 
+																		  einen 
+																		  Bonus 
+																		  zu 
+																		  erhalten, 
+																		  wenn 
+																		  meine 
+																		  direkten 
+																		  Nachbarn 
+																		  eben 
+																		  jene 
+																		  Aktion 
+																		  ausführen.
+																	  </div>
+<div>
+																		   </div>
+<div>
+																		  Und so 
+																		  spielt 
+																		  man 
+																		  lange 
+																		  vor 
+																		  sich 
+																		  hin, 
+																		  in den 
+																		  ersten 
+																		  Runden 
+																		  baut 
+																		  man 
+																		  sich 
+																		  seine 
+																		  Basis 
+																		  auf 
+																		  (was 
+																		  im 
+																		  Übrigen 
+																		  für 
+																		  die 
+																		  meisten 
+																		  Völker 
+																		  linear 
+																		  abläuft), 
+																		  wenn 
+																		  zwei 
+																		  Kontrahenten 
+																		  kämpfen, 
+																		  schaut 
+																		  man 
+																		  eine 
+																		  Weile 
+																		  zu… 
+																		  Und so 
+																		  beschleicht 
+																		  einen 
+																		  irgendwann 
+																		  das 
+																		  Gefühl, 
+																		  dass 
+																		  man 
+																		  eine 
+																		  lange, 
+																		  lange 
+																		  Zeit 
+																		  am 
+																		  Spieltisch 
+																		  sitzt, 
+																		  ohne 
+																		  eine 
+																		  Spannungskurve 
+																		  zu 
+																		  fühlen 
+																		  und zu 
+																		  erleben. 
+																		  Bis 
+																		  die 
+																		  ersten 
+																		  Sterne 
+																		  gesammelt 
+																		  sind, 
+																		  kann 
+																		  schon 
+																		  mal 
+																		  eine 
+																		  Stunde 
+																		  vergehen 
+																		  und 
+																		  irgendwann 
+																		  trifft 
+																		  es 
+																		  einen 
+																		  wie 
+																		  der 
+																		  Blitz: 
+																		  "Jetzt 
+																		  ist es 
+																		  vorbei? 
+																		  Hat 
+																		  sich 
+																		  das 
+																		  angedeutet?" 
+																		  - Es 
+																		  fehlt 
+																		  einfach 
+																		  eine 
+																		  gewisse 
+																		  Spannung, 
+																		  die 
+																		  mich 
+																		  den 
+																		  zeitlichen 
+																		  Koloss 
+																		  Scythe 
+																		  jedes 
+																		  Wochenende 
+																		  auf 
+																		  den 
+																		  Spieltisch 
+																		  bringen 
+																		  lassen 
+																		  möchte.</div>
+<div>
+																		   </div>
+<div>
+<strong>
+																		  Fazit:</strong></div>
+<div>
+																		  Scythe 
+																		  hat 
+																		  auf 
+																		  der 
+																		  SPIEL 
+																		  2016 
+																		  einen 
+																		  enormen 
+																		  Hype 
+																		  ausgelöst, 
+																		  man 
+																		  wollte 
+																		  dieses 
+																		  Materialungetüm 
+																		  sehen 
+																		  und 
+																		  spielen. 
+																		  Letzten 
+																		  Endes 
+																		  haben 
+																		  eben 
+																		  jene 
+																		  Vorschusslorbeeren 
+																		  dem 
+																		  Spiel 
+																		  meiner 
+																		  Meinung 
+																		  nach 
+																		  nicht 
+																		  ganz 
+																		  so gut 
+																		  getan, 
+																		  weil 
+																		  man 
+																		  nicht 
+																		  nur 
+																		  ein 
+																		  opulent 
+																		  ausgestattetes, 
+																		  sondern 
+																		  auch 
+																		  ein 
+																		  spielerisches 
+																		  Meisterwerk 
+																		  erwartet 
+																		  und 
+																		  erhofft 
+																		  hatte. 
+																		  Keine 
+																		  Frage, 
+																		  Scythe 
+																		  bleibt 
+																		  ein 
+																		  solides 
+																		  Spiel 
+																		  mit 
+																		  interessantem 
+																		  und 
+																		  thematischem 
+																		  Hintergrund, 
+																		  welches 
+																		  in 
+																		  puncto 
+																		  Spielablauf 
+																		  (Interaktion, 
+																		  Spieldauer, 
+																		  fehlender 
+																		  Spannungsbogen) 
+																		  allerdings 
+																		  einige 
+																		  Schwächen 
+																		  aufweist. 
+																		  Wer 
+																		  Sitzfleisch 
+																		  besitzt, 
+																		  wen 
+																		  Downtime 
+																		  und 
+																		  nicht 
+																		  im 
+																		  Zentrum 
+																		  stehende 
+																		  Interaktion 
+																		  nicht 
+																		  übermäßig 
+																		  stören, 
+																		  der 
+																		  sollte 
+																		  die 
+																		  nicht 
+																		  wenigen 
+																		  Euronen 
+																		  in die 
+																		  Hand 
+																		  nehmen 
+																		  und 
+																		  den 
+																		  Versuch 
+																		  wagen 
+																		  Herrscher 
+																		  von 
+																		  Osteuropa 
+																		  zu 
+																		  werden. 
+																		  Ich 
+																		  für 
+																		  meinen 
+																		  Teil 
+																		  werde 
+																		  es 
+																		  auch 
+																		  immer 
+																		  wieder 
+																		  mal 
+																		  versuchen 
+																		  – nur 
+																		  eben 
+																		  nicht 
+																		  jedes 
+																		  Wochenende.</div>
+</div>
+</div>
+</div>
+</div>
+<o:p>
+<span class="auto-style162" style='mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: "Times New Roman"'>
+													  ..</span></o:p></div>
+</div>
+</td>
+<td width="7"> </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="42" style="width: 122px"><b> <font color="#333333" face="Trebuchet MS" size="2"> </font><font color="#333333" face="Tahoma" style="font-size: 10pt">  </font> <font face="Tahoma" size="2">KULTFAKTOR<br/>
+</font> <font color="#999999" face="Tahoma" style="font-size: 6pt">      
+									      (Langzeit-)Spielreiz</font></b></td>
+<td bgcolor="#FFFFFF" height="42">
+<img border="0" height="25" src="skp1.jpg" width="26"/><img border="0" height="25" src="skp2.jpg" width="26"/><img border="0" height="25" src="skp3.jpg" width="26"/><img border="0" height="25" src="skp4.jpg" width="26"/><img border="0" height="25" src="skp5.jpg" width="26"/><img border="0" height="25" src="skp6.jpg" width="26"/><img border="0" height="25" src="skp7a.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/><img border="0" height="25" src="skp0.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#F38305" colspan="2" width="100%">
+<font color="#F38305"><span style="font-size: 4pt">Ende</span></font></td>
+</tr>
+<tr>
+<td class="auto-style131" colspan="2" width="100%">
+<font face="Tahoma" size="7">
+<b>
+<table border="0" cellpadding="0" cellspacing="0" id="table1751" width="100%">
+<tr>
+<td class="auto-style121" width="151"> </td>
+</tr>
+<tr>
+<td class="auto-style145" style="width: 480"><b>
+<font face="Tahoma" size="7">
+<font color="#333333" face="Trebuchet MS" size="2"> </font><font color="#333333" face="Tahoma" style="font-size: 10pt">  </font>
+</font></b><span class="auto-style149"><strong>
+						KULTFAKTOR: TEAM-TREND</strong>  
+						</span></td>
+</tr>
+<tr>
+<td class="auto-style157" style="width: 480">...</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" id="table1785" width="100%">
+<font face="Tahoma" size="7">
+<b>
+<tr>
+<td bgcolor="#FFFFFF" class="auto-style158" style="height: 30px; width: 31%">
+<font face="Trebuchet MS" size="2">
+<span class="auto-style154"> </span></font><font face="Tahoma" style="font-size: 10pt"><span class="auto-style154">  
+						</span> </font>
+<font face="Tahoma"><span class="auto-style152">Manuel</span></font></td>
+<td bgcolor="#FFFFFF" style="height: 30px" width="69%">
+<img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk3grau.jpg" width="26"/><img alt="" height="25" src="skkk4grau.jpg" width="26"/><img alt="" height="25" src="skk2grau.jpg" width="26"/><img alt="" height="25" src="skk5grau.jpg" width="26"/><img alt="" height="25" src="skkk6grau.jpg" width="26"/><img alt="" height="25" src="skkk7grau.jpg" width="26"/><img alt="" height="25" src="skkk8grau.jpg" width="26"/><img alt="" height="25" src="skk9grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="auto-style158" style="height: 30px; width: 31%">
+<font face="Trebuchet MS" size="2">
+<span class="auto-style154"> </span></font><font face="Tahoma" style="font-size: 10pt"><span class="auto-style154">  
+						</span> </font>
+<font face="Tahoma"><span class="auto-style152">Tobias</span></font></td>
+<td bgcolor="#FFFFFF" style="height: 30px" width="69%">
+<img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk3grau.jpg" width="26"/><img alt="" height="25" src="skkk4grau.jpg" width="26"/><img alt="" height="25" src="skk2grau.jpg" width="26"/><img alt="" height="25" src="skk5grau.jpg" width="26"/><img alt="" height="25" src="skkk6grau.jpg" width="26"/><img alt="" height="25" src="skkk7grau.jpg" width="26"/><img alt="" height="25" src="skkk8grau.jpg" width="26"/><img alt="" height="25" src="skk9grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="auto-style158" style="height: 30px; width: 31%">
+<font face="Trebuchet MS" size="2">
+<span class="auto-style154"> </span></font><font face="Tahoma" style="font-size: 10pt"><span class="auto-style154">  
+						</span> </font>
+<font face="Tahoma"><span class="auto-style152">Lutz</span></font></td>
+<td bgcolor="#FFFFFF" style="height: 30px" width="69%">
+<img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk3grau.jpg" width="26"/><img alt="" height="25" src="skkk4grau.jpg" width="26"/><img alt="" height="25" src="skk2grau.jpg" width="26"/><img alt="" height="25" src="skk5grau.jpg" width="26"/><img alt="" height="25" src="skkk6grau.jpg" width="26"/><img alt="" height="25" src="skkk7grau.jpg" width="26"/><img alt="" height="25" src="skk8grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="auto-style158" style="height: 30px; width: 31%">
+<font face="Trebuchet MS" size="2">
+<span class="auto-style154"> </span></font><font face="Tahoma" style="font-size: 10pt"><span class="auto-style154">  
+						</span> </font>
+<font face="Tahoma"><span class="auto-style152">Ulf</span></font></td>
+<td bgcolor="#FFFFFF" style="height: 30px" width="69%">
+<img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk3grau.jpg" width="26"/><img alt="" height="25" src="skkk4grau.jpg" width="26"/><img alt="" height="25" src="skk2grau.jpg" width="26"/><img alt="" height="25" src="skk5grau.jpg" width="26"/><img alt="" height="25" src="skkk6grau.jpg" width="26"/><img alt="" height="25" src="skkk7grau.jpg" width="26"/><img alt="" height="25" src="skk8grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="auto-style158" style="height: 30px; width: 31%">
+<font face="Trebuchet MS" size="2">
+<span class="auto-style154"> </span></font><font face="Tahoma" style="font-size: 10pt"><span class="auto-style154">  
+						</span> </font>
+<font face="Tahoma"><span class="auto-style160">
+						Dän</span></font></td>
+<td bgcolor="#FFFFFF" style="height: 30px" width="69%">
+<font face="Tahoma" size="7">
+<b>
+<img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk3grau.jpg" width="26"/><img alt="" height="25" src="skkk4grau.jpg" width="26"/><img alt="" height="25" src="skk2grau.jpg" width="26"/><img alt="" height="25" src="skk5grau.jpg" width="26"/><img alt="" height="25" src="skkk6grau.jpg" width="26"/><img alt="" height="25" src="skk7grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/><img alt="" height="25" src="skkk1grau.jpg" width="26"/></b></font></td>
+</tr>
+<tr>
+<td class="auto-style148" colspan="2" width="100%">
+						Ende</td>
+</tr>
+<tr>
+<td class="auto-style121" colspan="2">
+						 </td>
+</tr>
+<tr>
+<td class="auto-style29" colspan="2">
+<p class="auto-style28">
+<strong><span class="auto-style5">Ein Wort 
+									in eigener Sache</span></strong></p><div class="auto-style15">
+<div class="auto-style31">
+<font size="2">Seit 2007 berichtet
+											<strong>SPIELKULT.de</strong> nun 
+											schon aus der Welt der Brettspiele.</font></div>
+<div class="auto-style31">
+											Was viele von euch nicht wissen:
+										</div>
+<div class="auto-style31">
+											Bei<strong> SPIELKULT.de</strong> 
+											handelt es sich nachwievor um ein 
+											Projekt, an dem alle Rezensenten 
+											ehrenamtlich, ohne Bezahlung, 
+											arbeiten!</div>
+<div class="auto-style31">
+											Natürlich verursacht ein solches 
+											Projekt trotzdem Kosten, welche wir
+										</div>
+<div class="auto-style31">
+											mithilfe von Werbeanzeigen 
+											versuchen, ein wenig aufzufangen.
+										</div>
+<div class="auto-style31">
+											 </div>
+<div class="auto-style31">
+											Um euch jedoch weiterhin dauerhaft 
+											ein tägliches Angebot bieten zu 
+											können,</div>
+<div class="auto-style31">
+											sind wir künftig auf weitere 
+											Unterstützungen angewiesen.</div>
+<div class="auto-style31">
+											 </div>
+<div class="auto-style31">
+											Da wir <strong>SPIELKULT.de</strong> 
+											für unsere Leser auch in der Zukunft 
+											komplett kostenfrei anbieten werden, 
+											könnt ihr uns - wenn euch unsere 
+											Seite gefällt - gern einen 
+											freiwilligen Support zukommen 
+											lassen.  Wir würden uns freuen, wenn 
+											ihr unsere Arbeit dann einfach mit 
+											einem beliebigen Geldbetrag über 
+											eine PayPal-Spende honorieren würdet 
+											- jeder Euro zählt. So kann jeder 
+											selbst entscheiden, </div>
+<div class="auto-style31">
+											ob und was ihm unser Onlinemagazin 
+											wert ist. </div>
+<div class="auto-style31">
+											 </div>
+<div class="auto-style33">
+											Natürlich handelt es sich bei jeder 
+											Spende um eine einmalige Zahlung</div>
+<div class="auto-style33">
+											ohne jegliche weitere 
+											Verpflichtungen!</div>
+<font size="2">
+<div class="auto-style31">
+											 </div>
+<div class="auto-style31">
+											Schon jetzt danken wir euch herzlich 
+											im Voraus! </div>
+<div class="auto-style31">
+											Eure <strong>SPIELKULT.de</strong>-Redaktion</div>
+</font><br/><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="JTMUE82BTGQPU"/>
+<input alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal." border="0" name="submit" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1"/>
+</form>
+</div>
+</td>
+</tr>
+<tr>
+<td class="auto-style15" colspan="2">
+<font color="#000000" face="Tahoma" id="role_document636">
+<font color="#000000" face="Tahoma" id="role_document637" style="font-size: 10pt">
+<font color="#000000" face="Tahoma" id="role_document638">
+<font color="#000000" face="Tahoma" id="role_document639" style="font-size: 10pt">
+<font color="#000000" face="Tahoma" id="role_document640">
+<font color="#000000" face="Tahoma" id="role_document641" style="font-size: 10pt">
+<font color="#000000" face="Tahoma" id="role_document642">
+<font color="#000000" face="Tahoma" id="role_document643" style="font-size: 10pt">
+<font color="#000000" face="Tahoma" id="role_document644" style="font-size: 8pt">
+<font color="#000000" face="Tahoma" id="role_document645" size="2">
+<font color="#000000" face="Tahoma" id="role_document646" size="2">
+<img border="0" height="10" src="skfotoende.jpg" width="480"/></font></font></font></font></font></font></font></font></font></font></font></td>
+</tr>
+<tr>
+<td class="auto-style15" colspan="2"> 
+						</td>
+</tr>
+</b></font></table>
+</td>
+</tr>
+</table>
+</b></font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</b></font></table></td>
+</tr>
+</table>
+</td>
+<td> </td>
+</tr>
+</table>
+</td>
+<td width="7">
+<img border="0" height="1" src="borbachfueller15.jpg" width="15"/></td>
+<td valign="top" width="143"><b>
+<font color="#FF6600" face="Tahoma">
+<span style="font-size: 8pt"><br/>
+   &gt; <a href="https://www.spielkult.de/testlegende.htm" style="text-decoration: none"><font color="#FF6600">
+								So testen wir 
+						</font></a></span></font></b>
+<table border="0" cellpadding="0" cellspacing="0" id="table1755" width="95%">
+<tr>
+<td width="5"> </td>
+<td> </td>
+<td> </td>
+<td width="5"> </td>
+</tr>
+<tr>
+<td width="5"> </td>
+<td> 
+								</td>
+<td>
+<b>
+<font color="#333333" face="Tahoma" style="font-size: 13pt">Alle Spiele<br/>
+								von A bis Z:</font><font color="#333333" face="Tahoma" size="4"><br/>
+ </font></b><table border="0" bordercolordark="#FF6600" bordercolorlight="#FF6600" cellpadding="0" cellspacing="0" id="table1756" width="74%">
+<tr>
+<td align="center" background="hgaz1.GIF" bgcolor="#FF6600" height="17" nowrap="" width="100">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+								Auswahl</font></td>
+</tr>
+<tr>
+<th bgcolor="#CCCCCC" height="20" nowrap="" width="20">
+<table border="1" bordercolor="#FF6600" cellpadding="0" cellspacing="0" id="table1757" style="border-collapse: collapse" width="102">
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<a href="https://www.spielkult.de/testgesamt0.htm" style="text-decoration: none">
+<b><font face="Verdana" style="font-size: 10pt">#</font></b></a></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<a href="https://www.spielkult.de/testgesamta.htm" style="text-decoration: none">
+<b><font face="Verdana" style="font-size: 10pt">A</font></b></a></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtb.htm" style="text-decoration: none">B</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtc.htm" style="text-decoration: none">C</a></font></b></td>
+</tr>
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtd.htm" style="text-decoration: none">D</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamte.htm" style="text-decoration: none">E</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtf.htm" style="text-decoration: none">F</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtg.htm" style="text-decoration: none">G</a></font></b></td>
+</tr>
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamth.htm" style="text-decoration: none">H</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamti.htm" style="text-decoration: none">I</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtj.htm" style="text-decoration: none">J</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtk.htm" style="text-decoration: none">K</a></font></b></td>
+</tr>
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtl.htm" style="text-decoration: none">L</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtm.htm" style="text-decoration: none">M</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtn.htm" style="text-decoration: none">N</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamto.htm" style="text-decoration: none">O</a></font></b></td>
+</tr>
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtp.htm" style="text-decoration: none">P</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtq.htm" style="text-decoration: none">Q</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtr.htm" style="text-decoration: none">R</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamts.htm" style="text-decoration: none">S</a></font></b></td>
+</tr>
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtt.htm" style="text-decoration: none">T</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtu.htm" style="text-decoration: none">U</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtv.htm" style="text-decoration: none">V</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtw.htm" style="text-decoration: none">W</a></font></b></td>
+</tr>
+<tr>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="23">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtx.htm" style="text-decoration: none">X</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="24">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamty.htm" style="text-decoration: none">Y</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="22">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamtz.htm" style="text-decoration: none">Z</a></font></b></td>
+<td align="center" background="hgaz2a.GIF" bgcolor="#BFBFBF" height="20" nowrap="" width="25">
+<b><font face="Verdana" style="font-size: 10pt">
+<a href="https://www.spielkult.de/testgesamt0.htm" style="text-decoration: none">#</a></font></b></td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th background="hgaz2a1.GIF" bgcolor="#FF6600" nowrap="" width="20"> 
+								</th>
+</tr>
+</table>
+<p> </p></td>
+<td width="5"> </td>
+</tr>
+</table>
+<p> </p></td>
+<td background="punkteorange.gif" width="6"> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td valign="top" width="146">
+<table border="0" cellpadding="0" cellspacing="0" id="table1758" width="100%">
+<tr>
+<td><a href="https://www.spielkult.de/banner.htm">
+<img alt="" class="auto-style1" height="600" src="banner1.jpg" width="130"/></a></td>
+</tr>
+<tr>
+<td> 
+				</td>
+</tr>
+</table>
+<p> </p></td>
+</tr>
+<tr>
+<td valign="top" width="10"> 
+										</td>
+<td valign="top" width="10"> 
+										</td>
+<td valign="top" width="4"> 
+										</td>
+<td nowrap="" valign="top" width="841"> 
+										</td>
+<td width="146"> </td>
+</tr>
+<tr>
+<td background="hgteamtitel.jpg" bgcolor="#111111" valign="top" width="10"> 
+										</td>
+<td background="hgteamtitel.jpg" bgcolor="#111111" valign="top" width="10"> 
+										</td>
+<td background="hgteamtitel.jpg" bgcolor="#111111" valign="top" width="4"> 
+										</td>
+<td background="hgteamtitel.jpg" bgcolor="#111111" colspan="2" nowrap="">
+<table border="0" cellpadding="0" cellspacing="0" id="table1759" width="100%">
+<tr>
+<td width="184">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<a href="https://www.spielkult.de/impressum.htm" style="text-decoration: none">(C) 
+										SPIELKULT.de</a> </font></td>
+<td>
+<a href="#top" style="text-decoration: none" title="nach oben">
+<font color="#E2E2E2" face="Tahoma" style="font-size: 8pt; font-weight: 700; background-color: #FFFFFF">^</font><font color="#4B4B4B" face="Tahoma" style="font-size: 8pt; font-weight: 700; background-color: #FFFFFF">^</font><font color="#E2E2E2" face="Tahoma" style="font-size: 8pt; font-weight: 700; background-color: #FFFFFF">^</font></a><font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700"><span class="auto-style95">      
+										</span>
+<a class="auto-style210" href="https://www.spielkult.de/impressum.htm">
+<span class="auto-style95">Impressum</span></a><span class="auto-style95">      
+										</span>
+<a class="auto-style211" href="https://www.spielkult.de/datenschutz.htm">
+<span class="auto-style95">Datenschutz</span></a></font></td>
+<td>
+<p align="right">
+<font color="#FFFFFF" face="Tahoma" style="font-size: 8pt; font-weight: 700">
+<span> </span></font></p></td>
+</tr>
+</table>
+</td>
+<td background="hgteamtitel.jpg" bgcolor="#111111" valign="top" width="4"> 
+		</td>
+<td background="hgteamtitel.jpg" bgcolor="#111111" valign="top" width="4"> 
+		</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p> </p>
+</center>
+</body>
+</html>

@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-DE">
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<link href="/typo3conf/ext/salem/Resources/Public/Icons/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<title>Salem Kolleg | Erleben. Verstehen. Entscheiden.</title>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="Abitur, und dann? Orientierungsjahr mit Studium Generale und Outdoor Training am Bodensee. Jetzt bewerben! Für Dein Orientierungsjahr am Salem Kolleg." name="description"/>
+<meta content="width=device-width, height=device-height, initial-scale=1, user-scalable=no" name="viewport"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="telephone=no" name="format-detection"/>
+<link href="https://www.salemkolleg.de/de/" rel="canonical"/>
+<link href="/typo3temp/assets/vhs-assets-4abed1c996f46e1b2ad61757af46ece4.css?1605018879" rel="stylesheet"/>
+<link href="/typo3temp/assets/vhs-assets-a6d9ecf7b7b44dd8520473160efd0bad.css?1605082264" rel="stylesheet"/>
+</head>
+<body>
+<header class="header header--kolleg">
+<div class="block block--header">
+<div class="block__content">
+<div class="header__logo">
+<a href="/"><img src="/typo3conf/ext/salem/Resources/Public/Icons/kolleg_logo_white.svg"/></a>
+<a href="/"><img src="/typo3conf/ext/salem/Resources/Public/Icons/kolleg_logo_white_slogan.svg"/></a>
+</div>
+<div class="header__mobile">
+<div class="header__hamburger"></div>
+<div class="header__logo">
+<a href="/"><img src="/typo3conf/ext/salem/Resources/Public/Icons/kolleg_logo_white.svg"/></a>
+</div>
+<a class="header__language" href="/de/header/english">
+<img alt="" class="header__globe" height="20" src="/typo3conf/ext/salem/Resources/Public/Icons/globe.svg" width="20"/>
+</a>
+</div>
+<div class="header__promo">
+<a class="link" href="/de/salem-kolleg/organisation/anfahrt/kontaktformular">Nachricht schreiben</a>
+<a class="link" href="/de/bewerbung/aufnahmeverfahren/auf-einen-blick">Jetzt bewerben!</a>
+</div>
+<div class="header__nav-container">
+<div class="header__virtual-nav nav__first">
+<div class="nav__entry " data-key="70">
+							Salem | Kolleg
+						</div>
+<div class="nav__entry " data-key="74">
+							Orientierungsjahr
+						</div>
+<div class="nav__entry " data-key="75">
+							Curriculum
+						</div>
+<div class="nav__entry " data-key="77">
+							Bewerbung
+						</div>
+<div class="nav__entry " data-key="76">
+							Kollegiaten
+						</div>
+<a class="nav__entry nav__entry--social" href="https://www.facebook.com/SalemKolleg/">
+<img alt="" height="17" src="/typo3conf/ext/salem/Resources/Public/Icons/facebook.svg" width="7"/>
+</a>
+<a class="nav__entry nav__entry--social" href="https://www.linkedin.com/company/salem-kolleg-ggmbh">
+<img alt="" height="14" src="/typo3conf/ext/salem/Resources/Public/Icons/linkedin.svg" width="13"/>
+</a>
+<a class="nav__entry nav__entry--social" href="https://www.instagram.com/salem_kolleg">
+<img alt="" height="15" src="/typo3conf/ext/salem/Resources/Public/Icons/instagram.svg" width="15"/>
+</a>
+<a class="nav__entry nav__entry--social" href="https://www.youtube.com/channel/UCNT3dMt2d1l_vnwG8ZT5AxQ">
+<img alt="" height="10" src="/typo3conf/ext/salem/Resources/Public/Icons/youtube.svg" width="14"/>
+</a>
+<a class="header__language nav__entry nav__entry--social" href="/de/header/english">
+<img alt="" class="header__globe" height="20" src="/typo3conf/ext/salem/Resources/Public/Icons/globe.svg" width="20"/>
+						English
+					</a>
+<div class="header_sl-wrapper"></div>
+<img alt="" class="header__stickylogo" height="51" src="/typo3conf/ext/salem/Resources/Public/Icons/kolleg_logo_minimal.svg" width="51"/>
+</div>
+<nav class="nav" data-level="1">
+<div class="nav__column nav__column--visible-mobile nav__first" data-key="all">
+<nav class="nav__entries">
+<div class="nav__entry" data-key="70">
+									Salem | Kolleg
+								</div>
+<div class="nav__entry" data-key="74">
+									Orientierungsjahr
+								</div>
+<div class="nav__entry" data-key="75">
+									Curriculum
+								</div>
+<div class="nav__entry" data-key="77">
+									Bewerbung
+								</div>
+<div class="nav__entry" data-key="76">
+									Kollegiaten
+								</div>
+</nav>
+<div class="nav__entry nav__close"></div>
+</div>
+<div class="nav__content row">
+<div class="nav__column col-xs-12" data-key="70" data-level="2">
+<div class="nav__row" style="background: white;">
+<div class="row" style="max-width: 1200px; margin: auto;">
+<div class="col-xs-12 col-md-3 nav__padding 70">
+<div class="row">
+<div class="nav__back col-xs-12" data-final="" data-key="all">
+													Salem | Kolleg
+												</div>
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/salem-kolleg/erleben-verstehen-entscheiden/das-jahr-am-salem-kolleg">Erleben. Verstehen. Entscheiden.</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/erleben-verstehen-entscheiden/das-jahr-am-salem-kolleg">Das Jahr am Salem | Kolleg</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/erleben-verstehen-entscheiden/hochschulkooperation">Hochschulkooperation</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/erleben-verstehen-entscheiden/partner-foerderer">Partner &amp; Förderer</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/salem-kolleg/rund-um-den-campus/ueberblick">Rund um den Campus</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/rund-um-den-campus/ueberblick">Das Leben auf dem Campus</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/rund-um-den-campus/freizeitangebote">Freizeitangebote</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/rund-um-den-campus/ergaenzende-aktivitaeten">Ergänzende Aktivitäten</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/salem-kolleg/organisation/aktuelles">Organisation</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/organisation/aktuelles">Aktuelles &amp; Termine</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/organisation/ansprechpartner">Ansprechpartner</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/organisation/news">News</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/organisation/anfahrt">Kontakt &amp; Anfahrt</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/salem-kolleg/organisation/stellenangebote">Stellenangebote</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav__column col-xs-12" data-key="74" data-level="2">
+<div class="nav__row" style="background: white;">
+<div class="row" style="max-width: 1200px; margin: auto;">
+<div class="col-xs-12 col-md-3 nav__padding 74">
+<div class="row">
+<div class="nav__back col-xs-12" data-final="" data-key="all">
+													Orientierungsjahr
+												</div>
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/orientierungsjahr/studien-und-berufswahl/beratungsgespraeche">Studien- und Berufswahl</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/studien-und-berufswahl/beratungsgespraeche">Beratungsgespräche</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/studien-und-berufswahl/selbsterkundung">Selbsterkundung</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/studien-und-berufswahl/informationsveranstaltungen">Informationsveranstaltungen</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/studien-und-berufswahl/abendvortraege">Abendvorträge</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/orientierungsjahr/outdoor-education/exkursionen">Outdoor Education</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/outdoor-education/exkursionen">Exkursionen</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/outdoor-education/leadership-training">Leadership Training</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/outdoor-education/personal-challenge">Personal Challenge</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/outdoor-education/outdoor-erste-hilfe">Outdoor-Erste-Hilfe</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/orientierungsjahr/projekt-soziale-wirklichkeit/projektvorstellung">Projekt "Soziale Wirklichkeit"</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/projekt-soziale-wirklichkeit/projektvorstellung">Projektvorstellung</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/orientierungsjahr/projekt-soziale-wirklichkeit/themen-aus-der-vergangenheit">Projektthemen</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav__column col-xs-12" data-key="75" data-level="2">
+<div class="nav__row" style="background: white;">
+<div class="row" style="max-width: 1200px; margin: auto;">
+<div class="col-xs-12 col-md-3 nav__padding 75">
+<div class="row">
+<div class="nav__back col-xs-12" data-final="" data-key="all">
+													Curriculum
+												</div>
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/curriculum/studium-generale/erleben-und-verstehen">Studium Generale</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/studium-generale/erleben-und-verstehen">Studium Generale - Erleben und Verstehen</a>
+</div>
+<div class="row" style="padding-top:0;">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/curriculum/sport-sprache-theater/sport">Sport, Sprache &amp; Theater</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/sport-sprache-theater/sport">Sport</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/sport-sprache-theater/sprache">Sprachen</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/sport-sprache-theater/theater">Theater</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften">Studium Generale / Naturwissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften/mathematik-und-statistik">Mathematik und Statistik</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften/ingenieurwissenschaften">Ingenieurwissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften/nanowissenschaften">Nanowissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curicculum/naturwissenschaften/medizin/zahnmedizin">Medizin</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften/klinische-psychologie">Klinische Psychologie</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften/sportwissenschaften">Sportwissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/naturwissenschaften/einfuehrung-in-das-programmieren-python">Einführung in das Programmieren - Python</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften">Studium Generale / Gesellschaftswissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/bwl/marketing">BWL/VWL</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/macht-und-gewalt">Theorien zum Rassismus</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/mobilitaeten-soziale-welten-in-bewegung">Mobilitäten. Soziale Welten in Bewegung</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/rechtswissenschaften">Rechtswissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/internationale-politik">Einführung in die Politikwissenschaft</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/internationale-politik-1">Internationale Politik</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/gesellschaftswissenschaften/kommunikationsdesign">Kommunikationsdesign</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften">Studium Generale / Geisteswissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/philosophie">Philosophie</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/digital-storytelling">Digital Storytelling</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/europa-aus-kulturwissenschaftlicher-perspektive">Kulturwissenschaften</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/literatur-kunst-medien">Literatur, Kunst, Medien</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/psychologie">Psychologie</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/didaktik">Geschichte und Religion</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/neue-medien-und-marketing">Neue Medien und Marketing</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/curriculum/geisteswissenschaften/brexit-geschichte-und-gegenwart">Brexit: Geschichte und Gegenwart</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav__column col-xs-12" data-key="77" data-level="2">
+<div class="nav__row" style="background: white;">
+<div class="row" style="max-width: 1200px; margin: auto;">
+<div class="col-xs-12 col-md-3 nav__padding 77">
+<div class="row">
+<div class="nav__back col-xs-12" data-final="" data-key="all">
+													Bewerbung
+												</div>
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/bewerbung/aufnahmeverfahren/auf-einen-blick">Aufnahmeverfahren</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/aufnahmeverfahren/auf-einen-blick">Auf einen Blick</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/fragen-antworten/persoenliches-1">Finanzierung</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/aufnahmeverfahren/teil-stipendien">Teilstipendien</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/bewerbung/informationsmaterial/downloads">Informationsmaterial</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/informationsmaterial/downloads">Downloads</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/informationsmaterial/broschuere-anfordern">Broschüre anfordern</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/bewerbung/fragen-antworten/organisatorisches">Fragen &amp; Antworten</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/fragen-antworten/organisatorisches">Organisatorisches</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/bewerbung/fragen-antworten/benefits">Benefits</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav__column col-xs-12" data-key="76" data-level="2">
+<div class="nav__row" style="background: white;">
+<div class="row" style="max-width: 1200px; margin: auto;">
+<div class="col-xs-12 col-md-3 nav__padding 76">
+<div class="row">
+<div class="nav__back col-xs-12" data-final="" data-key="all">
+													Kollegiaten
+												</div>
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/kollegiaten/kollegiaten/erfahrungen">Kollegiaten &amp; Kollegiatinnen</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/kollegiaten/kollegiaten/erfahrungen">Erfahrungen</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/kollegiaten/alumni/netzwerk">Alumni Netzwerk</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/kollegiaten/alumni/studienorte">Alumni Studienorte</a>
+</div>
+</div>
+<div class="col-xs-12 col-md-3 nav__padding">
+<div class="row">
+<a class="nav__entry nav__entry--title col-xs-12" data-final="" href="/de/kollegiaten/bildergalerie/eroeffnungsfeier">Bildergalerie</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/kollegiaten/kollegiaten/jahrgangsbilder">Jahrgangsbilder</a>
+<a class="nav__entry col-xs-12" data-final="" href="/de/kollegiaten/bildergalerie/eroeffnungsfeier">Eröffnungsfeier 2013</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<section class="content">
+<div class="hero-slider hero-slider--kolleg">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="hero-slider__slide">
+<div class="hero-slider__picture">
+<img class="hero-image" src="/fileadmin/salem_kolleg/01_index/campus-hearlen-hauptgebaeude.jpg"/>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hero-slider__slide">
+<div class="hero-slider__picture">
+<img class="hero-image" src="/fileadmin/salem_kolleg/01_index/kollegiaten-bibliothek-zuhoeren-2019-2018.jpg"/>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hero-slider__slide">
+<div class="hero-slider__picture">
+<img class="hero-image" src="/fileadmin/salem_kolleg/01_index/frisbee-kollegiaten-gemeinschaft.jpg"/>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hero-slider__slide">
+<div class="hero-slider__picture">
+<img class="hero-image" src="/fileadmin/salem_kolleg/01_index/kanutour-bodensee-ueberlingen.jpg"/>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-button swiper-button-prev"></div>
+<div class="swiper-button swiper-button-next"></div>
+</div>
+</div>
+<div class="block block--gray block--padding-horizontal">
+<div class="block__content row">
+<div class="col-xs-12">
+<div class="breadcrumbs">
+<a class="breadcrumbs__item" href="/">
+                        Start
+                    </a>
+</div>
+</div>
+</div>
+</div>
+<div class="block block--gray block--padding-top block--padding-bottom block--padding-horizontal frame-layout-0" id="c672">
+<div class="block__content row">
+<div class="col-xs-12 col-sm-7">
+<div class="frame-layout-0" id="c673">
+<h1 class="block__title">
+                    Abitur, und dann?
+                </h1>
+<h2 class="block__subtitle margin-bottom--l">
+            Orientierungsjahr mit Studium Generale und Outdoor Training am Bodensee!
+        </h2>
+<div class="text margin-top--s ">
+<p>Das Salem Kolleg gibt in einem Orientierungsjahr nach dem Abitur vertiefende Einblicke in die Natur-, Geistes- und Gesellschaftswissenschaften. Das Angebot, das auch eine umfassende Studien- und Berufswahlberatung beinhaltet, richtet sich an Abiturienten mit breiten Interessen, die sich für eine begründete Studienwahl Zeit nehmen und sich selbstverantwortlich mit komplexen Herausforderungen auseinandersetzen wollen.</p>
+<p><strong>So wie die Kollegiatinnen und Kollegiaten des Jahrgangs 2019/2020:</strong></p>
+</div>
+</div>
+<div class="youtube-container margin-top--s">
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/c_IW8-H0dBc"></iframe>
+</div>
+<div class="card margin-top--l block--padding-bottom frame-layout-0" id="c8362">
+</div>
+</div>
+<div class="col-xs-12 col-sm-offset-1 col-sm-4">
+<div class="card block--padding-top block--padding-bottom frame-layout-0" id="c6417">
+<div class="card__image">
+<img alt='Grünes Banner "Jetzt bewerben!"' height="139" src="/fileadmin/salem_kolleg/01_index/jetzt-bewerben-scribble-gruen.png" width="300"/>
+</div>
+<div class="card__content" id="c6885">
+</div><div class="card__content" id="c6416">
+<p>Jetzt bis zum 31.12.2020 für die erste Auswahlrunde bewerben.</p>
+<p><a class="link" href="/de/bewerbung/aufnahmeverfahren/auf-einen-blick" title="Zur Bewerbung.">Zur Bewerbung</a></p>
+</div>
+</div>
+<div class="card margin-top--l frame-layout-0" id="c4036">
+<div class="card__title">Kontakt</div>
+<div class="card__content" id="c4035">
+<p>Sie haben Fragen? Wünsche? Anregungen? Gerne können Sie uns telefonisch oder über das Kontaktformular erreichen.</p>
+<p><strong>Tel.: +49 7553 919 610 </strong><br/> <a class="link" href="/de/salem-kolleg/organisation/anfahrt/kontaktformular" target="_top" title="Nachricht schreiben!">Nachricht schreiben</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block--gray block--padding-bottom block--padding-horizontal frame-layout-0" id="c3953">
+<div class="block__content row">
+<div class="col-xs-12">
+<div class="card frame-layout-0" id="c3960">
+<div class="card__title">Das Angebot am Salem | Kolleg</div>
+<div class="row card__imageboxes">
+<div class="col-xs-12 col-sm-6">
+<div class="imagebox">
+<img alt="Drei Kollegiaten sitzen am Campus Härlen zusammen an einem Tisch mit Getränken und lachen" height="600" src="/fileadmin/salem_kolleg/01_index/studium-generale-lernen.jpg" title="Salem Kolleg | Studium Generale" width="1000"/>
+<div class="imagebox__caption">
+<div class="imagebox__caption-title">Studium Generale</div>
+<a class="imagebox__caption-link link" href="/de/curriculum/studium-generale/erleben-und-verstehen" target="_top" title="Erleben und Verstehen">Erleben &amp; Verstehen
+            </a>
+</div>
+</div>
+</div><div class="col-xs-12 col-sm-6">
+<div class="imagebox">
+<img alt="Studienberater Dr. Günter Klause und ein Kollegiat unterhalten sich" height="600" src="/fileadmin/salem_kolleg/01_index/beratungsgespraech-kollegiat.jpg" title="Salem Kolleg | Orientierung" width="1000"/>
+<div class="imagebox__caption">
+<div class="imagebox__caption-title">Orientierung</div>
+<a class="imagebox__caption-link link" href="/de/orientierungsjahr/studien-und-berufswahl/beratungsgespraeche" target="_top">Studien-&amp; Berufswahl
+            </a>
+</div>
+</div>
+</div><div class="col-xs-12 col-sm-6">
+<div class="imagebox">
+<img alt="Gruppenfoto einer Outdoor-Gruppe in einer Berglandschaft" height="600" src="/fileadmin/salem_kolleg/01_index/outdoor-education-berge.jpg" title="Salem Kolleg | Outdoor Education" width="1000"/>
+<div class="imagebox__caption">
+<div class="imagebox__caption-title">Outdoor Education</div>
+<a class="imagebox__caption-link link" href="/de/orientierungsjahr/outdoor-education/exkursionen" target="_top" title="Exkursionen">Exkursionen
+            </a>
+</div>
+</div>
+</div><div class="col-xs-12 col-sm-6">
+<div class="imagebox">
+<img alt="Vier Kollegiatinnen stehen auf einer Brücke mit dem Roggendorfer Haus in Düsseldorf im Hintergrund." height="600" src="/fileadmin/salem_kolleg/01_index/projekt-soziale-wirklichkeit-kollegiaten.jpg" title="Salem Kolleg | Projekt Soziale Wirklichkeit" width="1000"/>
+<div class="imagebox__caption">
+<div class="imagebox__caption-title">Soziale Wirklichkeit</div>
+<a class="imagebox__caption-link link" href="/de/orientierungsjahr/projekt-soziale-wirklichkeit/projektvorstellung" target="_top" title="PSW">Projektvorstellung
+            </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block--padding-top block--padding-bottom frame-layout-0" id="c4564">
+<div class="block__content">
+<div class="banner banner--tour banner--kolleg">
+<div class="banner__background">
+<img alt="Eine Grafik stellt den Campus Härlen nach und ist mit Ortsmarkierungen und einer Legende versehen." height="1101" src="/fileadmin/salem_kolleg/01_index/lageplan-haerlen-no-bg.png" title="Salem Kolleg | Lageplan Campus Härlen" width="1920"/>
+</div>
+<div class="banner__wrapper">
+<div class="banner__title">Salem | Kolleg</div>
+<a class="banner__link link" href="/de/salem-kolleg/organisation/anfahrt">
+            Anfahrt
+        </a>
+</div>
+</div>
+</div>
+</div>
+<div class="block frame-layout-0" id="c8571">
+<div class="block__content sidebarbox row">
+<div class="col-xs-12 col-sm-4 sidebarbox__sidebar sidebarbox__sidebar--blue">
+<div class="sidebarbox__sidebar-title">
+				Veranstaltungen
+			</div>
+<div class="frame-layout-0" id="c8572">
+<div class="text margin-top--s ">
+<p><strong>12. Sept. 2020</strong><br/> Beginn Kollegjahr 2020/2021</p>
+<p><strong>14. Sept. 2020 — 19. Sept. 2020</strong><br/> Einführungswoche</p>
+<p><strong>28. Sept. 2020 — 02.Okt. 2020</strong><br/> Outdoor Exkursion I</p>
+<p><strong>20. Nov. 2020 — 22. Nov. 2020</strong><br/> Chor/Orchester Probenwochenende</p>
+<p><strong>18. Dez. 2020</strong><br/> Weihnachtskonzert</p>
+<p><strong>19. Dez. 2020 — 10. Jan. 2021</strong><br/> Weihnachtsferien</p>
+<p> </p>
+</div>
+</div>
+<a class="sidebarbox__sidebar-link link" href="/de/salem-kolleg/organisation/aktuelles">
+						Alle Veranstaltungen
+					</a>
+</div>
+<div class="col-xs-12 col-sm-8 sidebarbox__box">
+<div class="sidebarbox__box-title">
+				News
+			</div>
+<div class="frame frame-default frame-type-list frame-layout-0" id="c8573"><div class="card margin-top--m "><div class="row card__news"><div class="col-xs-12 col-sm-4 card__news-item"><div class="card card--news"><div class="card__image"><img alt="" height="177" src="/fileadmin/salem_kolleg/02_Salem_Kolleg/C_Organisation/05_News/Annalisa_Schaenzle_Outdoor_Exkursion_web.jpg" width="266"/></div><div class="card__content"><div class="text">
+            03.10.2020
+        </div><div class="text text--bold">Outdoor Exkursion - Bergerlebnisse im Allgäu!</div><div class="text margin-top--xs margin-bottom--xs"><p>Nach den ersten zwei Eingewöhnungswochen auf dem Campus im September stand die erste Outdoor Exkursion an. Für die Kollegiaten ging es dabei im Allgäu hoch hinaus!</p></div><a class="link" href="/de/salem-kolleg/organisation/news/artikel/outdoor-exkursion-bergerlebnisse-im-allgaeu" title="Outdoor Exkursion - Bergerlebnisse im Allgäu!">
+            Weiterlesen
+        </a></div></div></div><div class="col-xs-12 col-sm-4 card__news-item"><div class="card card--news"><div class="card__image"><img alt="" height="584" src="/fileadmin/salem_kolleg/02_Salem_Kolleg/C_Organisation/05_News/Salem_Kolleg_Gruppenfoto_2020_3417_quer.jpg" width="876"/></div><div class="card__content"><div class="text">
+            12.09.2020
+        </div><div class="text text--bold">Herzlich Willkommen! Das ist unser achter Jahrgang.</div><div class="text margin-top--xs margin-bottom--xs"><p>Am 12. September fand die Einführungsveranstaltungen für unseren achten Salem Kolleg Jahrgang statt. Wir heißen alle 45 Kollegiatinnen und Kollegiaten herzlich auf dem Campus Härlen für Ihr Orientierungsjahr mit Studium Generale willkommen!</p></div><a class="link" href="/de/salem-kolleg/organisation/news/artikel/herzlich-willkommen-das-ist-unser-achter-jahrgang" title="Herzlich Willkommen! Das ist unser achter Jahrgang.">
+            Weiterlesen
+        </a></div></div></div><div class="col-xs-12 col-sm-4 card__news-item"><div class="card card--news"><div class="card__image"><img alt="" height="584" src="/fileadmin/salem_kolleg/02_Salem_Kolleg/C_Organisation/05_News/triathlon_1_01.jpg" width="880"/></div><div class="card__content"><div class="text">
+            03.09.2020
+        </div><div class="text text--bold">Das Salem Kolleg Team nimmt am virtuellen Triathlon teil</div><div class="text margin-top--xs margin-bottom--xs"><p>Das Salem Kolleg Team nimmt dieses Jahr am Volksbank Überlingen - DEIN virtueller TRIATHLON / MARATHON teil. Der Triathlon ist dank der Volksbank Überlingen auch noch für einen guten Zweck! Pro Wettkampf werden 10 Euro an eine Schule in der Region gespendet.</p></div><a class="link" href="/de/salem-kolleg/organisation/news/artikel/das-salem-kolleg-team-nimmt-am-volksbank-ueberlingen-dein-virtueller-triathlon-marathon-teil" title="Das Salem Kolleg Team nimmt am virtuellen Triathlon teil">
+            Weiterlesen
+        </a></div></div></div></div></div></div>
+<a class="sidebarbox__box-link link" href="/de/salem-kolleg/organisation/news">
+						Alle News
+					</a>
+</div>
+</div>
+</div>
+<div class="block block--padding-top frame-layout-0" id="c4199">
+<div class="block__content">
+</div>
+</div>
+<div class="block block--padding-bottom frame-layout-0" id="c4021">
+<div class="block__content">
+<div class="block frame-layout-0" id="c4023">
+<div class="block__content">
+<div class="banner ">
+<div class="banner__title">Erleben. Verstehen. Entscheiden.</div>
+<div class="banner__logo"><img alt="Salem Kolleg Bildmarke weiss" height="1000" src="/fileadmin/salem_kolleg/10_Logo/Salem_Wappen_weiss.svg" width="1000"/></div>
+<div class="banner__text">
+        Am Salem Kolleg haben die Teilnehmerinnen und Teilnehmer ein Jahr lang Zeit, verschiedene Studiengänge, das Studierendenleben und sich selbst besser kennenzulernen.
+    </div>
+<a class="banner__link link" href="/de/salem-kolleg/erleben-verstehen-entscheiden/das-jahr-am-salem-kolleg" target="_top">
+        Das Jahr am Salem Kolleg
+    </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block frame-layout-0" id="c4024">
+<div class="block__content">
+</div>
+</div>
+</section>
+<div class="footer footer--kolleg">
+<div class="footer__block row">
+<div class="col-xs-12 last-xs col-md-4 first-md padding-right--xl">
+<!-- TODO LOGO -->
+<div class="footer__foundation visible-min-md">
+<img alt="" class="footer__logo" height="50" src="/typo3conf/ext/salem/Resources/Public/Icons/kolleg_logo_white.svg" width="222"/>
+				Das Salem Kolleg ist eine Bildungsinitiative des Vereins Schule Schloss Salem e.V., der Träger des Salem Kollegs
+				ist.
+			</div>
+</div>
+<div class="col-xs-12 first-xs footer__foundation visible-max-md">
+<img alt="" class="footer__logo" height="151" src="/typo3conf/ext/salem/Resources/Public/Icons/kolleg_logo_white.svg" width="668"/>
+			Das Salem Kolleg ist eine Bildungsinitiative des Vereins Schule Schloss Salem e.V., der Träger des Salem Kollegs
+			ist.
+		</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="footer__title footer__title">
+				Kontakt
+			</div>
+<div class="footer__contact">
+<div class="text">Tel.: +497553 919-610</div>
+<div class="text">E-mail: info@salemkolleg.de</div>
+<a class="link footer__link margin-top--s" href="/de/bewerbung/aufnahmeverfahren/auf-einen-blick">
+					Jetzt bewerben!
+				</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="footer__title footer__title">
+				Schnelleinstieg
+			</div>
+<div class="footer__links">
+<a class="link link--noicon" href="/de/salem-kolleg/erleben-verstehen-entscheiden/das-jahr-am-salem-kolleg">Über uns</a>
+<a class="link link--noicon" href="/de/salem-kolleg/organisation/aktuelles">Termine</a>
+<a class="link link--noicon" href="/de/bewerbung/aufnahmeverfahren/auf-einen-blick">Bewerbung</a>
+<a class="link link--noicon" href="/de/salem-kolleg/organisation/ansprechpartner">Ansprechpartner</a>
+<a class="link link--noicon" href="/de/bewerbung/informationsmaterial/downloads">Downloads</a>
+</div>
+<div class="footer__legal">
+<a class="link link--noicon" href="/de/quick/impressum">Impressum</a>
+<a class="link link--noicon" href="/de/footer/datenschutz">Datenschutz</a>
+</div>
+</div>
+</div>
+</div>
+<div class="cookiebanner" data-scripts="W3siY29udGVudCI6IndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdO1xuZnVuY3Rpb24gZ3RhZygpe2RhdGFMYXllci5wdXNoKGFyZ3VtZW50cyk7fVxuZ3RhZygnanMnLCBuZXcgRGF0ZSgpKTtcblxuZ3RhZygnY29uZmlnJywgJ1VBLTM2NjUzNTIwLTEnKTtcbiJ9LHsic3JjIjoiaHR0cHM6XC9cL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbVwvZ3RhZ1wvanM/aWQ9VUEtMzY2NTM1MjAtMSJ9XQ==" id="cookiebanner">
+<span class="cookiebanner__message">
+        Diese Webseite nutzt Cookies, um sicherzustellen, dass Sie bei der Nutzung die bestmögliche Erfahrung machen. Weitere Informationen zum Datenschutz erhalten Sie in der 
+        
+            <a class="cookiebanner__link" href="/de/footer/datenschutz">
+                Datenschutzerklärung.
+            </a>
+</span>
+<div class="cookiebanner__compliance">
+<a class="cookiebanner__btn cookiebanner__btn--deny" data-behavior="cookiebanner" data-value="decline" role="button" tabindex="0">
+            Ablehnen
+        </a>
+<a class="cookiebanner__btn" data-behavior="cookiebanner" data-value="allow" role="button" tabindex="0">
+            AKZEPTIEREN
+        </a>
+</div>
+</div>
+<script src="/typo3temp/assets/vhs-assets-7a9076d6d94e62c13d641aa71f19ae8e.js?1605018879" type="text/javascript"></script>
+<script src="/typo3temp/assets/vhs-assets-f6f4a9135aa30cc2456e9e085258d00c.js?1605082264" type="text/javascript"></script>
+</body>
+</html>

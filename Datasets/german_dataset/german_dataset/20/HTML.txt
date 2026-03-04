@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="de-DE" xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_Head1"><meta content="IE=edge" http-equiv="X-UA-Compatible"/><title>
+	SimpleSite.com
+</title>
+<meta content="Webseite, kostenlose Webseite, Webseite erstellen, kostenlos Webseite erstellen, Internetseite, Website, Homepage, Homepage erstellen, kostenlose Homepage, wie mache ich eine Webseite, wie mache ich eine Homepage, Blog, gratis Blog, kostenloser Blog, Blog kostenlos erstellen, Webdesign, Webhotel, Unternehmenshomepage, Unternehmenswebseiten, Hobbywebseite, Familienwebseite, Tierwebseite" name="keywords"/>
+<meta content="Ganz einfach: Den beliebtesten Webeseitenservice ohne Webung und mit Ihrem eigenen Domainnamen. Probieren Sie jetzt kostenlos!" name="description"/>
+<meta content="notranslate" name="google"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no" http-equiv="imagetoolbar"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-194x194.png" rel="icon" sizes="194x194" type="image/png"/>
+<link href="/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<link href="/yandex-browser-manifest.json" rel="yandex-tableau-widget"/>
+<meta content="SimpleSite.com" name="description"/>
+<link href="/c/css/Foundation/foundation-apps.min.css?_v=538530f49f992c6961459ea0f8f776c6" media="all" rel="stylesheet" type="text/css"/>
+<link href="/c/css/ionicons/ionicons.min.css?_v=1690997909aae14b023a6580d4a2f33f" media="all" rel="stylesheet" type="text/css"/>
+<link href="/pages/FrontPage2017/Styles/corpweb_2017.css?_v=c854d34e83a1ac80388bdb9aa31cbebb" media="all" rel="stylesheet" type="text/css"/>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
+<script>window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"SiteVer":"US","Language":"de","Culture":"de-DE","Instrumentation":"\/","PreOrFre":"UnDef","RecognizedCustomer":"False","Market":"FI","TldPitched":"fi","MainOrUser":"MainSite","OptiSnippet":"True"});</script>
+<script data-blockingmode="auto" data-cbid="6bbf005a-bb38-4430-9e65-58fc796bd08b" id="Cookiebot" src="https://consent.cookiebot.com/uc.js" type="text/javascript"></script>
+<script src="/c/js/jquery-1.6.1.min.js?_v=a34f78c3aecd182144818eb4b7303fda" type="text/javascript"></script>
+<script src="/c/js/jquery-migrate-1.2.1.min.js?_v=eb05d8d73b5b13d8d84308a4751ece96" type="text/javascript"></script>
+<script src="/pages/FrontPage2017/Scripts/corpweb_header.js?_v=191de61b33a402c80c16cc536b41564c" type="text/javascript"></script>
+<link href="/pages/frontpage2017/Styles/Slider.css" rel="stylesheet"/></head>
+<body>
+<!-- Google Tag Manager -->
+<script data-cookieconsent="ignore">
+                (function (window, document, dataLayerName, id) {
+                    window[dataLayerName] = window[dataLayerName] || [], window[dataLayerName].push({ start: (new Date).getTime(), event: 'stg.start' }); var scripts = document.getElementsByTagName('script')[0], tags = document.createElement('script');
+                    function stgCreateCookie(a, b, c) { var d = ""; if (c) { var e = new Date; e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = '; expires=' + e.toUTCString() } document.cookie = a + '=' + b + d + '; path=/' }
+                    var isStgDebug = (window.location.href.match('stg_debug') || document.cookie.match('stg_debug')) && !window.location.href.match('stg_disable_debug'); stgCreateCookie('stg_debug', isStgDebug ? 1 : "", isStgDebug ? 14 : -1);
+                    var qP = []; dataLayerName !== 'dataLayer' && qP.push('data_layer_name=' + dataLayerName), isStgDebug && qP.push('stg_debug'); var qPString = qP.length > 0 ? ('?' + qP.join('&')) : "";
+                    tags.async = !0, tags.src = '//simple-site.containers.piwik.pro/' + id + '.js' + qPString, scripts.parentNode.insertBefore(tags, scripts);
+                    !function (a, n, i) { a[n] = a[n] || {}; for (var c = 0; c < i.length; c++) !function (i) { a[n][i] = a[n][i] || {}, a[n][i].api = a[n][i].api || function () { var a = [].slice.call(arguments, 0); 'string' == typeof a[0] && window[dataLayerName].push({ event: n + '.' + i + ':' + a[0], parameters: [].slice.call(arguments, 1) }) } }(i[c]) }(window, 'ppms', ['tm', 'cm']);
+                })(window, document, 'dataLayer', '164c4c15-f532-44fc-bf7a-8ab4be30453b');
+	        </script>
+<noscript>
+<iframe height="0" src="//simple-site.containers.piwik.pro/164c4c15-f532-44fc-bf7a-8ab4be30453b/noscript.html" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<form action="pages/FrontPage.aspx" id="aspnetForm" method="post">
+<div class="aspNetHidden">
+<input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+<input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUKMTM2MTcxNzAwMA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAmYPZBYEZg9kFggCAQ9kFgJmDxUBDlNpbXBsZVNpdGUuY29tZAICD2QWAmYPFCsCBQWEA1dlYnNlaXRlLCBrb3N0ZW5sb3NlIFdlYnNlaXRlLCBXZWJzZWl0ZSBlcnN0ZWxsZW4sIGtvc3RlbmxvcyBXZWJzZWl0ZSBlcnN0ZWxsZW4sIEludGVybmV0c2VpdGUsIFdlYnNpdGUsIEhvbWVwYWdlLCBIb21lcGFnZSBlcnN0ZWxsZW4sIGtvc3Rlbmxvc2UgSG9tZXBhZ2UsIHdpZSBtYWNoZSBpY2ggZWluZSBXZWJzZWl0ZSwgd2llIG1hY2hlIGljaCBlaW5lIEhvbWVwYWdlLCBCbG9nLCBncmF0aXMgQmxvZywga29zdGVubG9zZXIgQmxvZywgQmxvZyBrb3N0ZW5sb3MgZXJzdGVsbGVuLCBXZWJkZXNpZ24sIFdlYmhvdGVsLCBVbnRlcm5laG1lbnNob21lcGFnZSwgVW50ZXJuZWhtZW5zd2Vic2VpdGVuLCBIb2JieXdlYnNlaXRlLCBGYW1pbGllbndlYnNlaXRlLCBUaWVyd2Vic2VpdGUFfkdhbnogZWluZmFjaDogRGVuIGJlbGllYnRlc3RlbiBXZWJlc2VpdGVuc2VydmljZSBvaG5lIFdlYnVuZyB1bmQgbWl0IElocmVtIGVpZ2VuZW4gRG9tYWlubmFtZW4uIFByb2JpZXJlbiBTaWUgamV0enQga29zdGVubG9zIWQFCXRleHQvaHRtbAUFdXRmLThkAgMPFCsCAWRkAgQPZBYCAggPDxYCHgdWaXNpYmxlaGRkAgEPZBYKZg9kFgpmDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAmYPFQQAKi8vZGUuc2ltcGxlc2l0ZS5jb20vcGFnZXMvc3RhcnR3aXphcmQuYXNweAtzdGFydHdpemFyZA1KZXR6dCBzdGFydGVuZAIBD2QWAmYPFQQALy8vZGUuc2ltcGxlc2l0ZS5jb20vcGFnZXMvY3VzdG9tZXItc2VydmljZS5hc3B4D2N1c3RvbWVyc2VydmljZQ1LdW5kZW5zZXJ2aWNlZAICD2QWAmYPFQQALC8vZGUuc2ltcGxlc2l0ZS5jb20vZ28vY21zL2ZlYXR1cmVzL2ZlYXR1cmVzCGZlYXR1cmVzDUZ1bmt0aW9uZW4KICBkAgMPZBYCZg8VBAAsLy9kZS5zaW1wbGVzaXRlLmNvbS9nby9jbXMvZmVhdHVyZXMvZXhhbXBsZXMGdGhlbWVzCVRoZW1lbgogIGQCBA9kFgJmDxUEABtodHRwOi8vYmxvZy5zaW1wbGVzaXRlLmNvbS8EYmxvZwRCbG9nZAIFD2QWAmYPFQQAHWh0dHA6Ly9jYXJlZXIuc2ltcGxlc2l0ZS5jb20vB2NhcmVlcnMIS2FycmllcmVkAgEPFgIfAgIGFgxmD2QWAmYPFQMqLy9kZS5zaW1wbGVzaXRlLmNvbS9wYWdlcy9zdGFydHdpemFyZC5hc3B4C3N0YXJ0d2l6YXJkDUpldHp0IHN0YXJ0ZW5kAgEPZBYCZg8VAy8vL2RlLnNpbXBsZXNpdGUuY29tL3BhZ2VzL2N1c3RvbWVyLXNlcnZpY2UuYXNweA9jdXN0b21lcnNlcnZpY2UNS3VuZGVuc2VydmljZWQCAg9kFgJmDxUDLC8vZGUuc2ltcGxlc2l0ZS5jb20vZ28vY21zL2ZlYXR1cmVzL2ZlYXR1cmVzCGZlYXR1cmVzDUZ1bmt0aW9uZW4KICBkAgMPZBYCZg8VAywvL2RlLnNpbXBsZXNpdGUuY29tL2dvL2Ntcy9mZWF0dXJlcy9leGFtcGxlcwZ0aGVtZXMJVGhlbWVuCiAgZAIED2QWAmYPFQMbaHR0cDovL2Jsb2cuc2ltcGxlc2l0ZS5jb20vBGJsb2cEQmxvZ2QCBQ9kFgJmDxUDHWh0dHA6Ly9jYXJlZXIuc2ltcGxlc2l0ZS5jb20vB2NhcmVlcnMIS2FycmllcmVkAgIPDxYCHgRUZXh0BQhBbm1lbGRlbhYCHgRocmVmBSwvL2RlLnNpbXBsZXNpdGUuY29tL3BhZ2VzL3NlcnZpY2UtbG9naW4uYXNweGQCAw8PFgIfAwUIQW5tZWxkZW4WAh8EBSwvL2RlLnNpbXBsZXNpdGUuY29tL3BhZ2VzL3NlcnZpY2UtbG9naW4uYXNweGQCBA9kFgYCAQ9kFgICAQ8PFgIfAwUHRGV1dHNjaGRkAgMPFgIfAWcWAgIBDw8WAh8DBQdEZXV0c2NoZGQCBQ8WAh8CAhIWJGYPZBYCZg8VBAAAIy8vd3d3LnNpbXBsZXNpdGUuY29tLz9jdWx0dXJla2V5PWVuB0VuZ2xpc2hkAgEPZBYCZg8VBAAAIy8vd3d3LnNpbXBsZXNpdGUuY29tLz9jdWx0dXJla2V5PWVzCEVzcGHDsW9sZAICD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1mcglGcmFuw6dhaXNkAgMPZBYCZg8VBAAAIy8vd3d3LnNpbXBsZXNpdGUuY29tLz9jdWx0dXJla2V5PWRhBURhbnNrZAIED2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1uYg1Ob3JzayBCb2ttw6VsZAIFD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1zdgdTdmVuc2thZAIGD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1ubApOZWRlcmxhbmRzZAIHD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1pdAhJdGFsaWFub2QCCA9kFgJmDxUEAAAjLy93d3cuc2ltcGxlc2l0ZS5jb20vP2N1bHR1cmVrZXk9ZmkFU3VvbWlkAgkPZBYCZg8VBAhzZWxlY3RlZBFpb24taW9zLWNoZWNrbWFyayMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1kZQdEZXV0c2NoZAIKD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1ydQ7QoNGD0YHRgdC60LjQuWQCCw9kFgJmDxUEAAAjLy93d3cuc2ltcGxlc2l0ZS5jb20vP2N1bHR1cmVrZXk9aWQJSW5kb25lc2lhZAIMD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT10cghUw7xya8OnZWQCDQ9kFgJmDxUEAAAjLy93d3cuc2ltcGxlc2l0ZS5jb20vP2N1bHR1cmVrZXk9cGwGUG9sc2tpZAIOD2QWAmYPFQQAACMvL3d3dy5zaW1wbGVzaXRlLmNvbS8/Y3VsdHVyZWtleT1jcwnEjGXFoXRpbmFkAg8PZBYCZg8VBAAAIy8vd3d3LnNpbXBsZXNpdGUuY29tLz9jdWx0dXJla2V5PW1zBk1lbGF5dWQCEA9kFgJmDxUEAAAjLy93d3cuc2ltcGxlc2l0ZS5jb20vP2N1bHR1cmVrZXk9ZWwQzpXOu867zrfOvc65zrrOrGQCEQ9kFgJmDxUEAAAjLy93d3cuc2ltcGxlc2l0ZS5jb20vP2N1bHR1cmVrZXk9cHQKUG9ydHVndcOqc2QCAQ8PFgIfAwUMSGllciBzdGFydGVuFgIfBAUfL3BhZ2VzL1N0YXJ0d2l6YXJkLmFzcHg/dHI9YnRuMWQCAg8PFgIfAwUMSGllciBzdGFydGVuFgIfBAUfL3BhZ2VzL1N0YXJ0d2l6YXJkLmFzcHg/dHI9YnRuMWQCAw8PFgIfAwUMSGllciBzdGFydGVuFgIfBAUfL3BhZ2VzL1N0YXJ0d2l6YXJkLmFzcHg/dHI9YnRuMWQCBA8PFgIfAwUMSGllciBzdGFydGVuFgIfBAUfL3BhZ2VzL1N0YXJ0d2l6YXJkLmFzcHg/dHI9YnRuMWRkjmm7YhMyCqNB8hQYi5uwTcCsXgE="/>
+</div>
+<script type="text/javascript">
+<!--
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+</script>
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="8ECCCD3D"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEdAAda6vnfeULZQEOA3VdaMnpPpLYhxkwAQBHk5MwHkzFjI9ocb/M6x56n4kYymEXuH0jodqKSXZVrch+yVX2L1+2F4w4zeBZHQ9w7Tv2C+rhzxnOVKM5wBNToIKYrJNltFpz6pvW513w+CVxAA0x19G0EDqcEjWcIw2qkXR9ivgD82Mr/8kA="/>
+</div>
+<div class="grid-block vertical page tophero">
+<div class="grid-block horizontal shrink align-justify header tophero">
+<div class="grid-block shrink left">
+<div class="grid-block shrink logo">
+<a href="//de.simplesite.com/">SimpleSite.com</a>
+</div>
+<div class="grid-block menu">
+<div class="grid-block link "><a href="//de.simplesite.com/pages/startwizard.aspx" id="2017_startwizard">Jetzt starten</a></div>
+<div class="grid-block link "><a href="//de.simplesite.com/pages/customer-service.aspx" id="2017_customerservice">Kundenservice</a></div>
+<div class="grid-block link "><a href="//de.simplesite.com/go/cms/features/features" id="2017_features">Funktionen
+  </a></div>
+<div class="grid-block link "><a href="//de.simplesite.com/go/cms/features/examples" id="2017_themes">Themen
+  </a></div>
+<div class="grid-block link "><a href="http://blog.simplesite.com/" id="2017_blog">Blog</a></div>
+<div class="grid-block link "><a href="http://career.simplesite.com/" id="2017_careers">Karriere</a></div>
+</div>
+</div>
+<div class="grid-block horizontal align-center align-top burger-menu">
+<div class="grid-block spacer toggleMobilePageMenu"></div>
+<div class="grid-block vertical mobile-menu">
+<div class="grid-block shrink align-left mobile-link"><a href="//de.simplesite.com/pages/startwizard.aspx" id="2017_startwizard">Jetzt starten</a></div>
+<div class="grid-block shrink align-left mobile-link"><a href="//de.simplesite.com/pages/customer-service.aspx" id="2017_customerservice">Kundenservice</a></div>
+<div class="grid-block shrink align-left mobile-link"><a href="//de.simplesite.com/go/cms/features/features" id="2017_features">Funktionen
+  </a></div>
+<div class="grid-block shrink align-left mobile-link"><a href="//de.simplesite.com/go/cms/features/examples" id="2017_themes">Themen
+  </a></div>
+<div class="grid-block shrink align-left mobile-link"><a href="http://blog.simplesite.com/" id="2017_blog">Blog</a></div>
+<div class="grid-block shrink align-left mobile-link"><a href="http://career.simplesite.com/" id="2017_careers">Karriere</a></div>
+<div class="grid-block align-center shrink login-mobile">
+<a class="start-button-menu-mobile" href="//de.simplesite.com/pages/service-login.aspx" id="_ctl0_Header2017_btnLoginMobile">Anmelden</a>
+</div>
+</div>
+</div>
+<div class="grid-block align-right">
+<div class="grid-block align-middle shrink login">
+<a class="start-button-menu" href="//de.simplesite.com/pages/service-login.aspx" id="_ctl0_Header2017_btnLogin">Anmelden</a>
+</div>
+<div class="grid-block shrink align-middle burger">
+<div class="grid-block shrink ion-navicon burger_new toggleMobilePageMenu"></div>
+</div>
+</div>
+<div class="grid-block align-middle shrink languageselect">
+<style>
+    .fa-lock {
+        padding-right: 10px;
+    }
+
+    .fa-check {
+        color: #50ae55;
+    }
+
+    .caret {
+        padding-bottom: 10px;
+        color: #262626;
+    }
+
+    .lang-selector {
+        color: #393939;
+        float: right;
+        margin-bottom: -5px;
+    }
+
+        .lang-selector .nav > li > .multi-column::after {
+            top: -5px;
+        }
+
+    li.dropdown.open > #currentLang {
+        border: 1px solid #e3e3e3;
+        background-color: #f2f2f2;
+        margin: -1px;
+    }
+
+    .multi-column li > a:hover, .multi-column li > a:focus, .dropdown-submenu:hover > a {
+        background-image: linear-gradient(to bottom, #f2f2f2, #F1E9E8);
+    }
+
+    .multi-column {
+        min-width: 500px;
+        padding-left: 20px;
+        margin-top: 10px;
+        font-size: 15px;
+        border-radius: 5px;
+        font-family: "Open Sans", sans-serif;
+    }
+
+    .column-drop {
+        float: left;
+        width: 33.33333333%;
+        position: relative;
+        min-height: 1px;
+        box-sizing: border-box;
+    }
+
+    .multi-column-dropdown {
+        list-style: none;
+        margin: 0px;
+    }
+
+        .multi-column-dropdown li a:hover {
+            text-decoration: none;
+            color: #262626;
+            background-color: #f5f5f5;
+        }
+
+    #sub-menu {
+        float: left;
+        clear: none;
+        max-width: 350px;
+        height: 50px;
+    }
+
+    #lang {
+        padding-left: 20px;
+    }
+
+    #currentLang {
+        padding-bottom: 13px;
+        padding-top: 15px;
+        font-size: 15px;
+        font-family: "Open Sans", sans-serif;
+        color: #393939;
+    }
+
+    @media (max-width: 768px) {
+        #currentLang {
+            padding-top: 20px;
+            padding-bottom: 8px;
+        }
+
+        .multi-column {
+            min-width: 400px;
+            padding-left: 0px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 979px) {
+        .navbar .nav > li > a {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+
+        #header .container ul.menu li a {
+            padding-right: 10px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .lang-selector {
+            /*display: none;*/
+        }
+
+            .lang-selector .row {
+                min-width: 200px;
+            }
+
+            .lang-selector .column-drop {
+                width: 100%;
+            }
+    }
+</style>
+<div class="newNavBarMobile">
+<div class="currentlanguagemobile toggleMobileLangMenu">
+<img class="globe-white" src="/Images/FrontPage2017/Icons/globe.png"/>
+<img class="globe-grey" src="/Images/FrontPage2017/Icons/globe-grey.png"/>
+<span id="_ctl0_Header2017_usrStandardSiteHeaderLangSelector_lblNewCurrentLang">Deutsch</span>
+</div>
+</div>
+<div class="grid-block languagesmobile lang-menu">
+<div class="grid-block spacer toggleMobileLangMenu"></div>
+<div class="grid-block vertical mobile-menu">
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=en">English</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=es">Español</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=fr">Français</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=da">Dansk</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=nb">Norsk Bokmål</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=sv">Svenska</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=nl">Nederlands</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=it">Italiano</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=fi">Suomi</a>
+</div>
+<div class="language selected">
+<div class="ion-ios-checkmark"></div>
+<a href="//www.simplesite.com/?culturekey=de">Deutsch</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=ru">Русский</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=id">Indonesia</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=tr">Türkçe</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=pl">Polski</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=cs">Čeština</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=ms">Melayu</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=el">Ελληνικά</a>
+</div>
+<div class="language ">
+<div class=""></div>
+<a href="//www.simplesite.com/?culturekey=pt">Português</a>
+</div>
+<div class="grid-block toggleMobileLangMenu"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-block vertical main ">
+<div class="grid-block align-center incentive">
+<div class="grid-block vertical align-center fs-header">
+<div class="grid-block vertical shrink align-center backdrop pushdown">
+<div class="grid-block shrink small-vertical medium-horizontal large-horizontal align-center">
+<div class="grid-block shrink align-center title-light backdrop">
+                                    
+      Erstellen Sie Ihre eigene Webseite 
+    
+                                </div>
+<div class="grid-block shrink align-center title backdrop">
+                                    
+      in drei einfachen Schritten
+    
+                                </div>
+</div>
+<div class="grid-block shrink align-center subtitle backdrop">
+                                
+      - Kostenlos -
+    
+                            </div>
+</div>
+<div class="grid-block shrink align-center">
+<a class="start-button" href="/pages/Startwizard.aspx?tr=btn1" id="_ctl0_btnStart1">Hier starten</a>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-block align-center themes">
+<div class="grid-block vertical align-center">
+<div class="grid-block vertical align-center content-spacing">
+<div class="grid-block shrink align-center">
+<div class="grid-block shrink align-center small-6 medium-6 large-6 title-header">Themen
+  </div>
+</div>
+<divider></divider>
+<div class="grid-block shrink align-center">
+<div class="grid-block shrink text-center align-center small-6 medium-10 large-10">
+<p>
+      Wählen Sie ein Thema aus, das zu Ihrer Webseite passt. Es gibt eine große Auswahl an unterschiedlichen Mustern, aus welchen Sie frei wählen können. Es ist für jeden etwas dabei – versprochen! Jedes Muster kann individuell angepasst werden, weshalb Sie Ihrer Fantasie keine Grenzen setzen müssen.
+    </p>
+</div>
+</div>
+</div>
+<div class="grid-block align-spaced">
+<div class="csslider">
+<input id="slides_1" name="slides" type="radio"/>
+<input id="slides_2" name="slides" type="radio"/>
+<input id="slides_3" name="slides" type="radio"/>
+<input id="slides_4" name="slides" type="radio"/>
+<input id="slides_5" name="slides" type="radio"/>
+<input checked="" id="slides_6" name="slides" type="radio"/>
+<input id="slides_7" name="slides" type="radio"/>
+<input id="slides_8" name="slides" type="radio"/>
+<input id="slides_9" name="slides" type="radio"/>
+<input id="slides_10" name="slides" type="radio"/>
+<input id="slides_11" name="slides" type="radio"/>
+<input id="slides_12" name="slides" type="radio"/>
+<ul>
+<li>
+<img src="Images/FrontPage2017/Themes/1.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/2.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/3.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/4.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/5.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/6.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/7.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/8.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/9.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/10.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/11.png"/>
+</li>
+<li>
+<img src="Images/FrontPage2017/Themes/12.png"/>
+</li>
+</ul>
+<div class="arrows">
+<label for="slides_1"></label>
+<label for="slides_2"></label>
+<label for="slides_3"></label>
+<label for="slides_4"></label>
+<label for="slides_5"></label>
+<label for="slides_6"></label>
+<label for="slides_7"></label>
+<label for="slides_8"></label>
+<label for="slides_9"></label>
+<label for="slides_10"></label>
+<label for="slides_11"></label>
+<label for="slides_12"></label>
+</div>
+<div class="navigation">
+<div>
+<label for="slides_1"></label>
+<label for="slides_2"></label>
+<label for="slides_3"></label>
+<label for="slides_4"></label>
+<label for="slides_5"></label>
+<label for="slides_6"></label>
+<label for="slides_7"></label>
+<label for="slides_8"></label>
+<label for="slides_9"></label>
+<label for="slides_10"></label>
+<label for="slides_11"></label>
+<label for="slides_12"></label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-block vertical why taint">
+<div class="grid-block shrink align-center title-header">
+                    
+      Wieso SimpleSite
+    
+                </div>
+<div class="grid-block shrink align-center">
+<divider></divider>
+</div>
+<div class="grid-block align-spaced content-vertical-spacing custom-wrap">
+<div class="grid-block shrink align-center align-top small-12 medium-12 large-6 small-order-2 medium-order-1 large-order-1 medium-order-2">
+<img src="Images/FrontPage2017/SectionImages/image%20section%202.png"/>
+</div>
+<div class="grid-block vertical shrink align-center large-order-2 medium-order-1 small-order-1 small-12 medium-10 large-5 custom-align-center tat1">
+<p> Wir von SimpleSite glauben, dass es wichtig ist, die endlosen Möglichkeiten des Webs für Menschen aus allen technologischen Wissenslevels zugänglich zu machen. Unsere Lösung ist nicht für professionelle Web-Entwickler gemacht, sondern für jeden mit dem Wunsch nach einem eigenen kleinen Platz im Internet. Sie müssen dafür kein Designer, Entwickler oder Webmaster sein.</p>
+<p> Das Beste daran ist, dass sie innerhalb weniger Minuten mit Ihrer eigenen Webseite online sein können!</p>
+<p> Sie wählen einfach aus, welche Art von Webseite es sein soll, passen die Gesaltung (unterstützt von unserem Design-Assistenten) an und geben zuletzt die notwendigen Informationen ein, um die Seite zu Ihrer ganz eigenen zu machen. Erstellen Sie Ihre eigene Webseite noch heute!</p>
+<div class="grid-block shrink align-left">
+<a class="start-button-page" href="/pages/Startwizard.aspx?tr=btn1" id="_ctl0_btnStart2">Hier starten</a>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-block mobile outer-overflow tat3">
+<div class="grid-block align-spaced content-vertical-spacing overflow custom-wrap">
+<div class="grid-block vertical shrink align-center small-12 medium-10 large-5 mobile-align-center tat2">
+<div class="grid-block shrink align-right title-header">
+                            
+      Mobiloptimiert
+    
+                        </div>
+<div class="grid-block shrink align-right title-header-light">
+                            
+      Bearbeitung von unterwegs
+    
+                        </div>
+<div class="grid-block shrink align-right">
+<divider></divider>
+</div>
+<div class="grid-block shrink vertical align-right">
+<p>Das Einzigartige an SimpleSite ist, dass wir der einzige Webseiten Anbieter sind, der <strong>mobiloptimiertes Bearbeiten</strong> in einem mobilen Browser vollkommen unterstützt – es wird keine spezielle App benötigt! Das bedeutet, dass Sie Ihre Webseite am Smartphone nicht nur ansehen <italic>sondern auch</italic> bearbeiten können.</p>
+<p>SimpleSite bietet Ihnen automatisch eine Webseite, die sowohl am Desktop als auch am Smartphone großartig aussieht. Zusätzlich bieten wir Ihnen eine vollkommen mobiloptimierte Schnittstelle, welche es Ihnen ermöglicht, Ihre Webseite von sämtlichen mobilen Geräten anzusehen sowie zu bearbeiten. Bearbeiten Sie das Design und den Inhalt Ihrer Webseite ganz einfach von Ihrer Couch oder auch von unterwegs – all dies ist möglich mit dem SimpleSite mobilen Webseiten Bearbeitungstool.</p>
+</div>
+<div class="grid-block shrink align-right">
+<a class="start-button-page" href="/pages/Startwizard.aspx?tr=btn1" id="_ctl0_btnStart3">Hier starten</a>
+</div>
+</div>
+<div class="grid-block shrink align-center align-top large-6 overflow">
+<img src="Images/FrontPage2017/SectionImages/mockups%20mobile.png"/>
+</div>
+</div>
+</div>
+<div class="grid-block features taint">
+<div class="grid-block vertical text-center">
+<div class="grid-block shrink vertical">
+<div class="grid-block shrink align-center title-header">
+                                Funktionen
+  
+                        </div>
+<div class="grid-block shrink align-center ">
+<divider></divider>
+</div>
+<div class="grid-block shrink align-center IE-width-fix">
+<div class="grid-block small-12 medium-10 large-12 align-center">
+<p>Entdecken Sie all die großartigen Funktionen, die auf Ihrer Webseite möglich sind. SimpleSite bietet Ihnen alles, was Sie brauchen, um eine ansprechende und professionelle Webseite zu gestalten.</p>
+</div>
+</div>
+</div>
+<div class="grid-block shrink align-center wrap IE-width-fix">
+<div class="grid-block vertical large-2 medium-10 small-12 feature-block">
+<div class="grid-block shrink align-center">
+<img src="Images/FrontPage2017/icons/all devices.png"/>
+</div>
+<div class="grid-block shrink align-center title-block IE-width-fix">
+                                
+      Mobiloptimiert
+    
+                            </div>
+<div class="grid-block shrink align-center IE-width-fix">
+<p>Alle SimpleSite Webseiten sind zu 100% mobiloptimiert, weshalb Ihre Webseitenbesucher eine großartige Webseite vorfinden, wenn Sie diese von Ihrem Smartphone aufrufen.</p>
+</div>
+</div>
+<div class="grid-block vertical large-2 medium-10 small-12 feature-block">
+<div class="grid-block shrink align-center">
+<img src="Images/FrontPage2017/icons/design.png"/>
+</div>
+<div class="grid-block shrink align-center title-block IE-width-fix">
+                                
+    Großartige Designs
+    
+                            </div>
+<div class="grid-block shrink align-center IE-width-fix">
+<p>Bei SimpleSite können Sie aus Hunderten von einzigartigen Layouts und Designs für Ihre Webseite wählen. Es stehen verschiedene Vorlagen, Farben und Hintergründe zur Verfügung – oder Sie verwenden einfach ein vordefiniertes Design.</p>
+</div>
+</div>
+<div class="grid-block vertical large-2 medium-10 small-12 feature-block">
+<div class="grid-block shrink align-center">
+<img src="Images/FrontPage2017/icons/online store.png"/>
+</div>
+<div class="grid-block shrink align-center title-block IE-width-fix">
+                                
+    Webshop
+    
+                            </div>
+<div class="grid-block shrink align-center IE-width-fix">
+<p>SimpleSite bietet auch einen eigenen, professionellen Online-Shop für Ihre Webseite, mit dem Sie Online-Zahlungen abwickeln können. Ganz gleich, ob Sie Ihr eigenes Unternehmen führen oder nur ein paar Artikel hier und da verkaufen – unser Online-Shop ist die perfekte Lösung.</p>
+</div>
+</div>
+<div class="grid-block vertical large-2 medium-10 small-12 feature-block">
+<div class="grid-block shrink align-center">
+<img src="Images/FrontPage2017/icons/customer service.png"/>
+</div>
+<div class="grid-block shrink align-center title-block IE-width-fix">
+                                
+      Kundenservice
+    
+                            </div>
+<div class="grid-block shrink align-center IE-width-fix">
+<p>Unser Kundenservice ist jederzeit für Sie da, falls Sie Fragen haben. Oder besuchen Sie unsere „Häufig gestellten Fragen“ im Kundenservicebereich.</p>
+</div>
+</div>
+</div>
+<div class="grid-block shrink align-center">
+<a class="start-button-page" href="/pages/Startwizard.aspx?tr=btn1" id="_ctl0_btnStart4">Hier starten</a>
+</div>
+</div>
+</div>
+<div class="grid-block footer">
+<div class="grid-block corporate-footer align-middle">
+<div class="grid-block align-center small-vertical medium-horizontal large-horizontal">
+<div class="grid-block small-12_ medium-6 large-3 small-order-2 medium-order-1 large-order-1 vertical align-middle" id="footercol1">
+<div class="footercolheader grid-block vertical shrink" id="footercol1header">
+<div class="grid-block shrink">
+<span class="footercoltitle">SimpleSite</span>
+</div>
+<div class="corpweb--header--divider-block grid-block">
+<div class="corpweb--header--divider"></div>
+</div>
+</div>
+<div class="grid-block shrink vertical" id="footercol1content">
+<div class="content-block grid-block shrink">
+<span class="footercontent">
+      Die Erfahrungen unserer Kunden sind das Herzstück unseres Unternehmens. Unsere Idealvorstellung liegt nicht darin, Perfektion zu erreichen, sondern Spaß an der Gestaltung zu haben. Wenn Sie unser Produkt verwenden, sollen Sie Spaß dabei haben – es soll einfach und dennoch aufregend sein. Etwas, woran Sie sich ausprobieren und zukünftig dabei lernen können. Genau dasselbe gilt auch für unsere Mitarbeiter.
+    </span>
+</div>
+</div>
+<div class="social-icons">
+<div class="social-icon">
+<a href="https://www.facebook.com/SimpleSite" target="_blank">
+<img src="/images/Frontpage2017/Icons/fb.png"/></a>
+</div>
+<div class="social-icon">
+<a href="https://www.youtube.com/channel/UCilTiEWPXKl1OQaxq6yRj2g" target="_blank">
+<img src="/images/Frontpage2017/Icons/youtube.png"/></a>
+</div>
+<div class="social-icon">
+<a href="https://twitter.com/SimpleSiteHQ" target="_blank">
+<img src="/images/Frontpage2017/Icons/twitter.png"/></a>
+</div>
+<div class="social-icon">
+<a href="https://www.linkedin.com/company/1868558/" target="_blank">
+<img src="/images/Frontpage2017/Icons/linkedin.png"/></a>
+</div>
+</div>
+</div>
+<div class="grid-block medium-3 large-2 large-order-2 footer-column-large vertical">
+<div class="footercolheader grid-block vertical shrink" id="footercol2header">
+<div class="grid-block">
+<span class="footercoltitle">Produkt</span>
+</div>
+<div class="corpweb--header--divider-block grid-block">
+<div class="corpweb--header--divider"></div>
+</div>
+</div>
+<div class="grid-block vertical" id="footercol2content">
+<div class="content-block grid-block">
+<span class="footercontent">
+<div class="link-list">
+<div class="link-item sliding-underline-white">
+<a href="/go/cms/features/features">Funktionen</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/go/cms/features/examples">Themen</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/gift-certificate.aspx">Gutschein einlösen</a>
+</div>
+</div>
+</span>
+</div>
+</div>
+</div>
+<div class="grid-block medium-3 large-2 large-order-3 footer-column-large vertical">
+<div class="footercolheader grid-block vertical shrink" id="footercol3header">
+<div class="grid-block">
+<span class="footercoltitle">Unternehmen</span>
+</div>
+<div class="corpweb--header--divider-block grid-block">
+<div class="corpweb--header--divider"></div>
+</div>
+</div>
+<div class="grid-block vertical" id="footercol3content">
+<div class="content-block grid-block">
+<span class="footercontent">
+<div class="link-list">
+<div class="link-item sliding-underline-white">
+<a href="/go/cms/corporate/management">Team</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/nordicgrowthhackers.aspx">Nordic Growth Hackers</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/affiliates.aspx">Partnerschaften</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="http://career.simplesite.com">Jobs</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/terms-of-use.aspx">Allgemeine Geschäftsbedingungenlt;/a&gt;
+        </a></div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/privacy-policy.aspx">Datenschutzrichtlinie</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/cookie-policy.aspx">Cookie Richtlinie</a>
+</div>
+</div>
+</span>
+</div>
+</div>
+</div>
+<div class="grid-block medium-3 large-2 large-order-4 footer-column-large vertical">
+<div class="footercolheader grid-block vertical shrink" id="footercol4header">
+<div class="grid-block">
+<span class="footercoltitle">Community</span>
+</div>
+<div class="corpweb--header--divider-block grid-block">
+<div class="corpweb--header--divider"></div>
+</div>
+</div>
+<div class="grid-block vertical" id="footercol4content">
+<div class="content-block grid-block">
+<span class="footercontent">
+<div class="link-list">
+<div class="link-item sliding-underline-white">
+<a href="/pages/customer-service.aspx">Kundenservice</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="http://blog.simplesite.com/">Unser Blog</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/customer-service.aspx#faq">Fragen &amp; Antworten</a>
+</div>
+</div>
+</span>
+</div>
+</div>
+</div>
+<div class="grid-block medium-6 small-12_ small-order-1 medium-order-2 footer-column-small">
+<div class="grid-block f-accordion">
+<div class="grid-block vertical f-accordion-section">
+<div class="grid-block vertical shrink f-accordion-item">
+<div class="grid-block shrink">
+<a class="f-accordion-section-title footercoltitle" href="#f-accordion-1">
+                                Produkt
+                                <span class="ion-ios-arrow-right"></span>
+</a>
+</div>
+<div class="f-accordion-section-content" id="f-accordion-1">
+<div class="grid-block vertical">
+<div class="link-list">
+<div class="link-item sliding-underline-white">
+<a href="/go/cms/features/features">Funktionen</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/go/cms/features/examples">Themen</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/gift-certificate.aspx">Gutschein einlösen</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-block vertical shrink f-accordion-item">
+<div class="grid-block shrink">
+<a class="f-accordion-section-title footercoltitle" href="#f-accordion-2">
+                                Unternehmen
+                                <span class="ion-ios-arrow-right"></span>
+</a>
+</div>
+<div class="f-accordion-section-content" id="f-accordion-2">
+<div class="grid-block vertical">
+<div class="link-list">
+<div class="link-item sliding-underline-white">
+<a href="/go/cms/corporate/management">Team</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/nordicgrowthhackers.aspx">Nordic Growth Hackers</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/affiliates.aspx">Partnerschaften</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="http://career.simplesite.com">Jobs</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/terms-of-use.aspx">Allgemeine Geschäftsbedingungenlt;/a&gt;
+        </a></div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/privacy-policy.aspx">Datenschutzrichtlinie</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/cookie-policy.aspx">Cookie Richtlinie</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-block vertical shrink f-accordion-item">
+<div class="grid-block shrink">
+<a class="f-accordion-section-title footercoltitle" href="#f-accordion-3">
+                                Community
+                                <span class="ion-ios-arrow-right"></span>
+</a>
+</div>
+<div class="f-accordion-section-content" id="f-accordion-3">
+<div class="grid-block vertical">
+<div class="link-list">
+<div class="link-item sliding-underline-white">
+<a href="/pages/customer-service.aspx">Kundenservice</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="http://blog.simplesite.com/">Unser Blog</a>
+</div>
+<div class="link-item sliding-underline-white">
+<a href="/pages/customer-service.aspx#faq">Fragen &amp; Antworten</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+
+    var showPricingLink = 'True';
+
+    $(document).ready(function () {
+
+        if (showPricingLink === 'False') {
+            $('.pricingpageexp').addClass('hidden');
+        }
+
+        close_f_accordion_section();
+
+        function close_f_accordion_section() {
+            $('.f-accordion .f-accordion-section-title').removeClass('active');
+            $('.f-accordion .f-accordion-section-content').slideUp(100).removeClass('open');
+        }
+
+        $('.f-accordion-section-title').click(function (e) {
+            var currentAttrValue = $(this).attr('href');
+
+            if ($(e.target).is('.active')) {
+                close_f_accordion_section();
+            } else {
+                close_f_accordion_section();
+                $(this).addClass('active');
+                $('.f-accordion ' + currentAttrValue).slideDown(100).addClass('open');
+            }
+
+            e.preventDefault();
+        });
+
+    });
+
+</script>
+</div>
+</div>
+</form>
+</body>
+</html>

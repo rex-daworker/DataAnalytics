@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
+<title>DAAD Tunesien | Website of the DAAD Regional Office in Tunis</title>
+<link href="https://www.daad.tn/xmlrpc.php" rel="pingback"/>
+<!-- BEGIN Metadata added by the Add-Meta-Tags WordPress plugin -->
+<meta content="Hier finden Sie eine Übersicht über das Angebot des DAAD Büros Tunis." name="description"/>
+<meta content="stipendien, alumni, projektförderung, aktuelles, kooperationen, hochschulen, angebote" name="keywords"/>
+<!-- END Metadata added by the Add-Meta-Tags WordPress plugin -->
+<link href="https://www.daad.tn/content/plugins/shariff-sharing/dep/shariff.complete.css" rel="stylesheet"/>
+<link href="//cdn.jsdelivr.net" rel="dns-prefetch"/>
+<link href="//www.google.com" rel="dns-prefetch"/>
+<link href="//ajax.googleapis.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://www.daad.tn/de/feed/" rel="alternate" title="DAAD Tunesien » Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.daad.tn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.daad.tn/wp-includes/css/dist/block-library/style.min.css?ver=5.1.6" id="wp-block-library-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/wp-includes/css/dist/block-library/theme.min.css?ver=5.1.6" id="wp-block-library-theme-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/wp-includes/css/dashicons.min.css?ver=5.1.6" id="dashicons-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/wp-includes/css/admin-bar.min.css?ver=5.1.6" id="admin-bar-css" media="all" rel="stylesheet"/>
+<style id="admin-bar-inline-css" type="text/css">
+#wp-admin-bar-my-sites-search.hide-if-no-js {
+	display: none;
+}
+#wp-admin-bar-my-sites-search label[for="my-sites-search-text"] {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+#wp-admin-bar-my-sites-search {
+	height: 38px;
+}
+#wp-admin-bar-my-sites-search .ab-item {
+	height: 34px;
+}
+#wp-admin-bar-my-sites-search input {
+	padding: 0 2px;
+	width: 95%;
+	width: calc( 100% - 4px );
+}
+	
+</style>
+<link href="https://www.daad.tn/content/themes/ic-ast/js/vendor/daterangepicker/daterangepicker.css?ver=5.1.6" id="daterangepicker-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/js/vendor/slick-carousel/slick/slick.css?ver=5.1.6" id="slick-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/js/vendor/magnific-popup/magnific-popup.css?ver=5.1.6" id="magnific-popup-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1" id="mediaelement-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.1.6" id="wp-mediaelement-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/js/vendor/footable-standalone/css/footable.standalone.min.css?ver=5.1.6" id="footable-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/build/lessphp_59304f7c0e15efc16686ea96f0b1e3b49b726588.css?ver=5.1.6" id="bauka-css" media="all" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&amp;subset=latin%2Clatin-ext&amp;display=fallback" id="twentyfourteen-lato-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/twentyfourteen/genericons/genericons.css?ver=3.0.3" id="genericons-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/style.css?ver=20190507" id="twentyfourteen-style-css" media="all" rel="stylesheet"/>
+<link href="https://www.daad.tn/content/themes/twentyfourteen/css/blocks.css?ver=20190102" id="twentyfourteen-block-style-css" media="all" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://www.daad.tn/content/themes/twentyfourteen/css/ie.css?ver=20140701' media='all' />
+<![endif]-->
+<link href="https://www.daad.tn/content/sedlex/inline_styles/6eb86a46dba7b7014c3ca5b60295946fe81eecea.css?ver=20201111" id="sedlex_styles-css" media="all" rel="stylesheet"/>
+<script src="https://www.daad.tn/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script>
+jQuery(document).ready( function($) {
+	$('#wp-admin-bar-my-sites-search.hide-if-no-js').show();
+	$('#wp-admin-bar-my-sites-search input').keyup( function( ) {
+
+		var searchValRegex = new RegExp( $(this).val(), 'i');
+
+		$('#wp-admin-bar-my-sites-list > li.menupop').hide().filter(function() {
+
+			return searchValRegex.test( $(this).find('> a').text() );
+
+		}).show();
+
+	});
+});
+	
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?ver=5.1.6"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=de&amp;ver=5.1.6"></script>
+<script>
+var mejsL10n = {"language":"de","strings":{"mejs.install-flash":"Du verwendest einen Browser, der nicht den Flash-Player aktiviert oder installiert hat. Bitte aktiviere dein Flash-Player-Plugin oder lade die neueste Version von https:\/\/get.adobe.com\/flashplayer\/ herunter.","mejs.fullscreen-off":"Vollbild beenden","mejs.fullscreen-on":"Vollbild einschalten","mejs.download-video":"Video herunterladen","mejs.fullscreen":"Vollbild","mejs.time-jump-forward":["1 Sekunde vorw\u00e4rts springen","%1 Sekunden vorspringen"],"mejs.loop":"Schleife umschalten","mejs.play":"Abspielen","mejs.pause":"Pause","mejs.close":"Schlie\u00dfen","mejs.time-slider":"Zeit-Schieberegler","mejs.time-help-text":"Benutze die Pfeiltasten Links\/Rechts, um 1 Sekunde vorzuspringen, und die Pfeiltasten Hoch\/Runter, um 10 Sekunden vorzuspringen.","mejs.time-skip-back":["Eine Sekunde zur\u00fcckspringen","%1 Sekunde(n) zur\u00fcck springen"],"mejs.captions-subtitles":"Beschriftungen\/Untertitel","mejs.captions-chapters":"Kapitel","mejs.none":"Keine","mejs.mute-toggle":"Stumm schalten","mejs.volume-help-text":"Pfeiltasten Hoch\/Runter benutzen, um die Lautst\u00e4rke zu regeln.","mejs.unmute":"Laut schalten","mejs.mute":"Stumm","mejs.volume-slider":"Lautst\u00e4rkeregler","mejs.video-player":"Video-Player","mejs.audio-player":"Audio-Player","mejs.ad-skip":"Werbung \u00fcberspringen","mejs.ad-skip-info":["In einer Sekunde \u00fcberspringen","In %1 Sekunden \u00fcberspringen"],"mejs.source-chooser":"Quellen-Auswahl","mejs.stop":"Stopp","mejs.speed-rate":"\u00dcbertragungsrate","mejs.live-broadcast":"Live-\u00dcbertragung","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanisch","mejs.arabic":"Arabisch","mejs.belarusian":"Wei\u00dfrussisch","mejs.bulgarian":"Bulgarisch","mejs.catalan":"Katalanisch","mejs.chinese":"Chinesisch","mejs.chinese-simplified":"Chinesisch (Vereinfacht)","mejs.chinese-traditional":"Chinesisch (Traditionell)","mejs.croatian":"Kroatisch","mejs.czech":"Tschechisch","mejs.danish":"D\u00e4nisch","mejs.dutch":"Niederl\u00e4ndisch","mejs.english":"Englisch","mejs.estonian":"Estnisch","mejs.filipino":"Filipino","mejs.finnish":"Finnisch","mejs.french":"Franz\u00f6sisch","mejs.galician":"Galicisch","mejs.german":"Deutsch","mejs.greek":"Griechisch","mejs.haitian-creole":"Haitianisches Kreolisch","mejs.hebrew":"Hebr\u00e4isch","mejs.hindi":"Hindi","mejs.hungarian":"Ungarisch","mejs.icelandic":"Isl\u00e4ndisch","mejs.indonesian":"Indonesisch","mejs.irish":"Irisch","mejs.italian":"Italienisch","mejs.japanese":"Japanisch","mejs.korean":"Koreanisch","mejs.latvian":"Lettisch","mejs.lithuanian":"Litauisch","mejs.macedonian":"Mazedonisch","mejs.malay":"Malaiisch","mejs.maltese":"Maltesisch","mejs.norwegian":"Norwegisch","mejs.persian":"Persisch","mejs.polish":"Polnisch","mejs.portuguese":"Portugiesisch","mejs.romanian":"Rum\u00e4nisch","mejs.russian":"Russisch","mejs.serbian":"Serbisch","mejs.slovak":"Slowakisch","mejs.slovenian":"Slowenisch","mejs.spanish":"Spanisch","mejs.swahili":"Suaheli","mejs.swedish":"Schwedisch","mejs.tagalog":"Tagalog","mejs.thai":"Thail\u00e4ndisch","mejs.turkish":"T\u00fcrkisch","mejs.ukrainian":"Ukrainisch","mejs.vietnamese":"Vietnamesisch","mejs.welsh":"Walisisch","mejs.yiddish":"Jiddisch"}};
+</script>
+<script src="https://www.daad.tn/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1"></script>
+<script src="https://www.daad.tn/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.1.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link href="https://www.daad.tn/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.daad.tn/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.1.6" name="generator"/>
+<link href="https://www.daad.tn/de/" rel="canonical"/>
+<link href="https://www.daad.tn/jyBul" rel="shortlink"/>
+<link href="https://www.daad.tn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.daad.tn%2Fde%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.daad.tn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.daad.tn%2Fde%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<link href="https://www.daad.tn/de/" hreflang="de" rel="alternate"/>
+<link href="https://www.daad.tn/en/" hreflang="en" rel="alternate"/>
+<link href="https://www.daad.tn/fr/" hreflang="fr" rel="alternate"/>
+<link href="https://www.daad.tn/" hreflang="x-default" rel="alternate"/>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="https://www.daad.tn/content/themes/ic-ast/manifest.json" rel="manifest"/>
+<meta content="#da532c" name="msapplication-TileColor"/>
+<meta content="https://www.daad.tn/content/themes/ic-ast/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="https://www.daad.tn/fr/" hreflang="fr" rel="alternate"/>
+<link href="https://www.daad.tn/en/" hreflang="en" rel="alternate"/>
+<link href="https://www.daad.tn/de/" hreflang="de" rel="alternate"/>
+<link href="https://www.daad.tn/fr/maroc/" hreflang="fr-ma" rel="alternate"/>
+<link href="https://www.daad.tn/en/libya/" hreflang="en-ly" rel="alternate"/>
+<link href="https://www.daad.tn/fr/algerie/" hreflang="fr-dz" rel="alternate"/>
+</head>
+<body class="home page-template page-template-home_columns page-template-home_columns-php page page-id-8 wp-embed-responsive group-blog masthead-fixed full-width grid">
+<a class="tab-shortcut" href="#main">Springe zum Inhalt</a>
+<a class="tab-shortcut" href="#main-navigation">Springe zur Hauptnavigation</a>
+<div class="container site-container" id="top">
+<header class="clearfix">
+<div class="branding">
+<a href="https://www.daad.tn/de/" title="DAAD Tunesien">
+<span class="sr-only">DAAD Tunesien</span>
+<img alt="" class="logo-globe" data-fallback-image="https://www.daad.tn/content/themes/ic-ast/pics/globus.png" src="https://www.daad.tn/content/themes/ic-ast/pics/globus.svg"/>
+<img alt="DAAD" class="hidden-xs logo-complete" data-fallback-image="https://www.daad.tn/content/themes/ic-ast/pics/daad_logo_fallback.png" src="https://www.daad.tn/files/2018/06/DAAD-Logo-eng-1.svg"/>
+<img alt="DAAD" class="visible-xs logo-mobile" data-fallback-image="https://www.daad.tn/content/themes/ic-ast/pics/logo_daad_mobile.png" src="https://www.daad.tn/content/themes/ic-ast/pics/daad-mobile-logo.svg"/>
+<span class="branding-location">Tunesien</span>
+</a>
+</div>
+<p class="tirgger-navigation" id="navigation-trigger"><i class="icon-bars"></i></p>
+</header>
+<h5 class="sr-only">Navigationen</h5>
+<h6 class="sr-only">Service-Navigation</h6>
+<div class="meta-navigation hidden-sm hidden-xs">
+<div>
+<div>
+<ul class="list-inline meta-navigation-row">
+<li class="lang-item lang-item-4 lang-item-de lang-item-first current-lang"><a href="https://www.daad.tn/de/" hreflang="de-DE" lang="de-DE">Deutsch</a></li>
+<li class="lang-item lang-item-7 lang-item-en"><a href="https://www.daad.tn/en/" hreflang="en-GB" lang="en-GB">English</a></li>
+<li class="lang-item lang-item-47 lang-item-fr"><a href="https://www.daad.tn/fr/" hreflang="fr-FR" lang="fr-FR">Français</a></li>
+</ul>
+</div>
+<ul class="list-inline custom-meta-navigation-row">
+<li>
+<a href="https://www.daad.tn/de/ueber-uns/kontakt/">Kontakt</a>
+</li>
+</ul>
+</div>
+<p class="daad-home-link">
+<a href="https://www.daad.de/de/" target="_blank"><i class="icon-externer-link"></i> DAAD-Homepage</a>
+</p>
+</div>
+<h6 class="sr-only">Hauptnavigation</h6>
+<p class="close-navigation" id="navigation-close"><i class="icon-minus"></i></p>
+<div class="menu-main-navigation-container">
+<div class="visible-sm visible-xs navigation-highlight mobile-home-link">
+<a class="clearfix" href="https://www.daad.tn/de/">
+<span class="pull-left">Startseite</span>
+<span class="pull-right"><i class="icon-home"></i></span>
+</a>
+</div>
+<ul class="main-navigation" id="main-navigation">
+<li class="menu-item single current navigation-post-id-21 clearfix hidden-xs hidden-sm home-link">
+<a href="https://www.daad.tn/de/">Startseite</a>
+</li>
+<li class="menu-item mega navigation-post-id-806 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/">Studieren &amp; Forschen in Deutschland</a>
+<ul class="subnavigation-layer subnavigation-layer-mega list-unstyled">
+<li class="subnavigation-layer-back subnavigation-layer-one-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left hidden-rtl"></i> Studieren &amp; Forschen in Deutschland <i class="icon-chevron-left visible-rtl"></i></a>
+</li>
+<li class="single navigation-post-id-807 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/deutschland-kennenlernen/">Deutschland kennenlernen</a>
+</li>
+<li class="single navigation-post-id-808 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/studieren-in-deutschland/">Studieren in Deutschland</a>
+<ul class="subnavigation-group list-unstyled subnavigation-group-colum">
+<li class="subnavigation-layer-back subnavigation-layer-two-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> Studieren in Deutschland</a>
+</li>
+<li class="single navigation-post-id-2007">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/studieren-in-deutschland/fuer-eltern-15-fragen-und-antworten/">Für Eltern: 15 Fragen und Antworten</a>
+</li>
+</ul>
+</li>
+<li class="single navigation-post-id-809 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/promotion-und-forschung-in-deutschland/">Promotion und Forschung in Deutschland</a>
+</li>
+<li class="single navigation-post-id-810 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/acht-schritte-nach-deutschland/">Acht Schritte nach Deutschland</a>
+</li>
+<li class="single navigation-post-id-822 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/deutsch-lernen/">Deutsch lernen</a>
+<ul class="subnavigation-group list-unstyled subnavigation-group-colum">
+<li class="subnavigation-layer-back subnavigation-layer-two-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> Deutsch lernen</a>
+</li>
+<li class="single navigation-post-id-2025">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/deutsch-lernen/deutsch-lernen-in-tunesien/">Deutsch lernen in Tunesien</a>
+</li>
+<li class="single navigation-post-id-819">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/deutsch-lernen/deutsch-lernen-in-deutschland/">Deutsch lernen in Deutschland</a>
+</li>
+</ul>
+</li>
+<li class="single navigation-post-id-823 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/anzeigen-deutscher-hochschulen/">Anzeigen deutscher Hochschulen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item dropdown navigation-post-id-811 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-tunesien/">Studieren &amp; Forschen in Tunesien</a>
+<ul class="subnavigation-layer subnavigation-layer-dropdown list-unstyled">
+<li class="subnavigation-layer-back subnavigation-layer-one-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left hidden-rtl"></i> Studieren &amp; Forschen in Tunesien <i class="icon-chevron-left visible-rtl"></i></a>
+</li>
+<li class="single navigation-post-id-2378 clearfix">
+<a href="https://www.daad.tn/de/studieren-forschen-in-tunesien/das-tunesische-hochschulwesen/">Das tunesische Hochschulwesen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item dropdown navigation-post-id-812 clearfix">
+<a href="https://www.daad.tn/de/foerderung-finden/">Förderung finden</a>
+<ul class="subnavigation-layer subnavigation-layer-dropdown list-unstyled">
+<li class="subnavigation-layer-back subnavigation-layer-one-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left hidden-rtl"></i> Förderung finden <i class="icon-chevron-left visible-rtl"></i></a>
+</li>
+<li class="single navigation-post-id-813 clearfix">
+<a href="https://www.daad.tn/de/foerderung-finden/stipendiendatenbank/">Stipendiendatenbank</a>
+</li>
+</ul>
+</li>
+<li class="menu-item mega navigation-post-id-820 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/">Über uns</a>
+<ul class="subnavigation-layer subnavigation-layer-mega list-unstyled">
+<li class="subnavigation-layer-back subnavigation-layer-one-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left hidden-rtl"></i> Über uns <i class="icon-chevron-left visible-rtl"></i></a>
+</li>
+<li class="single navigation-post-id-814 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/daad-aussenstelle-tunis/">DAAD-Außenstelle Tunis</a>
+<ul class="subnavigation-group list-unstyled subnavigation-group-colum">
+<li class="subnavigation-layer-back subnavigation-layer-two-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> DAAD-Außenstelle Tunis</a>
+</li>
+<li class="single navigation-post-id-1837">
+<a href="https://www.daad.tn/de/ueber-uns/daad-aussenstelle-tunis/team/">Team</a>
+</li>
+<li class="single navigation-post-id-1192">
+<a href="https://www.daad.tn/de/ueber-uns/daad-aussenstelle-tunis/daad-lektorate/">DAAD-Lektorate in Tunesien</a>
+</li>
+</ul>
+</li>
+<li class="single navigation-post-id-1191 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/daad-in-algerien/">DAAD in Algerien</a>
+</li>
+<li class="single navigation-post-id-1190 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/daad-in-libyen/">DAAD in Libyen</a>
+</li>
+<li class="single navigation-post-id-1189 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/daad-in-marokko/">DAAD in Marokko</a>
+</li>
+<li class="single navigation-post-id-815 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/aktuelles/">Aktuelles</a>
+<ul class="subnavigation-group list-unstyled subnavigation-group-colum">
+<li class="subnavigation-layer-back subnavigation-layer-two-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> Aktuelles</a>
+</li>
+<li class="single navigation-post-id-1209">
+<a href="https://www.daad.tn/de/ueber-uns/aktuelles/newsletter/">Newsletter</a>
+</li>
+<li class="single navigation-post-id-1852">
+<a href="https://www.daad.tn/de/ueber-uns/aktuelles/daad-portraet-des-monats/">DAAD-Porträt des Monats</a>
+</li>
+</ul>
+</li>
+<li class="single navigation-post-id-2289 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/veranstaltungen/">Veranstaltungen</a>
+<ul class="subnavigation-group list-unstyled subnavigation-group-colum">
+<li class="subnavigation-layer-back subnavigation-layer-two-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> Veranstaltungen</a>
+</li>
+<li class="single navigation-post-id-1232">
+<a href="https://www.daad.tn/de/ueber-uns/veranstaltungen/online-seminare/">Online Seminare</a>
+</li>
+</ul>
+</li>
+<li class="single navigation-post-id-816 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/kontakt/">Kontakt</a>
+<ul class="subnavigation-group list-unstyled subnavigation-group-colum">
+<li class="subnavigation-layer-back subnavigation-layer-two-back visible-sm visible-xs navigation-highlight clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> Kontakt</a>
+</li>
+<li class="single navigation-post-id-2046">
+<a href="https://www.daad.tn/de/ueber-uns/kontakt/terminvergabesystem/">Terminvergabesystem</a>
+</li>
+</ul>
+</li>
+<li class="single navigation-post-id-817 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/ueber-den-daad/">Über den DAAD</a>
+</li>
+<li class="single navigation-post-id-2013 clearfix">
+<a href="https://www.daad.tn/de/ueber-uns/download-publikationen/">Download &amp; Publikationen</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="visible-sm visible-xs navigation-highlight mobile-meta-navigation">
+<li class="clearfix" id="trigger-mobile-meta-navigation">
+<a href="#">Weitere Informationen</a>
+<span class="btn-more"><i class="icon-chevron-right"></i></span>
+<ul class="meta-navigation-layer subnavigation-layer-dropdown">
+<li class="subnavigation-layer-back clearfix">
+<a href="#back"><i class="icon-chevron-left"></i> Weitere Informationen</a>
+</li>
+<li class="clearfix">
+<a href="https://www.daad.de/de/">www.daad.de</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="visible-sm visible-xs navigation-highlight mobile-lang-navigation">
+<li class="lang-item lang-item-4 lang-item-de lang-item-first current-lang"><a href="https://www.daad.tn/de/" hreflang="de-DE" lang="de-DE">Deutsch</a></li>
+<li class="lang-item lang-item-7 lang-item-en"><a href="https://www.daad.tn/en/" hreflang="en-GB" lang="en-GB">English</a></li>
+<li class="lang-item lang-item-47 lang-item-fr"><a href="https://www.daad.tn/fr/" hreflang="fr-FR" lang="fr-FR">Français</a></li>
+</ul>
+</div>
+<hr class="visible-md visible-lg"/>
+<div class="breadcrumb-navigation-wrapper hidden-sm hidden-xs">
+</div>
+<div class="c-daad-alert js-daad-alert">
+<div class="c-daad-alert__content">
+<div class="c-daad-alert__icon-wrapper">
+<img alt="Warning icon" class="c-daad-alert__icon" src="https://www.daad.tn/content/themes/ic-ast/pics/warning.svg"/>
+</div>
+<div class="js-daad-alert-content">
+</div>
+</div>
+<a class="js-daad-alert-close c-daad-alert__close">X</a>
+</div>
+<h2 class="sr-only">Startseite</h2>
+<div class="content-area" id="primary">
+<div class="row">
+<div class="col-md-12 slideshow-home">
+<div class="slideshow-wrapper">
+<ul class="slideshow clearfix slideshow-active">
+<li class="slide" id="slide-966">
+<a href="https://www.daad.tn/de/ueber-uns/" title="Der DAAD in Tunesien">
+<figure>
+<img alt=" Beate Schindler-Kovats" height="320" src="https://www.daad.tn/files/2019/08/Blick-Moschee-Zitouna-948x320px.jpg" width="948"/>
+<p class="copyright">Beate Schindler-Kovats</p>
+</figure>
+<div class="slide-layer">
+<p class="dateline">Über uns</p>
+<h2>Der DAAD in Tunesien</h2>
+<p>Mitten im Herzen von Tunis in einer Seitenstraße des Prachtboulevards Habib Bourguiba liegt das Büro des DAAD. 
+Das Informationszentrum Tunis ist regional auch für die Länder Libyen, Marokko und Algerien zuständig. </p>
+<p class="more">Mehr</p>
+</div>
+</a>
+</li>
+<li class="slide" id="slide-3325">
+<a href="https://www.daad.tn/de/ueber-uns/veranstaltungen/" title="Veranstaltungen">
+<figure>
+<img alt=" DAAD/Hüttermann" height="320" src="https://www.daad.tn/files/2020/04/DAAD_HUE_6444_948x320pxNEU.jpg" width="948"/>
+<p class="copyright">DAAD/Hüttermann</p>
+</figure>
+<div class="slide-layer">
+<p class="dateline"></p>
+<h2>Veranstaltungen</h2>
+<p>Informationen über kommende und vergangene Veranstaltungen des DAAD Tunis.</p>
+<p class="more">Mehr</p>
+</div>
+</a>
+</li>
+<li class="slide" id="slide-970">
+<a href="https://www.daad.tn/de/angebote-fuer-alumni/" title="Angebote für Alumni">
+<figure>
+<img alt="Internationale Alumni unterhalten sich sitzend an einem Tisch. iStockphoto" height="320" src="https://www.daad.tn/files/2019/08/internationale-alumni-unterhalten-sich-lachend-an-einem-tisch-sitzend_Copyright-iStockphoto_948x320.jpg" width="948"/>
+<p class="copyright">iStockphoto</p>
+</figure>
+<div class="slide-layer">
+<p class="dateline">Infos für Alumni</p>
+<h2>Angebote für Alumni</h2>
+<p>Dem DAAD ist der Kontakt zu den Alumni ein sehr wichtiges Anliegen. Ziel ist, die Bindung der ehemaligen Stipendiaten an Deutschland zu erhalten und ein aktives und stetig wachsendes weltweites Netzwerk zu knüpfen.</p>
+<p class="more">Mehr</p>
+</div>
+</a>
+</li>
+<li class="slide" id="slide-973">
+<a href="https://www.daad.tn/de/studieren-forschen-in-deutschland/" title="Studieren &amp; Forschen in Deutschland">
+<figure>
+<img alt="Internationale Studierende liegen lachend auf der Wiese. iStockphoto" height="320" src="https://www.daad.tn/files/2019/08/internationale-studierende-liegen-lachend-auf-der-wiese_Copyright-iStockphoto_948x320.jpg" width="948"/>
+<p class="copyright">iStockphoto</p>
+</figure>
+<div class="slide-layer">
+<p class="dateline">Infos für Tunesier</p>
+<h2>Studieren &amp; Forschen in Deutschland</h2>
+<p>Sie möchten in Deutschland studieren? Oder Sie möchten promovieren und suchen nach einem geeigneten Programm?</p>
+<p class="more">Mehr</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="site-main-home-columns col-md-8" id="main" role="main">
+<div class="row">
+<div class="col-md-12">
+<div class="country-competence-teaser">
+<figure>
+<img alt="Rotes Fahnenpiktogramm" data-fallback-image="https://www.daad.tn/content/themes/ic-ast/pics/icon-zustaendigkeit.png" height="54" src="https://www.daad.tn/content/themes/ic-ast/pics/icon-zustaendigkeit.svg" width="54"/>
+</figure>
+<h2>Die DAAD-Außenstelle Tunis ist zuständig für</h2>
+<p>Tunesien sowie <a href="https://www.daad.tn/de/ueber-uns/daad-in-algerien/">Algerien</a>, <a href="https://www.daad.tn/de/ueber-uns/daad-in-libyen/">Libyen</a> und <a href="https://www.daad.tn/de/ueber-uns/daad-in-marokko/">Marokko</a>.</p>
+</div>
+</div>
+<div class="col-md-12">
+<div id="texblock-2525">
+<div class="col-md-12 clearfix teaser-two-col-wrapper">
+<div class="teaser two-column-teaser teaser-external ">
+<a href="https://www.daad.de/de/coronavirus/" target="_blank" title="Öffnet Link in neuem Fenster">
+<figure class="teaser-image">
+<img alt="" src="https://www.daad.tn/files/2020/09/iStock-1136191676_168px.jpg"/>
+<span class="copyright">iStockphoto</span>
+</figure>
+<p class="dateline">Coronavirus</p>
+<h2>Informationen zu Auswirkungen auf die Arbeit des DAAD</h2>
+<p>Der DAAD verfolgt kontinuierlich die Entwicklungen zum Coronavirus und passt seine Aktivitäten flexibel an veränderte Situationen an. Wir sind in engem Kontakt mit unseren Geförderten und Hochschulpartnern. Aktuelle Auswirkungen auf die Handlungsfelder des DAAD können Sie hier verfolgen.</p>
+<p class="more">Mehr auf daad.de</p>
+</a>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="col-md-12 clearfix">
+<div class="infobox scholarship-teaser">
+<h2>Stipendien finden</h2>
+<div class="scholarship-form clearfix ">
+<form action="https://www.daad.tn/de/foerderung-finden/stipendiendatenbank/" method="get">
+<div class="form-group clearfix">
+<div class="radio radio-origin">
+<label>
+<input checked="" name="type" type="radio" value="a"/> Ich komme aus                    </label>
+<div class="select-origin-wrapper">
+<select id="origin_country_selection" name="origin">
+<option selected="selected" value="189">Tunesien</option>
+<option value="186">Algerien</option>
+<option value="188">Marokko</option>
+<option value="187">Libyen</option>
+</select>
+</div>
+</div>
+<div class="radio radio-target">
+<label class="radio">
+<input name="type" type="radio" value="d"/> Ich komme aus Deutschland                </label>
+</div>
+</div>
+<div class="hidden-md hidden-lg">
+<p class="mobile-form-trigger" id="mobile-form-trigger"><i class="icon-plus"></i> weitere Optionen</p>
+</div>
+<div class="form-advanced-options hidden-mobile-scholarship-view">
+<div class="form-group form-group-serach-term clearfix">
+<label class="control-label" for="search-term">Stichwort</label>
+<input class="form-control" id="search-term" name="q" type="text" value=""/>
+</div>
+<div class="form-section" id="form-section-origin">
+<div class="form-group clearfix">
+<label class="control-label" for="status_for_origin">Status</label>
+<select class="form-control" id="status_for_origin" name="status">
+<option value="0">- Status auswählen -</option>
+<option value="1">Studierende</option>
+<option value="3">Graduierte</option>
+<option value="4">Doktoranden</option>
+<option value="2">Promovierte</option>
+<option value="5">Hochschullehrer</option>
+</select>
+</div>
+<div class="form-group clearfix">
+<label class="control-label" for="subject_for_origin">Fachrichtung</label>
+<select class="form-control" id="subject_for_origin" name="subjectgroup">
+<option value="0">- Fachrichtung auswählen -</option>
+<option value="D">Humanmedizin</option>
+<option value="F">Ingenieurwissenschaften</option>
+<option value="G">Kunst, Musik und Sportwissenschaften</option>
+<option value="C">Mathematik/Naturwissenschaften</option>
+<option value="B">Rechts-, Wirtschafts- und Sozialwissenschaften</option>
+<option value="A">Sprach- und Kulturwissenschaften</option>
+<option value="E">Veterinärmedizin/Agrar-, Forst- und Ernährungswissenschaften</option>
+</select>
+</div>
+</div>
+<div class="form-section" id="form-section-target">
+<div class="form-group clearfix">
+<label class="control-label" for="country_for_target">Zielland</label>
+<select class="form-control" disabled="" id="country_for_target" name="target">
+<option selected="selected" value="189">Tunesien</option>
+<option value="186">Algerien</option>
+<option value="188">Marokko</option>
+<option value="187">Libyen</option>
+</select>
+</div>
+<div class="form-group clearfix">
+<label class="control-label" for="status_for_target">Status</label>
+<select class="form-control" disabled="" id="status_for_target" name="status">
+<option value="0">- Status auswählen -</option>
+<option value="1">Studierende</option>
+<option value="3">Graduierte</option>
+<option value="4">Doktoranden</option>
+<option value="2">Promovierte</option>
+<option value="5">Hochschullehrer</option>
+</select>
+</div>
+<div class="form-group clearfix">
+<label class="control-label" for="subject_for_target">Fachrichtung</label>
+<select class="form-control" disabled="" id="subject_for_target" name="subjectgroup">
+<option value="0">- Fachrichtung auswählen -</option>
+<option value="D">Humanmedizin</option>
+<option value="F">Ingenieurwissenschaften</option>
+<option value="G">Kunst, Musik und Sportwissenschaften</option>
+<option value="C">Mathematik/Naturwissenschaften</option>
+<option value="B">Rechts-, Wirtschafts- und Sozialwissenschaften</option>
+<option value="A">Sprach- und Kulturwissenschaften</option>
+<option value="E">Veterinärmedizin/Agrar-, Forst- und Ernährungswissenschaften</option>
+</select>
+</div>
+</div>
+<div class="checkbox checkbox-only-daad">
+<label>
+<input name="onlydaad" type="checkbox" value="1"/> Nur Förderangebote des DAAD                </label>
+</div>
+</div>
+<div class="form-group filter-submit">
+<button class="btn btn-primary" type="submit">Auswahl verfeinern</button>
+</div>
+<input name="action" type="hidden" value="filter"/>
+<div class="form-group teaser-submit">
+<button class="btn btn-primary" type="submit">Stipendium finden</button>
+</div>
+<div class="hidden-md hidden-lg">
+<p class="scholarship-form-reset-trigger" id="scholarship-form-reset-trigger"><a href=""><i class="icon icon-angle-double-left"></i> Auswahl zurücksetzen &amp; alle anzeigen</a></p>
+</div>
+</form>
+</div>
+<script>
+    var scholarshipApiUrl = "https://www.daad.de/ajax/scholarships-api/";
+    var defaultStatus = 0;
+    var defaultTargetOrOrigin = 189;
+    var defaultType = "a";
+    var currentDatabaseLanguage = "de";
+    var textSelectStatus = "Status auswählen";
+    var textSelectSubject = "Fachrichtung auswählen";
+</script>
+</div>
+</div>
+<div class="col-md-12">
+</div>
+<div class="col-md-12 home-teaser home-teaser-news clearfix">
+<h2>Aktuelles</h2>
+<div class="teaser-news">
+<div class="teaser-news-content-wrapper clearfix">
+<div class="news-preview pull-left hidden-xs">
+<ul class="list-unstyled">
+<li class="news-teaser-entry" id="news-teaser-entry0">
+<a href="https://www.daad.tn/de/2020/11/03/portraet-des-monats-november-2020/" title="Porträt des Monats November 2020">
+<figure>
+<img alt="" src="https://www.daad.tn/files/2019/08/daad_dummy_maennlich_168-168x147.jpg"/>
+<span class="copyright">© DAAD</span>
+</figure>
+<p class="dateline">Nesrine Benmahidi und Walid Khaldi</p>
+<h3>Porträt des Monats November 2020</h3>
+<p class="intro">Auch in diesem Jahr bietet der DAAD Studierenden aller Fachrichtungen aus dem Maghreb die Möglichkeit sich für das Hochschulsommerkurs-Stipendienprogramm zu bewerben.</p>
+<p class="more-link">Mehr</p>
+</a>
+</li>
+<li class="news-teaser-entry" id="news-teaser-entry1">
+<a href="https://www.daad.tn/de/2020/10/27/portraet-des-monats-oktober-2020/" title="Porträt des Monats Oktober 2020">
+<figure>
+<img alt="" src="https://www.daad.tn/files/2020/10/Oualid--260x147.jpg"/>
+<span class="copyright">© Oualid Oukettou</span>
+</figure>
+<p class="dateline">Rihem Hssan und Oualid Oukettou</p>
+<h3>Porträt des Monats Oktober 2020</h3>
+<p class="intro">Der DAAD fördert im Kontext der BMZ-Sonderinitiative „Ausbildung und Beschäftigung“ Masterstudiengänge für Fachkräfte aus Tunesien, Marokko und fünf weiteren afrikanischen Ländern.</p>
+<p class="more-link">Mehr</p>
+</a>
+</li>
+<li class="news-teaser-entry" id="news-teaser-entry2">
+<a href="https://www.daad.tn/de/2020/10/09/internationale-parlaments-stipendium-ips/" title="Internationale Parlaments-Stipendium (IPS)">
+<figure>
+<img alt="" src="https://www.daad.tn/files/2020/10/IPS_facebook_cover_2-260x147.png"/>
+<span class="copyright">© IPS</span>
+</figure>
+<p class="dateline">Programm</p>
+<h3>Internationale Parlaments-Stipendium (IPS) </h3>
+<p class="intro">Der Deutsche Bundestag bietet im September 2021 bereits zum zehnten Mal das Internationale Parlaments-Stipendium (IPS) Programm Arabische Staaten an.</p>
+<p class="more-link">Mehr</p>
+</a>
+</li>
+<li class="news-teaser-entry" id="news-teaser-entry3">
+<a href="https://www.daad.tn/de/2020/09/07/portraet-des-monats-september-2020/" title="Porträt des Monats September 2020">
+<figure>
+<img alt="" src="https://www.daad.tn/files/2020/09/IMG_0604-C-260x147.jpg"/>
+<span class="copyright">© Abdelhadi Soudi</span>
+</figure>
+<p class="dateline">Prof. Abdelhadi Soudi</p>
+<h3>Porträt des Monats September 2020</h3>
+<p class="intro">Prof. Abdelhadi Soudi hat als einer von sechs Wissenschaftlerinnen und Wissenschaftler aus Afrika gemeinsam mit seiner deutschen Partnerhochschule den Deutsch-Afrikanischen Innovationsförderpreis erhalten.</p>
+<p class="more-link">Mehr</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="news-list pull-right hidden-xs">
+<ul class="list-unstyled">
+<li class="news-teaser-entry-trigger" data-number="0">
+<p class="dateline">Nesrine Benmahidi und Walid Khaldi</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/11/03/portraet-des-monats-november-2020/">Porträt des Monats November 2020</a>
+</h3>
+</li>
+<li class="news-teaser-entry-trigger" data-number="1">
+<p class="dateline">Rihem Hssan und Oualid Oukettou</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/10/27/portraet-des-monats-oktober-2020/">Porträt des Monats Oktober 2020</a>
+</h3>
+</li>
+<li class="news-teaser-entry-trigger" data-number="2">
+<p class="dateline">Programm</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/10/09/internationale-parlaments-stipendium-ips/">Internationale Parlaments-Stipendium (IPS) </a>
+</h3>
+</li>
+<li class="news-teaser-entry-trigger" data-number="3">
+<p class="dateline">Prof. Abdelhadi Soudi</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/09/07/portraet-des-monats-september-2020/">Porträt des Monats September 2020</a>
+</h3>
+</li>
+</ul>
+<p class="all-news">
+<a class="btn btn-primary" href="https://www.daad.tn/de/ueber-uns/aktuelles/" title="Alle News anzeigen">Alle News anzeigen</a>
+</p>
+</div>
+<div class="visible-xs news-list-mobile">
+<ul class="list-unstyled">
+<li>
+<p class="dateline">Nesrine Benmahidi und Walid Khaldi</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/11/03/portraet-des-monats-november-2020/">Porträt des Monats November 2020</a>
+</h3>
+</li>
+<li>
+<p class="dateline">Rihem Hssan und Oualid Oukettou</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/10/27/portraet-des-monats-oktober-2020/">Porträt des Monats Oktober 2020</a>
+</h3>
+</li>
+<li>
+<p class="dateline">Programm</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/10/09/internationale-parlaments-stipendium-ips/">Internationale Parlaments-Stipendium (IPS) </a>
+</h3>
+</li>
+<li>
+<p class="dateline">Prof. Abdelhadi Soudi</p>
+<h3>
+<a href="https://www.daad.tn/de/2020/09/07/portraet-des-monats-september-2020/">Porträt des Monats September 2020</a>
+</h3>
+</li>
+</ul>
+<p class="all-news">
+<a class="btn btn-primary" href="https://www.daad.tn/de/ueber-uns/aktuelles/" title="Alle News anzeigen">Alle News anzeigen</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 clearfix teaser-two-col-wrapper clearfix">
+<div class="teaser two-column-teaser"> <a href="https://www.daad.tn/de/kooperationen-mit-hochschulen/" title="Kooperationen mit Hochschulen"> <figure class="teaser-image"> <p class="image-wrapper"> <img alt="Die Außenfassade der Universität Karlsruhe." src="https://www.daad.tn/files/2019/08/20061110uw0054_624-168x168.jpg"/> <span class="copyright">DAAD/Wenzel</span> </p> </figure> <p class="dateline">Förderprogramme finden</p><h2>Kooperationen mit Hochschulen</h2> <p>Hochschulen in Deutschland und in der ganzen Welt pflegen ein internationales Netzwerk an Kontakten zu Partnereinrichtungen. Mit seinen Förderprogrammen lädt der DAAD die deutschen Hochschulen ein, diese Netzwerke weiter auszubauen.</p> <p class="more">Mehr</p> </a></div> </div>
+<div class="col-md-12 clearfix teaser-two-col-wrapper clearfix">
+<div class="teaser two-column-teaser"> <a href="https://www.daad.tn/de/angebote-fuer-alumni/" title="Angebote für Alumni"> <figure class="teaser-image"> <p class="image-wrapper"> <img alt="Internationale Alumni unterhalten sich sitzend an einem Tisch." src="https://www.daad.tn/files/2019/08/internationale-alumni-unterhalten-sich-lachend-an-einem-tisch-sitzend_Copyright-iStockphoto_624x351-168x168.jpg"/> <span class="copyright">iStockphoto</span> </p> </figure> <p class="dateline">Stipendiaten</p><h2>Angebote für Alumni</h2> <p>Der DAAD betrachtet das Ende der Förderzeit als Beginn einer langjährigen Beziehung mit seinen Alumni. Wir haben uns dabei zum Ziel gesetzt, den Kontakt der Alumni untereinander und mit dem DAAD zu fördern, sei es durch die Unterstützung bei der Gründung von Alumni Clubs, sei es durch vielfältige Förderprogramme und Maßnahmen.</p> <p class="more">Mehr</p> </a></div> </div>
+<div class="col-md-12 clearfix">
+<h2>Social Media</h2>
+<div class="c-social-feed">
+<div class="c-social-feed__list-outer">
+<div class="c-social-feed__list-wrapper js-social-feed" data-api-url="https://www.daad.tn/api/socialmedia" data-count-facebook="10" data-count-instagram="10" data-count-twitter="10" data-feed-height="740" data-networks="facebook" data-tags-facebook="" data-tags-instagram="" data-tags-twitter="">
+<div class="c-social-feed__loader js-social-feed-loader">
+<img src="https://www.daad.tn/content/themes/ic-ast/pics/spinner.gif"/>
+</div>
+<ul class="c-social-feed__list list-unstyled js-social-wall"></ul>
+</div>
+</div>
+<div class="c-social-feed__scroll-navigation">
+<button class="js-social-scroll c-social-feed__scroll-navigation-item" data-direction="down"><i class="icon-chevron-up"></i></button>
+<button class="js-social-scroll c-social-feed__scroll-navigation-item" data-direction="up"><i class="icon-chevron-down"></i></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="site-aside col-md-4">
+<h2 class="sr-only">Zusatzinformationen</h2>
+<div class="teaser-address-map">
+<figure>
+<img alt="Standort Karte" src="https://maps.googleapis.com/maps/api/staticmap?zoom=8&amp;size=260x260&amp;language=de&amp;key=AIzaSyAgxG_d1lSW6yzZTszXUVcvST0qQo5020o&amp;markers=color:red%7C36.7987128,10.1837258"/>
+</figure>
+<ul class="api-address-list list-unstyled">
+<li class="address-list-item">
+<p class="dateline">DAAD Tunesien</p>
+<h2>DAAD-Außenstelle Tunis</h2>
+<div class="vcard">
+<p>
+<strong>Adresse: </strong>
+<span class="adr">
+                                                                                    14, rue du 18 janvier 1952                                             <br/>
+                                                                                                                            1000 Tunis (Centreville)                                                                            </span>
+</p>
+<p>
+<strong>Telefon: </strong><span class="tel">+216 71 240 833</span>
+</p>
+<p>
+<strong>Telefax: </strong><span class="tel">+216 71 240 831</span>
+</p>
+<p>
+<strong>E-Mail: </strong><span class="url email"><a href="mailto:info@daad.tn" target="_blank">info<span class="at-replace"></span>daad.tn</a></span>
+</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="ad-teaser-wrapper">
+<h2 class="ad-teaser-hint">Anzeigen deutscher Hochschulen</h2>
+<div>
+<ul class="ad-slider-wrapper list-unstyled">
+<li class="teaser one-column-teaser">
+<a href="https://www.daad.tn/de/university-ads/berlin-barenboim-said/" title="Öffnet Anzeige">
+<figure class="teaser-image">
+<p class="image-wrapper">
+<img alt="" src="https://www.daad.tn/files/2020/09/191018_Berlin_Barenboim-Said_WA1_Logo168_5279815_1296900.jpg"/>
+<span class="copyright"></span>
+</p>
+</figure>
+<p class="dateline">1/3 Anzeigen deutscher Hochschulen</p>
+<h3>Study and Perform! </h3>
+<p>At the Barenboim-Said Akademie, students intensively prepare for careers in classical music, developing and refining their musical skills while building a foundational knowledge in the humanities. </p>
+<p class="more">Mehr</p>
+</a>
+</li>
+<li class="teaser one-column-teaser">
+<a href="https://www.daad.tn/de/university-ads/berlin-htw-ma/" title="Öffnet Anzeige">
+<figure class="teaser-image">
+<p class="image-wrapper">
+<img alt="" src="https://www.daad.tn/files/2020/11/201105_Berlin_HTW_KrebsA_WA2_Logo168.jpg"/>
+<span class="copyright"></span>
+</p>
+</figure>
+<p class="dateline">2/3 Anzeigen deutscher Hochschulen</p>
+<h3>MBA and Engineering in Life Science Management Programme</h3>
+<p>Internationally accredited MBA&amp;E providing life science expertise required in the leaders of the future combining comprehensive, industry-specific knowledge and management skills.  </p>
+<p class="more">Mehr</p>
+</a>
+</li>
+<li class="teaser one-column-teaser">
+<a href="https://www.daad.tn/de/university-ads/fulda-hs-pre-study/" title="Öffnet Anzeige">
+<figure class="teaser-image">
+<p class="image-wrapper">
+<img alt="" src="https://www.daad.tn/files/2020/09/200908_Fulda_HS_Krinowski_WA1_Logo168.jpg"/>
+<span class="copyright"></span>
+</p>
+</figure>
+<p class="dateline">3/3 Anzeigen deutscher Hochschulen</p>
+<h3>Preparation for Bachelor, Master and Vocational training</h3>
+<p>You are finishing your high school or Bachelor soon? 
+You want to continue your education in Germany? 
+You don´t meet some requirements yet?
+We got your back!
+</p>
+<p class="more">Mehr</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<h2 class="c-social-feed__module-headline"><img alt="DW Logo" src="https://www.daad.tn/content/themes/ic-ast/pics/logo-deutschewelle.png"/><span>German News Service</span></h2>
+<div class="c-social-feed">
+<div class="c-social-feed__list-outer">
+<div class="c-social-feed__list-wrapper js-social-feed" data-api-url="https://www.daad.tn/api/dw-news" data-feed-height="740" data-language="de">
+<div class="c-social-feed__loader js-social-feed-loader">
+<img src="https://www.daad.tn/content/themes/ic-ast/pics/spinner.gif"/>
+</div>
+<ul class="c-social-feed__list list-unstyled js-social-wall"></ul>
+</div>
+</div>
+<div class="c-social-feed__scroll-navigation">
+<button class="js-social-scroll c-social-feed__scroll-navigation-item" data-direction="down"><i class="icon-chevron-up"></i></button>
+<button class="js-social-scroll c-social-feed__scroll-navigation-item" data-direction="up"><i class="icon-chevron-down"></i></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<h2 class="sr-only">Schnellzugriff</h2>
+<div class="footer-wrapper">
+<div class="container footer-container">
+<div class="row">
+<div class="col-sm-8 footer-navigation-wrapper">
+<h2 class="sr-only">Metanavigation</h2>
+<ul class="list-inline">
+<li>
+<a href="https://www.daad.tn/de/datenschutzerklaerung/">Datenschutzerklärung</a>
+</li>
+<li>
+<a href="https://www.daad.tn/de/impressum/">Impressum</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-4 footer-socialmedia-wrapper">
+<div class="socialmedia-icons clearfix">
+<h2>Social Media</h2>
+<ul class="socialmedia-icons-list">
+<li>
+<a href="https://www.facebook.com/DAAD.Tunisie/" target="_blank">
+<i class="icon-social-facebook"></i>
+<span class="sr-only">Facebook</span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC5xHa2Z4GYHt23XIIqU-SIg" target="_blank">
+<i class="icon-social-youtube"></i>
+<span class="sr-only">Youtube</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script>
+            var lightboxArrowLeftText = "zurück";
+            var lightboxArrowRightText = "vor";
+            var lightboxLoadingText = "Laden...";
+            var lightboxCloseText = "Bildergalerie schließen";
+            var datePickerSunday = "So";
+            var datePickerMonday = "Mo";
+            var datePickerTuesday = "Di";
+            var datePickerWednesday = "Mi";
+            var datePickerThursday = "Do";
+            var datePickerFriday = "Fr";
+            var datePickerSaturday = "Sa";
+            var datePickerJanuary = "Januar";
+            var datePickerFebruary = "Februar";
+            var datePickerMarch = "März";
+            var datePickerApril = "April";
+            var datePickerMay = "Mai";
+            var datePickerJune = "Juni";
+            var datePickerJuly = "Juli";
+            var datePickerAugust = "August";
+            var datePickerSeptember = "September";
+            var datePickerOctober = "Oktober";
+            var datePickerNovember = "November";
+            var datePickerDecember = "Dezember";
+            var jsVendorPath = "https://www.daad.tn/content/themes/ic-ast";
+        </script>
+<script src="https://www.daad.tn/content/plugins/shariff-sharing/dep/shariff.complete.js"></script>
+<script>window.cookieconsent_options = {"message":"Unsere Webseite verwendet Cookies, um den bestmöglichen Service zu gewährleisten. Mit der Nutzung der Seite stimmen Sie der Cookie-Nutzung zu.","dismiss":"Ja, ich stimme zu","learnMore":"Weitere Infos","link":"https://www.daad.tn/de/datenschutzerklaerung/","theme":"light-top"}</script> <!-- Google Analytics - OptOut -->
+<script>
+            var gaProperty = 'UA-107541382-43';
+            var disableStr = 'ga-disable-' + gaProperty;
+            if (document.cookie.indexOf(disableStr + '=true') > -1) {
+
+                window[disableStr] = true;
+            }
+            function gaOptout() {
+                document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                window[disableStr] = true;
+            }
+        </script>
+<!-- END Google Analytics - OptOut -->
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-107541382-43"></script>
+<script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-107541382-43', {
+                'anonymize_ip': true,
+                'cookieFlags': 'SameSite=None; Secure'
+            });
+        </script>
+<!-- END Global Site Tag (gtag.js) - Google Analytics -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/wp-includes/js/dist/vendor/moment.min.js?ver=2.22.2"></script>
+<script>
+moment.locale( 'de_DE', {"months":["Januar","Februar","M\u00e4rz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"monthsShort":["Jan","Feb","Mrz","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"],"weekdays":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"weekdaysShort":["So","Mo","Di","Mi","Do","Fr","Sa"],"week":{"dow":1},"longDateFormat":{"LT":"G:i","LTS":null,"L":null,"LL":"j. F Y","LLL":"j. F Y G:i","LLLL":null}} );
+</script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/vendor/daterangepicker/daterangepicker.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/vendor/slick-carousel/slick/slick.min.js?ver=5.1.6"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.14.0/jquery.validate.min.js?ver=5.1.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var scholarshipScript = {"ajaxurl":"https:\/\/www.daad.tn\/wp-admin\/admin-ajax.php","translations":{"shortForm":{"mandatory":"This is a mandatory field."},"longForm":{"mandatory":"Dies ist ein Pflichtfeld."}}};
+/* ]]> */
+</script>
+<script src="https://www.daad.tn/content/plugins/daad-scholarship-database/js/daad-scholarship-database.js?ver=b31129c1860c4137e070215d716cddf3"></script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/vendor/jquery.bxslider/jquery.bxslider.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/vendor/magnific-popup/jquery.magnific-popup.min.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/content/vendor/bootstrap/js/tooltip.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/content/vendor/bootstrap/js/popover.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/content/vendor/bootstrap/js/modal.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/vendor/jquery.smooth-scroll.min.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.1.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var baukaScript = {"ajaxurl":"https:\/\/www.daad.tn\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/script.js?ver=3ef138d7fa42000d41a916c47c48577e"></script>
+<script src="https://www.daad.tn/content/themes/ic-ast/js/vendor/footable-standalone/js/footable.js?ver=5.1.6"></script>
+<script src="https://www.daad.tn/wp-includes/js/wp-embed.min.js?ver=5.1.6"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js?ver=5.1.6"></script>
+<div class="fader" id="fader">
+</div>
+<a class="page-top" href="#top">
+<i class="icon-chevron-up"></i>
+<span class="sr-only">Nach oben</span>
+</a>
+</body>
+</html>

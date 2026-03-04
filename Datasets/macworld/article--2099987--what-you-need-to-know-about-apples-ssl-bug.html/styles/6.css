@@ -1,0 +1,30 @@
+#page-top{ background-color:#2699cd; }
+#logo a.banner-logo { background:url(http://csmb.staticworld.net/images/furniture/techhive/logo-banner-macworld-sm.png) 0 0 no-repeat; }
+#home-reviews { background:#E7E8E8; }
+#banner-search-term { background:#fff }
+#saved-comparisons{ background-color:#333; }
+#saved-comparisons.editable span.remove { background: url(http://csmb.staticworld.net/images/furniture/macworld/nav-elements_sprite-mw.png) 0 -49px no-repeat; }
+.home-features .browse { background:url(http://csmb.staticworld.net/images/furniture/macworld/features-carousel_sprite_new-mw.png) 0 90px no-repeat; }
+.next.browse { background-position:-40px 0; }
+body.home .prev.browse { background-position: 40px 0; }
+#panel-nav a { background: #404041; }
+#panel-nav a:hover { background: #222222; }
+#heroLogin li{ border-color:#0f3d52; }
+.video-series-link{ font-weight:bold; }
+a .btn-link,
+a.btn-link,
+button,
+input[type=submit],
+input[type=button] { background: #05C7F2; background: -moz-linear-gradient(top,#05C7F2 0%, #3399CC 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#05C7F2), color-stop(100%,#3399CC)); background: -webkit-linear-gradient(top,#05C7F2 0%,#3399CC 100%); background: -o-linear-gradient(top,#05C7F2 0%,#3399CC 100%); background: -ms-linear-gradient(top,#05C7F2 0%,#3399CC 100%); background: linear-gradient(top,#05C7F2 0%,#3399CC 100%); }
+a.btn-link:hover,
+a:hover .btn-link,
+button:hover,
+input[type=submit]:hover,
+input[type=button]:hover { background: #3399CC; background: -moz-linear-gradient(top,#3399CC 0%, #05C7F2 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3399CC), color-stop(100%,#05C7F2)); background: -webkit-linear-gradient(top,#3399CC 0%,#05C7F2 100%); background: -o-linear-gradient(top,#3399CC 0%,#05C7F2 100%); background: -ms-linear-gradient(top,#3399CC 0%,#05C7F2 100%); background: linear-gradient(top,#3399CC 0%,#05C7F2 100%); }
+.column-hed { background:url(http://csmb.staticworld.net/images/furniture/macworld/bg-column-hed-mw.png) 0 0 repeat; }
+#main-search-term { background:#f4f4f4 url(http://csmb.staticworld.net/images/furniture/macworld/nav-elements_sprite-mw.png) 99% -92px no-repeat; }�
+.product-results div.compare span { background: #3399CC url(http://csmb.staticworld.net/images/furniture/macworld/related-sprite-mw.png) 4px 0 no-repeat; }
+.product-results div.compare div { background: #3399CC; }
+.product-results div.compare.comparing span:hover{ background: #3399CC; }
+div.badgeHeader{ background: url(http://csmb.staticworld.net/images/furniture/techhive/ChartBadgeLabel-MW.png) 0 0 no-repeat; }
+span.businessReadyInline{ background:url("http://csmb.staticworld.net/images/furniture/techhive/BusinessReadyLogo-BusinessHeader-mw.png") 0 2px no-repeat scroll transparent; background-size:32px 17px; }

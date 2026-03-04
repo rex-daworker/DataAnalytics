@@ -1,0 +1,1 @@
+['universität', 'studium', 'master', 'certified', 'programm', 'forschung', 'öffentliche', 'universität', 'e-learning', 'blended', 'learning', 'lifelong', 'learning']

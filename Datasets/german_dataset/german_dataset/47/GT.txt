@@ -1,0 +1,1 @@
+['gewerkschaft', 'bildung', 'tarifvertrag', 'tvöd', 'tv-l']

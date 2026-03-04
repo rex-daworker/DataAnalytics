@@ -1,0 +1,1 @@
+['stipendien', 'alumni', 'projektförderung', 'aktuelles', 'kooperationen', 'hochschulen', 'angebote']

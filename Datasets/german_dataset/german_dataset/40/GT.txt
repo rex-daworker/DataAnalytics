@@ -1,0 +1,1 @@
+['studienführer', 'studienangebot', 'weiterbildung']

@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Bund für vereinfachte rechtschreibung (BVR)</title>
+<meta content="rechtschreibreform, rechtschreibereform, schreibreform, BVR, kleinschreibung, rechtschreibung, orthographie, ortografie, orthografie" name="keywords"/>
+<meta content="Unsere ziele: verbesserung der rechtschreibung im interesse der lesenden und der schreibenden, erhaltung und pflege des kulturguts buchstabenschrift" name="description"/>
+<meta content="de" name="Content-Language"/>
+<meta content="Landolt Rolf" name="author"/>
+<meta content="INDEX, FOLLOW" name="ROBOTS"/>
+<meta content="rechtschreibreform" name="subject"/>
+<meta content="mBz9jxh3hSAXaPtGl8skYkWSgJerR6x8og-8-jLBAvk" name="google-site-verification"/>
+<link href="./bvr/stylesheet.css" rel="STYLESHEET" type="text/css"/>
+</head>
+<body background="./bvr/img/Bback1.gif">
+<div align="right"><a href="https://www.ortografie.ch/">weiter/continue (ortografie.ch)</a><br/>
+<a href="./bvr/" title="frames">alte version</a></div>
+<h2 style="margin-top:0"><font color="red">Gegen </font>etwas zu sein ist einfach</h2>
+<div>
+<a href="https://www.ortografie.ch/"><img align="right" alt="Bund für vereinfachte rechtschreibung" height="353.5" src="./bvr/img/bsrr1924-707.png" width="353.5"/></a><!-- bsbaecht.gif -->
+</div>
+<font size="-2">
+WIR <font color="red">gegen </font>die Rechtschreibreform in Bayern<br/>
+WIR <font color="red">gegen </font>die Rechtschreibreform in Niedersachsen<br/>
+WIR <font color="red">gegen </font>die Rechtschreibreform in Sachsen<br/>
+WIR <font color="red">gegen </font>die Rechtschreibreform in Schleswig-Holstein<br/>
+Wir Schüler <font color="red">gegen </font>die Rechtschreibreform<br/>
+Initiative von Mainzer Hochschullehrern <font color="red">gegen </font>die Wiener Absichtserklärung zur Neuregelung der deutschen Rechtschreibung<br/>
+Wir Eltern <font color="red">gegen </font>die Rechtschreibreform<br/>
+Wir Sekretärinnen <font color="red">gegen </font>die Rechtschreibreform<br/>
+Initiativgruppe <font color="red">gegen </font>die Rechtschreibreform im Jahre 1998<br/>
+Internationale Interessengemeinschaft <font color="red">GEGEN </font>die Rechtschreibreform (IGR) Deutschland - Österr. - Schweiz<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Baden-Württ.<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Bayern<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Berlin<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Hessen<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Niedersachsen<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Nordrhein-Westfalen<br/>
+Lehrerinitiative <font color="red">gegen </font>die Rechtschreibreform Rheinland-Pfalz<br/>
+Spandauer Eltern <font color="red">gegen </font>die Rechtschreibreform<br/>
+Volksbegehren <font color="red">gegen </font>die Rechtschreibreform (Ba-Wü)
+</font>
+<h2><a href="https://www.ortografie.ch/">Hier</a> erhebt sich eine stimme <font color="red">für </font>etwas</h2>
+<font size="4">
+<ul>
+<li><font color="red">Für </font>eine verbesserung der rechtschreibung im interesse der lesenden und der schreibenden</li>
+<li><font color="red">Für </font>die erhaltung und pflege des kulturguts buchstabenschrift</li>
+<li><font color="red">Für </font>eine sachliche und konstruktive diskussion</li>
+</ul>
+</font>
+<p><a href="https://www.ortografie.ch/"><img align="top" alt="BVR" src="./bvr/img/arr1r.gif"/></a> Bund <font color="red">für </font>vereinfachte rechtschreibung</p>
+<hr/>
+<table align="center">
+<colgroup span="2">
+<col width="50%"/>
+<col width="50%"/>
+</colgroup>
+<tr>
+<td colspan="2">
+<p class="wobinich">Der Bund für vereinfachte rechtschreibung auf</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<div style="text-align: left;"><a href="http://www.facebook.com/rechtschreibreform" target="_blank"><img height="50" src="./bvr/img/fb_icon.png" title="facebook" width="50"/></a></div>
+<p><a href="http://www.facebook.com/rechtschreibreform" rel="external" target="_blank">www.facebook.com/rechtschreibreform</a></p>
+</td>
+<td>
+<a href="https://plus.google.com/100286297901148010377" rel="publisher" target="_blank"><img height="44" src="./bvr/img/g+.png" title="facebook" width="44"/></a>
+<a href="https://plus.google.com/100286297901148010377" rel="publisher" target="_blank">Google+</a>
+</td>
+</tr>
+</table>
+</body>
+</html>

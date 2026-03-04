@@ -1,0 +1,2219 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!--><html class="ie ie6" lang="de"> <!--<![endif]-->
+<!--[if IE 7 ]><!-->
+<!--<![endif]-->
+<!--[if IE 8 ]><!-->
+<!--<![endif]-->
+<!--[if IE 9 ]><!-->
+<!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<!--<![endif]-->
+<head>
+<link href="https://www.dw.com/de/themen/s-9077" rel="canonical"/>
+<link href="https://m.dw.com/de/themen/s-9077" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="/favicon.png" rel="icon" type="image/png"/>
+<link href="/favicon.png" rel="apple-touch-icon"/>
+<script src="/js/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script src="/js/dsgvo/dsgvo_utils.js" type="text/javascript"></script>
+<script src="/js/beta_ROAD/accessToROAD_Beta.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script src="/js/de.dw.cdaLanguage.min.js?v=6.64.3" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<!-- PAGINATION for SEO -->
+<meta content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+<meta content="1 days" name="revisit-after"/>
+<meta content="Deutsche Welle (www.dw.com)" name="publisher"/>
+<meta content="© 2020 Deutsche Welle (www.dw.com)" name="copyright"/>
+<meta content="Deutsche Welle (www.dw.com)" name="author"/>
+<meta content="app-id=498833085" name="apple-itunes-app"/>
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app"/>
+<meta content="de_DE" name="language"/>
+<meta content="THEMEN, Nachrichten,Internationale Nachrichten,News,Aktuelles,Live-Ticker,Kommentar,Analyse,Schlagzeilen" name="keywords"/>
+<meta content="THEMEN, Nachrichten,Internationale Nachrichten,News,Aktuelles,Live-Ticker,Kommentar,Analyse,Schlagzeilen" name="news_keywords"/>
+<meta content="Deutsche Welle: Der internationale Blick auf aktuelle Nachrichten von heute. Dazu Analysen, Kommentare und Einschätzungen unserer Reporter und Korrespondenten." name="description"/>
+<!-- Facebook -->
+<meta content="146634408702997" property="fb:pages"/>
+<meta content="146822482008281" property="fb:pages"/>
+<meta content="46657640977" property="fb:pages"/>
+<meta content="66069193936" property="fb:pages"/>
+<meta content="338998993519" property="fb:pages"/>
+<meta content="164418313578851" property="fb:pages"/>
+<meta content="180013702044400" property="fb:pages"/>
+<meta content="141111232580541" property="fb:pages"/>
+<meta content="130435762955" property="fb:pages"/>
+<meta content="24369314439" property="fb:pages"/>
+<meta content="131314590235972" property="fb:pages"/>
+<meta content="204430626300528" property="fb:pages"/>
+<meta content="229148123764036" property="fb:pages"/>
+<meta content="533361940012569" property="fb:pages"/>
+<meta content="49621769215" property="fb:pages"/>
+<meta content="142061114273" property="fb:pages"/>
+<meta content="125113390860188" property="fb:pages"/>
+<meta content="144393622272640" property="fb:pages"/>
+<meta content="245974238781165" property="fb:pages"/>
+<meta content="171270196224553" property="fb:pages"/>
+<meta content="118184978196457" property="fb:pages"/>
+<meta content="178734186974" property="fb:pages"/>
+<meta content="329373860454526" property="fb:pages"/>
+<meta content="107256659303602" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="122470481130194" property="fb:pages"/>
+<meta content="114256188645" property="fb:pages"/>
+<meta content="165174814436" property="fb:pages"/>
+<meta content="155438574470276" property="fb:pages"/>
+<meta content="50498982209" property="fb:pages"/>
+<meta content="146790007393" property="fb:pages"/>
+<meta content="164947183521601" property="fb:pages"/>
+<meta content="211745678846355" property="fb:pages"/>
+<meta content="134391923301563" property="fb:pages"/>
+<meta content="63821723396" property="fb:pages"/>
+<meta content="188157417929359" property="fb:pages"/>
+<meta content="183239561787790" property="fb:pages"/>
+<meta content="449623021724487" property="fb:pages"/>
+<meta content="138206409609783" property="fb:pages"/>
+<meta content="85945845557" property="fb:pages"/>
+<meta content="226482300719948" property="fb:pages"/>
+<meta content="60713064323" property="fb:pages"/>
+<meta content="239025992817731" property="fb:pages"/>
+<meta content="822896961134864" property="fb:pages"/>
+<meta content="522458607878947" property="fb:pages"/>
+<meta content="188850101556821" property="fb:pages"/>
+<meta content="618268655042471" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="276810869063357" property="fb:pages"/>
+<meta content="100960075341" property="fb:pages"/>
+<meta content="80408983549" property="fb:pages"/>
+<meta content="100897936618493" property="fb:pages"/>
+<meta content="138706041945" property="fb:pages"/>
+<meta content="211775368865879" property="fb:pages"/>
+<meta content="171400242905536" property="fb:pages"/>
+<meta content="132731133463621" property="fb:pages"/>
+<meta content="195750250443390" property="fb:pages"/>
+<meta content="179443708766951" property="fb:pages"/>
+<meta content="1804124663153407" property="fb:pages"/>
+<meta content="134957921127" property="fb:pages"/>
+<meta content="308858529571862" property="fb:pages"/>
+<meta content="245084839304894" property="fb:pages"/>
+<meta content="1643141409322787" property="fb:pages"/>
+<meta content="161206864395653" property="fb:pages"/>
+<meta content="166280690549965" property="fb:pages"/>
+<meta content="1306227629456410" property="fb:pages"/>
+<meta content="172144003288251" property="fb:pages"/>
+<meta content="789839844513554" property="fb:pages"/>
+<meta content="1907513229480533" property="fb:pages"/>
+<meta content="1673788669587458" property="fb:pages"/>
+<meta content="475937372553968" property="fb:pages"/>
+<meta content="670958179648696" property="fb:pages"/>
+<meta content="608485009178753" property="fb:pages"/>
+<meta content="174528749295024" property="fb:pages"/>
+<meta content="86161846910" property="fb:pages"/>
+<meta content="268396416590741" property="fb:pages"/>
+<meta content="239261806709" property="fb:pages"/>
+<meta content="61626715828" property="fb:pages"/>
+<meta content="210354862357400" property="fb:pages"/>
+<meta content="100000944106340" property="fb:admins"/>
+<meta content="100004095264842" property="fb:admins"/>
+<meta content="100004135624835" property="fb:admins"/>
+<meta content="Deutsche Welle: Der internationale Blick auf aktuelle Nachrichten von heute. Dazu Analysen, Kommentare und Einschätzungen unserer Reporter und Korrespondenten." property="og:description"/>
+<meta content="https://www.dw.com/de/themen/s-9077" property="og:url"/>
+<meta content="DW.COM" property="og:site_name"/>
+<meta content="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen | DW" property="og:title"/>
+<link href="/css/dwde-ltr.min.css?v=6.64.3" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-fonts-latin.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-epg-ltr.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style media="screen" type="text/css">
+div#navMain ul#navLevel1 a#n01 {
+color: #fff !important;
+}
+div#navMain ul#navLevel1 a#n01:hover {
+color: #000 !important;
+}
+div#navMain ul#navLevel1 li:hover a#n01 {
+color: #000 !important;
+}
+div#navMain ul#navLevel2 a#navAct2 {
+color: #fff !important;
+}
+</style>
+<script type="text/javascript">
+let DWStructureType = "NORMAL";
+</script>
+<title>Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen | DW</title>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=157204581336210&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
+</script>
+<!-- End Google Tag Manager -->
+<!--[if lt IE 7 ]>
+<script type="text/javascript" src="/js/flyoutsf.js"></script><![endif]-->
+<script src="/js/dwde.min.js?v=6.64.3" type="text/javascript"></script>
+<!-- DW jwplayer skin -->
+<link href="/js/jwplayer8/skins/DW/dwskinfile.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/js/jwplayer8/skins/DW/desktop-additions.css" media="all" rel="stylesheet" type="text/css"/>
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script src="/js/datepicker/jquery.ui.datepicker-de.min.js" type="text/javascript"></script>
+<script async="" crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=deutschewelle"></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "de";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwtest-de';
+</script>
+<script async="" src="/js/advertisement/clickPerformance.desktop.structures.min.js" type="text/javascript"></script>
+</head><body id="html_body">
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwInitialTrackingInfo = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077",
+maca: "",
+articleChangeDateShort: "20201111",
+structureId: "9077",
+structureTypeId: "99",
+chap: "THEMEN",
+pageId: "9077",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "",
+secondCategoryId: "",
+departmentName: ""
+};
+var channelNameAppendix = "-";
+trackingInfo_leve2 = "1";
+trackingInfo_dkLanguage = "";
+trackingInfo_multi_Value = "";
+trackingInfo_profile = "NORMAL";
+trackingInfo_pageSingleEncoded = "THEMEN::THEMEN";
+trackingInfo_multi_Value = "&x1=99&x2=1&x3=9077&x4=9077&x5=THEMEN&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077&x8=&x9=20201111&x10=THEMEN&x13=1&x14=&x15=&x16=&x17=&x18=&x20=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
+} else {
+window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
+}
+</script>
+<noscript>
+<img alt="" height="1" src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=1&amp;p=THEMEN::THEMEN&amp;di=&amp;an=&amp;ac=&amp;x1=99&amp;x2=1&amp;x3=9077&amp;x4=9077&amp;x5=THEMEN&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077&amp;x8=&amp;x9=20201111&amp;x10=THEMEN&amp;x13=1&amp;x14=&amp;x15=null&amp;x16=null&amp;x17=&amp;x18=&amp;x20=" width="1"/>
+</noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TXHJH9T" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><!--AT Internet Smart Tag Tracking-->
+<script src="https://commons.dw.com/tracking/smarttag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242",
+cookieSecure: true
+});
+tag.page.set({
+name: "THEMEN::THEMEN",
+pageID: "9077",
+level2: 1
+});
+tag.customVars.set({
+site: {
+1: 99,
+2: 1,
+3: 9077,
+4: 9077,
+5: "[THEMEN]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077]",
+8: "[]",
+9: 20201111,
+10: "[THEMEN]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "",
+16: "",
+17: "",
+18: "",
+19: "",
+20: ""
+}
+});
+tag.dispatch();
+</script>
+<script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">Wir verwenden Cookies, um unser Angebot für Sie zu verbessern. Mehr Informationen dazu finden Sie in unserer Datenschutzerklärung.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more" href="/a-18265186">Mehr Infos</a>
+<a class="cookie__btn cookie__btn--ok" href="#">Okay</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li aria-labelledby="Inhalt" role="listitem"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li aria-labelledby="Navigation" role="listitem"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li aria-labelledby="asideLink" role="listitem"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li aria-labelledby="metanavigationLink" role="listitem"><a href="#navMeta" id="metanavigationLink">Metanavigation</a></li>
+<li aria-labelledby="sucheLink" role="listitem"><a href="#search" id="sucheLink">Suche</a></li>
+<li aria-labelledby="languageLink" role="listitem"><a accesskey="6" href="#langSelect" id="languageLink" lang="de" xml:lang="de">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]>
+<div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a data-lang="sq-AL" href="/sq/fokus/s-10250" title="FOKUS">
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a data-lang="am-ET" href="/am/ይዘት/s-11646" title="ይዘት">
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a data-lang="ar-AE" href="/ar/الرئيسية/s-9106" title="DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي">
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a data-lang="bn-BD" href="/bn/বিষয়/s-11929" title="বিষয়">
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a data-lang="bs-BA" href="/bs/teme/s-10037" title="TEME">
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a data-lang="bg-BG" href="/bg/начало/s-10257" title="Начало">
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a data-lang="zh-CN" href="/zh/在线报导/s-9058?&amp;zhongwen=simp" title="在线报导">
+Chinese <span class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a data-lang="zh-CN-t" href="/zh/在线报导/s-9058?&amp;zhongwen=trad" title="在線報導">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="hr-HR" href="/hr/teme/s-9747" title="TEME">
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a data-lang="fa-AF" href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری">
+Dari <span class="native">دری </span></a>
+</li>
+<li><a data-lang="en-GB" href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+English <span class="native">English</span></a>
+</li>
+<li><a data-lang="fr-FR" href="/fr/actualités/s-10261" title="ACTUALITÉS">
+French <span class="native">Français</span></a>
+</li>
+<li><a class="ici" data-lang="de-DE" href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a data-lang="el-GR" href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ">
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a data-lang="ha-NG" href="/ha/batutuwa/s-11603" title="BATUTUWA">
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a data-lang="hi-IN" href="/hi/खबरें/s-11931" title="खबरें">
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="id-ID" href="/id/beranda/s-11546" title="BERANDA">
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a data-lang="sw-TZ" href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI">
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a data-lang="mk-MK" href="/mk/теми/s-10339" title="Теми">
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a data-lang="ps-AF" href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو">
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a data-lang="fa-IR" href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی">
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a data-lang="pl-PL" href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata">
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a data-lang="pt-002" href="/pt-002/notícias/s-13918" title="NOTÍCIAS">
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a data-lang="pt-BR" href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo">
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="ro-RO" href="/ro/focus/s-10575" title="FOCUS">
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a data-lang="ru-RU" href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире">
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a data-lang="sr-RS" href="/sr/rubrike/s-10682" title="RUBRIKE">
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a data-lang="es-ES" href="/es/actualidad/s-30684" title="ACTUALIDAD">
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a data-lang="tr-TR" href="/tr/gündem/s-10201" title="GÜNDEM">
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a data-lang="uk-UA" href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ">
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a data-lang="ur-PK" href="/ur/عنوانات/s-11933" title="عنوانات">
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM hat Deutsch als Spracheinstellung für Sie gewählt. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div class="v2" id="langSelect">
+<a href="javascript:void(0);" id="langSelectTrigger" name="langSelectTrigger">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/de/dw-akademie/über-uns/s-8101" title="DW AKADEMIE">DW Akademie</a>
+</div>
+<div class="metaLink"><a href="/de/unternehmen/profil/s-30626" title="UNTERNEHMEN">Unternehmen</a>
+</div>
+<div class="metaLink"><a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div class="dwnews" id="logo">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img alt="Deutsche Welle" height="100" src="/cssi/dwlogo-print.gif" width="98"/>
+</div>
+<div id="search">
+<form action="/search/de" class="modular" id="navSearchForm" method="get" title="GlobalSearch">
+<input name="searchNavigationId" param="searchNavigationId" type="hidden" value="9077"/>
+<input name="languageCode" param="languageCode" type="hidden" value="de"/>
+<input name="origin" param="origin" type="hidden" value="gN"/>
+<input id="item" name="item" placeholder="THEMEN durchsuchen"/>
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a href="/de/themen/s-9077" id="n01" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a>
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland-verstehen/s-12019" title="Deutschland verstehen">Deutschland verstehen</a>
+</li>
+<li><a href="/de/themen/deutschland-evangelisch-katholisch/s-101276" title="Deutschland evangelisch-katholisch">Deutschland evangelisch-katholisch</a>
+</li>
+<li><a href="/de/themen/erste-schritte-in-deutschland/s-32443" title="Erste Schritte in Deutschland">Erste Schritte in Deutschland</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a>
+</li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/europa/s-12322" title="Europa">Europa</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/nahost/s-12323" title="Nahost">Nahost</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/afrika/s-12324" title="Afrika">Afrika</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/amerika/s-12325" title="Amerika - Die aktuellsten Nachrichten und Informationen">Amerika</a>
+</li>
+<li><a href="/de/themen/asien/s-12326" title="Asien">Asien</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a>
+<ul class="sitemap">
+<li><a href="/de/themen/filme/s-1564" title="Filme">Filme</a>
+</li>
+<li><a href="/de/themen/bücher/s-1568" title="Bücher">Bücher</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/musik/s-12771" title="Musik">Musik</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kunst/s-101381" title="Kunst">Kunst</a>
+</li>
+<li><a href="/de/themen/digitales-leben/s-30511" title="Digitales Leben">Digitales Leben</a>
+</li>
+<li><a href="/de/themen/lebensart/s-101382" title="Lebensart">Lebensart</a>
+</li>
+<li><a href="/de/themen/reise/s-1644" title="DW Reise">Reise</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/bthvn2020/s-5269" title="BTHVN2020">BTHVN2020</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/global-ideas/s-30494" title="Global Ideas">Global Ideas</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>Specials</h4>
+<ul class="sitemap">
+<li><a href="/de/themen/100-gute-bücher/s-43415822" title="100 gute Bücher - ein literarisches Jahrhundert-Panorama deutschsprachiger Literatur">100 Gute Bücher</a></li>
+<li><a href="/de/themen/50-küchen-eine-heimat/s-32912" title="50 Küchen, eine Heimat – 50 Restaurants, 50 Rezepte, 50 Länder">50 Küchen, eine Heimat</a></li>
+<li><a href="/de/themen/baking-bread/s-47577721" title="Baking Bread - Was uns Brot über die EU verrät">Baking Bread</a></li>
+<li><a href="/de/themen/erster-weltkrieg/s-101010" title="Der Erste Weltkrieg">Erster Weltkrieg</a></li>
+<li><a href="/de/themen/expedition-humboldt/s-46674226" title="Expedition Humboldt">Expedition Humboldt</a></li>
+<li><a href="/de/themen/meet-the-germans/s-32643" title="Meet the Germans">Meet the Germans</a></li>
+<li><a href="/de/themen/mit-17-das-jahrhundert-der-jugend/s-101112" title="Mit 17... Das Jahrhundert der Jugend">Mit 17... Das Jahrhundert der Jugend</a></li>
+<li><a href="/de/themen/planet-berlin/s-47577671" title="Planet Berlin - der Weltreiseführer für Deutschlands lebendige Metropole">Planet Berlin</a></li>
+<li><a href="http://de.qantara.de/" title="Qantara.de">Qantara.de</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/media-center/s-100813" title="Das Media Center: Die Mediathek der Deutschen Welle">Media Center</a>
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/de/tv/s-9093" title="TV">TV</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">TV Sendungen</h4>
+<ul class="sitemap">
+<li><a href="/de/tv/37-grad/s-10145" title="37 Grad">37 Grad</a></li>
+<li><a href="/de/tv/anne-will/s-12701" title="Anne Will">Anne Will</a></li>
+<li><a href="/de/tv/auf-den-punkt/s-50033855" title="Auf den Punkt">Auf den Punkt</a></li>
+<li><a href="/de/tv/auf-ein-wort/s-40362437" title="Auf ein Wort...">Auf ein Wort...</a></li>
+<li><a href="/de/tv/bares-für-rares/s-36399064" title="Bares für Rares">Bares für Rares</a></li>
+<li><a href="/de/tv/bauerfeind/s-36398657" title="Bauerfeind">Bauerfeind</a></li>
+<li><a href="/de/tv/check-in/s-32692" title="Check-in - Das Reisemagazin">Check-in</a></li>
+<li><a href="/de/tv/der-tag/s-32615" title="Der Tag - Nachrichten und Hintergrund">Der Tag</a></li>
+<li><a href="/de/tv/die-anstalt/s-100973" title="Die Anstalt">Die Anstalt</a></li>
+<li><a href="/de/tv/dokfilm/s-3609" title="DokFilm">DokFilm</a></li>
+<li><a href="/de/tv/euromaxx/s-7553" title="Euromaxx- Leben und Kultur in Europa">Euromaxx</a></li>
+<li><a href="/de/tv/europe-in-concert/s-30429" title="Europe in Concert - Top-Acts Live">Europe in Concert</a></li>
+<li><a href="/de/tv/expedition-in-die-heimat/s-50558311" title="Expedition in die Heimat">Expedition in die Heimat</a></li>
+<li><a href="/de/tv/fit-und-gesund/s-11936" title="Fit und gesund">Fit und gesund</a></li>
+<li><a href="/de/tv/fokus-europa/s-101183" title="Fokus Europa - Länder, Menschen, Schicksale">Fokus Europa</a></li>
+<li><a href="/de/tv/frag-den-lesch/s-50033835" title="Frag den Lesch">Frag den Lesch</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/frautv/s-30312" title="FrauTV">FrauTV</a></li>
+<li><a href="/de/tv/glaubenssachen/s-3668" title="Glaubenssachen - Die Kirchensendung">Glaubenssachen</a></li>
+<li><a href="/de/tv/global-3000/s-11486" title="Global 3000 - Das Globalisierungsmagazin">Global 3000</a></li>
+<li><a href="/de/tv/gottesdienst/s-101259" title="Gottesdienst">Gottesdienst</a></li>
+<li><a href="/de/tv/hart-aber-fair/s-12675" title="Hart aber fair">Hart aber fair</a></li>
+<li><a href="/de/tv/heute-xpress/s-53655198" title="Heute Xpress">Heute Xpress</a></li>
+<li><a href="/de/tv/kick-off/s-12837" title="Kick off! - Das Bundesliga-Magazin der DW">Kick off!</a></li>
+<li><a href="/de/tv/kochen-mit-martina-moritz/s-101487" title="Kochen mit Martina &amp; Moritz">Kochen mit Martina &amp; Moritz</a></li>
+<li><a href="/de/tv/kultur21/s-7884" title="Kultur.21 - Das Kulturmagazin">Kultur.21</a></li>
+<li><a href="/de/tv/kulturzeit/s-36398595" title="Kulturzeit">Kulturzeit</a></li>
+<li><a href="/de/tv/ladies-night/s-36400088" title="Ladies Night">Ladies Night</a></li>
+<li><a href="/de/tv/lesenswert/s-36399591" title="Lesenswert">Lesenswert</a></li>
+<li><a href="/de/tv/made-in-germany/s-3054" title="Made in Germany">Made in Germany</a></li>
+<li><a href="/de/tv/markus-lanz/s-12709" title="Markus Lanz">Markus Lanz</a></li>
+<li><a href="/de/tv/maybrit-illner/s-10146" title="Maybrit Illner">Maybrit Illner</a></li>
+<li><a href="/de/tv/nahaufnahme/s-100280" title="Nahaufnahme - Die aktuelle Reportage">Nahaufnahme</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/nuhr-im-ersten/s-100377" title="Nuhr im Ersten">Nuhr im Ersten</a></li>
+<li><a href="/de/tv/projekt-zukunft/s-3210" title="Projekt Zukunft - Das Wissenschaftsmagazin">Projekt Zukunft</a></li>
+<li><a href="/de/tv/pufpaffs-happy-hour/s-32800" title="Pufpaffs Happy Hour">Pufpaffs Happy Hour</a></li>
+<li><a href="/de/tv/quarks/s-36400242" title="Quarks">Quarks</a></li>
+<li><a href="/de/tv/reporter/s-31610" title="Reporter - Vor Ort">Reporter</a></li>
+<li><a href="/de/tv/rev/s-51434653" title="REV">REV</a></li>
+<li><a href="/de/tv/shift/s-30411" title="Shift - Leben in der digitalen Welt">Shift</a></li>
+<li><a href="/de/tv/spätschicht/s-100375" title="Spätschicht">Spätschicht</a></li>
+<li><a href="/de/tv/tagesschau-in-100-sekunden/s-53655084" title="Tagesschau in 100 Sekunden">Tagesschau in 100 Sekunden</a></li>
+<li><a href="/de/tv/verrückt-nach-meer/s-36400533" title="Verrückt nach Meer">Verrückt nach Meer</a></li>
+<li><a href="/de/tv/world-stories/s-101473" title="World Stories - Reportagen der Woche">World Stories</a></li>
+<li><a href="/de/tv/zdfbauhaus/s-53823909" title="ZDF@Bauhaus">ZDF@Bauhaus</a></li>
+<li><a href="/de/tv/zdf-reportage/s-12714" title="ZDF Reportage">ZDF Reportage</a></li>
+<li><a href="/de/tv/zu-tisch/s-36399572" title="Zu Tisch...">Zu Tisch...</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/deutsch-lernen/s-2055" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>Deutschkurse</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/schnellstart/s-31674" title="Schnellstart">Schnellstart</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-mobil/s-40884569" title="Deutsch mobil">Deutsch mobil</a>
+</li>
+<li><a href="/de/deutsch-lernen/radio-d/s-9603" title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschtrainer/s-32888" title="Deutschtrainer">Deutschtrainer</a>
+</li>
+<li><a href="/de/deutsch-lernen/harry/s-13219" title="Harry">Harry</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/die-bienenretter/s-36745714" title="Die Bienenretter">Die Bienenretter</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch XXL</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">Deutsch Aktuell</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/video-thema/s-12165" title="Video-Thema">Video-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/top-thema/s-8031" title="Top-Thema">Top-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/nachrichten/s-8030" title="Nachrichten">Nachrichten</a>
+</li>
+<li><a href="/de/deutsch-lernen/glossar/s-9151" title="Glossar">Glossar</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-im-fokus/s-9213" title="Deutsch im Fokus">Deutsch im Fokus</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/alltagsdeutsch/s-9214" title="Alltagsdeutsch">Alltagsdeutsch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/sprachbar/s-9011" title="Sprachbar">Sprachbar</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-sagt-man-so/s-32376" title="Das sagt man so!">Das sagt man so!</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/wort-der-woche/s-9031" title="Wort der Woche">Wort der Woche</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsche-sprache-in-bildern/s-101453" title="Deutsche Sprache – in Bildern">Deutsche Sprache in Bildern</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/telenovela/s-13121" title="Telenovela">Telenovela</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/bandtagebuch/s-13891" title="Bandtagebuch">Bandtagebuch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/landeskunde/s-12377" title="Landeskunde">Landeskunde</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/ticket-nach-berlin/s-32294" title="Ticket nach Berlin">Ticket nach Berlin</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-deutschlandlabor/s-32379" title="Das Deutschlandlabor">Das Deutschlandlabor</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/dialektatlas/s-8150" title="Dialektatlas">Dialektatlas</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/stadtbilder/s-31499" title="Stadtbilder">Stadtbilder</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschland-in-bildern/s-101454" title="Deutschland erleben – in Bildern">Deutschland in Bildern</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/das-porträt/s-30546" title="Das Porträt">Das Porträt</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/podcasts-newsletter/s-11696" title="Podcasts &amp; Newsletter">Podcasts &amp; Newsletter</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/service/s-9032" title="Service">Service</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch unterrichten</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+<li><a href="/de/deutsch-lernen/dw-im-unterricht/s-14199" title="DW im Unterricht">DW im Unterricht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/unterrichtsreihen/s-9729" title="Unterrichtsreihen">Unterrichtsreihen</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschlehrer-info/s-13503" title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+</ul>
+</div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+THEMEN
+</a>
+</div>
+</div>
+<div id="innerFrame">
+<div class="adsContainer">
+<div class="advertising">
+<!-- GoogleDfP_SkyscraperLeft -->
+<div class="skyscraper_left" id="DW_D_Start-Sections_Skyscraper-Left-label">
+<div id="div--Skyscraper_left">
+<div class="adHeadline">Anzeige</div>
+<div id="DW_D_Start-Sections_Skyscraper-Left"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_SkyscraperLeft -->
+<!-- GoogleDfP_SkyscraperRight -->
+<div class="skyscraper_right" id="DW_D_Start-Sections_Skyscraper-Right-label">
+<div id="div--Skyscraper_right">
+<div class="adHeadline">Anzeige</div>
+<div id="DW_D_Start-Sections_Skyscraper-Right"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_SkyscraperRight -->
+<!-- GoogleDfP_Leaderboard -->
+<div class="bannerAd" id="DW_D_Start-Sections_Leaderboard-label">
+<div id="div--Leaderboard">
+<div class="adHeadline">Anzeige</div>
+<div id="DW_D_Start-Sections_Leaderboard"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_Leaderboard -->
+</div>
+</div>
+<div id="bodyContent">
+<div class="col4a">
+<!-- Carousel Teaser -->
+<div class="col4 carouselTeaser">
+<div class="group">
+<div class="imgTeaserXL cinemaXL">
+<!-- CarouselTeaserMainItem -->
+<div class="teaserImg">
+<a href="/de/studie-people-of-color-durch-polizei-benachteiligt/a-55552242" rel="nofollow">
+<img alt="Deutschland | Black Lives Matter | Protest gegen Rassismus (picture-alliance/dpa/C. Soder)" itemprop="image" src="https://static.dw.com/image/54229197_354.jpg" title="Deutschland | Black Lives Matter | Protest gegen Rassismus (picture-alliance/dpa/C. Soder)"/> </a>
+</div>
+<div class="teaserContentWrap" data-id="53701837_55552242">
+<a href="/de/studie-people-of-color-durch-polizei-benachteiligt/a-55552242" rel="nofollow">
+<h4>Rassismus und Polizei
+</h4>
+<h2>
+Studie: People of Color durch Polizei benachteiligt
+</h2>
+<p>Ein Bochumer Kriminologen-Team forscht seit Jahren zum Thema rassistische und rechtswidrige Polizeigewalt in Deutschland. Die Ergebnisse zeichnen ein alarmierendes Bild. Hat Deutschland zu lange weggeschaut? 
+<span class="icon intern">Zum Artikel</span>
+ 
+</p>
+</a>
+</div>
+<!-- CarouselTeaserMainItem_End -->
+</div><!-- / L-Teaser -->
+</div><!-- / group -->
+</div>
+<!-- Carousel Teaser End -->
+</div>
+<!--[if lt IE 8 ]>
+<div class="col4"><![endif]-->
+<div class="col2 left">
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">COVID-19 </div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/corona-der-impfstoff-wird-so-schnell-nichts-ändern/a-55568417">
+<div class="teaserImg">
+<img alt="Deutschland Coronavirus - Porsche Produktion (Marijn Murat/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55462273_302.jpg" title="Deutschland Coronavirus - Porsche Produktion (Marijn Murat/dpa/picture alliance)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Corona-Impfstoff wird so schnell nichts ändern
+</h2>
+<p>Die zweite Welle der Pandemie bremst die Wirtschaft weiter aus. Daran ändert die Aussicht auf einen Impfstoff wenig. Wirtschaftswissenschaftler warnen zudem davor, große Zukunftsprobleme aus dem Blick zu verlieren.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/corona-aktuell-angela-merkels-kalte-dusche-für-alle-hoffenden/a-55567967">
+<h2 class="linkable">
+Corona-Aktuell: Kalte Dusche für Hoffende
+</h2>
+<div class="teaserImg">
+<img alt="Berlin Kanzlerin Merkel (Michael Sohn/AP/picture alliance)" itemprop="image" src="https://static.dw.com/image/55490249_301.jpg" title="Berlin Kanzlerin Merkel (Michael Sohn/AP/picture alliance)"/> </div>
+<p>Die Pandemie wird nach Meinung der Kanzlerin noch den ganzen Winter lang wüten. Dies befeuert auch wieder die Debatte über die Corona-Beschränkungen in Heimeinrichtungen. Optimistischeres kommt dagegen aus Russland.   </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/eu-will-eigene-pandemie-behörde/a-55567347">
+<h2 class="linkable">
+EU will eigene Pandemie-Behörde
+</h2>
+<div class="teaserImg">
+<img alt="Gesundheitskonferenz «World Health Summit» - Spritze (Karl-Josef Hildenbrand/dpa/picture-alliance)" itemprop="image" src="https://static.dw.com/image/55393928_301.jpg" title="Gesundheitskonferenz «World Health Summit» - Spritze (Karl-Josef Hildenbrand/dpa/picture-alliance)"/> </div>
+<p>Europa will unabhängig werden von der WHO: Die EU-Kommission will eine eigene Behörde, die künftig für Europa den Notstand ausrufen kann, für Impfstoffe und Medikamente sorgen und bei der Notfallplanung helfen soll
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/sos-auf-deutschen-intensivstationen/a-55558395">
+<h2 class="linkable">
+SOS auf deutschen Intensivstationen
+</h2>
+<div class="teaserImg">
+<img alt="Deutschland Coronavirus - Intensivstation (Fabian Strauch/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55547609_301.jpg" title="Deutschland Coronavirus - Intensivstation (Fabian Strauch/dpa/picture alliance)"/> </div>
+<p>Die Zahl der Covid-19-Patienten auf den Intensivstationen steigt erneut dramatisch an. Zwar sind die Krankenhäuser in Deutschland von der Infrastruktur her auf den neuen Ansturm vorbereitet, nicht aber personell.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Nach der US-Präsidentschaftswahl</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/joe-bidens-größte-aufgabe-kampf-gegen-covid-19/a-55561050">
+<div class="teaserImg">
+<img alt="USA Joe Biden mit Atemschutzmaske in Wilmington, Delaware (Jonathan Ernst/REUTERS)" itemprop="image" src="https://static.dw.com/image/55550065_302.jpg" title="USA Joe Biden mit Atemschutzmaske in Wilmington, Delaware (Jonathan Ernst/REUTERS)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Joe Bidens größte Aufgabe
+</h2>
+<p>Biden möchte die COVID-19-Pandemie aktiv bekämpfen. Dabei setzt er auf einen wissenschaftlich fundierten Führungsstil.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/ankara-befürchtet-gegenwind-von-biden/a-55558465">
+<h2 class="linkable">
+Ankara befürchtet Gegenwind von Biden
+</h2>
+<div class="teaserImg">
+<img alt="Türkei Joe Biden und Recep Tayyip Erdogan Pressekonferenz in Ankara (picture alliance/AP Images/K. Ozer)" itemprop="image" src="https://static.dw.com/image/19501218_301.jpg" title="Türkei Joe Biden und Recep Tayyip Erdogan Pressekonferenz in Ankara (picture alliance/AP Images/K. Ozer)"/> </div>
+<p>Die Beziehungen zwischen Ankara und Washington hatten zuletzt Höhen und Tiefen. Doch unterm Strich hat die türkische Regierung enorm vom Kurs von US-Präsident Trump profitiert. Wird Biden die Karten neu mischen?
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/was-wird-aus-trump-nach-trump/a-55565243">
+<h2 class="linkable">
+Was wird aus Trump nach Trump?
+</h2>
+<div class="teaserImg">
+<img alt="Trump Hotel Tower | Chicago (picture-alliance/ZUMAPRESS/J. M. Osorio)" itemprop="image" src="https://static.dw.com/image/53472957_301.jpg" title="Trump Hotel Tower | Chicago (picture-alliance/ZUMAPRESS/J. M. Osorio)"/> </div>
+<p>Auch wenn der amtierende US-Präsident seine Niederlage noch nicht eingesteht, bedeutet das nicht, dass er ewig im Weißen Haus bleiben kann. Was aber erwartet Donald Trump nach seiner Amtzeit? Eine Übersicht.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/parler-tummelplatz-der-trump-anhänger/a-55566307">
+<h2 class="linkable">
+Parler: Tummelplatz der Trump-Anhänger
+</h2>
+<div class="teaserImg">
+<img alt="USA Trump-Anhänger Handy Telefon (Jeremy Hogan/SOPA Images/Zumapress/picture alliance )" itemprop="image" src="https://static.dw.com/image/55561369_301.jpg" title="USA Trump-Anhänger Handy Telefon (Jeremy Hogan/SOPA Images/Zumapress/picture alliance )"/> </div>
+<p>Twitter und Facebook haben begonnen, ihre Nutzer auf Unwahrheiten hinzuweisen. Wo kann man noch ungestört behaupten, Donald Trump habe die US-Wahl gewonnen? Parler heißt die App, auf die viele Ultrarechte setzen.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Nachrichten</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/österreichs-härtere-hand-gegen-terrorismus/a-55568409">
+<div class="teaserImg">
+<img alt="Sebastian Kurz gestikulierend(Herbert Neubauer/APA/picture alliance )" itemprop="image" src="https://static.dw.com/image/55568148_302.jpg" title="Sebastian Kurz gestikulierend(Herbert Neubauer/APA/picture alliance )"/> </div>
+<div class="teaserContentWrap">
+<h4>Islamistischer Terror</h4>
+<h2>
+Österreichs härtere Hand gegen Terrorismus
+</h2>
+<p>Als Reaktion auf den islamistischen Anschlag in Wien will Österreich seine Maßnahmen im Anti-Terror-Kampf verschärfen. Die islamistische Ideologie müsse mit allen Mitteln bekämpft werden, sagte Kanzler Kurz.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Islamistischer Terrorismus </h4>
+<div class="news">
+<a href="/de/anschlag-auf-feier-mit-europäischen-diplomaten-in-saudi-arabien/a-55565575">
+<h2 class="linkable">
+Anschlag auf Feier mit Diplomaten aus Europa
+</h2>
+<div class="teaserImg">
+<img alt="Angehörige von saudi-arabischen Spezialeinheiten bei einer Antiterror-Übung (Foto: Getty Images/AFP/F. Nureldine)" itemprop="image" src="https://static.dw.com/image/40457858_301.jpg" title="Angehörige von saudi-arabischen Spezialeinheiten bei einer Antiterror-Übung (Foto: Getty Images/AFP/F. Nureldine)"/> </div>
+<p>Mit der Zeremonie in der saudi-arabischen Stadt Dschidda wurde an das Ende des Ersten Weltkriegs erinnert. Vermutlich sollten mit der Sprengstoff-Attacke einmal mehr Vertreter Frankreichs getroffen werden.   </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Demokratiebewegung </h4>
+<div class="news">
+<a href="/de/china-verbannt-vier-oppositionelle-aus-hongkongs-parlament/a-55560201">
+<h2 class="linkable">
+Hongkong-Abgeordneten das Mandat entzogen
+</h2>
+<div class="teaserImg">
+<img alt="Hongkong: Dennis Kwok, Alvin Yeung, Kenneth Leung und Kwok Ka-ki (Vincent Yu/AP Photo/picture alliance)" itemprop="image" src="https://static.dw.com/image/55560086_301.jpg" title="Hongkong: Dennis Kwok, Alvin Yeung, Kenneth Leung und Kwok Ka-ki (Vincent Yu/AP Photo/picture alliance)"/> </div>
+<p>Die Führung in Peking knöpft sich rigoros Demokratie-Verfechter in Chinas Sonderverwaltungszone vor. Vier Abgeordnete der Opposition wurden ohne viel Federlesens aus dem Parlament ausgeschlossen.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Meinung</h4>
+<div class="news">
+<a href="/de/meinung-das-ende-der-rechtsstaatlichkeit-in-hongkong/a-55564401">
+<h2 class="linkable">
+Das Ende der Rechtsstaatlichkeit
+</h2>
+<p>Die Hongkonger Zentralregierung hat vier kritische Abgeordnete in Hongkong dauerhaft aus dem Parlament ausgeschlossen. Damit ist auch der Grundsatz "Ein Land, zwei Systeme" endgültig beerdigt, meint Dang Yuan.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Ostafrika</h4>
+<div class="news">
+<a href="/de/in-äthiopien-droht-eine-flüchtlingskrise/a-55566208">
+<h2 class="linkable">
+In Äthiopien droht eine Flüchtlingskrise
+</h2>
+<div class="teaserImg">
+<img alt="Bewaffnete Soldaten auf einem Pickup (Eduardo Soteras/AFP)" itemprop="image" src="https://static.dw.com/image/55556362_301.jpg" title="Bewaffnete Soldaten auf einem Pickup (Eduardo Soteras/AFP)"/> </div>
+<p>Im eskalierenden Bürgerkrieg in Äthiopien sind Tausende Menschen aus der Region Tigray in den benachbarten Sudan geflohen. Und ihre Zahl könnte noch deutlich größer werden.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Konflikt um Berg-Karabach</h4>
+<div class="news">
+<a href="/de/armenier-protestieren-weiter-gegen-abkommen-zu-berg-karabach/a-55567448">
+<h2 class="linkable">
+Proteste gegen Abkommen zu Berg-Karabach
+</h2>
+<div class="teaserImg">
+<img alt="Demonstranten mit hochgestreckter Faust (Stanislav Krasilnikov/TASS/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55567331_301.jpg" title="Demonstranten mit hochgestreckter Faust (Stanislav Krasilnikov/TASS/dpa/picture alliance)"/> </div>
+<p>"Nikol, der Verräter". Der armenische Präsident Nikol Paschinjan wird von seinen Landsleuten für das Waffenstillstandsabkommen mit Aserbaidschan kritisiert. Ihren Unmut zeigten sie auf der Straße.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Katastrophe </h4>
+<div class="news">
+<a href="/de/brückeneinsturz-von-genua-hausarrest-für-manager/a-55563823">
+<h2 class="linkable">
+Genua: Hausarrest für Manager
+</h2>
+<div class="teaserImg">
+<img alt="Dieses Foto vom 14. August 2018 ist eines für Geschichtsbücher: Nur wenige Meter vor dem eingestürzten Teil der Morandi-Brücke in Genua kam dieser Lastwagen zum Stehen (Foto: Reuters/S. Rellandini)" itemprop="image" src="https://static.dw.com/image/45081632_301.jpg" title="Dieses Foto vom 14. August 2018 ist eines für Geschichtsbücher: Nur wenige Meter vor dem eingestürzten Teil der Morandi-Brücke in Genua kam dieser Lastwagen zum Stehen (Foto: Reuters/S. Rellandini)"/> </div>
+<p>Dabei handelt es sich um frühere und aktuelle Führungskräfte des Betreibers Autostrade per l'Italia. Laut den Ermittlungen wurden alte Schallschutz-Elemente an der Morandi-Brücke nicht rechzeitig genug erneuert.   </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Hintergrund &amp; Analyse</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/wie-deutschland-mit-wasserstoff-klimaneutral-werden-will/a-55557298">
+<div class="teaserImg">
+<img alt="Shell I Tankstelle I Energie (Boris Roessler/dpa/picture-alliance)" itemprop="image" src="https://static.dw.com/image/55179050_302.jpg" title="Shell I Tankstelle I Energie (Boris Roessler/dpa/picture-alliance)"/> </div>
+<div class="teaserContentWrap">
+<h4>Neue Energie</h4>
+<h2>
+Klimaneutral mit Wasserstoff
+</h2>
+<p>Wasserstoff gilt als Energieträger der Zukunft. Einige große Erdölkonzerne investieren bereits in diese immer noch relativ neue Technologie und auch die Bundesregierung will sich dabei nicht lumpen lassen.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Peru</h4>
+<div class="news">
+<a href="/de/amtsenthebung-wegen-dauerhafter-moralischer-unfähigkeit/a-55559366">
+<h2 class="linkable">
+"Dauerhafte moralische Unfähigkeit"
+</h2>
+<div class="teaserImg">
+<img alt="Peru I Martín Vizcarra in Lima (Sebastian Castaneda/REUTERS)" itemprop="image" src="https://static.dw.com/image/55559445_301.jpg" title="Peru I Martín Vizcarra in Lima (Sebastian Castaneda/REUTERS)"/> </div>
+<p>Im zweiten Anlauf hat sich im peruanischen Parlament eine Mehrheit für die Absetzung von Präsident Martín Vizcarra gefunden. Mit der Corona-Krise hatte dies wohl recht wenig zu tun.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Kosovo</h4>
+<div class="news">
+<a href="/de/osmani-im-moment-ist-nicht-die-zeit-den-dialog-mit-serbien-fortzusetzen/a-55562546">
+<h2 class="linkable">
+"Im Dialogprozess keinen Schritt zurück"
+</h2>
+<div class="teaserImg">
+<img alt="DW-Interview mit der amtierenden Präsidentin Kosovos, Vjosa Osmani (Bekim Shehu/DW)" itemprop="image" src="https://static.dw.com/image/55549232_301.jpg" title="DW-Interview mit der amtierenden Präsidentin Kosovos, Vjosa Osmani (Bekim Shehu/DW)"/> </div>
+<p>Bevor Kosovo die Gespräche mit Serbien fortführt, muss das Land eine breit legitimierte, einheitliche Position zum Dialog finden, fordert die kommissarische Staatspräsidentin Vjosa Osmani im DW-Interview.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+</div>
+<div class="col2">
+<!-- ContentList Teaser -->
+<div class="col2 contentListTeaser">
+<h4 class="meta">Meistgelesen</h4>
+<div class="group">
+<div class="linkList plain">
+<a href="/de/frankreich-verlegt-corona-patienten-ins-ausland/a-55557086">
+<h2>
+Frankreich verlegt Corona-Patienten ins Ausland
+</h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/us-wahl-keine-senatsmehrheit-für-biden-in-sicht/a-55559384">
+<h2>
+US-Wahl: Keine Senatsmehrheit für Biden in Sicht
+</h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/biontech-mit-lichtgeschwindigkeit-zum-ersten-corona-impfstoff/a-55472126">
+<h2>
+Biontech: Mit Lichtgeschwindigkeit zum ersten Corona-Impfstoff
+</h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/amtsenthebung-wegen-dauerhafter-moralischer-unfähigkeit/a-55559366">
+<h2>
+Amtsenthebung wegen "dauerhafter moralischer Unfähigkeit"
+</h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/brüssel-verliert-die-geduld-mit-polen/a-55559356">
+<h2>
+Brüssel verliert die Geduld mit Polen
+</h2>
+</a>
+</div>
+</div>
+</div>
+<!-- END ContentList Teaser -->
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/einbrecher-erbeuten-65-millionen-euro-im-hauptzollamt-in-nordrhein-westfalen/a-55568402">
+<div class="teaserImg">
+<img alt="Emmerich | Einbruch ins Hauptzollamt (Federico Gambarini/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55568568_302.jpg" title="Emmerich | Einbruch ins Hauptzollamt (Federico Gambarini/dpa/picture alliance)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Einbruch im Zollamt - 6,5 Millionen Euro weg
+</h2>
+<p>In einem kinofilmreifen Coup haben unbekannte Einbrecher ein Loch in den Tresorraum des Zollamtes in Emmerich gebohrt.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/jeder-fünfte-covid-19-patient-kann-psychische-probleme-bekommen/a-55563846">
+<div class="teaserImg">
+<img alt="Symbolbild Coronavirus Depression (picture-alliance/dpa/Weber/Eibner)" itemprop="image" src="https://static.dw.com/image/54856488_302.jpg" title="Symbolbild Coronavirus Depression (picture-alliance/dpa/Weber/Eibner)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Psychische Probleme durch Corona
+</h2>
+<p>Angststörungen, Depressionen und Schlaflosigkeit sind laut einer neuen Studie der Oxford University häufige Langzeitfolgen einer COVID-19-Erkrankung.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/vereine-gegen-nationalteams-wie-das-coronavirus-für-konflikte-sorgt/a-55562126">
+<div class="teaserImg">
+<img alt="Fussball l DFB-Training, Bundestrainer Joachim Jogi Loew in Leipzig (Markus Gilliar/GES/picture-alliance)" itemprop="image" src="https://static.dw.com/image/55556818_302.jpg" title="Fussball l DFB-Training, Bundestrainer Joachim Jogi Loew in Leipzig (Markus Gilliar/GES/picture-alliance)"/> </div>
+<div class="teaserContentWrap">
+<h4>Nationalmannschaft</h4>
+<h2>
+Wie das Coronavirus für Konflikte sorgt
+</h2>
+<p>Die Corona-bedingten Verschiebungen im Fußball-Terminkalender stellt die Trainer vor neue Herausforderungen. 
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/philipp-max-dfb-nominierung-auf-umwegen/a-55544099">
+<div class="teaserImg">
+<img alt="PSV Eindhoven - Fußballprofi Philipp Max in Aktion (Broer vd Boom/Orange Pictures/picture alliance)" itemprop="image" src="https://static.dw.com/image/55544361_302.jpg" title="PSV Eindhoven - Fußballprofi Philipp Max in Aktion (Broer vd Boom/Orange Pictures/picture alliance)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Philipp Max - auf Umwegen zur DFB-Elf
+</h2>
+<p>Philipp Max musste lange darauf warten, in die Nationalelf berufen zu werden. Bundestrainer Löw hat ihn lange ignoriert.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- GoogleDfP_Medium_rect -->
+<div class="bannerAd" id="DW_D_Start-Sections_Rectangle-label">
+<div id="div--Medium_rect">
+<div class="adHeadline">Anzeige</div>
+<div id="DW_D_Start-Sections_Rectangle"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_Medium_rect -->
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/bild-des-tages-licht-statt-feuer-am-deutschen-eck/g-45442037">
+<div class="teaserImg">
+<img alt="BdTD Deutschland Illuminierte Festung Ehrenbreitstein (Thomas Frey/dpa/picture alliance)" itemprop="image" src="https://static.dw.com/image/55559900_302.jpg" title="BdTD Deutschland Illuminierte Festung Ehrenbreitstein (Thomas Frey/dpa/picture alliance)"/> </div>
+<div class="teaserContentWrap">
+<h4>Bild des Tages</h4>
+<h2>
+Licht statt Feuer am Deutschen Eck
+</h2>
+<p>Als Ersatz für die ausgefallenen Martinsfeuer wird die Koblenzer Festung Ehrenbreitstein in prächtige Farben getaucht.<span class="icon pics"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/jay-shetty-und-das-think-like-a-monk-prinzip/a-55542649">
+<div class="teaserImg">
+<img alt="Indien l Influencer und Autor Jay Shetty (Steve Erle/Rowohlt Verlag)" itemprop="image" src="https://static.dw.com/image/55544023_302.jpg" title="Indien l Influencer und Autor Jay Shetty (Steve Erle/Rowohlt Verlag)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Das "Think like a Monk"-Prinzip
+</h2>
+<p>Ein Auto, ein Haus, ein Pferd? Materielles, sagt der einstige Mönch Jay Shetty im DW-Gespräch, wird uns nie glücklich machen. Sein Tipp: Denke wie ein Mönch.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/schaurig-schön-lost-places-in-deutschland/g-55447039">
+<div class="teaserImg">
+<img alt="Beelitz-Heilstaetten: Frauenpavillon mit morbidem Charme (Juergen Schwenkenbecher/picture alliance)" itemprop="image" src="https://static.dw.com/image/55445723_302.jpg" title="Beelitz-Heilstaetten: Frauenpavillon mit morbidem Charme (Juergen Schwenkenbecher/picture alliance)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Lost places in Deutschland
+</h2>
+<p>Stillgelegte Fabriken, alte Villen, ausgediente Krankenhäuser: Ruinen, die spannende Fotomotive sind. <span class="icon pics"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/des-nazis-alte-feindin/a-55545114">
+<div class="teaserImg">
+<img alt="Erfurt Protest gegen Rechtsextremismus Unteilbar gegen Rassismus (picture-alliance/dpa/B. Schackow)" itemprop="image" src="https://static.dw.com/image/52390587_302.jpg" title="Erfurt Protest gegen Rechtsextremismus Unteilbar gegen Rassismus (picture-alliance/dpa/B. Schackow)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Des Nazis alte Feindin
+</h2>
+<p>Auch in Deutschland machen "Omas gegen Rechts" mit Aktionen gegen Rechtsextremismus und Fremdenfeindlichkeit mobil. <span class="icon tv"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/release-der-xbox-series-x-evolution-der-spielekonsolen/g-52148889">
+<div class="teaserImg">
+<img alt="Microsoft -Xbox Series X (Microsoft)" itemprop="image" src="https://static.dw.com/image/51662761_302.jpg" title="Microsoft -Xbox Series X (Microsoft)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Evolution der Spielekonsolen
+</h2>
+<p>Xbox Series X und PS5 kommen in den Handel: Die Next-Gen-Konsolendesigns könnten unterschiedlicher kaum sein.<span class="icon pics"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/eisenzeit-ein-deutsch-russisches-schauprojekt/a-55542876">
+<div class="teaserImg">
+<img alt="Skythisches Gefäß (@: Eremitage/St.Petersburg)" itemprop="image" src="https://static.dw.com/image/55540365_302.jpg" title="Skythisches Gefäß (@: Eremitage/St.Petersburg)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Deutsch-russische Ausstellung zur Eisenzeit </h2>
+<p>In der Sankt Petersburger Eremitage eröffnet eine deutsch-russische Ausstellung der Superlative.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Picture Teaser -->
+<div class="col2 pictureTeaser">
+<div class="group">
+<div class="imgTeaserM below bluedw" id="pictureteaser_55466996">
+<div class="teaserImg">
+<a href="https://www.dw.com/de/us-pr%C3%A4sidentschaftswahl-2020/t-54528663" rel="noopener" target="_self">
+<img alt="Banner US Wahl 2020 (UPI Photo/imago images)" itemprop="image" src="https://static.dw.com/image/55470985_302.jpg" title="Banner US Wahl 2020 (UPI Photo/imago images)"/> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://www.dw.com/de/us-pr%C3%A4sidentschaftswahl-2020/t-54528663" rel="noopener" target="_self">
+<h2>Die USA haben gewählt
+<span class="date">05.11.2020</span>
+</h2>
+<p id="text_55466996">Alle DW-Inhalte zur US-Präsidentschaftswahl.</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Event-Livestream-Teaser Start -->
+<div class="eventLivestreamTeaser">
+<div class="col2">
+<div class="imgTeaserM video">
+<div class="mediaItem" data-channel-id="5">
+<input name="player_type" type="hidden" value="dwlivestream"/>
+<input name="file_name" type="hidden" value="https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8"/>
+<input name="media_title" type="hidden" value="DokFilm
+- Friedensgespräche - Die Oslo-Tagebücher, Teil 2"/>
+<input name="channel_name" type="hidden" value="DW Deutsch"/>
+<input name="preview_image" type="hidden" value="https://static.dw.com/image/54893001_302.jpeg"/>
+<input name="isLiveVideo" type="hidden" value="false"/>
+<div alt="Dokumentation 10809 Oslo Diaries Teil 2 " class="teaserImg" title="Dokumentation 10809 Oslo Diaries Teil 2 ">
+<div class="videoContainer" id="videoContainer-5" rel="dynamic videoData for javascript"></div>
+<div class="playButtonArea">
+<div class="customPlayBtn">
+<div class="playBtnImgBox"></div>
+<span class="playBtnText">Livestream ansehen</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+DW_PLAYER.shareLocalization = "Teilen";
+DW_PLAYER.localization = {
+rewind: "10 Sek. zurückspulen",
+settings: "Einstellungen",
+hd: "Qualität",
+fullscreen: "Vollbild",
+cc: "Untertitel",
+nextUp: "Nächstes Video",
+playlist: "Playlist",
+pause: "Pause",
+play: "Abspielen",
+player: "Videoplayer",
+prev: "Vorherige Videos",
+next: "Nächste Videos",
+close: "Schließen",
+replay: "Wiederholen",
+volume: "Lautstärke"
+};
+</script>
+<div class="teaserContentWrap information">
+<h4> DW Deutsch
+Live</h4>
+<h2>DokFilm
+- Friedensgespräche - Die Oslo-Tagebücher, Teil 2</h2>
+<p class="next">Anschließend um 18:15 UTC: Quarks</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Event-Livestream-Teaser End -->
+<div class="col2">
+<!-- Picture Teaser -->
+<div class="col1 pictureTeaser">
+<div class="group">
+<div class="imgTeaserS bottom bluedw" id="pictureteaser_37557227">
+<div class="teaserImg">
+<a href="https://www.facebook.com/dw.german/" rel="nofollow noopener" target="_blank">
+<img alt="Facebook Offizielles Logo" itemprop="image" src="https://static.dw.com/image/41525323_301.jpg" title="Facebook Offizielles Logo"/> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://www.facebook.com/dw.german/" rel="nofollow noopener" target="_blank">
+<h2>Folgen Sie uns auf Facebook
+<span class="date">17.08.2012</span>
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Picture Teaser -->
+<div class="col1 pictureTeaser">
+<div class="group">
+<div class="imgTeaserS bottom bluedw" id="pictureteaser_37557229">
+<div class="teaserImg">
+<a href="https://twitter.com/dw_deutsch" rel="nofollow noopener" target="_blank">
+<img alt="Twitter Offizielles Logo" itemprop="image" src="https://static.dw.com/image/41525319_301.jpg" title="Twitter Offizielles Logo"/> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://twitter.com/dw_deutsch" rel="nofollow noopener" target="_blank">
+<h2>Folgen Sie uns auf Twitter
+<span class="date">15.02.2017</span>
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17878299">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/deutschland/s-12321">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Deutschland</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/studie-people-of-color-durch-polizei-benachteiligt/a-55552242">
+<div class="teaserImg articl">
+<img alt="Deutschland | Black Lives Matter | Protest gegen Rassismus" itemprop="image" src="https://static.dw.com/image/54229197_301.jpg" title="Deutschland | Black Lives Matter | Protest gegen Rassismus"/> </div>
+<h2 class="">
+Studie: People of Color durch Polizei benachteiligt
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/sos-auf-deutschen-intensivstationen/a-55558395">
+<div class="teaserImg articl">
+<img alt="Deutschland Coronavirus - Intensivstation" itemprop="image" src="https://static.dw.com/image/55547609_301.jpg" title="Deutschland Coronavirus - Intensivstation"/> </div>
+<h2 class="">
+SOS auf deutschen Intensivstationen
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/deutsche-islamkonferenz-seehofer-ruft-zum-kampf-gegen-fanatiker-auf/a-55557011">
+<div class="teaserImg articl">
+<img alt="Deutschland l Deutsch Islam Konferenz in Berlin, Seehofer" itemprop="image" src="https://static.dw.com/image/55557405_301.jpg" title="Deutschland l Deutsch Islam Konferenz in Berlin, Seehofer"/> </div>
+<h2 class="">
+Deutsche Islamkonferenz: Seehofer ruft zum Kampf gegen Fanatiker auf
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-wenn-die-ersten-impfdosen-nicht-reichen/a-55540983">
+<div class="teaserImg articl">
+<img alt="Symbolbild Impfung" itemprop="image" src="https://static.dw.com/image/55544224_301.jpg" title="Symbolbild Impfung"/> </div>
+<h2 class="">
+Corona: Wenn die ersten Impfdosen nicht reichen
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17891898">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/europa/s-12322">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Europa</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/vertrauter-des-papstes-unter-verdacht/a-55567718">
+<div class="teaserImg articl">
+<img alt="Deutschland Osnabrück Dom | Symbolbild sexueller Missbrauch" itemprop="image" src="https://static.dw.com/image/54708801_301.jpeg" title="Deutschland Osnabrück Dom | Symbolbild sexueller Missbrauch"/> </div>
+<h2 class="">
+Vertrauter des Papstes unter Verdacht
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/eu-will-eigene-pandemie-behörde/a-55567347">
+<div class="teaserImg articl">
+<img alt="Gesundheitskonferenz «World Health Summit» - Spritze" itemprop="image" src="https://static.dw.com/image/55393928_301.jpg" title="Gesundheitskonferenz «World Health Summit» - Spritze"/> </div>
+<h2 class="">
+EU will eigene Pandemie-Behörde
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/paul-spiegel-preis-für-omas-gegen-rechts/av-55567351">
+<div class="teaserImg tv">
+<img alt="Berlin Omas gegen Rechts Protest gegen AfD-Demonstration" itemprop="image" src="https://static.dw.com/image/44058173_301.jpg" title="Berlin Omas gegen Rechts Protest gegen AfD-Demonstration"/> </div>
+<h2 class="">
+Paul-Spiegel-Preis für "Omas gegen Rechts"
+<span class="icon tv"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/vw-plant-vorzeigeprojekt-für-e-mobilität-in-griechenland/a-55554528">
+<div class="teaserImg articl">
+<img alt="Griechenland | Griechische Insel Astypalea | Pressefoto " itemprop="image" src="https://static.dw.com/image/55496623_301.jpg" title="Griechenland | Griechische Insel Astypalea | Pressefoto "/> </div>
+<h2 class="">
+VW plant Vorzeigeprojekt für E-Mobilität in Griechenland
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17882153">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/afrika/s-12324">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Afrika</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kann-deutschland-im-kamerun-konflikt-vermitteln/a-55568633">
+<div class="teaserImg articl">
+<img alt="Kamerun Symbolbild Armee " itemprop="image" src="https://static.dw.com/image/52142588_301.jpg" title="Kamerun Symbolbild Armee "/> </div>
+<h2 class="">
+Kann Deutschland im Kamerun-Konflikt vermitteln? </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/neues-massaker-in-nord-mosambik/a-55557233">
+<div class="teaserImg articl">
+<img alt="Symbolbild | Im Norden Mosambiks sind 50 Zivilisten von Dschihadisten ermordet worden" itemprop="image" src="https://static.dw.com/image/53204352_301.jpg" title="Symbolbild | Im Norden Mosambiks sind 50 Zivilisten von Dschihadisten ermordet worden"/> </div>
+<h2 class="">
+Neues Massaker in Nord-Mosambik?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/malis-ex-präsident-touré-72-jährig-gestorben/a-55551436">
+<div class="teaserImg articl">
+<img alt="Mali Ex-Präsident Amadou Toumani Toure" itemprop="image" src="https://static.dw.com/image/55551491_301.jpg" title="Mali Ex-Präsident Amadou Toumani Toure"/> </div>
+<h2 class="">
+Malis Ex-Präsident Touré 72-jährig gestorben
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/afrikas-einfallsreichtum-im-kampf-gegen-corona/g-55542173">
+<div class="teaserImg pic">
+<img alt="Kenia Corona l Medizinstudenten in Nairobi" itemprop="image" src="https://static.dw.com/image/55165496_301.jpg" title="Kenia Corona l Medizinstudenten in Nairobi"/> </div>
+<h2 class="">
+Afrikas Einfallsreichtum im Kampf gegen Corona
+<span class="icon pics"></span> </h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17882281">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/asien/s-12326">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Asien</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kulturkampf-um-irans-schulbücher/a-55552000">
+<div class="teaserImg articl">
+<img alt="Iranische Schulbücher " itemprop="image" src="https://static.dw.com/image/55551795_301.jpg" title="Iranische Schulbücher "/> </div>
+<h2 class="">
+Kulturkampf um Irans Schulbücher
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/nouripour-iran-hält-deutsche-als-politische-geiseln-fest/a-55524577">
+<div class="teaserImg articl">
+<img alt="Iran, Jamshid Sharmehr" itemprop="image" src="https://static.dw.com/image/54403911_301.jpg" title="Iran, Jamshid Sharmehr"/> </div>
+<h2 class="">
+Nouripour: "Iran hält Deutsche als politische Geiseln fest"
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/parlamentswahl-in-myanmar-bedingt-demokratisch/a-55495513">
+<div class="teaserImg articl">
+<img alt="Myanmar Kundgebung zur Unterstützung von Aung San Suu Kyi " itemprop="image" src="https://static.dw.com/image/51575356_301.jpg" title="Myanmar Kundgebung zur Unterstützung von Aung San Suu Kyi "/> </div>
+<h2 class="">
+Parlamentswahl in Myanmar bedingt demokratisch
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/chamenei-die-karikaturen-und-der-holocaust/a-55518583">
+<div class="teaserImg articl">
+<img alt="Iran | Ali Khamener tifft Mitgliedern des Nationalen Anti-Corona-Stab" itemprop="image" src="https://static.dw.com/image/55384126_301.jpg" title="Iran | Ali Khamener tifft Mitgliedern des Nationalen Anti-Corona-Stab"/> </div>
+<h2 class="">
+Chamenei, die Karikaturen und der Holocaust
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="18384530">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/kommentare/s-101460">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Kommentare</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/meinung-das-ende-der-rechtsstaatlichkeit-in-hongkong/a-55564401">
+<div class="teaserImg articl">
+<img alt="China Hongkong Parlament Abstimmung zu Wahlreform Plenarsaal" itemprop="image" src="https://static.dw.com/image/18523735_301.jpg" title="China Hongkong Parlament Abstimmung zu Wahlreform Plenarsaal"/> </div>
+<h2 class="">
+Meinung: Das Ende der Rechtsstaatlichkeit in Hongkong
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/meinung-afrikas-sehnsucht-nach-den-usa-und-joe-biden/a-55553216">
+<div class="teaserImg articl">
+<img alt="Afrika - US Präsident Obama in Tansania 2013" itemprop="image" src="https://static.dw.com/image/44645753_301.jpg" title="Afrika - US Präsident Obama in Tansania 2013"/> </div>
+<h2 class="">
+Meinung: Afrikas Sehnsucht nach den USA und Joe Biden
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/meinung-putin-und-erdogan-als-gewinner-in-berg-karabach/a-55557534">
+<div class="teaserImg articl">
+<img alt="Reaktionen auf die neu vereinbarte Waffenruhe in Berg-Karabach" itemprop="image" src="https://static.dw.com/image/55551233_301.jpg" title="Reaktionen auf die neu vereinbarte Waffenruhe in Berg-Karabach"/> </div>
+<h2 class="">
+Meinung: Putin und Erdogan als Gewinner in Berg-Karabach
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/görlach-global-zieht-joe-biden-für-taiwan-in-den-krieg/a-55548377">
+<div class="teaserImg articl">
+<img alt="Zitattafel Alexander Görlach" itemprop="image" src="https://static.dw.com/image/55552731_301.png" title="Zitattafel Alexander Görlach"/> </div>
+<h2 class="">
+Görlach Global: Zieht Joe Biden für Taiwan in den Krieg?
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17861030">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/wirtschaft/s-1503">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Wirtschaft</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-der-impfstoff-wird-so-schnell-nichts-ändern/a-55568417">
+<div class="teaserImg articl">
+<img alt="Deutschland Coronavirus - Porsche Produktion" itemprop="image" src="https://static.dw.com/image/55462273_301.jpg" title="Deutschland Coronavirus - Porsche Produktion"/> </div>
+<h2 class="">
+Corona: Der Impfstoff wird so schnell nichts ändern
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/hacker-jagen-mittelständler/av-55568150">
+<div class="teaserImg audio">
+<img border="0" height="124" src="/i/audio-gr-3sp.gif" width="220"/>
+</div>
+<h2 class="">
+Hacker jagen Mittelständler
+<span class="icon audio"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/eu-sichert-sich-300-millionen-biontech-impfdosen-für-europa/a-55566897">
+<div class="teaserImg articl">
+<img alt="Symbolbild Corona Impfstoff Biontech und Pfizer BNT162bt" itemprop="image" src="https://static.dw.com/image/55544136_301.jpg" title="Symbolbild Corona Impfstoff Biontech und Pfizer BNT162bt"/> </div>
+<h2 class="">
+EU sichert sich 300 Millionen Biontech-Impfdosen für Europa
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/was-wird-aus-trump-nach-trump/a-55565243">
+<div class="teaserImg articl">
+<img alt="Trump Hotel Tower | Chicago" itemprop="image" src="https://static.dw.com/image/53472957_301.jpg" title="Trump Hotel Tower | Chicago"/> </div>
+<h2 class="">
+Was wird aus Trump nach Trump?
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17878331">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/kultur/s-1534">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Kultur</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/neil-young-der-legendäre-gitarrist-und-rockstar-wird-75/a-55566309">
+<div class="teaserImg articl">
+<img alt="BottleRock Napa Valley Music Festival 2019 | Neil Young" itemprop="image" src="https://static.dw.com/image/55523040_301.jpg" title="BottleRock Napa Valley Music Festival 2019 | Neil Young"/> </div>
+<h2 class="">
+Neil Young: Der legendäre Gitarrist und Rockstar wird 75
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/jay-shetty-und-das-think-like-a-monk-prinzip/a-55542649">
+<div class="teaserImg articl">
+<img alt="Indien l Influencer und Autor Jay Shetty" itemprop="image" src="https://static.dw.com/image/55544023_301.jpg" title="Indien l Influencer und Autor Jay Shetty"/> </div>
+<h2 class="">
+Jay Shetty und das "Think like a Monk"-Prinzip
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/storyluxe-für-ios-bildbearbeitungs-app-im-test/a-55566274">
+<div class="teaserImg articl">
+<img alt="DW Shift: Fotobearbeitungs-Apps im Test, Storyluxe" itemprop="image" src="https://static.dw.com/image/55561225_301.jpg" title="DW Shift: Fotobearbeitungs-Apps im Test, Storyluxe"/> </div>
+<h2 class="">
+"Storyluxe für iOS" - Bildbearbeitungs-App im Test
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/schaurig-schön-lost-places-in-deutschland/g-55447039">
+<div class="teaserImg pic">
+<img alt="Beelitz-Heilstaetten: Frauenpavillon mit morbidem Charme" itemprop="image" src="https://static.dw.com/image/55445723_301.jpg" title="Beelitz-Heilstaetten: Frauenpavillon mit morbidem Charme"/> </div>
+<h2 class="">
+Schaurig-schön: Lost places in Deutschland
+<span class="icon pics"></span> </h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17891917">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/wissen-umwelt/s-12296">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Wissenschaft</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/wie-kann-deutschland-das-15-grad-ziel-erreichen-studie-wuppertal-institut-fridays-for-future/a-55543996">
+<div class="teaserImg articl">
+<img alt="Deutschland Demonstration von Fridays for Future in Köln" itemprop="image" src="https://static.dw.com/image/55094258_301.jpg" title="Deutschland Demonstration von Fridays for Future in Köln"/> </div>
+<h2 class="">
+Wie kann Deutschland das 1,5-Grad-Ziel erreichen? </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/joe-bidens-größte-aufgabe-kampf-gegen-covid-19/a-55561050">
+<div class="teaserImg articl">
+<img alt="USA Joe Biden mit Atemschutzmaske in Wilmington, Delaware" itemprop="image" src="https://static.dw.com/image/55550065_301.jpg" title="USA Joe Biden mit Atemschutzmaske in Wilmington, Delaware"/> </div>
+<h2 class="">
+Joe Bidens größte Aufgabe: Kampf gegen COVID-19
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kenianische-gemeinden-schaffen-einen-sicheren-zufluchtsort-für-gefährdete-nashörner/a-55552015">
+<div class="teaserImg articl">
+<img alt="Schwarzes Nashorn" itemprop="image" src="https://static.dw.com/image/53345777_301.jpg" title="Schwarzes Nashorn"/> </div>
+<h2 class="">
+Kenianische Gemeinden schaffen einen sicheren Zufluchtsort für gefährdete Nashörner
+<span class="icon tv"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/jeder-fünfte-covid-19-patient-kann-psychische-probleme-bekommen/a-55563846">
+<div class="teaserImg articl">
+<img alt="Symbolbild Coronavirus Depression" itemprop="image" src="https://static.dw.com/image/54856488_301.jpg" title="Symbolbild Coronavirus Depression"/> </div>
+<h2 class="">
+Jeder fünfte COVID-19-Patient kann psychische Probleme bekommen
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17878335">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/sport/s-12284">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Sport</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/vereine-gegen-nationalteams-wie-das-coronavirus-für-konflikte-sorgt/a-55562126">
+<div class="teaserImg articl">
+<img alt="Fussball l DFB-Training, Bundestrainer Joachim Jogi Loew in Leipzig" itemprop="image" src="https://static.dw.com/image/55556818_301.jpg" title="Fussball l DFB-Training, Bundestrainer Joachim Jogi Loew in Leipzig"/> </div>
+<h2 class="">
+Vereine gegen Nationalteams: Wie das Coronavirus für Konflikte sorgt
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/fussball-in-georgien-instrument-fuer-gebietsansprueche/a-55556052">
+<div class="teaserImg articl">
+<img alt="Fussball EM-Qualifikation 2019 l Irland vs Georgien" itemprop="image" src="https://static.dw.com/image/55556742_301.jpg" title="Fussball EM-Qualifikation 2019 l Irland vs Georgien"/> </div>
+<h2 class="">
+Fußball in Georgien: Instrument für Gebietsansprüche
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/liveticker-deutschland-tschechien/a-55556215">
+<div class="teaserImg articl">
+<img alt="Testmatch I Deutschland v Türkei I Julian Brandt" itemprop="image" src="https://static.dw.com/image/55565715_301.jpg" title="Testmatch I Deutschland v Türkei I Julian Brandt"/> </div>
+<h2 class="">
+Liveticker: Deutschland - Tschechien
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/philipp-max-dfb-nominierung-auf-umwegen/a-55544099">
+<div class="teaserImg articl">
+<img alt="PSV Eindhoven - Fußballprofi Philipp Max in Aktion" itemprop="image" src="https://static.dw.com/image/55544361_301.jpg" title="PSV Eindhoven - Fußballprofi Philipp Max in Aktion"/> </div>
+<h2 class="">
+Philipp Max - DFB-Nominierung auf Umwegen
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--[if lt IE 8 ]></div><![endif]-->
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">
+<li><a href="/de/themen/s-9077" style="font-weight: bold;" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+</li>
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+<li> </li>
+<li><a href="/de/themen-von-a-bis-z/index-de">Themen von A bis Z</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/media-center/s-100813" style="font-weight: bold;" title="Das Media Center: Die Mediathek der Deutschen Welle">MEDIA CENTER</a>
+</li>
+<li><a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a></li>
+<li><a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a></li>
+<li><a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a></li>
+<li><a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a></li>
+<li><a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/tv/s-9093" style="font-weight: bold;" title="TV">TV</a>
+</li>
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a></li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/deutsch-lernen/s-2055" style="font-weight: bold;" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+</li>
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/unternehmen/profil/s-30626" style="font-weight: bold;" title="UNTERNEHMEN">UNTERNEHMEN</a>
+</li>
+<li><a href="/de/unternehmen/profil/s-30626" title="Über uns">Über uns</a></li>
+<li><a href="/de/unternehmen/karriere/s-11525" title="Machen Sie Karriere – Aktuelle Jobs bei der Deutschen Welle">Karriere</a></li>
+<li><a href="/de/unternehmen/presse/s-2981" title="Presse">Presse</a></li>
+<li><a href="/de/unternehmen/business-sales/s-3086" title="Business &amp; Sales">Business &amp; Sales</a></li>
+<li><a href="/de/unternehmen/travel/s-7456" title="Travel Distribution">Travel</a></li>
+<li><a href="https://dwwerbung.com" title="Werbung">Werbung</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/service/empfang/s-4136" style="font-weight: bold;" title="Service">SERVICE</a>
+</li>
+<li><a href="/de/service/empfang/s-4136" title="Empfang der TV Programme der Deutschen Welle in Ihrer Region">Empfang</a></li>
+<li><a href="/de/service/apps-co/s-50833969" title="DW Apps für iOS, Android, Smart TV und Sprachassistenten">Apps &amp; Co.</a></li>
+<li><a href="/newsletter-anmeldung/a-15718221" title="Newsletter &amp; Co.">Newsletter &amp; Co.</a></li>
+<li><a href="/de/service/faq/s-30582" title="FAQ: Antworten auf häufige Fragen an die Deutsche Welle">FAQ</a></li>
+<li><a href="/de/service/kontakt/s-30583" title="Anschriften und Ansprechpartner bei der Deutschen Welle">Kontakt</a></li>
+<li> </li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" style="font-weight: bold;" title="DW AKADEMIE">DW AKADEMIE</a>
+</li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" title="Über Uns | DW Akademie">Über uns</a></li>
+<li><a href="/de/dw-akademie/medienentwicklung/s-11812" title="Medienentwicklung | DW Akademie">Medienentwicklung</a></li>
+<li><a href="/de/dw-akademie/studium/s-12262" title="International Media Studies: Studium bei der Deutschen Welle">Studium</a></li>
+<li><a href="/de/dw-akademie/volontariat/s-11881" title="Starten Sie durch mit einem Volontariat der Deutschen Welle">Volontariat</a></li>
+<li><a href="/de/dw-akademie/medientraining/s-11813" title="Medientraining I Auftritt in Medien und Öffentlichkeit">Medientraining</a></li>
+</ul>
+<p id="copyright">
+© 2020 Deutsche Welle |
+<a href="/de/definition-und-nutzung-von-daten-durch-die-deutsche-welle-gemäß-eu-dsgvo/a-18265186">Datenschutz</a> |
+<a href="/impressum">Impressum</a> |
+<a href="/kontakt">Kontakt</a>
+| <a href="https://m.dw.com/de/themen/s-9077" id="mobilePreferredLink">Mobile Version</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+</body></html>

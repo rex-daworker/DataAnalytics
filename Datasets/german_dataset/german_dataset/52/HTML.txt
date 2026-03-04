@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html dir="ltr" lang="de-DE" class="no-js ie6 oldie"><![endif]--><!--[if IE 7 ]><html dir="ltr" lang="de-DE" class="no-js ie7 oldie"><![endif]--><!--[if IE 8 ]><html dir="ltr" lang="de-DE" class="no-js ie8 oldie"><![endif]--><!--[if IE 9 ]><html dir="ltr" lang="de-DE" class="no-js ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" dir="ltr" lang="de-DE"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	======= Umsetzung und Hosting: cron IT GmbH, www.cron.eu =======
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<title>Startseite | DHBW</title>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="Die Duale Hochschule Baden-Württemberg. Informieren Sie sich über das duale Studium an der DHBW." name="description"/>
+<meta content="DHBW, Duales Studium, Duale Hochschule Baden Württemberg, Theorie und Praxis, Studieninteressierte, Duale Partner, Duale Dozenten, Alumni, praxisintegrierend, duale Bachelorstudiengänge, Dualer Master, praxisorientiert, Intensivstudium, praxisnah, Praxisphasen" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<link href="https://www.dhbw.de/startseite/rss.xml" rel="alternate" title="RSS" type="application/rss+xml"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="IE=edge,chrome=1" name="X-UA-Compatible"/>
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/vendor_head.min-8fa490df.js"></script>
+<link href="/typo3conf/ext/dhbw_core/Resources/Public/Css/main.min-86299b3d.css" media="all" rel="stylesheet"/>
+<script>(function(window) {var prefix = 'iconset'; var parse = function(name) {var stylesheet; var ast = {}; try{for (var i = 0; i < document.styleSheets.length; i++) {if (document.styleSheets[i].href !== null) {if (document.styleSheets[i].href.indexOf(name) > 0) {stylesheet = document.styleSheets[i].cssRules ? document.styleSheets[i].cssRules : document.styleSheets[i].rules; } } } for (var i = 0; i < stylesheet.length; i++) {var name; var icon; name = prefix + stylesheet[i].selectorText; icon = stylesheet[i].style.backgroundImage; if (icon !== "") {icon = icon.slice(38).slice(0, -2); icon = decodeURIComponent(icon.replace("3C", "<")); if (icon.indexOf('svg') > 0) {ast[name] = icon; } } } return ast; } catch (e) {} }; var render = function(icons) {if (icons === undefined) {return false; } var elements; var selector; var embedSelector = "data-grunticon-embed"; var icon; for (icon in icons) {if (selector = icon.slice(prefix.length), elements = document.querySelectorAll(selector + "[" + embedSelector + "]"), elements.length) {var i = 0; for (; elements.length > i; i++) {elements[i].innerHTML = icons[icon]; elements[i].style.backgroundImage = "none"; elements[i].removeAttribute(embedSelector); } } } document.documentElement.classList.add("svgloaded"); return elements; }; var embedSVG = function() {if (document.readyState === "loading") {document.addEventListener("DOMContentLoaded", function(event) {render(parse('icons')); }); } else {render(parse('icons')); } }; self.embedSVG = embedSVG; }(window));</script>
+<link as="style" href="/typo3conf/ext/dhbw_core/Resources/Public/Css/icons.css" onload="this.onload=null;this.rel='stylesheet'; window.embedSVG();" rel="preload"/>
+<script>
+          (function () {function polyfillPreload() {var ret; try {ret = document.createElement( "link" ).relList.supports( "preload" ); } catch (e) {ret = false; } if (ret) {return false; } function enableStylesheet() {link.removeEventListener("load", enableStylesheet); link.onload = null; link.media = "all"; window.embedSVG(); } var links = document.getElementsByTagName( "link" ); for(var i = 0; i < links.length; i++){var link = links[ i ]; if(link.rel === "preload" && link.getAttribute("as") === "style"){if (link.addEventListener) {link.addEventListener('load', enableStylesheet); link.rel = "stylesheet"; link.media = "only x"; } } } } polyfillPreload(); } ());
+          
+        </script>
+<link href="https://www.dhbw.de/startseite" rel="canonical"/>
+</head>
+<body class="dhbwp" data-layout="Startpage" data-page="2" data-parent="1">
+<header class="page-header">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-6 col-sm-3">
+<h1 class="text-hide"><a href="/startseite" id="home-link"><span class="icon-logo-dhbwp" data-grunticon-embed="data-grunticon-embed"></span><span class="text-content"></span>DHBW</a></h1>
+</div>
+<div class="col-xs-6 col-sm-9">
+<div class="header-wrapper">
+<div class="search-wrapper hidden-xs">
+<form action="/suche" autocomplete="off" method="GET">
+<input class="search-input search-trigger" data-default-value="Suchen" name="q" value="Suchen"/>
+<div class="decoration"><span class="text-hide">Suchen</span><span class="icon-search"></span></div>
+</form>
+</div>
+<div class="menu-toggle"><a href="#" id="show-menu"><span class="icon-nav"></span><span class="title hidden-xs">Menü</span></a></div>
+<div class="lang-selection hidden-xs">
+<ul><li class="active"><span><a href="/startseite">Deutsch</a></span></li><li><span><a href="https://www.dhbw.de/english/home" target="_self">English</a></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay-container">
+<div class="overlay-header"></div>
+<div class="overlay-header-buttons">
+<div class="container-fluid relative">
+<div class="header-wrapper overlay">
+<div class="search-wrapper">
+<form action="/suche" autocomplete="off" data-suggest="/suche?type=7384" method="GET">
+<input class="search-input" data-default-value="Suchen" name="q" value="Suchen"/>
+<button type="submit"><span class="text-hide">Suchen</span><span class="icon-search" data-grunticon-embed="data-grunticon-embed"></span></button>
+</form>
+</div>
+<div class="menu-toggle"><a href="#" id="hide-menu"><span class="icon-close" data-grunticon-embed="data-grunticon-embed"></span><span class="title">Schließen</span></a></div>
+<div class="lang-selection">
+<ul><li class="active"><span><a href="/startseite">Deutsch</a></span></li><li><span><a href="https://www.dhbw.de/english/home" target="_self">English</a></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay">
+<div class="container-fluid">
+<nav class="main-menu">
+<ul><li class="hasChild"><a href="/die-dhbw/aktuelles">Die DHBW</a><ul><li><a href="/die-dhbw/aktuelles">Aktuelles</a></li><li><a href="/die-dhbw/wir-ueber-uns">Wir über uns</a></li><li><a href="/die-dhbw/hochschulleitung">Hochschulleitung</a></li><li><a href="/die-dhbw/standorte">Standorte</a></li><li><a href="/die-dhbw/studium-und-lehre">Studium und Lehre</a></li><li><a href="/die-dhbw/forschung-innovation-und-transfer">Forschung, Innovation und Transfer</a></li><li><a href="/die-dhbw/qualitaetsmanagement-und-akkreditierung">Qualitätsmanagement und Akkreditierung</a></li><li><a href="/die-dhbw/einrichtungen-service">Einrichtungen &amp; Service</a></li><li><a href="/die-dhbw/dokumente">Dokumente</a></li><li><a href="/die-dhbw/stellenangebote">Stellenangebote</a></li><li><a href="/die-dhbw/presse">Presse</a></li><li><a href="/die-dhbw/glossar">Glossar</a></li></ul></li><li class="hasChild"><a href="/informationen/studieninteressierte">Informationen</a><ul><li><a href="/informationen/studieninteressierte">Studieninteressierte</a></li><li><a href="/alumni">Alumni</a></li><li><a href="/informationen/duale-partner">Duale Partner</a></li><li><a href="/informationen/duale-dozenten">Duale Dozenten</a></li></ul></li><li class="hasChild"><a href="/studienangebot/bachelor">Studienangebot</a><ul><li><a href="/studienangebot/bachelor">Bachelor</a></li><li><a href="/studienangebot/master">Master</a></li><li><a href="/studienangebot/international">International</a></li><li><a href="/studienangebot/zusatzqualifikation">Zusatzqualifikation</a></li></ul></li><li><a href="/dhbw-stiftung">DHBW-Stiftung</a></li><li class="hasChild"><a href="/kontakt/ansprechpersonen">Kontakt</a><ul><li><a href="/kontakt/ansprechpersonen">Ansprechpersonen</a></li><li><a href="/kontakt/anfahrt">Anfahrt</a></li></ul></li></ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<main class="main">
+<div class="inner-wrapper">
+<!--TYPO3SEARCH_begin-->
+<div class="frame frame-default frame-type-dhbwcore_headerslider frame-layout-0" id="c2">
+<div class="header-slider-outer">
+<div class="header-slider" data-speed="5000">
+<div class="slider-item">
+<div class="slider-img">
+<picture>
+<source media="(min-width: 681px)" srcset="
+            /fileadmin/_processed_/4/a/csm_Megafon_Homepage_Slider_1920x860_Desktop_3256f1fd4d.png
+        , 
+            /fileadmin/_processed_/4/a/csm_Megafon_Homepage_Slider_1920x860_Desktop_fd072c0f2e.png
+         2x"/>
+<img alt="" srcset="
+            /fileadmin/_processed_/4/e/csm_Megafon_Homepage_Slider_640x820_Mobil_81972f21e7.png
+        , 
+            /fileadmin/_processed_/4/e/csm_Megafon_Homepage_Slider_640x820_Mobil_8176b59f6c.png
+         2x"/>
+<noscript><img alt="" src="
+            /fileadmin/_processed_/4/a/csm_Megafon_Homepage_Slider_1920x860_Desktop_3256f1fd4d.png
+        "/></noscript>
+</picture>
+</div>
+<div class="slider-content">
+<div class="slider-inner-content">
+<a href="/die-dhbw/aktuelles/detail/2020/10/neuartiges-coronavirus1">
+<h3>Auswirkungen des Coronavirus</h3>
+<h2>Informationen zum Umgang mit dem Coronavirus an der DHBW</h2>
+<span class="btn-link inverse">mehr Informationen</span>
+</a>
+</div>
+</div>
+</div>
+<div class="slider-item">
+<div class="slider-img">
+<picture>
+<source media="(min-width: 681px)" srcset="
+            /fileadmin/_processed_/b/b/csm_DHBW_Gremienwahl_2019_1920x860_341e465298.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/DHBW_Gremienwahl_2019_1920x860.jpg
+         2x"/>
+<img alt="" srcset="
+            /fileadmin/_processed_/c/9/csm_DHBW_Gremienwahl_2019_640x480_4cc626f58c.jpg
+        , 
+            /fileadmin/_processed_/c/9/csm_DHBW_Gremienwahl_2019_640x480_1e36c967b5.jpg
+         2x"/>
+<noscript><img alt="" src="
+            /fileadmin/_processed_/b/b/csm_DHBW_Gremienwahl_2019_1920x860_341e465298.jpg
+        "/></noscript>
+</picture>
+</div>
+<div class="slider-content">
+<div class="slider-inner-content">
+<a href="https://www.dhbw.de/gremienwahlen-2020#wahlergebnisse" target="_blank">
+<h3></h3>
+<h2>Gremienwahlen 2020</h2>
+<span class="btn-link inverse">Zu den Wahlergebnissen</span>
+</a>
+</div>
+</div>
+</div>
+<div class="slider-item">
+<div class="slider-img">
+<picture>
+<source media="(min-width: 681px)" srcset="
+            /fileadmin/_processed_/7/2/csm_DHBW_Studieren_beim_dualen_Original_1920x860_ffe1e06270.jpg
+        , 
+            /fileadmin/_processed_/7/2/csm_DHBW_Studieren_beim_dualen_Original_1920x860_9204417bb2.jpg
+         2x"/>
+<img alt="" srcset="
+            /fileadmin/_processed_/c/8/csm_DHBW_Studieren_beim_dualen_Original_640x480_c06ce5207e.jpg
+        , 
+            /fileadmin/_processed_/c/8/csm_DHBW_Studieren_beim_dualen_Original_640x480_8d0f7e23e1.jpg
+         2x"/>
+<noscript><img alt="" src="
+            /fileadmin/_processed_/7/2/csm_DHBW_Studieren_beim_dualen_Original_1920x860_ffe1e06270.jpg
+        "/></noscript>
+</picture>
+</div>
+<div class="slider-content">
+<div class="slider-inner-content">
+<a href="/studienangebot/bachelor">
+<h3>Mit Theorie und Praxis zum Erfolg</h3>
+<h2>Studieren beim dualen Original.</h2>
+<span class="btn-link inverse">zum Studienangebot</span>
+</a>
+</div>
+</div>
+</div>
+<div class="slider-item">
+<div class="slider-img">
+<picture>
+<source media="(min-width: 681px)" srcset="
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Startseite_Master_Slieshow_1920x860.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Startseite_Master_Slieshow_1920x860.jpg
+         2x"/>
+<img alt="" srcset="
+            /fileadmin/_processed_/a/8/csm_Startseite_Master_Slieshow_640x480_ca372897eb.jpg
+        , 
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Startseite_Master_Slieshow_640x480.jpg
+         2x"/>
+<noscript><img alt="" src="
+            /fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/Startseite_Master_Slieshow_1920x860.jpg
+        "/></noscript>
+</picture>
+</div>
+<div class="slider-content">
+<div class="slider-inner-content">
+<a href="/studienangebot/master">
+<h3>Erfolg studieren. Beruf integrieren.</h3>
+<h2>Der Duale Master.</h2>
+<span class="btn-link inverse">mehr erfahren</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-slider">
+<button class="icon-arrow-left text-hide header-slider" data-grunticon-embed="">
+                Zurück
+            </button>
+<button class="icon-arrow-right text-hide header-slider" data-grunticon-embed="">
+                Weiter
+            </button>
+</div>
+</div>
+</div>
+<!--TYPO3SEARCH_end-->
+<div class="container-fluid main-content">
+<!--TYPO3SEARCH_begin-->
+<div class="frame frame-default frame-type-dhbwcore_tilebox frame-layout-0" id="c3">
+<div class="container-fluid">
+<div class="kachel-block">
+<div class="kachel-item">
+<a class="more-link icon-arrow-right" href="/informationen/studieninteressierte">
+<div class="image-wrapper">
+<img alt="Studieninteressierte" data-src="/fileadmin/user_upload/Bilder_Grafiken/Kacheln/DHBW_Beratung_RV_073.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 660 300'%2F%3E"/>
+</div>
+<h2>
+<span>Studieninteressierte</span>
+</h2>
+<p>
+                            Informationen für Studieninteressierte
+                        </p>
+</a>
+</div>
+<div class="kachel-item">
+<a class="more-link icon-arrow-right" href="/informationen/duale-partner">
+<div class="image-wrapper">
+<img alt="Duale Partner" data-src="/fileadmin/user_upload/Bilder_Grafiken/Kacheln/DHBW_Elektrotechnik_FN_7144.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 660 300'%2F%3E"/>
+</div>
+<h2>
+<span>Duale Partner</span>
+</h2>
+<p>
+                            Informationen für Duale Partner
+                        </p>
+</a>
+</div>
+<div class="kachel-item">
+<a class="more-link icon-arrow-right" href="/informationen/duale-dozenten">
+<div class="image-wrapper">
+<img alt="Duale Dozenten" data-src="/fileadmin/user_upload/Bilder_Grafiken/Kacheln/DHBW_Gespraech_RV_1049.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 660 300'%2F%3E"/>
+</div>
+<h2>
+<span>Duale Dozenten</span>
+</h2>
+<p>
+                            Informationen für nebenberufliche Dozenten
+                        </p>
+</a>
+</div>
+<div class="kachel-item">
+<a class="more-link icon-arrow-right" href="/alumni">
+<div class="image-wrapper">
+<img alt="Alumni" data-src="/fileadmin/user_upload/Bilder_Grafiken/Kacheln/Bettina_Graefin_Bernadotte_DSC0515.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 660 300'%2F%3E"/>
+</div>
+<h2>
+<span>Alumni</span>
+</h2>
+<p>
+                            Informationen für Alumni
+                        </p>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_introbox frame-layout-0" id="c39">
+<div class="intro-block">
+<h1>Die DHBW<small>Das duale Original</small></h1>
+<div class="row">
+<div class="col-md-8">
+<h2>Wir über uns</h2>
+<p>Die Duale Hochschule Baden-Württemberg (DHBW) ist die erste staatliche duale, d.h. praxisintegrierende Hochschule in Deutschland. Sie wurde am 1. März 2009 gegründet und führt das seit über 40 Jahren erfolgreiche duale Modell der früheren Berufsakademie Baden-Württemberg fort.</p>
+<a class="btn-link black" href="/die-dhbw/wir-ueber-uns">mehr erfahren</a>
+<div class="awards">
+<a href="/die-dhbw/dokumente.html#Akkreditierung"><img alt="System akkrediert Akkreditierungsrat" data-src="/fileadmin/protected/praesidium/AR-Siegel-System_RGB-transparent.png"/></a>
+<a href="/die-dhbw/aktuelles/detail/2018/6/dhbw-erhaelt-zum-dritten-mal-das-zertifikat-als-familiengerechte-hochschule.html"><img alt="Familiengerechte Hochschule" data-src="/fileadmin/user_upload/Bilder_Grafiken/Logos/Logo_Familiengerechte_Hochschule.jpg"/></a>
+<a href="/die-dhbw/aktuelles/detail/2015/11/weltoffene-hochschulen-gegen-fremdenfeindlichkeit-dhbw-beteiligt-sich-an-bundesweiter-aktion.html"><img alt="Weltoffene Hochschulen gegen Fremdenfeindlichkeit" data-src="/fileadmin/user_upload/Bilder_Grafiken/Logos/Logo_Weltoffene_Hochschulen_gegen_Fremdenfeindlichkeit160.png"/></a>
+<a href="/die-dhbw/aktuelles/detail/2015/10/auszeichnungen-beim-german-design-award-und-beim-econ-award-2015.html"><img alt="German Design Award 2015" data-src="/fileadmin/user_upload/Bilder_Grafiken/Logos/GDA16_HO_SPECIAL_RGB.png"/></a>
+<a href="/die-dhbw/aktuelles/detail/2015/10/auszeichnungen-beim-german-design-award-und-beim-econ-award-2015.html"><img alt="Econ Award 2015" data-src="/fileadmin/user_upload/Bilder_Grafiken/Logos/nominee.png"/></a>
+</div>
+</div>
+<div class="col-md-4">
+<h2>Einrichtungen &amp; Service</h2>
+<div class="shade">
+<p>Standortübergreifende Einrichtungen der DHBW</p>
+<ul>
+<li>
+<a href="https://portal.dhbw.de/" target="_blank">DHBW Portal</a>
+</li>
+<li>
+<a href="https://dualis.dhbw.de" target="_blank">DUALIS</a>
+</li>
+<li>
+<a href="/die-dhbw/einrichtungen-service/interessenvertretung-der-studierenden">Interessensvertretung der Studierenden</a>
+</li>
+<li>
+<a href="/die-dhbw/einrichtungen-service/zhl-testzentrum">Testzentrum</a>
+</li>
+<li>
+<a href="/die-dhbw/einrichtungen-service/zentrale-auslandskoordination">Zentrale Auslandskoordination</a>
+</li>
+<li>
+<a href="/die-dhbw/einrichtungen-service">alle anzeigen</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_downloadblock frame-layout-0" id="c7">
+<div class="download-block">
+<h2>Dokumente</h2>
+<ul class="download-list">
+<li>
+<a href="http://www.dhbw.de/die-dhbw/dokumente.html#tab-649-2" target="_blank">
+<span class="icon-document icon" data-grunticon-embed="data-grunticon-embed"></span>
+<span class="title">Broschüren, Handbücher und Berichte</span>
+</a>
+</li>
+<li>
+<a href="http://www.dhbw.de/die-dhbw/dokumente.html#tab-649-11" target="_blank">
+<span class="icon-box icon" data-grunticon-embed="data-grunticon-embed"></span>
+<span class="title">Studienvertrag</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/dokumente">
+<span class="icon-all icon" data-grunticon-embed="data-grunticon-embed"></span>
+<span class="title">alle anzeigen</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="frame frame-default frame-type-list frame-layout-0" id="c10">
+<header>
+<h2 class="">
+				Aktuelles
+			</h2>
+</header>
+<div class="news">
+<div class="news-teaser-block">
+<div class="news-teaser-content">
+<div class="news-teaser-item">
+<a href="/die-dhbw/aktuelles/detail/2020/11/wiederwahl-von-frau-prof-nitsche-ruhland-als-nebenamtliches-praesidiumsmitglied">
+<div class="img-outer">
+<img alt="" data-src="/fileadmin/_processed_/0/2/csm_04-11-20_Wiederwahl_Nitsche_Ruhland_869fec90ea.png" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 450 300'%2F%3E" title=""/>
+</div>
+<div class="news-teaser-item-content">
+<time datetime="2020-11-03">
+                        03.11.2020
+                    </time>
+<h3>Wiederwahl von Professorin Doris Nitsche-Ruhland als nebenamtliches Präsidiumsmitglied </h3>
+<p>
+                        
+                                Frau Prof. Dr. Nitsche-Ruhland wurde am 23. Oktober 2020 vom zentralen Senat der DHBW in ihrer Funktion als nebenamtliches Präsidiumsmitglied der DHBW…
+                            
+
+                        <span class="read-more">
+                            Weiterlesen
+                        </span>
+</p>
+</div>
+</a>
+</div>
+<div class="news-teaser-item">
+<a href="/die-dhbw/aktuelles/detail/2020/10/neuartiges-coronavirus1">
+<div class="img-outer">
+<img alt="" data-src="/fileadmin/_processed_/d/3/csm_dhbw_gebaeude_friedrichstrasse_8c8e190733.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 450 300'%2F%3E" title=""/>
+</div>
+<div class="news-teaser-item-content">
+<time datetime="2020-10-30">
+                        30.10.2020
+                    </time>
+<h3>Informationen zum Umgang mit dem neuen Coronavirus </h3>
+<p>
+                        
+                                Das neue Coronavirus (SARS-CoV-2) breitet sich weltweit weiter aus. Das Lagezentrum der DHBW informiert Mitglieder und Angehörige der Hochschule…
+                            
+
+                        <span class="read-more">
+                            Weiterlesen
+                        </span>
+</p>
+</div>
+</a>
+</div>
+<div class="news-teaser-item">
+<a href="/die-dhbw/aktuelles/detail/2020/10/eigene-forschungsfoerderlinie-fuer-die-dhbw-ausgeschrieben">
+<div class="img-outer">
+<img alt="" data-src="/fileadmin/_processed_/4/1/csm_20-10-23_Forschungsfoerderlinie_DHBW_b580114932.jpeg" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 450 300'%2F%3E" title=""/>
+</div>
+<div class="news-teaser-item-content">
+<time datetime="2020-10-23">
+                        23.10.2020
+                    </time>
+<h3>Eigene Forschungsförderlinie für die DHBW ausgeschrieben</h3>
+<p>
+                        
+                                Das Wissenschaftsministerium hat eine eigene Landesforschungsförderlinie für die DHBW mit einem Volumen von 1,5 Millionen Euro neu ausgeschrieben. Im…
+                            
+
+                        <span class="read-more">
+                            Weiterlesen
+                        </span>
+</p>
+</div>
+</a>
+</div>
+</div>
+<div class="news-teaser-link">
+<a class="btn-link black center" href="/die-dhbw/aktuelles">
+            Alle anzeigen
+        </a>
+</div>
+</div>
+</div>
+</div>
+<!--TYPO3SEARCH_end-->
+</div>
+<!--TYPO3SEARCH_begin-->
+<div class="frame frame-default frame-type-dhbwcore_connectionteaser frame-layout-0" id="c8">
+<div class="verbindet-teaser">
+<img class="background-image" data-src="/fileadmin/user_upload/Bilder_Grafiken/Header_Bilder/mediathek_skater.jpg"/>
+<div class="main-content">
+<div class="container-fluid">
+<a href="/mediathek">
+<h1 style="background-image:url(/fileadmin/user_upload/Bilder_Grafiken/Logos/mediathek.png)">DHBW mediathek<small></small></h1>
+</a>
+<p>Die DHBW Mediathek bietet mit einer Vielzahl an Spots einen Blick hinter die Kulissen der Hochschule. Lernen Sie in den "DHBW Alumni-Portraits" sechs besondere Absolventinnen und Absolventen kennen und finden Sie heraus, warum den Dozenten an der DHBW keiner die Show stiehlt.</p>
+</div>
+</div>
+<div class="portrait-content">
+<div class="container-fluid">
+<div class="text-content">
+<h4>Weil ich weiß, was ich will.</h4>
+<p>Mit Theorie und Praxis zum Erfolg.<br/>
+Das duale Studium an der Dualen Hochschule Baden-Württemberg.</p>
+</div>
+<div class="link-list">
+<ul class="list-inline">
+<li>
+<a class="btn-link inverse" href="/mediathek">
+                                Video abspielen
+                            </a>
+</li>
+<li>
+<a class="btn-link white" href="/mediathek">
+                                alle Clips der DHBW Mediathek
+                            </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="frame frame-default frame-type-dhbwcore_location frame-layout-0" id="c50">
+<div class="main-content container-fluid">
+<div class="locations studiengaenge" data-map="" data-src="/fileadmin/storage/json/Studiengaenge.json">
+<h1>DHBW Standorte</h1>
+<ul class="tabs hidden-xs">
+<li class="active">
+<a href="#">Liste</a>
+</li>
+<li>
+<a href="#">Karte</a>
+</li>
+</ul>
+<div class="location-content active">
+<div class="location-legend">
+<div class="legend-trigger hidden visible-xs">Legende</div>
+<ul class="legend-content hidden-xs"></ul>
+</div>
+<ul class="location-list"></ul>
+</div>
+<div class="location-content">
+<div class="location-map">
+<img data-src="/typo3conf/ext/dhbw_core/Resources/Public/Images/map.svg" id="location-map"/>
+</div>
+</div>
+<div aria-hidden="true" class="modal fade map-content" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span class="icon-close" data-grunticon-embed="data-grunticon-embed"></span>
+</button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body">
+<div class="location-facts row">
+<div class="location-year col-xs-4">
+<span class="data"></span>
+<span class="legend"></span>
+</div>
+<div class="location-employees col-xs-4">
+<span class="data"></span>
+<span class="legend"></span>
+</div>
+<div class="location-students col-xs-4">
+<span class="data"></span>
+<span class="legend"></span>
+</div>
+</div>
+<div class="location-address"></div>
+<div class="location-contact">
+<div class="location-phone"></div>
+<div class="location-url">
+<a href="#"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--TYPO3SEARCH_end-->
+</div>
+</main>
+<footer>
+<div class="page-footer">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6 col-md-8">
+<nav class="quicklinks">
+<h3>Quicklinks</h3>
+<div class="frame frame-default frame-type-menu_pages frame-layout-0" id="c4">
+<ul>
+<li>
+<a href="/informationen/studieninteressierte" title="Studieninteressierte">
+<span>Studieninteressierte</span>
+</a>
+</li>
+<li>
+<a href="/studienangebot/bachelor" title="Studienangebot">
+<span>Studienangebot</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/standorte" title="Standorte">
+<span>Standorte</span>
+</a>
+</li>
+<li>
+<a href="/kontakt/ansprechpersonen" title="Kontakt">
+<span>Kontakt</span>
+</a>
+</li>
+<li>
+<a href="/dhbw-stiftung" title="DHBW-Stiftung">
+<span>DHBW-Stiftung</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/stellenangebote" title="Stellenangebote">
+<span>Stellenangebote</span>
+</a>
+</li>
+<li>
+<a href="/die-dhbw/glossar" title="Glossar">
+<span>Glossar</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="col-sm-6 col-md-4">
+<nav class="sociallinks">
+<h3>Folgen Sie uns auf</h3>
+<ul>
+<li><a href="https://www.instagram.com/dhbw.dualstudieren/"><span class="icon-social-instagram icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">Instagram</span></a></li>
+<li><a href="http://www.youtube.com/user/DualeHochschuleBW"><span class="icon-social-youtube icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">YouTube</span></a></li>
+<li><a href="https://www.linkedin.com/school/duale-hochschule-baden-w%C3%BCrttemberg"><span class="icon-linkedin icon" data-grunticon-embed="data-grunticon-embed"></span><span class="link-title">LinkedIn</span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="page-footer-bottom">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-8"><a href="/startseite"><span class="icon-logo-inverted" data-grunticon-embed="data-grunticon-embed"></span></a>
+<p class="copyright">
+            © 2020 Duale Hochschule Baden-Württemberg
+          </p>
+</div>
+<div class="col-sm-4">
+<nav class="metalinks-footer">
+<ul><li><a href="/impressum-datenschutz">Impressum / Datenschutz</a></li></ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/vendor_body.min-0ad55fd1.js"></script>
+<script src="/typo3conf/ext/dhbw_core/Resources/Public/JavaScript/app_body.min-5bf7f36f.js"></script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.dhbw.de"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.dhbw.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img alt="" src="//www.dhbw.de/piwik/piwik.php?idsite=1" style="border:0;"/></p></noscript>
+<!-- End Piwik Code -->
+</body>
+</html>

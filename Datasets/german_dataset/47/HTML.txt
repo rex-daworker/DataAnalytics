@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="de" class="no-js ie6 oldie"><![endif]--><!--[if IE 7 ]><html lang="de" class="no-js ie7 oldie"><![endif]--><!--[if IE 8 ]><html lang="de" class="no-js ie8 oldie"><![endif]--><!--[if IE 9 ]><html lang="de" class="no-js ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" lang="de"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<base href="https://www.gew.de"/>
+<title>GEW - Die Bildungsgewerkschaft</title>
+<meta content="TYPO3 CMS" name="generator"/>
+<link href="/typo3conf/ext/netl_async_loading/Resources/Public/Stylesheet/ajax.css?1519810056" media="all" rel="stylesheet" type="text/css"/>
+<link href="/fileadmin/templates/_c/css/styler.css?1601041853" media="all" rel="stylesheet" type="text/css"/>
+<link href="/fileadmin/templates/_c/css/additional.css?1484037497" media="all" rel="stylesheet" type="text/css"/>
+<link href="/fileadmin/templates/_c/css/magnific-popup.css?1473685320" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 9]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>  
+			<script src="/fileadmin/templates/_s/respond.min.js"></script>
+		<![endif]-->
+<!--[if gte IE 9]>
+			<style type="text/css">
+				.gradient {
+					filter: none;
+				}
+			</style>
+		<![endif]--><meta content="summary_large_image" name="twitter:card"/>
+<meta content="GEW - Die Bildungsgewerkschaft" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.gew.de/favicon.ico" property="og:url"/>
+<meta content="https://www.gew.de/fileadmin/templates/pics/layout/fb_gew.png" property="og:image"/>
+<meta content="750" property="og:image:width"/>
+<meta content="422" property="og:image:height"/>
+<meta content="image/png" property="og:image:type"/>
+<meta content="Die Gewerkschaft Erziehung und Wissenschaft (GEW) ist die Bildungsgewerkschaft im DGB. Sie vertritt knapp 280.000 Frauen und Männer in Bildungseinrichtungen." property="og:description"/>
+<meta content="GEW - Die Bildungsgewerkschaft" property="og:site_name"/>
+<meta content="2014-11-10T15:11:12+01:00" property="article:published_time"/>
+<meta content="2020-11-10T13:11:59+01:00" property="article:modified_time"/>
+<meta content="https://www.gew.de" property="article:author"/>
+<meta content="https://www.gew.de" property="article:publisher"/>
+<script type="text/javascript">
+    // No-JS-Klasse ersetzen (bevor CSS geladen wird)
+    document.getElementsByTagName("html")[0].className = document.getElementsByTagName("html")[0].className.replace( /(?:^|\s)no-js(?!\S)/ , '' );
+    document.getElementsByTagName("html")[0].className += " js";
+    // No-Touch-Klasse setzen (bevor CSS geladen wird)
+    if (!("ontouchstart" in document.documentElement)){document.documentElement.className += " no-touch";}
+    if(/*@cc_on!@*/false){document.documentElement.className += " ie gt-ie9";}
+    if(!!(navigator.userAgent.match(/Trident/) && !navigator.userAgent.match(/MSIE/))){document.documentElement.className += " ie gt-ie9";}
+  </script>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="IE=8" http-equiv="X-UA-Compatible"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/fileadmin/templates/pics/icon/favicon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/fileadmin/templates/pics/icon/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/fileadmin/templates/pics/icon/favicon/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/fileadmin/templates/pics/icon/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/fileadmin/templates/pics/icon/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/fileadmin/templates/pics/icon/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon; charset=binary"/>
+<link href="/fileadmin/templates/pics/icon/favicon/favicon.ico" rel="icon" type="image/x-icon; charset=binary"/>
+<meta content="#da532c" name="msapplication-TileColor"/>
+<meta content="/fileadmin/templates/pics/icon/favicon/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<!--
+   ______     ________ ______ ____  ______ _______ _____  _____ ______ ____  
+  |  _ \ \   / /_   __|  ____|  _ \|  ____|__   __|  __ \|_   _|  ____|  _ \ 
+  | |_) \ \ / /  | |  | |__  | |_) | |__     | |  | |__) | | | | |__  | |_) |
+  |  _ < \ · /   | |  |  __| |  _ <|  __|    | |  |  _  /  | | |  __| |  _ < 
+  | |_) | | |    | |  | |____| |_) | |____   | |  | | \ \ _| |_| |____| |_) |
+  |____/  |_|    |_|  |______|____/|______|  |_|  |_|  \_\_____|______|____/ 
+  AGENTUR FÜR INTERNET & KOMMUNIKATION                              (c) 2015
+
+--><script language="JavaScript">var netlAsyncLoadingTypeNum = 783467;var netlAsyncLoadingBaseUrl = '/';</script>
+<meta content="GEW - Die Bildungsgewerkschaft" name="DCTERMS.title"/>
+<meta content="Die Gewerkschaft Erziehung und Wissenschaft (GEW) ist die Bildungsgewerkschaft im DGB. Sie vertritt knapp 280.000 Frauen und Männer in Bildungseinrichtungen." name="description"/>
+<meta content="Die Gewerkschaft Erziehung und Wissenschaft (GEW) ist die Bildungsgewerkschaft im DGB. Sie vertritt knapp 280.000 Frauen und Männer in Bildungseinrichtungen." name="DCTERMS.description"/>
+<meta content="Gewerkschaft, Bildung, Tarifvertrag, TVöD, TV-L" name="keywords"/>
+<meta content="Gewerkschaft, Bildung, Tarifvertrag, TVöD, TV-L" name="DCTERMS.subject"/>
+<meta content="GEW - Die Bildungsgewerkschaft" name="copyright"/>
+<meta content="GEW - Die Bildungsgewerkschaft" name="DCTERMS.rights"/>
+<meta content="GEW - Die Bildungsgewerkschaft" name="author"/>
+<meta content="GEW - Die Bildungsgewerkschaft" name="DCTERMS.creator"/>
+<meta content="GEW - Die Bildungsgewerkschaft" name="DCTERMS.publisher"/>
+<meta content="2020-11-10T13:48:59+01:00" name="date"/>
+<meta content="2020-11-10T13:48:59+01:00" name="DCTERMS.date"/>
+<meta content="index,follow" name="robots"/>
+<meta content="20" name="revisit-after"/>
+<meta content="DE" name="geo.region"/>
+<meta content="Berlin, Stuttgart, München" name="geo.placename"/>
+<link href="https://www.gew.de/" rel="canonical"/>
+</head>
+<body class="OuterFrame">
+<div class="ContentRow ExpandMe" id="Content">
+<div class="container header">
+<div class="pull-left"><div id="logo" style="background: url(/fileadmin/templates/pics/layout/gew_logo.png) no-repeat;"><a href="/" title="GEW - Die Bildungsgewerkschaft"><img alt="GEW - Die Bildungsgewerkschaft" height="1" src="/fileadmin/_processed_/0/7/csm_trans_dd0fcb8bec.gif" width="1"/></a></div></div>
+<div class="pull-right member"><a href="/mitglied-werden/" target="_blank" title="Mitglied werden"><img alt="GEW - Die Bildungsgewerkschaft" height="128" src="/fileadmin/templates/pics/layout/mitglied_werden.png" width="594"/></a></div>
+<div class="clearfix"></div>
+</div>
+<div class="mainNav">
+<div class="container">
+<nav class="navbar navbar-default">
+<div class="container-fluid mainNav">
+<button class="navbar-toggle collapsed pull-left" data-target="#mainLeft" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="mainnavi collapse navbar-collapse pull-left" id="mainLeft">
+<ul class="mainnavi nav navbar-nav level1"><li class="dropdownMain hasSub dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Mein Arbeitsplatz</a><ul class="dropdown-menu level2 container"><li class="first"><a href="/schule/">Schule</a></li><li><a href="/kita/">Kita</a></li><li><a href="/wissenschaft/">Wissenschaft</a></li><li><a href="/weiterbildung/">Weiterbildung</a></li><li><a href="/berufliche-bildung/">Berufliche Bildung</a></li><li><a href="/schulsozialarbeit/">Schulsozialarbeit</a></li><li><a href="/studium/">Studium</a></li><li class="last"><a href="/bildung-digital/">Bildung in der digitalen Welt</a></li></ul></li><li class="dropdownMain hasSub dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Service</a><ul class="dropdown-menu level2 container"><li class="first"><a href="/broschueren-bestellen/">Broschüren bestellen</a></li><li><a href="/presse/">Presse</a></li><li><a href="/publikationen/">Publikationen</a></li><li><a href="/rechtsschutz/">Rechtsschutz</a></li><li><a href="/veranstaltungen/">Veranstaltungen</a></li><li><a href="/zeitschriften/">Zeitschriften</a></li><li><a href="/unterrichtsmaterial/">Unterrichtsmaterialien</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/?juHash=c4fc26e80acfad87beed0bfeb8d60f91dd59aca1&amp;jumpurl=http%3A%2F%2Fwww.gew-shop.de">Webshop</a></li><li><a href="/marktplatz/">Marktplatz</a></li><li class="last"><a href="/mitglied-werden/leistungen-fuer-mitglieder/">Leistungen für Mitglieder</a></li></ul></li><li class="dropdownMain hasSub dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Arbeit &amp; Recht</a><ul class="dropdown-menu level2 container"><li class="first"><a href="/tarif/">Tarif</a></li><li><a href="/troed2020/">Tarifrunde</a></li><li><a href="/beamte/">Beamte</a></li><li><a href="/gleichstellung/">Gleichstellung</a></li><li><a href="/recht/">Recht</a></li><li><a href="/gute-arbeit/">Gute Arbeit</a></li><li><a href="/gesundheit/">Gesundheit</a></li><li class="last"><a href="/tipps-zum-datenschutz/">Tipps zum Datenschutz</a></li></ul></li><li class="dropdownMain hasSub dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Bildung &amp; Politik</a><ul class="dropdown-menu level2 container"><li class="first"><a href="/weiter-denken/">Bildung. Weiter denken!</a></li><li><a href="/inklusion/">Inklusion</a></li><li><a href="/internationales/">Internationales</a></li><li><a href="/lehrer-innenbildung/">Lehrer_innenbildung</a></li><li><a href="/migration/">Migration</a></li><li><a href="/bildungsfinanzierung/">Bildungsfinanzierung</a></li><li><a href="/bildungsgerechtigkeit/">Bildungsgerechtigkeit</a></li><li><a href="/gesellschaftspolitik/">Gesellschaftspolitik</a></li><li><a href="/bildungssystem/">Bildungssystem</a></li><li><a href="/bildungsqualitaet/">Bildungsqualität</a></li><li><a href="/privatisierung-lobbyismus/">Privatisierung &amp; Lobbyismus</a></li><li class="last"><a href="/gleichstellung/">Bildung &amp; Geschlecht</a></li></ul></li><li class="dropdownMain hasSub dropdown"><a class="dropdown-toggle" data-toggle="dropdown">GEW</a><ul class="dropdown-menu level2 container"><li class="first"><a href="/ueber-uns/">Über uns</a></li><li><a href="/hauptvorstand/">Hauptvorstand</a></li><li><a href="/ansprechpersonen/">Ansprechpersonen</a></li><li><a href="/positionen/">Positionen</a></li><li><a href="/karte/">Landesverbände</a></li><li><a href="/ausschuesse-arbeitsgruppen/">Ausschüsse &amp; Arbeitsgruppen</a></li><li><a href="/mitgliederverwaltung/">Mitgliederverwaltung</a></li><li><a href="/mitglied-werden/">Mitglied werden</a></li><li><a href="/mitglied-werden/leistungen-fuer-mitglieder/">Leistungen für Mitglieder</a></li><li><a href="/stiftungen-vereine/">Stiftungen &amp; Vereine</a></li><li><a href="/gewerkschaftl-bildungsarbeit/">Gewerkschaftl. Bildungsarbeit</a></li><li class="last"><a href="/stellen/">Stellen</a></li></ul></li></ul>
+</div>
+<div class="dropdown pull-right mitgliedernavi">
+<button aria-expanded="true" aria-haspopup="true" class="dropdown-toggle btn" data-toggle="dropdown" id="dropdownMitglieder" type="button"><i class="fa fa-lock"></i> <span class="hidden-xs hidden-sm hidden-md">Meine GEW</span></button><ul class="dropdown-menu level2"><li class="first"><a href="/anmeldung/">Mitgliederbereich</a></li><li class="last"><a href="/extranet-login/">Extranet</a></li></ul>
+</div>
+<div class="portalnavi pull-right">
+<ul class="nav nav-pills"><li class="first" role="presentation"><a href="/suche/"><i class="fa fa-search"></i><span class="hidden-xs hidden-sm hidden-md">Suche</span></a></li><li class="last" role="presentation"><a href="/kontakt/"><i class="fa fa-envelope"></i><span class="hidden-xs hidden-sm hidden-md">Kontakt</span></a></li></ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<!--TYPO3SEARCH_begin-->
+<div class="carousel-outer ">
+<div class="carousel container">
+<div class="carousel-left hidden-sm hidden-xs"></div>
+<div class="carousel slide carousel-inner" data-ride="carousel" id="startCarousel">
+<div class="active item">
+<img alt="" class="lazyload img-responsive" data-bigger="/fileadmin/_processed_/d/0/csm_COLOURBOX43826663-1200px_e900c20ddb.jpg" data-large="/fileadmin/_processed_/d/0/csm_COLOURBOX43826663-1200px_f1baa8eefe.jpg" data-medium="/fileadmin/_processed_/d/0/csm_COLOURBOX43826663-1200px_379899dbf5.jpg" data-preload="false" data-small="/fileadmin/_processed_/d/0/csm_COLOURBOX43826663-1200px_7f278dfdda.jpg" data-src="/fileadmin/_processed_/d/0/csm_COLOURBOX43826663-1200px_e900c20ddb.jpg" src="/fileadmin/templates/pics/layout/trans.gif" title=""/>
+<noscript>
+<img alt="" class="img-responsive" src="/fileadmin/_processed_/d/0/csm_COLOURBOX43826663-1200px_e900c20ddb.jpg" title=""/>
+</noscript>
+<div class="carousel-caption indicators">
+<div>
+<h2><a href="/corona/">Fragen und Antworten zur Coronakrise</a></h2>
+</div>
+</div>
+</div>
+<div class=" item">
+<img alt="" class="lazyload img-responsive" data-bigger="/fileadmin/_processed_/b/1/csm_Slider-Tarifverhandlungen-2_4ffcd2202a.png" data-large="/fileadmin/_processed_/b/1/csm_Slider-Tarifverhandlungen-2_f671565505.png" data-medium="/fileadmin/_processed_/b/1/csm_Slider-Tarifverhandlungen-2_14fad52397.png" data-preload="false" data-small="/fileadmin/_processed_/b/1/csm_Slider-Tarifverhandlungen-2_9141e34d56.png" data-src="/fileadmin/_processed_/b/1/csm_Slider-Tarifverhandlungen-2_4ffcd2202a.png" src="/fileadmin/templates/pics/layout/trans.gif" title=""/>
+<noscript>
+<img alt="" class="img-responsive" src="/fileadmin/_processed_/b/1/csm_Slider-Tarifverhandlungen-2_4ffcd2202a.png" title=""/>
+</noscript>
+<div class="carousel-caption indicators">
+<div>
+<h2><a href="/troed2020/">Tarifrunde TVöD 2020</a></h2>
+</div>
+</div>
+</div>
+<div class=" item">
+<img alt="183501380" class="lazyload img-responsive" data-bigger="/fileadmin/_processed_/8/0/csm_WERBUNG-shut-183501380-gedreht-web_4ac9f7a4ed.jpg" data-large="/fileadmin/_processed_/8/0/csm_WERBUNG-shut-183501380-gedreht-web_33b48b8c12.jpg" data-medium="/fileadmin/_processed_/8/0/csm_WERBUNG-shut-183501380-gedreht-web_35b080658d.jpg" data-preload="false" data-small="/fileadmin/_processed_/8/0/csm_WERBUNG-shut-183501380-gedreht-web_c998b479f6.jpg" data-src="/fileadmin/_processed_/8/0/csm_WERBUNG-shut-183501380-gedreht-web_4ac9f7a4ed.jpg" src="/fileadmin/templates/pics/layout/trans.gif" title="183501380"/>
+<noscript>
+<img alt="183501380" class="img-responsive" src="/fileadmin/_processed_/8/0/csm_WERBUNG-shut-183501380-gedreht-web_4ac9f7a4ed.jpg" title="183501380"/>
+</noscript>
+<div class="carousel-caption indicators">
+<div>
+<h2><a href="/mitglied-werden/">Jetzt Mitglied werden!</a></h2>
+</div>
+</div>
+</div>
+<ol class="carousel-indicators">
+<li class="active" data-slide-to="0" data-target="#startCarousel"></li>
+<li class="" data-slide-to="1" data-target="#startCarousel"></li>
+<li class="" data-slide-to="2" data-target="#startCarousel"></li>
+</ol>
+</div>
+<div class="carousel-right hidden-sm hidden-xs"></div>
+</div>
+</div>
+<div class="einschub">
+<div class="container">
+<!-- Suche START -->
+<div class="row">
+<div class="col-md-6 searchsmall">
+<h2><i class="fa fa-search"></i>Finden Sie schneller zum Ziel</h2>
+<div class="tx-solr-searchbox form-group">
+<form accept-charset="utf-8" action="/suche/" class="form-search form-inline" data-suggest="/?eID=tx_solr_suggest&amp;id=21" id="tx-solr-search-form-pi-search" method="get">
+<div class="input-group">
+<label class="sr-only" for="search">Suchen</label>
+<input name="L" type="hidden" value="0"/>
+<input name="id" type="hidden" value="21"/>
+<input class="tx-solr-q js-solr-q searchbox form-control" id="inputText" name="tx_solr[q]" placeholder="Suchbegriff" type="text" value=""/>
+<button alt="Suchen" class="input-group-addon" id="inputButton" title="Suchen" type="submit"><i class="fa fa-search"></i></button>
+</div>
+</form>
+</div>
+</div>
+<div class="col-md-6">
+<div class="tags">
+<a class="btn btn-default tags" href="/wissenschaft/">Wissenschaft</a>
+<a class="btn btn-default tags" href="/kita/">Kita</a>
+<a class="btn btn-default tags" href="/weiterbildung/">Weiterbildung</a>
+<a class="btn btn-default tags" href="/schule/">Schule</a>
+<a class="btn btn-default tags" href="/tarif/">Tarif</a>
+<a class="btn btn-default tags" href="/beamte/">Beamte</a>
+<a class="btn btn-default tags" href="/flucht-und-asyl/">Asyl</a>
+<a class="btn btn-default tags" href="/inklusion/">Inklusion</a>
+<a class="btn btn-default tags" href="/bildung-digital/">Bildung digital</a>
+<a class="btn btn-default tags" href="/studium/">Studium</a>
+<a class="btn btn-default tags" href="/gleichstellung/">Gleichstellung</a>
+<a class="btn btn-default tags" href="/berufliche-bildung/">Berufsbildung</a>
+<a class="btn btn-default tags" href="/internationales/">Internationales</a>
+</div>
+</div>
+</div>
+<!-- Suche END   -->
+</div>
+</div>
+<div class="container">
+<a id="c1"></a><header><h1 class="">
+				Aktuelles
+			</h1></header><div class="news clearfix"><a class="btn btn-default viewAll" href="/aktuelles/">Alle Nachrichten</a><div class="news-list-view special row"><div class="col-md-4 col-sm-4 col-xs-12"><!--
+=====================
+Partials/List/Item.html
+--><div class="article articletype-0 topnews clearfix"><a href="/aktuelles/detailseite/neuigkeiten/fachkraeftemangel-hausgemacht/"><img alt="" class="lazyload img-responsive" data-bigger="/fileadmin/_processed_/1/1/csm_20180201-PortraitVorstand_Tepe-Marlis_web_5c4cbaecf7.jpg" data-large="/fileadmin/_processed_/1/1/csm_20180201-PortraitVorstand_Tepe-Marlis_web_282dab07b2.jpg" data-medium="/fileadmin/_processed_/1/1/csm_20180201-PortraitVorstand_Tepe-Marlis_web_0de048d4e0.jpg" data-preload="true" data-small="/fileadmin/_processed_/1/1/csm_20180201-PortraitVorstand_Tepe-Marlis_web_bf72e58faf.jpg" data-src="/fileadmin/_processed_/1/1/csm_20180201-PortraitVorstand_Tepe-Marlis_web_b0abb4d459.jpg" src="/fileadmin/templates/pics/layout/trans.gif" title=""/><noscript><img alt="" class="img-responsive" src="/fileadmin/_processed_/1/1/csm_20180201-PortraitVorstand_Tepe-Marlis_web_b0abb4d459.jpg" title=""/></noscript><div class="wrapper"><h4><span class="headline-intro">Kommentar</span><span class="headline">Fachkräftemangel hausgemacht</span></h4><p class="date"><i class="fa fa-bullhorn"></i>10.11.2020</p><p>Grund für den Personalmangel im Bildungsbereich ist eine föderale Entscheidungs- und Finanzblockade. Politik muss endlich mehr Verantwortung übernehmen und den Bildungsbereich deutlich besser finanzieren.</p></div><span class="btn btn-default more pull-right hidden-xs"><i class="fa fa-caret-right"></i>Weiterlesen
+			</span></a></div></div><div class="col-md-4 col-sm-4 col-xs-12"><!--
+=====================
+Partials/List/Item.html
+--><div class="article articletype-0 topnews clearfix"><a href="/aktuelles/detailseite/neuigkeiten/steigende-corona-neuinfektionen-reaktionen-gew-landesverbaende/"><img alt="" class="lazyload img-responsive" data-bigger="/fileadmin/_processed_/0/3/csm_Pixabay-Schule-Abstand-Corona-school-2648668-web_8feab3534f.jpg" data-large="/fileadmin/_processed_/0/3/csm_Pixabay-Schule-Abstand-Corona-school-2648668-web_b39e946c60.jpg" data-medium="/fileadmin/_processed_/0/3/csm_Pixabay-Schule-Abstand-Corona-school-2648668-web_e3f63b9c07.jpg" data-preload="true" data-small="/fileadmin/_processed_/0/3/csm_Pixabay-Schule-Abstand-Corona-school-2648668-web_6e462b3dd1.jpg" data-src="/fileadmin/_processed_/0/3/csm_Pixabay-Schule-Abstand-Corona-school-2648668-web_31b1b559dc.jpg" src="/fileadmin/templates/pics/layout/trans.gif" title=""/><noscript><img alt="" class="img-responsive" src="/fileadmin/_processed_/0/3/csm_Pixabay-Schule-Abstand-Corona-school-2648668-web_31b1b559dc.jpg" title=""/></noscript><div class="wrapper"><h4><span class="headline-intro">Steigende Corona-Neuinfektionen</span><span class="headline">So reagiert die GEW in den Bundesländern</span></h4><p class="date"><i class="fa fa-bullhorn"></i>10.11.2020</p><p>Die Lage an den Schulen spitzt sich zu, die Zahl der Corona-Infektion dort steigen. Viele GEW-Landesverbände fordern basierend auf den Empfehlungen des Robert Koch-Instituts, Klassen zu verkleinern und wieder Wechselunterricht zu machen.</p></div><span class="btn btn-default more pull-right hidden-xs"><i class="fa fa-caret-right"></i>Weiterlesen
+			</span></a></div></div><div class="col-md-4 col-sm-4 col-xs-12"><!--
+=====================
+Partials/List/Item.html
+--><div class="article articletype-0 topnews clearfix"><a href="/aktuelles/detailseite/neuigkeiten/erfahrungen-und-erwartungen-der-beteiligten-lehrkraefte-im-fokus/"><img alt="" class="lazyload img-responsive" data-bigger="/fileadmin/_processed_/5/2/csm_classroom-1189988_1280_8b52c9225b.jpg" data-large="/fileadmin/_processed_/5/2/csm_classroom-1189988_1280_6077615916.jpg" data-medium="/fileadmin/_processed_/5/2/csm_classroom-1189988_1280_05c72c07dc.jpg" data-preload="true" data-small="/fileadmin/_processed_/5/2/csm_classroom-1189988_1280_85fdeb16ba.jpg" data-src="/fileadmin/_processed_/5/2/csm_classroom-1189988_1280_17e873df56.jpg" src="/fileadmin/templates/pics/layout/trans.gif" title=""/><noscript><img alt="" class="img-responsive" src="/fileadmin/_processed_/5/2/csm_classroom-1189988_1280_17e873df56.jpg" title=""/></noscript><div class="wrapper"><h4><span class="headline-intro">Bundesweite GEW-Studie zur Digitalisierung im Schulsystem</span><span class="headline">Erfahrungen und Erwartungen der Lehrkräfte im Fokus</span></h4><p class="date"><i class="fa fa-bullhorn"></i>10.11.2020</p><p>Alle Kolleginnen und Kollegen sind aufgerufen, die Digitalisierungsstudie aktiv zu unterstützen. Ziel ist ein repräsentatives Schulsample aus möglichst allen Bundesländern. Das Ergebnis wird beim Gewerkschaftstag 2021 beraten. </p></div><span class="btn btn-default more pull-right hidden-xs"><i class="fa fa-caret-right"></i>Weiterlesen
+			</span></a></div></div></div></div>
+</div>
+<div class="einschub karte">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3 col-xs-12 text-center hidden-xs">
+<a href="/karte/">
+<img alt="Karte" class="img-responsive center-block" src="/fileadmin/templates/pics/layout/map-de.gif"/>
+</a>
+</div>
+<div class="col-md-9 col-sm-9 col-xs-12">
+<span class="text-element"><h1>GEW. Die Bildungsgewerkschaft</h1>
+<p>Die Gewerkschaft Erziehung und Wissenschaft (GEW) ist ein starkes Team von über 280.000 Frauen und Männern, die in pädagogischen und wissenschaftlichen Berufen arbeiten: In Schulen, Kindertagesstätten, Hochschulen und anderen Bildungseinrichtungen. Auch Studierende und arbeitslose Pädagoginnen und Pädagogen sind gleichberechtigte Mitglieder in der GEW. Als Bildungsgewerkschaft im Deutschen Gewerkschaftsbund machen wir uns für unsere Interessen stark. Gemeinsam gestalten wir gute Arbeitsbedingungen, streiten für faire Entgelte, unbefristete Arbeitsverträge und sichern Arbeitsplätze im Bildungsbereich.</p></span>
+<a class="btn btn-default tags" href="/ueber-uns/">Über uns</a>
+<a class="btn btn-default tags" href="/hauptvorstand/">Hauptvorstand</a>
+<a class="btn btn-default tags" href="/karte/">Zu den Landesverbänden</a>
+<a class="btn btn-default tags" href="/mitglied-werden/">Mitglied werden</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container mainpage">
+<div class="row">
+<div class="col-sm-4 col-xs-12 list-news">
+<div class="teaserWrapper">
+<h2><i class="fa fa-book"></i>Publikationen</h2>
+<div class="teaserText clearfix">
+<img alt="" class="img-responsive" height="213" src="/fileadmin/_processed_/c/2/csm_K40B1249_72dpi_081a7ed801.jpg" width="400"/>
+<div class="wrapper">
+<p>In unserem Publikationscenter finden Sie zahlreiche Veröffentlichungen der GEW.</p>
+</div>
+</div>
+</div>
+<a id="c132"></a><div class="tx-aa-publications"><div class="publicationLatest teaserlist"><div class="article first"><h4><a href="https://www.gew.de/index.php?eID=dumpFile&amp;t=f&amp;f=101017&amp;token=294642e92e23aeb3044c2c6cc5b34e9ef010700c&amp;sdownload=&amp;n=EW-11-2020-web-komprimiert.pdf">E&amp;W 11/2020: Fachkräftemangel in Schule, Kita, Jugendhilfe und Hochschule</a></h4><p><i class="fa fa-book"></i>11.11.2020</p></div><div class="article"><h4><a href="https://www.gew.de/index.php?eID=dumpFile&amp;t=f&amp;f=101155&amp;token=5416c0a5882e5291cf0f2b149af4413a942a221d&amp;sdownload=&amp;n=AGAL-Tagung-2020-Online-Teilnahmeleitfaden.pdf">AGAL-Tagung 2020 Online-Teilnahmeleitfaden</a></h4><p><i class="fa fa-book"></i>02.11.2020</p></div><div class="article last"><h4><a href="https://www.gew.de/index.php?eID=dumpFile&amp;t=f&amp;f=101146&amp;token=23816fde0ee76ed8e3456a9daf91239d972e2db2&amp;sdownload=&amp;n=202011-Infoblatt-Berufliche-Bildung-November-2020.pdf">Infoblatt Berufliche Bildung November 2020</a></h4><p><i class="fa fa-book"></i>02.11.2020</p></div></div><a class="btn btn-default pull-right" href="/publikationen/">Alle Publikationen</a><div class="clearfix"></div></div>
+</div>
+<div class="col-sm-4 col-xs-12 list-news">
+<div class="teaserWrapper">
+<h2><i class="fa fa-calendar"></i>Veranstaltungen</h2>
+<div class="teaserText clearfix">
+<img alt="" class="img-responsive" height="213" src="/fileadmin/_processed_/9/d/csm_KayH20130613-FB1A3272_d07dcde28d.jpg" width="400"/>
+<div class="wrapper">
+<p>In unserem Kalender finden Sie die Schulungen, Seminare und Veranstaltungen der GEW.</p>
+</div>
+</div>
+</div>
+<a id="c61"></a><div class="tx-aa-events latest clearfix"><div class="eventLatest teaserlist"><div class="article eventText first"><h4><a class="more" href="/veranstaltungen/detailseite/noch-mehr-huerden-fuer-arbeiterkinder-studienorientierung-und-studium-in-zeiten-von-corona/">Noch mehr Hürden für Arbeiterkinder? Studienorientierung und Studium in Zeiten...</a></h4><p><i class="fa fa-calendar"></i>
+                    21.11.2020
+                  </p></div><div class="article eventText"><h4><a class="more" href="/veranstaltungen/detailseite/auslandsschulen-in-der-digitalen-welt-voneinander-lernen/">Auslandsschulen in der digitalen Welt: Voneinander lernen</a></h4><p><i class="fa fa-calendar"></i>
+                    25.11.2020 - 27.11.2020
+                  </p></div><div class="article eventText last"><h4><a class="more" href="/veranstaltungen/detailseite/save-the-date-zehn-jahre-templiner-manifest/">Der Kampf geht weiter: „Zehn Jahre Templiner Manifest“, 25. November</a></h4><p><i class="fa fa-calendar"></i>
+                    25.11.2020
+                  </p></div></div><a class="btn btn-default pull-right" href="/veranstaltungen/">Alle Veranstaltungen</a></div>
+</div>
+<div class="col-sm-4 col-xs-12 list-news">
+<div class="teaserWrapper">
+<h2><i class="fa fa-bullhorn"></i>Pressemitteilungen</h2>
+<div class="teaserText clearfix">
+<img alt="" class="img-responsive" height="213" src="/fileadmin/_processed_/c/8/csm_IMG_9783_1e9d380e9c.jpg" width="400"/>
+<div class="wrapper">
+<p>In unserem Pressebereich finden Sie aktuelle Pressemitteilungen der GEW.</p>
+</div>
+</div>
+</div>
+<a id="c4"></a><div class="news clearfix"><div class="news-list-view list teaserlist"><!--
+=====================
+Partials/List/Item.html
+--><div class="article articletype-0 clearfix"><a href="/presse/pressemitteilungen/detailseite/neuigkeiten/gew-ja13-jetzt/"><h4>GEW: „JA13! – Jetzt!“</h4><p class="date"><i class="fa fa-bullhorn"></i>09.11.2020</p></a></div><!--
+=====================
+Partials/List/Item.html
+--><div class="article articletype-0 clearfix"><a href="/presse/pressemitteilungen/detailseite/neuigkeiten/gemeinsame-pressemitteilung-zum-gestrigen-gespraech-mit-der-kmk/"><h4>Gemeinsame Pressemitteilung zum gestrigen Gespräch mit der KMK</h4><p class="date"><i class="fa fa-bullhorn"></i>05.11.2020</p></a></div><!--
+=====================
+Partials/List/Item.html
+--><div class="article articletype-0 clearfix"><a href="/presse/pressemitteilungen/detailseite/neuigkeiten/gew-ueberbrueckungshilfe-wiederauflegen-und-verbessern/"><h4>GEW: „Überbrückungshilfe wiederauflegen und verbessern!“</h4><p class="date"><i class="fa fa-bullhorn"></i>05.11.2020</p></a></div></div><a class="btn btn-default pull-right" href="/presse/">Alle Pressemitteilungen</a></div>
+</div>
+</div>
+</div>
+<div class="container banner">
+<div class="row">
+<div class="col-md-4 col-sm-12 col-xs-12">
+<div class="row">
+<div class="col-md-6 col-sm-3 col-xs-6">
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-6">
+<a class="deeplink" href="https://twitter.com/gew_bund" target="_blank">
+<img alt="Twitter" class="img-responsive" src="/fileadmin/templates/pics/layout/icon_small_twitter.gif"/>
+</a>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6">
+<a class="deeplink" href="https://www.facebook.com/GEW.DieBildungsgewerkschaft" target="_blank">
+<img alt="Facebook" class="img-responsive" src="/fileadmin/templates/pics/layout/icon_small_facebook.gif"/>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-6">
+<a class="deeplink" href="/rss-news/">
+<img alt="RSS" class="img-responsive" src="/fileadmin/templates/pics/layout/icon_small_rss.gif"/>
+</a>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6">
+<a class="deeplink" href="https://www.youtube.com/user/GEWHauptvorstand" target="_blank">
+<img alt="Youtube" class="img-responsive" src="/fileadmin/templates/pics/layout/icon_small_youtube.gif"/>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-3 col-xs-6">
+<a class="deeplink" href="/newsletter/">
+<img alt="" class="img-responsive" height="165" src="/fileadmin/_processed_/3/a/csm_icon_big_newsletter_34867fab8d.png" title="Newsletter abonnieren" width="165"/>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-8 col-sm-12 col-xs-12">
+<div class="row">
+<div class="col-md-12 col-xs-12 col-xs-12">
+<a href="/weiter-denken/">
+<img alt="" class="img-responsive" height="165" src="/fileadmin/_processed_/a/4/csm_Banner_750x165_BildungWeiterDenken_rechts_0b780312f7.jpg" width="750"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a id="c18661"></a><div class="tx-aa-adverts"><div class="einschub"><div class="container"><h4 class="marker">Anzeigen</h4><div class="row"><div class="col-md-6 anzeige"><a href="http://www.akutklinik.de" rel="nofollow" target="_blank">Hilfe bei Burnout!</a><p>schnell, individuell und mit<br/>fachärztlicher Kompetenz</p><a href="http://www.akutklinik.de" rel="nofollow" target="_blank">www.akutklinik.de</a></div><div class="col-md-6 anzeige"><a href="http://www.bbbank.de/gew" rel="nofollow" target="_blank">BBBank - Die Bank für GEW-Mitglieder</a><p>mit B-Tarif, speziellen Mehrwerten &amp;<br/>persönlichen Ansprechpartnern</p><a href="http://www.bbbank.de/gew" rel="nofollow" target="_blank">www.bbbank.de/gew</a></div></div></div></div></div>
+<div class="container banner">
+<div class="row">
+<div class="col-md-4 col-sm-12 col-xs-12">
+<div class="row">
+<div class="col-md-6 col-sm-3 col-xs-6">
+<a class="deeplink" href="/ansprechpersonen/">
+<img alt="" class="img-responsive" height="165" src="/fileadmin/_processed_/9/c/csm_icon-big-ansprechpartner_e0fc4fc525.png" title="Ansprechpartner" width="165"/>
+</a>
+</div>
+<div class="col-md-6 col-sm-3 col-xs-6">
+<a class="deeplink" href="/mitglied-werden/" target="_blank">
+<img alt="" class="img-responsive" height="165" src="/fileadmin/_processed_/1/d/csm_Icon_Mitglied-werden_3840b613e4.png" width="165"/>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-8 col-sm-12 col-xs-12">
+<div class="row">
+<div class="col-md-12 col-xs-12 col-xs-12">
+<a href="/zeitschriften/ew/">
+<img alt="" class="img-responsive" height="165" src="/fileadmin/_processed_/c/f/csm_EW-Banner_neu_e9dac742c0.jpg" width="750"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a id="c18662"></a><div class="tx-aa-adverts"><div class="einschub"><div class="container"><h4 class="marker">Anzeigen</h4><div class="row"><div class="col-md-12 anzeige"><a href="/?juHash=7527f0da46397e126e282cdbb8a169ae818472b1&amp;jumpurl=http%3A%2F%2Fwww.gew.de%2Fverlagsreisen" rel="nofollow" target="_blank">Kulturreisen</a><p>Musik und Literatur an<br/>besonderen Orten erleben.</p><a href="/?juHash=7527f0da46397e126e282cdbb8a169ae818472b1&amp;jumpurl=http%3A%2F%2Fwww.gew.de%2Fverlagsreisen" rel="nofollow" target="_blank">Exklusive Leserreisen</a></div></div></div></div></div>
+<!--TYPO3SEARCH_end-->
+</div>
+<div class="navbar-bottom ContentRow" id="footer">
+<div class="container">
+<div class="navbar navbar-footer">
+<ul class="footernavi nav row"><li class="col-md-3 col-sm-4 col-xs-6"><a href="/presse/">Presse</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/publikationen/">Publikationen</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/veranstaltungen/">Veranstaltungen</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/zeitschriften/">Zeitschriften</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/rechtsschutz/">Rechtsschutz</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/mitglied-werden/leistungen-fuer-mitglieder/">Leistungen für Mitglieder</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/anmeldung/">Mitgliederbereich</a></li><li class="col-md-3 col-sm-4 col-xs-6"><a href="/?juHash=c4fc26e80acfad87beed0bfeb8d60f91dd59aca1&amp;jumpurl=http%3A%2F%2Fwww.gew-shop.de">Webshop</a></li></ul>
+</div>
+<div class="footerLine"></div>
+<div class="navbar navbar-newsletter">
+<span><i class="fa fa-envelope fa-3x"></i>Newsletter</span><a class="btn btn-default" href="/newsletter/" title="Zur Newsletter-Anmeldung">abonnieren / verwalten</a>
+</div>
+<div class="footerLine"></div>
+<div class="navbar navbar-social">
+<ul class="socialfooter nav navbar-nav"><li><a href="https://twitter.com/gew_bund" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a></li><li><a href="https://www.facebook.com/GEW.DieBildungsgewerkschaft" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a></li><li><a href="https://www.youtube.com/user/GEWHauptvorstand" target="_blank"><i class="fa fa-youtube-square fa-3x"></i></a></li></ul>
+</div>
+<div class="footerLine"></div>
+<div class="navbar nabvar-meta">
+<p> Copyright  2020</p><ul class="metanavi"><li class="first"><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li><li><a href="/sitemap/">Sitemap</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/rss-news/">RSS News</a></li><li><a href="/rss-presse/">RSS Presse</a></li><li class="last"><a href="/redaktionelle-hinweise/">Redaktionelle Hinweise</a></li></ul>
+</div>
+</div>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+	  var _paq = _paq || [];
+	  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+	  _paq.push(['setCampaignNameKey', 'campaign']);
+	  _paq.push(['setCampaignKeywordKey', 'keyword']);
+	  _paq.push(['setDownloadExtensions', "pdf|mp3"]);
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="//berichte.dev-gew.de/";
+	    _paq.push(['setTrackerUrl', u+'matomo.php']);
+	    _paq.push(['setSiteId', 1]);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	</script>
+<noscript><p><img alt="" src="//berichte.dev-gew.de/js/?idsite=1" style="border:0;"/></p></noscript>
+<!-- End Piwik Code --><script data-condition-uri="https://www.gew.de/?type=3132" id="powermail_conditions_container"></script>
+<script src="/fileadmin/templates/_s/jquery.min.js?1498559732" type="text/javascript"></script>
+<script src="/typo3conf/ext/netl_async_loading/Resources/Public/JavaScript/ajax.js?1519810056" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/jquery-ui.min.js?1426000820" type="text/javascript"></script>
+<script src="/typo3conf/ext/solr/Resources/Public/JavaScript/suggest_controller.js?1512131065" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/powermail/JavaScripts/parsley.min.js?1501775806" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/powermail/JavaScripts/Tabs.js?1526452586" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/powermail/JavaScripts/form.js?1501775806" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/bootstrap/js/bootstrap.min.js?1423487454" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/bootstrap/js/bootstrap-datepicker.min.js?1458551395" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/_plugins/jquery.magnific-popup.min.js?1513008574" type="text/javascript"></script>
+<script src="/fileadmin/templates/_s/scripter.min.js?1588753611" type="text/javascript"></script>
+<script src="/typo3conf/ext/powermail_cond/Resources/Public/JavaScript/PowermailCondition.min.js?1560415418" type="text/javascript"></script>
+<script src="/typo3conf/ext/simplepoll/Resources/Public/JavaScript/main.js?1599052862" type="text/javascript"></script>
+</body>
+</html>

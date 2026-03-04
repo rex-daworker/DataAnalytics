@@ -1,0 +1,1201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="de" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>(Fach-)Hochschulausbildung | bpb</title>
+<meta content="all" name="robots"/>
+<meta data-dt="domain-time" data-dt-content="www.bpb.de-1605116356-9863923cd615c6dfedc800f2a4174aa6"/>
+<meta content="1 day" meta="revisit-after"/>
+<meta content="100000495723190" property="fb:admins"/>
+<meta data-dt-content="20149239" property="twitter:account_id"/>
+<meta content="Fach  Hochschulausbildung, Studium, Studienanfänger, Arbeitsmarkt" name="keywords"/>
+<meta content="(Fach-)Hochschulausbildung | bpb" property="og:title"/>
+<meta content="Das Studium an (Fach-)Hochschulen hat in Deutschland an Beliebtheit gewonnen. Die steigende Anzahl der Studienanfänger/-innen kann mitunter auf Schulreformen zurückgeführt werden, die durch die Verkürzung der Schulzeit doppelte Abiturjahrgänge verurs" name="description"/>
+<meta content="Das Studium an (Fach-)Hochschulen hat in Deutschland an Beliebtheit gewonnen. Die steigende Anzahl der Studienanfänger/-innen kann mitunter auf Schulreformen zurückgeführt werden, die durch die Verkürzung der Schulzeit doppelte Abiturjahrgänge verursacht haben. Es gibt also Schuljahre, in denen zwei Abiturjahrgänge die Schule verlassen. Dies stellt auch die (Fach-)Hochschulen vor eine besondere Herausforderung. " property="og:description"/>
+<meta content="Kathrin Schultheis , Stefan Sell" name="author"/>
+<meta content="Bundeszentrale für politische Bildung" name="publisher"/>
+<meta content="2014-07-07" name="date" scheme="YYYY-MM-DD"/>
+<meta content="2014-08-11" name="last-modified" scheme="YYYY-MM-DD"/>
+<meta content="article" property="og:type"/>
+<meta content="bpb.de" property="og:site_name"/>
+<meta content="@bpb_de" property="twitter:site"/>
+<meta content="@bpb_de" property="twitter:creator"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="https://www.bpb.de/cache/images/4/219454-3x2-facebook.jpg?02850" property="twitter:image"/>
+<meta content="https://www.bpb.de/cache/images/4/219454-3x2-facebook.jpg?02850" property="og:image"/>
+<meta content="https://www.bpb.de/cache/images/4/219454-3x2-facebook.jpg?02850" property="og:image:url"/>
+<meta content="900" property="og:image:width"/>
+<meta content="600" property="og:image:height"/>
+<meta content="Studentinnen und Studenten verfolgen im Anatomie-Hörsaal der Medizinischen Fakultät an der Martin-Luther-Universität Halle-Wittenberg eine Vorlesung zu Gelenken und Muskeln." property="og:image:alt"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="https://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung" property="og:url"/>
+<link href="https://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung" rel="canonical"/>
+<link href="https://m.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung" meta="only screen and (max-width: 640px)" rel="alternate"/>
+<script type="application/ld+json">
+{
+	"@context":			"http://schema.org",
+	"@type":			"Article",
+	"author":			"Kathrin Schultheis , Stefan Sell",
+	"headline":			"(Fach-)Hochschulausbildung | bpb",
+	"datePublished":	"2014-08-11T00:00:00+01:00",
+    "dateCreated":	    "2014-07-07T16:15:57+01:00",
+	"dateModified":	    "2014-08-11T00:00:00+01:00",
+
+	"mainEntityOfPage":	"https:\/\/www.bpb.de\/politik\/innenpolitik\/arbeitsmarktpolitik\/187853\/fach-hochschulausbildung",
+    "description":      "Das Studium an (Fach-)Hochschulen hat in Deutschland an Beliebtheit gewonnen. Die steigende Anzahl der Studienanf\u00e4nger\/-innen kann mitunter auf Schulreformen zur\u00fcckgef\u00fchrt werden, die durch die Verk\u00fcrzung der Schulzeit doppelte Abiturjahrg\u00e4nge verurs",
+    "keywords":         "Fach  Hochschulausbildung, Studium, Studienanf\u00e4nger, Arbeitsmarkt",
+	"publisher": {
+		"@type":	"Organization",
+		"name":		"Bundeszentrale f\u00fcr politische Bildung",
+		"logo": {
+			"@type":	"ImageObject",
+			"url":		"https:\/\/www.bpb.de\/sites\/all\/themes\/bpb\/images\/bpb_logo_ldjson.jpg",
+			"width":	"144",
+			"height":	"60"
+		}
+	}
+	,"image" : {
+		"@type":	"ImageObject",
+		"url":		"https:\/\/www.bpb.de\/cache\/images\/4\/219454-3x2-facebook.jpg?02850",
+		"width":	"900",
+		"height":	"600"    }
+}
+</script>
+<!-- iOS -->
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/apple-touch-icon-36x36.png" rel="apple-touch-icon" sizes="36x36"/>
+<link href="/apple-touch-icon-48x48.png" rel="apple-touch-icon" sizes="48x48"/>
+<link href="/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-touch-icon-96x96.png" rel="apple-touch-icon" sizes="96x96"/>
+<link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/apple-touch-icon-192x192.png" rel="apple-touch-icon" sizes="192x192"/>
+<link href="/apple-touch-icon-1024x1024.png" rel="apple-touch-icon" sizes="1024x1024"/>
+<!-- moderne Browser -->
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<!-- Chrome unter Android -->
+<link href="/site.webmanifest" rel="manifest"/>
+<!-- Safari unter Mac OS (Pinned Tab) -->
+<link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<!-- Internet Explorer/Edge auf Windows 8.1 und 10 (Icon-Kachel) -->
+<meta content="#b91d47" name="msapplication-TileColor"/>
+<meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="/sites/default/files/css/css_7uddPeyUEn0i60QBXCa6qgMBID7WnkylLqmpSlalsrE.css?A6ABC" media="all" rel="stylesheet" type="text/css"/>
+<link href="/sites/default/files/css/css_irGab7mrEbPXROHxGN7zXQ7U1coZ8Kg8K663ftYO6v8.css?A6ABC" media="print" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_6Q4ZNHhPlZSrh7_dXuWidzfzpUJVGo_5X2NALGL220Y.css?A6ABC" media="all" />
+<![endif]-->
+<script src="/sites/default/files/js/js_PYCzCCPlon0Z3Jhyo3tfk9a8BPYkIXFW7ecoblS8ecM.js?A6ABC" type="text/javascript"></script>
+<script src="/sites/default/files/js/js_lzljvXW_O98rBqSWMwogCpc_mHZKMdtofun4Hu_VbTY.js?A6ABC" type="text/javascript"></script>
+<script src="/sites/default/files/js/js_8mNUB7mvHYvOC477r8DCWMGm5LwzpK5Ba1_VegWvNpw.js?A6ABC" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"js":{"misc\/jquery.js?A6ABC":1,"misc\/jquery.once.js?A6ABC":1,"misc\/drupal.js?A6ABC":1,"public:\/\/languages\/de_ljbDTsSNwowOk67T2yOlY0IuwAIt_JcZI8G-VKBTTYo.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/shariff.complete.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery-1.7.1.min.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.scrollTo-1.4.2-min.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.serialScroll-1.2.2-min.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.mousewheel.min.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.lightbox-0.5.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.coverslider.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jtabber.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/navigation-slide.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/infinitecarousel\/jquery.infinitecarousel2.mod.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/imageflow\/imageflow.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/teaser-slider.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/cluetip\/jquery.cluetip.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/gallery.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/best-publications.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.publicationslider.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.fancybox2.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery-ui-1.8.18.custom.min.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jquery.ui.datepicker-de.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/socialshareprivacy\/jquery.socialshareprivacy.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/jwplayer.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/mobile.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/slick\/slick.min.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/slick\/main.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/video.minified.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/lang\/de.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/videojs.relatedCarousel.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/videojs-qualityselector.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/videojs.socialShare.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/videojs-vjsdownload.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/video.embed.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/videojs\/videojs-seek-buttons.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/3dglobus.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/iframe_dsgvo.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/linkvorschau.js?A6ABC":1,"sites\/all\/themes\/bpb\/js\/js.cookie.js?A6ABC":1},"css":{"sites\/all\/themes\/bpb\/css\/jquery-ui-1.8.18.custom.css":1,"sites\/all\/themes\/bpb\/css\/shariff.complete.css":1,"sites\/all\/themes\/bpb\/css\/slick.css":1,"sites\/all\/themes\/bpb\/css\/slick-theme.css":1,"sites\/all\/themes\/bpb\/css\/base.css":1,"sites\/all\/themes\/bpb\/css\/gallery.css":1,"sites\/all\/themes\/bpb\/css\/content.css":1,"sites\/all\/themes\/bpb\/css\/portlets.css":1,"sites\/all\/themes\/bpb\/css\/portlet_shop_suggestions.css":1,"sites\/all\/themes\/bpb\/css\/preparser.css":1,"sites\/all\/themes\/bpb\/css\/jquery.lightbox-0.5.css":1,"sites\/all\/themes\/bpb\/js\/imageflow\/imageflow.packed.css":1,"sites\/all\/themes\/bpb\/css\/teaser-slider.css":1,"sites\/all\/themes\/bpb\/css\/teaser.css":1,"sites\/all\/themes\/bpb\/css\/googleMapsOverlay.css":1,"sites\/all\/themes\/bpb\/css\/jquery.fancybox2.css":1,"sites\/all\/themes\/bpb\/css\/jquery.fancybox2.bpb.css":1,"sites\/all\/themes\/bpb\/js\/cluetip\/jquery.cluetip.css":1,"sites\/all\/themes\/bpb\/js\/socialshareprivacy\/socialshareprivacy\/socialshareprivacy.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/video-js-cdn.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/videojs.relatedCarousel.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/videojs-qualityselector.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/videojs.socialShare.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/videojs-custom.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/videojs-seek-buttons.css":1,"sites\/all\/themes\/bpb\/css\/videojs\/videojs-vjsdownload.css":1,"sites\/all\/themes\/bpb\/css\/3dglobus.css":1,"sites\/all\/themes\/bpb\/css\/print.css":1,"sites\/all\/themes\/bpb\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+<!--[if lte IE 8]>
+    <style type='text/css'>
+    #navi .subnavi_dossier,
+	#navi .subnavi_lernen,
+	#navi .subnavi_shop,
+	#navi .subnavi_events {
+	    border-width: 0 1px 1px 1px;
+	    border-style: solid;
+	    border-color: #666;
+	}
+    </style>
+    <![endif]-->
+<!--[if IE 7]>
+    <style type='text/css'>
+    #navi {
+       z-index: 200;
+    }
+    #navi ul {
+       z-index: 201;
+    }
+    #navi ul li {
+       z-index: 202;
+    }
+    #navi ul li ul {
+       z-index: 203;
+    }
+    #navi ul li ul li {
+       z-index: 204;
+    }
+    .imageflow .caption {
+        left: 0px;
+    }
+    </style>
+    <![endif]-->
+<!--[if lte IE 6]>
+    <style type='text/css'>
+    #slider,
+	.ie6hide,
+	.portlet .date,
+	.mediaicon {
+        display: none !important;
+    }
+    </style>
+    <![endif]-->
+<script type="text/javascript">
+        linkvorschauUrl = '/ajax/274954';    
+    </script>
+</head>
+<body class="html">
+<!-- 11.11.2020 18:39:16 //-->
+<script type="text/javascript">
+    checkAndRedirectMobil();
+    
+</script>
+<!-- SZM VERSION="2.0" -->
+<script src="https://script.ioam.de/iam.js" type="text/javascript"></script>
+<script type="text/javascript">
+var iam_data = {
+    "st":"bpb", // site/domain
+    "cp":"01-03-01-00", // code
+    "sv":"ke", // Es wird keine Befragungseinladung ausgeliefert.
+    "co":"Kommentar" // comment
+}
+if (typeof iom !== "undefined") {
+    iom.c(iam_data);
+}
+</script>
+<!--/SZM -->
+<div id="container">
+<div id="header">
+<div id="header_links">
+<div id="links_left">
+<a href="http://www.eurotopics.net" target="_blank">eurotopics.net</a>
+<a href="http://www.fluter.de" target="_blank">fluter.de</a>
+<a href="http://www.hanisauland.de" target="_blank">hanisauland.de</a>
+<a href="/apuz/">apuz</a>
+<a href="/izpb/">izpb</a>
+<a href="/geschichte/zeitgeschichte/deutschlandarchiv/">deutschlandarchiv</a>
+</div>
+<div id="links_right">
+<a href="/rss/">RSS</a> <a href="/newsletter/">Newsletter</a><a href="/die-bpb/">Die bpb</a> <a href="/presse/">Presse</a> <a href="/partner/">Partner</a> <a href="/kontakt/">Kontakt</a> </div>
+</div>
+<div class="sidebar cp1">
+<div class="sidebar-icon">
+<a href="/die-bpb/138852/federal-agency-for-civic-education" title="English"><img alt="English" border="0" height="30" src="/sites/all/themes/bpb/images/en.svg" width="30"/></a>
+</div><div class="sidebar-icon">
+<a href="/die-bpb/informationen-in-leichter-sprache/" title="Leichte Sprache"><img alt="Leichte Sprache" border="0" height="30" src="/sites/all/themes/bpb/images/bpb_sprachbuttons_leicht.svg" width="30"/></a>
+</div><div class="sidebar-icon">
+<a href="/die-bpb/204005/informationen-in-gebaerdensprache" title="Gebärdensprache"><img alt="Gebärdensprache" border="0" height="30" src="/sites/all/themes/bpb/images/bpb_sprachbuttons_gebaerde.svg" width="30"/></a>
+</div><div class="sidebar-icon"><a href="/183655/ihre-artikelauswahl-als-pdf-oder-epub" title="Ihre Artikelauswahl - als PDF oder EPUB"><img alt="" src="/sites/all/themes/bpb/images/pdf_epub_warenkorb.svg"/></a></div> </div>
+<div id="logo">
+<a href="/" title="Homepage"><img alt="Bundeszentrale für politische Bildung Logo" height="70" src="/sites/all/themes/bpb/images/bpb_logo.svg" style="border: 0;" title="Bundeszentrale für politische Bildung Logo" width="180"/></a>
+</div>
+<div id="global_search">
+<form action="/suche/" method="get" name="suche">
+<input id="global_search_input" name="suchwort" placeholder="Nach Stichwort suchen" type="text"/>
+<input class="button-lupe" name="suchen" title="Suchen" type="submit"/>
+</form>
+</div>
+</div><!-- END HEADER -->
+<!-- cachetime[inc_topnavigation_links] 1605114121-11.11.2020 18:02:01//-->
+<div id="navi">
+<ul>
+<li class="dossieractive"><a href="/politik/">Politik</a><ul class="sub"><li><div class="subnavi s6"><ul><li class="subnavi_heading"><a href="/politik/hintergrund-aktuell/">Hintergrund aktuell</a></li><li> </li><li><a href="/politik/hintergrund-aktuell/215326/deutsch-polnischer-grenzvertrag">Deutsch-polnischer Grenzvertrag</a></li><li><a href="/politik/hintergrund-aktuell/214819/europaeische-menschenrechtskonvention">Europäische <br/>Menschenrechtskonvention</a></li><li><a href="/politik/hintergrund-aktuell/317830/ein-kind-politik">Ein-Kind-Politik</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/politik/grundfragen/">Grundfragen</a></li><li> </li><li><a href="/politik/grundfragen/24-deutschland/">24 x Deutschland</a></li><li><a href="/politik/grundfragen/deutsche-demokratie/">Deutsche Demokratie</a></li><li><a href="/politik/grundfragen/parteien-in-deutschland/">Parteien in ­Deutschland</a></li><li><a href="/politik/grundfragen/deutsche-verhaeltnisse-eine-sozialkunde/">Sozialkunde</a></li><li><a href="/politik/grundfragen/sprache-und-politik/">Sprache und Politik</a></li><li><a href="/politik/grundfragen/deutsche-verteidigungspolitik/">Verteidigungspolitik</a></li><li><a href="/politik/grundfragen/politik-einfach-fuer-alle/">Politik. Einfach für alle</a></li><li><a href="/politik/grundfragen/rassismus/">Rassismus</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/politik/innenpolitik/">Innenpolitik</a></li><li> </li><li><a href="/politik/innenpolitik/arbeitsmarktpolitik/">Arbeitsmarktpolitik</a></li><li><a href="/politik/innenpolitik/gesundheitspolitik/">Gesundheitspolitik</a></li><li><a href="/politik/innenpolitik/rentenpolitik/">Rentenpolitik</a></li><li><a href="/politik/innenpolitik/familienpolitik/">Familienpolitik</a></li><li><a href="/politik/innenpolitik/demografischer-wandel/">Demografischer Wandel</a></li><li><a href="/politik/innenpolitik/innere-sicherheit/">Innere Sicherheit</a></li><li><a href="/politik/innenpolitik/gangsterlaeufer/">Jugendkriminalität</a></li><li><a href="/politik/innenpolitik/stadt-und-gesellschaft/">Stadt und ­Gesellschaft</a></li><li><a href="/politik/innenpolitik/care-arbeit/">Care-Arbeit</a></li><li><a href="/politik/innenpolitik/coronavirus/">Coronavirus</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/politik/extremismus/">Extremismus</a></li><li> </li><li><a href="/politik/extremismus/rechtsextremismus/">Rechtsextremismus</a></li><li><a href="/politik/extremismus/rechtspopulismus/">Rechtspopulismus</a></li><li><a href="/politik/extremismus/islamismus/">Islamismus</a></li><li><a href="/politik/extremismus/radikalisierungspraevention/">Radikalisierungsprävention</a></li><li><a href="/politik/extremismus/linksextremismus/">Linksextremismus</a></li><li><a href="/politik/extremismus/antisemitismus/">Antisemitismus</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/politik/wahlen/">Wahlen</a></li><li> </li><li><a href="/politik/wahlen/europawahl-2019/">Europawahl 2019</a></li><li><a href="/politik/wahlen/et-wahlmonitor-2019/">euro|topics-Wahlmonitor</a></li><li><a href="/politik/wahlen/europawahl/">Europawahlen </a></li><li><a href="/politik/wahlen/bundestagswahl-2017/">Bundestagswahl 2017</a></li><li><a href="/politik/wahlen/wahlen-in-deutschland/">Wahlen in ­Deutschland</a></li><li><a href="/politik/wahlen/bundestagswahlen/">Bundestagswahlen</a></li><li><a href="/politik/wahlen/wahl-o-mat/">Wahl-O-Mat</a></li><li><a href="/politik/wahlen/wer-steht-zur-wahl/">Wer steht zur Wahl?</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/politik/wirtschaft/">Wirtschaft</a></li><li> </li><li><a href="/politik/wirtschaft/wirtschaftspolitik/">Wirtschaft</a></li><li><a href="/politik/wirtschaft/energiepolitik/">Energiepolitik</a></li><li><a href="/politik/wirtschaft/finanzmaerkte/">Finanzmärkte</a></li><li><a href="/politik/wirtschaft/geld/">Podcast: MeineWelt und das Geld</a></li><li><a href="/politik/wirtschaft/freihandel/">Freihandel versus Protektionismus</a></li><li><a href="/politik/wirtschaft/schuldenkrise/">Europäische Schuldenkrise</a></li><li><a href="/politik/wirtschaft/lobbyismus/">Lobbyismus</a></li></ul>
+</div></li></ul></li><li class="dossier" id="highlight-5"><a href="/internationales/">Internationales</a><ul class="sub"><li><div class="subnavi s5"><ul><li class="subnavi_heading"><a href="/internationales/europa/">Europa</a></li><li> </li><li><a href="/internationales/europa/europaeische-union/">Europäische Union</a></li><li><a href="/internationales/europa/brexit/">Brexit</a></li><li><a href="/internationales/europa/frankreich/">Frankreich</a></li><li><a href="/internationales/europa/polen/">Polen</a></li><li><a href="/internationales/europa/russland/">Russland</a></li><li><a href="/internationales/europa/ukraine/">Ukraine</a></li><li><a href="/internationales/europa/tuerkei/">Türkei</a></li><li><a href="/internationales/europa/sinti-und-roma-in-europa/">Sinti und Roma in Europa</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/internationales/weltweit/">Weltweit</a></li><li> </li><li><a href="/internationales/weltweit/innerstaatliche-konflikte/">Innerstaatliche Konflikte</a></li><li><a href="/internationales/weltweit/menschenrechte/">Menschenrechte</a></li><li><a href="/internationales/weltweit/vereinte-nationen/">Vereinte Nationen</a></li><li><a href="/internationales/weltweit/osze/">OSZE</a></li><li><a href="/internationales/weltweit/sicherheitspolitische-presseschau/">Sicherheitspolitische ­Presseschau</a></li><li><a href="http://sicherheitspolitik.bpb.de/index.php" target="_blank">Infoportal Krieg und Frieden</a></li><li><a href="/internationales/weltweit/welternaehrung/">Welternährung</a></li><li><a href="/internationales/weltweit/megastaedte/">Megastädte</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/internationales/asien/">Asien</a></li><li> </li><li><a href="/internationales/asien/afghanistan/">Afghanistan</a></li><li><a href="/internationales/asien/afghanistan-das-zweite-gesicht/">Afghanistan - Kultur und Gesellschaft</a></li><li><a href="/internationales/asien/china/">China</a></li><li><a href="/internationales/asien/indien/">Indien</a></li><li><a href="/internationales/asien/iran/">Iran</a></li><li><a href="/internationales/asien/israel/">Israel</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/internationales/amerika/">Amerika</a></li><li> </li><li><a href="/internationales/amerika/usa/">USA</a></li><li><a href="/internationales/amerika/lateinamerika/">Lateinamerika</a></li><li><a href="/internationales/amerika/brasilien/">Brasilien</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/internationales/afrika/">Afrika</a></li><li> </li><li><a href="/internationales/afrika/arabischer-fruehling/">Arabischer Frühling</a></li><li><a href="/internationales/afrika/afrika/">Afrika</a></li></ul>
+</div></li></ul></li><li class="dossier" id="highlight-4"><a href="/geschichte/">Geschichte</a><ul class="sub"><li><div class="subnavi s4"><ul><li class="subnavi_heading"><a href="/geschichte/nationalsozialismus/">Nationalsozialismus</a></li><li> </li><li><a href="/geschichte/nationalsozialismus/dossier-nationalsozialismus/">Nationalsozialismus</a></li><li><a href="/geschichte/nationalsozialismus/erinnerungsorte/">Erinnerungsorte</a></li><li><a href="/geschichte/nationalsozialismus/auschwitzheute/">Auschwitz heute - dzisiaj - today</a></li><li><a href="/geschichte/nationalsozialismus/ravensbrueck/">Frauen-KZ Ravensbrück</a></li><li><a href="/geschichte/nationalsozialismus/weisse-rose/">Weiße Rose</a></li><li><a href="/geschichte/nationalsozialismus/geheimsache-ghettofilm/">Geheimsache Ghettofilm</a></li><li><a href="/geschichte/nationalsozialismus/gerettete-geschichten/">Gerettete Geschichten</a></li><li><a href="/geschichte/nationalsozialismus/die-wohnung/">Die Wohnung</a></li><li><a href="/geschichte/nationalsozialismus/ns-zwangsarbeit/">NS-Zwangsarbeit. ­Lernen mit Interviews </a></li><li><a href="/geschichte/nationalsozialismus/schicksalsjahr-1938/">Schicksalsjahr 1938</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/geschichte/deutsche-geschichte/">Deutsche Geschichte</a></li><li> </li><li><a href="/geschichte/deutsche-geschichte/297320/kinder-im-krieg">Kinder im Krieg</a></li><li><a href="/geschichte/deutsche-geschichte/krieg-der-traeume-1918-1938/">Krieg der Träume 1918-1939</a></li><li><a href="/geschichte/deutsche-geschichte/reformation/">Reformation</a></li><li><a href="/geschichte/deutsche-geschichte/frauenwahlrecht/">Frauenwahlrecht</a></li><li><a href="/geschichte/deutsche-geschichte/kaiserreich/">Deutsches Kaiserreich</a></li><li><a href="/geschichte/deutsche-geschichte/ersterweltkrieg/">Erster Weltkrieg</a></li><li><a href="/geschichte/deutsche-geschichte/weimarer-republik/">Weimarer Republik</a></li><li><a href="/geschichte/deutsche-geschichte/der-zweite-weltkrieg/">Zweiter Weltkrieg </a></li><li><a href="/geschichte/deutsche-geschichte/flucht-und-vertreibung/">Flucht und Vertreibung</a></li><li><a href="/geschichte/deutsche-geschichte/wiederaufbau-der-staedte/">Wiederaufbau der Städte</a></li><li><a href="/geschichte/deutsche-geschichte/grundgesetz-und-parlamentarischer-rat/">Grundgesetz und ­Parlamentarischer Rat</a></li><li><a href="/geschichte/deutsche-geschichte/der-aufstand-des-17-juni-1953/">Aufstand des 17. Juni 1953</a></li><li><a href="/geschichte/deutsche-geschichte/anwerbeabkommen/">1961: Anwerbeabkommen mit der Türkei</a></li><li><a href="/geschichte/deutsche-geschichte/68er-bewegung/">68er-Bewegung</a></li><li><a href="/geschichte/deutsche-geschichte/autonome-kunst-in-der-ddr/">Autonome Kunst in der DDR</a></li><li><a href="/geschichte/deutsche-geschichte/ostzeit/">Ostzeit</a></li><li><a href="/geschichte/deutsche-geschichte/geschichte-der-raf/">Geschichte der RAF</a></li><li><a href="/geschichte/deutsche-geschichte/stasi/">Stasi</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/geschichte/deutsche-einheit/">Deutsche Einheit</a></li><li> </li><li><a href="/geschichte/deutsche-einheit/30-jahre-deutsche-einheit/">30 Jahre Deutsche Einheit</a></li><li><a href="/geschichte/deutsche-einheit/mauerfall/">Mauerfall</a></li><li><a href="/geschichte/deutsche-einheit/zahlen-und-fakten-zur-deutschen-einheit/">Zahlen und Fakten</a></li><li><a href="/geschichte/deutsche-einheit/deutsche-teilung-deutsche-einheit/">Deutsche Teilung - ­Deutsche Einheit</a></li><li><a href="/geschichte/deutsche-einheit/lange-wege-der-deutschen-einheit/">Lange Wege der Deutschen Einheit</a></li><li><a href="/geschichte/deutsche-einheit/kontraste/">Kontraste - Auf den Spuren ­einer Diktatur</a></li><li><a href="/geschichte/deutsche-einheit/20-jahre-hauptstadtbeschluss/">Hauptstadtbeschluss</a></li><li><a href="/geschichte/deutsche-einheit/256069/wir-waren-so-frei-">Wir waren so frei...</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/geschichte/zeitgeschichte/">Zeitgeschichte</a></li><li> </li><li><a href="/geschichte/zeitgeschichte/307740/75-jahre-kriegsende"> 75 Jahre Kriegsende</a></li><li><a href="/geschichte/zeitgeschichte/288260/100-jahre-bauhaus">100 Jahre Bauhaus</a></li><li><a href="/geschichte/zeitgeschichte/der-kalte-krieg/">Kalter Krieg</a></li><li><a href="/geschichte/zeitgeschichte/prag-1968/">Prag 1968</a></li><li><a href="/geschichte/zeitgeschichte/postkolonialismus-und-globalgeschichte/">(Post)kolonialismus <br/>und Globalgeschichte</a></li><li><a href="/geschichte/zeitgeschichte/sound-des-jahrhunderts/">Sound des ­Jahrhunderts</a></li><li><a href="/geschichte/zeitgeschichte/genozid-an-den-armeniern/">Aghet – Genozid an den Armeniern</a></li><li><a href="/geschichte/zeitgeschichte/oktoberrevolution/">Oktoberrevolution</a></li><li><a href="/geschichte/zeitgeschichte/marshallplan/">Marshallplan</a></li><li><a href="/geschichte/zeitgeschichte/jugendkulturen-in-deutschland/">Jugendkulturen</a></li><li><a href="/geschichte/zeitgeschichte/griechenland/">Deutsch-griechische Beziehungen</a></li><li><a href="/geschichte/zeitgeschichte/deutsch-polnische-beziehungen/">Deutsch-polnische Beziehungen</a></li><li><a href="/geschichte/zeitgeschichte/geschichte-und-erinnerung/">Geschichte und Erinnerung</a></li><li><a href="/geschichte/zeitgeschichte/geschichte-im-fluss/">Geschichte im Fluss</a></li><li><a href="/geschichte/zeitgeschichte/deutschland-chronik/">Deutschland-Chronik</a></li><li><a href="/geschichte/zeitgeschichte/deutschlandarchiv/">Deutschland Archiv</a></li><li><a href="/geschichte/zeitgeschichte/geschichte-der-bpb/">Geschichte der bpb</a></li></ul>
+</div></li></ul></li><li class="dossier" id="highlight-16"><a href="/gesellschaft/">Gesellschaft</a><ul class="sub"><li><div class="subnavi s6"><ul><li class="subnavi_heading"><a href="/gesellschaft/gender/">Gender</a></li><li> </li><li><a href="/gesellschaft/gender/streit-um-219a-podcast/">Podcast: Streit um §219a </a></li><li><a href="/gesellschaft/gender/geschlechtliche-vielfalt-trans/">Trans*</a></li><li><a href="/gesellschaft/gender/frauenbewegung/">Frauenbewegung</a></li><li><a href="/gesellschaft/gender/frauen-in-deutschland/">Frauen</a></li><li><a href="/gesellschaft/gender/gender-mainstreaming/">Gender <br/>Mainstreaming</a></li><li><a href="/gesellschaft/gender/homosexualitaet/">Homosexualität</a></li><li><a href="/gesellschaft/gender/graue-spielzeit/">Die graue Spielzeit</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/gesellschaft/migration/">Migration</a></li><li> </li><li><a href="/gesellschaft/migration/dossier-migration/">Migration</a></li><li><a href="/gesellschaft/migration/flucht/">Flucht und Asyl</a></li><li><a href="/gesellschaft/migration/kurzdossiers/">Kurzdossiers</a></li><li><a href="/gesellschaft/migration/laenderprofile/">Länderprofile</a></li><li><a href="/gesellschaft/migration/russlanddeutsche/">Russlanddeutsche</a></li><li><a href="/gesellschaft/migration/afrikanische-diaspora/">Afrikanische ­Diaspora</a></li><li><a href="/gesellschaft/migration/alphabet-des-ankommens/">Alphabet des Ankommens</a></li><li><a href="/gesellschaft/migration/neukoelln-unlimited/">Neukölln Unlimited</a></li><li><a href="/gesellschaft/migration/willkommen-auf-deutsch/">Willkommen auf Deutsch</a></li><li><a href="/gesellschaft/migration/newsletter/">Newsletter Migration (Archiv)</a></li><li><a href="/gesellschaft/migration/dossier-migration-ALT/">Migration Archiv</a></li><li><a href="/gesellschaft/migration/seeking-refuge/">Zuflucht gesucht - Seeking Refuge</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/gesellschaft/umwelt/">Umwelt</a></li><li> </li><li><a href="/gesellschaft/umwelt/dossier-umwelt/">Umwelt</a></li><li><a href="/gesellschaft/umwelt/klimawandel/">Klimawandel</a></li><li><a href="/gesellschaft/umwelt/bioethik/">Bioethik</a></li><li><a href="/gesellschaft/umwelt/hochwasserschutz/">Hochwasserschutz</a></li><li><a href="/gesellschaft/umwelt/anthropozaen/">Anthropozän </a></li><li><a href="/gesellschaft/umwelt/tschernobyl/">Tschernobyl</a></li><li><a href="/gesellschaft/umwelt/landwirtschaft/">Landwirtschaft</a></li><li><a href="/gesellschaft/umwelt/endlagersuche/">Endlagersuche</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/gesellschaft/bildung/">Bildung</a></li><li> </li><li><a href="/gesellschaft/bildung/zukunft-bildung/">Bildung </a></li><li><a href="/gesellschaft/bildung/politische-bildung/">Politische Bildung</a></li><li><a href="/gesellschaft/bildung/filmbildung/">Filmbildung</a></li><li><a href="/gesellschaft/bildung/kulturelle-bildung/">Kulturelle Bildung</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/gesellschaft/digitales/">Digitales</a></li><li> </li><li><a href="/gesellschaft/digitales/digitale-desinformation/">Digitale Desinformation</a></li><li><a href="/gesellschaft/digitales/bigdata/">Big Data</a></li><li><a href="/gesellschaft/digitales/datenschutz/">Datenschutz</a></li><li><a href="/gesellschaft/digitales/persoenlichkeitsrechte/">Persönlichkeitsrechte</a></li><li><a href="/gesellschaft/digitales/democracy/">Democracy - Im Rausch der Daten</a></li><li><a href="/gesellschaft/digitales/opendata/">Open Data</a></li><li><a href="/gesellschaft/digitales/opensource/">Open Source</a></li><li><a href="/gesellschaft/digitales/wikipedia/">Wikipedia</a></li><li><a href="/gesellschaft/digitales/politik-des-suchens/">Suchmaschinen</a></li><li><a href="/gesellschaft/digitales/computerspiele/">Computerspiele</a></li><li><a href="/gesellschaft/digitales/verbotene-spiele/">Verbotene Spiele?</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/gesellschaft/medien-und-sport/">Medien &amp; Sport</a></li><li> </li><li><a href="/gesellschaft/medien-und-sport/fake-news/">Fake News</a></li><li><a href="/gesellschaft/medien-und-sport/medienpolitik/">Medienpolitik</a></li><li><a href="/gesellschaft/medien-und-sport/bundesliga/">Bundesliga</a></li><li><a href="/gesellschaft/medien-und-sport/deutsche-fernsehgeschichte-in-ost-und-west/">Deutsche ­Fernsehgeschichte</a></li><li><a href="/gesellschaft/medien-und-sport/lokaljournalismus/">Lokaljournalismus</a></li><li><a href="/gesellschaft/medien-und-sport/lokaljournalistenprogramm/">Lokaljournalisten­programm</a></li><li><a href="/gesellschaft/medien-und-sport/radio/">Radio</a></li><li><a href="/gesellschaft/medien-und-sport/bilder-in-geschichte-und-politik/">Bilder in Geschichte und Politik</a></li><li><a href="/gesellschaft/medien-und-sport/krieg-in-den-medien/">Krieg in den Medien</a></li><li><a href="/gesellschaft/medien-und-sport/kinder-sehen-krieg/">Kinder sehen Krieg</a></li><li><a href="/gesellschaft/medien-und-sport/wissen-und-eigentum/">Wissen und Eigentum</a></li><li><a href="/gesellschaft/medien-und-sport/urheberrecht/">Urheberrecht</a></li><li><a href="/gesellschaft/medien-und-sport/mediendatenbank/">Mediendatenbank</a></li><li><a href="/gesellschaft/medien-und-sport/306942/corona-und-verschwoerungstheorien">Corona und Verschwörungstheorien</a></li></ul>
+</div></li></ul></li><li class="dossier" id="highlight-7"><a href="/nachschlagen/">Nachschlagen</a><ul class="sub"><li><div class="subnavi s4"><ul><li class="subnavi_heading"><a href="/nachschlagen/lexika/">Lexika</a></li><li> </li><li><a href="/nachschlagen/lexika/politiklexikon/">Das Politiklexikon</a></li><li><a href="/nachschlagen/lexika/handwoerterbuch-politisches-system/">Handwörterbuch</a></li><li><a href="/nachschlagen/lexika/pocket-politik/">Pocket Politik</a></li><li><a href="/nachschlagen/lexika/pocket-europa/">Pocket Europa</a></li><li><a href="/nachschlagen/lexika/islam-lexikon/">Kleines Islam-Lexikon</a></li><li><a href="/nachschlagen/lexika/fischer-weltalmanach/">Fischer Weltalmanach</a></li><li><a href="/nachschlagen/lexika/recht-a-z/">Recht A-Z</a></li><li><a href="/nachschlagen/lexika/lexikon-der-wirtschaft/">Lexikon der Wirtschaft</a></li><li><a href="/nachschlagen/lexika/das-junge-politik-lexikon/">Das junge Politik-Lexikon</a></li><li><a href="/nachschlagen/lexika/das-europalexikon/">Das Europalexikon</a></li><li><a href="/nachschlagen/lexika/lexikon-in-einfacher-sprache/">einfach POLITIK: Lexikon</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/nachschlagen/zahlen-und-fakten/">Zahlen und Fakten</a></li><li> </li><li><a href="/nachschlagen/zahlen-und-fakten/europa/">Europa</a></li><li><a href="/nachschlagen/zahlen-und-fakten/globalisierung/">Globalisierung</a></li><li><a href="/nachschlagen/zahlen-und-fakten/top-15/">Zahlen und Fakten: Top 15</a></li><li><a href="/nachschlagen/zahlen-und-fakten/soziale-situation-in-deutschland/">Soziale Situation in Deutschland</a></li><li><a href="/nachschlagen/zahlen-und-fakten/3d/">Zahlen und Fakten 3D</a></li><li><a href="/nachschlagen/zahlen-und-fakten/deutschland-in-daten/">Deutschland in Daten</a></li><li><a href="/nachschlagen/zahlen-und-fakten/bundestagswahlen/">Bundestagswahlen</a></li><li><a href="/nachschlagen/zahlen-und-fakten/europawahl/">Europawahl</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/nachschlagen/gesetze/">Gesetze</a></li><li> </li><li><a href="/nachschlagen/gesetze/grundgesetz/">Grundgesetz</a></li><li><a href="/nachschlagen/gesetze/geschaeftsordnung-bundestag/">Geschäftsordnung des Bundestages</a></li><li><a href="/nachschlagen/gesetze/einigungsvertrag/">Einigungsvertrag</a></li><li><a href="/nachschlagen/gesetze/zwei-plus-vier-vertrag/">Zwei-plus-Vier-Vertrag</a></li><li><a href="/nachschlagen/gesetze/menschenrechtskonvention/">Europäische Menschenrechts­konvention</a></li><li><a href="/nachschlagen/gesetze/bundesverfassungsgerichtsgesetz/">Gesetz über das ­Bundesverfassungsgericht</a></li><li><a href="/nachschlagen/gesetze/bundeswahlgesetz/">Bundeswahlgesetz</a></li><li><a href="/nachschlagen/gesetze/gesetz-ueber-politische-parteien/">Gesetz über die ­politischen Parteien</a></li><li><a href="/nachschlagen/gesetze/eu-vertrag/">Vertrag über die ­Europäische Union</a></li></ul>
+<ul><li class="subnavi_heading">
+<a href="/nachschlagen/datenreport-2018/">
+                                        Datenreport 2018                                        </a>
+</li></ul></div></li></ul></li><li class="events" id="highlight-9"><a href="/veranstaltungen/">Veranstaltungen</a><ul class="sub"><li><div class="subnavi s6"><ul><li class="subnavi_heading">
+<a href="/veranstaltungen/veranstaltungskalender/">
+                                            Veranstaltungs- kalender                                            </a>
+</li></ul><ul><li class="subnavi_heading"><a href="/veranstaltungen/themen/">Themen</a></li><li> </li><li><a href="/veranstaltungen/themen/politik/">Politik</a></li><li><a href="/veranstaltungen/themen/internationales/">Internationales</a></li><li><a href="/veranstaltungen/themen/gesellschaft/">Gesellschaft</a></li><li><a href="/veranstaltungen/themen/kultur-medien/">Kultur/ Medien</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/veranstaltungen/format/">Format</a></li><li> </li><li><a href="/veranstaltungen/format/digital-live/">Digital &amp; Live</a></li><li><a href="/veranstaltungen/format/ausstellung/">Ausstellung</a></li><li><a href="/veranstaltungen/format/festival/">Festival</a></li><li><a href="/veranstaltungen/format/kongress-tagung/">Kongress/Tagung</a></li><li><a href="/veranstaltungen/format/seminar-workshop/">Seminar/Workshop</a></li><li><a href="/veranstaltungen/format/studienreise/">Studienreise</a></li><li><a href="/veranstaltungen/format/podium-vortrag/">Podium/Vortrag</a></li><li><a href="/veranstaltungen/format/wettbewerb/">Wettbewerb</a></li><li><a href="/veranstaltungen/format/aktion/">Aktion</a></li><li><a href="/veranstaltungen/format/68411/berlin-besuchen-politik-begreifen">Besucherprogramm</a></li><li><a href="/veranstaltungen/format/308639/bpbforum-digital">bpb:forum digital</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/veranstaltungen/zielgruppe/">Zielgruppe</a></li><li> </li><li><a href="/veranstaltungen/zielgruppe/fuer-alle/">Für alle</a></li><li><a href="/veranstaltungen/zielgruppe/jugend/">Jugend</a></li><li><a href="/veranstaltungen/zielgruppe/multiplikatoren/">Multiplikatoren</a></li><li><a href="/veranstaltungen/zielgruppe/journalisten/">Journalist/innen</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/veranstaltungen/netzwerke/">Netzwerke</a></li><li> </li><li><a href="/veranstaltungen/netzwerke/nece/">NECE</a></li><li><a href="/veranstaltungen/netzwerke/177745/dialog-macht-schule">Dialog macht Schule</a></li><li><a href="/veranstaltungen/netzwerke/europa-gestalten/">Europa gestalten</a></li><li><a href="/veranstaltungen/netzwerke/qualifiziert-handeln/">Qualifiziert handeln!</a></li><li><a href="/veranstaltungen/netzwerke/verstaerker/">Verstärker</a></li><li><a href="/veranstaltungen/netzwerke/aktionstage/">Aktionstage ­politische Bildung</a></li><li><a href="/veranstaltungen/netzwerke/yep/">YEP</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/veranstaltungen/dokumentation/">Dokumentation</a></li><li> </li><li><a href="/veranstaltungen/dokumentation/311216/podcast-rechtsextreme-rueckzugsraeume-die-reihe">Podcast "Rechtsextreme Rückzugsräume" - die Reihe</a></li><li><a href="/veranstaltungen/dokumentation/305709/17-bensberger-gespraeche">17. Bensberger Gespräche</a></li><li><a href="/veranstaltungen/dokumentation/301104/glocal-islamism-2019">Glocal Islamism 2019 </a></li></ul>
+</div></li></ul></li><li class="lernen" id="highlight-6"><a href="/lernen/">Lernen</a><ul class="sub"><li><div class="subnavi s6"><ul><li class="subnavi_heading"><a href="/lernen/themen-im-unterricht/">Unterrichtsthema</a></li><li> </li><li><a href="/lernen/themen-im-unterricht/245352/konsum">Konsum</a></li><li><a href="/lernen/themen-im-unterricht/215246/grundgesetz">Grundgesetz</a></li><li><a href="/lernen/themen-im-unterricht/212843/flucht-und-asyl">Flucht und Asyl</a></li><li><a href="/lernen/themen-im-unterricht/212105/unterrichtsmaterial-fuer-willkommensklassen">Willkommensklassen</a></li><li><a href="/lernen/themen-im-unterricht/208749/inklusion">Inklusion</a></li><li><a href="/lernen/themen-im-unterricht/206560/fussball">Fußball</a></li><li><a href="/lernen/themen-im-unterricht/206285/zweiter-weltkrieg">Zweiter Weltkrieg</a></li><li><a href="/lernen/themen-im-unterricht/wahlen/">Wahlen</a></li><li><a href="/lernen/themen-im-unterricht/europaeische-union/">Europäische Union</a></li><li><a href="/lernen/themen-im-unterricht/deutsch-deutsche-geschichte/">Dt.-dt. Geschichte</a></li><li><a href="/lernen/themen-im-unterricht/politisches-system/">Politisches System</a></li><li><a href="/lernen/themen-im-unterricht/nationalsozialismus/">Nationalsozialismus</a></li><li><a href="/lernen/themen-im-unterricht/rechtsextremismus/">Rechtsextremismus</a></li><li><a href="/lernen/themen-im-unterricht/erster-weltkrieg/">Erster Weltkrieg</a></li><li><a href="/lernen/themen-im-unterricht/mit-satire-gegen-rechtsextremismus/">Mit Satire gegen Rechtsextremismus</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/lernen/formate/">Formate</a></li><li> </li><li><a href="/lernen/formate/232220/erklaerfilme">Erklärfilme</a></li><li><a href="/lernen/formate/arbeitsblaetter/">Arbeitsblätter</a></li><li><a href="/lernen/formate/unterrichtsentwuerfe/">Unterrichtsentwürfe</a></li><li><a href="/lernen/formate/methoden/">Methoden</a></li><li><a href="/lernen/formate/planspiele/">Planspiele</a></li><li><a href="/lernen/formate/Infografiken/">Infografiken</a></li><li><a href="/lernen/formate/bild-und-ton/">Bild und Ton</a></li><li><a href="/lernen/formate/comics/">Comics</a></li><li><a href="/lernen/formate/141936/plakate">Plakate</a></li><li><a href="/lernen/formate/quiz/">Quiz</a></li><li><a href="/lernen/formate/jahrestage/">Jahrestage</a></li><li><a href="/lernen/formate/rezensionen/">Rezensionen</a></li><li><a href="/lernen/formate/schulnewsletter-archiv/">Schulnewsletter</a></li><li><a href="/lernen/formate/141155/was-geht">Was geht?</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/lernen/zielgruppe/">Zielgruppe</a></li><li> </li><li><a href="/lernen/zielgruppe/grundschule/">Grundschule</a></li><li><a href="/lernen/zielgruppe/sekundarstufe-1/">Sekundarstufe I</a></li><li><a href="/lernen/zielgruppe/sekundarstufe-2/">Sekundarstufe II</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/lernen/digitale-bildung/">Digitale Bildung</a></li><li> </li><li><a href="/lernen/digitale-bildung/werkstatt/">werkstatt.bpb.de</a></li><li><a href="/lernen/digitale-bildung/faszination-medien/">Faszination Medien</a></li><li><a href="/lernen/digitale-bildung/oer-material-fuer-alle/">OER - Material für alle</a></li><li><a href="/lernen/digitale-bildung/unterricht-am-whiteboard/">Unterricht am Whiteboard</a></li><li><a href="/lernen/digitale-bildung/web-2-0/">Web 2.0 in der Bildungsarbeit</a></li><li><a href="/lernen/digitale-bildung/medienpaedagogik/">Medienpädagogik</a></li><li><a href="/lernen/digitale-bildung/306654/unterricht-ohne-schule">Unterricht ohne Schule</a></li><li><a href="/lernen/digitale-bildung/bewegtbild-und-politische-bildung/">Bewegtbild und politische Bildung</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/lernen/grafstat/">Forschen mit GrafStat</a></li><li> </li><li><a href="/lernen/grafstat/280183/europawahl-2019-mehrsprachig">Europawahl 2019 (mehrsprachig)</a></li><li><a href="/lernen/grafstat/grafstat-bundestagswahl-2017/">Bundestagswahl 2017</a></li><li><a href="/lernen/grafstat/krise-und-sozialisation/">Wie bin ich geworden, wer ich bin?</a></li><li><a href="/lernen/grafstat/fussball-und-nationalbewusstsein/">Fußball und Nation</a></li><li><a href="/lernen/grafstat/europawahl-2014/"> Europawahl 2014</a></li><li><a href="/lernen/grafstat/rechtsextremismus/">Rechtsextremismus</a></li><li><a href="/lernen/grafstat/klassencheckup/">KlassenCheckUp!</a></li><li><a href="/lernen/grafstat/partizipation-20/">Partizipation 2.0</a></li><li><a href="/lernen/grafstat/partizipation-vor-ort/">Partizipation vor Ort</a></li><li><a href="/lernen/grafstat/mobbing/">Mobbing – bei uns nicht?!</a></li><li><a href="/lernen/grafstat/projekt-integration/">Integration und Ausgrenzung</a></li><li><a href="/lernen/grafstat/ende-des-zweiten-weltkriegs/">Zweiter Weltkrieg</a></li><li><a href="/lernen/grafstat/grafstat-bundestagswahl-2013/">Bundestagswahl 2013</a></li><li><a href="/lernen/grafstat/203081/grafstat-software">Grafstat Software</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/lernen/projekte/">Projekte</a></li><li> </li><li><a href="/lernen/projekte/309746/abdelkratie">ABDELKRATIE</a></li><li><a href="/lernen/projekte/saymyname/">Say My Name</a></li><li><a href="/lernen/projekte/jamal/">Jamal al-Khatib X NISA</a></li><li><a href="/lernen/projekte/reflect-your-past/">Reflect Your Past</a></li><li><a href="/lernen/projekte/307217/der-himmel-wird-warten">Der Himmel wird warten </a></li><li><a href="/lernen/projekte/tracingaddai/">Tracing Addai</a></li><li><a href="/lernen/projekte/oray/">Oray</a></li><li><a href="/lernen/projekte/287799/space-net">SPACE NET</a></li><li><a href="/lernen/projekte/schuelerwettbewerb/">Schülerwettbewerb </a></li><li><a href="/lernen/projekte/270404/wahre-welle">Wahre Welle</a></li><li><a href="/lernen/projekte/refugee-eleven/">Refugee Eleven</a></li><li><a href="/lernen/projekte/wahl-o-mat-im-unterricht/">Wahl-O-Mat im ­Unterricht</a></li><li><a href="/lernen/projekte/vorbild/">VorBild: ­Förderschulen</a></li><li><a href="/lernen/projekte/269494/fachdiskurs-schule">Fachdiskurs Schule </a></li><li><a href="/lernen/projekte/inklusiv-politisch-bilden/">inklusiv ­politisch bilden</a></li><li><a href="/lernen/projekte/filmbildung/">Filmbildung</a></li><li><a href="/lernen/projekte/geschichte-begreifen/">Geschichte begreifen</a></li><li><a href="/lernen/projekte/249675/rueckgrat-beweisen">Rückgrat beweisen! </a></li><li><a href="/lernen/projekte/271771/datenbank-politische-bildung-und-polizei">Datenbank "Politische Bildung und Polizei"</a></li></ul>
+</div></li></ul></li><li class="mediathek" id="highlight-833"><a href="/mediathek/">Mediathek</a><ul class="sub"><li><div class="subnavi s4"><ul><li class="">
+<a href="/mediathek/bundestagswahlen/">
+<strong>Bundestagswahlen</strong> </a>
+</li><li class="">
+<a href="/mediathek/208519/auschwitz-heute">
+<strong>Auschwitz heute</strong> </a>
+</li><li class="">
+<a href="/mediathek/mit-offenen-karten/">
+<strong>Mit offenen Karten</strong> </a>
+</li><li class="">
+<a href="/mediathek/centropa/">
+<strong>Gerettete Geschichten</strong> </a>
+</li><li class="">
+<a href="/mediathek/praxischeck-bewegtbildung/">
+<strong>Praxischeck Bewegtbildung</strong> </a>
+</li><li class="">
+<a href="/mediathek/208515/checkpoint-bpb-die-montagsgespraeche">
+<strong>Checkpoint bpb</strong> </a>
+</li></ul><ul><li class="">
+<a href="/mediathek/300144/webvideoprojekt-30-jahre-mauerfall-und-wiedervereinigung">
+<strong>30 Jahre Mauerfall</strong> </a>
+</li><li class="">
+<a href="/mediathek/was-tun/">
+<strong>Was tun?</strong> </a>
+</li><li class="">
+<a href="/mediathek/310864/zahlen-und-fakten-infofilme-europa">
+<strong>Zahlen und Fakten: Europa</strong> </a>
+</li><li class="">
+<a href="/mediathek/283046/zahlen-und-fakten-globalisierung">
+<strong>Zahlen und Fakten: Globalisierung</strong> </a>
+</li><li class="">
+<a href="/mediathek/221931/begriffswelten-islam">
+<strong>Begriffswelten Islam</strong> </a>
+</li><li class="">
+<a href="/mediathek/kapitalismus/">
+<strong>Der Kapitalismus</strong> </a>
+</li></ul><ul><li class="">
+<a href="/mediathek/208518/ohrenkuss">
+<strong>Ohrenkuss</strong> </a>
+</li><li class="">
+<a href="/mediathek/286234/der-osten">
+<strong>Der Osten</strong> </a>
+</li><li class="">
+<a href="/mediathek/185752/was-ist-das-glossarbegriffe-als-erklaervideos">
+<strong>Was ist das? Glossarbegriffe</strong> </a>
+</li><li class="">
+<a href="/mediathek/213242/-begegnen">
+<strong>... begegnen!</strong> </a>
+</li><li class="">
+<a href="/mediathek/264917/stasi-aufarbeitung">
+<strong>Stasi &amp; Aufarbeitung</strong> </a>
+</li><li class="">
+<a href="/mediathek/grenzland/">
+<strong>Grenzland</strong> </a>
+</li></ul><ul><li class="">
+<a href="/mediathek/232684/filmprojekt-mix-it">
+<strong>Filmprojekt "Mix it!"</strong> </a>
+</li><li class="">
+<a href="/mediathek/289561/podcasts-und-andere-audios">
+<strong>Podcasts</strong> </a>
+</li><li class="">
+<a href="/mediathek/291516/erklaerfilme">
+<strong>Erklärfilme</strong> </a>
+</li><li class="">
+<a href="/mediathek/film-highlights/">
+<strong>Film-Highlights</strong> </a>
+</li><li class="">
+<a href="/mediathek/films-in-english/">
+<strong>Videos in English</strong> </a>
+</li><li class="">
+<a href="/mediathek/73410/suche">
+<strong>Suche</strong> </a>
+</li></ul></div></li></ul></li><li class="shop" id="highlight-10"><a href="/shop/">Shop</a><ul class="sub"><li><div class="subnavi s5"><ul><li class="subnavi_heading">
+<a href="/shop/warenkorb/">
+                                        Warenkorb                                        </a>
+</li></ul><ul><li class="subnavi_heading"><a href="/shop/buecher/">Bücher</a></li><li> </li><li><a href="/shop/buecher/schriftenreihe/">Schriftenreihe</a></li><li><a href="/shop/buecher/laenderberichte/">Länderberichte</a></li><li><a href="/shop/buecher/zeitbilder/">Zeitbilder</a></li><li><a href="/shop/buecher/pocket/">Pocket</a></li><li><a href="/shop/buecher/einzelpublikationen/">Einzelpublikationen</a></li><li><a href="/shop/buecher/grundgesetz/">Rechtsreihe</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/shop/zeitschriften/">Zeitschriften</a></li><li> </li><li><a href="/shop/zeitschriften/apuz/">APuZ</a></li><li><a href="/shop/zeitschriften/bpbmagazin/">bpb:magazin</a></li><li><a href="/shop/zeitschriften/fluter/">fluter</a></li><li><a href="/shop/zeitschriften/info-aktuell/">Info aktuell</a></li><li><a href="/shop/zeitschriften/informationen-zur-politischen-bildung/">Informationen zur ­politischen Bildung</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/shop/multimedia/">Multimedia</a></li><li> </li><li><a href="/shop/multimedia/dvd-cd/">DVDs/CDs</a></li><li><a href="/shop/multimedia/mobil/">Mobile Angebote/Apps</a></li><li><a href="/shop/multimedia/voe-lizenz/">V+Ö-Lizenz</a></li></ul>
+<ul><li class="subnavi_heading"><a href="/shop/lernen/">Lernen</a></li><li> </li><li><a href="/shop/lernen/einfach-politik/">einfach POLITIK</a></li><li><a href="/shop/lernen/entscheidung-im-unterricht/">Entscheidung im ­Unterricht</a></li><li><a href="/shop/lernen/falter/">Falter</a></li><li><a href="/shop/lernen/filmhefte/">Filmhefte</a></li><li><a href="/shop/lernen/hanisauland/">HanisauLand</a></li><li><a href="/shop/lernen/hautnah/">Hautnah</a></li><li><a href="/shop/lernen/karten/">Karten</a></li><li><a href="/shop/lernen/Spicker-Politik/">Spicker</a></li><li><a href="/shop/lernen/spiele/">Spiele</a></li><li><a href="/shop/lernen/thema-im-unterricht/">Thema im Unterricht</a></li><li><a href="/shop/lernen/themenblaetter/">Themenblätter im ­Unterricht</a></li><li><a href="/shop/lernen/themen-und-materialien/">Themen und ­Materialien</a></li><li><a href="/shop/lernen/timer/">Timer</a></li><li><a href="/shop/lernen/was-geht/">Was geht?</a></li><li><a href="/shop/lernen/weitere/">Weitere</a></li></ul>
+<ul><li class="subnavi_heading">
+<a href="/shop/publikationssuche/">
+                                            Publikationssuche                                            </a>
+</li></ul></div></li></ul></li><li class="dossier" id="highlight-68558"><a href="/dialog/">Dialog</a><ul class="sub"><li><div class="subnavi s4"><ul><li class="">
+<a href="/dialog/was-uns-betrifft/">
+<strong>Was uns betrifft</strong> </a>
+</li></ul><ul><li class="">
+<a href="/dialog/netzdebatte/">
+<strong>Die Netzdebatte</strong> </a>
+</li></ul><ul><li class="">
+<a href="/lernen/digitale-bildung/werkstatt/">
+<strong>werkstatt.bpb.de</strong> </a>
+</li></ul><ul><li class="">
+<a href="/dialog/podcast-zur-bundestagswahl/">
+<strong>Podcast zur Bundestagswahl</strong> </a>
+</li></ul></div></li></ul></li></ul>
+</div><!-- END NAVIGATION -->
+<!-- cachetime[inc_navi] 1605114137-11.11.2020 18:02:17//-->
+<div class="mauerfall-button">
+<span class="title">30 Jahre Deutsche Einheit</span>
+<a class="button" href="/geschichte/deutsche-einheit/30-jahre-deutsche-einheit/">
+                Mehr erfahren
+            </a>
+</div>
+<div id="breadcrumble">
+<div id="printurl" style="display:none">
+<img alt="Bundeszentrale für politische Bildung Logo" height="35" src="/sites/all/themes/bpb/images/bpb_logo.svg" title="Bundeszentrale für politische Bildung Logo" width="90"/>
+                        URL: http://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung</div>
+<span id="printpfad" style="display:none">Pfad: </span> <a href="/politik/">Politik</a> /
+                                                                        <a href="/politik/innenpolitik/">Innenpolitik</a> /
+                                                                        <a href="/politik/innenpolitik/arbeitsmarktpolitik/">Arbeitsmarktpolitik</a> /
+                                                                        <a href="/politik/innenpolitik/arbeitsmarktpolitik/187847/berufliche-bildung">Berufliche Bildung</a> /
+                                    <span class="active_site">(Fach-)Hochschulausbildung</span> </div>
+<div id="article_teaser">
+<img alt="Arbeitsmarktpolitik Dossierbild" height="80" src="/cache/images/0/55990-dk-.jpg?1C261" title="Arbeitsmarktpolitik Dossierbild (© AP)" width="980"/>
+<div class="article_teaser_content">
+<a class="article_teaser_head red_bg" href="/politik/innenpolitik/arbeitsmarktpolitik/">Dossier</a> <div class="article_teaser_text">
+<h1 class="white">Arbeitsmarktpolitik</h1>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="content_left">
+<!--<div class="region region-content">//-->
+<!--<div id="block-system-main" class="block block-system first last odd">//-->
+<!--<div class="content">//-->
+<div style="clear:both"></div><div style="clear:both"></div>
+<a name="pagetitel"></a>
+﻿            <div class="toolbar-content">
+<a href="javascript:print()">
+<div class="slide-btn">
+<img alt="" src="/sites/all/themes/bpb/images/drucken.svg"/>
+<div class="slide-btn-textwrapper">
+<span style="width: 64px;">Drucken</span>
+</div>
+</div>
+</a>
+<!--<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung" target="_blank">
+                    <div class="slide-btn">
+                        <img src="/sites/all/themes/bpb/images/facebook_icon.svg" alt="">
+                        <div class="slide-btn-textwrapper">
+                            <span style="width: 51px;">Teilen</span>
+                        </div>
+                    </div>
+                </a>
+                <a href="http://twitter.com/intent/tweet?text=(Fach-)Hochschulausbildung&url=https://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung&via=bpb_de" target="_blank">
+                    <div class="slide-btn">
+                        <img src="/sites/all/themes/bpb/images/twitter_icon.svg" alt="">
+                        <div class="slide-btn-textwrapper">
+                            <span style="width: 51px;">Tweet</span>
+                        </div>
+                    </div>
+                </a>-->
+<!-- SHARIFF ,&quot;whatsapp&quot; -->
+<div class="shariff" data-backend-url="https://shariff.bpb.de" data-services='["facebook","twitter"]' data-twitter-via="bpb_de"></div>
+</div>
+<div class="clr"></div>
+<article>
+<div class="authors">
+<div class="pub_date">11.8.2014 | Von:</div><a href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?p=0#bio0" onclick="toggleBioLayer('biolayer0');return false;"><div class="author"><span>Kathrin Schultheis</span><svg style="" viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg></div></a> <div class="biobox-javascript" id="biolayer0" style="display:none;">
+<div class="author_description">
+<h3>Kathrin Schultheis </h3>
+<p>Zur Person</p>
+<p>Kathrin Schultheis ist Sozialwissenschaftlerin und war von 2012 bis 2015 am Institut für Bildungs- und Sozialpolitik (IBUS) der Hochschule Koblenz beschäftigt. Seit August 2015 ist sie als Projektleiterin für das ESF-Bundesprogramm "Bildung, Wirtschaft, Arbeit im Quartier" am Bundesinstitut für Bau-, Stadt- und Raumforschung tätig.</p>
+</div>
+</div><a href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?p=0#bio1" onclick="toggleBioLayer('biolayer1');return false;"><div class="author"><span>Stefan Sell</span><svg style="" viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg></div></a> <div class="biobox-javascript" id="biolayer1" style="display:none;">
+<div class="author_description">
+<h3>Stefan Sell</h3>
+<p>Zur Person</p>
+<p>Stefan Sell ist Direktor des Institut für Sozialpolitik und Arbeitsmarktforschung (ISAM) an der Hochschule Koblenz und dort Professor für Volkswirtschaftslehre, Sozialpolitik und Sozialwissenschaften im Fachbereich Wirtschafts- und Sozialwissenschaften. Zuvor war er Referent für Grundsatzfragen der Arbeitsmarktpolitik und Arbeitsvermittlung im Landesarbeitsamt Baden-Württemberg in Stuttgart und Referent für Arbeitsmarktpolitik im Bundeskanzleramt in Bonn. Er ist Herausgeber des sozialpolitische Informationsportals "Aktuelle Sozialpolitik": <a class="a-text-extern" href="http://www.aktuelle-sozialpolitik.de" target="_blank">www.aktuelle-sozialpolitik.de</a></p>
+</div>
+</div>
+</div>
+<section>
+<h1>(Fach-)Hochschulausbildung</h1>
+<b>Das Studium an (Fach-)Hochschulen hat in Deutschland an Beliebtheit gewonnen. Die steigende Anzahl der Studienanfänger/-innen kann mitunter auf Schulreformen zurückgeführt werden, die durch die Verkürzung der Schulzeit doppelte Abiturjahrgänge verursacht haben. Es gibt also Schuljahre, in denen zwei Abiturjahrgänge die Schule verlassen. Dies stellt auch die (Fach-)Hochschulen vor eine besondere Herausforderung. </b><br/><br/><div class="article_image_full" style="margin-top:10px;position:relative;"><a class="fancybox" href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?type=galerie&amp;show=image&amp;i=219454" id="fancybox-0"><img alt="Studentinnen und Studenten verfolgen im Anatomie-Hörsaal der Medizinischen Fakultät an der Martin-Luther-Universität Halle-Wittenberg eine Vorlesung zu Gelenken und Muskeln." height="413" src="/cache/images/4/219454-3x2-article620.jpg?1C17D" style="border:0px" title="Studentinnen und Studenten verfolgen im Anatomie-Hörsaal der Medizinischen Fakultät an der Martin-Luther-Universität Halle-Wittenberg eine Vorlesung zu Gelenken und Muskeln (© picture-alliance, ZB)" width="620"/></a><span style="width:614px;">Studentinnen und Studenten verfolgen im Anatomie-Hörsaal der Medizinischen Fakultät an der Martin-Luther-Universität Halle-Wittenberg eine Vorlesung zu Gelenken und Muskeln. (&amp;copy picture-alliance, ZB)</span></div><br style="clear:both"/><br/><h2>Das (Fach-)Hochschulstudium</h2>Neben der dualen Berufsausbildung und der Ausbildung im Schulberufssystem ist die (Fach)Hochschulausbildung eine weitere Möglichkeit, um in Anschluss an die Schulzeit einen berufsqualifizierenden Abschluss zu erwerben. Rund eine halbe Million Erstsemester haben sich 2013 an deutschen (Fach-)Hochschulen eingeschrieben. Insgesamt waren im Wintersemester 2012/2013 rund 2,5 Millionen Studenten immatrikuliert. Sie studieren derzeit an 428 (Fach-)Hochschulen. 
+<figure class="tabelle"><figcaption><thead><h2 class="red h2inline">Studienanfänger nach Hochschulart</h2><table>
+<tr><th rowspan="2" scope="col">Hochschulart</th><th colspan="4" scope="col">Studienjahr<sup>1</sup></th></tr>
+<tr><th class="sub" scope="col">2010/2011</th><th class="sub" scope="col">2011/2012</th><th class="sub" scope="col">2012/2013</th><th class="sub" scope="col">2013/2014<sup>2</sup></th></tr><tbody>
+<tr><th scope="row">Universitäten</th><td>	261.568	</td><td>308.360	</td><td>283.869	</td><td>289.456</td></tr>
+<tr><th scope="row">Pädagogische Hochschulen	</th><td>4.902	</td><td>4.841	</td><td>4.572	</td><td>4.407</td></tr>
+<tr><th scope="row">Theologische Hochschulen	</th><td>355	</td><td>427	</td><td>358	</td><td>358</td></tr>
+<tr><th scope="row">Kunsthochschulen	</th><td>5.805	</td><td>5.948</td><td>	6.184	</td><td>6.071</td></tr>
+<tr><th scope="row">Fachhochschulen	</th><td>162.067	</td><td>188.814	</td><td>190.209	</td><td>195.773</td></tr>
+<tr><th scope="row">Verwaltungsfachhochschulen	</th><td>9.902	</td><td>10.358	</td><td>9.896	</td><td>10.567</td></tr>
+<tr><th scope="row">Insgesamt	</th><td>444.608	</td><td>518.748	</td><td>495.088	</td><td>506.632</td></tr> </tbody></table>
+<p><sup>1</sup>Studienanfänger/-innen im Sommer- und nachfolgenden Wintersemester<br/>
+<sup>2</sup>Vorläufige Ergebnisse <br/>Quelle: Statistisches Bundesamt</p>
+<figure class="tabelle"><figcaption><thead><h2 class="red h2inline">Deutsche Hochschullandschaft</h2><table>
+<tr><th scope="col">Bereich</th><th scope="col">2010/2011</th><th scope="col">	2011/2012	</th><th scope="col">2012/2013</th></tr><tbody>
+<tr><th scope="row">Hochschulen insgesamt	</th><td>415	</td><td>421	</td><td>428</td></tr>
+<tr><th scope="row">Universitäten	</th><td>106	</td><td>108	</td><td>108</td></tr>
+<tr><th scope="row">Pädagogische Hochschulen	</th><td>6	</td><td>6	</td><td>6</td></tr>
+<tr><th scope="row">Theologische Hochschulen</th><td>	16	</td><td>16	</td><td>17</td></tr>
+<tr><th scope="row">Kunsthochschulen	</th><td>51	</td><td>51	</td><td>52</td></tr>
+<tr><th scope="row">Fachhochschulen	</th><td>207	</td><td>201	</td><td>216</td></tr>
+<tr><th scope="row">Verwaltungsfachhochschulen	</th><td>29	</td><td>29	</td><td>29</td></tr></tbody></table>
+<p>Quelle: Statistisches Bundesamt</p>
+<div class="article_image_right" style="margin-top:6px;position:relative;"><a class="fancybox" href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?type=galerie&amp;show=image&amp;i=219518" id="fancybox-1"><img alt="Verteilung der Studierenden auf Studienfächer im WS 2012/2013" class="thumbnail-border-article" height="178" src="/cache/images/8/219518-st-article220.jpg?9443F" title="Verteilung der Studierenden auf Studienfächer im WS 2012/2013 (© bpb)" width="220"/></a><span style="width:218px;">Verteilung der Studierenden auf Studienfächer im WS 2012/2013 (<a class="a-text-intern" href="/system/files/dokument_pdf/6_08_verteilung_studienfaecher.pdf"><img alt="PDF-Icon" height="17" src="/sites/all/themes/bpb/images/icon_pdf_imtext.png" style="border:0px" width="12"/> Grafik als Download 85 KB</a>) (&amp;copy bpb)</span></div>Im Wintersemester 2012/2103 waren insgesamt rund 2,5 Millionen Studierende an den deutschen (Fach-)Hochschulen eingeschrieben, rund ein Drittel von ihnen in einem Studiengang der Rechts- Wirtschafts- und Sozialwissenschaften. Jeweils etwa ein Fünftel entschied sich für ein Studium der Ingenieurwissenschaften, Sprach- und Kulturwissenschaften oder Mathematik- und Naturwissenschaften.
+<br/><br/>Neben dem Studium an einer Universität, für das sich jährlich mehr als die Hälfte der Studienanfänger/-innen entscheidet, kann ein Studium auch an einer Fachhochschule absolviert werden. Während die Universitäten traditionell forschungsorientiert und auf die theoretische Ausbildung ihrer Studierenden abzielten, waren es die Fachhochschulen, die eine praxisbezogene Ausbildung anbieten wollten. Diese Unterscheidung trifft aber in zunehmendem Maße nicht mehr zu. 
+<br/><br/>Auch das universitäre Studium stellt umfangreiche Praxisbezüge her, während auch an Fachhochschulen geforscht wird. Mit der Einführung des Bachelor- und Mastersystems ist auch der Wechsel zwischen Universität und Fachhochschule vereinfacht worden. Grundsätzlich sind die Abschlüsse beider Bildungseinrichtungen gleichwertig zu behandeln, die Zugangsvoraussetzungen können jedoch von den (Fach-)Hochschulen selbst festgelegt werden, sodass sich ein Wechsel in der Praxis noch immer schwierig gestalten kann. Fachhochschulen verfügen bisher jedoch über kein eigenen Promotions- und Habilitationsrecht. Dieses Vorrecht der Universitäten wird regelmäßig kritisiert. Das Bundesland Schleswig-Holstein plant derzeit ihren Fachhochschulen das Promotionsrecht zu verleihen. Dort ist man der Ansicht, dass an Fachhochschulen inzwischen ebenso viel Forschung betrieben wird wie an Universitäten. <br/><section><div class="bpbsourcecode ">
+<div class="redline"></div>
+<h4 class="red">”</h4>
+<div class="bpbsourcecode_text">
+<span class="bpbsourcecode_type">Exkurs</span>
+<h2>Duales Studium</h2>
+<div class="p">
+Während Studierende regulärer Studiengänge an (Fach-)Hochschulen nicht an Betriebe gebunden sind, sind Studierende dualer Studiengänge vertraglich an Ausbildungsbetriebe gebunden. Das duale Studium ähnelt in seiner Struktur der dualen Berufsausbildung. Die Studierenden werden an zwei Lernorten, der (Fach-)Hochschule und dem Ausbildungsbetrieb ausgebildet. Neben dem Studienabschluss erwerben sie im ausbildungsintegrierenden Studienmodell durch die praktische Ausbildung einen Berufsabschluss.                         <div class="bpbsourcecode-more" id="bpbsourcecode-more-219355">
+<br/>Das ausbildungsintegrierende Studienmodell verläuft in der Regel nach drei unterschiedlichen Organisationsstrukturen. Das integrierte Modell ähnelt dem dualen Berufsausbildungssystem. Die Lernorte Hochschule und Betrieb werden an unterschiedlichen Tagen der Woche im Wechsel aufgesucht. Das Blockmodell kann ebenfalls sowohl in der dualen Berufsausbildung als auch im dualen Studium identifiziert werden: Längere Praxisphasen und längere theoretische Ausbildungsphasen ("Blöcke") wechseln sich ab. In beiden Modellen werden die vorlesungsfreien Zeiten analog zu den Ferienzeiten der dualen Auszubildenden für längere Praxisphasen im Ausbildungsbetrieb genutzt. Als drittes Organisationsmodell ist das teilseparierte Modell zu nennen. Wird das duale Studium nach diesem Modell durchgeführt, so werden die theoretischen und praktischen Ausbildungsinhalte getrennt voneinander in sehr langen Phasen vermittelt. So kann zum Beispiel das erste Ausbildungsjahr ausschließlich am Lernort Hochschule theoretische Kenntnisse vermitteln und das zweite Ausbildungsjahr am Lernort Betrieb die praktische Ausbildung beinhalten. Die Studierenden in ausbildungsintegrierenden dualen Studiengängen sind während der vorlesungsfreien Zeit (Semesterferien) in den Betrieben praktisch tätig, sodass sie einerseits die gesamte Studienzeit intensiv zu theoretischen und praktischen Ausbildungszwecken nutzen, andererseits die Inhalte der integrierten Berufsausbildungsbildung in einem stark verkürzten Zeitraum erlernen müssen.<br/><br/>In einem praxisintegrierenden Studiengang wird die theoretische Ausbildung an den (Fach-)Hochschulen durch längere Praxisphasen in den Unternehmen (beispielsweise in der Vorlesungsfreien Zeit) ergänzt. Die Studierenden erhalten so eine Betriebsanbindung. Die dualen Studierenden erhalten durch ihren Ausbildungsbetrieb eine Ausbildungsvergütung, die auch während der Theoriephasen geleistet wird. Aufgrund der hohen Investitionskosten der Ausbildungsbetriebe verpflichten diese ihre Studierenden häufig, im Anschluss an den Studienabschluss für eine vertraglich festgelegte Mindestdauer beim Ausbildungsbetrieb tätig zu sein. Alternativ sind die Ausbildungskosten (anteilig) zu erstatten. (Fach-)Hochschulen öffnen sich zunehmend für Kooperationen mit Betrieben. Die Datenbank <a class="a-text-extern" href="http://www.ausbildungplus.de/html/index.php" target="_blank">AusbildungPlus</a> des BIBB verzeichnet 2012 537 duale Studiengänge an Fachhochschulen, 206 an sonstigen Hochschulen, 137 an Berufsakademien und 30 Studiengänge an Universitäten. An Universitäten werden Studierende dualer Studiengänge häufig in die regulären Bachelor-Studiengänge integriert, was die niedrige Zahl der dualen Studienangebote an Universitäten relativiert. Wie eine Studie des IAQ von Krone und Mill (2012) zeigt, wird das duale Studium vorrangig von männlichen jungen Erwachsenen nachgefragt, deren Eltern über keine akademische Ausbildung verfügen. Dennoch handelt sich dabei keineswegs um eine Zielgruppe, die ohne das Angebot dualer Studiengänge an den Hochschulen absent bliebe, sondern um Abiturienten, die alternativ ein Studium in Regelform begonnen hätten. Die Nachfrage nach dualen Studiengängen ist in der Vergangenheit dennoch rapide angestiegen. 
+<br/><br/>Sirikit Krone, Wissenschaftlerin am Institut für Arbeit und Qualifikation (IAQ), fand in einer Studie her-aus, dass der überwiegende Anteil (rund 60 %) der dualen Studiengänge im naturwissenschaftlichen Bereich liegt und stellte fest, dass das Angebotsspektrum sich zunehmend erweitert und vermehrt Studiengänge in den Bereichen Gesundheitswesen und Pädagogik angeboten werden. Die Betriebe erhoffen sich durch die Investition in duale Studiengänge eine frühzeitige Fachkräfteanbindung. Zu-dem können gerade hochspezialisierte Unternehmen die Kenntnisse ihrer zukünftigen Fachkräfte bereits frühzeitig beeinflussen.                        </div>
+</div>
+<br/>
+<p align="right" class="bpbsourcecode-more-link" id="bpbsourcecode-more-link-219355" style="display: none;">
+<svg style="" viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+<a class="arrow-down" href="#">Aufklappen</a>
+</p>
+<p align="right" class="bpbsourcecode-close-link" id="bpbsourcecode-close-link-219355" style="display: none;">
+<svg style="" viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+<a class="arrow-down" href="#">Zuklappen</a>
+</p>
+<script type="text/javascript">
+                        $(document).ready(function () {
+                            $('#bpbsourcecode-more-219355').hide();
+                            $('#bpbsourcecode-more-link-219355').show();
+                            $('#bpbsourcecode-more-link-219355').click(function () {
+                                $('#bpbsourcecode-more-219355').show();
+                                $('#bpbsourcecode-more-link-219355').hide();
+                                $('#bpbsourcecode-close-link-219355').show();
+                                return false;
+                            });
+                            $('#bpbsourcecode-close-link-219355').click(function () {
+                                $('#bpbsourcecode-more-219355').hide();
+                                $('#bpbsourcecode-close-link-219355').hide();
+                                $('#bpbsourcecode-more-link-219355').show();
+                                return false;
+                            });
+                        });
+                    </script>
+</div>
+</div>
+</section><section><br/>
+1999 beschlossen 29 europäische Staaten im Rahmen einer gemeinsamen Erklärung ihrer Bildungsminister, einen europäischen Hochschulraum schaffen zu wollen. Diese Erklärung stellt, gemeinsam mit der Sorbonne-Erklärung aus dem Jahr 1998 und der Magna Charta Universitatum aus dem Jahr 1988, den Start des sogenannten Bologna-Prozesses dar, der die europäische Hochschullandschaft in den darauffolgenden Jahren entscheidend veränderte. Ziel war es vor allem, eine internationale Vergleichbarkeit der Hochschulabschlüsse zu erreichen. Dies sollte durch die Einführung von Diploma Supplements (Diplomzusätze) der Vereinheitlichung der Studienabschlüsse durch Bachelor- und Masterstudiengänge, der Einführung eines Leistungspunktesystems für Studierende, der Förderung der Mobilität von Studierenden und der europäischen Zusammenarbeit der Universitäten erreicht werden.
+<br/><br/>Sukzessive stellten (Fach-)Hochschulen auch in Deutschland die Studiengänge, die bis dahin mit einem Diplom- oder Magisterabschluss endeten auf ein zweigeteiltes Studiensystem um, das nach (überwiegend) dreijähriger Studienzeit zu einem ersten qualifizierten Studienabschluss (Bachelor) und nach weiterer (meist) zweijähriger Studienzeit zu einem höherwertigen Abschluss (Master) führt. Der Masterstudiengang bietet dabei eine Vertiefung der im Bachelorstudium erworbenen Kenntnisse (kon-sekutiver Masterstudiengang), kann aber auch einen anderen Bereich umfassen (nicht-konsekutiver Masterstudiengang). Das für einen Studiengang empfohlene Arbeitsvolumen wurde angelehnt an eine Vollzeiterwerbstätigkeit mit 30 Creditpoints (CP) pro Semester von der deutschen Hochschulrektorenkonferenz festgelegt, wobei ein CP 30 Stunden Arbeit entspricht. Pro Semester wird der Erwerb von ca. 30 CP vorausgesetzt, sodass ein Bachelorstudiengang zumeist mit 180 CP abgeschlossen werden kann und ein Masterstudiengang mit 120 CP. Dies entspricht lediglich einer Faustregel, Abweichungen von dieser Regelung sind nicht unüblich und in einigen Studienfächern weit verbreitet.
+<br/><br/><h2>Rechtliche Rahmenbedingungen</h2>Die allgemeine Hochschulreife stellt den Grundstein der Zulassung zu einem Universitätsstudium dar. Darüber hinaus können Universitäten individuelle Zulassungsbeschränkungen erlassen, die regeln, welche Bewerber/-innen in einen Studiengang aufgenommen werden. Für die Aufnahmen an Fachhochschulen benötigen die Bewerber/-innen eine Fachhochschulreife, fachgebundene Hochschulreife oder die allgemeine Hochschulreife. Ebenso wie Universitäten legen Fachhochschulen individuelle Zulassungsvoraussetzungen fest. Neben den beschriebenen klassischen Zugangsqualifikationen kann eine (Fach-)Hochschulzugangsberechtigung durch weitere Qualifikationen erteilt werden, die teilweise zwischen den einzelnen Bundesländern divergieren. Auszugsweise werden im Folgenden Hochschulzugangsberechtigungen des Landes Rheinland-Pfalz dargestellt:
+<ul class="contentlist">
+<li class="contentelement">Allgemeine Hochschulreife (Abitur)</li><li class="contentelement">Fachhochschulreife</li><li class="contentelement">Fachgebundene Hochschulreife</li><li class="contentelement">Hochschulzugangsberechtigung für beruflich Qualifizierte</li><li class="contentelement">Frühstudium – Hochschulzugang vor dem Abitur</li><li class="contentelement">Hochschulzugangsberechtigungen anderer Bundesländer (Anerkennung nach KMK-Abkommen)</li><li class="contentelement">Hochschulzugangsberechtigungen, die im Ausland erworben wurden (Anerkennung nach Prüfung der Gleichwertigkeit)</li></ul>
+2009 beschloss die Kultusministerkonferenz, dass beruflich Qualifizierten der Einstieg in die (Fach-)Hochschulen erleichtert werden soll. Absolventen einer beruflichen Aufstiegsfortbildung sollen demnach eine allgemeine Hochschulzugangsberechtigung erhalten und Personen, die nach abgeschlossener Berufsausbildung mindestens drei Jahre in einem der Berufsausbildung entsprechendem Beruf gearbeitet haben, sollen nach erfolgreichem Durchlaufen eines Einstellungstestverfahrens die fachgebundene Hochschulzugangsberechtigung erhalten. Mit Ausnahme Brandenburgs haben derzeitig alle Bundesländer den Beschluss, mit Regelungen unterschiedlicher Reichweite und Einschränkungen, umgesetzt. Über diesen sogenannten dritten Bildungsweg gelangen noch immer sehr wenige, aber eine zunehmende Anzahl Studierender an die (Fach-)Hochschulen.
+<br/><br/>Forschung und Lehre der (Fach-)Hochschulen unterliegen den jeweiligen Landesgesetzen. In ihnen werden die Rahmenbedingungen für Studium (Ziel, Dauer, Studienpläne etc.) Hochschulgrade (Abschlüsse), Forschung, Personal und Verwaltung festgelegt. Auf Bundesebene wurde ein für die (Fach-)Hochschulen aller Bundesländer verbindliches Hochschulrahmengesetz erlassen. In ihm sind die grundlegenden Aufgaben der (Fach-)Hochschulen (§ 2 ff.), die Freiheit von Kunst, Wissenschaft, Forschung, Studium und Lehre (§ 4), Grundsätzliches zu Studium und Forschung (§ 7 ff.), Personalwesen der Bildungseinrichtung (§ 42 ff.) sowie ihre Rechtsstellung (§58 f.) und staatiche Anerkennung (§ 70 f.) geregelt. Für jeden Studiengang legt die (Fach-)Hochschule eine Studienordnung sowie eine Prüfungsordnung fest. In ihnen sind konkrete studiengangsbezogene Regelungen hinsichtlich der Studieninhalte, Regelstudienzeiten, Studienverlaufspläne und Studiengangsziele zu erbringenden Leistungen und prüfungsrechtliche Formalia enthalten. Sie werden von an der Hochschule gebildeten Ausschüssen oder Räten beschlossen.
+<br/><br/><div class="article_image_left" style="margin-top:6px;position:relative;"><a class="fancybox" href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?type=galerie&amp;show=image&amp;i=219520" id="fancybox-2"><img alt="Anzahl der Studierenden, die BAföG beziehen (1998-2012)" class="thumbnail-border-article" height="135" src="/cache/images/0/219520-st-article220.jpg?C834E" title="Anzahl der Studierenden, die BAföG beziehen (1998-2012) (© bpb)" width="220"/></a><span style="width:218px;">Anzahl der Studierenden, die BAföG beziehen 1998-2012 (<a class="a-text-intern" href="/system/files/dokument_pdf/6_09_anzahl_BAfoeG.pdf"><img alt="PDF-Icon" height="17" src="/sites/all/themes/bpb/images/icon_pdf_imtext.png" style="border:0px" width="12"/> Grafik zum Download 45 KB</a>) (&amp;copy bpb)</span></div>Die finanzielle Förderung von Studierenden, die ihren Lebensunterhalt nicht aus eigenen Mitteln oder durch Unterhaltsleistungen der Eltern sichern können, ist bundeseinheitlich im Bundesausbildungsförderungsgesetz (BAföG) geregelt. Nach dem BAföG können Studierende Leistungen zum Lebensunterhalt und den Mietkosten sowie einen Zuschuss zu den Kosten für die Kranken- und Pflegeversicherung erhalten. Grundsätzlich werden Leistungen für Studierende nach dem BAföG jeweils hälftig als Zuschuss und als Darlehen gewährt. Das Darlehen wird zinsfrei gewährt und muss nach einer Karenzzeit zurückgezahlt werden. Die Anzahl der Studierenden, die Leistungen nach dem BAföG erhalten, ist in den letzten Jahren stetig gestiegen. Im Jahr 1998 bezogen noch 336.355 Studierende BAföG, 2012 bereits beinahe doppelt so viele (671.042). Teilweise ist der Anstieg auf eine steigende Anzahl von Studierenden in Deutschland zurückzuführen. Durchschnittlich erhielten Studierende 2012 in Deutschland 448 Euro BAföG.
+<br/><br/><h2>Kosten des (Fach-)Hochschulstudiums</h2>Traditionell war das Studium und insbesondere das Erststudium an öffentlichen deutschen (Fach-)Hochschulen für Studierende weitgehend kostenfrei, um allen Studieninteressierten unabhängig von ihrem Einkommen oder dem Einkommen der Eltern ein Studium zu ermöglichen. Lediglich ein Semesterbeitrag wurde halbjährlich von den Studierenden an die Hochschulen entrichtet. Der Semesterbeitrag enthält gewöhnlich den Sozialbeitrag, eine Abgabe für das jeweilige Studentenwerk und die Studierendenschaft (den Allgemeinen Studierendenausschuss der Hochschule), eine Verwaltungsgebühr und Kosten für ein Fahrticket des öffentlichen Nahverkehrs, soweit die Hochschule dieses für ihre Studierenden anbietet. Die Höhe des Semesterbeitrags variiert. Grundsätzlich ist er von allen Studierenden zu entrichten, zumeist haben Hochschulen jedoch eine Härtefallregelung bestimmt, wonach eine Erstattung oder ein Erlass des Semesterbeitrags gewährt werden kann. Dies kann zum Beispiel bei besonderen finanziellen Notlagen der Fall sein. Ob die Härtefallregelung greift, kann jeweils nur individuell durch die zuständigen Ansprechpartner/-innen vor Ort geklärt werden.
+<br/><br/>Begründet lag die Unentgeltlichkeit des Studiums nicht in einer gesetzlichen Grundlage, sondern in einem gemeinsamen Beschluss der Bundesländer vom 16. April 1970. Sie einigten sich darauf, ab dem Wintersemester 1970/71 an allen Hochschulen auf die Erhebung von Studiengebühren zu verzichten. In der Praxis wurde nur eine geringe Anzahl Studierender mit Studiengebühren belastet, so etwa Langzeitstudierende. Dieser Verzicht wurde jedoch bis zum Jahr 2002 nicht gesetzlich verankert. Mit dem sechsten Gesetz zur Änderung des Hochschulrahmengesetzes (HRG) vom 8. August 2002 wurde in das HRG ein Passus aufgenommen, der den Bundesländern die Erhebung von Studiengebühren unmöglich machte: Es wurde der Grundsatz der Gebührenfreiheit für das Erststudium und eine konsekutiven weiteren berufsqualifizierenden Studienabschlusses (Bachelor- und Masterstudiengang) aufgenommen. 
+<br/><br/>Im gleichen Jahr stellten die von der CDU/CSU regierten Bundesländer Baden-Württemberg, Bayern, Hamburg, Saarland, Sachsen und Sachsen-Anhalt einen Normkontrollantrag für diesen Passus des Hochschulrahmengesetzes beim Bundesverfassungsgericht. Sie sahen in dieser Regelung eine unzulässige Einschränkung ihrer Gesetzgebungskompetenz, zudem waren sie der Auffassung, dass das Gesetz mit dem Grundgesetz unvereinbar sei: Die Gesetzgebungskompetenz des Bundes und die erforderliche Zustimmung des Bundesrates fehlten. In Stellungnahmen äußerten die Bundesregierung, der freie Zusammenschluss von Student/-innenschaften und das Deutsche Studentenwerk, dass sie das Gesetze für verfassungsgemäß erachteten, der Bundesrat bezweifelte die Verfassungskonformität. Die Hochschulrektorenkonferenz lehnte den gesetzmäßigen Ausschluss der Studiengebühren in ihrer Stellungnahme ab. Das Bundesverfassungsgesetz kam zu dem Urteil, dass das sechste Gesetz zur Änderung des Hochschulrahmengesetzes nicht verfassungskonform sei.
+<br/><br/>Nach Bekanntgabe des Urteils durch das Bundesverfassungsgericht beschlossen nahezu alle deutschen Bundesländer die Einführung von Studiengebühren für das Erststudium und setzen dieses auch zeitnah um. Mecklenburg-Vorpommern und Schleswig-Holstein beschlossen als einzige Bundesländer, keine Studiengebühren einführen zu wollen. Sachsen und Sachsen-Anhalt führten Studiengebühren nicht für Studierende im Erststudium ein, erheben diese aber für Langzeitstudierende. Die Höhe wurde nicht zentral vorgegeben. Die Kultusminister der CDU entschlossen sich jedoch zur Einführung einer Höchstgrenze von 500 € je Studiensemester. Die Kultusminister der SPD schlossen sich dieser Vereinbarung 2005 nicht an, da sie die Einführung von Studiengebühren ablehnten. Nach und nach wurden im Laufe der Zeit die Studiengebühren in allen Bundesländern, die sie eingeführt hatten, für das Erststudium wieder abgeschafft. Hessen schaffte sie bereits ein Jahr nach ihrer Einführung wieder ab. Eine Ausnahme bildet bisher Niedersachsen, die die Studiengebühren jedoch mit Beginn des Wintersemesters 2014/2015 abschaffen. Ein Langzeitstudium, also die deutliche Überschreitung der Regelstudienzeit oder ein Zweitstudium, ist in vielen Bundesländern weiterhin mit Gebühren belegt.
+<br/><br/>Studiengebühren wurden wissenschaftlich kontrovers diskutiert. Forscher/-innen des Wissenschaftszentrum Berlin für Sozialforschung kamen in einer Studie 2011 zu dem Ergebnis, dass die Erhebung von Studiengebühren keinen negativen Einfluss auf die Studienbereitschaft hat. Die Studiengebühren würden sich sogar positiv auf die Ertragserwartungen der Studierenden nach einem erfolgreichen Studienabschluss auswirken. Zu einem gegenteiligen Ergebnis kam das Forscherteam des Instituts für Hochschulentwicklung (HIS). Es stellte 2008 fest, dass in den Bundesländern, in denen zu diesem Zeitpunkt bereits Studiengebühren eingeführt worden waren, eine „nennenswerte“ Personenzahl, insbesondere Frauen, auf die Aufnahme eines Studiums verzichtete. Zudem löste die Einführung von Studiengebühren  bei den Studierenden anderer Bundesländer, in denen (noch) keine Studiengebühren erhoben wurden, Unsicherheiten über eine geplante Studienaufnahme aus. Das Institut zur Zukunft der Arbeit befürwortet die Einführung einer Absolventensteuer anstelle von Studiengebühren. Die Absolventensteuer soll von Akademikern entrichtet werden, deren Einkommen oberhalb einer festzusetzenden Einkommensgrenze liegt. Die Steuer soll der Hochschule zugutekommen, an der der Betroffene studiert hat.  
+<br/><br/><h2>Übergang in die Berufstätigkeit</h2>Die Abbruchquoten von Studierenden in dualen Studiengängen sind niedrig. Eine Unternehmensbefragung des Centrums für Hochschulentwicklung (CHE) aus dem Jahr 2009 zeigt, dass 6,9 % der Ausbildungsverhältnisse im Rahmen der dualen Studiengänge vorzeitig beendet wird. Im Rahmen der gleichen Studie gaben 61 % der befragten Betriebe an, dass sie alle Absolventen der dualen Studiengänge in ihrem Unternehmen übernehmen würden. Insgesamt werden 89 % aller dualen Studierenden in ein Arbeitsverhältnis übernommen. Die Übergangsquote in die erste qualifizierte Berufstätigkeit ist also beachtlich. Neben den hohen Investitionen des Betriebs in das duale Studium, ist aber auch eine Bindungsklausel für die hohe Übernahmequote verantwortlich. In den Ausbildungsverträgen dualer Studierender ist häufig ein Passus enthalten, der sie nach erfolgreichem Ausbildungsabschluss dazu verpflichtet, für einen vertraglich festgelegten Zeitrahmen im Ausbildungsbetrieb tätig zu sein. Hierfür sind gesetzliche Bestimmungen festgelegt, die die Art der Beschäftigung nach Übernahme und die Rückzahlungsmodalitäten bei Verlassen des Betriebs auf Wunsch des ehemaligen dualen Studierenden einschränkend festlegen. 
+<br/><br/><div class="article_image_left" style="margin-top:6px;position:relative;"><a class="fancybox" href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?type=galerie&amp;show=image&amp;i=219522" id="fancybox-3"><img alt="Entwicklung der Studienabbruchquote nach Abschlussart" class="thumbnail-border-article" height="161" src="/cache/images/2/219522-st-article220.jpg?04DE7" title="Entwicklung der Studienabbruchquote nach Abschlussart (© bpb)" width="220"/></a><span style="width:218px;">Entwicklung der Studienabbruchquote nach Abschlussart (<a class="a-text-intern" href="/system/files/dokument_pdf/6_10_entwicklung_studienabbruchquote.pdf"><img alt="PDF-Icon" height="17" src="/sites/all/themes/bpb/images/icon_pdf_imtext.png" style="border:0px" width="12"/> Grafik zum Download 54 KB</a>) (&amp;copy bpb)</span></div>Die Studienabbruchquote von nicht dualen Studierenden ist demgegenüber deutlich höher. Forscher der Hochschul-Informations-System-GmbH (HIS) stellten in ihrer Studie zur Entwicklung der Studienabbruchquoten aus dem Jahr 2012 fest, dass die Abbruchhäufigkeit zwischen den Abschlussarten variiert. Ihre Ergebnisse basieren auf Absolventenbefragungen, zuletzt des Absolventenjahrgangs 2010. 
+<br/><br/>Die höchste Abbruchquote ist hochschulübergreifend bei den Bachelorstudierenden mit insgesamt 28 % festzustellen. Dabei liegt die Quote der Studienabbrecher an Fachhochschulen mit zuletzt 19 % deutlich über der von Studierenden an Universitäten (35 %). Dies ist jedoch zumindest teilweise darauf zurückzuführen, dass in der Studie Absolventenjahrgänge befragt wurden, die an den Universitäten in einer Einführungsphase der Bachelorstudiengänge eingeschrieben waren. Für die Fachhochschulen ließ sich kurz nach Implementierung der Bachelorstudiengänge eine gleichermaßen hohe Abbruchquote feststellen, die jedoch im Zeitverlauf abnahm. In den Diplom- und Magisterstudiengängen liegt sie mit 23 % deutlich darunter. Die Abbruchquote der Studierenden in Studiengängen, die mit dem Staatsexamen enden, steigt seit der Absolventenbefragung für das Jahr 2006 stetig an (von 7 % auf 11 %). Unter den Studienabbrechern von Studiengängen mit dem Ziel Staatsexamen ist vor allem die Zahl der Studierenden der Rechtswissenschaften hoch: Jeder Vierte (26 %) der Studienanfänger aus den Jahren 2004-2006 brachen ihr Studium vorzeitig ab.
+<br/><br/>Zwischen den Studienfächern zeigen sich deutliche Unterschiede in der Häufigkeit der Studienabbrüche. Nahezu jeder zweite Bachelorstudierende der Ingenieurswissenschaften (49 %) bricht sein Studium vorzeitig ab, unter den Studierenden aus den Fächern Rechts- Wirtschafts- und Sozialwissenschaften bricht nur rund jede/r Vierte ab (24 %), verlässt also die (Fach-)Hochschule ohne Abschluss. Aktuell werben die Handwerkskammern verstärkt um Studienabbrecher, um sie für eine duale Ausbildung in den Handwerksbetrieben zu gewinnen. Ziel ist es, das Potenzial von Nachwuchsfachkräften zu erhöhen.<br/>
+<div class="bpbsourcecode">
+<div class="redline"></div>
+<h4 class="infobox">i</h4>
+<div class="bpbsourcecode_text">
+<h2>Studie</h2>
+<div class="p">
+<a class="a-text-extern" href="http://www.zdh.de/fileadmin/user_upload/themen/Bildung/Fachkraeftesicherung/Auswertung_Studienaussteiger_Fachkraeftepotenzial_09-2013.pdf" target="_blank">Studie des Zentralverbands für das Deutsche Handwerk (ZDH) zur Integration von Studienaussteigern in das duale Berufsbildungssystem</a> </div>
+<div style="clear:both"></div>
+</div>
+</div>
+<br/><div class="article_image_left" style="margin-top:6px;position:relative;"><a class="fancybox" href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung?type=galerie&amp;show=image&amp;i=219524" id="fancybox-4"><img alt="Starke Zuwächse unter anderem bei naturwissenschaftlichen Berufen" class="thumbnail-border-article" height="164" src="/cache/images/4/219524-st-article220.jpg?DFC9D" title="Starke Zuwächse unter anderem bei naturwissenschaftlichen Berufen (© bpb)" width="220"/></a><span style="width:218px;">Starke Zuwächse unter anderem bei naturwissenschaftlichen Berufen (<a class="a-text-intern" href="/system/files/dokument_pdf/6_11_zuwachs_naturwissenschaftliche_Berufe.pdf"><img alt="PDF-Icon" height="17" src="/sites/all/themes/bpb/images/icon_pdf_imtext.png" style="border:0px" width="12"/> Grafik zum Download 59 KB</a>) (&amp;copy bpb)</span></div>Der Arbeitsmarkt für diejenigen, die ihr Studium erfolgreich abschließen, stellt sich gut dar. Die Arbeitslosenquote für Akademiker/-innen lag 2012 bei 2,4 %, wie die Bundesagentur für Arbeit veröffentlichte. Insgesamt sind immer mehr akademische Fachkräfte erwerbstätig. Die Zunahme bei ausgewählten Akademikergruppen zeigt die Abbildung zu den Zuwächsen von 2001 auf 2011. Auch die Dauer der Arbeitslosigkeit ist unter den Akademikerinnen und Akademikern vergleichsweise kürzer. Über die Hälfte von ihnen (53 %) finden innerhalb von drei Monaten ein neues Beschäftigungsverhältnis (Personen mit Berufsabschluss: 50 %, Personen ohne Berufsabschluss: 45 %). Ein Jahr und länger arbeitslos sind 12 % von ihnen (Personen mit Berufsabschluss: 16 %, Personen ohne Berufsabschluss: 21 %). 
+<br/><br/>Zur Einschätzung der Berufschancen ist nicht nur die Arbeitslosenquote eine relevante Größe, sondern auch die Frage nach der Adäquanz der beruflichen Tätigkeit. Es zeigt sich, dass der Großteil der Bachelor-Absolventen ausbildungsadäquat beschäftigt ist. Als volladäquat werden Tätigkeiten dann eingestuft, wenn sie dem fachlichen Hintergrund der Studienabsolventen entsprechen und für die Besetzung der Stelle ein Hochschulabschluss notwendig ist (vertikale Adäquanz). Als ausbildungsinadäquat werden Tätigkeiten eingestuft, die in keiner der beiden vorgenannten Dimensionen adäquat sind. Insgesamt sind die Absolventen von Fachhochschulen seltener inadäquat beschäftigt (19 %) als Absolventen von Universitäten (28 %). Am häufigsten sind Absolventen der Sprach- und Kulturwissenschaften inadäquat beschäftigt, am seltensten die Absolventen von Fachhochschulen des Sozialwesens (Bundeagentur für Arbeit 2013, statistische Daten der HIS).
+<br/><br/>Zwischen den Einkommen der Absolventen von Studiengängen an Universitäten und Fachhochschulen konnte das DIW 2012 in einer Studie keine Unterschiede feststellen, die alleine auf die Abschlussart zurückgeführt werden konnten. Lohnunterschiede sind vor allem zwischen den unterschiedlichen Fächern aufzufinden. Männliche Absolventen eines Studiengangs Sozialarbeit (Fachhochschul- und Universitätsabschluss) verdienen nach dieser Studie am wenigsten. Männliche Absolventen eines betriebswirtschaftlichen Fachhochschulstudiums können hingegen ein höheres Gehalt erwarten als weibliche Absolventinnen eines universitären Betriebswirtschaftsstudiums. Die Bundesagentur für Arbeit kommt, unter Bezugnahme auf Daten der HIS, zu einem anderen Ergebnis: Fachhochschulabsolventen verdienten demnach mehr als Absolventen von Universitäten. Die Bundesagentur für Arbeit führt dies darauf zurück, dass ein Großteil der Fachhochschulabsolventen bereits eine Berufsausbildung abgeschlossen habe und daher bei Studienabschluss über mehr Berufserfahrung verfügte.
+<br/><br/><h2>Kritik am deutschen Hochschulsystem</h2><b>Studiengebühren</b>
+<br/><br/>Die Unentgeltlichkeit des (Erst-)Studiums war bis zu seiner faktisch bundesweiten Abschaffung ein sehr kontrovers diskutiertes Themenfeld. Gegner/-innen der Studiengebühren kritisierten vor allem ihre soziale Unverträglichkeit. Als sozial nicht verträglich galten die Studiengebühren, da sie als Fixbetrag und ohne Berücksichtigung der Einkommens- und Vermögenssituation der Studierenden oder ihrer Eltern erhoben wurden. Ein möglicher Lösungsvorschlag lag in der Förderung von sozial Schwachen begabten Studierenden mittels Stipendien. Befürworter von Studiengebühren begründeten ihren Mehrwert insbesondere damit, dass die Studiengebühren den Hochschulen zuflossen und diese mit den zusätzlichen Einnahmen die Lehrsituation verbessern könnten. Durch die besser Ausstattung der Hochschulen sollte ein schnelleres Studieren unter verbesserten Rahmenbedingungen möglich sein. Gerade CDU und SPD positionierten sich sehr konträr zueinander.<br/></section><section><div class="bpbsourcecode ">
+<div class="redline"></div>
+<h4 class="red">”</h4>
+<div class="bpbsourcecode_text">
+<span class="bpbsourcecode_type">Positionen der Parteien</span>
+<h2>Einführung von Studiengebühren für ein Erststudium</h2>
+<div class="p">
+Positionen der Parteien zur Einführung von Studiengebühren für ein Erststudium im <a class="a-text-intern" href="/politik/wahlen/wahl-o-mat/">Wahl-O-Mat der Bundeszentrale für politische Bildung</a> zur These
+<br/><br/><h2>Das Erststudium soll gebührenfrei sein.</h2>
+<div class="bpbsourcecode-more" id="bpbsourcecode-more-219357">
+<br/>
+<br/>
+Nach dem Grundgesetz sind die Länder zuständig für die Hochschulpolitik. Das Bundesverfassungsgericht hat am 26. Januar 2005 entschieden, dass die Einführung eines Studienbeitrags künftig möglich ist. Der Weg ist frei für ein sozial gerechtes System der Studienfinanzierung, das niemanden aus finanziellen Gründen vom Studium abhält. Gleichzeitig ist ein zentrales Hindernis für eine gute Ausbildung an deutschen Hochschulen beseitigt.<br/>
+<i>(CDU – Wahl-O-Mat zur Bundestagswahl 2005)</i>
+<br/><br/>Die SPD hingegen wies auf den Versuch der gesetzlichen Verankerung der Gebührenfreiheit hin:
+<br/><br/>Dies haben wir sogar im Hochschulrahmengesetz festgelegt, allerdings hat das Bundesverfassungsgericht nach Klage durch einige unionsgeführte Länder festgestellt, dass dem Bund hier zurzeit die Kompetenz zur Regelung fehlt.<br/>
+<i>(SPD – Wahl-o-Mat zur Bundestagswahl 2005)</i>
+<br/><br/>Zur Bundestagswahl 2009 äußerte sich die CDU zu der gleichen These folgendermaßen:
+<br/><br/>Bildung darf keine Frage des Einkommens der Eltern sein. Wir haben das BAföG massiv erhöht, die Begabtenförderung ausgebaut und Studienkredite für mehr finanzielle Unabhängigkeit im Studium aufgelegt. Studieren ist attraktiver geworden. 2008 gab es ein Rekordniveau bei Studienanfängern und rund 30 000 Erstsemester mehr als 2005. Mit sozialverträglichen Studienbeiträgen sollen die Hochschulen ihre Lehrangebote gezielt verbessern und besondere Lehrprofile entwickeln. Das nutzt den Studenten.<br/>
+<i>(CDU – Wahl-O-Mat zur Bundestagswahl 2009)</i>
+<br/><br/>Die SPD erklärte 2009 hingegen klar ihre Ablehnung von Gebühren für das Erststudium:
+<br/><br/>Ein Studium darf nicht am Geld scheitern. Wir stehen zu einem gebührenfreien Erststudium bis einschließlich zum Master.<br/>
+<i>(SPD – Wahl-O-Mat zur Bundestagswahl 2009)</i> </div>
+</div>
+<br/>
+<p align="right" class="bpbsourcecode-more-link" id="bpbsourcecode-more-link-219357" style="display: none;">
+<svg style="" viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+<a class="arrow-down" href="#">Aufklappen</a>
+</p>
+<p align="right" class="bpbsourcecode-close-link" id="bpbsourcecode-close-link-219357" style="display: none;">
+<svg style="" viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+<a class="arrow-down" href="#">Zuklappen</a>
+</p>
+<script type="text/javascript">
+                        $(document).ready(function () {
+                            $('#bpbsourcecode-more-219357').hide();
+                            $('#bpbsourcecode-more-link-219357').show();
+                            $('#bpbsourcecode-more-link-219357').click(function () {
+                                $('#bpbsourcecode-more-219357').show();
+                                $('#bpbsourcecode-more-link-219357').hide();
+                                $('#bpbsourcecode-close-link-219357').show();
+                                return false;
+                            });
+                            $('#bpbsourcecode-close-link-219357').click(function () {
+                                $('#bpbsourcecode-more-219357').hide();
+                                $('#bpbsourcecode-close-link-219357').hide();
+                                $('#bpbsourcecode-more-link-219357').show();
+                                return false;
+                            });
+                        });
+                    </script>
+</div>
+</div>
+</section><section><br/>
+<b>Verdrängung der dualen Berufsausbildung durch den Bachelor</b>
+<br/><br/>Die drei bis vier Jahre dauernden Bachelorstudiengänge und insbesondere die dualen (ausbildungsintegrierenden) Studiengänge werden häufig als Konkurrenz zu dem etablierten System der dualen Berufsausbildung wahrgenommen. Nach dem Motto „Warum eine Berufsausbildung machen, wenn in der gleichen Zeit ein akademischer Abschluss erreicht werden kann?“ erscheint die Befürchtung der Schwächung der dualen Berufsausbildung zunächst zumindest nicht vollkommen abwegig. Ein Team von Wissenschaftlern des Instituts für Arbeit und Qualifikation (IAQ) untersuchte diese Hypothese für die ausbildungsintegrierenden dualen Studiengänge und kommt zu dem Schluss, dass eine Verdrängung der Facharbeiter mit Aufstiegsfortbildung durch Absolventen von dualen ausbildungsintegrierenden Studiengängen nicht belegt werden kann. Sie werden vielmehr parallel eingesetzt.
+<br/><br/>Das Forschungsteam entwickelt die Hypothese, dass Bachelor-Betriebswirte konkurrierend zu dual ausgebildeten Kaufleuten mit Aufstiegsfortbildung auftreten, insbesondere im Bankensektor. Sie begründen ihre Hypothese mit geringeren Differenzierungen der Ausbildungswege in diesem Bereich. Forscher des Instituts der deutschen Wirtschaft untersuchten, ob der Bachelor duale Aus- und Fortbildungsgänge verdrängt. Sie kamen zu dem Ergebnis, dass keine Verdrängung festgestellt werden konnte. Bachelor-Absolventen würden vorrangig als Akademiker eingestuft und somit den beruflich Qualifizierten vorgesetzt. In einer Analyse der Einkommenstrukturen zeigten sie, dass keine direkte Konkurrenzbeziehung identifiziert werden konnte, wenngleich im kaufmännischen Bereich große Ähnlichkeiten zwischen den Einkommenstrukturen von Bachelor-Absolventen und beruflich Qualifizierten zu beobachten seien. Unternehmen würden die Bachelor-Absolventen vielmehr als komplementäre Fachkräfte erachten.
+<br/><br/><b>Übergang von Bachelor- in Masterstudiengänge</b>
+<br/><br/>Die Bachelor- und Masterstudiengänge wurden in Europa nach der Unterzeichnung der "Bologna-Erklärung" eingeführt, wie die gemeinsame Erklärung der europäischen Bildungsminister über den europäischen Hochschulraum vom 19. Juni 1999 genannt wird. Die europäischen Bildungsminister erklärten darin u.a. die Erschaffung eines zweistufigen Hochschulsystems, das sich in einen ersten (undergraduate) und einen zweiten (graduate) Zyklus unterteilen sollte, wobei der erfolgreiche Abschluss eines mindestens dreijährigen Erststudiums bereits ein für den Arbeitsmarkt relevantes Qualifikationsniveau darstellen sollte. Erster und zweiter Zyklus - Bachelor und Master. Nach Ergebnissen der HIS-Absolventenbefragung des Jahrgangs 2009 nehmen 77 % der Bachelor-Absolventen von Universitäten und 53 % der Bachelor-Absolventen von Fachhochschulen innerhalb eines Jahres nach Studienabschluss ein Masterstudium auf. Dennoch wird regelmäßig die Einführung eines Rechtsanspruches auf einen Masterstudienplatz für Bachelor-Absolventen gefordert. Die Hochschulen legen die Zugangsvoraussetzungen für die Masterstudiengänge selbst fest und so können nicht alle Studierenden den gewünschten Masterstudiengang an das Bachelorstudium anschließen. Politisch wird diesbezüglich kein dringender Handlungsbedarf gesehen. 
+<br/><br/>Die ehemalige Bildungsministerin Annette Schavan (CDU) stellte noch 2011 in einem Interview klar: "Der Bachelor ist keine zweitklassige Ausbildung". Zudem forderte Schavan, ebenso wie die Bundesregierung, die Studierenden zu mehr Mobilität auf, das heißt zur Bereitschaft die Hochschule nach dem Abschluss des Bachelor-Studiums zu wechseln. Der Geschäftsführer des Centrums für Hochschulentwicklung, Prof. Dr. Frank Ziegele, prognostiziert einen deutlichen Mangel an Masterstudienplätzen, der kurzfristig nicht zu beheben sei: "Fakt ist, dass der Hochschulpakt 2020 kein geeignetes Instrumentarium enthält, um den erforderlichen Ausbau von Masterstudienplätzen zu stimulieren." Er bezieht sich auf Prognosen hinsichtlich der zu erwartenden Masterstudienplatz-Nachfrage, die Forscher/-innen seines Instituts anhand von Modellberechnungen und vor dem Hintergrund der hohen Anzahl von Studienanfänger/-innen treffen. 
+<br/><br/>Der Studie zufolge kann selbst bei einer vorsichtigen Schätzung die Nachfrage nach Masterstudienplätzen in den nächsten Jahren nicht befriedigt werden. Im Rahmen des Hochschulpakts 2020 verpflichteten sich die deutschen Hochschulen, die Plätze für Studienanfänger/-innen zu erhöhen, um der steigenden Nachfrage, die u.a. aus den doppelten Abiturjahrgängen resultiert, gerecht zu werden. Dies schließt jedoch keine Erhöhung der Masterstudienplätze ein. Diese werden von den Hochschulen überwiegend nach der Abschlussnote des Bachelorstudiums und dessen inhaltliche Nähe zum angestrebten Masterstudiengang vergeben. Die Verwertbarkeit der Bachelorabschlusses auf dem deutschen Arbeitsmarkt ist gegeben, aber das Ausmaß seiner Akzeptanz strittig. Im Rahmen der oben erwähnten Absolventinnen- und Absolventenbefragung des HIS schätzen (56 %) der Bachelorstudierenden ihre allgemeinen Berufsaussichten als gut ein, unter den Studierenden in Masterstudiengängen sind es etwas mehr (62 %) und unter den Studierenden des traditionellen "alten" Systems (Diplom- und Magisterstudiengänge) 60 %. Eine Studie des Stifterverbands der deutschen Wirtschaft stellt hingegen geringere Werte hinsichtlich der Zufriedenheit mit der Berufsvorbereitung der Bachelor-Studierenden fest (Universität: 20 %; Fachhochschule: 40 %). Die Akzeptanz bei den Unternehmen ist dieser Studie zufolge hoch: 84 % der befragten Unternehmen wollen zukünftig sowohl Absolventen von Bachelor- als auch von Masterstudiengängen einstellen.
+<br/><br/>Für die Lehramtsstudiengänge zeichnet sich derzeit eine andere Entwicklung ab. Lehramtsstudierende erhalten bisher mit dem Abschluss eines Bachelorstudiums keinen berufsqualifizierenden Abschluss und müssen einen Masterstudiengang absolvieren, um als Lehrkräfte an allgemeinbildenden Schulen tätig sein zu können. Im Dezember 2013 wurde vor dem Verwaltungsgericht Osnabrück (VG Osnabrück 1. Kammer, Urteil vom 10.12.2013, Az: 1 A 77/13) der Fall einer Studentin verhandelt, die nach dem Abschluss ihres Bachelorstudiums mit der Gesamtnote 3,3 einen konsekutiven Masterstudiengang an der gleichen Universität beginnen wollte. Die Universität lehnte die Bewerberin ab, weil sie den für die Zulassung erforderlichen Notenschnitt und eine in Teilbereichen erforderliche Mindestpunktzahl nicht erreicht hatte. Daraufhin klagte die abgelehnte Bewerberin gegen die Absage. Das Gericht gab ihr recht. Es entschied, dass für den Berufswunsch der jungen Frau, nämlich Gymnasiallehrerin, der Bachelorabschluss kein berufsqualifizierender Abschluss sei. Der konkrete Berufswunsch sei aber aufgrund der im Grundgesetz verankerten Berufswahlfreiheit zu berücksichtigen, insofern war für die Entscheidung des Gerichts auch nicht wichtig, ob die Klägerin berufliche Alternativen ergreifen könnte. In Artikel 12 Abs. 1 des Grundgesetzes heißt es dazu:<br/></section><section><div class="bpbsourcecode ">
+<div class="redline"></div>
+<h4 class="red law">§</h4><!--<img style="float:left;margin-top:10px;margin-left:3px;" src="/sites/all/themes/bpb//images/paragraphenzeichen.png" />-->
+<div class="bpbsourcecode_text">
+<span class="bpbsourcecode_type">Quellentext</span>
+<h2>§ 12, Abs. 1 GG</h2>
+<div class="p">
+(1) Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.</div></div></div> </section><section><br/>
+Das Gericht betonte jedoch auch, dass es die Festlegung von Zulassungsbedingungen für die Aufnahme eines Masterstudiengangs grundsätzlich nicht beanstanden würde, diese sei insbesondere zu dem Zweck der Sicherstellung einer inhaltlichen Nähe des Bachelor- zum Masterstudiengang dienlich. 
+<br/><br/><h2>Links</h2>
+<ul class="contentlist">
+<li class="contentelement"><a class="a-text-extern" href="https://www.kmk.org/" target="_blank">Kultusministerkonferenz</a> </li><li class="contentelement"><a class="a-text-extern" href="http://www.studentenwerke.de/" target="_blank">Deutsches Studentenwerk</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.fzs.de/" target="_blank">Freier Zusammenschluss von StudentInnenschaften (fzs)</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.hochschulkompass.de/" target="_blank">Informationsportal über Studienmöglichkeiten an deutschen Hochschulen: Hochschulkompass</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.ausbildungplus.de/html/index.php" target="_blank">AusbildungPlus: Überblick über duale Studiengänge</a></li></ul>
+<h2>Zum Weiterlesen</h2>
+<ul class="contentlist">
+<li class="contentelement">Erklärung zur Erschaffung eines europäischen Hochschulraums</li><li class="contentelement"><a class="a-text-extern" href="http://www.bildungsserver.de/Hochschulgesetze-der-Laender-226.html" target="_blank">Hochschulgesetze</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.magna-charta.org/magna-charta-universitatum" target="_blank">Magna Charta Universitatum</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.bundesverfassungsgericht.de/entscheidungen/fs20050126_2bvf000103.html" target="_blank">Urteil des Bundesverfassungsgerichts zur Einführung von Studiengebühren vom 26.01.2005</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.rechtsprechung.niedersachsen.de/jportal/portal/page/bsndprod.psml?doc.id=MWRE140000133&amp;st=null&amp;showdoccase=1&amp;paramfromHL=true#focuspoint" target="_blank">Notenabhängige Zugangsvoraussetzung zu lehramtsbezogenen Masterstudiengängen verstößt gegen Art. 12 Abs. 1 GG</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.zdh.de/fileadmin/user_upload/themen/Bildung/Fachkraeftesicherung/Auswertung_Studienaussteiger_Fachkraeftepotenzial_09-2013.pdf" target="_blank">Studie des Zentralverbands des deutschen Handwerks zur Integration von Studienaussteigern in die duale Berufsausbildung</a></li><li class="contentelement"><a class="a-text-extern" href="https://bibliothek.wzb.eu/pdf/2011/p11-001.pdf" target="_blank">WZB Discussion Paper: War all die Aufregung umsonst? Über die Auswirkung der Einführung von Studiengebühren auf die Studienbereitschaft in Deutschland</a></li><li class="contentelement"><a class="a-text-extern" href="http://ftp.iza.org/dp5330.pdf" target="_blank">IZA Discussion Paper: Universities as Stakeholders in their Students’ Careers: On the Benefits of Graduate Taxes to Finance Higher Education</a></li><li class="contentelement"><a class="a-text-extern" href="http://www.dzhw.eu/pdf/pub_fh/fh-200815.pdf" target="_blank">HIS-Studie: Studiengebühren aus der Sicht von Studienberechtigten</a></li></ul>
+<h2>Literatur</h2>Berthold, Christian et al. (2009): Demographischer Wandel und Hochschulen. Der Ausbau des Dualen Studiums als Antwort auf den Fachkräftemangel. Gütersloh.
+<br/><br/>Berthold, Christian; Gösta, Gabriel; Herdin, Gunvald; von Stuckrad, Thimo (2013): "Auf dem Berg ist vor dem Berg". Modellrechnung zum Nachfragepotenzial bei Masterstudienanfänger(inne)n in Deutschland – Funktion der Berechnung und Probleme der Angebotsplanung. CHE Arbeitspapier 159. Gütersloh.
+<br/><br/>Bundesagentur für Arbeit (2013): Der Arbeitsmarkt für Akademikerinnen und Akademiker. Gute Bildung – gute Chancen. Nürnberg.
+<br/><br/>Bundesministerium für Bildung und Forschung (Hrsg.) (2013): Die wirtschaftliche und soziale Lage der Studierenden in Deutschland 2012. 20. Sozialerhebung des Deutschen Studentenwerks durchgeführt durch das HIS-Institut der Hochschulforschung. Berlin.
+<br/><br/>Briedis, Kolja et al. (2011): Mit dem Bachelor in den Beruf. Arbeitsmarktbefähigung und -akzeptanz von Bachelorstudierenden und -absolventen. Studie des Stifterverbands für die deutsche Wirtschaft. Essen.
+<br/><br/>Freitag, Walburga (2013): Studieren ohne Abitur – Eine Zwischenbetrachtung vier Jahre nach Inkrafttreten des KMK-Beschlusses. Internet-Dokument. Denk-doch-mal-nach Online Magazin 02/2013. 
+<br/><br/>Glockner, Daniela; Storck, Johanna (2012): Uni, Fachhochschule oder Ausbildung – welche Fächer bringen die höchsten Löhne? DIW-Wochenbericht 13/2012, S. 3-8.
+<br/><br/>Grützmacher, Judith; Ortenburger, Andreas; Heine, Christoph (2011): Studien- und Berufsperspektiven von Bachelorstudierenden in Deutschland. Übergangsverhalten, Studienbewertungen und Berufsaussichten von Bachelorstudierenden im Wintersemester 2009/2010. HIS: Forum Hochschule 7/2011. Hannover.
+<br/><br/>Heublein, Ulrich; Richter, Johanna; Schmelzer, Robert; Sommer, Dieter (2012): Die Entwicklung der Schwund- und Studienabbruchquoten an den deutschen Hochschulen. Statistische Berechnungen auf Basis des Absolventenjahrgangs 2010. HIS. Hannover. 
+<br/><br/>Hollmann, Christian; Schmidt, Jörg; Werner, Dirk (2010): Verdrängt der Bachelor duale Aus- und Fortbildungsgänge? BWP 2/2010, S. 18-22.
+<br/><br/>Krone, Sirikit (2013): Das duale Studium - Scharnier zwischen Berufs- und Hochschulbildung. In: Denk-doch-mal: Onlinemagazin für Arbeit-Bildung-Gesellschaft Ausgabe 2/13.
+<br/><br/>Krone, Sirikit;  Mill, Ulrich, 2012: Dual studieren im Blick: Das ausbildungsintegrierende Studium aus der Perspektive der Studierenden. Internet-Dokument. Duisburg: Institut Arbeit und Qualifikation. IAQ-Report, Nr. 2012-03
+<br/><br/>Krone, Sirikt; Mill, Ulrich (2014): Das ausbildungsintegrierende duale Studium. WSI-Mittelung 1/2014, S. 52-59.
+<br/><br/>Kupfer, Franziska (2013): Duale Studiengänge aus Sicht der Betriebe – Praxisnahes Erfolgsmodell durch Bestenauslese. In: Berufsbildung in Wissenschaft und Praxis 04/2013, S. 25-29.<div style="clear:both;"></div><br/></section>
+<noscript> <a name="bio0"></a>
+<div class="biobox-noscript">
+<div class="author_description">
+<h3>Kathrin Schultheis </h3>
+<p>Zur Person</p>
+<p>Kathrin Schultheis ist Sozialwissenschaftlerin und war von 2012 bis 2015 am Institut für Bildungs- und Sozialpolitik (IBUS) der Hochschule Koblenz beschäftigt. Seit August 2015 ist sie als Projektleiterin für das ESF-Bundesprogramm "Bildung, Wirtschaft, Arbeit im Quartier" am Bundesinstitut für Bau-, Stadt- und Raumforschung tätig.</p>
+</div>
+</div> <a name="bio1"></a>
+<div class="biobox-noscript">
+<div class="author_description">
+<h3>Stefan Sell</h3>
+<p>Zur Person</p>
+<p>Stefan Sell ist Direktor des Institut für Sozialpolitik und Arbeitsmarktforschung (ISAM) an der Hochschule Koblenz und dort Professor für Volkswirtschaftslehre, Sozialpolitik und Sozialwissenschaften im Fachbereich Wirtschafts- und Sozialwissenschaften. Zuvor war er Referent für Grundsatzfragen der Arbeitsmarktpolitik und Arbeitsvermittlung im Landesarbeitsamt Baden-Württemberg in Stuttgart und Referent für Arbeitsmarktpolitik im Bundeskanzleramt in Bonn. Er ist Herausgeber des sozialpolitische Informationsportals "Aktuelle Sozialpolitik": <a class="a-text-extern" href="http://www.aktuelle-sozialpolitik.de" target="_blank">www.aktuelle-sozialpolitik.de</a></p>
+</div>
+</div></noscript><br/> <div class="toolbar-content">
+<a href="javascript:print()">
+<div class="slide-btn">
+<img alt="" src="/sites/all/themes/bpb/images/drucken.svg"/>
+<div class="slide-btn-textwrapper">
+<span style="width: 64px;">Drucken</span>
+</div>
+</div>
+</a>
+<!--<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung" target="_blank">
+                    <div class="slide-btn">
+                        <img src="/sites/all/themes/bpb/images/facebook_icon.svg" alt="">
+                        <div class="slide-btn-textwrapper">
+                            <span style="width: 51px;">Teilen</span>
+                        </div>
+                    </div>
+                </a>
+                <a href="http://twitter.com/intent/tweet?text=(Fach-)Hochschulausbildung&url=https://www.bpb.de/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung&via=bpb_de" target="_blank">
+                    <div class="slide-btn">
+                        <img src="/sites/all/themes/bpb/images/twitter_icon.svg" alt="">
+                        <div class="slide-btn-textwrapper">
+                            <span style="width: 51px;">Tweet</span>
+                        </div>
+                    </div>
+                </a>-->
+<!-- SHARIFF ,&quot;whatsapp&quot; -->
+<div class="shariff" data-backend-url="https://shariff.bpb.de" data-services='["facebook","twitter"]' data-twitter-via="bpb_de"></div>
+</div>
+<div class="clr"></div> <div class="rating" style="display: none;">
+<span>Bewerten Sie diesen Beitrag:</span>
+<span class="rating-star" id="rating-star187853">
+<a href="#rate1" rel="nofollow"><svg viewbox="0 0 16 15">
+<path d="M8 11.59l-4.7 2.88 1.29-5.36-4.2-3.58 5.5-.43 2.11-5.1 2.11 5.1 5.5.43-4.2 3.58 1.29 5.36z"></path>
+</svg></a>
+<a href="#rate2" rel="nofollow"><svg viewbox="0 0 16 15">
+<path d="M8 11.59l-4.7 2.88 1.29-5.36-4.2-3.58 5.5-.43 2.11-5.1 2.11 5.1 5.5.43-4.2 3.58 1.29 5.36z"></path>
+</svg></a>
+<a href="#rate3" rel="nofollow"><svg viewbox="0 0 16 15">
+<path d="M8 11.59l-4.7 2.88 1.29-5.36-4.2-3.58 5.5-.43 2.11-5.1 2.11 5.1 5.5.43-4.2 3.58 1.29 5.36z"></path>
+</svg></a>
+<a href="#rate4" rel="nofollow"><svg viewbox="0 0 16 15">
+<path d="M8 11.59l-4.7 2.88 1.29-5.36-4.2-3.58 5.5-.43 2.11-5.1 2.11 5.1 5.5.43-4.2 3.58 1.29 5.36z"></path>
+</svg></a>
+<a href="#rate5" rel="nofollow"><svg viewbox="0 0 16 15">
+<path d="M8 11.59l-4.7 2.88 1.29-5.36-4.2-3.58 5.5-.43 2.11-5.1 2.11 5.1 5.5.43-4.2 3.58 1.29 5.36z"></path>
+</svg></a>
+</span>
+<div class="clr"></div>
+</div>
+<script type="text/javascript">
+        <!--
+        jQuery(document).ready(function ($) {
+
+        /*
+
+            $('#rating-star187853 a').hover(
+            	function () {
+            		$('#rating-star187853 a').css('background-position', '0 0');
+            		$('#rating-star187853 a:lt(' + $(this).attr('rel') + ')').css('background-position', '0 -40px');
+            	},
+            	function () {
+            		setRating();
+                }
+            );
+
+            function setRating() {
+                var rating = $('#rating-star187853').attr('rel');
+                $('#rating-star187853 a').css('background-position', '0 0');
+                $('#rating-star187853 a:lt(' + rating + ')').css('background-position', '0 -20px');
+            }
+
+            $('#rating-star187853 a').click(function () {
+            	urlNew = window.location.href;
+            	if(urlNew.indexOf("rl=")!=-1) {
+            	    // war schon abgestimmt
+            	    return;
+            	}
+
+            	$.get('/rating.php', {id: 187853, score: $(this).attr('rel') } , function(data) {
+                    	if(urlNew.indexOf("#")!=-1) {
+                    	    varZw = urlNew.split("#");
+                    	    urlNew = varZw[0];
+                    	}
+                    	if(urlNew.indexOf("?")!=-1) {
+                        	window.location.href = urlNew + '&rl=' + Math.random();
+                    	} else {
+                        	window.location.href = urlNew + '?rl=' + Math.random();
+                    	}
+                });
+
+
+            	$('#rating-star187853').attr('rel', $(this).attr('rel'));
+
+
+            	return false;
+            });
+
+
+            */
+
+            $('.rating').show();
+
+            var $ratingstar = $('#rating-star187853');
+
+            function setRating(n) {
+                $ratingstar.children('a').each(function() {
+                    if(n < $(this).attr('rel')) {
+                        $(this).find('path').removeAttr('style');
+                    }
+                    else {
+                        $(this).find('path').css('fill','#951632');
+                    }
+                });
+            }
+
+            $ratingstar.attr('rel', '0');
+            $ratingstar.attr('title', 'Durchschnittliche Bewertung: 0 (bei 0 Besucherbewertungen)');
+
+            $ratingstar.children('a').each(function (index) {
+                $(this).attr('rel', index + 1);
+            });
+
+            var initialRating = $ratingstar.attr('rel');
+            setRating(initialRating);
+
+            $ratingstar.children('a').mouseenter('mouseover', function() {
+                setRating($(this).attr('rel'));
+            }).mouseleave(function() {
+                setRating(initialRating);
+            });
+
+            $ratingstar.children('a').click(function () {
+                var urlNew = window.location.href;
+                if(urlNew.indexOf("rl=") !== -1) {
+                    return; // war schon abgestimmt
+                }
+
+                $.get('/rating.php', {id: 187853, score: $(this).attr('rel') } , function(data) {
+                    if(urlNew.indexOf("#") !== -1) {
+                        varZw = urlNew.split("#");
+                        urlNew = varZw[0];
+                    }
+                    if(urlNew.indexOf("?") !== -1) {
+                        window.location.href = urlNew + '&rl=' + Math.random();
+                    } else {
+                        window.location.href = urlNew + '?rl=' + Math.random();
+                    }
+                });
+                $ratingstar.attr('rel', $(this).attr('rel'));
+                return false;
+            });
+
+
+
+        });
+        //-->
+        </script>
+<div class="biobox-noscript verwandteinhalte"><h2>Weitere Inhalte</h2><ul class="titel-glossar"><li><a href="/apuz/315583/bedingungsloses-grundeinkommen-als-grundrecht">Bedingungsloses Grundeinkommen als Grundrecht? </a></li><li><a href="/gesellschaft/bildung/zukunft-bildung/303513/forschung-uebergangsbereich">Besser als ihr Ruf: Übergangsmaßnahmen erhöhen Ausbildungschancen bei leistungsschwachen Jugendlichen</a></li><li><a href="/mediathek/316335/buschka-entdeckt-deutschland-zeig-mir-deinen-osten">Buschka entdeckt Deutschland - Zeig' mir Deinen Osten!</a></li><li><a href="/apuz/315569/fuenf-jahre-gesetzlicher-mindestlohn-bilanz-und-perspektiven">Fünf Jahre gesetzlicher Mindestlohn. Bilanz und Perspektiven</a></li><li><a href="/gesellschaft/bildung/zukunft-bildung/300898/alternative-leistungsbeurteilung">Leistungsbeurteilung zwischen Kompetenzfeststellung und der Frage der Gerechtigkeit</a></li><li><a href="/shop/zeitschriften/apuz/315585/mindestlohn">Mindestlohn</a></li><li><a href="/apuz/315581/mindestlohn-in-europa">Mindestlohn in Europa</a></li><li><a href="/apuz/315579/mindestlohn-tarifautonomie-und-gewerkschaften">Mindestlohn, Tarifautonomie und Gewerkschaften</a></li><li><a href="/shop/lernen/timer/309588/timer-2020-2021-softcover-blau-mit-herz">Timer 2020/2021 Softcover "Blau mit Herz"</a></li></ul></div><script type="text/javascript">
+<!--
+//<![CDATA[
+    bioBoxen = new Array();
+
+    function toggleBioLayer(bioId) {
+        var $biolayer = $('#'+bioId);
+        if ($biolayer.is(':visible')) {
+            $biolayer.hide().removeAttr('style');
+            $biolayer.prev().children('.author').removeAttr('style').children('svg').removeAttr('style');
+        }
+        else {
+            var offsetTop = $biolayer.prev().children('.author').position().top;
+            if(offsetTop !== 0) {
+                $biolayer.css('top',offsetTop + 39);
+            }
+            $biolayer.show();
+            $biolayer.prev().children('.author').css({'border-bottom':'1px solid #fff', 'z-index':'2'}).children('svg').css('transform','rotate(270deg)');
+        }
+        $('.biobox-javascript').each(function() {
+            if($(this).is(':visible') && $(this).attr('id') !== bioId) {
+                $(this).hide().removeAttr('style');
+                $(this).prev().children('.author').removeAttr('style').children('svg').removeAttr('style');
+            }
+        });
+    }
+
+    jQuery(document).ready(function ($) {
+        $(".fancybox").click(function() {
+            var imageIndex = $(this).attr('id').replace('fancybox-', '');
+    		$.fancybox([
+{'href':'/cache/images/4/219454-3x2-galerie_gross.jpg?6D838','title':'<span class=\"description\">Studentinnen und Studenten verfolgen im Anatomie-Hörsaal der Medizinischen Fakultät an der Martin-Luther-Universität Halle-Wittenberg eine Vorlesung zu Gelenken und Muskeln. (&copy picture-alliance, ZB)<\/span>'},
+{'href':'/cache/images/8/219518-st-galerie_gross.jpg?ED8E9','title':'<span class=\"description\">Verteilung der Studierenden auf Studienfächer im WS 2012/2013 (<a class=\"a-text-intern\" href=\"/system/files/dokument_pdf/6_08_verteilung_studienfaecher.pdf\"  ><img style=\"border:0px\" src=\"/sites/all/themes/bpb/images/icon_pdf_imtext.png\" width=\"12\" height=\"17\" alt=\"PDF-Icon\" /> Grafik als Download 85 KB</a>) (&copy bpb)<\/span>'},
+{'href':'/cache/images/0/219520-st-galerie_gross.jpg?D24EA','title':'<span class=\"description\">Anzahl der Studierenden, die BAföG beziehen 1998-2012 (<a class=\"a-text-intern\" href=\"/system/files/dokument_pdf/6_09_anzahl_BAfoeG.pdf\"  ><img style=\"border:0px\" src=\"/sites/all/themes/bpb/images/icon_pdf_imtext.png\" width=\"12\" height=\"17\" alt=\"PDF-Icon\" /> Grafik zum Download 45 KB</a>) (&copy bpb)<\/span>'},
+{'href':'/cache/images/2/219522-st-galerie_gross.jpg?4519E','title':'<span class=\"description\">Entwicklung der Studienabbruchquote nach Abschlussart (<a class=\"a-text-intern\" href=\"/system/files/dokument_pdf/6_10_entwicklung_studienabbruchquote.pdf\"  ><img style=\"border:0px\" src=\"/sites/all/themes/bpb/images/icon_pdf_imtext.png\" width=\"12\" height=\"17\" alt=\"PDF-Icon\" /> Grafik zum Download 54 KB</a>) (&copy bpb)<\/span>'},
+{'href':'/cache/images/4/219524-st-galerie_gross.jpg?9B040','title':'<span class=\"description\">Starke Zuwächse unter anderem bei naturwissenschaftlichen Berufen (<a class=\"a-text-intern\" href=\"/system/files/dokument_pdf/6_11_zuwachs_naturwissenschaftliche_Berufe.pdf\"  ><img style=\"border:0px\" src=\"/sites/all/themes/bpb/images/icon_pdf_imtext.png\" width=\"12\" height=\"17\" alt=\"PDF-Icon\" /> Grafik zum Download 59 KB</a>) (&copy bpb)<\/span>'}    		], {
+                'padding'           : 0,
+                'margin'            : 45,
+                //'margin'            : 100,
+                'type'              : 'image',
+                'index'             : imageIndex,
+                'nextEffect'        : 'none',
+                'prevEffect'        : 'none',
+                'nextSpeed'         : 0,
+                'prevSpeed'         : 0,
+                'openOpacity'       : true,
+                'closeOpacity'      : true,
+                'afterLoad'        : function(current, previous) {
+                    //$('#fancybox-counter').remove();
+                    //$('<div id="fancybox-counter">' + (this.index + 1) + ' von ' + this.group.length + '<\/div>').insertBefore('.fancybox-inner');
+                },
+                helpers:  {
+                    title : {
+                        type : 'inside'
+                    },
+                    overlay : {
+                        css : {
+                            'background' : 'rgba(58, 42, 45, 0.95)'
+                        }
+                    }
+                },
+                tpl: {
+                    next: '<a title="Next" class="fancybox-nav fancybox-next" href="javascript:;"><span></span></a>',
+                    prev: '<a title="Previous" class="fancybox-nav fancybox-prev" href="javascript:;"><span></span></a>'
+                }
+                /*
+                'padding' : 0,
+                'transitionIn' : 'none',
+                'transitionOut' : 'none',
+                'type' : 'image',
+                'changeFade' : 0,
+                'opacity' : true,
+                'overlayOpacity' : '0.7',
+                'overlayColor' : '#000',
+                'titlePosition' : 'inside',
+                'index' : imageIndex,
+                'onComplete' : function(currentArray, currentIndex) {
+                    if ($('#fancybox-counter')) {
+                    } else {
+                            $('<div id="fancybox-counter">Test<\/div>').insertBefore('#fancybox-bg-n');
+                        }
+                    },
+                'titleFormat'       : function(title) {
+                    return '<span class="description">' + title + '<\/span>';
+                }
+                */
+                /*
+                'titleFormat' : function(title, currentArray, currentIndex, currentOpts) {
+                return '<strong>Bild '
+                + (currentIndex + 1) + ' von ' + currentArray.length
+                + '<\/strong> - '
+                + title;
+                }
+                */
+            });
+            return false;
+        });
+    });
+//]]>
+//-->
+</script>
+<!--</div>//-->
+<!--</div>//--><!-- /.block -->
+<!--</div>//--><!-- /.region -->
+<!-- END CONTENT LEFT -->
+<div id="content_right">
+<div class="portlet-red" id="portlet_navi">
+<h2>
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/">Arbeitsmarktpolitik            </a>
+</h2>
+<ul>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/54891/theoretische-konzepte-und-grundlagen">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Theoretische Konzepte und Grundlagen</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/55030/normative-grundlagen">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Normative Grundlagen</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/55236/arbeitslosenversicherung-und-grundsicherung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                     Arbeitslosenversicherung und Grundsicherung</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/55128/arbeitsvermittlung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Arbeitsvermittlung</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/55160/foerderung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Förderung</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187847/berufliche-bildung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Berufliche Bildung</a>
+<ul> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187848/hintergrund-berufliche-bildung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>Hintergrund: Berufliche Bildung</a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187849/die-drei-sektoren-der-beruflichen-bildung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>Die drei Sektoren der beruflichen Bildung</a>
+<ul> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/219126/einleitung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                                Einleitung      </a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187850/duales-system">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                                Duales System      </a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187851/schulberufssystem">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                                Schulberufssystem      </a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187852/uebergangssystem">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                                Übergangssystem      </a>
+</li> </ul></li> <li class="active">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187853/fach-hochschulausbildung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>(Fach-)Hochschulausbildung</a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187854/foerderung-der-berufsausbildung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>Förderung der Berufsausbildung</a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187855/berufliche-bildung-im-internationalen-vergleich">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>Berufliche Bildung im internationalen Vergleich</a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187856/ausbildungsvermittlung">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>Ausbildungsvermittlung</a>
+</li> <li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187857/ausbildungsmarkt-zahlen-daten-fakten">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>Ausbildungsmarkt: Zahlen, Daten, Fakten</a>
+</li></ul></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187858/arbeitsmarktpolitik-und-europa">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Arbeitsmarktpolitik und Europa</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187823/lohnpolitik-in-deutschland-und-europa">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Lohnpolitik in Deutschland und Europa</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/178191/beschaeftigungsverhaeltnisse">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Beschäftigungsverhältnisse</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/187833/wandel-der-arbeitswelt">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Wandel der Arbeitswelt</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/55421/glossar">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Glossar</a></li>
+<li class="">
+<a href="/politik/innenpolitik/arbeitsmarktpolitik/55419/redaktion">
+<svg viewbox="0 0 8.12 13.41"><path d="M1.06.7l6 6-6 6"></path></svg>
+                    Redaktion</a></li>
+</ul>
+</div>
+<!-- cake: web-19244*54890*0*-1//--><!-- tmc: 11.11.2020 18:37:04//--><!-- cakes: web-19244*54890*0*-1//--><div class="portlet" id="hidden-teaser-19244" style="display:none">
+<h3 class="blue"><a class="blue portlet_headline" href="/shop/">Publikationen im Shop bestellen</a></h3><div class="portlet_shop-suggestions blue_bg_grad"><div class="imageflow" id="imageflowShopSuggestions-19244"> <img alt="Arbeiterbewegung von rechts?" class="new" height="220" id="shop-suggestions-19244-1" src="/cache/images/0/318190-pub-medium.jpg?AE781" title="Arbeiterbewegung von rechts?" width="144"/> <img alt="Auf Kosten anderer" height="220" id="shop-suggestions-19244-2" src="/cache/images/5/314585-pub-medium.jpg?BAD2A" title="Auf Kosten anderer" width="177"/> <img alt="Die Rettung der Arbeit" height="220" id="shop-suggestions-19244-3" src="/cache/images/7/313457-pub-medium.jpg?5C92D" title="Die Rettung der Arbeit" width="132"/> <img alt="Equal Care" height="" id="shop-suggestions-19244-4" src="/cache/images/4/311664-pub-medium.jpg?D71C3" title="Equal Care" width=""/> <img alt="Kranke Pflege" height="220" id="shop-suggestions-19244-5" src="/cache/images/4/300984-pub-medium.jpg?658F3" title="Kranke Pflege" width="133"/> <img alt="Die Angezählten" height="220" id="shop-suggestions-19244-6" src="/cache/images/2/315432-pub-medium.jpg?CAE9B" title="Die Angezählten" width="137"/> <img alt="Die Rettung der Arbeit" height="220" id="shop-suggestions-19244-7" src="/cache/images/7/313457-pub-medium.jpg?5C92D" title="Die Rettung der Arbeit" width="132"/> <img alt="Jenseits von Kohle und Stahl" height="220" id="shop-suggestions-19244-8" src="/cache/images/8/306508-pub-medium.jpg?77244" title="Jenseits von Kohle und Stahl" width="138"/> <img alt="Hartz IV" height="220" id="shop-suggestions-19244-9" src="/cache/images/7/299287-pub-medium.jpg?B2891" title="Hartz IV" width="153"/> <img alt="Das Kapital sind wir" height="220" id="shop-suggestions-19244-10" src="/cache/images/3/286443-pub-medium.jpg?548B4" title="Das Kapital sind wir" width="132"/> <img alt="Arbeit transformieren!" height="220" id="shop-suggestions-19244-11" src="/cache/images/8/281648-pub-medium.jpg?B32C9" title="Arbeit transformieren!" width="145"/> <img alt="Arbeit und Leben " height="220" id="shop-suggestions-19244-12" src="/cache/images/4/256454-pub-medium.jpg?B48A7" title="Arbeit und Leben " width="155"/> <img alt="Arbeitsmarktpolitik" height="220" id="shop-suggestions-19244-13" src="/cache/images/5/250845-pub-medium.jpg?0DF8B" title="Arbeitsmarktpolitik" width="153"/> <img alt="Welt der Wirtschaft " height="220" id="shop-suggestions-19244-14" src="/cache/images/9/240199-pub-medium.jpg?B21CE" title="Welt der Wirtschaft " width="138"/> <img alt="Arbeit und Digitalisierung" height="220" id="shop-suggestions-19244-15" src="/cache/images/6/226806-pub-medium.jpg?C14A1" title="Arbeit und Digitalisierung" width="154"/> <img alt="Integrationspolitik" height="220" id="shop-suggestions-19244-16" src="/cache/images/2/251272-pub-medium.jpg?9F0CC" title="Integrationspolitik" width="154"/> <img alt="Arbeit" height="220" id="shop-suggestions-19244-17" src="/cache/images/3/34443-st-medium.jpg?38320" title="Arbeit" width="163"/> <img alt="Die Zukunft des Generationenvertrags" height="220" id="shop-suggestions-19244-18" src="/cache/images/2/273772-pub-medium.jpg?8168C" title="Die Zukunft des Generationenvertrags" width="153"/> <img alt="Die Angezählten" height="220" id="shop-suggestions-19244-19" src="/cache/images/2/315432-pub-medium.jpg?CAE9B" title="Die Angezählten" width="137"/> </div>
+<div class="suggestion-actions" id="shop-suggestions-19244-1-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/318189/arbeiterbewegung-von-rechts?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/LP_Becker_10509.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/318189/arbeiterbewegung-von-rechts" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-2-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/zeitbilder/314583/auf-kosten-anderer?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/5829_zb_globalisierung_online_.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/zeitbilder/314583/auf-kosten-anderer" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-3-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/313448/die-rettung-der-arbeit?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/ARTK_LPR_9783446262065_0002.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/313448/die-rettung-der-arbeit" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-4-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"> <a class="price bordered" href="/shop/buecher/schriftenreihe/311663/equal-care" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-5-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/300978/kranke-pflege?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/Leseprobe_Jorde_Pflege.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/300978/kranke-pflege" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-6-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/315431/die-angezaehlten?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/dowideit_leseprobe_bpb.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/315431/die-angezaehlten" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-7-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/313448/die-rettung-der-arbeit?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/ARTK_LPR_9783446262065_0002.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/313448/die-rettung-der-arbeit" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-8-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"> <a class="price bordered" href="/shop/buecher/schriftenreihe/306507/jenseits-von-kohle-und-stahl" rel="nofollow"><span class="sugg-price">
+                            7,00</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-9-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/zeitschriften/apuz/299235/hartz-iv?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/APuZ_2019-44-45_online.pdf" target="_blank" title="PDF herunterladen"> </a><a class="icons icons-list" href="/apuz/299214/hartz-iv" title="Online lesen"> </a> <a class="price bordered" href="/shop/zeitschriften/apuz/299235/hartz-iv" rel="nofollow"><span class="sugg-price">
+                            0,00</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-10-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/286442/das-kapital-sind-wir?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/Daum_Kapital_Textauszug.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/286442/das-kapital-sind-wir" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-11-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/281646/arbeit-transformieren?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/Leseprobe_SR10244%20%28003%29.pdf%20-%20Adobe%20Acrobat%20Pro.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/281646/arbeit-transformieren" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-12-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"> <a class="price bordered" href="/shop/lernen/weitere/256451/arbeit-und-leben" rel="nofollow"><span class="sugg-price">
+                            7,00</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-13-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/zeitschriften/apuz/250671/arbeitsmarktpolitik?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/APuZ_2017-26_online_1.pdf" target="_blank" title="PDF herunterladen"> </a><a class="icons icons-list" href="/apuz/250655/arbeitsmarktpolitik" title="Online lesen"> </a></div></div><div class="suggestion-actions" id="shop-suggestions-19244-14-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/240198/welt-der-wirtschaft?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/lp_koesters.pdf%20-%20Adobe%20Acrobat%20Pro.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/240198/welt-der-wirtschaft" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-15-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/zeitschriften/apuz/225700/arbeit-und-digitalisierung?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/APuZ_2016-18-19_online.pdf" target="_blank" title="PDF herunterladen"> </a><a class="icons icons-list" href="/apuz/225683/arbeit-und-digitalisierung" title="Online lesen"> </a></div></div><div class="suggestion-actions" id="shop-suggestions-19244-16-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/zeitschriften/apuz/251230/integrationspolitik?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/APuZ_2017-27-29_online.pdf" target="_blank" title="PDF herunterladen"> </a><a class="icons icons-list" href="/apuz/251209/integrationspolitik" title="Online lesen"> </a></div></div><div class="suggestion-actions" id="shop-suggestions-19244-17-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/zeitschriften/fluter/34441/arbeit?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/pdf/7IGDSR.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/zeitschriften/fluter/34441/arbeit" rel="nofollow"><span class="sugg-price">
+                            0,00</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-18-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/273771/die-zukunft-des-generationenvertrags?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/10293_Generationenvertrag_Internet_0.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/273771/die-zukunft-des-generationenvertrags" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><div class="suggestion-actions" id="shop-suggestions-19244-19-action" style="display: none;"><div class="wrapped-actions" style="width:190px;"><a class="icons icons-book" href="/shop/buecher/schriftenreihe/315431/die-angezaehlten?blickinsbuch" title="Blick ins Buch"> </a><a class="icons icons-pdf" href="/system/files/dokument_pdf/dowideit_leseprobe_bpb.pdf" target="_blank" title="PDF herunterladen"> </a> <a class="price bordered" href="/shop/buecher/schriftenreihe/315431/die-angezaehlten" rel="nofollow"><span class="sugg-price">
+                            4,50</span><img alt="" class="blank" height="1" src="/sites/all/themes/bpb/images/blank.gif" width="1"/></a>
+</div></div><img alt="Zurück" class="shift-button left" src="/sites/all/themes/bpb/images/arrow.svg"/>
+<img alt="Weiter" class="shift-button right" src="/sites/all/themes/bpb/images/arrow.svg"/>
+<img alt="Neu" class="icon-new" height="84" src="/sites/all/themes/bpb/images/icon_new.png" width="83"/>
+</div>
+</div><!-- END PORTLET -->
+<script type="text/javascript">
+<!--
+    // Documentation: http://finnrudolph.de/ImageFlow/Documentation
+
+    $(document).ready(function () {
+
+        $('#shop-suggestions-19244-1').attr('rel', '/shop/buecher/schriftenreihe/318189/arbeiterbewegung-von-rechts');
+        $('#shop-suggestions-19244-2').attr('rel', '/shop/buecher/zeitbilder/314583/auf-kosten-anderer');
+        $('#shop-suggestions-19244-3').attr('rel', '/shop/buecher/schriftenreihe/313448/die-rettung-der-arbeit');
+        $('#shop-suggestions-19244-4').attr('rel', '/shop/buecher/schriftenreihe/311663/equal-care');
+        $('#shop-suggestions-19244-5').attr('rel', '/shop/buecher/schriftenreihe/300978/kranke-pflege');
+        $('#shop-suggestions-19244-6').attr('rel', '/shop/buecher/schriftenreihe/315431/die-angezaehlten');
+        $('#shop-suggestions-19244-7').attr('rel', '/shop/buecher/schriftenreihe/313448/die-rettung-der-arbeit');
+        $('#shop-suggestions-19244-8').attr('rel', '/shop/buecher/schriftenreihe/306507/jenseits-von-kohle-und-stahl');
+        $('#shop-suggestions-19244-9').attr('rel', '/shop/zeitschriften/apuz/299235/hartz-iv');
+        $('#shop-suggestions-19244-10').attr('rel', '/shop/buecher/schriftenreihe/286442/das-kapital-sind-wir');
+        $('#shop-suggestions-19244-11').attr('rel', '/shop/buecher/schriftenreihe/281646/arbeit-transformieren');
+        $('#shop-suggestions-19244-12').attr('rel', '/shop/lernen/weitere/256451/arbeit-und-leben');
+        $('#shop-suggestions-19244-13').attr('rel', '/shop/zeitschriften/apuz/250671/arbeitsmarktpolitik');
+        $('#shop-suggestions-19244-14').attr('rel', '/shop/buecher/schriftenreihe/240198/welt-der-wirtschaft');
+        $('#shop-suggestions-19244-15').attr('rel', '/shop/zeitschriften/apuz/225700/arbeit-und-digitalisierung');
+        $('#shop-suggestions-19244-16').attr('rel', '/shop/zeitschriften/apuz/251230/integrationspolitik');
+        $('#shop-suggestions-19244-17').attr('rel', '/shop/zeitschriften/fluter/34441/arbeit');
+        $('#shop-suggestions-19244-18').attr('rel', '/shop/buecher/schriftenreihe/273771/die-zukunft-des-generationenvertrags');
+        $('#shop-suggestions-19244-19').attr('rel', '/shop/buecher/schriftenreihe/315431/die-angezaehlten');
+        $('#hidden-teaser-19244').show();
+    	$('#imageflowShopSuggestions-19244').publicationSlider();
+
+        $('#hidden-teaser-19244 .icon-new').show();
+
+
+    });
+//-->
+</script>
+<!-- cake: web-41598*54890*0*-1//--><!-- tmc: 11.11.2020 18:37:04//--><!-- cakes: web-41598*54890*0*-1//--><div class="portlet">
+<div class="portlet_study_trip_head red_bg"><h3 class="white">Dossier</h3></div><div class="portlet_study_trip_img"><a href="/politik/innenpolitik/rentenpolitik/" title="Rentenpolitik"> <img alt="Solange die betriebliche Altersversorgung eine freiwillige Leistung ist, bleibt offen, welche Unternehmen überhaupt entsprechende Vereinbarungen eingehen." height="200" src="/cache/images/3/144093-3x2-teaser300.jpg?2E870" style="border:0px" title="Betriebliche Altersversorgung  (© Eisenhans - Fotolia.com)" width="300"/></a></div><div class="portlet_study_trip_content"><h4><a href="/politik/innenpolitik/rentenpolitik/" title="Rentenpolitik">Rentenpolitik</a></h4>
+<p>Die Alterssicherung stellt, egal wie sie organisiert ist, in allen modernen Gesellschaften einen erheblichen Anteil an der Verwendung des Sozialprodukts dar. Sie ist quantitativ der Kernbereich des Sozialstaats.</p> <p class="read_more">
+<svg viewbox="0 0 8.12 13.41">
+<path d="M1.06.7l6 6-6 6"></path>
+</svg>
+<a href="/politik/innenpolitik/rentenpolitik/" title="Rentenpolitik">Mehr lesen </a> </p>
+<div style="clear:both"></div></div></div>
+<!-- cake: web-57356*54890*0*-1//--><!-- tmc: 11.11.2020 18:37:04//--><!-- cakes: web-57356*54890*0*-1//--><div class="portlet">
+<div class="portlet_study_trip_head red_bg"><h3 class="white">Dossier</h3></div><div class="portlet_study_trip_img"><a href="/politik/innenpolitik/demografischer-wandel/" title="Demografischer Wandel"> <img alt="Demografischer Wandel" height="200" src="/cache/images/3/197633-3x2-teaser300.jpg?48843" style="border:0px" title="Demografischer Wandel (© bpb)" width="300"/></a></div><div class="portlet_study_trip_content"><h4><a href="/politik/innenpolitik/demografischer-wandel/" title="Demografischer Wandel">Demografischer Wandel</a></h4>
+<p>Zu- und Auswanderung, Geburtenrate, Sterblichkeit - die sind die drei zentralen Faktoren für die demografische Entwicklung. Der demografische Wandel wird unsere Gesellschaft spürbar verändern - ob auf Kommunal-, Landes- oder Bundesebene, im Bereich der Sozialversicherungen, der Arbeitswelt, der Infrastruktur oder der Familienpolitik. Das Dossier beleuchtet die wichtigsten Bereiche und skizziert den Stand der Debatte.</p> <p class="read_more">
+<svg viewbox="0 0 8.12 13.41">
+<path d="M1.06.7l6 6-6 6"></path>
+</svg>
+<a href="/politik/innenpolitik/demografischer-wandel/" title="Demografischer Wandel">Mehr lesen </a> </p>
+<div style="clear:both"></div></div></div>
+<!-- cake: web-68226*54890*0*-1//--><!-- tmc: 11.11.2020 18:37:05//--><!-- cakes: web-68226*54890*0*-1//--><div class="portlet">
+<div class="portlet_study_trip_head red_bg"><h3 class="white">Dossier</h3></div><div class="portlet_study_trip_img"><a href="/politik/innenpolitik/familienpolitik/" title="Familienpolitik"> <img alt="Familie" height="200" src="/cache/images/8/197038-3x2-teaser300.jpg?47EBF" style="border:0px" title="Familie (© picture-alliance/dpa)" width="300"/></a></div><div class="portlet_study_trip_content"><h4><a href="/politik/innenpolitik/familienpolitik/" title="Familienpolitik">Familienpolitik</a></h4>
+<p>Die deutsche Familienpolitik ist ein zentraler Bestandteil der Gesellschaftspolitik. Sie versucht das Zusammenleben von Paaren, das Leben mit Kindern und den Generationenzusammenhang zu unterstützen. Das Dossier skizziert die Maßnahmen, Institutionen, Akteure und Ziele der Familienpolitik, gibt einen Überblick über den Wandel von Familie und bildet die aktuelle Reformdebatte ab.</p> <p class="read_more">
+<svg viewbox="0 0 8.12 13.41">
+<path d="M1.06.7l6 6-6 6"></path>
+</svg>
+<a href="/politik/innenpolitik/familienpolitik/" title="Familienpolitik">Mehr lesen </a> </p>
+<div style="clear:both"></div></div></div>
+<!-- cake: web-41599*54890*0*-1//--><!-- tmc: 11.11.2020 18:37:05//--><!-- cakes: web-41599*54890*0*-1//--><div class="portlet">
+<div class="portlet_study_trip_head red_bg"><h3 class="white">Dossier</h3></div><div class="portlet_study_trip_img"><a href="/politik/innenpolitik/gesundheitspolitik/" title="Gesundheitspolitik"> <img alt="Arzt läuft durch Krankenhausflur" height="200" src="/cache/images/0/162330-3x2-teaser300.jpg?6F307" style="border:0px" title="Arzt läuft durch Krankenhausflur (© istock/thelinke)" width="300"/></a></div><div class="portlet_study_trip_content"><h4><a href="/politik/innenpolitik/gesundheitspolitik/" title="Gesundheitspolitik">Gesundheitspolitik</a></h4>
+<p>Der Reformdruck im deutschen Gesundheitswesen hat deutlich zugenommen. Während noch vor wenigen Jahren nur Experten über die Finanzierbarkeit und Qualitätssicherung des Gesundheitssystems nachdachten, suchen heute viele Bürgerinnen und Bürger nach Antworten.</p> <p class="read_more">
+<svg viewbox="0 0 8.12 13.41">
+<path d="M1.06.7l6 6-6 6"></path>
+</svg>
+<a href="/politik/innenpolitik/gesundheitspolitik/" title="Gesundheitspolitik">Mehr lesen </a> </p>
+<div style="clear:both"></div></div></div>
+<!-- CACHE: 1/19243//-->
+<script type="text/javascript">
+<!--
+//<![CDATA[
+$(document).ready(function () {
+    // $("#portletcontainer-19243").after('<img class="prev" id="portletcontainer-19243-button-prev" src="images/scroll_left_hover.png" alt="Zur&uuml;ck" />');
+    // $("#portletcontainer-19243").after('<img class="next" id="portletcontainer-19243-button-next" src="images/scroll_right_hover.png" alt="Weiter" />');
+
+
+    $('#portletcontainer-19243').serialScroll({
+		items: 'div',
+		prev: '#portletcontainer-19243-button-prev',
+		next: '#portletcontainer-19243-button-next',
+		axis: 'xy',
+		duration: 700,
+		force: true,
+		start: 1
+	});
+	$('#portletcontainer-19243').css('overflow', 'hidden');
+	$('#portletcontainer-19243').css('height', '205px');
+});
+//]]>
+//-->
+</script>
+<div class="portlet ie6hide">
+<h3 class="blue portlet_headline">Aus Politik und Zeitgeschichte</h3> <div class="portlet_pocket_wiki"><div class="portletscroll" id="portletcontainer-19243" style="overflow: hidden; height: 205px;"><div class="portletscrollcontainer" style="width: 5400px;"> <div class="panel"><a href="/apuz/care-arbeit-2020/"><img align="left" alt="Symbolbild: Ein zerknüllter Ein-Dollar-Schein liegt auf einer Rot-Weiß karierten Tischdecke und wird mit einem gelben Bügeleisen geglättet." height="67" src="/cache/images/5/317885-3x2-portlet100x150.jpg?C671C" style="border:0px" title="Ein zerknüllter Ein-Dollar-Schein wird mit einem Bügeleisen geglättet (© picture-alliance, dpa-Zentralbild)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/care-arbeit-2020/">Care-Arbeit</a></h4><p>Die Debatte um immer noch hauptsächlich von Frauen geleistete, un- oder unterbezahlte "Care-Arbeit"...</p></div> <div class="panel"><a href="/apuz/315567/mindestlohn"><img align="left" alt="Zwei Gebäudereiniger putzen in 27 Metern Höhe das gewölbte Glasdach des World Trade Centers in Dresden" height="67" src="/cache/images/0/315670-3x2-portlet100x150.jpg?E8F47" style="border:0px" title="Zwei Gebäudereiniger putzen in 27 Metern Höhe das gewölbte Glasdach des World Trade Centers in Dresden (© picture-alliance/dpa, dpa-Zentralbild/dpa, Sebastian Kahnert)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/315567/mindestlohn">Mindestlohn</a></h4><p>Zum 1. Januar 2015 wurde in Deutschland ein flächendeckender gesetzlicher Mindestlohn eingeführt. ...</p></div> <div class="panel"><a href="/apuz/299214/hartz-iv"><img align="left" alt="Demonstration gegen Hartz IV am 2.10.2004 in Berlin" height="67" src="/cache/images/8/299298-3x2-portlet100x150.jpg?D09A7" style="border:0px" title="Demonstration gegen Hartz IV am 2.10.2004 in Berlin (© picture-alliance, Ulrich Baumgarten)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/299214/hartz-iv">Hartz IV</a></h4><p>Vor fast 15 Jahren trat das Vierte Gesetz für moderne Dienstleistungen am Arbeitsmarkt in Kraft. Mi...</p></div> <div class="panel"><a href="/apuz/294914/pflege"><img align="left" alt="Eine Frau benutzt einen Notrufknopf, den sie am Handgelenk trägt." height="67" src="/cache/images/1/294991-3x2-portlet100x150.jpg?59847" style="border:0px" title="Pflegenotstand in Deutschland (© picture-alliance)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/294914/pflege">Pflege</a></h4><p>Zurzeit gibt es eine breite Debatte um einen "Pflegenotstand" in Deutschland. Das liegt am erheblich...</p></div> <div class="panel"><a href="/apuz/250655/arbeitsmarktpolitik"><img align="left" alt="Mitarbeiter von Google arbeiten an ihren Schreibtischen in den Büros im Internationalen Finanzcenter des Unternehmens in Schanghai, China." height="67" src="/cache/images/4/250814-3x2-portlet100x150.jpg?E34D4" style="border:0px" title="Mitarbeiter von Google arbeiten an ihren Schreibtischen in den Büros im Internationalen Finanzcenter des Unternehmens in Schanghai, China. (© picture-alliance/dpa)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/250655/arbeitsmarktpolitik">Arbeitsmarktpolitik</a></h4><p>Arbeitsmarktpolitik versucht den Rahmen zu setzen, in dem wir arbeiten. Dass sie dabei nicht immer a...</p></div> <div class="panel"><a href="/apuz/225683/arbeit-und-digitalisierung"><img align="left" alt="dpa, Digitalisierung, 1985" height="67" src="/cache/images/2/226752-3x2-portlet100x150.jpg?126A8" style="border:0px" title="Teaser APuZ Arbeit und Digitalisierung (© picture-alliance, Heinz Wieseler)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/225683/arbeit-und-digitalisierung">Arbeit und Digitalisierung</a></h4><p>Was haben Uhrmacher, Models und Immobilienmaklerinnen gemeinsam? Ihre Berufe könnte es gemäß eine...</p></div> <div class="panel"><a href="/apuz/198883/arbeiten-in-europa"><img align="left" alt="OP-Schwester im Operationssaal einer Augenklinik" height="67" src="/cache/images/2/199062-3x2-portlet100x150.jpg?675C7" style="border:0px" title="OP-Schwester im Operationssaal einer Augenklinik (© picture-alliance/dpa)" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/198883/arbeiten-in-europa">Arbeiten in Europa</a></h4><p>Die EU-Kommission will "Neue Impulse für Arbeitsplätze, Wachstum und Investitionen" geben. Derzeit...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/30024/grundeinkommen">Grundeinkommen?</a></h4><p>Seit einiger Zeit diskutiert Deutschland über die Idee eines bedingungslosen Grundeinkommens. Ist e...</p></div> <div class="panel"><a href="/apuz/125988/vollbeschaeftigung"><img align="left" alt="Arbeitsmarktpolitik" height="67" src="/cache/images/4/55424-3x2-portlet100x150.jpg?7CA55" style="border:0px" title="Arbeitsmarktpolitik" width="100"/></a><h4 class="blue"><a class="blue" href="/apuz/125988/vollbeschaeftigung">Vollbeschäftigung?</a></h4><p>Mitten in Krisenzeiten hält das deutsche "Jobwunder“ an, Vollbeschäftigung wie in den 1960er Jah...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/33352/humanisierung-der-arbeit">Humanisierung der Arbeit</a></h4><p>"Hauptsache Arbeit!" lautet oft der Ruf – die Qualität der Arbeitsplätze rückt dabei in den Hin...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/32839/gewerkschaften">Gewerkschaften</a></h4><p>Mit dem Übergang vom wohlfahrtsstaatlichen Kapitalismus zum Finanzmarkt-Kapitalismus setzte ein Ein...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/32340/arbeitslosigkeit">Arbeitslosigkeit</a></h4><p>2003 verkündete Gerhard Schröder ein umfassendes Reformprogramm für Deutschland: die "Agenda 2010...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/31883/arbeitsmarktpolitik">Arbeitsmarktpolitik</a></h4><p>Die Instrumente der Arbeitsmarkt- und Beschäftigungspolitik haben sich im Laufe der Jahre ständig ...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/31662/migration-und-arbeitsmarkt">Migration und Arbeitsmarkt</a></h4><p>Durch den demografischen Wandel droht der deutschen Gesellschaft nicht nur die Überalterung, sonder...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/31017/abstieg-prekaritaet-ausgrenzung">Abstieg - Prekarität - Ausgrenzung</a></h4><p>Die Mittelschicht schrumpft. Immer mehr Menschen haben Angst vor dem sozialen Abstieg. Die aktuelle ...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/30936/arbeitslosigkeit-psychosoziale-folgen">Arbeitslosigkeit: Psychosoziale Folgen</a></h4><p>Der Verlust der eigenen Arbeit kann kann zu psychischen Beeinträchtigungen führen, die den Betroff...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/30284/entgrenzung-von-arbeit-und-leben">Entgrenzung von Arbeit und Leben</a></h4><p>Die Ansprüche der Arbeitswelt wachsen, dabei bleibt das Privatleben oft auf der Strecke. Aber wie l...</p></div> <div class="panel"><h4 class="blue"><a class="blue" href="/apuz/30024/grundeinkommen">Grundeinkommen?</a></h4><p>Seit einiger Zeit diskutiert Deutschland über die Idee eines bedingungslosen Grundeinkommens. Ist e...</p></div></div></div><!--<img alt="Weiter" src="/sites/all/themes/bpb/images/scroll_right_hover.png" id="portletcontainer-19243-button-next" class="next" />
+<img alt="Zur&uuml;ck" src="/sites/all/themes/bpb/images/scroll_left_hover.png" id="portletcontainer-19243-button-prev" class="prev" />-->
+<div class="next" id="portletcontainer-19243-button-next">
+<svg height="18.16" viewbox="0 0 8.12 13.41" width="11">
+<path d="M1.06.7l6 6-6 6" fill="none" stroke="#757075" stroke-width="2"></path>
+</svg>
+</div>
+<div class="prev" id="portletcontainer-19243-button-prev">
+<svg height="18.16" viewbox="0 0 8.12 13.41" width="11">
+<path d="M1.06.7l6 6-6 6" fill="none" stroke="#757075" stroke-width="2"></path>
+</svg>
+</div>
+</div>
+<p align="right"><a href="/shop/">Zum Shop</a></p>
+</div>
+</div><!-- END CONTENT-Right -->
+<!-- END CONTENT -->
+<div id="footer"><div id="footer_lists"><ul><li><a href="/politik/">Politik</a></li><li><a href="/politik/hintergrund-aktuell/">Hintergrund aktuell</a></li><li><a href="/politik/grundfragen/">Grundfragen</a></li><li><a href="/politik/innenpolitik/">Innenpolitik</a></li><li><a href="/politik/extremismus/">Extremismus</a></li><li><a href="/politik/wahlen/">Wahlen</a></li><li><a href="/politik/wirtschaft/">Wirtschaft</a></li></ul><ul><li><a href="/internationales/">Internationales</a></li><li><a href="/internationales/europa/">Europa</a></li><li><a href="/internationales/weltweit/">Weltweit</a></li><li><a href="/internationales/asien/">Asien</a></li><li><a href="/internationales/amerika/">Amerika</a></li><li><a href="/internationales/afrika/">Afrika</a></li></ul><ul><li><a href="/geschichte/">Geschichte</a></li><li><a href="/geschichte/nationalsozialismus/">Nationalsozialismus</a></li><li><a href="/geschichte/deutsche-geschichte/">Deutsche Geschichte</a></li><li><a href="/geschichte/deutsche-einheit/">Deutsche Einheit</a></li><li><a href="/geschichte/zeitgeschichte/">Zeitgeschichte</a></li></ul><ul><li><a href="/gesellschaft/">Gesellschaft</a></li><li><a href="/gesellschaft/gender/">Gender</a></li><li><a href="/gesellschaft/migration/">Migration</a></li><li><a href="/gesellschaft/umwelt/">Umwelt</a></li><li><a href="/gesellschaft/bildung/">Bildung</a></li><li><a href="/gesellschaft/digitales/">Digitales</a></li><li><a href="/gesellschaft/medien-und-sport/">Medien &amp; Sport</a></li></ul><ul><li><a href="/nachschlagen/">Nachschlagen</a></li><li><a href="/nachschlagen/lexika/">Lexika</a></li><li><a href="/nachschlagen/zahlen-und-fakten/">Zahlen und Fakten</a></li><li><a href="/nachschlagen/gesetze/">Gesetze</a></li><li><a href="/nachschlagen/datenreport-2018/">Datenreport 2018</a></li></ul><ul><li><a href="/veranstaltungen/">Veranstaltungen</a></li><li><a href="/veranstaltungen/veranstaltungskalender/">Veranstaltungskalender</a></li><li><a href="/veranstaltungen/themen/">Themen</a></li><li><a href="/veranstaltungen/format/">Format</a></li><li><a href="/veranstaltungen/zielgruppe/">Zielgruppe</a></li><li><a href="/veranstaltungen/netzwerke/">Netzwerke</a></li><li><a href="/veranstaltungen/dokumentation/">Dokumentation</a></li></ul><ul><li><a href="/lernen/">Lernen</a></li><li><a href="/lernen/themen-im-unterricht/">Unterrichtsthemen</a></li><li><a href="/lernen/formate/">Formate</a></li><li><a href="/lernen/zielgruppe/">Zielgruppe</a></li><li><a href="/lernen/digitale-bildung/">Digitale Bildung</a></li><li><a href="/lernen/grafstat/">Forschen mit GrafStat</a></li><li><a href="/lernen/projekte/">Projekte</a></li></ul></div>
+<!-- cachetime[inc_footer_uebersicht] 1605114137-11.11.2020 18:02:17//-->
+<div class="footer_links">
+<a href="/impressum/">Impressum</a><a href="/269718/datenschutzerklaerung-fuer-bpb-de">Datenschutz</a><a href="/151273/netiquette">Netiquette</a><a href="/sitemap/">Sitemap</a><a href="/presse/">Presse</a><a href="/kontakt/">Kontakt</a><a href="/partner/">Partner</a><a href="http://m.bpb.de" onclick="mclickredirect();return false;">
+            Zur mobilen Website
+        </a>
+</div>
+<div class="socialmedia">
+<p>Social Media</p>
+<a href="https://www.facebook.com/bpb.de" target="_blank"><img alt="Facebook" src="/sites/all/themes/bpb/images/facebook.svg"/></a>
+<a href="https://twitter.com/bpb_de" target="_blank"><img alt="Twitter" src="/sites/all/themes/bpb/images/twitter.svg"/></a>
+<a href="https://www.instagram.com/bpb_de/" target="_blank"><img alt="Instagram" src="/sites/all/themes/bpb/images/instagram.svg"/></a>
+<a href="https://www.youtube.com/user/bpbtv" target="_blank"><img alt="Youtube" src="/sites/all/themes/bpb/images/youtube.svg"/></a>
+</div>
+<div class="partners">
+<p><a href="/node/136945">Weitere Angebote</a></p> <ul>
+<li><a href="http://www.17juni53.de" target="_blank">17juni53.de</a></li><li><a href="http://www.chotzen.de" target="_blank">chotzen.de</a></li> </ul>
+<ul>
+<li><a href="http://www.chronik-der-mauer.de " target="_blank">chronik-der-mauer.de </a></li><li><a href="http://www.jugendopposition.de/" target="_blank">jugendopposition.de</a></li> </ul>
+<ul>
+<li><a href="http://www.kinofenster.de" target="_blank">kinofenster.de</a></li><li><a href="http://www.spielbar.de" target="_blank">spielbar.de</a></li> </ul>
+<ul>
+<li><a href="http://www.wir-waren-so-frei.de/" target="_blank">wir-waren-so-frei.de</a></li> </ul>
+</div>
+<div class="demokratie">Demokratie stärken - Zivilgesellschaft fördern</div>
+<!-- cachetime[inc_footer_partner] 1605114137-11.11.2020 18:02:17//-->
+</div> <div style="clear: both;"></div>
+<!-- END CONTAINER -->
+<!-- Piwik -->
+<script type="text/javascript">
+    <!--
+    //<![CDATA[
+    var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.bpb.de/" : "http://piwik.bpb.de/");
+    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+    //]]>
+    //-->
+    </script>
+<script type="text/javascript">
+    <!--
+    //<![CDATA[
+    try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+
+    
+    } catch( err ) {}
+    //]]>
+    //-->
+    </script><noscript><img alt="" src="https://piwik.bpb.de/piwik.php?idsite=2" style="border:0"/></noscript>
+<!-- End Piwik Tracking Code -->
+<div class="cookie-banner">
+<div class="inner">
+        Wir setzen auf dieser Website Cookies ein. Diese dienen dazu, Ihnen Servicefunktionen anbieten
+        zu können sowie zu Statistik-und Analysezwecken (Web-Tracking).
+        Wie Sie dem Web-Tracking widersprechen können sowie weitere Informationen dazu finden Sie in unserer <a href="/269718/datenschutzerklaerung-fuer-bpb-de#opt-out">Datenschutzerklärung</a>.
+        <div class="close"></div>
+</div>
+</div>
+<script>
+$(function() {
+    var cookieBannerValue = Cookies.get('bpb-cookie-banner');
+
+    if ((typeof cookieBannerValue === 'undefined') || (cookieBannerValue != '1')) {
+        $('.cookie-banner').show();
+    }
+
+    $('.cookie-banner .close').click(function() {
+        $('.cookie-banner').fadeOut('slow', function() {
+            Cookies.set('bpb-cookie-banner', '1', {expires: 7});
+        });
+    });
+});
+</script>
+</thead></figcaption></figure></thead></figcaption></figure></section></article></div></div></div></body>
+</html>

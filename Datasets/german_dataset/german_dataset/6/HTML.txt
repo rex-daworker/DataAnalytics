@@ -1,0 +1,3740 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--
+			
+					=========================================================
+					Shopsoftware by Gambio GmbH (c) 2005-2019 [www.gambio.de]
+					=========================================================
+			
+					Gambio GmbH offers you highly scalable E-Commerce-Solutions and Services.
+					The Shopsoftware is redistributable under the GNU General Public License (Version 2) [http://www.gnu.org/licenses/gpl-2.0.html].
+					based on: E-Commerce Engine Copyright (c) 2006 xt:Commerce, created by Mario Zanier & Guido Winger and licensed under GNU/GPL.
+					Information and contribution at http://www.xt-commerce.com
+			
+					=========================================================
+					Please visit our website: www.gambio.de
+					=========================================================
+			
+					-->
+<script async="" src="/public/5fac17912e9ed.js"></script>
+<script async="" src="/public/5fac1790d7788.js"></script>
+<script>
+						var gaDisable = 'ga-disable-UA-145177194-1';
+
+			if (document.cookie.indexOf(gaDisable + '=true') > -1) {
+				window[gaDisable] = true;
+			}
+
+			function gaOptOut() {
+				document.cookie = gaDisable + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[gaDisable] = true;
+				console.log('Disabled Google-Analytics Tracking');
+			}
+
+			function gaOptout() {
+				gaOptOut();
+			}
+
+			function checkGaOptOutAnchor() {
+				if (location.hash.substr(1) === 'gaOptOut') {
+					gaOptOut();
+				}
+			}
+
+			checkGaOptOutAnchor();
+			window.addEventListener('hashchange', checkGaOptOutAnchor);
+			
+			window.dataLayer = window.dataLayer || [];
+			
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			
+
+			gtag('js', new Date());
+
+						gtag('config', 'UA-145177194-1', { 'anonymize_ip': true });
+			
+					</script>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="de" name="language"/>
+<title>hollandproducten.com -IHR Online-Supermarkt für holländische Spezialitäten und mehr!,hollandproducten.com - Die Nr. 1 in Deutschland für holländische Lebensmittel &amp; mehr.</title>
+<meta content="Conimex,Ketjap Manis,Beckers Frikandellen,holländische Lakritz,Venz,De Ruijter" name="keywords"/>
+<meta content="Der deutsche Onlineshop für holländische Lebensmittel und mehr" name="description"/>
+<meta content="hollandproducten.com - Die Nr. 1 in Deutschland für holländische Lebensmittel &amp; mehr." property="og:title"/>
+<base href="https://hollandproducten.com/"/>
+<link href="https://hollandproducten.com/images/logos/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="templates/Honeygrid/main.min.css?bust=1604854597" id="main-css" rel="stylesheet" type="text/css"/>
+<meta content="index,follow" name="robots"/>
+<link href="https://hollandproducten.com/de/?gclid=EAIaIQobChMIsaCej9bh4wIVRKgYCh03mQTREAMYAyAAEgI1aPD_BwE" rel="canonical"/>
+<meta content="https://hollandproducten.com/de/?gclid=EAIaIQobChMIsaCej9bh4wIVRKgYCh03mQTREAMYAyAAEgI1aPD_BwE" property="og:url"/>
+</head>
+<body class="page-index page-index-type-gm_boosted_category page-index-type-gclid page-index-type-language" data-gambio-controller="initialize" data-gambio-namespace="https://hollandproducten.com/templates/Honeygrid/assets/javascript/engine" data-gambio-widget="input_number responsive_image_loader transitions header image_maps modal history dropdown core_workarounds anchor" data-input_number-separator="," data-jse-namespace="https://hollandproducten.com/JSEngine/build" data-xycons-namespace="https://hollandproducten.com/GXModules/Xycons">
+<div class="mfp-bg iframe_layer mfp-ready popup-notification"></div>
+<div class="mfp-wrap mfp-close-btn-in mfp-auto-cursor iframe_layer mfp-ready popup-notification" data-gambio-widget="notifications" style="overflow-x: hidden; overflow-y: auto;" tabindex="-1">
+<div class="mfp-container mfp-inline-holder">
+<div class="mfp-content">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<span class="col-xs-11 title">Hinweis:</span>
+<i class="fa fa-close col-xs-1 hide-popup-notification"></i>
+</div>
+<div class="modal-body">
+<h3 style="text-align: center;"><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;"><strong><span style="color:#FF0000;">Wichtiger Hinweis zum Versand von Tiefkühlprodukten</span></strong><br/>
+<br/>
+Da uns die Frische unserer Produkte am Herzen liegt, versenden wir Bestellungen mit <strong><span style="color:#FF0000;">Tiefkühlprodukten ausschließlich mit DPD Food Express dienstags &amp; mittwochs.</span></strong><br/>
+Den Express-Versand müssen Sie derzeit noch manuell während des Bestellvorgangs auslösen. Bitte beachten Sie die entsprechenden Hinweise in den Artikelbeschreibungen (Versandhinweis). <br/>
+<br/>
+Die Pakete werden innerhalb von 24 Stunden nach Versand bei Ihnen zugestellt. Nur so können wir garantieren, dass die Produkte optimal gekühlt bei Ihnen ankommen.<br/>
+<br/>
+<span style="color:#FF0000;"><strong>Hinweis: </strong></span><br/>
+Aufgrund der hochwertigen Versandleistung von <span style="color:#FF0000;"><strong>DPD Food Express</strong></span> und den damit verbundenen Mehrkosten, müssen wir zu unserem Bedauern die Versandkostenfreigrenze von 75 € innerhalb Deutschland ausschließen. <br/>
+<br/>
+Der Versand von Tiefkühlprodukten innerhalb der EU erfolgt derzeit auf eigenes Risiko über den Regelversand. </span></span></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="outer-wrapper">
+<header class="navbar" id="header">
+<div id="topbar-container">
+<div class="navbar-topbar">
+<nav data-gambio-widget="menu link_crypter" data-menu-events='{"desktop": ["click"], "mobile": ["click"]}' data-menu-ignore-class="dropdown-menu" data-menu-switch-element-position="false">
+<ul class="nav navbar-nav navbar-right">
+<li class="navbar-topbar-item hidden-xs">
+<a href="https://hollandproducten.com/de/info/unser-bonussystem.html" title="Bonussystem"><span class="fa fa-arrow-circle-right visble-xs-block"></span>Bonussystem</a>
+</li>
+<li class="dropdown navbar-topbar-item first">
+<a class="dropdown-toggle" data-toggle-hover="dropdown" href="/de/?gclid=EAIaIQobChMIsaCej9bh4wIVRKgYCh03mQTREAMYAyAAEgI1aPD_BwE#" title="Anmeldung"><span class="fa fa-user-o"></span> Kundenlogin</a>
+<ul class="dropdown-menu dropdown-menu-login arrow-top">
+<li class="arrow"></li>
+<li class="dropdown-header hidden-xs">Kundenlogin</li>
+<li>
+<form action="https://hollandproducten.com/de/login.php?action=process" class="form-horizontal" method="post">
+<input name="return_url" type="hidden" value="https://hollandproducten.com/de/?gclid=EAIaIQobChMIsaCej9bh4wIVRKgYCh03mQTREAMYAyAAEgI1aPD_BwE"/>
+<input name="return_url_hash" type="hidden" value="587bc35da4436bb3fac46e3567799b2a9bc783a9fbd7bb7bd2f04f8e571221b8"/>
+<div class="form-group">
+<input autocomplete="username" class="form-control" id="box-login-dropdown-login-username" name="email_address" placeholder="E-Mail" type="email"/>
+</div>
+<div class="form-group">
+<input autocomplete="current-password" class="form-control" id="box-login-dropdown-login-password" name="password" placeholder="Passwort" type="password"/>
+</div>
+<div class="dropdown-footer row">
+<input class="btn btn-primary btn-block" type="submit" value="Anmelden"/>
+<ul>
+<li>
+<a href="https://hollandproducten.com/de/login.php" title="Konto erstellen">
+												Konto erstellen
+											</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/password_double_opt.php" title="Passwort vergessen?">
+												Passwort vergessen?
+											</a>
+</li>
+</ul>
+</div>
+</form>
+</li>
+</ul>
+</li>
+<li class="navbar-topbar-item">
+<a href="https://hollandproducten.com/de/wish_list.php" title="Merkzettel anzeigen"><span class="fa fa-heart-o"></span> Merkzettel</a>
+</li>
+<li class="navbar-topbar-item visible-xs">
+<a href="https://hollandproducten.com/de/info/unser-bonussystem.html" title="Bonussystem"><span class="fa fa-arrow-circle-right"></span> Bonussystem</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="inside">
+<div class="row">
+<div class="navbar-header" data-gambio-widget="mobile_menu">
+<div class="navbar-brand" id="navbar-brand">
+<a href="https://hollandproducten.com/de/" title="hollandproducten.com -IHR Online-Supermarkt für holländische Spezialitäten und mehr!">
+<img alt="hollandproducten.com -IHR Online-Supermarkt für holländische Spezialitäten und mehr!-Logo" class="img-responsive" src="https://hollandproducten.com/images/logos/hp_logo_267x42_logo.jpg"/>
+</a>
+</div>
+<button class="navbar-toggle" data-mobile_menu-body-class="categories-open" data-mobile_menu-target="#categories .navbar-collapse" data-mobile_menu-toggle-content-visibility="" type="button">
+<i class="gm-menu"></i>
+</button>
+<button class="navbar-toggle cart-icon" data-mobile_menu-location="shopping_cart.php" type="button">
+<i class="gm-cart-basket"></i>
+<span class="cart-products-count hidden">
+				0
+			</span>
+</button>
+<button class="navbar-toggle" data-mobile_menu-body-class="search-open" data-mobile_menu-target=".navbar-search" data-mobile_menu-toggle-content-visibility="" type="button">
+<i class="gm-search"></i>
+</button>
+</div>
+<div class="navbar-search collapse">
+<p class="navbar-search-header dropdown-header">Suche</p>
+<form action="de/advanced_search_result.php" data-gambio-widget="live_search" method="get">
+<div class="navbar-search-input-group input-group">
+<div class="navbar-search-input-group-btn input-group-btn custom-dropdown" data-dropdown-trigger-change="false" data-dropdown-trigger-no-change="false">
+<button aria-expanded="false" aria-haspopup="true" class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+<span class="dropdown-name">Alle</span> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu">
+<li><a data-rel="0" href="#">Alle</a></li>
+<li><a data-rel="852" href="#">Angebote</a></li>
+<li><a data-rel="854" href="#">Deal des Tages</a></li>
+<li><a data-rel="861" href="#">Kurzes MHD</a></li>
+<li><a data-rel="841" href="#">Lebensmittel</a></li>
+<li><a data-rel="842" href="#">Themen &amp; Saisoneles</a></li>
+<li><a data-rel="91" href="#">Baby &amp; Kinder</a></li>
+<li><a data-rel="121" href="#">Getränke</a></li>
+</ul>
+<select name="categories_id">
+<option value="0">Alle</option>
+<option value="852">Angebote</option>
+<option value="854">Deal des Tages</option>
+<option value="861">Kurzes MHD</option>
+<option value="841">Lebensmittel</option>
+<option value="842">Themen &amp; Saisoneles</option>
+<option value="91">Baby &amp; Kinder</option>
+<option value="121">Getränke</option>
+</select>
+</div>
+<input autocomplete="off" class="form-control search-input" name="keywords" placeholder="Suche..." type="text"/>
+<button class="gm-search form-control-feedback" type="submit"></button>
+</div>
+<input name="inc_subcat" type="hidden" value="1"/>
+<div class="navbar-search-footer visible-xs-block">
+<button class="btn btn-primary btn-block" type="submit">
+								Suche...
+							</button>
+<a class="btn btn-default btn-block" href="advanced_search.php" title="Erweiterte Suche">
+								Erweiterte Suche
+							</a>
+</div>
+<div class="search-result-container"></div>
+</form>
+</div>
+<div class="custom-container">
+<div class="inside">
+<!-- (M0016) (v:09.19) (Start) -->
+<span class="header-megapoints"><br/>Bitte registrieren Sie sich oder melden Sie sich an!<br/>Mögliche Bonuspunkte im Warenkorb: 0</span>
+<!-- (M0016) (v:09.19) (Ende) -->
+</div>
+</div>
+<nav class="navbar-cart" data-gambio-widget="menu cart_dropdown" data-menu-switch-element-position="false" id="cart-container">
+<ul class="cart-container-inner">
+<li>
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/shopping_cart.php">
+<i class="gm-cart-basket"></i>
+<span class="cart">
+									Ihr Warenkorb<br/>
+<span class="products">
+										 0,00 EUR
+									</span>
+</span>
+<span class="cart-products-count hidden">
+</span>
+<!-- (M0016) (v:08.33) (Start) -->
+<div data-xycons-widget="cart_change_handler_M0016"></div>
+<span class="cart-megapoints"><span class="cart-megapoints-points">0</span><span class="cart-megapoints-points-text"> Bonuspunkte</span></span>
+<!-- (M0016) (v:08.33) (Ende) -->
+</a>
+<ul class="dropdown-menu arrow-top cart-dropdown cart-empty">
+<li class="arrow"></li>
+<li class="cart-dropdown-inside">
+<div class="cart-empty">
+							Sie haben noch keine Artikel in Ihrem Warenkorb.
+						</div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="row cookie-bar bottom" data-gambio-widget="cookie_bar" style="background-color: #e61034; opacity: 1">
+<span class="col-sm-9 col-md-10 content">
+<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#FFFFFF;">Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer</span><a href="https://hollandproducten.com/de/info/Privatsphaere-Datenschutz-Datenschutzerklaerung.html"><span style="color:#FFFFFF;"> Datenschutzerklärung.</span></a></span></span>
+</span>
+<span class="col-sm-3 col-md-2 close-button">
+<a class="btn btn-default btn-sm close-button" href="https://hollandproducten.com/de/info/Privatsphaere-Datenschutz-Datenschutzerklaerung.html" style="background-color: #fcfafc; color: #110c99; margin-right: 15px;">
+															Ok
+													</a>
+<span class="fa-stack">
+<i class="fa fa-circle fa-inverse fa-stack-2x"></i>
+<i class="fa fa-close fa-stack-1x"></i>
+</span>
+</span>
+</div>
+<noscript>
+<div class="alert alert-danger noscript-notice">
+								JavaScript ist in Ihrem Browser deaktiviert. Aktivieren Sie JavaScript, um alle Funktionen des Shops nutzen und alle Inhalte sehen zu können.
+							</div>
+</noscript>
+<div id="categories">
+<div class="navbar-collapse collapse">
+<nav class="navbar-default navbar-categories" data-gambio-widget="menu">
+<ul class="level-1 nav navbar-nav">
+<li class="level-1-child" data-id="852">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/Sonderangebote/" title="Angebote">
+												
+													Angebote
+												
+																							</a>
+</li>
+<li class="level-1-child" data-id="854">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/Deal-des-Tages/" title="Deal des Tages">
+												
+													Deal des Tages
+												
+																							</a>
+</li>
+<li class="level-1-child" data-id="861">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/produkte-mit-kurzem-mhd/" title="Kurzes MHD">
+												
+													Kurzes MHD
+												
+																							</a>
+</li>
+<li class="dropdown level-1-child" data-id="841">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/" title="Lebensmittel">
+												
+													Lebensmittel
+												
+																							</a>
+<ul class="level-2 dropdown-menu dropdown-menu-child" data-level="2">
+<li class="enter-category hidden-sm hidden-md hidden-lg hide-more">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/" title="Lebensmittel">
+																		
+																			Lebensmittel anzeigen
+																		
+																	</a>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/backwaren/" title="Backwaren">
+																			Backwaren
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/backwaren/" title="Backwaren">
+																						Backwaren anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/backwaren/Kekse---Gebaeck/" title="Kekse &amp; Gebäck">
+																								Kekse &amp; Gebäck
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/backwaren/Backmischungen/" title="Backmischungen">
+																								Backmischungen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/backwaren/mehle/" title="Backzutaten">
+																								Backzutaten
+																							</a>
+</li>
+</ul>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/" title="Gekühltes u. Gefrorenes">
+																			Gekühltes u. Gefrorenes
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/" title="Gekühltes u. Gefrorenes">
+																						Gekühltes u. Gefrorenes anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/" title="Aus dem Kühlregal">
+																								Aus dem Kühlregal
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Tiefkuehlprodukte-Hollaendische-Snacks-Diepvriesproducten/" title="Snacks - Tiefkühlprodukte">
+																								Snacks - Tiefkühlprodukte
+																							</a>
+</li>
+</ul>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/" title="Rund ums Frühstück">
+																			Rund ums Frühstück
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/" title="Rund ums Frühstück">
+																						Rund ums Frühstück anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Brotersatz/" title="Brot, Brotersatz &amp; Müsli">
+																								Brot, Brotersatz &amp; Müsli
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Brotaufstrich/" title="Brotaufstrich">
+																								Brotaufstrich
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/kaese/" title="Käse">
+																								Käse
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Streusel-Hagelslag-Vlokken-Schokoladenstreusel-Milchschokoladenstreusel-Schokoladenflocken/" title="Streusel">
+																								Streusel
+																							</a>
+</li>
+</ul>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/" title="Tee, Kaffee, Kakao &amp; Milch">
+																			Tee, Kaffee, Kakao &amp; Milch
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/" title="Tee, Kaffee, Kakao &amp; Milch">
+																						Tee, Kaffee, Kakao &amp; Milch anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Kaffee/" title="Für den Kaffee">
+																								Für den Kaffee
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Tee/" title="Tee">
+																								Tee
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Kakao/" title="Kakao">
+																								Kakao
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Soja-Drinks/" title="Milch &amp; Soja Drinks">
+																								Milch &amp; Soja Drinks
+																							</a>
+</li>
+</ul>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/" title="Saucen">
+																			Saucen
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/" title="Saucen">
+																						Saucen anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/mayonaise-fritessauzen/" title="Mayonnaisen &amp; Fritensaucen">
+																								Mayonnaisen &amp; Fritensaucen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/ketchup-currysauzen-zigeunersaus-Zigeunersosse/" title="Rote Saucen (Ketchup/Currysaucen, etc.)">
+																								Rote Saucen (Ketchup/Currysaucen, etc.)
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/dip-tafelsauzen/" title="Dip-/Tafel-/Grillsaucen">
+																								Dip-/Tafel-/Grillsaucen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/pinda-satesauzen/" title="Pinda- /Erdnusssaucen">
+																								Pinda- /Erdnusssaucen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/salatdressings/" title="Salatdressings">
+																								Salatdressings
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Sossen---Saucen/Diverse-451/" title="Andere">
+																								Andere
+																							</a>
+</li>
+</ul>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Suppen/" title="Suppen &amp; Fertiggerichte">
+																			Suppen &amp; Fertiggerichte
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Suppen/" title="Suppen &amp; Fertiggerichte">
+																						Suppen &amp; Fertiggerichte anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Suppen/suppen/" title="Holländische Suppen">
+																								Holländische Suppen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Suppen/Fertiggerichte/" title="Fertiggerichte">
+																								Fertiggerichte
+																							</a>
+</li>
+</ul>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Fleisch-fisch-u--Wurstwaren/" title="Fleisch-Fisch u. Wurstwaren">
+																			Fleisch-Fisch u. Wurstwaren
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Obst---Gemuese/" title="Obst &amp; Gemüse">
+																			Obst &amp; Gemüse
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Teigwaren---Nudeln/" title="Teigwaren &amp; Nudeln">
+																			Teigwaren &amp; Nudeln
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Kraeuter-Gewuerze-Essig-Oele/" title="Kräuter, Gewürze, Essig, Öle  &amp; Pflanzenfette">
+																			Kräuter, Gewürze, Essig, Öle  &amp; Pflanzenfette
+																		</a>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/" title="Chips, Cracker, Knabbereien, Nüsse, Snacks">
+																			Chips, Cracker, Knabbereien, Nüsse, Snacks
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/" title="Chips, Cracker, Knabbereien, Nüsse, Snacks">
+																						Chips, Cracker, Knabbereien, Nüsse, Snacks anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/cracker/" title="Cracker">
+																								Cracker
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/Chips-und-Cracker/" title="Chips">
+																								Chips
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/Nuesse/" title="Nüsse">
+																								Nüsse
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/Snacks/" title="Snacks">
+																								Snacks
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Knabberartikel/Diversen/" title="Alles andere">
+																								Alles andere
+																							</a>
+</li>
+</ul>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/" title="Süßigkeiten &amp; Lakritz">
+																			Süßigkeiten &amp; Lakritz
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/" title="Süßigkeiten &amp; Lakritz">
+																						Süßigkeiten &amp; Lakritz anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Schokolade-Schokoladetafeln-Schokoladeriegel/" title="Schokolade, Nougat">
+																								Schokolade, Nougat
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Kaugummi/" title="Kaugummi">
+																								Kaugummi
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Pfefferminz-und-Bonbons/" title="Pfefferminz &amp; Bonbons, Toffees">
+																								Pfefferminz &amp; Bonbons, Toffees
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/lakritz-fruchtgummi/" title="Lakritz, Fruchtgummi, Schaumzucker">
+																								Lakritz, Fruchtgummi, Schaumzucker
+																							</a>
+</li>
+</ul>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/lebensmittel/Vorteilpacks/" title="Vorteilpacks">
+																			Vorteilpacks
+																		</a>
+</li>
+<li class="enter-category hidden-more hidden-xs">
+<a class="dropdown-toggle col-xs-6" href="https://hollandproducten.com/de/lebensmittel/" title="Lebensmittel">Lebensmittel anzeigen</a>
+<span class="close-menu-container col-xs-6">
+<span class="close-flyout">
+<i class="fa fa-close"></i>
+</span>
+</span>
+</li>
+</ul>
+</li>
+<li class="dropdown level-1-child" data-id="842">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/themen-saisoneles/" title="Themen &amp; Saisoneles">
+												
+													Themen &amp; Saisoneles
+												
+																							</a>
+<ul class="level-2 dropdown-menu dropdown-menu-child" data-level="2">
+<li class="enter-category hidden-sm hidden-md hidden-lg hide-more">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/themen-saisoneles/" title="Themen &amp; Saisoneles">
+																		
+																			Themen &amp; Saisoneles anzeigen
+																		
+																	</a>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/" title="Asiatische Küche">
+																			Asiatische Küche
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/" title="Asiatische Küche">
+																						Asiatische Küche anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/beilagen/" title="Beilagen">
+																								Beilagen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/rund-ums-wokken/" title="Rund ums Wokken">
+																								Rund ums Wokken
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/boemboe-currypasten/" title="Boemboe &amp; Currypasten">
+																								Boemboe &amp; Currypasten
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/chilipasten-sambals/" title="Chilipasten (Sambals)">
+																								Chilipasten (Sambals)
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/mixen-gewuerze/" title="Mixen &amp; Gewürze">
+																								Mixen &amp; Gewürze
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/saucen-marinaden/" title="Saucen &amp; Marinaden">
+																								Saucen &amp; Marinaden
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/sojasaucen-ketjap/" title="Sojasaucen (Ketjap)">
+																								Sojasaucen (Ketjap)
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/Zubehoer-Asiatische-Kueche/" title="Zubehör Asiatische Küche">
+																								Zubehör Asiatische Küche
+																							</a>
+</li>
+</ul>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/FAIR-TRADE-Produkte/" title="FAIR TRADE Produkte">
+																			FAIR TRADE Produkte
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Vegi-vegetarisch-lebensmittel/" title="Vegetarisch / Vegan">
+																			Vegetarisch / Vegan
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Laktosefreie-hollaendische-Produkte/" title="Laktosefreie Lebensmittel">
+																			Laktosefreie Lebensmittel
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/glutenfreie-produkte/" title="Glutenfreie Produkte">
+																			Glutenfreie Produkte
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Nikolaus-Kerst-Weihnachten-Sinterklaas-Silvester/" title="Nikolaus, Weihnachten &amp; Silvester">
+																			Nikolaus, Weihnachten &amp; Silvester
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/ptt-eigendom-taschen-tas-holland-Klompsloffen-Amsterdam--Pantoffeln/" title="Souvenirs">
+																			Souvenirs
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Geschenkgutscheine/" title="Geschenkgutscheine">
+																			Geschenkgutscheine
+																		</a>
+</li>
+<li class="dropdown level-2-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/kueche/" title="Küche">
+																			Küche
+																		</a>
+<ul class="level-3 dropdown-menu dropdown-menu-child" data-level="3">
+<li class="enter-category">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/themen-saisoneles/kueche/" title="Küche">
+																						Küche anzeigen
+																					</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/kueche/kochen-backen/" title="Kochen &amp; Backen">
+																								Kochen &amp; Backen
+																							</a>
+</li>
+<li class="level-3-child">
+<a href="https://hollandproducten.com/de/themen-saisoneles/kueche/zubehoer/" title="Tischaccessoires">
+																								Tischaccessoires
+																							</a>
+</li>
+</ul>
+</li>
+<li class="enter-category hidden-more hidden-xs">
+<a class="dropdown-toggle col-xs-6" href="https://hollandproducten.com/de/themen-saisoneles/" title="Themen &amp; Saisoneles">Themen &amp; Saisoneles anzeigen</a>
+<span class="close-menu-container col-xs-6">
+<span class="close-flyout">
+<i class="fa fa-close"></i>
+</span>
+</span>
+</li>
+</ul>
+</li>
+<li class="level-1-child" data-id="91">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/Baby---Kinder/" title="Baby &amp; Kinder">
+												
+													Baby &amp; Kinder
+												
+																							</a>
+</li>
+<li class="dropdown level-1-child" data-id="121">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/Getraenke/" title="Getränke">
+												
+													Getränke
+												
+																							</a>
+<ul class="level-2 dropdown-menu dropdown-menu-child" data-level="2">
+<li class="enter-category hidden-sm hidden-md hidden-lg hide-more">
+<a class="dropdown-toggle" href="https://hollandproducten.com/de/Getraenke/" title="Getränke">
+																		
+																			Getränke anzeigen
+																		
+																	</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/Getraenke/Alkoholische-Spezialitaeten/" title="Alkoholische Getränke">
+																			Alkoholische Getränke
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/Getraenke/Erfrischungsgetraenke/" title="Erfrischungsgetränke">
+																			Erfrischungsgetränke
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/Getraenke/Saefte/" title="Säfte">
+																			Säfte
+																		</a>
+</li>
+<li class="level-2-child">
+<a href="https://hollandproducten.com/de/Getraenke/Sirups/" title="Sirups">
+																			Sirups
+																		</a>
+</li>
+<li class="enter-category hidden-more hidden-xs">
+<a class="dropdown-toggle col-xs-6" href="https://hollandproducten.com/de/Getraenke/" title="Getränke">Getränke anzeigen</a>
+<span class="close-menu-container col-xs-6">
+<span class="close-flyout">
+<i class="fa fa-close"></i>
+</span>
+</span>
+</li>
+</ul>
+</li>
+<li class="dropdown dropdown-more" style="display: none">
+<a class="dropdown-toggle" href="#" title="">
+										Weitere
+									</a>
+<ul class="level-2 dropdown-menu ignore-menu"></ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+<div data-gambio-widget="slider_flyover" id="stage">
+<div data-gambio-widget="slider_responsive" data-slider_responsive-effect="fade" data-slider_responsive-source="#json-serialized-slider" data-slider_responsive-speed="600" id="slider">
+<div class="swiper-container" data-gambio-widget="swiper" data-swiper-breakpoints='[{"breakpoint": 100, "usePreviewBullets": true, "slidesPerView": 1}]' data-swiper-disable-translucence-fix="true" data-swiper-slider-options='{"effect": "fade", "speed": 600, "nextButton": ".js-teaser-slider-next", "prevButton": ".js-teaser-slider-prev", "autoplay": }'>
+<div class="swiper-wrapper">
+</div>
+<div class="swiper-pagination"></div>
+<div class="js-teaser-slider-prev swiper-button-prev"></div>
+<div class="js-teaser-slider-next swiper-button-next"></div>
+</div>
+<script id="json-serialized-slider" type="application/json">{
+    "id": 9,
+    "name": "07 MAI 2019",
+    "speed": 2,
+    "showOnStartPage": true,
+    "slides": [
+        {
+            "id": 48,
+            "languageId": 2,
+            "thumbnail": "",
+            "title": "Tee",
+            "altText": "",
+            "url": "https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Tee/",
+            "urlTarget": "_self",
+            "images": [
+                {
+                    "id": 192,
+                    "languageId": 2,
+                    "breakpoint": "lg",
+                    "image": "Oktober_2019_Tee_2.png",
+                    "areas": []
+                },
+                {
+                    "id": 191,
+                    "languageId": 2,
+                    "breakpoint": "md",
+                    "image": "Oktober_2019_Tee_2.png",
+                    "areas": []
+                },
+                {
+                    "id": 189,
+                    "languageId": 2,
+                    "breakpoint": "xs",
+                    "image": "Oktober_2019_Tee_2.png",
+                    "areas": []
+                },
+                {
+                    "id": 190,
+                    "languageId": 2,
+                    "breakpoint": "sm",
+                    "image": "Oktober_2019_Tee_2.png",
+                    "areas": []
+                }
+            ],
+            "sortOrder": 1
+        },
+        {
+            "id": 46,
+            "languageId": 2,
+            "thumbnail": "",
+            "title": "Kekse und Geb\u00e4ck ",
+            "altText": "",
+            "url": "https://hollandproducten.com/de/lebensmittel/backwaren/Kekse---Gebaeck/",
+            "urlTarget": "_self",
+            "images": [
+                {
+                    "id": 182,
+                    "languageId": 2,
+                    "breakpoint": "sm",
+                    "image": "Oktober_2019_Koekjes_2.png",
+                    "areas": []
+                },
+                {
+                    "id": 183,
+                    "languageId": 2,
+                    "breakpoint": "md",
+                    "image": "Oktober_2019_Koekjes_2.png",
+                    "areas": []
+                },
+                {
+                    "id": 184,
+                    "languageId": 2,
+                    "breakpoint": "lg",
+                    "image": "Oktober_2019_Koekjes_2.png",
+                    "areas": []
+                },
+                {
+                    "id": 181,
+                    "languageId": 2,
+                    "breakpoint": "xs",
+                    "image": "Oktober_2019_Koekjes_2.png",
+                    "areas": []
+                }
+            ],
+            "sortOrder": 2
+        },
+        {
+            "id": 41,
+            "languageId": 2,
+            "thumbnail": "",
+            "title": "Snacks - Tiefk\u00fchlprodukte",
+            "altText": "",
+            "url": "https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Tiefkuehlprodukte-Hollaendische-Snacks-Diepvriesproducten/",
+            "urlTarget": "_self",
+            "images": [
+                {
+                    "id": 164,
+                    "languageId": 2,
+                    "breakpoint": "lg",
+                    "image": "syfro_shop_banner_tk.jpg",
+                    "areas": []
+                },
+                {
+                    "id": 163,
+                    "languageId": 2,
+                    "breakpoint": "md",
+                    "image": "syfro_shop_banner_tk.jpg",
+                    "areas": []
+                },
+                {
+                    "id": 162,
+                    "languageId": 2,
+                    "breakpoint": "sm",
+                    "image": "syfro_shop_banner_tk.jpg",
+                    "areas": []
+                },
+                {
+                    "id": 161,
+                    "languageId": 2,
+                    "breakpoint": "xs",
+                    "image": "syfro_shop_banner_tk.jpg",
+                    "areas": []
+                }
+            ],
+            "sortOrder": 3
+        }
+    ]
+}</script>
+<script id="json-placeholder-slide" type="application/json">{"baseUrl":"https:\/\/hollandproducten.com\/images\/slider_images\/","languageId":"2"}</script>
+<script>
+		// Render the correct placeholder image depending the viewport width.
+		(function() {
+			var slider = JSON.parse(document.getElementById('json-serialized-slider').innerHTML);
+			var placeholderSlide = JSON.parse(document.getElementById('json-placeholder-slide').innerHTML);
+			var breakpoint;
+			
+			if (window.innerWidth <= 768) {
+				breakpoint = 'xs'
+			} else if (window.innerWidth <= 992) {
+				breakpoint = 'sm';
+			} else if (window.innerWidth <= 1200) {
+				breakpoint = 'md';
+			} else {
+				breakpoint = 'lg';
+			}
+			
+			loop:
+			for (var index in slider.slides) {
+				var slide = slider.slides[index];
+				
+				if (slide.languageId !== +placeholderSlide.languageId) { // + converts value to int
+					continue;
+				}
+				
+				for (var imageIndex in slide.images) {
+					var slideImage = slide.images[imageIndex];
+					
+					if (slideImage.breakpoint === breakpoint && slideImage.image) {
+						var slide = document.createElement('div');
+						slide.className = 'swiper-slide';
+						
+						var image = document.createElement('img');
+						image.className = 'placeholder-image img-responsive center-block';
+						image.setAttribute('src', placeholderSlide.baseUrl + slideImage.image);
+						image.setAttribute('alt', 'Placeholder Image');
+						
+						slide.appendChild(image);
+						
+						document.querySelector('#slider .swiper-container .swiper-wrapper').appendChild(slide);
+						
+						break loop;
+					}
+				}
+			}
+		})();
+	</script>
+</div>
+</div>
+<div id="wrapper">
+<div class="row">
+<div id="main">
+<div class="main-inside">
+<div id="breadcrumb_navi" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span class="breadcrumbEntry" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="headerNavigation" href="https://hollandproducten.com/" itemprop="item">
+<span itemprop="name">Startseite</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+<div class="content-page-index">
+<div style="text-align: center;">
+<br/>
+	       
+</div>
+<br/>
+ 
+    </div>
+<h2>Unsere Empfehlungen</h2>
+<div class="productlist productlist-swiper row">
+<div data-gambio-widget="product_hover">
+<div class="swiper-container" data-gambio-widget="swiper" data-swiper-auto-off="true" data-swiper-slider-options='{"spaceBetween":0,"loop":true,"slidesPerView":4,"autoplay":null,"breakpoints":[{"breakpoint":40,"usePreviewBullets":true,"slidesPerView":2,"centeredSlides":true},{"breakpoint":60,"usePreviewBullets":true,"slidesPerView":2},{"breakpoint":80,"usePreviewBullets":true,"slidesPerView":3},{"breakpoint":100,"usePreviewBullets":true,"slidesPerView":4}],"nextButton":".js-new-products-button-next","prevButton":".js-new-products-button-prev","pagination":".js-new-products-pagination"}' id="new-products">
+<div class="swiper-wrapper">
+<div class="product-container swiper-slide " data-index="new-products-12341">
+<form class="product-tile">
+<figure class="image" id="new-products-12341_img">
+<span class="product-hover-main-image product-image" title="Filet Americain 150 g">
+<img alt="Filet Americain 150 g" src="images/product_images/info_images/filet_americain_naturel.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+<div class="ribbon-special">
+<span>-11%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fleisch-fisch-u--Wurstwaren/Filet-Americain-150-g.html" title="Filet Americain - rohes gerwürztes Rindfleisch mit ganz feiner Struktur. ...">
+								Filet Americain 150 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Filet Americain - rohes gerwürztes Rindfleisch mit ganz feiner Struktur. ...">
+<span class="rating-stars rating-stars-50" title="In 16 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Filet Americain - rohes gerwürztes Rindfleisch mit ganz feiner Struktur. ...">
+<span class="productOldPrice">Statt  4,10 EUR</span><br/> Nur  3,62 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 2,41 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-7752">
+<form class="product-tile">
+<figure class="image" id="new-products-7752_img">
+<span class="product-hover-main-image product-image" title="Fortuin Wilhelmina Pepermunt 225 g">
+<img alt="Fortuin Wilhelmina Pepermunt 225 g" src="images/product_images/info_images/Fortuin-Wilhelmina-Pepermunt-225g.PNG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Pfefferminz-und-Bonbons/Fortuin-Wilhelmina-Pepermunt-225-g.html" title="Wilhelmina Pfefferminztaler von Fortuin. Das Original aus Holland">
+								Fortuin Wilhelmina Pepermunt 225 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Wilhelmina Pfefferminztaler von Fortuin. Das Original aus Holland">
+<span class="rating-stars rating-stars-45" title="In 9 Rezensionen durchschnittlich mit 4.5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Wilhelmina Pfefferminztaler von Fortuin. Das Original aus Holland">
+									 2,05 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 0,91 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-15050">
+<form class="product-tile">
+<figure class="image" id="new-products-15050_img">
+<span class="product-hover-main-image product-image" title="PCD Pindakaas 350 g">
+<img alt="PCD Pindakaas 350 g" src="images/product_images/info_images/pcdpindkaas350g.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Brotaufstrich/PCD-Pindakaas-350g.html" title="Der rot-grüne Topf: Wer kennt ihn nicht? PCD-Erdnussbutter enthält ...">
+								PCD Pindakaas 350 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Der rot-grüne Topf: Wer kennt ihn nicht? PCD-Erdnussbutter enthält ...">
+<span class="rating-stars rating-stars-45" title="In 5 Rezensionen durchschnittlich mit 4.5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Der rot-grüne Topf: Wer kennt ihn nicht? PCD-Erdnussbutter enthält ...">
+									 2,54 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 0,73 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-1301">
+<form class="product-tile">
+<figure class="image" id="new-products-1301_img">
+<span class="product-hover-main-image product-image" title="Bolletje taai-taai poppen 350 g">
+<img alt="Bolletje taai-taai poppen 350 g" src="images/product_images/info_images/bolletje_taai-taai.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/themen-saisoneles/Nikolaus-Kerst-Weihnachten-Sinterklaas-Silvester/Bolletje-taai-taai-poppen-350-g.html" title="Holländischer Lebkuchen,. Damit sie nicht hart werden, empfehlen wir die Tai...">
+								Bolletje taai-taai poppen 350 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Holländischer Lebkuchen,. Damit sie nicht hart werden, empfehlen wir die Tai...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Holländischer Lebkuchen,. Damit sie nicht hart werden, empfehlen wir die Tai...">
+									 3,23 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 0,92 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-14659">
+<form class="product-tile">
+<figure class="image" id="new-products-14659_img">
+<span class="product-hover-main-image product-image" title="Lindemulder Indische Cake - 675 g">
+<img alt="Lindemulder Indische Cake - 675 g" src="images/product_images/info_images/Lindemulder-Indische-Cake.png"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/backwaren/Kekse---Gebaeck/lindemulder-indische-cake-675-g.html" title="Indischer Kuchen">
+								Lindemulder Indische Cake - 675 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Indischer Kuchen">
+<span class="rating-stars rating-stars-50" title="In 2 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Indischer Kuchen">
+									 3,42 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 0,51 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-14759">
+<form class="product-tile">
+<figure class="image" id="new-products-14759_img">
+<span class="product-hover-main-image product-image" title="Molengoud Fries Suikerbrood 450 g">
+<img alt="Molengoud Fries Suikerbrood 450 g" src="images/product_images/info_images/suikerbrood.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Brotersatz/molengoud-fries-suikerbrood-450-g.html" title="Zuckerbrot, das in Holland gerne zum Kaffee/Tee gereicht wird">
+								Molengoud Fries Suikerbrood 450 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Zuckerbrot, das in Holland gerne zum Kaffee/Tee gereicht wird">
+<span class="rating-stars rating-stars-50" title="In 4 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Zuckerbrot, das in Holland gerne zum Kaffee/Tee gereicht wird">
+									 3,91 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 0,87 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-15333">
+<form class="product-tile">
+<figure class="image" id="new-products-15333_img">
+<span class="product-hover-main-image product-image" title="Hekos Indonesische spekkoek Banaan 570 g">
+<img alt="Hekos Indonesische spekkoek Banaan 570 g" src="images/product_images/info_images/Hekos-Spekkoek-Banaan-570g.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/backwaren/Kekse---Gebaeck/hekos-indonesische-spekkoek-banaan-570-g.html" title="Spekkoek ist ein niederländisch-indonesischen Kuchen Schichtkuchen mit ...">
+								Hekos Indonesische spekkoek Banaan 570 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Spekkoek ist ein niederländisch-indonesischen Kuchen Schichtkuchen mit ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Spekkoek ist ein niederländisch-indonesischen Kuchen Schichtkuchen mit ...">
+									 16,97 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 29,77 EUR pro 1 kg
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-15165">
+<form class="product-tile">
+<figure class="image" id="new-products-15165_img">
+<span class="product-hover-main-image product-image" title="Optimel Vanille Vla 1 Liter 0% Vet">
+<img alt="Optimel Vanille Vla 1 Liter 0% Vet" src="images/product_images/info_images/Optimel-Vanille-Vla-1-Liter.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/Milchprodukte-Vla-Fla-Pudding-Sojadrink-Joghurt/optimel-vanille-vla-1-liter-0-vet.html" title="Optimel halbflüssiger Vanillepudding mit wenigen Kalorien und 0% Fett">
+								Optimel Vanille Vla 1 Liter 0% Vet
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Optimel halbflüssiger Vanillepudding mit wenigen Kalorien und 0% Fett">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Optimel halbflüssiger Vanillepudding mit wenigen Kalorien und 0% Fett">
+									 3,13 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 3,13 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-1401">
+<form class="product-tile">
+<figure class="image" id="new-products-1401_img">
+<span class="product-hover-main-image product-image" title="Conimex Wokolie 500 ml">
+<img alt="Conimex Wokolie 500 ml" src="images/product_images/info_images/conimex_wokolie.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/rund-ums-wokken/Conimex-Wokolie-500-ml.html" title="Spezielles Öl für den Wok, das sehr heiß werden kann ohne zu verbrennen. ...">
+								Conimex Wokolie 500 ml
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Spezielles Öl für den Wok, das sehr heiß werden kann ohne zu verbrennen. ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Spezielles Öl für den Wok, das sehr heiß werden kann ohne zu verbrennen. ...">
+									 6,86 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 13,72 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-14301">
+<form class="product-tile">
+<figure class="image" id="new-products-14301_img">
+<span class="product-hover-main-image product-image" title="Pikeurtje vruchtenwijn 12% vol 1 L">
+<img alt="Pikeurtje vruchtenwijn 12% vol 1 L" src="images/product_images/info_images/Pikeurtje-1-Liter.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/Getraenke/Alkoholische-Spezialitaeten/Pikeurtje-vruchtenwijn-12--vol-1-L.html" title="Pikeurtje vruchtenwijn ist ein Aromatisierter Fruchtwein aus Holland">
+								Pikeurtje vruchtenwijn 12% vol 1 L
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Pikeurtje vruchtenwijn ist ein Aromatisierter Fruchtwein aus Holland">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Pikeurtje vruchtenwijn ist ein Aromatisierter Fruchtwein aus Holland">
+									 7,01 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 7,01 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-15257">
+<form class="product-tile">
+<figure class="image" id="new-products-15257_img">
+<span class="product-hover-main-image product-image" title="Chocomel Halfvol 6x 200 ml">
+<img alt="Chocomel Halfvol 6x 200 ml" src="images/product_images/info_images/Chocomel-Halfvol-6x-200-ml.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Kakao/chocomel-halfvol-6x-200-ml.html" title="Die beste Trinkschokolade aus Holland im handlichen Sixpack- Hergestellt mit ...">
+								Chocomel Halfvol 6x 200 ml
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Die beste Trinkschokolade aus Holland im handlichen Sixpack- Hergestellt mit ...">
+<span class="rating-stars rating-stars-40" title="In 1 Rezensionen durchschnittlich mit 4 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Die beste Trinkschokolade aus Holland im handlichen Sixpack- Hergestellt mit ...">
+									 4,79 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 3,99 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-15539">
+<form class="product-tile">
+<figure class="image" id="new-products-15539_img">
+<span class="product-hover-main-image product-image" title="Zeeuwse Roomboter Babbelaars 325 g">
+<img alt="Zeeuwse Roomboter Babbelaars 325 g" src="images/product_images/info_images/Zeeuwse-Roomboter-Babbelaars-325-g.png"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Pfefferminz-und-Bonbons/zeuuwse-roomboter-babbelaars-325-g.html" title="Original holländische Babbbelaars aus der Region Zeeland. Diese leckeren ...">
+								Zeeuwse Roomboter Babbelaars 325 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Original holländische Babbbelaars aus der Region Zeeland. Diese leckeren ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Original holländische Babbbelaars aus der Region Zeeland. Diese leckeren ...">
+									 4,11 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,26 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="js-new-products-pagination swiper-pagination"></div>
+</div>
+<script type="text/mustache">
+						<template>
+														
+								{{#.}}
+									<div class="swiper-slide {{className}}">
+										<div class="swiper-slide-inside">
+											<img class="img-responsive" {{{srcattr}}} alt="{{title}}" title="{{title}}" data-magnifier-src="{{src}}" />
+										</div>
+									</div>
+								{{/.}}
+							
+													</template>
+					</script>
+</div>
+<div class="js-new-products-button-prev swiper-button-prev"></div>
+<div class="js-new-products-button-next swiper-button-next"></div>
+</div>
+</div>
+<script>
+		gtag('event', 'view_item_list', { items: [{"id":"J-0500","name":"Filet Americain 150 g","list_name":"Top Products List","price":3.6199799999999999755573298898525536060333251953125},{"id":"42M003_1","name":"Fortuin Wilhelmina Pepermunt 225 g","list_name":"Top Products List","brand":"FORTUIN","price":2.050019999999999953388396534137427806854248046875},{"id":"110J001_4","name":"PCD Pindakaas 350 g","list_name":"Top Products List","price":2.541630000000000055848659030743874609470367431640625},{"id":"N-2.021","name":"Bolletje taai-taai poppen 350 g","list_name":"Top Products List","brand":"Bolletje","price":3.228540000000000187441173693514429032802581787109375},{"id":"114M017","name":"Lindemulder Indische Cake - 675 g","list_name":"Top Products List","brand":"LINDEMULDER","price":3.4247849999999999681676854379475116729736328125},{"id":"82N001_3","name":"Molengoud Fries Suikerbrood 450 g","list_name":"Top Products List","brand":"Molengoud","price":3.90557999999999960749619276612065732479095458984375},{"id":"114S104","name":"Hekos Indonesische spekkoek Banaan 570 g","list_name":"Top Products List","brand":"Hekos","price":16.96684499999999928832039586268365383148193359375},{"id":"128M001_1","name":"Optimel Vanille Vla 1 Liter 0% Vet","list_name":"Top Products List","brand":"Optimel","price":3.13036500000000028620661396416835486888885498046875},{"id":"23M096","name":"Conimex Wokolie 500 ml","list_name":"Top Products List","brand":"Conimex","price":6.8593349999999997379518390516750514507293701171875},{"id":"J-0904__1","name":"Pikeurtje vruchtenwijn 12% vol 1 L","list_name":"Top Products List","price":7.008720000000000283080225926823914051055908203125},{"id":"16N007_1","name":"Chocomel Halfvol 6x 200 ml","list_name":"Top Products List","brand":"CHOCOMEL","price":4.78873499999999996390442902338691055774688720703125},{"id":"114S141","name":"Zeeuwse Roomboter Babbelaars 325 g","list_name":"Top Products List","price":4.11169500000000009976020010071806609630584716796875}] });
+	</script>
+<script data-json='[{"id":"J-0500","name":"Filet Americain 150 g","list_name":"Top Products List","price":3.6199799999999999755573298898525536060333251953125},{"id":"42M003_1","name":"Fortuin Wilhelmina Pepermunt 225 g","list_name":"Top Products List","brand":"FORTUIN","price":2.050019999999999953388396534137427806854248046875},{"id":"110J001_4","name":"PCD Pindakaas 350 g","list_name":"Top Products List","price":2.541630000000000055848659030743874609470367431640625},{"id":"N-2.021","name":"Bolletje taai-taai poppen 350 g","list_name":"Top Products List","brand":"Bolletje","price":3.228540000000000187441173693514429032802581787109375},{"id":"114M017","name":"Lindemulder Indische Cake - 675 g","list_name":"Top Products List","brand":"LINDEMULDER","price":3.4247849999999999681676854379475116729736328125},{"id":"82N001_3","name":"Molengoud Fries Suikerbrood 450 g","list_name":"Top Products List","brand":"Molengoud","price":3.90557999999999960749619276612065732479095458984375},{"id":"114S104","name":"Hekos Indonesische spekkoek Banaan 570 g","list_name":"Top Products List","brand":"Hekos","price":16.96684499999999928832039586268365383148193359375},{"id":"128M001_1","name":"Optimel Vanille Vla 1 Liter 0% Vet","list_name":"Top Products List","brand":"Optimel","price":3.13036500000000028620661396416835486888885498046875},{"id":"23M096","name":"Conimex Wokolie 500 ml","list_name":"Top Products List","brand":"Conimex","price":6.8593349999999997379518390516750514507293701171875},{"id":"J-0904__1","name":"Pikeurtje vruchtenwijn 12% vol 1 L","list_name":"Top Products List","price":7.008720000000000283080225926823914051055908203125},{"id":"16N007_1","name":"Chocomel Halfvol 6x 200 ml","list_name":"Top Products List","brand":"CHOCOMEL","price":4.78873499999999996390442902338691055774688720703125},{"id":"114S141","name":"Zeeuwse Roomboter Babbelaars 325 g","list_name":"Top Products List","price":4.11169500000000009976020010071806609630584716796875}]' data-section="new-products">
+		(function() {
+			const data = JSON.parse(document.currentScript.dataset.json);
+			const section = document.currentScript.dataset.section;
+
+			if (!data || !section) {
+				throw new Error('Missing or invalid arguments');
+			}
+
+			document.addEventListener('JSENGINE_INIT_FINISHED', function() {
+				const hooks = {
+					add: jse.libs.hooks.add,
+					key: jse.libs.hooks.keys.shop.product.listing.hover,
+					callback: function(data) {
+						return new Promise(handlePromise.bind(undefined, data));
+					},
+				};
+
+				function handlePromise(payload, resolve) {
+					if (!payload.container.data('index').includes(section)) {
+						resolve();
+						return;
+					}
+
+					const name = payload.container.find('.product-url').text().trim();
+					const impression = data.find(function(dataset) {
+						return 'name' in dataset && dataset.name === name;
+					});
+
+					if (!impression) {
+						resolve();
+						return;
+					}
+
+					gtag('event', 'select_content', {
+						content_type: 'product',
+						items: [impression],
+						event_callback: resolve,
+					});
+				}
+
+				hooks.add(hooks.key, hooks.callback);
+			});
+		})();
+	</script>
+<h2>Angebote</h2>
+<div class="productlist productlist-viewmode productlist-viewmode-grid row" data-gambio-widget="product_hover">
+<div class="product-container swiper-slide " data-index="specials-12271">
+<form class="product-tile">
+<figure class="image" id="specials-12271_img">
+<span class="product-hover-main-image product-image" title="Johma Kip Kerrie salade 175 g">
+<img alt="Johma Kip Kerrie salade 175 g" src="images/product_images/info_images/Johma-Kip-Kerrie-Salade-175g.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-22%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Brotaufstrich/Johma-Kip-Kerrie-salade-175-g----.html" title="Johma Kip Kerrie Salade aus Holland. Geflügel-Curry-Salat. Ideal als ...">
+								Johma Kip Kerrie salade 175 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Johma Kip Kerrie Salade aus Holland. Geflügel-Curry-Salat. Ideal als ...">
+<span class="rating-stars rating-stars-50" title="In 1 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Johma Kip Kerrie Salade aus Holland. Geflügel-Curry-Salat. Ideal als ...">
+<span class="productOldPrice">Statt  4,41 EUR</span><br/> Nur  3,41 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,95 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-15766">
+<form class="product-tile">
+<figure class="image" id="specials-15766_img">
+<span class="product-hover-main-image product-image" title="DubbelFrisss Framboos &amp; Cranberry 8 x 1,5 L - Megapack">
+<img alt="DubbelFrisss Framboos &amp; Cranberry 8 x 1,5 L - Megapack" src="images/product_images/info_images/DubbelFriss-Framboos-en-cranberry-1-5-L_15766_0.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-15%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/Getraenke/Erfrischungsgetraenke/dubbelfriss-framboos-cranberry-1-5-l-15766.html" title="Softdrink mit Himbeere &amp; Cranberry.. Low Carb und Low Fat geeignet. ...">
+								DubbelFrisss Framboos &amp; Cranberry 8 x 1,5 L - Megapack
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Softdrink mit Himbeere &amp; Cranberry.. Low Carb und Low Fat geeignet. ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Softdrink mit Himbeere &amp; Cranberry.. Low Carb und Low Fat geeignet. ...">
+<span class="productOldPrice">Statt  26,50 EUR</span><br/> Nur  22,50 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,88 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-14882">
+<form class="product-tile">
+<figure class="image" id="specials-14882_img">
+<span class="product-hover-main-image product-image" title="Campina Vlaflip Vanille 1L">
+<img alt="Campina Vlaflip Vanille 1L" src="images/product_images/info_images/Campina-Vlaflip-Vanille.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-12%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/Milchprodukte-Vla-Fla-Pudding-Sojadrink-Joghurt/Campina-Vlaflip-Vanille-1L.html" title="Campina Vlaflip ist 45 % halbfett Vanillevla, 46 % halbfett (gesüßtem) ...">
+								Campina Vlaflip Vanille 1L
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Campina Vlaflip ist 45 % halbfett Vanillevla, 46 % halbfett (gesüßtem) ...">
+<span class="rating-stars rating-stars-40" title="In 1 Rezensionen durchschnittlich mit 4 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Campina Vlaflip ist 45 % halbfett Vanillevla, 46 % halbfett (gesüßtem) ...">
+<span class="productOldPrice">Statt  3,92 EUR</span><br/> Nur  3,42 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 3,42 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-15147">
+<form class="product-tile">
+<figure class="image" id="specials-15147_img">
+<span class="product-hover-main-image product-image" title="Johma Kip-Joppie salade 175 g">
+<img alt="Johma Kip-Joppie salade 175 g" src="images/product_images/info_images/Johma-Kipp-Joppie-Salade-175g.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-22%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/Anderes/Johma-Garnalen-salade-175-g-----15147.html" title="Hähnchensalat mit Joppiesoße. Schmeckt gut auf Brot, Brötchen oder auf ...">
+								Johma Kip-Joppie salade 175 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Hähnchensalat mit Joppiesoße. Schmeckt gut auf Brot, Brötchen oder auf ...">
+<span class="rating-stars rating-stars-50" title="In 1 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Hähnchensalat mit Joppiesoße. Schmeckt gut auf Brot, Brötchen oder auf ...">
+<span class="productOldPrice">Statt  4,41 EUR</span><br/> Nur  3,41 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,95 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-14938">
+<form class="product-tile">
+<figure class="image" id="specials-14938_img">
+<span class="product-hover-main-image product-image" title="Unox Extra Magere Rookworst 275 g">
+<img alt="Unox Extra Magere Rookworst 275 g" src="images/product_images/info_images/unox_extra_magere_rookworst.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-8%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fleisch-fisch-u--Wurstwaren/Unox-Extra-Magere-Rookworst.html" title="Fettarme Rauchwurst - lecker zu Stampfkartoffeln und Grünkohl oder einfach ...">
+								Unox Extra Magere Rookworst 275 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Fettarme Rauchwurst - lecker zu Stampfkartoffeln und Grünkohl oder einfach ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Fettarme Rauchwurst - lecker zu Stampfkartoffeln und Grünkohl oder einfach ...">
+<span class="productOldPrice">Statt  5,64 EUR</span><br/> Nur  5,14 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,87 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-12341">
+<form class="product-tile">
+<figure class="image" id="specials-12341_img">
+<span class="product-hover-main-image product-image" title="Filet Americain 150 g">
+<img alt="Filet Americain 150 g" src="images/product_images/info_images/filet_americain_naturel.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-recommendation">
+<span>TOP</span>
+</div>
+<div class="ribbon-special">
+<span>-11%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fleisch-fisch-u--Wurstwaren/Filet-Americain-150-g.html" title="Filet Americain - rohes gerwürztes Rindfleisch mit ganz feiner Struktur. ...">
+								Filet Americain 150 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Filet Americain - rohes gerwürztes Rindfleisch mit ganz feiner Struktur. ...">
+<span class="rating-stars rating-stars-50" title="In 16 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Filet Americain - rohes gerwürztes Rindfleisch mit ganz feiner Struktur. ...">
+<span class="productOldPrice">Statt  4,10 EUR</span><br/> Nur  3,62 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 2,41 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-14883">
+<form class="product-tile">
+<figure class="image" id="specials-14883_img">
+<span class="product-hover-main-image product-image" title="Campina Vlaflip Framboos 1 Liter">
+<img alt="Campina Vlaflip Framboos 1 Liter" src="images/product_images/info_images/Campina-Vlaflip-framboos-1-Liter.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-12%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/Milchprodukte-Vla-Fla-Pudding-Sojadrink-Joghurt/Campina-Vlaflip-Framboos-1L.html" title="bestellen Sie jetzt Campina Vlaflip einfach und schnell online bei ...">
+								Campina Vlaflip Framboos 1 Liter
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="bestellen Sie jetzt Campina Vlaflip einfach und schnell online bei ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="bestellen Sie jetzt Campina Vlaflip einfach und schnell online bei ...">
+<span class="productOldPrice">Statt  3,92 EUR</span><br/> Nur  3,42 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 3,42 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-15004">
+<form class="product-tile">
+<figure class="image" id="specials-15004_img">
+<span class="product-hover-main-image product-image" title="Chocomel 6x 1 Liter">
+<img alt="Chocomel 6x 1 Liter" src="images/product_images/info_images/6erpackchocomel.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-16%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Kaffee---Kakao/Kakao/Chocomel-6x-1-Liter.html" title="Chocomel ist die beste Schokoladenmilch aus Holland">
+								Chocomel 6x 1 Liter
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Chocomel ist die beste Schokoladenmilch aus Holland">
+<span class="rating-stars rating-stars-50" title="In 2 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Chocomel ist die beste Schokoladenmilch aus Holland">
+<span class="productOldPrice">Statt  18,05 EUR</span><br/> Nur  15,05 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 2,51 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-15573">
+<form class="product-tile">
+<figure class="image" id="specials-15573_img">
+<span class="product-hover-main-image product-image" title="Mora Kaassoufflés 24 x 60 g (4 Packungen)">
+<img alt="Mora Kaassoufflés 24 x 60 g (4 Packungen)" src="images/product_images/info_images/Mora-Kaassouflees-24x60-g.PNG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-3%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Tiefkuehlprodukte-Hollaendische-Snacks-Diepvriesproducten/mora-kaassouffles-24-x-60-g-4-packungen.html" title="Teigtaschen umhüllt mit Käse; für die Fritteuse. Der Preis beinhaltet ...">
+								Mora Kaassoufflés 24 x 60 g (4 Packungen)
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Teigtaschen umhüllt mit Käse; für die Fritteuse. Der Preis beinhaltet ...">
+<span class="rating-stars rating-stars-50" title="In 1 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Teigtaschen umhüllt mit Käse; für die Fritteuse. Der Preis beinhaltet ...">
+<span class="productOldPrice">Statt  26,40 EUR</span><br/> Nur  25,40 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 17,64 EUR pro 1 kg
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand DPD Food Express Di + Mi
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-15363">
+<form class="product-tile">
+<figure class="image" id="specials-15363_img">
+<span class="product-hover-main-image product-image" title="Campina Chocolade Vla 1 Liter">
+<img alt="Campina Chocolade Vla 1 Liter" src="images/product_images/info_images/Campina-Chocolade-Vla-1-Liter.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-16%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/Milchprodukte-Vla-Fla-Pudding-Sojadrink-Joghurt/campina-chocolade-vla-1-liter.html" title="Ein halbflüssiger Pudding mit Schokoladengeschmack - direkt aus dem Kü...">
+								Campina Chocolade Vla 1 Liter
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Ein halbflüssiger Pudding mit Schokoladengeschmack - direkt aus dem Kü...">
+<span class="rating-stars rating-stars-50" title="In 1 Rezensionen durchschnittlich mit 5 bewertet">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Ein halbflüssiger Pudding mit Schokoladengeschmack - direkt aus dem Kü...">
+<span class="productOldPrice">Statt  3,13 EUR</span><br/> Nur  2,63 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 2,63 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-12261">
+<form class="product-tile">
+<figure class="image" id="specials-12261_img">
+<span class="product-hover-main-image product-image" title="Johma Kip-Saté salade 175 g">
+<img alt="Johma Kip-Saté salade 175 g" src="images/product_images/info_images/Johma-Kip-Sate-Salade-175g.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-19%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Brotaufstrich/Johma-Kip-Sat--salade-175-g----.html" title="Geflügelsalat mit Erdnuss-Sauce. Eignet sich z.B. als Brotaufstrich, auf ...">
+								Johma Kip-Saté salade 175 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Geflügelsalat mit Erdnuss-Sauce. Eignet sich z.B. als Brotaufstrich, auf ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Geflügelsalat mit Erdnuss-Sauce. Eignet sich z.B. als Brotaufstrich, auf ...">
+<span class="productOldPrice">Statt  5,09 EUR</span><br/> Nur  4,09 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 2,34 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand dienstags/mittwochs
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="specials-15767">
+<form class="product-tile">
+<figure class="image" id="specials-15767_img">
+<span class="product-hover-main-image product-image" title="DubbelFrisss Appel  en zwarte bes 8 x 1,5 L - Megapack">
+<img alt="DubbelFrisss Appel  en zwarte bes 8 x 1,5 L - Megapack" src="images/product_images/info_images/DubbelFriss-Appel-en-zwarte-bessern-1-5-L_15767_0.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-special">
+<span>-15%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/Getraenke/Erfrischungsgetraenke/dubbelfriss-appel-en-zwarte-bes-1-5-l-15767.html" title="Softdrink mit mindestens 15% Fruchtsaft mit Apfel- und schwarze ...">
+								DubbelFrisss Appel  en zwarte bes 8 x 1,5 L - Megapack
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Softdrink mit mindestens 15% Fruchtsaft mit Apfel- und schwarze ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Softdrink mit mindestens 15% Fruchtsaft mit Apfel- und schwarze ...">
+<span class="productOldPrice">Statt  26,50 EUR</span><br/> Nur  22,53 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,88 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<script type="text/mustache">
+				<template>
+										
+						{{#.}}
+							<div class="swiper-slide {{className}}">
+								<div class="swiper-slide-inside">
+									<img class="img-responsive" {{{srcattr}}} alt="{{title}}" title="{{title}}" data-magnifier-src="{{src}}" />
+								</div>
+							</div>
+						{{/.}}
+					
+									</template>
+			</script>
+</div>
+<script>
+		gtag('event', 'view_item_list', { items: [{"id":"60N002","name":"Johma Kip Kerrie salade 175 g","list_name":"Specials List","brand":"Johma","price":3.40998000000000001108446667785756289958953857421875},{"id":"146M013_1","name":"DubbelFrisss Framboos & Cranberry 8 x 1,5 L - Megapack","list_name":"Specials List","brand":"DubbelFrisss","price":22.500056000000000722138793207705020904541015625},{"id":"015N007_1","name":"Campina Vlaflip Vanille 1L","list_name":"Specials List","brand":"CAMPINA","price":3.4199549999999998561861502821557223796844482421875},{"id":"60N007","name":"Johma Kip-Joppie salade 175 g","list_name":"Specials List","brand":"Johma","price":3.40998000000000001108446667785756289958953857421875},{"id":"N-41.004","name":"Unox Extra Magere Rookworst 275 g","list_name":"Specials List","brand":"Unox","price":5.1399600000000003063860276597552001476287841796875},{"id":"J-0500","name":"Filet Americain 150 g","list_name":"Specials List","price":3.6199799999999999755573298898525536060333251953125},{"id":"015N013","name":"Campina Vlaflip Framboos 1 Liter","list_name":"Specials List","brand":"CAMPINA","price":3.4199549999999998561861502821557223796844482421875},{"id":"16M001_1","name":"Chocomel 6x 1 Liter","list_name":"Specials List","brand":"CHOCOMEL","price":15.0499650000000002592059900052845478057861328125},{"id":"84J019_3","name":"Mora Kaassouffl\u00e9s 24 x 60 g (4 Packungen)","list_name":"Specials List","brand":"MORA","price":25.400024999999999408828443847596645355224609375},{"id":"15M001_1","name":"Campina Chocolade Vla 1 Liter","list_name":"Specials List","brand":"CAMPINA","price":2.630039999999999711377540734247304499149322509765625},{"id":"N-0400","name":"Johma Kip-Sat\u00e9 salade 175 g","list_name":"Specials List","brand":"Johma","price":4.0899599999999995958432918996550142765045166015625},{"id":"146M014","name":"DubbelFrisss Appel  en zwarte bes 8 x 1,5 L - Megapack","list_name":"Specials List","brand":"DubbelFrisss","price":22.5288240000000001828084350563585758209228515625}] });
+	</script>
+<script data-json='[{"id":"60N002","name":"Johma Kip Kerrie salade 175 g","list_name":"Specials List","brand":"Johma","price":3.40998000000000001108446667785756289958953857421875},{"id":"146M013_1","name":"DubbelFrisss Framboos &amp; Cranberry 8 x 1,5 L - Megapack","list_name":"Specials List","brand":"DubbelFrisss","price":22.500056000000000722138793207705020904541015625},{"id":"015N007_1","name":"Campina Vlaflip Vanille 1L","list_name":"Specials List","brand":"CAMPINA","price":3.4199549999999998561861502821557223796844482421875},{"id":"60N007","name":"Johma Kip-Joppie salade 175 g","list_name":"Specials List","brand":"Johma","price":3.40998000000000001108446667785756289958953857421875},{"id":"N-41.004","name":"Unox Extra Magere Rookworst 275 g","list_name":"Specials List","brand":"Unox","price":5.1399600000000003063860276597552001476287841796875},{"id":"J-0500","name":"Filet Americain 150 g","list_name":"Specials List","price":3.6199799999999999755573298898525536060333251953125},{"id":"015N013","name":"Campina Vlaflip Framboos 1 Liter","list_name":"Specials List","brand":"CAMPINA","price":3.4199549999999998561861502821557223796844482421875},{"id":"16M001_1","name":"Chocomel 6x 1 Liter","list_name":"Specials List","brand":"CHOCOMEL","price":15.0499650000000002592059900052845478057861328125},{"id":"84J019_3","name":"Mora Kaassouffl\u00e9s 24 x 60 g (4 Packungen)","list_name":"Specials List","brand":"MORA","price":25.400024999999999408828443847596645355224609375},{"id":"15M001_1","name":"Campina Chocolade Vla 1 Liter","list_name":"Specials List","brand":"CAMPINA","price":2.630039999999999711377540734247304499149322509765625},{"id":"N-0400","name":"Johma Kip-Sat\u00e9 salade 175 g","list_name":"Specials List","brand":"Johma","price":4.0899599999999995958432918996550142765045166015625},{"id":"146M014","name":"DubbelFrisss Appel  en zwarte bes 8 x 1,5 L - Megapack","list_name":"Specials List","brand":"DubbelFrisss","price":22.5288240000000001828084350563585758209228515625}]' data-section="specials">
+		(function() {
+			const data = JSON.parse(document.currentScript.dataset.json);
+			const section = document.currentScript.dataset.section;
+
+			if (!data || !section) {
+				throw new Error('Missing or invalid arguments');
+			}
+
+			document.addEventListener('JSENGINE_INIT_FINISHED', function() {
+				const hooks = {
+					add: jse.libs.hooks.add,
+					key: jse.libs.hooks.keys.shop.product.listing.hover,
+					callback: function(data) {
+						return new Promise(handlePromise.bind(undefined, data));
+					},
+				};
+
+				function handlePromise(payload, resolve) {
+					if (!payload.container.data('index').includes(section)) {
+						resolve();
+						return;
+					}
+
+					const name = payload.container.find('.product-url').text().trim();
+					const impression = data.find(function(dataset) {
+						return 'name' in dataset && dataset.name === name;
+					});
+
+					if (!impression) {
+						resolve();
+						return;
+					}
+
+					gtag('event', 'select_content', {
+						content_type: 'product',
+						items: [impression],
+						event_callback: resolve,
+					});
+				}
+
+				hooks.add(hooks.key, hooks.callback);
+			});
+		})();
+	</script>
+<!-- #BOF YOOCHOOSE -->
+<!-- #EOF YOOCHOOSE -->
+<h2>Neu im Shop</h2>
+<div class="productlist productlist-swiper row">
+<div data-gambio-widget="product_hover">
+<div class="swiper-container" data-gambio-widget="swiper" data-swiper-auto-off="true" data-swiper-slider-options='{"spaceBetween":0,"loop":true,"slidesPerView":4,"autoplay":null,"breakpoints":[{"breakpoint":40,"usePreviewBullets":true,"slidesPerView":2,"centeredSlides":true},{"breakpoint":60,"usePreviewBullets":true,"slidesPerView":2},{"breakpoint":80,"usePreviewBullets":true,"slidesPerView":3},{"breakpoint":100,"usePreviewBullets":true,"slidesPerView":4}],"nextButton":".js-new-products-main-button-next","prevButton":".js-new-products-main-button-prev","pagination":".js-new-products-main-pagination"}' id="new-products-main">
+<div class="swiper-wrapper">
+<div class="product-container swiper-slide " data-index="new-products-main-15822">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15822_img">
+<span class="product-hover-main-image product-image" title="AH Roomboter Amandelstaaf 250 g">
+<img alt="AH Roomboter Amandelstaaf 250 g" src="images/product_images/info_images/amandelstaaf_15822_0.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/themen-saisoneles/Nikolaus-Kerst-Weihnachten-Sinterklaas-Silvester/ah-roomboter-amandelstaaf-250-g.html" title="Rahmbutter-Mandel-Stab (Mandelmasse in Blätterteig). Schmeckt auch warm sehr...">
+								AH Roomboter Amandelstaaf 250 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Rahmbutter-Mandel-Stab (Mandelmasse in Blätterteig). Schmeckt auch warm sehr...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Rahmbutter-Mandel-Stab (Mandelmasse in Blätterteig). Schmeckt auch warm sehr...">
+									 4,65 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,86 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-main-15816">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15816_img">
+<span class="product-hover-main-image product-image" title="Aviko SuperCrunch Originals Hollandse Friet 2 x 750 g (2 Packungen)">
+<img alt="Aviko SuperCrunch Originals Hollandse Friet 2 x 750 g (2 Packungen)" src="images/product_images/info_images/Aviko-SuperCrunch-Originals-Hollandse-friet-2x750g.JPG"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Tiefkuehlprodukte-Hollaendische-Snacks-Diepvriesproducten/aviko-supercrunch-originals-hollandse-friet-2-x-750-g-2-packungen.html" title="Original holländsiche Pommes, die nach der Zubereitung noch lange knusprig ...">
+								Aviko SuperCrunch Originals Hollandse Friet 2 x 750 g (2 Packungen)...
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Original holländsiche Pommes, die nach der Zubereitung noch lange knusprig ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Original holländsiche Pommes, die nach der Zubereitung noch lange knusprig ...">
+									 20,39 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 13,59 EUR pro 1 kg
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											Versand DPD Food Express Di + Mi
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-main-15815">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15815_img">
+<span class="product-hover-main-image product-image" title="De Ruijter Chocoladevlokken Puur 300 g">
+<img alt="De Ruijter Chocoladevlokken Puur 300 g" src="images/product_images/info_images/De-Ruijter-chocoladevlokken-puur-300g.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Streusel-Hagelslag-Vlokken-Schokoladenstreusel-Milchschokoladenstreusel-Schokoladenflocken/de-ruijter-chocoladevlokken-puur-300-g.html" title="De Ruijter geraspelte und gekräuselte Schokoflocken aus Zartbitterschokolade...">
+								De Ruijter Chocoladevlokken Puur 300 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="De Ruijter geraspelte und gekräuselte Schokoflocken aus Zartbitterschokolade...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="De Ruijter geraspelte und gekräuselte Schokoflocken aus Zartbitterschokolade...">
+									 3,42 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,14 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-main-15817">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15817_img">
+<span class="product-hover-main-image product-image" title="Unox Stevige Erwtensoep - reich gefüllte Erbsensuppe 800 ml">
+<img alt="Unox Stevige Erwtensoep - reich gefüllte Erbsensuppe 800 ml" src="images/product_images/info_images/Unox-Stevige-Erwtensoep-800-ml.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Suppen/suppen/unox-stevige-erwensoep-1-3-liter-15817.html" title="Reichgefüllte, feste Erbsenuppe mit Rookworst und Gemüse">
+								Unox Stevige Erwtensoep - reich gefüllte Erbsensuppe 800 ml
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Reichgefüllte, feste Erbsenuppe mit Rookworst und Gemüse">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Reichgefüllte, feste Erbsenuppe mit Rookworst und Gemüse">
+									 4,57 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 5,71 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-main-15823">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15823_img">
+<span class="product-hover-main-image product-image" title="G'woon Tum Tum 400 g">
+<img alt="G'woon Tum Tum 400 g" src="images/product_images/info_images/Gwoon-Tum-Tum-400-g.png"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Pfefferminz-und-Bonbons/g-woon-tum-tum-400-g.html" title="Kleine Weingummis mit Zucker in verschiedenen Geschmacksrichtungen">
+								G'woon Tum Tum 400 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Kleine Weingummis mit Zucker in verschiedenen Geschmacksrichtungen">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Kleine Weingummis mit Zucker in verschiedenen Geschmacksrichtungen">
+									 2,93 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 0,73 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-main-15821">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15821_img">
+<span class="product-hover-main-image product-image" title="Conimex Laos 32 g">
+<img alt="Conimex Laos 32 g" src="images/product_images/info_images/Conimex-Laos-32g.jpg"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/themen-saisoneles/Oosterse-keuken-Asiatische-Kueche-Conimex-asiatische-Lebensmittel-Djawa-Koningsvogel-Improba-/mixen-gewuerze/conimex-laos-32-g.html" title="Conimex Laos ist gemahlene Galantwurzel, bestellen Sie es auf ...">
+								Conimex Laos 32 g
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Conimex Laos ist gemahlene Galantwurzel, bestellen Sie es auf ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Conimex Laos ist gemahlene Galantwurzel, bestellen Sie es auf ...">
+									 4,18 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 8,36 EUR pro 100 g
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="product-container swiper-slide " data-index="new-products-main-15820">
+<form class="product-tile">
+<figure class="image" id="new-products-main-15820_img">
+<span class="product-hover-main-image product-image" title="DubbelFrisss Light Appel &amp; Perzig 8x 1,5 L Megapack">
+<img alt="DubbelFrisss Light Appel &amp; Perzig 8x 1,5 L Megapack" src="images/product_images/info_images/DuubleFriss-Light-Appel-Perzik-1-5-L_0_15820_0.png"/>
+</span>
+<div class="ribbons">
+<div class="ribbon-new">
+<span>NEU</span>
+</div>
+<div class="ribbon-special">
+<span>-15%</span>
+</div>
+</div>
+</figure>
+<div class="title-description ">
+<div class="title">
+<a class="product-url " href="https://hollandproducten.com/de/Getraenke/Erfrischungsgetraenke/dubbelfrisss-light-appel-perzig-1-5-l-15820.html" title="Softdrink mit Apfel- und Pfirsichgeschmack. Low Carb und Low Fat geeignet. ...">
+								DubbelFrisss Light Appel &amp; Perzig 8x 1,5 L Megapack
+							</a>
+</div>
+</div><!-- // .title-description -->
+<div class="rating-container hidden-list">
+<span title="Softdrink mit Apfel- und Pfirsichgeschmack. Low Carb und Low Fat geeignet. ...">
+<span class="rating-stars rating-stars--10" title="Bisher wurden keine Rezensionen zu diesem Produkt abgegeben">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="rating-stars-mask">
+<span class="rating-stars-inside">
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+<span class="gm-star"></span>
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="price-tax">
+<div class="price">
+<span class="current-price-container" title="Softdrink mit Apfel- und Pfirsichgeschmack. Low Carb und Low Fat geeignet. ...">
+<span class="productOldPrice">Statt  26,50 EUR</span><br/> Nur  22,52 EUR
+																			<br/>
+<span class="gm_products_vpe products-vpe">
+																							 1,88 EUR pro 1 Liter
+																					</span>
+</span>
+</div>
+<div class="additional-container">
+<!-- Use this if you want to add something to the product tiles -->
+</div>
+<div class="shipping hidden-grid">
+<div class="shipping-info-short">
+									
+										Lieferzeit:
+									
+																													
+											3-4 Werktage
+										
+																	</div>
+</div><!-- // .shipping -->
+<div class="cart-error-msg alert alert-danger hidden" role="alert"></div>
+</div><!-- // .price-tax -->
+</form>
+</div><!-- // .product-container -->
+<div class="js-new-products-main-pagination swiper-pagination"></div>
+</div>
+<script type="text/mustache">
+						<template>
+														
+								{{#.}}
+									<div class="swiper-slide {{className}}">
+										<div class="swiper-slide-inside">
+											<img class="img-responsive" {{{srcattr}}} alt="{{title}}" title="{{title}}" data-magnifier-src="{{src}}" />
+										</div>
+									</div>
+								{{/.}}
+							
+													</template>
+					</script>
+</div>
+<div class="js-new-products-main-button-prev swiper-button-prev"></div>
+<div class="js-new-products-main-button-next swiper-button-next"></div>
+</div>
+</div>
+</div>
+</div>
+<aside id="left">
+<div class="gm_box_container" id="gm_box_pos_6">
+<div class="box box-manufacturers panel panel-default">
+<div class="panel-heading">
+									Hersteller
+							</div>
+<div class="panel-body">
+<form action="https://hollandproducten.com/" id="manufacturers" method="get"><select class="lightbox_visibility_hidden input-select" name="manufacturers_id" onchange="if(this.value!=''){this.form.submit();}" size="1"><option selected="selected" value="">Bitte wählen</option><option value="1447">AH</option><option value="1406">ALPRO</option><option value="1475">Arizona</option><option value="1461">aro</option><option value="971">AUTODROP</option><option value="1491">Aviko</option><option value="1">BAKKERS WEELDE</option><option value="871">BAR-LE-DUC</option><option value="1457">Becel</option><option value="1141">Beckers</option><option value="281">Bolletje</option><option value="1427">Brinkers</option><option value="1321">BRINTA</option><option value="1522">BUISMAN</option><option value="541">Buys</option><option value="161">Calvé</option><option value="471">campbells</option><option value="1516">CAMPINA</option><option value="1251">Candyman</option><option value="171">Canisius</option><option value="521">Casa Italia</option><option value="711">Chivers</option><option value="1528">CHOCA</option><option value="1523">CHOCOMEL</option><option value="1489">Coebergh</option><option value="251">Conimex</option><option value="311">Cote dOr</option><option value="1514">CROMA</option><option value="1431">Dark Mark</option><option value="1291">DE HEER</option><option value="1361">DE KUYPER</option><option value="1301">De Molen's Banket</option><option value="71">DE RUIJTER</option><option value="1416">De Wit</option><option value="141">Doritos</option><option value="261">Douwe Egberts</option><option value="1419">DROSTE</option><option value="1481">DubbelFriss</option><option value="1484">DubbelFrisss</option><option value="1483">DubbelFrisss</option><option value="361">Duyvis</option><option value="1513">DUYVIS</option><option value="1091">Echte Enkhuizer</option><option value="1476">Elite</option><option value="1425">Eliterna</option><option value="1465">ERU</option><option value="1011">Euro</option><option value="901">Fair Trade</option><option value="1478">Fi-Ji</option><option value="1473">Fine Life</option><option value="1533">FLORA</option><option value="111">Fortuin</option><option value="1504">FORTUIN</option><option value="1381">Fred en Ed</option><option value="1519">FRIESCHE VLAG</option><option value="1466">frisia</option><option value="1459">Fristi</option><option value="1450">Fritusse</option><option value="1449">Fruit-tella</option><option value="1445">G'woon</option><option value="1455">Go-Tan</option><option value="1401">Gouda\'s Glorie</option><option value="1494">Gulden Krakeling</option><option value="821">HAK</option><option value="1510">HAK</option><option value="1452">Hamlet</option><option value="241">Haribo</option><option value="1402">Heineken</option><option value="1496">Heinz</option><option value="1460">Hekos</option><option value="1021">Heksehyl</option><option value="1439">Hellmann's</option><option value="1171">HEMA</option><option value="611">Hero</option><option value="1437">Holland Foodz</option><option value="1446">Holland Foodz</option><option value="1422">Hollandia</option><option value="1479">Hollands Best</option><option value="451">Honig</option><option value="1456">Horeca Select</option><option value="1520">INPROBA</option><option value="1420">Italiano</option><option value="1407">JH Likeuren</option><option value="961">Johma</option><option value="891">Jos Poell</option><option value="1271">Jumbo</option><option value="131">Kanjers</option><option value="921">Karvan Cévitam</option><option value="201">Katja</option><option value="1490">Kesbeke</option><option value="1468">Ketel</option><option value="1001">King</option><option value="1509">KLENE</option><option value="401">Knorr</option><option value="741">Kokki Djawa</option><option value="731">Koningsvogel</option><option value="21">KOOPMANS</option><option value="1485">Kühne</option><option value="1532">KUNG FU</option><option value="31">LAYS</option><option value="1499">LIGA</option><option value="81">Liga</option><option value="1527">LINDEMULDER</option><option value="91">LIPTON</option><option value="981">Lonka</option><option value="371">Lotus</option><option value="1498">LU</option><option value="591">LU</option><option value="421">Maggi</option><option value="571">Marne</option><option value="1525">MELKUNIE</option><option value="1515">MELKUNIE</option><option value="181">Mentos</option><option value="1417">Molengoud</option><option value="1121">Mona</option><option value="1131">MORA</option><option value="191">Napoleon</option><option value="751">Oldtimers</option><option value="1111">Optimel</option><option value="1191">Pally</option><option value="1492">Panko</option><option value="1471">Patisse</option><option value="301">Peijnenburg</option><option value="1518">PENOTTI</option><option value="291">Perfekt</option><option value="1502">PICKWICK</option><option value="11">Pickwick</option><option value="1529">PRICLES</option><option value="1530">PRINGLES</option><option value="461">Raak</option><option value="1495">Raak</option><option value="211">Redband</option><option value="351">REMIA</option><option value="101">Roosvicee</option><option value="551">Santa Maria</option><option value="1424">Schrobeler</option><option value="1497">Schuttelaar</option><option value="391">Schuttelaar</option><option value="1261">Smikkelbeer</option><option value="1482">Smit Vis</option><option value="51">Smiths</option><option value="791">Snack a Jack</option><option value="1434">Sonnema</option><option value="1463">Souflesse</option><option value="621">Stimorol</option><option value="1438">Sum &amp; Sam</option><option value="1505">Theha</option><option value="721">Timson</option><option value="1472">Tjendrawasih</option><option value="1454">Toko Lien</option><option value="331">Tonnema</option><option value="1469">Tony's Chocolnely</option><option value="271">Unox</option><option value="381">Van Delft</option><option value="761">Van der Meulen</option><option value="1429">Van Dobben</option><option value="431">Van Gilse</option><option value="41">Van Melle</option><option value="1467">van Strien</option><option value="1487">van Welzen</option><option value="1221">Van Wijngaarden Zaanse</option><option value="1507">VENCO</option><option value="1508">VENCO</option><option value="231">Venco</option><option value="1500">VENZ</option><option value="151">Venz</option><option value="1341">Verberghe</option><option value="501">Verkade</option><option value="1521">VERKADE</option><option value="1517">VERSTEGEN</option><option value="1474">Vocking</option><option value="1443">Wiggers</option><option value="641">Wijko</option><option value="1453">Yildriz</option><option value="601">Zonnatura</option><option value="1432">Zuivelhoeve</option><option value="1405">Zwarte Kip</option><option value="61">Zwitsal</option></select><input name="XTCsid" type="hidden" value="62de6daf1e77796f97785a0a1abf277b"/></form>
+</div>
+</div>
+</div>
+<div class="gm_box_container" id="gm_box_pos_8">
+<div class="box box-mailbeez_shopvoting panel panel-default">
+<div class="panel-heading">
+									 
+							</div>
+<div class="panel-body">
+<div id="overshopreviewbox0"><link href="//hollandproducten.com/ext/mailhive/configbeez/config_shopvoting/templates/tstyles/web4d-standard//stylesheetbox.css?v=4.03" rel="stylesheet" type="text/css"/>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Organization",
+    "name": "",
+    
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.88",
+      "bestRating": "5",
+      "worstRating": "1",
+      "ratingCount": "1368"
+    }
+  }
+</script>
+<div class="detailshopreviewbox">
+<h3>Shopbewertungen</h3>
+<div class="starBlock" title="4.88 - Sehr gut">
+<div class="ratingBlock ratingBlockStars1"><a href="https://hollandproducten.com/de/shop-bewertungen.php"> </a></div>
+</div>
+<p class="reviewValue"><a href="https://hollandproducten.com/de/shop-bewertungen.php">Sehr gut</a></p>
+<p class="ratingValue">
+        4.88 / 5.00
+    </p>
+<p class="reviewtext" itemprop="description"> <a href="https://hollandproducten.com/de/shop-bewertungen.php" title="Seit Jahren  für uns  d i e  Lieferadresse für holländische Spezialitäten, die in Deutschland nicht zu bekommen sind.">Seit Jahren  für uns  d i e  Lieferadresse für ...</a> </p>
+<p class="totalreview"><a href="https://hollandproducten.com/de/shop-bewertungen.php">Gesamt: 1368</a></p>
+</div><strong><a href="https://www.profi-poolwelt.de/" title="Rundpool, Ovalpool und Achtformpool Swimmingpool kaufen von Germany-Pools.de, einfache Montage im Garten viele tolle Swimmingpools erwarten Sie im Poolshop Profi-Poolwelt.de egal ob Stahlwandpool oder Edelstahlpool Schwimmbecken.">stahlwandpool</a></strong></div>
+</div>
+</div>
+</div>
+<div class="gm_box_container" id="gm_box_pos_10">
+<div class="box box-bestsellers panel panel-default">
+<div class="panel-heading">
+									Bestseller
+							</div>
+<div class="panel-body">
+<ol>
+<li class="row">
+<a href="https://hollandproducten.com/de/lebensmittel/Alles-aus-dem-Kuehlregal/Aus-dem-Kuehlregal/Milchprodukte-Vla-Fla-Pudding-Sojadrink-Joghurt/Icepacks-fuer-1-bis-4-Produkte.html" title="Icepacks für den Friescheversand">
+<span class="col-xs-4">
+<span class="img-thumbnail">
+<span class="align-helper"></span>
+<img alt="Kühlbox inkl. Icepacks für 1- 4 Frischeprodukte (je nach Größe)" class="img-responsive" src="images/product_images/thumbnail_images/EPS-Box-neu.png"/>
+</span>
+</span>
+<span class="col-xs-8">
+<span class="">Kühlbox inkl. Icepacks für 1- 4 Frischeprodukte (je nach Größe)</span>
+<br/>
+<span class="price">
+													
+														 4,91 EUR
+														
+																													
+													
+												</span>
+</span>
+</a>
+</li>
+<li class="row">
+<a href="https://hollandproducten.com/de/lebensmittel/backwaren/Kekse---Gebaeck/Bakkers-Weelde-stroopwafels-met-roombotervulling-378-g.html" title="Original holländische Sirupwaffeln mit Rahmbutterfüllung.">
+<span class="col-xs-4">
+<span class="img-thumbnail">
+<span class="align-helper"></span>
+<img alt="Bakkers Weelde stroopwafels met roombotervulling 378 g" class="img-responsive" src="images/product_images/thumbnail_images/Bakkers-Weelde-Stroopwafels-378g.JPG"/>
+</span>
+</span>
+<span class="col-xs-8">
+<span class="">Bakkers Weelde stroopwafels met roombotervulling 378 g</span>
+<br/>
+<span class="price">
+													
+														 3,03 EUR
+														
+																															
+																	<br/>
+<span class="products-vpe"> 0,80 EUR pro 100 g</span>
+</span>
+</span>
+</a>
+</li>
+<li class="row">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Kaugummi/Stimorol-Original-suikervij-5-Pack.html" title="Stimorol zuckerfeies Kaugummi 5er pack">
+<span class="col-xs-4">
+<span class="img-thumbnail">
+<span class="align-helper"></span>
+<img alt="Stimorol Original suikervrij 5 Pack 70 g" class="img-responsive" src="images/product_images/thumbnail_images/Stimorol-original-5er-pack.JPG"/>
+</span>
+</span>
+<span class="col-xs-8">
+<span class="">Stimorol Original suikervrij 5 Pack 70 g</span>
+<br/>
+<span class="price">
+													
+														 4,50 EUR
+														
+																															
+																	<br/>
+<span class="products-vpe"> 6,43 EUR pro 100 g</span>
+</span>
+</span>
+</a>
+</li>
+<li class="row">
+<a href="https://hollandproducten.com/de/lebensmittel/Hollaendische-Suessigkeiten/Pfefferminz-und-Bonbons/Fortuin-Wilhelmina-Pepermunt-225-g.html" title="Wilhelmina Pfefferminztaler von Fortuin. Das Original aus Holland.">
+<span class="col-xs-4">
+<span class="img-thumbnail">
+<span class="align-helper"></span>
+<img alt="Fortuin Wilhelmina Pepermunt 225 g" class="img-responsive" src="images/product_images/thumbnail_images/Fortuin-Wilhelmina-Pepermunt-225g.PNG"/>
+</span>
+</span>
+<span class="col-xs-8">
+<span class="">Fortuin Wilhelmina Pepermunt 225 g</span>
+<br/>
+<span class="price">
+													
+														 2,05 EUR
+														
+																															
+																	<br/>
+<span class="products-vpe"> 0,91 EUR pro 100 g</span>
+</span>
+</span>
+</a>
+</li>
+<li class="row">
+<a href="https://hollandproducten.com/de/themen-saisoneles/Nikolaus-Kerst-Weihnachten-Sinterklaas-Silvester/Verkade-chocoladeletter-135-g.html" title="135 g Schokoladenbuchstaben von Verkade. Diese dürfen zu Sinterklaas...">
+<span class="col-xs-4">
+<span class="img-thumbnail">
+<span class="align-helper"></span>
+<img alt="Verkade Chocoladeletter 135 g" class="img-responsive" src="images/product_images/thumbnail_images/Verkade-chocoladeletter-gruppenbild.JPG"/>
+</span>
+</span>
+<span class="col-xs-8">
+<span class="">Verkade Chocoladeletter 135 g</span>
+<br/>
+<span class="price">
+													
+														 4,26 EUR
+														
+																															
+																	<br/>
+<span class="products-vpe"> 3,16 EUR pro 100 g</span>
+</span>
+</span>
+</a>
+</li>
+<li class="row">
+<a href="https://hollandproducten.com/de/lebensmittel/Fruehstueck---Co-/Streusel-Hagelslag-Vlokken-Schokoladenstreusel-Milchschokoladenstreusel-Schokoladenflocken/De-Ruijter-Vruchtenhagel-400-g.html" title="Knuspriger, bunter Streusel mit leckerem Fruchtgeschmack für aufs Brot, in...">
+<span class="col-xs-4">
+<span class="img-thumbnail">
+<span class="align-helper"></span>
+<img alt="De Ruijter Vruchtenhagel 400 g" class="img-responsive" src="images/product_images/thumbnail_images/dr_vruchtenhagel_400g.jpg"/>
+</span>
+</span>
+<span class="col-xs-8">
+<span class="">De Ruijter Vruchtenhagel 400 g</span>
+<br/>
+<span class="price">
+													
+														 2,84 EUR
+														
+																															
+																	<br/>
+<span class="products-vpe"> 0,71 EUR pro 100 g</span>
+</span>
+</span>
+</a>
+</li>
+</ol>
+</div>
+</div>
+<script>
+		gtag('event', 'view_item_list', { items: [{"id":"KUEHLBOX","name":"K\u00fchlbox inkl. Icepacks f\u00fcr 1- 4 Frischeprodukte (je nach Gr\u00f6\u00dfe)","list_name":"Bestseller Box","price":4.90654500000000037829295251867733895778656005859375},{"id":"004N002_3","name":"Bakkers Weelde stroopwafels met roombotervulling 378 g","list_name":"Bestseller Box","brand":"BAKKERS WEELDE","price":3.032294999999999962625452099018730223178863525390625},{"id":"96N005","name":"Stimorol Original suikervrij 5 Pack 70 g","list_name":"Bestseller Box","brand":"Stimorol","price":4.50418499999999966121322358958423137664794921875},{"id":"42M003_1","name":"Fortuin Wilhelmina Pepermunt 225 g","list_name":"Bestseller Box","brand":"FORTUIN","price":2.050019999999999953388396534137427806854248046875},{"id":"104M100","name":"Verkade Chocoladeletter 135 g","list_name":"Bestseller Box","brand":"VERKADE","price":4.2599549999999997140776031301356852054595947265625},{"id":"31N001_1","name":"De Ruijter Vruchtenhagel 400 g","list_name":"Bestseller Box","brand":"DE RUIJTER","price":2.837939999999999685087459511123597621917724609375}] });
+	</script>
+<script data-json='[{"id":"KUEHLBOX","name":"K\u00fchlbox inkl. Icepacks f\u00fcr 1- 4 Frischeprodukte (je nach Gr\u00f6\u00dfe)","list_name":"Bestseller Box","price":4.90654500000000037829295251867733895778656005859375},{"id":"004N002_3","name":"Bakkers Weelde stroopwafels met roombotervulling 378 g","list_name":"Bestseller Box","brand":"BAKKERS WEELDE","price":3.032294999999999962625452099018730223178863525390625},{"id":"96N005","name":"Stimorol Original suikervrij 5 Pack 70 g","list_name":"Bestseller Box","brand":"Stimorol","price":4.50418499999999966121322358958423137664794921875},{"id":"42M003_1","name":"Fortuin Wilhelmina Pepermunt 225 g","list_name":"Bestseller Box","brand":"FORTUIN","price":2.050019999999999953388396534137427806854248046875},{"id":"104M100","name":"Verkade Chocoladeletter 135 g","list_name":"Bestseller Box","brand":"VERKADE","price":4.2599549999999997140776031301356852054595947265625},{"id":"31N001_1","name":"De Ruijter Vruchtenhagel 400 g","list_name":"Bestseller Box","brand":"DE RUIJTER","price":2.837939999999999685087459511123597621917724609375}]' data-match-name-by-template-selector="template.google-analytics-product-name" data-selector="li.row">
+		(function() {
+			const CLICK_EVENT_NAME = 'click';
+			const TIMEOUT = 250;
+
+			const data = JSON.parse(document.currentScript.dataset.json);
+			const selector = document.currentScript.dataset.selector;
+			const templateSelector = document.currentScript.dataset.matchNameByTemplateSelector;
+
+			if (!data || !selector) {
+				throw new Error('Missing or invalid arguments');
+			}
+
+			const triggers = document.currentScript.parentNode.querySelectorAll(selector);
+
+			document.addEventListener('JSENGINE_INIT_FINISHED', function() {
+				triggers.forEach(function(element, index) {
+					let listener;
+
+					listener = function (event) {
+						let isClicked = false;
+						let impression = templateSelector ? impressionByName() : data[index];
+
+						function impressionByName() {
+							const name = element.querySelector(templateSelector).content.textContent.trim();
+
+							return data.find(function(dataset) {
+								return 'name' in dataset && dataset.name === name;
+							});
+						}
+
+						function performClick() {
+							if (!isClicked) {
+								isClicked = true;
+								event.target.click();
+							}
+						}
+
+						event.preventDefault();
+
+						setTimeout(performClick, TIMEOUT);
+
+						gtag('event', 'select_content', {
+							content_type: 'product',
+							items: [impression],
+							event_callback: performClick,
+						});
+
+						element.removeEventListener(CLICK_EVENT_NAME, listener);
+					};
+
+					element.addEventListener(CLICK_EVENT_NAME, listener);
+				});
+			});
+		})();
+	</script>
+</div>
+<div class="gm_box_container" id="gm_box_pos_18">
+<div class="box box-login panel panel-default">
+<div class="panel-heading">
+									Kundenlogin
+							</div>
+<div class="panel-body">
+<form action="https://hollandproducten.com/de/login.php?action=process" id="loginbox" method="post">
+<div class="form-group input-container">
+<span class="input-container">
+<input autocomplete="username" class="form-control" id="box-login-email_address" name="email_address" placeholder="E-Mail-Adresse" type="email"/>
+</span>
+</div>
+<div class="form-group input-container">
+<span class="input-container">
+<input autocomplete="current-password" class="form-control" id="box-login-password" name="password" placeholder="Passwort" type="password"/>
+</span>
+</div>
+<button class="btn btn-block btn-primary btn-sm" title="Anmelden" type="submit">
+					Anmelden
+				</button>
+<ul class="box-login-links">
+<li>
+<a href="https://hollandproducten.com/de/login.php" title="Konto erstellen">Konto erstellen</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/password_double_opt.php" title="Passwort vergessen?">Passwort vergessen?</a>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</aside>
+<aside id="right">
+</aside>
+</div>
+</div>
+<footer id="footer">
+<div class="footer-header">
+<center><img alt="" height="80" src="https://hollandproducten.com/bld/zahlarten/hp_zahlarten_500px x 300px_paypal_plus.jpg" width="134"/> <img alt="" height="80" src="https://hollandproducten.com/bld/zahlarten/hp_zahlarten_500px x 300px_sepa.jpg" width="134"/> <img alt="" height="80" src="https://hollandproducten.com/bld/zahlarten/hp_zahlarten_500px x 300px_sofort.jpg" width="134"/> <img alt="" height="80" src="https://hollandproducten.com/bld/zahlarten/hp_zahlarten_500px x 300px_vorkasse.jpg" width="134"/> <img alt="" height="80" src="https://hollandproducten.com/bld/versand/hp_versand_500px x 300px_dhl.jpg" width="134"/> <img alt="" height="80" src="https://hollandproducten.com/bld/versand/hp_versand_500px x 300px_dpd.jpg" width="134"/> <img alt="" height="80" src="https://hollandproducten.com/bld/versand/hp_versand_500px x 300px_grenzpaket.jpg" width="134"/></center>
+ 
+
+<form action="newsletter.php" class="form-horizontal container" method="post">
+<div class="row">
+<div class="col-xs-12 col-md-6 col-lg-3">
+			Melden Sie sich bei unserem Newsletter an und Sie verpassen keine aktuellen Angebote, Aktionen und Neuigkeiten. Als Dankeschön erhalten Sie 10% Rabatt auf die nächste Bestellung nach Anmeldung zu unserem Newsletter.<br/>
+			 
+		</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<div class="form-group">
+<div class="col-xs-12 col-sm-6 col-md-7">
+<input class="form-control validate" data-validator-validate="required email" name="email" placeholder="Deine E-Mail-Adresse" type="text"/>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-5">
+<input class="btn btn-primary btn-block" type="submit" value="Jetzt anmelden"/>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="inside">
+<div class="row">
+<div class="footer-col-1">
+<div class="box box-content panel panel-default">
+<div class="panel-heading">
+<span class="panel-title">Mehr über...</span>
+</div>
+<div class="panel-body">
+<nav>
+<ul class="nav">
+<li>
+<a href="https://hollandproducten.com/de/info/Impressum.html" title="Impressum">
+													Impressum
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/Versand-und-Zahlungsbedingungen.html" title="Versand">
+													Versand
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/Widerrufsrecht-und-Widerrufsformular.html" title="Widerrufsrecht &amp; Widerrufsformular">
+													Widerrufsrecht &amp; Widerrufsformular
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/allgemeine-geschaeftsbedingungen.html" title="AGB">
+													AGB
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/Datenschutzerklaerung.html" title="Datenschutzerklärung ">
+													Datenschutzerklärung 
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/Tiefkuehl--und-Kuehlversand.html" title="Hinweise zu Tiefkühl- und Kühlversand">
+													Hinweise zu Tiefkühl- und Kühlversand
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/mein-kontakt.html" title="Kontakt">
+													Kontakt
+												</a>
+</li>
+<li>
+<a href="https://hollandproducten.com/de/info/callback-service.html" title="Callback Service">
+													Callback Service
+												</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="footer-col-2"> </div>
+<div class="footer-col-3"> <div class="box box-content panel panel-default">
+<div class="panel-heading">
+<div class="panel-title">
+										Informationen
+									</div>
+</div>
+<div class="panel-body">
+<p>
+	☛ <a href="https://hollandproducten.com/de/info/Tiefkuehl--und-Kuehlversand.html">Hinweise zu Tiefkühl- und Kühlversand</a><br/>
+	☛ <a href="https://hollandproducten.com/de/info/Versand-und-Zahlungsbedingungen.html">Versand</a><br/>
+<br/>
+	☛ <a href="https://hollandproducten.com/de/info/unser-bonussystem.html">Unser Bonusprogramm</a><br/>
+	☛ <a href="https://www.grenzpaket.ch/de/" target="_blank">Grenzpaket</a><br/>
+	☛ <a href="http://testfunk.de/hollaendische-delikatessen-oranje-laesst-es-uns-schmecken/" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">Bewertung von Testfunk</a>
+</p>
+</div>
+</div> </div>
+<!-- (M0016) (v:08.08) (Start) -->
+<div class="footer-col-4"><b>Hinweis:</b> <br/><style><span id="footer_bonus_hint1">Leider sind sie nicht eingeloggt oder nur als Gast registriert, daher können leider keine Bonuspunkte gesammelt werden!!</span><br><br><b>Hinweis:</b> <br><style="text-align:right;"><span id="footer_bonus_hint2">Jetzt als Kunde einloggen / registrieren und Bonuspunkte sammeln!</span><br><br></div>
+                                        <!-- (M0016) (v:08.08) (Ende) -->
+                                                                
+        
+
+				</div>
+			</div>
+		
+		
+		
+			<div class="footer-bottom"><a href="http://www.gambio.de" target="_blank">Shopsystem</a> by Gambio.de &copy; 2019</div>
+		
+	</footer>
+
+	
+			
+							
+			
+		</div>
+	
+
+
+
+			
+				
+
+
+	<a class="pageup" data-gambio-widget="pageup" title="Nach oben" href="#">
+		
+	</a>
+			
+			
+				
+	<div class="layer" style="display: none;">
+	
+		
+	
+			<div id="magnific_wrapper">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						{{#title}}
+						<div class="modal-header">
+							<span class="modal-title">{{title}}</span>
+						</div>
+						{{/title}}
+		
+						<div class="modal-body">
+							{{{items.src}}}
+						</div>
+		
+						{{#showButtons}}
+						<div class="modal-footer">
+							{{#buttons}}
+							<button type="button" id="button_{{index}}_{{uid}}" data-index="{{index}}" class="btn {{class}}" >{{name}}</button>
+							{{/buttons}}
+						</div>
+						{{/showButtons}}
+					</div>
+				</div>
+			</div>
+		
+		
+			<div id="modal_prompt">
+				<div>
+					{{#content}}
+					<div class="icon">&nbsp;</div>
+					<p>{{.}}</p>
+					{{/content}}
+					<form name="prompt" action="#">
+						<input type="text" name="input" value="{{value}}" autocomplete="off" />
+					</form>
+				</div>
+			</div>
+		
+			<div id="modal_alert">
+				<div class="white-popup">
+					{{#content}}
+					<div class="icon">&nbsp;</div>
+					<p>{{{.}}}</p>
+					{{/content}}
+				</div>
+			</div>
+	
+		
+		
+	</div>
+			
+
+			<script src="templates/Honeygrid/assets/javascript/init-de.min.js?bust=27d15194a317d5c64353462506148777" data-page-token="ecdd8bdf3a556700dd33a02ad191622a" id="init-js"></script>
+		<script src="gm_javascript.js.php?page=Index&amp;current_template=Honeygrid"></script>
+		<div id="MSG_TO_BE_DISPLAYED_TO_CUSTOMER" style="display:none"></div><div id="freeow" class="freeow freeow-bottom-right"></div>        <script type="text/javascript">
+            (function () {
+                function async_load() {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = 'https://hollandproducten.com/mailhive.php?cron_simple=1';
+                    var x = document.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                }
+
+                if (window.attachEvent)
+                    window.attachEvent('onload', async_load);
+                else
+                    window.addEventListener('load', async_load, false);
+            })();
+        </script>
+
+                <script type="text/javascript">
+            (function () {
+                function async_load() {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = 'https://hollandproducten.com/mailhive.php?cron_advanced=1';
+                    var x = document.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                }
+
+                if (window.attachEvent)
+                    window.attachEvent('onload', async_load);
+                else
+                    window.addEventListener('load', async_load, false);
+            })();
+        </script>
+
+        <script type="application/javascript" src="https://app.usercentrics.eu/latest/main.js" id="XSnTAWUR"></script>
+
+			
+							
+
+			
+							
+		</body>
+	</html>
+</style></div></div></div></footer></div></body></html>

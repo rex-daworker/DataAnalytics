@@ -1,0 +1,1 @@
+['rechtschreibreform', 'rechtschreibereform', 'schreibreform', 'bvr', 'kleinschreibung', 'rechtschreibung', 'orthographie', 'ortografie', 'orthografie', 'buchstabenschrift']

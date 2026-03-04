@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Toms Deutschseite - Hilfestellung beim Erlernen der deutschen Sprache</title>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="Deutschseite, Deutsch, Deutsch lernen, deutsche Grammatik, deutsche Sprache, German page, German, learn German, German grammar, German language" name="keywords"/>
+<meta content="Toms Deutschseite ist eine Hilfestellung zum Erlernen von Deutsch als Fremdsprache. Die Themen sind nahezu ausschließlich in Englisch verfasst. Behandelt werden Grammatik, Vokabeln und Aussprache. Zu allen Themen finden Sie umfangreiche Erläuterungen und Übungen. Alle theoretischen Erläuterungen und die meisten Übungen sind als druckfertige pdf-Dateien verfügbar." name="description"/>
+<meta content="index" name="robots"/>
+<meta content="follow" name="robots"/>
+<meta content="Thomas Höfler" name="author"/>
+<meta content="2007-03-18" name="date"/>
+<meta content="HTML Kid Version 1.0" name="generator"/>
+<meta content="de,en" http-equiv="content-language"/>
+<meta content="0" http-equiv="expires"/>
+<link href="formate.css" rel="stylesheet" type="text/css"/>
+<script src="variablen.js" type="text/javascript"></script>
+<!-- Donation-Hinweis -->
+<link href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" rel="stylesheet" type="text/css"/>
+<!-- Ende Donation-Hinweis-->
+</head>
+<body bgcolor="#000046" onload="javascript:document.suche.query.focus()" style="margin-left:0px;margin-top:0px;margin-right:0px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="vertical-align:top;">
+<td><p><img alt="Toms Deutschseite is dedicated to my dear wife Catherine Höfler." height="102" onmouseout="this.src='catherine_pacana.jpg'" onmouseover="this.src='thomas_hoefler.jpg'" src="catherine_pacana.jpg" width="149"/></p></td>
+<td><p><img alt="German grammar, vocabularies, texts, pronunciation ..." height="102" src="toms_deutschseite.jpg" width="395"/></p></td>
+<td style="background-image:url(streifen.jpg);background-repeat:repeat;"> <p> </p></td>
+<td style="background-image:url(streifen.jpg);background-repeat:repeat;vertical-align:bottom;" width="100%">
+<nobr><p style="color:#6370AF;font-size:10px;text-align:right;margin-bottom:2px;margin-right:5px;"><a href="http://www.deutschseite.de/inhalt.html" style="color:#6370AF;font-size:10px;text-decoration:none">http://www.deutschseite.de</a><br/> © 2005-2020 by <a href="mailto:webmaster@deutschseite.de" style="color:#6370AF;font-size:10px;text-decoration:none;"><img border="0" height="10" src="mail.gif" style="vertical-align:middle;" width="13"/> Cathy &amp; Tom</a><br/>last updated:18th Jan. 2020 </p></nobr>
+</td>
+</tr>
+<tr height="16px" style="text-align:center;vertical-align:bottom;">
+<td colspan="4" style="background-image:url(streifen_menu.jpg);background-repeat:repeat;">
+<a href="index.html"> <img alt="Startseite" border="0" height="14" onmouseout="this.src='menu_home.jpg'" onmouseover="this.src='menu_home_highlight.jpg'" src="menu_home.jpg" style="margin-top:2px;" width="40"/></a>
+<img border="0" height="9" src="dot.jpg" width="11"/>
+<a href="inhalt.html"> <img alt="Inhaltsverzeichnis" border="0" height="14" onmouseout="this.src='menu_content.jpg'" onmouseover="this.src='menu_content_highlight.jpg'" src="menu_content.jpg" style="margin-top:2px;" width="50"/></a>
+<img border="0" height="9" src="dot.jpg" width="11"/>
+<a href="time-table/time-table.html"> <img alt="Zeitplan" border="0" height="14" onmouseout="this.src='menu_time_table.jpg'" onmouseover="this.src='menu_time_table_highlight.jpg'" src="menu_time_table.jpg" style="margin-top:2px;" width="64"/></a>
+<img border="0" height="9" src="dot.jpg" width="11"/>
+<a href="http://www.deutschseite.de/php3bb/index.php"> <img alt="Forum" border="0" height="14" onmouseout="this.src='menu_forum.jpg'" onmouseover="this.src='menu_forum_highlight.jpg'" src="menu_forum.jpg" style="margin-top:2px;" width="37"/></a>
+<img border="0" height="9" src="dot.jpg" width="11"/>
+<a href="donation/donation.html"> <img alt="Spende" border="0" height="14" onmouseout="this.src='menu_donation.jpg'" onmouseover="this.src='menu_donation_highlight.jpg'" src="menu_donation.jpg" style="margin-top:2px;" width="118"/></a>
+<img border="0" height="9" src="dot.jpg" width="11"/>
+<a href="intern/intern.html" style="text-decoration:none;margin-top:2px;"> <img alt="interner Bereich" border="0" height="14" onmouseout="this.src='menu_intern.jpg'" onmouseover="this.src='menu_intern_highlight.jpg'" src="menu_intern.jpg" style="margin-top:2px;" width="50"/> <img alt="interner Bereich" border="0" height="14" src="lock.jpg" width="11"/>
+</a></td></tr>
+</table>
+<br/><br/><br/>
+<center>
+<div id="search_box">
+<form action="../suchfunktion/search.php" method="get" name="suche">
+<input action="../suchfunktion/include/js_suggest/suggest.php" autocomplete="off" columns="2" delay="1500" id="query" name="query" size="50" style="margin-bottom:10px;" type="text" value=""/><br/>
+<input type="submit" value="Search"/>
+<input name="search" type="hidden" value="1"/>
+</form>
+<!--
+<br>
+<center>
+<img src="announcement.jpg" width="600" height="400" border="0">
+</center>
+<br>
+<a href="http://www.deutschseite.de/php3bb/index.php" style="font-size:16pt;">Link to our new forum (comments, requests, suggestions)</a>
+<br><br><br><br>
+-->
+<table border="0" cellpadding="0" cellspacing="0" width="60%">
+<tr style="vertical-align:top;">
+<td><img border="0" height="320" src="rahmen_links.jpg" width="30"/>
+</td><td style="background-image:url(rahmen_mitte.jpg);background-repeat:repeat-x;">
+<p style="font-weight:bold;"><br/>Dear visitor</p>
+<p style="margin-top:-10px;">Welcome to Toms Deutschseite. I wrote this private homepage in 2005/2006
+to teach my foreign girlfriend (today my wife) <a href="inhalt.html#grammatik" style="font-weight:bold;color:#FB9D00;">German grammar</a> as well as possible over the internet. 
+For this purpose I prepared a lot of theoretical explanations and exercises based on books and other internet sources. 
+In addition, you'll find <a href="inhalt.html#vokabeln" style="font-weight:bold;color:#FB9D00;">vocabulary</a> and <a href="inhalt.html#working_with_texts" style="font-weight:bold;color:#FB9D00;">text exercises</a>, hints for <a href="inhalt.html#aussprache" style="font-weight:bold;color:#FB9D00;">pronunciation</a>, tips for <a href="inhalt.html#rechtschreibung" style="font-weight:bold;color:#FB9D00;">German spelling</a> and further <a href="links/links.html" style="font-weight:bold;color:#FB9D00;">links</a> which deal with the German language.<br/><br/>
+Almost all topics are written in English. All explanations and most of the exercises are available as printer friendly PDF-files.
+<br/><br/>
+We are happy to announce that the number of visitors has increased from month to month. In 2014 we had about 1500-200 unique visitors per day who loaded up to 2.500 pages (1GB - 2 GB traffic) per day.
+<br/> 
+
+</p><h1>NEWs</h1>
+<p style="color:#FB9D00;font-weight:bold">The <a href="http://www.deutschseite.de/php3bb/index.php" target="_blank">forum</a>  is online again!</p>
+</td>
+<td><img border="0" height="320" src="rahmen_rechts.jpg" width="30"/>
+</td></tr>
+</table>
+<br/><br/>
+<!----------------------------------- Counter 2 START ---------------------------------->
+<script language="javascript" type="text/javascript">
+var sc_project=1489287; 
+var sc_invisible=1; 
+var sc_partition=13; 
+var sc_security="39d5d172"; 
+</script>
+<!----------------------------------- Counter 2 ENDE ---------------------------------->
+<!----------------------------------- Flag-Counter START ---------------------------------->
+<div style="text-align:middle;margin-top:0px">
+<a href="http://s08.flagcounter.com/more/st0"><img alt="free counters" border="0" src="http://s08.flagcounter.com/count/st0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_150/viewers_Visitors+since+21.09.2012/labels_1/pageviews_1/flags_1/"/></a>
+</div>
+<!----------------------------------- Flag-Counter ENDE ---------------------------------->
+<br/><br/>
+<!-- Donation-Hinweis -->
+<script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "message": "Thomas K., Dietlinde A., Sonia W., Robert W., Nora, P. donated within just one month enough money to pay webspace and domain! Many, many thanks to you! You ensure that we keep running Toms Deutschseite :-) Catherine and Tom",
+    "link": "More information",
+    "href": "http://www.deutschseite.de/donation/donation.html"
+  }
+});
+</script>
+<!-- Ende Donation-Hinweis-->
+</div></center></body>
+</html>

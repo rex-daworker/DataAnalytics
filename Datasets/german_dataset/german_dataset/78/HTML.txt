@@ -1,0 +1,1445 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/WebPage" lang="de-DE">
+<head>
+<meta charset="utf-8"/>
+<link href="//cdnjs.cloudflare.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//fonts.gstatic.com" rel="dns-prefetch"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Europäisches Roulette, Europäisches Roulette Regeln, Europäisches Roulette kostenlos, Europäisches Roulette Online Echtgeld, Europäisches Roulette online spielen" name="keywords"/>
+<meta content="💎Spielen Sie Europäisches Roulette Online ✅ Kostenlos ohne Anmeldung ✅ PC und mobile Version ✅ Echtgeldmodus Verfügbar!" name="description"/>
+<title>Spielen Sie Europäisches Roulette Online Kostenlos - Taktiken und Regeln | Roulette77 | Deutschland</title>
+<meta content="https://roulette77.de/img/logo.png" itemprop="image"/>
+<meta content="website" property="og:type"/>
+<meta content="https://roulette77.de/europäisches-roulette" property="og:url"/>
+<meta content="Spielen Sie Europäisches Roulette Online Kostenlos - Taktiken und Regeln | Roulette77 | Deutschland" property="og:title"/>
+<meta content="💎Spielen Sie Europäisches Roulette Online ✅ Kostenlos ohne Anmeldung ✅ PC und mobile Version ✅ Echtgeldmodus Verfügbar!" property="og:description"/>
+<meta content="https://roulette77.de/img/logo-big.png" property="og:image"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="https://roulette77.de/europäisches-roulette" property="twitter:url"/>
+<meta content="Spielen Sie Europäisches Roulette Online Kostenlos - Taktiken und Regeln | Roulette77 | Deutschland" property="twitter:title"/>
+<meta content="💎Spielen Sie Europäisches Roulette Online ✅ Kostenlos ohne Anmeldung ✅ PC und mobile Version ✅ Echtgeldmodus Verfügbar!" property="twitter:description"/>
+<meta content="https://roulette77.de/img/logo.png" property="twitter:image"/>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&amp;family=Roboto+Condensed:wght@400;700&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="./css/style.css?v=87" media="all" rel="stylesheet"/>
+<link href="https://roulette77.de/europäisches-roulette" rel="canonical"/>
+<link href="https://rolet77indonesia.com/rolet-eropa" hreflang="id-ID" rel="alternate"/>
+<link href="https://roulette77.de/europäisches-roulette" hreflang="de-DE" rel="alternate"/>
+<link href="https://roulette77.fr/roulette-européenne" hreflang="fr-FR" rel="alternate"/>
+<link href="https://roulette77.co.uk/european-roulette" hreflang="en-GB" rel="alternate"/>
+<link href="https://roulette77.nl/europees-roulette" hreflang="nl-NL" rel="alternate"/>
+<link href="https://freeroulettedoc.com/roulette-game" hreflang="en-CA" rel="alternate"/>
+<link href="https://roulette77australia.com/european-roulette" hreflang="en-AU" rel="alternate"/>
+<link href="https://roulette77thailand.com/ยูโรเปี้ยนรูเล็ต" hreflang="th-TH" rel="alternate"/>
+<link href="https://roulette77vietnam.com/roulette-сhâu-âu" hreflang="vi-VN" rel="alternate"/>
+<link href="https://roulette77hongkong.com/歐式輪盤" hreflang="zh-HK" rel="alternate"/>
+<link href="https://roulette77.se/europeisk-roulette" hreflang="sv-SE" rel="alternate"/>
+<link href="https://rulett77.com/europeisk-rulett" hreflang="no-NO" rel="alternate"/>
+<link href="https://ruletti77suomi.com/eurooppalainen-ruletti" hreflang="fi-FI" rel="alternate"/>
+<link href="https://roulette77espana.org/ruleta-europea" hreflang="es-ES" rel="alternate"/>
+<link href="https://roulette77.it/roulette-europea" hreflang="it-IT" rel="alternate"/>
+<link href="https://roulette-77.ru/europeyskaya-ruletka" hreflang="ru-RU" rel="alternate"/>
+<link href="https://roulette77.jp/ヨーロッパのルーレット" hreflang="ja-JP" rel="alternate"/>
+<link href="https://roulette77.us/european-roulette" hreflang="en-US" rel="alternate"/>
+<link href="http://roulette77.cn/歐式輪盤" hreflang="zh-CN" rel="alternate"/>
+<link href="https://roulette77ireland.com/european-roulette" hreflang="en-IE" rel="alternate"/>
+<link href="https://roulette77canada.org/roulette-européenne" hreflang="fr-CA" rel="alternate"/>
+<link href="https://roulette77.be/europees-roulette" hreflang="nl-BE" rel="alternate"/>
+<link href="https://roulette77.at/europäisches-roulette" hreflang="de-AT" rel="alternate"/>
+<link href="https://roulette77singapore.com/european-roulette" hreflang="en-SG" rel="alternate"/>
+<link href="https://roulette77newzealand.com/european-roulette" hreflang="en-NZ" rel="alternate"/>
+<link href="http://rulet77turkiye.com/avrupalı-ruleti" hreflang="tr-TR" rel="alternate"/>
+<link href="https://roulette77.com.tw/歐式輪盤" hreflang="zh-TW" rel="alternate"/>
+<link href="http://roulette77schweiz.com/europäisches-roulette" hreflang="de-CH" rel="alternate"/>
+<link href="https://roulette77.co.za/european-roulette" hreflang="en-ZA" rel="alternate"/>
+<link href="http://roulette77.lu/europäisches-roulette" hreflang="de-LU" rel="alternate"/>
+<link href="https://roulette77morocco.com/roulette-européenne" hreflang="fr-MA" rel="alternate"/>
+<link href="http://roulette77algeria.com/roulette-européenne" hreflang="fr-DZ" rel="alternate"/>
+<link href="http://roulette77.li/europäisches-roulette" hreflang="de-LI" rel="alternate"/>
+<link href="http://roulette77senegal.com/roulette-européenne" hreflang="fr-SN" rel="alternate"/>
+<link href="http://roulette77bahamas.com/european-roulette" hreflang="en-BS" rel="alternate"/>
+<link href="https://roulette77.mx/ruleta-europea" hreflang="es-MX" rel="alternate"/>
+<link href="https://ruleta77argentina.com/ruleta-europea" hreflang="es-AR" rel="alternate"/>
+<link href="https://ruleta77chili.com/ruleta-europea" hreflang="es-CL" rel="alternate"/>
+<link href="https://roulette77.co/ruleta-europea" hreflang="es-CO" rel="alternate"/>
+<link href="https://roleta77peru.com/ruleta-europea" hreflang="es-PE" rel="alternate"/>
+<link href="https://ruleta77uruguay.com/ruleta-europea" hreflang="es-UY" rel="alternate"/>
+<link href="http://ruleta77panama.com/ruleta-europea" hreflang="es-PA" rel="alternate"/>
+<link href="https://roulette77belarus.com/evropeyskaya-ruletka" hreflang="ru-BY" rel="alternate"/>
+<link href="https://ruletka77kz.com/evropeyskaya-ruletka" hreflang="ru-KZ" rel="alternate"/>
+<link href="https://ruletka77ukraine.com/evropeyskaya-ruletka" hreflang="ru-UA" rel="alternate"/>
+<link href="http://roulette77egypt.com/الروليت-الاوروبي" hreflang="ar-EG" rel="alternate"/>
+<link href="http://roulette77emirates.com/الروليت-الاوروبي" hreflang="ar-AE" rel="alternate"/>
+<link href="https://roulette77korea.com/유럽식-룰렛" hreflang="ko-KR" rel="alternate"/>
+<link href="https://roulette77danmark.com/europæisk-roulette" hreflang="da-DK" rel="alternate"/>
+<link href="https://roulette77.pl/europejska-ruletka" hreflang="pl-PL" rel="alternate"/>
+<link href="https://ruleta77slovenia.com/evropska ruleta" hreflang="sl-SI" rel="alternate"/>
+<link href="https://ruleta77slovakia.com/európska-ruleta" hreflang="sk-SK" rel="alternate"/>
+<link href="https://ruleta77czech.com/evropská-ruleta" hreflang="cs-CZ" rel="alternate"/>
+<link href="https://roleta77portugal.com/roleta-europeia" hreflang="pt-PT" rel="alternate"/>
+<link href="https://roleta77brazil.com/roleta-europeia" hreflang="pt-BR" rel="alternate"/>
+<link href="https://roulette77.in/european-roulette" hreflang="en-IN" rel="alternate"/>
+<link href="http://rulett77estonia.com/euroopa-rulett" hreflang="et-EE" rel="alternate"/>
+<link href="https://rulet77serbia.com/evropski-rulet" hreflang="sr-RS" rel="alternate"/>
+<link href="https://roulette77tanzania.com/roulette-ulaya" hreflang="sw-TZ" rel="alternate"/>
+<link href="https://roulette77israel.com/רולטה-אירופאית" hreflang="he-IL" rel="alternate"/>
+<link href="http://rouleta77cyprus.com/eυρωπαϊκή-ρουλέτα" hreflang="el-CY" rel="alternate"/>
+<link href="https://roulette77.gr/eυρωπαϊκή-ρουλέτα" hreflang="el-GR" rel="alternate"/>
+<link href="http://ruleta77romaina.com/ruleta-europeană" hreflang="ro-RO" rel="alternate"/>
+<link href="http://roulette77.lv/eiropas-rulete" hreflang="lv-LV" rel="alternate"/>
+<link href="https://ruletka77georgia.com/ევროპული-რულეტი" hreflang="ka-GE" rel="alternate"/>
+<link href="https://ruletka77bulgaria.com/европейска-рулетка" hreflang="bg-BG" rel="alternate"/>
+<link href="https://rulett77hungary.com/európai-rulett" hreflang="hu-HU" rel="alternate"/>
+<link href="https://rulet77croatia.com/europska-ruleta" hreflang="hr-HR" rel="alternate"/>
+<link href="http://rulletta77.com/evrópu-rúlletta" hreflang="is-IS" rel="alternate"/>
+<link href="https://rulete77lithuania.com/europietiška-ruletė" hreflang="lt-LT" rel="alternate"/>
+<link href="https://ruletka77ua.com/europeyska-ruletka" hreflang="uk-UA" rel="alternate"/>
+<link href="http://roulette77malta.com/roulette ewropew" hreflang="mt-MT" rel="alternate"/>
+<link href="https://ruletka77.com/avropa-ruletka" hreflang="az-AZ" rel="alternate"/>
+<link href="https://rulet77bosnia.com/european-roulette" hreflang="bs-BA" rel="alternate"/>
+<link href="https://ruletka77uzbekistan.com/evropa-ruleti" hreflang="uz-UZ" rel="alternate"/>
+<link href="http://roulette77uganda.com/european-roulette" hreflang="en-UG" rel="alternate"/>
+<link href="http://rulete77.com/rulete-evropiane" hreflang="sq-AL" rel="alternate"/>
+<link href="http://roulette77cambodia.com/roulette-eurob" hreflang="km-KH" rel="alternate"/>
+<link href="http://roleta77.com/ruleta-europea" hreflang="ca-AO" rel="alternate"/>
+<link href="http://rolet77.com/rolet-eropah" hreflang="ms-BN" rel="alternate"/>
+<link href="https://roulette77kenya.com/european-roulette" hreflang="en-KE" rel="alternate"/>
+<link href="http://ruleta77ecuador.com/ruleta-europea" hreflang="es-EC" rel="alternate"/>
+<link href="http://roulette77jamaica.com/european-roulette" hreflang="en-JM" rel="alternate"/>
+<link href="http://roulette77nigeria.com/european-roulette" hreflang="en-NG" rel="alternate"/>
+<link href="http://roulette77lebanon.com/الروليت-الاوروبي" hreflang="ar-LB" rel="alternate"/>
+<link href="http://rulet77macedonia.com/eвропски-рулет" hreflang="mk-MK" rel="alternate"/>
+<link href="http://ruleta77gibraltar.com/ruleta-europea" hreflang="es-GI" rel="alternate"/>
+<link href="https://ruleta77philippines.com/amerikano-ruleta" hreflang="en-PH" rel="alternate"/>
+<link href="https://rolet77malaysia.com/european-roulette" hreflang="en-MY" rel="alternate"/>
+<link href="http://roulette77afghanistan.com/د-اروپا-اروپا" hreflang="ps-AF" rel="alternate"/>
+<link href="http://roulette77asamoa.com/european-roulette" hreflang="en-AS" rel="alternate"/>
+<link href="http://ruleta77andorra.com/ruleta-europea" hreflang="ca-AD" rel="alternate"/>
+<link href="http://roulette77anguilla.com/european-roulette" hreflang="en-KN" rel="alternate"/>
+<link href="http://roulette77antigua.com/european-roulette" hreflang="en-AG" rel="alternate"/>
+<link href="http://ruletka77armenia.com/Եվրոպական-ռուլետկա" hreflang="hy-AM" rel="alternate"/>
+<link href="http://roulette77bahrain.com/الروليت-الاوروبي" hreflang="ar-BH" rel="alternate"/>
+<link href="http://roulette77bangladesh.com/ইউরোপীয়-রুলেট" hreflang="bn-BD" rel="alternate"/>
+<link href="http://roulette77.bz/european-roulette" hreflang="en-BZ" rel="alternate"/>
+<link href="http://roulette77benin.com/roulette-européenne" hreflang="fr-BJ" rel="alternate"/>
+<link href="http://roulette77bhutan.com/european-roulette" hreflang="en-BT" rel="alternate"/>
+<link href="http://ruleta77bolivia.com/ruleta-europea" hreflang="es-BO" rel="alternate"/>
+<link href="http://roulette77botswana.com/europese-roulette" hreflang="tn-BW" rel="alternate"/>
+<link href="http://roulette77ukvirginislands.com/european-roulette" hreflang="en-VG" rel="alternate"/>
+<link href="http://roulette77burkinafaso.com/roulette-européenne" hreflang="fr-BF" rel="alternate"/>
+<link href="http://roulette77burundi.com/roulette-européenne" hreflang="fr-BI" rel="alternate"/>
+<link href="https://roulette77cameroon.com/roulette-européenne" hreflang="fr-CM" rel="alternate"/>
+<link href="http://roleta77capeverde.com/roleta-européia" hreflang="pt-CV" rel="alternate"/>
+<link href="http://roulette77cf.com/roulette-européenne" hreflang="fr-CF" rel="alternate"/>
+<link href="http://roulette77chad.com/roulette-européenne" hreflang="fr-TD" rel="alternate"/>
+<link href="http://roulette77cisland.com/european-roulette" hreflang="en-CX" rel="alternate"/>
+<link href="http://roulette77.cc/european-roulette" hreflang="en-CC" rel="alternate"/>
+<link href="http://roulette77brazzaville.com/roulette-européenne" hreflang="fr-CG" rel="alternate"/>
+<link href="http://roulette77congo.com/roulette-européenne" hreflang="fr-CD" rel="alternate"/>
+<link href="http://roulette77cookislands.com/european-roulette" hreflang="en-CK" rel="alternate"/>
+<link href="http://roulette77costarica.com/ruleta-europea" hreflang="es-CR" rel="alternate"/>
+<link href="http://roulette77cotedivoire.com/roulette-européenne" hreflang="fr-CI" rel="alternate"/>
+<link href="http://ruleta77cuba.com/ruleta-europea" hreflang="es-CU" rel="alternate"/>
+<link href="http://roulette77djibouti.com/roulette-européenne" hreflang="fr-DJ" rel="alternate"/>
+<link href="http://roulette77dominica.com/european-roulette" hreflang="en-DM" rel="alternate"/>
+<link href="http://ruleta77dominican.com/ruleta-europea" hreflang="es-DO" rel="alternate"/>
+<link href="http://ruleta77elsalvador.com/ruleta-europea" hreflang="es-SV" rel="alternate"/>
+<link href="http://roulette77ethiopia.com/የአውሮፓ-ሮሌት" hreflang="am-ET" rel="alternate"/>
+<link href="http://roulette77fiji.com/european-roulette" hreflang="en-FJ" rel="alternate"/>
+<link href="http://roulette77.ga/roulette-européenne" hreflang="fr-GA" rel="alternate"/>
+<link href="http://roulette77gambia.com/roulette-ya-ulaya" hreflang="wo-GM" rel="alternate"/>
+<link href="http://roulette77ghana.com/european-roulette" hreflang="en-GH" rel="alternate"/>
+<link href="http://roulette77greenland.com/europese-roulette" hreflang="nl-GL" rel="alternate"/>
+<link href="http://roulette77guadeloupe.com/roulette-européenne" hreflang="fr-GP" rel="alternate"/>
+<link href="http://ruleta77guatemala.com/ruleta-europea" hreflang="es-GT" rel="alternate"/>
+<link href="http://roulette77guernsey.com/roulette-européenne" hreflang="fr-GG" rel="alternate"/>
+<link href="http://roulette77guyana.com/european-roulette" hreflang="en-GY" rel="alternate"/>
+<link href="http://roulette77haiti.com/roulette-européenne" hreflang="fr-HT" rel="alternate"/>
+<link href="http://ruleta77honduras.com/ruleta-europea" hreflang="es-HN" rel="alternate"/>
+<link href="https://roulette77iraq.com/الروليت-الاوروبي" hreflang="ar-IQ" rel="alternate"/>
+<link href="http://roulette77.im/european-roulette" hreflang="en-IM" rel="alternate"/>
+<link href="http://roulette77jersey.com/roulette-européenne" hreflang="fr-JE" rel="alternate"/>
+<link href="http://roulette77jordan.com/الروليت-الاوروبي" hreflang="ar-JO" rel="alternate"/>
+<link href="http://roulette77kiribati.com/european-roulette" hreflang="en-KI" rel="alternate"/>
+<link href="http://roulette77kuwait.com/الروليت-الاوروبي" hreflang="ar-KW" rel="alternate"/>
+<link href="http://ruletka77kyrgyzstan.com/европа-чыгырык" hreflang="ky-KG" rel="alternate"/>
+<link href="http://roulette77.la/ຮູເລັດຍຸໂລບ" hreflang="lo-LA" rel="alternate"/>
+<link href="http://roulette77lesotho.com/eŭropa-ruleto" hreflang="st-LS" rel="alternate"/>
+<link href="http://roulette77libya.com/الروليت-الاوروبي" hreflang="ar-LY" rel="alternate"/>
+<link href="http://roulette77madagascar.com/european-roulette" hreflang="mg-MG" rel="alternate"/>
+<link href="http://roulette77malawi.com/roulette-ya-ulaya" hreflang="ny-MW" rel="alternate"/>
+<link href="http://roulette77maldives.com/european-roulette" hreflang="en-MV" rel="alternate"/>
+<link href="http://roulette77mali.com/roulette-européenne" hreflang="fr-ML" rel="alternate"/>
+<link href="http://roulette77mauritius.com/roulette-européenne" hreflang="fr-MU" rel="alternate"/>
+<link href="http://roulette77micronesia.com/european-roulette" hreflang="en-FM" rel="alternate"/>
+<link href="http://ruleta77moldova.com/ruleta-europeană" hreflang="ro-MD" rel="alternate"/>
+<link href="https://rulet77mongolia.com/европын-рулет" hreflang="mn-MN" rel="alternate"/>
+<link href="http://roulette77.me/evropski-rulet" hreflang="hr-ME" rel="alternate"/>
+<link href="http://roulette77monserrat.com/european-roulette" hreflang="en-MS" rel="alternate"/>
+<link href="https://roleta77mozambique.com/roleta-européia" hreflang="pt-MZ" rel="alternate"/>
+<link href="http://roulette77burma.com/ဥရောပကစားတဲ့" hreflang="my-MM" rel="alternate"/>
+<link href="http://roulette77namibia.com/europese-roulette" hreflang="af-NA" rel="alternate"/>
+<link href="http://roulette77nauru.com/european-roulette" hreflang="en-NR" rel="alternate"/>
+<link href="http://roulette77nepal.com/यूरोपीय-रूले" hreflang="ne-NP" rel="alternate"/>
+<link href="http://ruleta77nicaragua.com/ruleta-europea" hreflang="es-NI" rel="alternate"/>
+<link href="http://roulette77niger.com/roulette-européenne" hreflang="fr-NE" rel="alternate"/>
+<link href="http://roulette77niue.com/european-roulette" hreflang="en-NU" rel="alternate"/>
+<link href="http://roulette77norfolk.com/european-roulette" hreflang="en-NF" rel="alternate"/>
+<link href="http://roulette77oman.com/الروليت-الاوروبي" hreflang="ar-OM" rel="alternate"/>
+<link href="http://roulette77pakistan.com/یورپ-رولیٹی" hreflang="ur-PK" rel="alternate"/>
+<link href="http://roulette77palestine.com/الروليت-الاوروبي" hreflang="ar-PS" rel="alternate"/>
+<link href="http://roulette77papunewguinea.com/european-roulette" hreflang="en-PG" rel="alternate"/>
+<link href="http://ruleta77paraguay.com/ruleta-europea" hreflang="es-PY" rel="alternate"/>
+<link href="http://roulette77pitcairnislands.com/european-roulette" hreflang="en-PN" rel="alternate"/>
+<link href="http://ruleta77puertorico.com/ruleta-europea" hreflang="es-PR" rel="alternate"/>
+<link href="http://roulette77quatar.com/الروليت-الاوروبي" hreflang="ar-QA" rel="alternate"/>
+<link href="http://roulette77rwanda.com/roulette-européenne" hreflang="fr-RW" rel="alternate"/>
+<link href="http://roulette77sthelena.com/european-roulette" hreflang="en-SH" rel="alternate"/>
+<link href="http://roulette77stvincent.com/european-roulette" hreflang="en-VC" rel="alternate"/>
+<link href="http://roulette77.ws/european-roulette" hreflang="en-WS" rel="alternate"/>
+<link href="http://roulette77sanmarino.com/roulette-europea" hreflang="it-SM" rel="alternate"/>
+<link href="http://roulette77st.com/roleta-européia" hreflang="pt-ST" rel="alternate"/>
+<link href="https://roulette77sa.com/الروليت-الاوروبي" hreflang="ar-SA" rel="alternate"/>
+<link href="http://roulette77seychelles.com/ewopeyen-roulèt" hreflang="ht-SC" rel="alternate"/>
+<link href="http://roulette77sierraleone.com/european-roulette" hreflang="en-SL" rel="alternate"/>
+<link href="http://roulette77solomonislands.com/european-roulette" hreflang="en-SB" rel="alternate"/>
+<link href="http://roulette77somalia.com/roulette-yurub" hreflang="so-SO" rel="alternate"/>
+<link href="http://roulette77srilanka.com/යුරෝපීය-රූලිතය" hreflang="si-LK" rel="alternate"/>
+<link href="http://roulette77suriname.com/europees-roulette" hreflang="nl-SR" rel="alternate"/>
+<link href="http://roulette77tajikistan.com/аврупо-roulette" hreflang="tg-TJ" rel="alternate"/>
+<link href="http://roleta77timorleste.com/roleta-européia" hreflang="pt-TL" rel="alternate"/>
+<link href="http://roulette77togo.com/roulette-européenne" hreflang="fr-TG" rel="alternate"/>
+<link href="http://roulette77.tk/european-roulette" hreflang="en-TK" rel="alternate"/>
+<link href="http://roulette77tonga.com/roulette-ya-ulaya" hreflang="to-TO" rel="alternate"/>
+<link href="http://roulette77trinidad.com/european-roulette" hreflang="en-TT" rel="alternate"/>
+<link href="https://roulette77tunisia.com/الروليت-الاوروبي" hreflang="ar-TN" rel="alternate"/>
+<link href="http://roulette77turkmenistan.com/yewropa-ruletka" hreflang="tk-TM" rel="alternate"/>
+<link href="http://roulette77usvirginislands.com/european-roulette" hreflang="en-VI" rel="alternate"/>
+<link href="http://roulette77vanautu.com/roulette-européenne" hreflang="fr-VU" rel="alternate"/>
+<link href="http://ruleta77venezuela.com/ruleta-europea" hreflang="es-VE" rel="alternate"/>
+<link href="http://roulette77zambia.com/roulette-ya-ulaya" hreflang="ny-ZM" rel="alternate"/>
+<link href="http://roulette77zimbabwe.com/european-roulette" hreflang="sn-ZW" rel="alternate"/>
+<link href="./img/european-screen/rlt77.jpg" rel="preload"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MVRKTKD');</script>
+<!-- End Google Tag Manager -->
+<script src="js/ie6.js" type="text/javascript"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVRKTKD" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Adskeeper Sensor -->
+<script type="text/javascript"> (function() { var d = document, w = window; w.MgSensorData = w.MgSensorData || []; w.MgSensorData.push({ cid:577195, lng:"us", nosafari:true, project: "a.adskeeper.co.uk" }); var l = "a.adskeeper.co.uk"; var n = d.getElementsByTagName("script")[0]; var s = d.createElement("script"); s.type = "text/javascript"; s.async = true; var dt = !Date.now?new Date().valueOf():Date.now(); s.src = "https://" + l + "/mgsensor.js?d=" + dt; n.parentNode.insertBefore(s, n); })(); 
+</script>
+<!-- /Adskeeper Sensor -->
+<div class="game-overlay"></div>
+<div class="page">
+<div class="flag-section">
+<div class="flag-list">
+<a class="sprite id_id" href="https://rolet77indonesia.com" title="Roulette77 Indonesia / Bahasa Indonesia"></a>
+<a class="sprite de_de" href="https://roulette77.de" title="Roulette77 Deutschland / Deutsch"></a>
+<a class="sprite fr_fr" href="https://roulette77.fr" title="Roulette77 France / Français"></a>
+<a class="sprite en_gb" href="https://roulette77.co.uk" title="Roulette77 UK / English"></a>
+<a class="sprite da_nl" href="https://roulette77.nl" title="Roulette77 Nederland / Dutch"></a>
+<a class="sprite en_ca" href="https://freeroulettedoc.com" title="Roulette77 Canada / English"></a>
+<a class="sprite en_au" href="https://roulette77australia.com" title="Roulette77 Australia / English"></a>
+<a class="sprite th_th" href="https://roulette77thailand.com" title="Roulette77 ประเทศไทย / ไทย"></a>
+<a class="sprite vi_vn" href="https://roulette77vietnam.com" title="Roulette77 Việt Nam / Tiếng Việt"></a>
+<a class="sprite zh_hk" href="https://roulette77hongkong.com" title="Roulette77 香港 / 繁體中文"></a>
+<a class="sprite sv_se" href="https://roulette77.se" title="Roulette77 Sverige / Svenska"></a>
+<a class="sprite no_no" href="https://rulett77.com" title="Roulette77 Norge / Norsk"></a>
+<a class="sprite fi_fi" href="https://ruletti77suomi.com" title="Roulette77 Suomi / Suomi"></a>
+<a class="sprite es_es" href="https://roulette77espana.org" title="Roulette77 Espana / Español"></a>
+<a class="sprite it_it" href="https://roulette77.it" title="Roulette77 Italia / Italiano"></a>
+<a class="sprite ru_ru" href="https://roulette-77.ru" title="Roulette77 Россия / Русский"></a>
+<a class="sprite ja_jp" href="https://roulette77.jp" title="Roulette77 日本 / 日本語"></a>
+</div>
+</div>
+<!---  top t1 --->
+<nav class="header-nav-section nav-section--extended">
+<div class="container">
+<div class="menu-toggle-flag">
+<div class="hamburger-flag de_de"></div>
+</div>
+<div class="menu-toggle">
+<div class="hamburger"></div>
+</div>
+<div class="block-logo-mobile">
+<a class="block-logo-mobile__link" href="/">
+<!--<img src="./img/logo-mobile.png" alt="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" title="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland">-->
+<img alt="Roulette77" src="./img/logo-mobile.png"/>
+</a>
+</div>
+<div class="flag-section-mobile">
+<div class="flag-list">
+<div class="flag-list__item">
+<a class="sprite id_id" href="https://rolet77indonesia.com" title="Roulette77 Indonesia / Bahasa Indonesia"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite de_de" href="https://roulette77.de" title="Roulette77 Deutschland / Deutsch"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite fr_fr" href="https://roulette77.fr" title="Roulette77 France / Français"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_gb" href="https://roulette77.co.uk" title="Roulette77 UK / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite da_nl" href="https://roulette77.nl" title="Roulette77 Nederland / Dutch"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_ca" href="https://freeroulettedoc.com" title="Roulette77 Canada / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_au" href="https://roulette77australia.com" title="Roulette77 Australia / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite th_th" href="https://roulette77thailand.com" title="Roulette77 ประเทศไทย / ไทย"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite vi_vn" href="https://roulette77vietnam.com" title="Roulette77 Việt Nam / Tiếng Việt"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite zh_hk" href="https://roulette77hongkong.com" title="Roulette77 香港 / 繁體中文"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite sv_se" href="https://roulette77.se" title="Roulette77 Sverige / Svenska"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite no_no" href="https://rulett77.com" title="Roulette77 Norge / Norsk"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite fi_fi" href="https://ruletti77suomi.com" title="Roulette77 Suomi / Suomi"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite es_es" href="https://roulette77espana.org" title="Roulette77 Espana / Español"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite it_it" href="https://roulette77.it" title="Roulette77 Italia / Italiano"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite ru_ru" href="https://roulette-77.ru" title="Roulette77 Россия / Русский"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite ja_jp" href="https://roulette77.jp" title="Roulette77 日本 / 日本語"></a>
+</div>
+</div>
+</div>
+<ul class="nav">
+<li class="home-row">
+<a class="nav-item" href="/">Startseite</a>
+</li>
+<li class="nav-group">
+<div class="nav-group__title group-games">
+<span class="nav-group__title-text">Roulette Spiele</span>
+<span class="nav-group__triangle">▼</span>
+</div>
+<ul class="nav-group__list">
+<li class="eur-row">
+<a class="nav-item nav-group__item" href="europäisches-roulette">Europäisches Roulette</a>
+</li>
+<li class="am-row">
+<a class="nav-item nav-group__item" href="amerikanisches-roulette">Amerikanisches Roulette</a>
+</li>
+<li class="french-row">
+<a class="nav-item nav-group__item" href="franzosisches-roulette">Französisches Roulette</a>
+</li>
+<li class="simulator-row">
+<a class="nav-item nav-group__item" href="roulette-simulator">Roulette Simulator</a>
+</li>
+</ul>
+</li>
+<li class="logo-row">
+<a class="nav-item-logo" href="/">
+<img alt="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" src="https://roulette77.de/img/main/logo.png" title="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland"/>
+</a>
+</li>
+<li class="liveroulette-row">
+<a class="nav-item" href="live-roulette">Live roulette</a>
+</li>
+<li class="nav-group">
+<div class="nav-group__title group-guides">
+<span class="nav-group__title-text">Führer</span>
+<span class="nav-group__triangle">▼</span>
+</div>
+<ul class="nav-group__list">
+<li class="video-row">
+<a class="nav-item nav-group__item" href="roulette-videos">Roulette videos</a>
+</li>
+<li class="how-to-play-row">
+<a class="nav-item nav-group__item" href="wie-man-spielt">Wie man spielt?</a>
+</li>
+<li class="roulette-strategies-row">
+<a class="nav-item nav-group__item" href="roulette-strategien">Roulette Strategien</a>
+</li>
+<li class="roulette-calc-row">
+<a class="nav-item nav-group__item" href="roulette-quotenrechner">Quotenrechner</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<div class="block-roulette">
+<div class="container">
+<ul class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li class="first" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="/" itemprop="item">
+<span itemprop="name">
+                                Startseite                            </span>
+</a>
+<meta content="1" itemprop="position"/>
+</li>
+<li>/</li>
+<li>
+                Europäisches Roulette            </li>
+</ul>
+<h1 class="block-roulette__title">Europäisches roulette</h1>
+<div class="block-roulette__content">
+<div class="game-block-new">
+<div class="game-block__tabs">
+<button class="game-tabs__btn ico-mobile roulette77 is-active" data-game-preload-img="img/european-screen/rlt77.jpg" data-mobile-src="_template_desktop-game-european.htm" data-src="_template_desktop-game-european.htm">Roulette77</button>
+<button class="game-tabs__btn ico-mobile pragmaticplay" data-game-preload-img="img/european-screen/pragmatic-game.jpg" data-mobile-src="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&amp;cur=EUR&amp;websiteUrl=/gs2c/casinoBrand.jsp&amp;gameSymbol=rla&amp;width=640&amp;height=480" data-src="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&amp;cur=EUR&amp;websiteUrl=/gs2c/casinoBrand.jsp&amp;gameSymbol=rla&amp;width=640&amp;height=480">PragmaticPlay</button>
+<button class="game-tabs__btn ico-mobile relaxgaming" data-game-preload-img="img/european-screen/dirfx.jpg" data-mobile-src="https://d2drhksbtcqozo.cloudfront.net/casino/games-mt/roulettenouveau/index.html?gameid=roulettenouveau&amp;jurisdiction=MT&amp;channel=web&amp;moneymode=fun" data-src="https://d2drhksbtcqozo.cloudfront.net/casino/games-mt/roulettenouveau/index.html?gameid=roulettenouveau&amp;jurisdiction=MT&amp;channel=web&amp;moneymode=fun">RelaxGaming</button>
+<button class="game-tabs__btn ico-mobile redtiger" data-game-preload-img="img/european-screen/red-tiger.jpg" data-mobile-src="https://gserver-rtg.redtiger.com/rtg/launcher/EuropeanRoulette" data-src="https://gserver-rtg.redtiger.com/rtg/launcher/EuropeanRoulette">RedTiger</button>
+<button class="game-tabs__btn ico-mobile netent" data-game-preload-img="img/european-screen/net-ent.jpg" data-mobile-src="https://netent-static.casinomodule.com/games/europeanroulette3_mobile_html/game/europeanroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&amp;targetElement=netentgame&amp;flashParams.bgcolor=000000&amp;gameId=europeanroulette3_not_mobile&amp;mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Feuropean-roulette%252F&amp;server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&amp;lang=en&amp;sessId=DEMO-2978817962-EUR&amp;operatorId=default" data-src="https://netent-static.casinomodule.com/games/europeanroulette3_mobile_html/game/europeanroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&amp;targetElement=netentgame&amp;flashParams.bgcolor=000000&amp;gameId=europeanroulette3_not_mobile&amp;mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Feuropean-roulette%252F&amp;server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&amp;lang=en&amp;sessId=DEMO-2978817962-EUR&amp;operatorId=default" id="priorityMobGame">NetEnt</button>
+<!--mob games-->
+<!-- <button data-game-preload-img="img/european-screen/red-tiger.jpg" data-mobile-src="https://gserver-rtg.redtiger.com/rtg/launcher/EuropeanRoulette" class="game-tabs__btn desk-hidden-mob-visible">RedTiger</button> -->
+<div class="game-block__resize" onclick="gtag('event', 'start', { 'event_category' : 'full-screen'})"></div>
+<div class="game-block__close">X</div>
+</div>
+<div class="game-block__container" style="background-image: url(img/european-screen/rlt77.jpg)">
+<div class="game-block__buttons">
+<a class="content-iframe__overlay-btn game-launcher__btn-play-money game-launcher__btn-play-money--desktop" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'iframe-ref-btn'});" target="_blank">Für Echtgeld spielen</a>
+<button class="content-iframe__overlay-btn game-launcher__btn-play-free game-launcher__btn-play-free--desktop" data-mobile-src="https://netent-static.casinomodule.com/games/europeanroulette3_mobile_html/game/europeanroulette3_mobile_html.xhtml?staticServer=https%3A%2F%2Fnetent-static.casinomodule.com%2F&amp;targetElement=netentgame&amp;flashParams.bgcolor=000000&amp;gameId=europeanroulette3_not_mobile&amp;mobileParams.lobbyURL=https%253A%252F%252Fgames.netent.com%252Ftable-games%252Feuropean-roulette%252F&amp;server=https%3A%2F%2Fnetent-game.casinomodule.com%2F&amp;lang=en&amp;sessId=DEMO-2978817962-EUR&amp;operatorId=default" data-src="_template_desktop-game-european.htm" onclick="gtag('event', 'start', { 'event_category' : 'iframe-free-btn'});">Kostenlos spielen</button>
+</div>
+<iframe allowfullscreen="" class="iframe-game iframe-game--european iframe-game-new" frameborder="0" scrolling="no" src=""></iframe>
+<a class="game-block__iframe-play" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'iframe-ref-btn'});" target="_blank">
+<span>Für Echtgeld spielen</span>
+</a>
+</div>
+<a class="game__btn-for-money" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'under-game-btn'});" rel="nofollow" target="_blank">Für Echtgeld spielen</a>
+</div>
+<div class="block-table">
+<div class="banner-odds-calculator">
+<span class="banner-odds-calculator__sticker">Neuheit</span>
+<span class="banner-odds-calculator__text-red">Roulette Quotenrechner von Roulette77</span>
+<span class="banner-odds-calculator__text-blue">Leistungsstarkes Tool zur Berechnung Ihrer Gewinnchancen</span>
+<button class="banner-odds-calculator__btn" data-src="./odds-calc/roulette-odds-calculator.html" onclick="gtag('event', 'start', { 'event_category' : 'odds-calculator'})">Berechnen</button>
+</div>
+<div class="game-list-roulette__display full__display" style="background-image: url('./odds-calc/img/odd-calc.png')">
+<iframe class="game-list-roulette__display-iframe" src=""></iframe>
+<button class="game-list-roulette__close banner-odds-calculator__close">×</button>
+</div>
+<div class="payout-table-block">
+<table class="payout-table">
+<caption>Europäische Roulette Eigenschaften:</caption>
+<tbody>
+<tr><td>Wette</td><td>Auszahlung</td><td>Gewinnchancen</td></tr>
+<tr><td>Einzelne Zahl</td><td>35:1</td><td>2,70%</td></tr>
+<tr><td>Benachbarte Zahlen</td><td>17:1</td><td>5,40%</td></tr>
+<tr><td>Eine Querreihe</td><td>11:1</td><td>8,10%</td></tr>
+<tr><td>Vier Nachbarn</td><td>8:1</td><td>10,80%</td></tr>
+<tr><td>Zwei Querreihen</td><td>5:1</td><td>16,20%</td></tr>
+<tr><td>Kolonnen</td><td>2:1</td><td>32,40%</td></tr>
+<tr><td>Dutzende</td><td>2:1</td><td>32,40%</td></tr>
+<tr><td>Gerade/Ungerade</td><td>1:1</td><td>48,60%</td></tr>
+<tr><td>Schwarz/Rot</td><td>1:1</td><td>48,60%</td></tr>
+<tr><td>Niedrige/Hohe</td><td>1:1</td><td>48,60%</td></tr>
+</tbody>
+</table>
+</div>
+<div class="star-rating" style="text-align: left;">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<form action="#" class="rating-form" method="post" name="rating-movie">
+<fieldset class="form-group">
+<legend class="form-legend" style="display: block">bewerte dieses spiel</legend>
+<div class="form-item">
+<input data-value="5" id="rating-5" name="rating" type="radio" value="5"/>
+<label data-value="5" for="rating-5" onclick="gtag('event', 'start', { 'event_category' : 'rate-game'});">
+<span class="rating-star">
+<i class="fa fa-star-o" data-value="5"></i>
+<i class="fa fa-star" data-value="5"></i>
+</span>
+<span class="ir">5</span>
+</label>
+<input data-value="4" id="rating-4" name="rating" type="radio" value="4"/>
+<label data-value="4" for="rating-4" onclick="gtag('event', 'start', { 'event_category' : 'rate-game'});">
+<span class="rating-star">
+<i class="fa fa-star-o" data-value="4"></i>
+<i class="fa fa-star" data-value="4"></i>
+</span>
+<span class="ir">4</span>
+</label>
+<input data-value="3" id="rating-3" name="rating" type="radio" value="3"/>
+<label data-value="3" for="rating-3" onclick="gtag('event', 'start', { 'event_category' : 'rate-game'});">
+<span class="rating-star">
+<i class="fa fa-star-o" data-value="3"></i>
+<i class="fa fa-star" data-value="3"></i>
+</span>
+<span class="ir">3</span>
+</label>
+<input data-value="2" id="rating-2" name="rating" type="radio" value="2"/>
+<label data-value="2" for="rating-2" onclick="gtag('event', 'start', { 'event_category' : 'rate-game'});">
+<span class="rating-star">
+<i class="fa fa-star-o" data-value="2"></i>
+<i class="fa fa-star" data-value="2"></i>
+</span>
+<span class="ir">2</span>
+</label>
+<input data-value="1" id="rating-1" name="rating" type="radio" value="1"/>
+<label data-value="1" for="rating-1" onclick="gtag('event', 'start', { 'event_category' : 'rate-game'});">
+<span class="rating-star">
+<i class="fa fa-star-o" data-value="1"></i>
+<i class="fa fa-star" data-value="1"></i>
+</span>
+<span class="ir">1</span>
+</label>
+<div class="form-output">
+					? / 5
+				</div>
+</div>
+</fieldset>
+</form>
+<script>
+		document.addEventListener('DOMContentLoaded', () => {
+
+			function handleRatingOnGamePages() {
+				let starRating = document.querySelector('.star-rating');
+				let ratingIsClickable = () => {
+					return !sessionStorage.getItem('europeanRating'); //if there is variable in session storage - return false (rating is clickable), else - return true;
+				};
+				function disableAllRadioBtns() {
+					let allRadioInputs = document.querySelectorAll('input[type="radio"]');
+					for(let i = 0; i < allRadioInputs.length; i++) {
+						allRadioInputs[i].setAttribute('disabled', true);
+					}
+				};
+
+				function handleStarRating(ev) {
+					if(ev.target.tagName === 'I' || ev.target.tagName === 'INPUT') {
+						let rating = ev.target.getAttribute('data-value');
+						sessionStorage.setItem('europeanRating', rating);
+						this.removeEventListener('click', handleStarRating); //works only once
+						setTimeout(() => {
+							disableAllRadioBtns();
+						}, 1000)
+					}
+				}
+
+				starRating.addEventListener('click', handleStarRating);
+
+				if(!ratingIsClickable()) {
+					//if session storage has variable - disallow to click at star rating
+					starRating.removeEventListener('click', handleStarRating);
+					let rating = sessionStorage.getItem('europeanRating');
+					let ratingRadio = document.getElementById(`rating-${rating}`);
+					ratingRadio.setAttribute('checked', true);
+					disableAllRadioBtns();
+				}
+			}
+
+			handleRatingOnGamePages();
+
+		})
+	</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="casinos-section">
+<div class="container">
+<h2 class="casinos-section__title">Spiel um Geld in den besten Casinos!</h2>
+<div class="casinos-block">
+<div class="casinos-block__item t-and-c__line">
+<div class="casinos-block__inner other-bsd">
+<a href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">
+<div class="casinos-item__img">
+<img alt="spinia casino" src="img/casino-logo/spinia.png"/>
+</div>
+<div class="casinos-item__num_first"></div>
+<div class="casinos-item__rate">5/5</div>
+<div class="casinos-item__description">
+<strong class="casinos-item__title">Spinia</strong>
+<p class="casinos-item__num">BONUS €250</p>
+<div class="casinos-item__text">BONUSPAKET</div>
+</div>
+</a>
+<a class="btn__casinos-block" href="/go/spinia" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN</a>
+</div>
+</div>
+<div class="casinos-block__item">
+<div class="casinos-block__inner">
+<a href="/go/playamo" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">
+<div class="casinos-item__img">
+<img alt="Playamo" src="img/casino-logo/playamo.png"/>
+</div>
+<div class="casinos-item__num-item">2</div>
+<div class="casinos-item__rate">5/5</div>
+<div class="casinos-item__description">
+<strong class="casinos-item__title">Playamo</strong>
+<p class="casinos-item__num">Bonus bis zu €100</p>
+<div class="casinos-item__text">Code: FIRSTDEP</div>
+</div>
+</a>
+<a class="btn__casinos-block" href="/go/playamo" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN</a>
+</div>
+</div>
+<div class="casinos-block__item">
+<div class="casinos-block__inner">
+<a href="/go/betamo" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">
+<div class="casinos-item__img">
+<img alt="betamo" src="img/casino-logo/betamo.png"/>
+</div>
+<div class="casinos-item__num-item">3</div>
+<div class="casinos-item__rate">5/5</div>
+<div class="casinos-item__description">
+<strong class="casinos-item__title">Betamo</strong>
+<p class="casinos-item__num">Bonus bis zu €150</p>
+<div class="casinos-item__text">Code: START</div>
+</div>
+</a>
+<a class="btn__casinos-block" href="/go/betamo" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN</a>
+</div>
+</div>
+<div class="casinos-block__item">
+<div class="casinos-block__inner">
+<a href="/go/woocasino" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">
+<div class="casinos-item__img">
+<img alt="woocasino" src="img/casino-logo/woocasino.png"/>
+</div>
+<div class="casinos-item__num-item">4</div>
+<div class="casinos-item__rate">5/5</div>
+<div class="casinos-item__description">
+<strong class="casinos-item__title">WooCasino</strong>
+<p class="casinos-item__num">Bonus bis zu 100€</p>
+<div class="casinos-item__text">Code: WOO</div>
+</div>
+</a>
+<a class="btn__casinos-block" href="/go/woocasino" onclick="gtag('event', 'click', { 'event_category' : 'casinos-ref-btn'});" rel="nofollow" target="_blank">JETZT SPIELEN</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-section">
+<div class="container">
+<div class="content">
+<p>Werden wir Ihnen kurz die Variante des Roulettes vorstellen jetzt, die sich in europäischen Kasinos entwickelt hat und die heute wohl am weitesten verbreitet ist. Das ist das sogenannte europäische Roulette, die Namensgebung wird wenige überraschen.</p>
+<h2>Die Einfache Null</h2>
+<p>Was beim Blick auf den Tisch auffällt ist, dass im Rad die doppelte Zero (Null) fehlt, die man aus dem <a href="http://roulette77.de/amerikanisches-roulette">amerikanischen Roulette</a> kennt. Das war eine Erfindung eines Franzosen mit dem Namen Blanc, der sich dafür entschied sein Casino für den Spieler gegenüber der Konkurrenz attraktiver erscheinen zu lassen, indem er bessere Gewinnchancen anbot.</p>
+<p>Der Grund für diese Veränderung war das große Wachstum der Kasinolandschaft in Europa. Immer mehr Kasinos öffneten ihre Pforten und es wurde wichtig sich durch besondere Eigenschaften in einem guten Licht zu erscheinen. Da war es natürlich am besten die Gewinnchancen beim Roulette zu erhöhen.</p>
+<h2>Der Hausvorteil</h2>
+<p>Wenn wir diese Variante des <a href="http://roulette77.de/">Roulettes spielen</a>, dann ist der Hausvorteil geringer als bei der amerikanischen Variante des Spiels. Es gibt 37 Felder im Rad. Die Auszahlungen werden so berechnet als ob es 36 Felder geben würde. Der Hausvorteil ist 1/37 oder 2,7 %. In besonderen Fällen gibt es auch die Variante La Partage. Hier können Sie Ihren Einsatz zurückgewinnen, wenn die Null bei einer Wette auf eine der einfachen Chancen fällt. So halbiert sich der Hausvorteil der Bank auf 1,4 %. Achten Sie also auf Spiele mit diesem Extra, wenn Sie Ihr Spiel aussuchen.  </p>
+<h2>Die Setzmöglichkeiten</h2>
+<p>Beim europäischen Roulette können Sie wie beim amerikanischen Roulette setzen. Setzen Sie einfach auf eines der Felder bevor der Croupier angibt, dass von nun an keine Wetten mehr akzeptiert werden. Die einfachen Wetten sind hierbei die Spiele auf:</p>
+<ul>
+<li>Rot oder Schwarz</li>
+<li>Gerade oder Ungerade</li>
+<li>Erste Hälfte von 1 bis 18 oder zweite Hälfte von 19 bis 36</li>
+</ul>
+<p>Dazu kommen dann spezielle Varianten, die auf eine Gruppe der Zahlen setzen lassen, zum Beispiel Zahlengruppen von 1 bis 12, 13 bis 24 und so weiter.</p>
+<h2>Online europäisches Roulette spielen</h2>
+<p>Wer diese Spielart im Internet ausprobieren will, der kann das bei Roulette77. Es gibt verschiedene Möglichkeiten. Sie können:</p>
+<ul>
+<li>Ganz umsonst das Spiel ausprobieren</li>
+<li>Ohne Einzahlung mit Freispielen das Roulette ausprobieren</li>
+<li>Mit echten Einsätzen und echten Gewinnen eine Wette abschließen</li>
+</ul>
+<p>Dabei wird bei der Software auf hohe Qualität gesetzt. Wenn man sich die Software anschaut, die für diese Anwendung im Internet so angewandt wird, dann steht Roulette77 sicher nicht ganz schlecht da.</p> </div>
+</div>
+</div>
+<div class="faq-block__other" id="faq">
+<div class="container">
+<div class="section-title">FAQs</div>
+<div class="accordeon">
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Kann man europöisches Roulette auch mobil von unterwegs spielen?                </div>
+<div class="accordeon__text content-text">
+<p>Ja, Roulette77 bietet dem Spielr verschiedene Varianten von europäischem Roulette. Alle Spiele sind natürlich auch als mobile Version erhältlich und können problemlos mit dem Notebook, dem Tablet oder dem Smartphone gespielt werden. Dabei müssen Spieler keine Abstriche bei der Spielqualität befürchten. Diese ist ebenso gut wie beim Spielen über den PC.</p>
+</div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Warum wird empfohlen europäisches Roulette zu spielen und nicht amerikanisches?                </div>
+<div class="accordeon__text content-text">
+<p>Generell kann man sagen das beide Spielvariationen natürlich Ihre Vorteile haben. Jedoch hat die amerikanische Version einige Besonderheiten die es gerade weniger erfahrenen Spielern schwerer macht Gewinne bei dieser Art von Roulette zu erzielen. Dazu zählt zum Beispiel das zusätzliche Feld der Doppel-Null die die Gewinnquote drastisch nach unten absenkt.</p>
+</div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Mein Lieblingsspiel auf eurer Webseite funktioniert nicht. Was kann ich tun?                </div>
+<div class="accordeon__text content-text">
+<p>Generell ist es unser Bestreben alle Spiele den Besuchern unserer Webseite ohne Einschränkungen zur Verfügung zu stellen. Sollte allerdings aus unerfindlichen Gründen ein Spiel doch nicht wie gewohnt funktionieren, bitten wir Sie uns umgehend zu kontaktieren. Wenn sie uns eine ausführliche Problembeschreibung geben können wir das Problem schnellst möglich lösen.</p>
+</div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Wie erhöhe ich meine Gewinnchancen?                </div>
+<div class="accordeon__text content-text">
+<p>Natürlich gibt es nicht DIE eine Strategie die zum Gewinn führt. Vielmehr muss jeder Spieler für sich selbst herausfinden mit welcher Strategie er die besten Chancen für sich herausholen kann. Auf unserer Korrespondenz-Seite werden eine Vielzahl an Strategien und Vorgehenseisen vorgestellt. Probiere sie aus und findet heraus welche für dich die beste ist.</p>
+</div>
+</div>
+<div class="accordeon__row">
+<div class="accordeon__title">
+                    Ist das europäische Roulette eine klassische Variante?                </div>
+<div class="accordeon__text content-text">
+<p>Eine klassische Variante gibt es beim Roulette eigentlich nicht. Die ursprünglichste ist das französische Roulette, das bekannteste wahrscheinlich das amerikanische Roulette. Das europäische Roulette ist aber sicher einer der einfachsten Varianten da hier alle Ansagen auf Englisch gemacht werden und es zudem nur 37 Felder im Kessel gibt – was die Gewinnchancen deutlich erhöht.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+       "@type":"FAQPage",
+      "mainEntity": [
+     {
+        "@type": "Question",
+        "name": "Kann man europöisches Roulette auch mobil von unterwegs spielen?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Roulette77 bietet dem Spielr verschiedene Varianten von europäischem Roulette. Alle Spiele sind natürlich auch als mobile Version erhältlich und können problemlos mit dem Notebook, dem Tablet oder dem Smartphone gespielt werden. Dabei müssen Spieler keine Abstriche bei der Spielqualität befürchten. Diese ist ebenso gut wie beim Spielen über den PC."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Warum wird empfohlen europäisches Roulette zu spielen und nicht amerikanisches?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Generell kann man sagen das beide Spielvariationen natürlich Ihre Vorteile haben. Jedoch hat die amerikanische Version einige Besonderheiten die es gerade weniger erfahrenen Spielern schwerer macht Gewinne bei dieser Art von Roulette zu erzielen. Dazu zählt zum Beispiel das zusätzliche Feld der Doppel-Null die die Gewinnquote drastisch nach unten absenkt."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Mein Lieblingsspiel auf eurer Webseite funktioniert nicht. Was kann ich tun?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Generell ist es unser Bestreben alle Spiele den Besuchern unserer Webseite ohne Einschränkungen zur Verfügung zu stellen. Sollte allerdings aus unerfindlichen Gründen ein Spiel doch nicht wie gewohnt funktionieren, bitten wir Sie uns umgehend zu kontaktieren. Wenn sie uns eine ausführliche Problembeschreibung geben können wir das Problem schnellst möglich lösen."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Wie erhöhe ich meine Gewinnchancen?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Natürlich gibt es nicht DIE eine Strategie die zum Gewinn führt. Vielmehr muss jeder Spieler für sich selbst herausfinden mit welcher Strategie er die besten Chancen für sich herausholen kann. Auf unserer Korrespondenz-Seite werden eine Vielzahl an Strategien und Vorgehenseisen vorgestellt. Probiere sie aus und findet heraus welche für dich die beste ist."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Ist das europäische Roulette eine klassische Variante?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine klassische Variante gibt es beim Roulette eigentlich nicht. Die ursprünglichste ist das französische Roulette, das bekannteste wahrscheinlich das amerikanische Roulette. Das europäische Roulette ist aber sicher einer der einfachsten Varianten da hier alle Ansagen auf Englisch gemacht werden und es zudem nur 37 Felder im Kessel gibt – was die Gewinnchancen deutlich erhöht."
+        }
+    }
+    ]
+}
+</script>
+<div class="relinking__wrap">
+<div class="container">
+<h2 class="relinking__title">Beliebte Seiten</h2>
+<div class="relinking__cards">
+<a class="relinking__card" href="https://roulette77.de/amerikanisches-roulette">
+<div class="relinking__card-top">
+<img alt="Amerikanisches Roulette" src="./img/relinking/american.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Amerikanisches Roulette</span>
+</div>
+</a>
+<a class="relinking__card" href="https://roulette77.de/franzosisches-roulette">
+<div class="relinking__card-top">
+<img alt="Französisches Roulette" src="./img/relinking/french.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Französisches Roulette</span>
+</div>
+</a>
+<a class="relinking__card" href="https://roulette77.de/roulette-videos">
+<div class="relinking__card-top">
+<img alt="Roulette Videos" src="./img/relinking/videos.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Roulette Videos</span>
+</div>
+</a>
+<a class="relinking__card" href="https://roulette77.de/roulette-simulator">
+<div class="relinking__card-top">
+<img alt="Roulette Simulator" src="./img/relinking/simulator.png"/>
+</div>
+<div class="relinking__bottom">
+<span>Roulette Simulator</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "VideoGame",
+                "name": "Europäisches Roulette",
+                "url": "https://roulette77.de/europäisches-roulette",
+                "inLanguage": ["Deutsch"],
+                "isAccessibleForFree": true,
+                "aggregateRating":
+                {
+                    "@type":"AggregateRating",
+                    "ratingValue":"4.79",
+                    "ratingCount": "299",
+                    "worstRating":"1",
+                    "bestRating":"5"
+                },
+                "operatingSystem": ["Windows", "Linux", "Android", "Ubuntu", "IOS"],
+                "author":{
+                    "@type":"Organization",
+                    "name":"Roulette77",
+                    "url":"https://roulette77.de",
+                    "logo": "https://roulette77.de/img/logo.png"
+                },
+                "publisher":{
+                    "@type":"Organization",
+                    "name":"Roulette77",
+                    "url":"https://roulette77.de",
+                    "logo": "https://roulette77.de/img/logo.png"
+                }
+            }
+        </script>
+<div class="footer">
+<div class="container">
+<div class="footer__content-wrap">
+<div class="footer__menu">
+<ul class="footer__menu-list">
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="kontaktieren-sie-uns">Kontaktieren Sie uns</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="sitemap">Sitemap</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="sprache-wählen">Sprache wählen</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="uber-uns">Über uns</a>
+</li>
+</ul>
+</div>
+<div class="footer__content">
+                Roulette77 ist der außergewöhnliche Online-Service von Deutsche für Deutsche. Das ist der Ort, wo Sie etwas über das Roulette lernen können ; Regeln und Tricks, besten Strategien, größte Bonusen- alle wichtigen Informationen  gesammelt auf einer österreichischen Website, um Ihre Zeit und Geld zu sparen.            </div>
+<div class="footer__content">
+                Roulette 77
+
+                ist eine unabhängige Website, die keinem Online-Casino angeschlossen ist und Informationen über Online-Roulette bietet. 2011-2020. Alle Rechte sind vorbehalten.            </div>
+<div class="footer__social">
+<a aria-label="Facebook" class="fb" href="/"></a>
+<a aria-label="Twitter" class="tw" href="https://twitter.com/roulette77_team"></a>
+<a aria-label="Youtube" class="youtube" href="https://www.youtube.com/channel/UCUo3debUgP50mCuHGolTcsA"></a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">window.onload = new function(){var hd = document.getElementsByTagName('head').item(0);var js = document.createElement('script'); js.setAttribute('language', 'javascript'); js.setAttribute('src', 'https://certify.gpwa.org/script/roulette77.de/'); hd.appendChild(js); return false;}</script>
+<div class="footer__additional">
+<div class="container">
+<a class="footer__age-logo" href="https://www.schleswig-holstein.de/DE/Fachinhalte/G/gluecksspiel/_documents/onlineCasinospiele.html" rel="nofollow">
+<img alt="Schleswig Holstein" src="./img/schleswig-holstein.png"/>
+</a>
+<a class="footer__age-logo" href="https://www.spielen-mit-verantwortung.de/" rel="nofollow">
+<img alt="Spielen Mit Verantwortung" src="./img/spielen-mit-verantwortung.png"/>
+</a>
+<a href="https://certify.gpwa.org/verify/de/roulette77.de/" id="GPWASeal" onclick="return GPWAVerificationPopup(this)"><img alt="GPWA" border="0" onerror="this.width=0; this.height=0;" src="https://certify.gpwa.org/seal/de/roulette77.de/"/></a>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script>
+    jQuery(document).ready(function($) {
+        var c_value = Cookies.get('user_visit');
+        if(c_value != 1) {
+            $("#cookie-pop-up").fadeIn( 500 );
+            $("#cookie-ok").click(function() {
+                Cookies.set('user_visit', '1', { expires: 1 });
+                $("#cookie-pop-up").fadeOut( 500 );
+            });
+        }
+    });
+</script>
+<div class="cookie" id="cookie-pop-up">
+<p class="cookie-title">
+        Benachrichtigung über Cookie-Richtlinien    </p>
+<p>
+        Wir verwenden Cookies auf unserer Website. Wenn Sie diese Website weiterhin nutzen, gehen wir davon aus, dass Sie damit zufrieden sind    </p>
+<div class="cookie-close" id="cookie-ok">х</div>
+</div>
+<!--- script html end --->
+<script>
+    jQuery(document).ready(function($) {
+
+        $('.menu-toggle').click(function () {
+            $('.nav').toggleClass('opening');
+            $(this).toggleClass('open');
+        });
+
+        $('.menu-toggle-flag').click(function () {
+            $('.flag-section-mobile').toggleClass('opening');
+            $(this).toggleClass('open');
+        });
+
+        $('form input[type=text]').on('change invalid', function () {
+            var textfield = $(this).get(0);
+            textfield.setCustomValidity('');
+            if (!textfield.validity.valid) {
+                textfield.setCustomValidity('Bitte füllen Sie das Feld aus');
+            }
+        });
+
+        $('form input[type=email]').on('change invalid', function () {
+            var textfield = $(this).get(0);
+            textfield.setCustomValidity('');
+            if (!textfield.validity.valid) {
+                textfield.setCustomValidity('Falsche E-Mail-Adresse');
+            }
+        });
+
+        function hidingGame() {
+            $('#mobile-content-iframe').slideToggle("slow", function () {
+                $("html, body").animate({scrollTop: $('#mobile-content-iframe').offset().top});
+            });
+        };
+
+        function addDataSrcToIframe() {
+            $('.game-launcher__btn-play-free').on('click', function (ev) {
+                $('.content-iframe__overlay').hide();
+                let src = ev.target.getAttribute('data-src');
+                if (window.innerWidth < 700) {
+                    src = ev.target.getAttribute('data-mobile-src');
+                }
+                $('.iframe-game, .iframe-game-mobile').attr('src', src);
+                $('.game-launcher__iframe').css('background-image', 'none');
+            });
+        }
+        addDataSrcToIframe();
+
+
+        function arrowUp() {
+            $(window).scroll(function () {if ($(this).scrollTop() > 200) {$('#scroller').fadeIn();} else {$('#scroller').fadeOut();}});
+            $('#scroller').click(function () {$('body,html').animate({scrollTop: 0}, 400); return false;});
+        }
+        arrowUp();
+
+
+        if ($(window).height() > 1045) {
+            loadIframe();
+        };
+
+        $(window).scroll(function () {
+            loadIframe();
+        });
+
+        var isLoaded = false;
+        function loadIframe() {
+            if (!isLoaded) {
+                var srcIframe = $('.block-video__iframe').attr('data-src');
+                $(".block-video__iframe").attr('src', srcIframe);
+                isLoaded = true;
+            }
+        }
+
+        //handles the game choosing at game pages
+        function chooseGameViaTabulation() {
+            function handleTabulation() {
+                $('.game-tabs__btn').on('click', function () {
+                    $(this).siblings().removeClass('is-active').end().addClass('is-active'); //mark active\non-active tab state
+
+
+                    $('.iframe-game, .iframe-game-mobile').attr('src', '');
+                    $('.content-iframe__overlay').show();
+
+                    $('.game-launcher__btn-play-free').attr('data-src', $(this).attr('data-src')); //take attributes from tab and place to the free game btn
+                    $('.game-launcher__btn-play-free').attr('data-mobile-src', $(this).attr('data-mobile-src'));
+                    $('.game-launcher__iframe').css('background-image', 'url(' + $(this).attr('data-game-preload-img') + ')');
+                    //mobile handle
+                })
+            }
+            handleTabulation();
+            function handleMobGame() {
+                if($(window).innerWidth() < 700) {
+                    $('#priorityMobGame').addClass('is-active');
+                }
+            }
+            handleMobGame()
+
+        }
+        chooseGameViaTabulation()
+    });
+</script>
+<script>
+    /// dropdown menu  desktop
+    if($('.nav-group').length || 1){
+
+            let isDesktop = function(){
+                return $(window).width() > 779;
+            };
+
+            $('.nav-group').on('mouseenter', function () {
+                if ($(this).hasClass('dropped-down')) {
+                    if (isDesktop()) {
+                        $(this).removeClass('dropped-down');
+                    }
+                } else {
+                    if (isDesktop()) {
+                        $('.nav-group').not(this).removeClass('dropped-down');
+                        $(this).addClass('dropped-down');
+                    }
+                }
+            });
+
+            $('.nav-group__list, .nav-group').on('mouseleave', function (e) {
+                if (!$(e.relatedTarget).hasClass('nav-group__title') && !$(e.relatedTarget).hasClass('nav-group__title-text') && !$(e.relatedTarget).hasClass('nav-group')  ) {
+                    $('.nav-group').removeClass('dropped-down');
+                }
+            });
+
+             $(window).on('resize', function(){
+                 console.log('resizing');
+                    setTimeout(function(){
+                        $('.nav').removeClass('opening');
+                        $('.menu-toggle').removeClass('open');
+                    },200);
+            })
+    }
+
+
+    // dropdown menu mobile
+    $('.nav-group__title').on('click', function(e){
+        if ($(window).width() <= 779) {
+            let el = $(e.target).has('span.nav-group__triangle') ? $(e.currentTarget) : $(e.target);
+            let allNavGroups = $('.nav-group');
+            let navGroup = el.parents('.nav-group');
+
+            if (navGroup.hasClass('mobile-expanded')) {
+
+                navGroup.removeClass('mobile-expanded');
+                el.find('span.nav-group__triangle').css('transform', 'rotate(0)');
+                // el.siblings('.nav-group__list').css('display', 'none');
+                el.siblings('.nav-group__list').removeClass('df').addClass('dn');
+
+            } else if (!navGroup.hasClass('mobile-expanded')) {
+
+                allNavGroups.removeClass('mobile-expanded');
+                $('.nav-group__title span.nav-group__triangle').css('transform', 'rotate(0)');
+                // $('.nav-group__list').css('display', 'none');
+                $('.nav-group__list').removeClass('df').addClass('dn');
+
+                navGroup.addClass('mobile-expanded');
+                el.find('span.nav-group__triangle').css('transform', 'rotate(180deg)');
+                // el.siblings('.nav-group__list').css('display', 'flex');
+                el.siblings('.nav-group__list').removeClass('dn').addClass('df');
+            }
+        }
+    });
+
+    // resetting mobile collapsible menu after resizing
+    $(window).on('resize', function () {
+            $('.nav-group').removeClass('mobile-expanded');
+            $('.nav-group__list').removeClass('df dn');
+            $('.nav-group__title span.nav-group__triangle').css('transform', 'rotate(0)');
+    });
+
+
+</script>
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-117353870-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-117353870-1');
+</script>
+<!--- script game page ---->
+<script>
+    $(function(){
+
+        let gameBlockButtons = $('.game-block__buttons'),
+             gameBlockResize = $('.game-block__resize'),
+             iframeGame = $('.iframe-game-new'),
+             gameBlockContainer = $('.game-block__container'),
+             overlayWrap = $('.game-overlay'),
+             newClose = $('.game-block__close'),
+             gameBlockIframePlay = $('.game-block__iframe-play');
+
+        let gameBlockRatio = 1.405,
+             fullscreenWidth = 1200,
+            mobileWidth = 700;
+
+        let isFullscreen = 0;
+        let isLoaded = false;
+
+        let vh = window.innerHeight * 0.01;
+
+        document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+        (function addDataSrcToIframe() {
+
+            $('.game-launcher__btn-play-free').on('click', function (ev) {
+
+                
+
+                overlayWrap.addClass("active");
+
+                if ($(window).width() <= 800) {
+                    newClose.click()
+                }
+
+                showResizeButton();
+                hideGameScreenButtons();
+
+                if (typeof page !== 'undefined' && page !== 'roulette-simulator-page'){
+                    setBorderRadius(20);
+                }
+
+                if (typeof page !== 'undefined'  && page !== 'roulette-simulator-page'){
+                    hideBackgrounds();
+                } else {
+                    hideBackgrounds_simulator();
+                }
+
+                let src = window.innerWidth < 700 ? ev.target.getAttribute('data-mobile-src') : ev.target.getAttribute('data-src');
+                $('.iframe-game, .iframe-game-mobile').attr('src', src);
+            });
+        })();
+
+        function hideGameScreenButtons() { gameBlockButtons.hide(); }
+        function showGameScreenButtons() { gameBlockButtons.show(); }
+        function showResizeButton(){ gameBlockResize.show(); }
+        function hideResizeButton(){gameBlockResize.hide();}
+
+        function setBorderRadius(value){
+            iframeGame.css('borderRadius', value);
+            gameBlockContainer.css('borderRadius', value);
+        }
+
+        function hideBackgrounds(){
+                gameBlockContainer.css('backgroundSize', 0);
+                iframeGame.css('background', 'none');
+        }
+
+        function showBackgrounds(){
+            gameBlockContainer.css('backgroundSize', 'cover');
+            iframeGame.css('background', 'rgba(0,0,0,0.4)');
+        }
+
+        function updateResizeBtnPosition(isUnset){
+            if (isUnset === 'unset'){
+                gameBlockResize.css('right', 0);
+            } else {
+                let windowWidth = $(window).width(),
+                     iframeWidth = $('.iframe-game-new').width(),
+                     offsetWidth = (windowWidth - iframeWidth) / 2 + 100;
+                $('.game-block__resize.fullscreen').css('right', offsetWidth);
+            }
+        }
+
+        function updateFullscreenPlayPosition(isUnset){
+            if (isUnset === 'unset'){
+                gameBlockIframePlay.css('display', 'none');
+                return;
+            }
+            let fullscreenMaxHeight = 736;      
+            let topPosition = 100 * vh - 40 + 'px';
+            gameBlockIframePlay.css({
+                'display': 'block',
+                'top': topPosition
+            });
+        }
+
+        overlayWrap.on('click', function() {
+            if (!isFullscreen) {
+                setFullScreen();
+                updateResizeBtnPosition();
+                updateFullscreenPlayPosition();
+                isFullscreen = 1;
+            } else if (isFullscreen) {
+                exitFullScreen();
+                updateResizeBtnPosition('unset');
+                updateFullscreenPlayPosition('unset');
+                isFullscreen = 0;
+            }
+        })
+
+        function setFullScreen(){
+            iframeGame.addClass('fullscreen');
+            gameBlockResize.addClass('fullscreen');
+            overlayWrap.css('display', 'block');
+            $('body').css('overflow', 'hidden');
+            if ($(window).width() <= 800) {
+                newClose.css('display', 'flex');
+                $('.game-block-new').addClass('horizont');
+                hideResizeButton()
+            }
+        }
+
+        function exitFullScreen(){
+            iframeGame.removeClass('fullscreen');
+            gameBlockResize.removeClass('fullscreen');
+            overlayWrap.css('display', 'none');
+            $('body').css('overflow', 'auto');
+            if ($(window).width() <= 800) {
+                newClose.css('display', 'none');
+                showResizeButton();
+                $('.game-block-new').removeClass('horizont');
+            }
+        }
+
+        newClose.on('click', function() {
+            exitFullScreen();
+            updateResizeBtnPosition('unset');
+            updateFullscreenPlayPosition('unset');
+            isFullscreen = 0;
+            $('.game-block-new').removeClass('horizont');
+            overlayWrap.removeClass('active');
+        })
+
+        function loadIframe() {
+            if (!isLoaded) {
+                var srcIframe = $('.block-video__iframe').attr('data-src');
+                $(".block-video__iframe").attr('src', srcIframe);
+                isLoaded = true;
+            }
+        }
+        if ($(window).height() > 1045) {loadIframe();}
+
+        $(window).scroll(function () {loadIframe();});
+
+        //handles the game choosing at game pages
+        (function chooseGameViaTabulation() {
+
+
+            function handleTabulation() {
+
+                // click on tab (simulator page)
+                $('.game-block__tab-item').on('click', function(){
+
+
+                    if (!$(this).hasClass('active')){
+                        $('.game-block__tab-item').removeClass('active');
+                        $(this).addClass('active');
+                        setInactiveTabWidth();
+                    }
+
+
+
+                    showGameScreenButtons();
+                    // hideResizeButton();
+                    showBackgrounds();
+
+                    $('.iframe-game-new').attr('src', '');
+
+                    let newTabButtons = $(this).find('button'),
+                         newTab;
+
+                    newTabButtons.each(function(i,btn){
+                            if ($(window).innerWidth() > mobileWidth && i === 0) {
+                                newTab = $(btn);
+                                newTab.addClass('is-active');
+                            } else if ($(window).innerWidth() <= mobileWidth && i === 1) {
+                                newTab = $(btn);
+                                newTab.addClass('is-active');
+                            } else $(btn).removeClass('is-active');
+                    });
+
+                    console.log(newTab);
+
+                    let preloadImage = newTab.attr('data-game-preload-img');
+
+                    $('.game-launcher__btn-play-free').attr('data-src', newTab.attr('data-src')); //take attributes from tab and place to the free game btn
+
+                    if (newTab.attr('data-mobile-src')) {
+                        $('.game-launcher__btn-play-free').attr('data-mobile-src', newTab.attr('data-mobile-src'));
+                    } else {
+                        $('.game-launcher__btn-play-free').attr('data-mobile-src', '');
+                    }
+
+                    $('.game-block__container').css('background-image', 'url(' + preloadImage + ')');
+                    $('.iframe-game-new').css('background','');
+                    return false;
+                });
+
+
+
+                /// click on button (eu am pages)
+                $('.game-tabs__btn').on('click', function () {
+
+                    $(this).siblings().removeClass('is-active').end().addClass('is-active'); //mark active\non-active tab state
+
+                    showGameScreenButtons();
+                    hideResizeButton();
+                    showBackgrounds();
+
+                    $('.iframe-game-new').attr('src', '');
+
+                    $('.game-launcher__btn-play-free').attr('data-src', $(this).attr('data-src')); //take attributes from tab and place to the free game btn
+                    $('.game-launcher__btn-play-free').attr('data-mobile-src', $(this).attr('data-mobile-src'));
+                    $('.game-block__container').css('background-image', 'url(' + $(this).attr('data-game-preload-img') + ')');
+                    $('.iframe-game-new').css('background','');
+                    return false;
+
+                })
+            }
+            handleTabulation();
+
+            function handleMobGame() {
+                if ($(window).innerWidth() < mobileWidth) {
+                    let btn = document.querySelectorAll('.game-tabs__btn');
+                    btn.forEach(item => {
+                        item.classList.remove('is-active');
+                    })
+                    $('#priorityMobGame').addClass('is-active');
+                    //приоритетная кнопка
+                    if ( window.innerWidth < 700 && $('#priorityMobGame').hasClass('is-active')) {
+                        $('.game-launcher__btn-play-free').attr('data-mobile-src', $('#priorityMobGame').attr('data-mobile-src'));
+                        $('.game-block__container').css('background-image', 'url(' + $('#priorityMobGame').attr('data-game-preload-img') + ')');
+                    }
+                }
+            }
+            handleMobGame()
+        })();
+
+
+        gameBlockResize.on('click', function(){
+            if (!isFullscreen) {
+                setFullScreen();
+                updateResizeBtnPosition();
+                updateFullscreenPlayPosition();
+                isFullscreen = 1;
+            } else if (isFullscreen) {
+                exitFullScreen();
+                updateResizeBtnPosition('unset');
+                updateFullscreenPlayPosition('unset');
+                isFullscreen = 0;
+            }
+        });
+
+
+        $(window).on('resize', function () {
+
+            if (window.orientation == 0 || window.orientation == 180) {
+                vh = window.innerHeight * 0.01;
+            } else {
+                vh = window.innerHeight * 0.01;
+            }
+
+            document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+            gameBlockContainer.height(gameBlockContainer.width() / gameBlockRatio);
+
+            if (isFullscreen){
+                updateResizeBtnPosition();
+                updateFullscreenPlayPosition();
+            }
+
+
+        });
+        $(window).trigger('resize');
+
+        $(document).on('keyup', function(e){
+            if (e.keyCode === 27 && isFullscreen) {
+                gameBlockResize.click();
+            }
+        });
+
+
+        function setInactiveTabWidth(){
+            let iframeW = $('.iframe-game').width(),
+                activeTabW = $('.game-block__tab-item.active').width();
+
+            $('.game-block__tab-item').not('.active').css('width', '100%');
+            $('.game-block__tab-item.active').css('width', 'auto');
+        }
+        setInactiveTabWidth();
+
+
+
+        function hideBackgrounds_simulator(){
+            gameBlockContainer.css('background', '#054F47');
+            iframeGame.css('background', 'none');
+        }
+
+    });
+</script>
+<script>
+    let btn = document.querySelector('.banner-odds-calculator__btn');
+    if (btn) {
+        btn.addEventListener('click', () => {
+            let srcFr = btn.getAttribute('data-src'),
+                wrapFr = document.querySelector('.full__display'),
+                fr = document.querySelector('.full__display .game-list-roulette__display-iframe');
+                
+            fr.setAttribute('src', srcFr);
+            wrapFr.style.backgroundImage = 'none';
+            wrapFr.style.background = 'transparent';
+            wrapFr.style.border = 'none';
+            fr.style.borderRadius = '40px';
+            wrapFr.style.display = 'flex';
+
+        })
+    }
+
+    let btnClose = document.querySelector('.full__display .game-list-roulette__close');
+    if (btnClose) {
+        btnClose.addEventListener('click', () => {
+            let wrapFr = document.querySelector('.full__display');
+            wrapFr.style.display = 'none';
+        })
+    }
+</script>
+<script>
+    jQuery(document).ready( function ($) {
+
+        $(".accordeon__row:nth-child(1) .accordeon__title").addClass('active');
+        $(".accordeon__row:nth-child(1) .accordeon__text").css('display', 'block');
+        $('.accordeon .accordeon__title').on('click', f_acc);
+
+        function f_acc() {
+
+            $(".accordeon__row:nth-child(1) .accordeon__title").removeClass('active');
+            $(".accordeon__row:nth-child(1) .accordeon__text").css('display', 'none');
+            $('.accordeon .accordeon__text').not($(this).next()).slideUp(400);
+            $(this).next().slideToggle(500);
+            $(this).toggleClass('active');
+            $('.accordeon__title').not($(this)).removeClass('active');
+            $(this).parent().next().slideDown();
+            return false;
+        }
+    });
+</script>
+<script>
+    const games = document.querySelectorAll('.game-block__container');
+        games.forEach(item => {
+            const btn = item.querySelector('.game-launcher__btn-play-free');
+            btn.addEventListener('click', () => {
+                const iframe = btn.getAttribute('data-src');
+                item.style.backgroundImage = 'none';
+                item.style.backgroundColor = '#000000';
+                item.parentElement.classList.add('playing');
+                item.parentElement.classList.add('horizont');
+                item.querySelector('.game-block__buttons').style.display = 'none';
+                item.querySelector('iframe').setAttribute('src', iframe);
+            })
+        })
+</script>
+</div></body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<link href="https://studieren.de/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="xStudy SE" name="author"/>
+<meta content="xStudy SE" name="copyright"/>
+<meta content="xStudy SE" name="publisher"/>
+<meta content="index,follow" name="robots"/>
+<meta content="1 day" name="revisit-after"/>
+<meta content="0" http-equiv="expires"/>
+<meta content="no-cache,no-store,max-age=0" http-equiv="cache-control"/>
+<meta content="no-cache" http-equiv="pragma"/>
+<meta content="de" name="language"/>
+<meta content="de" http-equiv="content-language"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+<link href="https://studieren.de/typo3temp/assets/compressed/merged-f2117172db27ec64beafcbae373db2fa-d817765f92f1350d0683530b373b9d9c.css?1602233209" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://studieren.de/typo3temp/assets/compressed/merged-1dda3d18547d4d7e077f5bc02155ba31-39df22aa8b61978c1456e68a368ae7a8.js?1601627891" type="text/javascript"></script>
+<title>Übersicht der Hochschulen in Deutschland</title> <meta content="Bachelor, Master, MBA, Studieren, Studium, Studentin, Student, Studenten, Universitäten, Fachhochschulen, Hochschulen, Hochschule, Berufsakademien, Fernstudium, international, Studiengänge, Semester, Bildung, Praktikas, Studienplatz, promovieren, Studiengang, Studiengänge, BAföG, Jobs, Stellenangebote, Studentenjobs, Diplomarbeiten, Beratung, Ratgeber" name="keywords"/> <meta content="Studieren in Deutschland. Suchmaschine zu allen Studiengängen und Hochschulen." name="description"/> <link href="https://studieren.de/fileadmin/studieren/images/application_icon_studieren.png" rel="apple-touch-icon"/> <link href="https://studieren.de/manifest/manifest.json" rel="manifest"/> <link href="https://studieren.de/landkarte-unis-deutschland.0.html" rel="canonical"/> <meta content="website" property="og:type"/> <meta content="Übersicht der Hochschulen in Deutschland" property="og:title"/> <meta content="https://studieren.de/landkarte-unis-deutschland.0.html" property="og:url"/> <meta content="https://studieren.de/fileadmin/studieren/images/ogp/studieren_v4.jpg" property="og:image"/> <link as="font" crossorigin="anonymous" href="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Fonts/5560332/70509f43-bcee-44d2-b61b-f6c2a10982b7.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Fonts/5560332/e8b8f4ed-a81a-4dfb-ad0b-e842c8b2834f.woff" rel="preload" type="font/woff"/>
+<link as="font" crossorigin="anonymous" href="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Fonts/5559111/9a9e7c17-4d4a-43f9-bf79-36404cb158f4.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Fonts/5559111/4dbb9d29-6d18-4da9-a0fa-e92972dfdb24.woff" rel="preload" type="font/woff"/>
+<link as="font" crossorigin="anonymous" href="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Fonts/5561753/189496f8-4502-4032-8651-cc1b39a8e01d.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Fonts/5561753/3afaf0a9-cd89-492a-a83c-82410a8e0944.woff" rel="preload" type="font/woff"/> <script src="https://script.ioam.de/iam.js" type="text/javascript"></script>
+<script>(function(factory){'use strict';window.xStudy=window.xStudy||{};factory(jQuery,window.xStudy,window.xStudy);}(function($,_,__){'use strict';_.GoogleMaps.Loader.libraryUrl='https://maps.googleapis.com/maps/api/js?key=AIzaSyD1l-wFr3KXMj2d0-EcqzbiJpxAkuxvgEw';$(document).ready(function(){$('section.content-tile-box-container').each(function(){var $containerBox=$(this);$containerBox.shownSlides=[];$containerBox.slideIndex=0;$containerBox.selectedByStartIndex=0;$containerBox.doNotTrack=false;$('div.content-tile-box-glider-container > *',$containerBox).each(function(){var $this=$(this);if($this.hasClass('selected-by-default')){$containerBox.selectedByStartIndex=$containerBox.slideIndex;return false;};$containerBox.slideIndex++;});$('div.content-tile-box-glider-container',$containerBox).slick({arrows:true,dots:false,infinite:true,slidesToShow:1,slidesToScroll:1,swipeToSlide:true,variableWidth:true,prevArrow:$('button.content-tile-box-nav-prev-arrow',$containerBox),nextArrow:$('button.content-tile-box-nav-next-arrow',$containerBox),responsive:[{breakpoint:940},{breakpoint:620}]}).on('afterChange',function(event,slick,currentSlide){if(!$containerBox.shownSlides.includes(currentSlide)){$containerBox.shownSlides.push(currentSlide);if(!$containerBox.hasClass('do-not-track')&&!$containerBox.doNotTrack&&typeof iom!=='undefined'){$('#ivwBody').html('<script>iom.c({ "st": "studier", "cp": "_Beratung", "sv": "ke", "co": ""}, 1);<\/script>');}}});if($containerBox.selectedByStartIndex>0){$containerBox.doNotTrack=true;$('div.content-tile-box-glider-container').slick('slickGoTo',$containerBox.selectedByStartIndex,true);$containerBox.doNotTrack=false;}});var ieVer=_.getInternetExplorerVersion();if(ieVer>0){$('body').addClass('no-scroll');$('body').append(_.getInternetExplorerMessage());}});}));</script>
+<script>(function(factory){'use strict';window.xStudy=window.xStudy||{};window.xStudy.Favorites=window.xStudy.Favorites||{};factory(jQuery,window.xStudy,window.xStudy.Favorites);}(function($,_,__){'use strict';$(window).on('load',function(){_.Locale.set({"dialog.button.ok":"OK","dialog.button.cancel":"Abbrechen","dialog.button.delete":"L\u00f6schen","dialog.button.close":"Schlie\u00dfen","dialog.button.send":"E-Mail senden","dialog.notepad.save":"Favoriten speichern","dialog.type.email":"Bitte gib Deine E-Mail Adresse ein um die Favoriten zu speichern.","dialog.gdpr.acknowledgment.text":"<strong>Datenschutzrechtliche Einwilligungserkl\u00e4rung<\/strong><br\/><span>Ich willige ein, dass mich die xStudy SE per E-Mail kontaktieren darf, um mir den Zugriff auf meine Favoriten zu erm\u00f6glichen. Dar\u00fcberhinaus gebe ich der xStudy SE die Erlaubnis die Studienangebote, die ich mir gemerkt habe, zu speichern und in anonymisierter Form, zur Ermittlung von statistischer Kennwerte zu verwenden. Meine Daten werden ausschlie\u00dflich zu diesem Zweck genutzt. Eine Weitergabe von personenbezogenen Daten an Dritte erfolgt nicht. Ich kann die Einwilligung jederzeit per E-Mail an <a href=\"mailto:support@studieren.de\">support@studieren.de<\/a> oder per Brief an xStudy SE, Alter Hof 5, 80331 M\u00fcnchen widerrufen.<\/span>","dialog.gdpr.acknowledgment.error":"Wir ben\u00f6tigen Deine datenschutzrechtliche Einwilligung.","dialog.subscribe.newsletter":"F\u00fcr Newsletter anmelden","dialog.type.captcha.code":"Bitte gib den Code zur Best\u00e4tigung ein:","dialog.notepad.save.success":"Favoriten wurden gespeichert","dialog.notepad.save.success.info":"<p>Deine Favoriten wurde erfolgreich gespeichert und an folgende E-Mail Adresse verschickt: <strong><a href=\"mailto:{#email}\">{#email}<\/a><\/strong><\/p>\n<p>Du kannst Deine Favoriten \u00fcber den in der E-Mail angegebenen Link wieder abrufen und weiter bearbeiten.<\/p>\n<p><strong>Achtung:<\/strong> Deine E-Mail Adresse wird 3 Monate nach Deinem letzten Abruf oder Deiner letzten Bearbeitung automatisch gel\u00f6scht. Danach k\u00f6nnen Deine Favoriten nicht mehr aufgerufen werden.<\/p>","dialog.notepad.ticketExists":"Favoriten existiert bereits","dialog.notepad.ticketExists.info":"<p>F\u00fcr die angegebene E-Mail Adresse existiert bereits Favoriten. Soll Dir ein Link per E-Mail gesendet werden, um diesen zu \u00f6ffnen und weiter zu bearbeiten?<\/p>\n<p><strong>Achtung:<\/strong> Wenn Du die gespeicherten Favoriten \u00f6ffnest, geht Deine aktuelle Auswahl verloren.<\/p>","dialog.notepad.ticketExists.success":"E-Mail wurde versendet","dialog.notepad.ticketExists.success.info":"<p>Die E-Mail mit dem Link auf Deine Favoriten wurde erfolgreich versendet.<\/p>\n<p>Bitte schlie\u00dfe dieses Browserfenster und \u00f6ffne den Link aus der E-Mail um Deine Favoriten zu laden.<\/p>","dialog.notepad.save.fail":"Favoriten wurde nicht gespeichert","dialog.notepad.save.fail.info":"<p>Deine Favoriten konnte auf Grund eines Fehlers nicht gespeichert werden.<\/p>","dialog.notepad.delete.title":"Favoriten l\u00f6schen","dialog.notepad.delete.info":"<p>Sollen die Favoriten wirklich komplett gel\u00f6scht werden?<\/p>","dialog.notepad.delete.done.title":"Favoriten gel\u00f6scht","dialog.notepad.delete.done.info":"<p>Deine Favoriten wurde erfolgreich gel\u00f6scht.<\/p>","dialog.notepad.delete.fail.title":"Favoriten konnte nicht gel\u00f6scht werden","dialog.notepad.delete.fail.info":"<p>Deine Favoriten konnte aus unbekanntn Gr\u00fcnden nicht gel\u00f6scht werden.<\/p>\n<p>Bitte kontaktiere uns, damit wir Dir helfen und den Fehler beheben k\u00f6nnen.<\/p>","dialog.error.title":"Fehler","dialog.error.email.empty":"Bitte im Feld f\u00fcr die E-Mail eine korrekte Adresse angeben.","map.control.reset":"Ansicht zur\u00fccksetzen"});_.favoritesWidget=new __.Widget({profileDetails:3307,programDetails:3306,reference:3317,configuration:3291,address:227,ticket:817});_.favoritesDetails=new __.Details({display:false,listDetailsUrl:'https://studieren.de/landkarte-unis-deutschland.560.html',ivw:{type:'cp',code:'_Verzeichnis'}});});}));</script>
+<script>(function(factory){'use strict';window.xStudy=window.xStudy||{};factory(jQuery,window.xStudy,window.xStudy.xStudy);}(function($,_,__){'use strict';$(document).ready(function(){$('div.page > div.page-default-header').topBar();_.widgetSearch=new _.Search.Widget($('form[name="search"]'));_.autoSuggest=new _.AutoSuggest($('#searchString'),{className:'autoSuggest fixed',minChars:3,timeout:0,delay:0,offsety:-5,positionTo:$('#searchStringContainer'),positionFixed:true,width:'match'});});}));</script>
+</head>
+<body>
+<div class="page">
+<div class="page-default-header">
+<div class="page-default-header-inner">
+<div class="page-default-header-grid">
+<div class="page-default-header-logo"><a href="https://studieren.de/" target="_top" title="studieren.de"><img alt="studieren.de Logo" src="https://studieren.de/typo3conf/ext/search_core/Resources/Public/Images/Logos/brand_studieren.png"/></a></div>
+<div class="page-default-header-search">
+<form action="https://studieren.de/suche.0.html" class="page-default-header-search-input-container" id="searchStringContainer" method="get" name="search">
+<div class="page-default-header-search-fieldset">
+<input id="searchString" name="search" placeholder="Finde Dein Studium" type="text" value=""/>
+<button name="search-start" type="submit" value="go">
+<span class="xsi xsi-s32 xsi-orange xsi-magnifier"></span>
+</button>
+</div>
+</form>
+</div>
+<div class="page-default-header-favorites">
+<button class="favorites-button" name="favorites" type="button" value="false">
+<div class="grid">
+<span class="icon">
+<span class="counter" style="display:none;"><em>0</em></span>
+</span>
+<span class="label">Favoriten</span>
+</div>
+</button>
+</div>
+<div class="page-default-header-navigation">
+<button class="xsi xsi-s32 xsi-grey-light xsi-menue" id="page-header-navigation-button" type="button">Menü</button>
+<nav id="page-header-navigation-layer" style="visibility: hidden;">
+<div class="page-header-navigation-layer-content">
+<div class="page-header-navigation-layer-content-links">
+<div class="page-header-navigation-layer-content-link"><ul><li><a href="https://studieren.de/suche.0.html" title="Suchmaschine">Suchmaschine</a></li><li><a href="https://studieren.de/fachbereiche.0.html" title="Fachbereiche">Fachbereiche</a></li><li><a href="https://studieren.de/studiengangsliste.0.html" title="Studiengänge">Studiengänge</a></li><li><a href="https://studieren.de/hochschulliste.0.html" title="Universitäten und Hochschulen">Universitäten und Hochschulen</a></li><li><a href="https://studieren.de/studienberatung.0.html" title="Studienberatung">Studienberatung</a></li><li><a href="https://studieren.de/berufsberatung.0.html" title="Beruf und Karriere">Beruf und Karriere</a></li><li><a href="https://studieren.de/studium-veranstaltungen.0.html" title="Terminkalender">Terminkalender</a></li><li><a href="https://studieren.de/hochschule-service.0.html" title="Service für Hochschulen">Service für Hochschulen</a></li></ul></div>
+</div>
+<div class="page-header-navigation-layer-content-close xsi xsi-grey-light xsi-close-button" id="page-header-navigation-layer-content-close"></div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="page-header-clearer"> </div>
+<div class="page-path" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://studieren.de/" itemprop="item" title="Studium"><span itemprop="name">Studium</span></a>
+<meta content="https://studieren.de/" itemprop="url"/>
+<meta content="1" itemprop="position"/>
+</span> › <span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://studieren.de/studienberatung.0.html" itemprop="item" title="Studienberatung"><span itemprop="name">Studienberatung</span></a>
+<meta content="https://studieren.de/studienberatung.0.html" itemprop="url"/>
+<meta content="2" itemprop="position"/>
+</span> › <span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://studieren.de/landkarte-unis-deutschland.0.html" itemprop="item" title="Hochschulen"><span itemprop="name">Hochschulen</span></a>
+<meta content="https://studieren.de/landkarte-unis-deutschland.0.html" itemprop="url"/>
+<meta content="3" itemprop="position"/>
+</span></div>
+<div class="page-body">
+<div class="page-body-section" id="c1394"><header><h1 class="">
+				Hochschulen in Deutschland im Überblick
+			</h1></header><div class="page-body-section-content"><p>Welche Hochschule liegt wo? Finde die Hochschule deiner Wahl auf der Landkarte und klick auf das Fähnchen, um mehr Infos zu bekommen (wenn dieser Service überlastet ist, kann es sein, dass keine Fähnchen auf der Karte erscheinen).</p><p><a href="https://studieren.de/hochschulliste.0.html">Einen vollständigen Überblick der Hochschulen und Universitäten in Deutschland findest Du auch in unserem Hochschulverzeichnis &gt;</a><br/>  </p></div></div>
+<div class="page-body-section" id="c6747"><header></header><div class="page-body-section-content"><script>
+(function(factory) {
+	'use strict';
+
+	window.xStudy = window.xStudy || {};
+	window.xStudy.GoogleMaps = window.xStudy.GoogleMaps || {};
+
+	factory(
+		jQuery,
+		window.xStudy,
+		window.xStudy.GoogleMaps,
+		'mapUniversityLocationCanvas',
+		window.location.protocol + '//' + window.location.host + '/typo3conf/ext/search_core/Resources/Public/Images/Markers/marker_normal.png',
+		// URL auf das Dokument mit den XML Daten der Marker
+		window.location.protocol + '//' + window.location.host + '/fileadmin/data/unimapping-de.json'
+	);
+
+}(function($, _, __, container, markerUrl, markerSourceUrl) {
+	'use strict';
+
+	$(document).ready(function(event) {
+		new __.Wrapper(container, function(gm) {
+			function ResetCenterControl(map, bounds, index) {
+				this.map = map;
+				this.bounds = bounds;
+
+				this.getMap = function() {
+					return this.map;
+				};
+
+				this.getBounds = function() {
+					return this.bounds;
+				};
+
+				var $btnReset = $('<button/>', { 'class': 'gm-control-active' }).attr('title', 'Ansicht zurücksetzen').css({
+					margin: '10px',
+					padding: '0',
+					position: 'absolute',
+					right: '0',
+					top: '0',
+					height: '40px',
+					width: '40px',
+					borderRadius: '2px',
+					boxShadow: 'rgba(0, 0, 0, 0.3) 0 1px 4px -1px',
+					background: 'rgb(255, 255, 255) none repeat scroll 0% 0%',
+					border: '0 none',
+					cursor: 'pointer',
+					userSelect: 'none',
+					overflow: 'hidden',
+					outline: 'currentcolor none medium'
+				}).html($('<img/>').attr('src', 'data:image/svg+xml;base64,77u/PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjNjY2IiBkPSJNMTcuNjUgNi4zNWMtMS40NS0xLjQ1LTMuNDQtMi4zNS01LjY1LTIuMzUtNC40MiAwLTcuOTkgMy41OC03Ljk5IDhzMy41NyA4IDcuOTkgOGMzLjczIDAgNi44NC0yLjU1IDcuNzMtNmgtMi4wOGMtLjgyIDIuMzMtMy4wNCA0LTUuNjUgNC0zLjMxIDAtNi0yLjY5LTYtNnMyLjY5LTYgNi02YzEuNjYgMCAzLjE0LjY5IDQuMjIgMS43OGwtMy4yMiAzLjIyaDd2LTdsLTIuMzUgMi4zNXoiLz48L3N2Zz4=').attr('border', '0').css({
+					width: '32px',
+					height: '32px',
+					border: 'none'
+				})).append($('<img/>').attr('src', 'data:image/svg+xml;base64,77u/PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjMTExIiBkPSJNMTcuNjUgNi4zNWMtMS40NS0xLjQ1LTMuNDQtMi4zNS01LjY1LTIuMzUtNC40MiAwLTcuOTkgMy41OC03Ljk5IDhzMy41NyA4IDcuOTkgOGMzLjczIDAgNi44NC0yLjU1IDcuNzMtNmgtMi4wOGMtLjgyIDIuMzMtMy4wNCA0LTUuNjUgNC0zLjMxIDAtNi0yLjY5LTYtNnMyLjY5LTYgNi02YzEuNjYgMCAzLjE0LjY5IDQuMjIgMS43OGwtMy4yMiAzLjIyaDd2LTdsLTIuMzUgMi4zNXoiLz48L3N2Zz4=').attr('border', '0').css({
+					width: '32px',
+					height: '32px',
+					border: 'none'
+				}));
+
+				this.div = $btnReset[0];
+				this.div.index = index;
+
+				var self = this;
+				gm.event.addDomListener($btnReset[0], 'click', function() {
+					self.getMap().fitBounds(self.getBounds());
+				});
+			}
+
+			// ///////////////////////////////////////////////////////////////////////
+
+			gm.visualRefresh = true;
+
+			// Grenzmarkierungen / Koordinaten für Deutschland
+			var $mapBounds = new gm.LatLngBounds(
+				new gm.LatLng(47.294134, 5.864868),
+				new gm.LatLng(55.059495, 15.027466)
+			);
+
+			// Karte erstellen
+			var $map = new gm.Map(window.document.getElementById(container), {
+				mapTypeId: gm.MapTypeId.ROADMAP,
+				mapTypeControl: true,
+				mapTypeControlOptions: {
+					style: gm.MapTypeControlStyle.DROPDOWN_MENU
+				},
+				zoomControl: true,
+				zoomControlOptions: {
+					style: gm.ZoomControlStyle.LARGE
+				},
+				panControl: false,
+				overviewMapControl: true,
+				scaleControl: false,
+				streetViewControl: false
+			});
+			// Sichtbaren Bereich auf Deutschland setzen
+			$map.fitBounds($mapBounds);
+
+			var $hc = new ResetCenterControl($map, $mapBounds, 1);
+			$map.controls[gm.ControlPosition.RIGHT_TOP].push($hc.div);
+
+			var $infoWindow = new gm.InfoWindow({
+				content: 'holding...'
+			});
+
+			// ///////////////////////////////////////////////////////////////////////
+
+			function downloadUrl(url, callback) {
+				var request = window.ActiveXObject ? new ActiveXObject('Microsoft.XMLHTTP') : new XMLHttpRequest;
+				request.onreadystatechange = function() {
+					if(request.readyState == 4) {
+						request.onreadystatechange = function() {};
+						callback(JSON.parse(request.responseText), request.status);
+					}
+				};
+				request.open('GET', url, true);
+				request.send(null);
+			}
+
+			function handleDataJson(json, status) {
+				var icon = {
+					url: markerUrl,
+					size: new gm.Size(32, 37),
+					origin: new gm.Point(0, 0),
+					anchor: new gm.Point(16, 37)
+				};
+
+				json.forEach(function(location) {
+					var marker = new gm.Marker({
+						map: $map,
+						position: new gm.LatLng(location.lat, location.lng),
+						icon: icon,
+						title: location.title,
+						html: buildInfoContent(location)
+					});
+					gm.event.addListener(marker, 'click', function() {
+						$infoWindow.setContent(this.html);
+						$infoWindow.open($map, this);
+					});
+				});
+			}
+
+			function buildInfoContent(location) {
+				var html  = '<div class="serviceBox">';
+						html += '<div class="header">' + location.title + '</div>';
+						html += '<div class="body">';
+						html += '<div>' + location.info + '</div>';
+						html += '<div>&nbsp;</div>';
+						html += '<div><a href="https://studieren.de/hochschule.0.html?&tx_assearchengine_pi2[academy]=' + location.uid + '">Studienangebot &gt;</a></div>';
+						html += '</div>';
+						html += '</div>';
+				return html;
+			}
+
+			downloadUrl(markerSourceUrl, handleDataJson);
+		}).render();
+	});
+
+}));
+</script><div class="university-map-canvas" id="mapUniversityLocationCanvas" style="width: 100%; padding-bottom: 75%;"></div></div></div>
+<div class="page-body-section" id="c14617"><header><span>Hochschultypen</span></header><div class="page-body-section-content"><article class="interesting-article"><div class="interesting-article-picture"><a href="https://studieren.de/universitaeten.0.html"><img alt="" height="400" src="https://studieren.de/fileadmin/_processed_/0/2/csm_istock-176722241_aa0d11014e.jpg" title="An der Uni hast Du die komplette Auswahl" width="600"/></a></div><div class="interesting-article-header"><h2><a href="https://studieren.de/universitaeten.0.html">An der Uni hast Du die komplette Auswahl</a></h2></div><div class="interesting-article-content"><p></p><p>An Universitäten wird das komplette Fächerspektrum angeboten. Von Anglistik bis Zahnmedizin. Mit dem Abschluss Abitur, die Eintrittskarte an die Uni, kannst Du Dich für jeden Studiengang bewerben, der Dich interessiert. Ob es klappt mit einem Studium, hängt dann aber auch noch von anderen Faktor ab z.B. Deinem Notendurchschnitt. <a href="https://studieren.de/universitaeten.0.html">Mehr erfahren &gt;</a></p></div></article><article class="interesting-article"><div class="interesting-article-picture"><a href="https://studieren.de/fachhochschulen.0.html"><img alt="" height="282" src="https://studieren.de/fileadmin/user_upload/arrbeitsmarkt_clipdealer.jpg" title="An der FH wird in Bezug zur Praxis studiert" width="425"/></a></div><div class="interesting-article-header"><h2><a href="https://studieren.de/fachhochschulen.0.html">An der FH wird in Bezug zur Praxis studiert</a></h2></div><div class="interesting-article-content"><p></p><p>Das wichtigste Unterscheidungskriterium zwischen Universität und Fachhochschule ist, dass letztere ein praxis- und anwendungsorientiertes Studium anbieten. Die Organisation des Stundenplans ist straffer und die Studiengänge sind kleiner als an einer Uni. Inhaltlich findest Du an FHs vor allem Studiengänge aus dem Bereich Technik, Wirtschaft und Soziales. <a href="https://studieren.de/fachhochschulen.0.html">Mehr erfahren &gt;</a></p></div></article><article class="interesting-article"><div class="interesting-article-picture"><a href="https://studieren.de/berufsakademien.0.html"><img alt="" height="282" src="https://studieren.de/fileadmin/user_upload/teamwork_clipdealere.jpg" title="Wer maximale Praxis möchte, studiert dual" width="425"/></a></div><div class="interesting-article-header"><h2><a href="https://studieren.de/berufsakademien.0.html">Wer maximale Praxis möchte, studiert dual</a></h2></div><div class="interesting-article-content"><p></p><p>Du würdest gerne eine Ausbildung und ein Studium gleichzeitig machen, um beides mitzunehmen. Wie gut, dass es auch diese Möglichkeit gibt. Mit einem dualen Studium erhältst Du einen Studienabschluss und bist zugleich optimal auf den Berufsstart vorbereitet. Denn Du weißt bereits, wie es in der Praxis läuft. Außerdem verdienst Du bereits ein kleines Gehalt. <a href="https://studieren.de/berufsakademien.0.html">Mehr erfahren &gt;</a></p></div></article></div></div>
+<div class="page-body-section" id="c1396"><header><h2 class="">
+				Du willst unbedingt in einer Stadt studieren?
+			</h2></header><div class="page-body-section-content"><p>Hier findest die Hochschulen in den 20 größten Städten in Deutschland. Studieren in <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Berlin">Berlin</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Bielefeld">Bielefeld</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Bochum">Bochum</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Bonn">Bonn</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Bremen">Bremen</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Dortmund">Dortmund</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Dresden">Dresden</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Duisburg">Duisburg</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Düsseldorf">Düsseldorf</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Essen">Essen</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Frankfurt">Frankfurt am Main</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Hamburg">Hamburg</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Hannover">Hannover</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Köln">Köln</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Leipzig">Leipzig</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Mannheim">Mannheim</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in München">München</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Nürnberg">Nürnberg</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Stuttgart">Stuttgart</a>, <a class="external-link-new-window" href="https://studieren.de/landkarte-unis-deutschland.0.html" target="_top" title="Studieren in Wuppertal">Wuppertal</a>.</p></div></div>
+</div>
+<div class="page-footer">
+<div class="page-footer-lower">
+<div class="page-footer-shortcuts"><span class="page-footer-shortcuts-item"><a href="https://studieren.de/kurzportraet.0.html">Unternehmen</a></span><span class="page-footer-shortcuts-item"><a href="https://studieren.de/pressekontakt.0.html">Presse</a></span><span class="page-footer-shortcuts-item"><a href="https://studieren.de/hochschule-service.0.html">Mediadaten</a></span><span class="page-footer-shortcuts-item"><a href="https://studieren.de/xstudy-de.0.html">Impressum</a></span><span class="page-footer-shortcuts-item"><a href="https://studieren.de/datenschutzerklaerung.0.html">Datenschutz</a></span></div><div class="page-footer-darkmode"><span class="xsi-inline xsi-s16 xsi-grey-light xsi-dark-mode"><a href="https://studieren.de/landkarte-unis-deutschland.0.html?darkmode=on"> Dark Mode</a></span></div><div class="page-footer-copyright"><span class="page-footer-copyright-date">
+					1997-2020
+				</span><span class="page-footer-copyright-name">
+					studieren.de © xStudy SE
+				</span></div>
+</div>
+</div>
+<section class="favorites-details-box" id="favoritesDetailsBox" style="display:none;">
+<div class="loading" id="favoritesDetailsLoading" style="display:none;"></div>
+<div class="content">
+<article>
+<header class="xs-faculty-0-bg display-button-save">
+<div class="caption">Deine Favoriten</div>
+<div class="button-save"><button class="button-save" name="favorites:box:action" title="Favoriten speichern" type="button" value="favorites:save">Favoriten speichern</button></div>
+<div class="button-close"><button class="button-close" name="favorites:box:action" title="Schließen" type="button" value="favorites:close">Schließen</button></div>
+</header>
+<div class="map-canvas" id="favoritesMapCanvas"></div>
+</article>
+<div class="selector-buttons" id="favoritesDetailsSelector">
+<button class="selector active" name="favorites:box:action" type="button" value="tab:course">
+<span class="numbers">0</span>
+<span class="label">Favoriten</span>
+</button>
+<button class="selector" name="favorites:box:action" type="button" value="tab:university">
+<span class="numbers">0</span>
+<span class="label">Studienorte</span>
+</button>
+<button class="selector favourDisplay" name="favorites:box:action" type="button" value="tab:favorite">
+<span class="numbers">0</span>
+<span class="label">Prioritäten</span>
+<div class="favourDisplay v0" id="favoritesDetailsBoxFavoriteFavourDisplay">
+<span class="stars"></span>
+</div>
+</button>
+</div>
+<div class="courses" id="favoritesRecordListing">
+</div>
+<div class="welcome-message" id="favoritesWelcomeMessage">
+<p>Bei über 650 Hochschulstandorten und mehr als 20.000 Studienangeboten allein in Deutschland verliert man leicht den Überblick. Mit den studieren.de-Favoriten ist es vorbei mit dem Notizenchaos.</p>
+<p>Du kannst Deine Studienwahl bequem organisieren und behältst genau die Studienangebote und Hochschulen im Blick, die Dich interessieren.</p>
+<p><strong>Und so geht’s:</strong> Sammle einfach Deine Favoriten, indem Du das Stern-Symbol anklickst; Du findest es bei jedem Studiengang. Deine Auswahl siehst Du, wenn Du am oberen Seitenrand auf „Favoriten“ klickst.</p>
+<p>Sichere Deine Auswahl ab, indem Du in der Übersicht Deiner gemerkten Studiengänge auf „Favoriten speichern“ klickst. Wir schicken Dir per Mail einen Link, über den Du Deine Favoriten wieder abrufen und weiter bearbeiten kannst. Sobald Du Deine Favoriten einmal gespeichert hast, werden alle Änderungen, die Du vornimmst, automatisch übernommen. Deine Favoriten bleiben weiterhin über den Link in der Mail abrufbar.</p>
+<p><strong>Wichtig:</strong> Deine Favoriten werden 3 Monate nach Deinem letzten Abruf oder Deiner letzten Bearbeitung automatisch gelöscht.</p>
+</div>
+<footer class="">
+<div class="email-address" id="favoritesEmailAddress"></div>
+<div class="button-clear"><button class="button-clear" name="favorites:box:action" type="button" value="favorites:clear">Favoriten und E-Mail Adresse löschen</button></div>
+</footer>
+</div>
+<div class="ivw-container" id="favoritesIvwContainer" style="display:none;"></div>
+</section>
+</div>
+<div id="ivwBody">
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript">
+var iam_data = {
+	'st': 'studier',
+	'cp': '_Beratung',
+	'sv': 'ke',
+	'co': '',
+	'sc': 'yes'
+}
+iom.c(iam_data, 1);
+</script>
+<!--/SZM -->
+</div>
+</body>
+</html>

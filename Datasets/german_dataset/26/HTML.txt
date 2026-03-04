@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="de" xml:lang="de">
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	##################################################################
+	THIS WEBSITE IS BROUGHT TO YOU FRESH AND FRUITY BY LIMEFLAVOUR.COM
+	##################################################################
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="Lehrerbildung, Deutsch als Zweitsprache, Sprachdiagnostik, Sprachförderung, Mehrsprachigkeit" name="keywords"/>
+<meta content="Das Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache ist ein von der Stiftung Mercator initiiertes und gefördertes Institut der Universität zu Köln. Es will sprachliche Bildung verbessern. Mit seiner Forschung und seinen wissenschaftlichen Serviceleistungen zu sprachlicher Bildung in einer mehrsprachigen Gesellschaft trägt das Mercator-Institut zu mehr Chancengleichheit im Bildungssystem bei." name="description"/>
+<meta content="Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache" name="author"/>
+<meta content="Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache" name="copyright"/>
+<meta content="Lime Flavour www.limeflavour.com" name="publisher"/>
+<link href="/typo3temp/assets/css/mercator_b44d596eec632526934a2c29d5fc06dbe56c5453.css?1605112024" media="all" rel="stylesheet" type="text/css"/>
+<script src="/typo3temp/assets/js/9a38f34785.js?1552043850" type="text/javascript"></script>
+<!-- This website is served to you fresh and fruity by LIMEFLAVOUR.com  -->
+<meta content="width=device-width" name="viewport"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/fileadmin/templates/assets/img/favicon/apple/logo_icon57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<meta content="Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache" name="application-name"/>
+<meta content="/fileadmin/templates/assets/img/favicon/windows/logo_icon144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="/fileadmin/templates/assets/img/favicon/windows/logo_icon70x70.png" name="msapplication-square70x70logo"/>
+<meta content="/fileadmin/templates/assets/img/favicon/windows/logo_icon150x150.png" name="msapplication-square150x150logo"/>
+<meta content="/fileadmin/templates/assets/img/favicon/windows/logo_icon310x150.png" name="msapplication-wide310x150logo"/>
+<meta content="/fileadmin/templates/assets/img/favicon/windows/logo_icon310x310.png" name="msapplication-square310x310logo"/>
+<link href="/fileadmin/templates/assets/img/favicon/others/logo_icon144x144.png" rel="icon" sizes="144x144" type="image/png"/>
+<link href="/fileadmin/templates/assets/img/favicon/others/logo_icon128x128.png" rel="icon" sizes="128x128" type="image/png"/>
+<link href="/fileadmin/templates/assets/img/favicon/others/logo_icon64x64.png" rel="icon" sizes="64x64" type="image/png"/>
+<link href="/fileadmin/templates/assets/img/favicon/others/logo_icon32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/fileadmin/templates/assets/img/favicon/others/logo_icon16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/fileadmin/templates/assets/img/favicon/ico/logo_icon64x64.ico" rel="icon" sizes="64x64" type="image/x-icon"/>
+<link href="/fileadmin/templates/assets/img/favicon/ico/logo_icon48x48.ico" rel="icon" sizes="48x48" type="image/x-icon"/>
+<link href="/fileadmin/templates/assets/img/favicon/ico/logo_icon32x32.ico" rel="icon" sizes="32x32" type="image/x-icon"/>
+<link href="/fileadmin/templates/assets/img/favicon/ico/logo_icon16x16.ico" rel="icon" sizes="16x16" type="image/x-icon"/>
+<link href="/fileadmin/templates/assets/img/favicon/ico/logo_icon16x16.ico" rel="shortcut icon" sizes="16x16" type="image/x-icon"/>
+<link href="/fileadmin/templates/assets/dist/style.css" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 9]>
+    <script src="/fileadmin/templates/libs/html5shim-3.6.2.min.js"></script>
+  <![endif]-->
+<!--<script src="/fileadmin/templates/assets/dist/library.min.js"></script>
+    <script src="/fileadmin/templates/assets/dist/script.js"></script>-->
+<title>Kooperationsprojekt Sprachliche Bildung │ Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache</title> <link href="https://www.mercator-institut-sprachfoerderung.de/favicon.ico" rel="SHORTCUT ICON"/> <meta content="https://www.mercator-institut-sprachfoerderung.de//de/studium-weiterbildung/ausgewaehlte-lehrprojekte/kooperationsprojekt-sprachliche-bildung/" property="og:url"/>
+<meta content="Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache" property="og:site_name"/>
+<meta content="de_DE" property="og:locale"/> <meta content="https://www.mercator-institut-sprachfoerderung.de/fileadmin/templates/assets/img/logo-mercator-institut.png" property="og:image"/> <meta content="Das Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache - Kooperationsprojekt Sprachliche Bildung" property="og:title"/> <meta content="Das Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache ist ein von der Stiftung Mercator initiiertes und gefördertes Institut der Universität zu Köln. Es will sprachliche Bildung verbessern. Mit seiner Forschung und seinen wissenschaftlichen Serviceleistungen zu sprachlicher Bildung in einer mehrsprachigen Gesellschaft trägt das Mercator-Institut zu mehr Chancengleichheit im Bildungssystem bei." property="og:description"/> <link href="/typo3conf/ext/ig_startseite/Resources/Public/Css/mercator2019.css?1603278841" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="header" id="header">
+<div class="header-top">
+<div class="mercator-container">
+<div class="desktop-search-field" data-transition-load="1">
+<form action="/nc/de/suche/" enctype="multipart/form-data" method="post">
+<div class="input-submit-wrapper">
+<input class="search" name="tx_kesearch_pi1[sword]" placeholder="Suchbegriff.." value=""/>
+<div class="button"><button type="submit">Suchen</button></div>
+</div>
+</form>
+</div>
+<div class="header-meta-menu">
+<nav>
+<ul>
+<li><a class="menu-link" href="/de/aktuelles/" title="Aktuelles">Aktuelles</a></li>
+<li><a class="menu-link" href="/de/termine/" title="Termine">Termine</a></li>
+<li><a class="menu-link" href="/de/presse/" title="Presse">Presse</a></li>
+<li><a class="menu-link" href="/de/jobs/" title="Jobs">Jobs</a></li>
+<li><a class="menu-link" href="/de/kontakt/" title="Kontakt">Kontakt</a></li>
+<li class="lang-item active ">
+<a href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/kooperationsprojekt-sprachliche-bildung/" hreflang="de-DE" title="De">
+<span>De</span>
+</a>
+</li>
+<li class="lang-item ">
+<a href="/en/academic-professional-training/selected-teaching-projects/joint-project-language-education/" hreflang="en-GB" title="En">
+<span>En</span>
+</a>
+</li>
+<li class="search-item"><a class="menu-link" href="javascript:;" id="openDesktopSearch" title="Suche"><span class="icon-search"></span></a></li>
+</ul>
+</nav>
+</div>
+<div class="inner-wrapper">
+<div class="logo">
+<a href="/de/" title="Zurück zur Startseite">
+<img alt="Mercator Institut für Sprachförderung und Deutsch als Zweitsprache" class="pageLogo" src="/typo3conf/ext/ig_startseite/Resources/Public/Icons/mercator-institut-logo.svg" title="Mercator Institut für Sprachförderung und Deutsch als Zweitsprache"/>
+</a>
+</div>
+<div class="menu-cta">
+<a class="open-navigation" href="javascript:;" id="open-navigation" title="Menü öffnen">
+<span class="icon-menu" data-action="open"></span>
+<span class="icon-close" data-action="close"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-main">
+<div class="mercator-container">
+<nav class="main-navigation">
+<ul id="mainNav">
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/institut/" id="nav-item-4" title="Institut">Institut</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/wer-wir-sind/" id="nav-item-15" title="Wer wir sind">Wer wir sind</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/was-wir-tun/" id="nav-item-16" title="Was wir tun">Was wir tun</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/unser-team/" id="nav-item-17" title="Unser Team">Unser Team</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/kuratorium/" id="nav-item-18" title="Kuratorium">Kuratorium</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/wissenschaftlicher-beirat/" id="nav-item-19" title="Wissenschaftlicher Beirat">Wissenschaftlicher Beirat</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/kooperationspartner/" id="nav-item-305" title="Kooperationspartner">Kooperationspartner</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/institut/partnerschulen/" id="nav-item-462" title="Partnerschulen">Partnerschulen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/forschung-entwicklung/" id="nav-item-84" title="Forschung &amp; Entwicklung">Forschung &amp; Entwicklung</a>
+<ul>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/forschung-entwicklung/aktuelle-projekte/" id="nav-item-82" title="Aktuelle Projekte">Aktuelle Projekte</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/sprachliche-und-fachliche-kompetenzen-neu-zugewanderter/" id="nav-item-539" title="Sprachliche und fachliche Kompetenzen neu Zugewanderter">Sprachliche und fachliche Kompetenzen neu Zugewanderter</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/die-textprofis/" id="nav-item-533" title="Die Textprofis">Die Textprofis</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/biss-transfer/" id="nav-item-501" title="BiSS-Transfer">BiSS-Transfer</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/forschungsnetzwerk-biss-transfer/" id="nav-item-534" title="Forschungsnetzwerk BiSS-Transfer">Forschungsnetzwerk BiSS-Transfer</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/forschungsdatenbank-lernertexte-fd-lex/" id="nav-item-542" title="Forschungsdatenbank Lernertexte (FD-LEX)">Forschungsdatenbank Lernertexte (FD-LEX)</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/comein/" id="nav-item-508" title="COMeIN">COMeIN</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/edtools/" id="nav-item-478" title="EdToolS">EdToolS</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/wibales/" id="nav-item-464" title="WibaLeS">WibaLeS</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/referenzwortschatz-fuer-die-schule/" id="nav-item-466" title="Referenzwortschatz für die Schule">Referenzwortschatz für die Schule</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/cold/" id="nav-item-443" title="COLD">COLD</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/systematisches-review-zum-sprachsensiblen-unterricht/" id="nav-item-409" title="Systematisches Review zum sprachsensiblen Unterricht">Systematisches Review zum sprachsensiblen Unterricht</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/lesen-macht-stark/" id="nav-item-93" title="Lesen macht stark">Lesen macht stark</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/testverfahren-zur-schreibkompetenz/" id="nav-item-245" title="Testverfahren zur Schreibkompetenz">Testverfahren zur Schreibkompetenz</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/suchmaschine-fuer-sprachlerntexte/" id="nav-item-278" title="Suchmaschine für Sprachlerntexte">Suchmaschine für Sprachlerntexte</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/verbinden/" id="nav-item-288" title="VeRbinden">VeRbinden</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/aktuelle-projekte/requal/" id="nav-item-428" title="R/EQUAL">R/EQUAL</a>
+</li>
+</ul>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/abgeschlossene-projekte/" id="nav-item-227" title="Abgeschlossene Projekte">Abgeschlossene Projekte</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/forschungsdatenbank-lernertexte/" id="nav-item-296" title="Forschungsdatenbank Lernertexte">Forschungsdatenbank Lernertexte</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/forschung-entwicklung/wissen-was-wirkt/" id="nav-item-403" title="Wissen! Was wirkt?">Wissen! Was wirkt?</a>
+</li>
+</ul>
+</li>
+<li class="menu-item active sub">
+<a class="menu-link sub" href="/de/studium-weiterbildung/" id="nav-item-6" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a>
+<ul>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/" id="nav-item-481" title="DaZ-Modul an der Universität zu Köln">DaZ-Modul an der Universität zu Köln</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/allgemeine-informationen/" id="nav-item-483" title="Allgemeine Informationen">Allgemeine Informationen</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/inhalte-und-aufbau-des-daz-moduls/" id="nav-item-482" title="Inhalte und Aufbau des DaZ-Moduls">Inhalte und Aufbau des DaZ-Moduls</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/studien-und-pruefungsleistungen/" id="nav-item-484" title="Studien- und Prüfungsleistungen">Studien- und Prüfungsleistungen</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/materialien-und-unterstuetzung/" id="nav-item-485" title="Materialien und Unterstützung">Materialien und Unterstützung</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/masterarbeiten/" id="nav-item-486" title="Masterarbeiten">Masterarbeiten</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/termine-und-fristen/" id="nav-item-487" title="Termine und Fristen">Termine und Fristen</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/daz-modul-an-der-universitaet-zu-koeln/haeufig-gestellte-fragen/" id="nav-item-488" title="Häufig gestellte Fragen">Häufig gestellte Fragen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/studium-weiterbildung/weiterbildungsstudium-daz/" id="nav-item-495" title="Weiterbildungsstudium DaZ">Weiterbildungsstudium DaZ</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/weiterbildungsstudium-daz/weiterbildungsstudium-daz-kompakt/" id="nav-item-496" title="Weiterbildungsstudium DaZ KOMPAKT">Weiterbildungsstudium DaZ KOMPAKT</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/weiterbildungsstudium-daz/weiterbildungsstudium-daz-intensiv/" id="nav-item-497" title="Weiterbildungsstudium DaZ INTENSIV">Weiterbildungsstudium DaZ INTENSIV</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/weiterbildungsstudium-daz/landesweite-weiterbildungsinitiative-deutsch-als-zweitsprache/" id="nav-item-476" title="Landesweite Weiterbildungsinitiative Deutsch als Zweitsprache">Landesweite Weiterbildungsinitiative Deutsch als Zweitsprache</a>
+</li>
+</ul>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/lehrkraefteplus-koeln/" id="nav-item-317" title="LehrkräftePLUS Köln">LehrkräftePLUS Köln</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/unterstuetzungsangebot-zur-sprachlichen-bildung-in-mehrsprachigen-klassen/" id="nav-item-472" title="Unterstützungsangebot zur sprachlichen Bildung in mehrsprachigen Klassen">Unterstützungsangebot zur sprachlichen Bildung in mehrsprachigen Klassen</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/kita-master/" id="nav-item-312" title="Kita-Master">Kita-Master</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/blended-learning-fortbildungen-in-biss-transfer/" id="nav-item-414" title="Blended-Learning-Fortbildungen in BiSS-Transfer">Blended-Learning-Fortbildungen in BiSS-Transfer</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/onlineseminarorthographie/" id="nav-item-412" title="Online-Seminar Orthographie">Online-Seminar Orthographie</a>
+</li>
+<li class="menu-item active sub">
+<a class="menu-link sub" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/" id="nav-item-294" title="Ausgewählte Lehrprojekte">Ausgewählte Lehrprojekte</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/daz-in-zeiten-der-pandemie/" id="nav-item-525" title="DaZ in Zeiten der Pandemie">DaZ in Zeiten der Pandemie</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/digitale-medien-im-sprachsensiblen-fachunterricht/" id="nav-item-471" title="Digitale Medien im sprachsensiblen Fachunterricht">Digitale Medien im sprachsensiblen Fachunterricht</a>
+</li>
+<li class="menu-item active">
+<a class="menu-link" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/kooperationsprojekt-sprachliche-bildung/" id="nav-item-295" title="Kooperationsprojekt Sprachliche Bildung">Kooperationsprojekt Sprachliche Bildung</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/lehr-lernlabor-schaf/" id="nav-item-314" title="Lehr-Lernlabor Schaf">Lehr-Lernlabor Schaf</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/lern-und-forschungsraum-bauernhof/" id="nav-item-313" title="Lern- und Forschungsraum Bauernhof">Lern- und Forschungsraum Bauernhof</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/mintegration/" id="nav-item-404" title="MINTegration">MINTegration</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/publikationen/" id="nav-item-420" title="Publikationen &amp; Material">Publikationen &amp; Material</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/publikationen-aller-mitarbeiterinnen-und-mitarbeiter/" id="nav-item-424" title="Publikationen aller Mitarbeiterinnen und Mitarbeiter">Publikationen aller Mitarbeiterinnen und Mitarbeiter</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/studien/" id="nav-item-423" title="Studien">Studien</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/faktenchecks/" id="nav-item-421" title="Faktenchecks">Faktenchecks</a>
+</li>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/publikationen/material-fuer-die-praxis/" id="nav-item-434" title="Material für die Praxis">Material für die Praxis</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/material-fuer-die-praxis/methodenpool/" id="nav-item-441" title="Methodenpool">Methodenpool</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/material-fuer-die-praxis/unterricht-und-sprachliches-lernen-digital/" id="nav-item-505" title="Unterricht und sprachliches Lernen digital">Unterricht und sprachliches Lernen digital</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/material-fuer-die-praxis/biss-broschueren/" id="nav-item-503" title="BiSS-Broschüren">BiSS-Broschüren</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/material-fuer-die-praxis/biss-handreichungen/" id="nav-item-504" title="BiSS-Handreichungen">BiSS-Handreichungen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item sub">
+<a class="menu-link sub" href="/de/publikationen/verlagspublikationen/" id="nav-item-430" title="Verlagspublikationen">Verlagspublikationen</a>
+<ul>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/verlagspublikationen/schriftenreihe-sprachliche-bildung-waxmann-verlag/" id="nav-item-431" title="Schriftenreihe Sprachliche Bildung (Waxmann Verlag)">Schriftenreihe Sprachliche Bildung (Waxmann Verlag)</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/verlagspublikationen/bildungsbezogene-sprachtests-waxmann-verlag/" id="nav-item-480" title="Bildungsbezogene Sprachtests (Waxmann Verlag)">Bildungsbezogene Sprachtests (Waxmann Verlag)</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/verlagspublikationen/unterreihe-sprachliche-bildung-studien-waxmann-verlag/" id="nav-item-432" title="Unterreihe Sprachliche Bildung – Studien (Waxmann Verlag)">Unterreihe Sprachliche Bildung – Studien (Waxmann Verlag)</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/verlagspublikationen/schriftenreihe-bildung-durch-sprache-und-schrift-kohlhammer-verlag/" id="nav-item-440" title="Schriftenreihe „Bildung durch Sprache und Schrift“ (Kohlhammer-Verlag)">Schriftenreihe „Bildung durch Sprache und Schrift“ (Kohlhammer-Verlag)</a>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/verlagspublikationen/weitere-verlagspublikationen/" id="nav-item-433" title="Weitere Verlagspublikationen">Weitere Verlagspublikationen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item">
+<a class="menu-link" href="/de/publikationen/informationsmaterial/" id="nav-item-427" title="Informationsmaterial">Informationsmaterial</a>
+</li>
+</ul>
+</li>
+<li class="menu-item themenportal">
+<a class="menu-link" href="/de/themenportal/">Themenportal <span class="icon-themenportal"><span class="path1"></span><span class="path2"></span></span></a>
+</li>
+</ul>
+</nav>
+<div class="meta-mobile">
+<div class="mobile-search-wrapper">
+<form action="/nc/de/suche/" enctype="multipart/form-data" method="post">
+<div class="input-submit-wrapper">
+<input class="search" name="tx_kesearch_pi1[sword]" placeholder="Suchbegriff.." value=""/>
+<div class="button"><button type="submit">Suchen</button></div>
+</div>
+</form>
+</div>
+<div class="header-meta-menu">
+<nav>
+<ul>
+<li><a class="menu-link" href="/de/aktuelles/" title="Aktuelles">Aktuelles</a></li>
+<li><a class="menu-link" href="/de/termine/" title="Termine">Termine</a></li>
+<li><a class="menu-link" href="/de/presse/" title="Presse">Presse</a></li>
+<li><a class="menu-link" href="/de/jobs/" title="Jobs">Jobs</a></li>
+<li><a class="menu-link" href="/de/kontakt/" title="Kontakt">Kontakt</a></li>
+<li class="lang-item active ">
+<a href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/kooperationsprojekt-sprachliche-bildung/" hreflang="de-DE" title="De">
+<span>De</span>
+</a>
+</li>
+<li class="lang-item ">
+<a href="/en/academic-professional-training/selected-teaching-projects/joint-project-language-education/" hreflang="en-GB" title="En">
+<span>En</span>
+</a>
+</li>
+<li class="search-item"><a class="menu-link" href="javascript:;" id="openDesktopSearch" title="Suche"><span class="icon-search"></span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div class="wrap clearfix">
+<nav class="clearfix" id="breadcrumb"><ul><li><a href="/de/" title="Zur Startseite">Home</a></li><li><a href="/de/studium-weiterbildung/" title="Studium &amp; Weiterbildung">Studium &amp; Weiterbildung</a></li><li><a href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/" title="Ausgewählte Lehrprojekte">Ausgewählte Lehrprojekte</a></li><li><a href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/kooperationsprojekt-sprachliche-bildung/" title="Kooperationsprojekt Sprachliche Bildung">Kooperationsprojekt Sprachliche Bildung</a></li></ul></nav>
+<a id="c4349"></a><div class="pagination paginationTop clearfix">
+<a class="back" href="/de/studium-weiterbildung/ausgewaehlte-lehrprojekte/" title="Zurück zur Übersicht">
+			Zurück zur Übersicht
+		</a>
+</div>
+<a id="c4347"></a><div class="headline headlineL box clearfix">
+<figure class="image">
+<img alt="" height="279" src="/fileadmin/_processed_/4/e/csm_Sommerschule_321_9b54109456.jpg" width="480"/>
+<p class="credits">© A. Etges/Mercator-Institut</p>
+</figure>
+<div class="text">
+<h1>Kooperationsprojekt Sprachliche Bildung</h1>
+</div>
+</div>
+<article class="bloc-640">
+<!--TYPO3SEARCH_begin-->
+<a id="c4345"></a><div class="text textCapital">
+<p>Etwa jedes dritte Kind in Deutschland wächst mit Zuwanderungsgeschichte auf (Statistisches Bundesamt, 2017), sodass sich Lehrkräfte auf eine zunehmend sprachlich heterogene Schülerschaft einstellen müssen. Um angehende Lehrkräfte gut darauf vorzubereiten, verknüpft das Kooperationsprojekt Sprachliche Bildung eine praxisgebundene Ausbildung von Lehramtsstudierenden im Bereich Deutsch als Zweitsprache mit der sprachlichen Förderung von Schülerinnen und Schülern mit Zuwanderungsgeschichte.</p>
+<p><strong>Die übergreifenden Projektziele sind:</strong></p>
+<ul> <li>Lehramtsstudierende zugleich theoretisch fundiert und praxisnah ausbilden</li> <li>Schulen bei der sprachlichen Förderung ihrer Schülerinnen und Schüler unterstützen</li> <li>empirische Forschung zu Mehrsprachigkeit und Deutsch als Zweitsprache</li> </ul>
+<p>Das Kooperationsprojekt setzt sich aus den vier Teilprojekten EINS, Kleeblatt, SEK I und Ferienschule zusammen. Sie greifen die unterschiedlichen Herausforderungen auf, die sich in der Arbeit mit mehrsprachigen Schülerinnen und Schülern abhängig von ihren sprachlichen Kompetenzen und der Jahrgangsstufe stellen. Pro Semester fördern etwa 300 Lehramtsstudierende an 50 Kooperationsschulen bis zu 1.200 Schülerinnen und Schüler in wöchentlichem Sprachförderunterricht oder in zweiwöchigen Intensivkursen in den Ferien.<br/> Die Lehramtsstudierenden werden vorab und/oder begleitend zur Sprachförderung in universitären Seminaren auf Bachelor- und Masterniveau für die Sprachförderung qualifiziert. Sie erhalten Einblicke in die Grundlagen von Deutsch als Zweit- und Fremdsprache, Förderdiagnostik, Unterrichtsplanung sowie Unterrichtsmethodik und werden interkulturell sensibilisiert.</p>
+<p>Im Bereich der Forschung liegt der Fokus auf der Entwicklung und Erprobung innovativer didaktischer Ansätze im Kontext der sprachlichen Bildung von Schülerinnen und Schülern mit Zuwanderungsgeschichte. Aktuell kommen in den Projekten digitale Medien, theater- und dramapädagogische Ansätze sowie mehrsprachigkeitsdidaktische Konzepte zum Einsatz.</p>
+</div>
+<div class="clearfix"></div><div class="facts box clearfix"><h2>Auf einen Blick</h2>
+<a id="c4333"></a><div class="fact clearfix">
+<h4>Ziel</h4>
+<div class="text"><p>Ziel des Projekts ist es, eine theoretisch fundierte und praxisnahe Ausbildung von Lehramtsstudierenden zu schaffen und die Kooperationsschulen bei der sprachlichen Förderung ihrer Schülerinnen und Schüler zu unterstützen.</p></div>
+</div>
+<a id="c4335"></a><div class="fact clearfix">
+<h4>Kooperationspartner</h4>
+<div class="text"><p>Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache<br/> Institut für Deutsche Sprache und Literatur II (IDSL II)<br/> Literaturdidaktik des IDSL II<br/> ZMI (Zentrum für Mehrsprachigkeit und Integration Köln)<br/> ZuS (Zukunftsstrategie Lehrer*innenbildung der Universität zu Köln)</p></div>
+</div>
+<a id="c4456"></a><div class="fact clearfix">
+<h4>Förderer</h4>
+<div class="text"><p>Annemarie und Helmut Börner-Stiftung, Köln (im Rahmen des Teilprojekts Ferienschule)<br/> Harald und Hilde Neven DuMont-Stiftung, Köln (im Rahmen des Teilprojekts Ferienschule)</p></div>
+</div>
+<a id="c4336"></a><div class="fact clearfix">
+<h4>Laufzeit</h4>
+<div class="text"><p>seit 2002</p></div>
+</div>
+<a id="c4337"></a><div class="fact clearfix">
+<h4>Projektleiter</h4>
+<div class="text"><p>Prof. Dr. Michael Becker-Mrotzek</p></div>
+</div>
+<a id="c4460"></a><div class="fact clearfix">
+<h4>Website</h4>
+<div class="text">
+<p>
+<a class="extern" href="http://sprachfoerderprojekt.phil-fak.uni-koeln.de/" target="_blank" title="Neues Fenster: Website Kooperationsprojekt Sprachliche Bildung">
+						Website Kooperationsprojekt Sprachliche Bildung
+					</a>
+</p>
+</div>
+</div>
+</div>
+<a id="c4331"></a><div class="clearfix"></div>
+<a class="top" href="#top" title="Nach oben">Nach oben</a>
+<!--TYPO3SEARCH_end-->
+</article>
+<aside class="bloc-320">
+<!--TYPO3SEARCH_begin-->
+<a id="c9511"></a><div class="headlineXS">
+<h3>Ihre Ansprechpartnerin <i></i></h3>
+</div>
+<a id="c4351"></a><div class="team box clearfix" itemscope="" itemtype="http://schema.org/Person"><figure class="image"><img alt="" height="183" itemprop="image" src="/fileadmin/_processed_/8/b/csm_Wamhoff_web_ae8439bc0f.jpg" width="140"/></figure><div class="text"><h4 class="name" itemprop="name">
+					Daniela Wamhoff
+				</h4><p class="position" itemprop="jobTitle">Wissenschaftliche Mitarbeiterin</p><p><span class="item email"><a href="javascript:linkTo_UnCryptMailto('ocknvq,fcpkgnc0ycojqhhBogtecvqt0wpk\/mqgnp0fg');" itemprop="email">daniela.wamhoff@mercator.uni-koeln.de</a></span><span class="item phone">Telefon: <a class="phone" href="tel:49(0)2214707176" itemprop="telephone">49 (0) 221-470 7176</a></span></p></div></div>
+<!--TYPO3SEARCH_end-->
+</aside>
+<div class="clearfix"></div>
+<!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end-->
+</div>
+</div>
+<div class="footer">
+<div class="footer-top">
+<div class="mercator-container">
+<div class="wrapper">
+<div class="newsletter">
+<div class="f-title">Newsletter</div>
+<p>Abonnieren Sie unseren Newsletter und wir informieren Sie regelmäßig über unsere Arbeit und die neuesten Entwicklungen</p>
+<form action="/de/newsletter/" method="get">
+<div class="input-submit-wrapper">
+<input name="cta-footer-email" placeholder="E-Mail-Adresse" type="search" value=""/>
+<div class="button"><button type="submit">Anmelden</button></div>
+</div>
+</form>
+</div>
+<div class="social">
+<div class="f-title">Folgen Sie uns</div>
+<ul>
+<li><a href="https://twitter.com/MISprachbildung" title="Twitter"><span class="icon-social-twitter"></span></a></li>
+<li><a href="https://issuu.com/mercator-institut" title="Issuu"><span class="icon-social-issuu"></span></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkCg3e67djg5NNxQj7vk11BQAEF2EYG6J" title="Youtube"><span class="icon-social-youtube"></span></a></li>
+<li><a href="/rss.xml" title="RSS"><span class="icon-social-rss"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="mercator-container">
+<div class="wrapper">
+<div class="logos">
+<div class="logos-inner">
+<div class="logo uni">
+<a class="uni-koeln" href="http://www.uni-koeln.de/" title="Universität zu Köln">
+<img alt="Universität zu Köln" src="/typo3conf/ext/ig_startseite/Resources/Public/Icons/logo_uzk.svg" title="Universität zu Köln"/>
+</a>
+</div>
+<div class="logo stiftung">
+<img alt="" src="/typo3conf/ext/ig_startseite/Resources/Public/Icons/logo_stiftung_mercator.svg" title=""/>
+</div>
+</div>
+</div>
+<div class="descr">Das Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache ist ein durch die Stiftung Mercator initiiertes und gefördertes Institut der Universität zu Köln.</div>
+</div>
+</div>
+</div>
+<div class="footer-meta">
+<div class="mercator-container">
+<div class="wrapper">
+<div class="navigation">
+<nav>
+<ul>
+<li><a class="menu-link" href="/de/sitemap/" id="nav-item-31" title="Sitemap">Sitemap</a></li>
+<li><a class="menu-link" href="/de/impressum/" id="nav-item-32" title="Impressum">Impressum</a></li>
+<li><a class="menu-link" href="/de/datenschutz/" id="nav-item-33" title="Datenschutz">Datenschutz</a></li>
+</ul>
+</nav>
+</div>
+<div class="copy">© 2020 Mercator-Institut</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-describedby="ig-cookie-simple:text" class="ig-cookie-simple" id="ig-cookie-simple" role="dialog">
+<div class="cookie-inner">
+<div class="info" id="ig-cookie-simple:text">Cookies werden für einige Website-Funktionen benötigt und helfen uns, diese für Sie ständig zu verbessern. Mit Ihrem Klick auf „Akzeptieren“ erklären Sie sich mit der Verwendung einverstanden. <a href="/de/datenschutz/" target="_blank" title="Mehr erfahren">Mehr erfahren</a></div>
+<div class="cta">
+<a aria-label="Ablehnen" class="btn" href="javascript:;" id="denyCookies" role="button" title="Ablehnen">
+                Ablehnen
+            </a>
+<a aria-label="Akzeptieren" class="btn filled" href="javascript:;" id="acceptCookies" role="button" title="Akzeptieren">
+                Akzeptieren
+            </a>
+</div>
+<a class="close-cookie-hint" href="javascript:;" id="close-cookie-hint" title=""><i class="icon-close"></i></a>
+</div>
+</div>
+<script src="/fileadmin/templates/assets/dist/library.js?1542887487" type="text/javascript"></script>
+<script src="/fileadmin/templates/assets/dist/script.js?1575448082" type="text/javascript"></script>
+<script src="/typo3conf/ext/ig_startseite/Resources/Public/Js/mercator-main.js?1570692213" type="text/javascript"></script>
+<script src="/typo3conf/ext/ig_cookie_simple/Resources/Public/Js/ig_cookie_simple.js?1588065570" type="text/javascript"></script>
+<noscript><p><img alt="" src="//piwik.rrz.uni-koeln.de/piwik/piwik.php?idsite=36" style="border:0;"/></p></noscript>
+</body>
+</html>

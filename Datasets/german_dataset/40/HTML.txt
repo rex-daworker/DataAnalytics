@@ -1,0 +1,1643 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QSKZKZ');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8"/>
+<title>Studienführer Donau-Universität Krems - Donau-Universität Krems</title>
+<meta content="Studienführer Donau-Universität Krems" name="searchTitle"/>
+<meta content="Studienführer, Studienangebot, Weiterbildung" name="keywords"/>
+<meta content="Der Studienführer bietet Informationen zu allen Studien und Wissenswertes rund um die Donau-Universität Krems. Fordern Sie jetzt Ihr kostenloses Exemplar an!" name="description"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+<link href="/.resources/duk-templates/resources/base.css?v=6cb6418e-3c80-4c39-a6f4-5d5b30194811" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet"/>
+<link href="/.resources/duk-templates/resources/images/favicon.ico" rel="icon" type="image/png"/>
+<meta content="crawler" name="duk-indexer-type"/>
+<meta content="standard_page" name="duk-page-type"/>
+<meta content="/de" name="duk-page-tree"/>
+<meta content="crawler_de" name="duk-suggest-cfq"/>
+<meta content="1970-01-01T00:00:00Z" name="validFrom"/>
+<meta content="2100-01-01T00:00:00Z" name="validTo"/>
+<style>html{visibility: hidden; opacity: 0;}</style> </head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5QSKZKZ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="navigation">
+<nav class="accessibility-nav">
+<ul>
+<li>
+<a href="#search">Zur Suchmaske</a>
+</li>
+<li>
+<a href="#mainContent">Zum Seiteninhalt</a>
+</li>
+<li>
+<a href="#top-nav">Zur Toolnavigation</a>
+</li>
+<li>
+<a href="#main-nav">Zur Hauptnavigation</a>
+</li>
+</ul>
+</nav>
+<nav class="top-nav" id="top-nav">
+<div class="container">
+<div class="left-top-nav col-lg-6">
+<div class="info-dropdown dropdown">
+<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" type="button">Informationen für...<em class="icon-ic_Arrow_Down"></em></button>
+<ul class="dropdown-menu">
+<li>
+<a href="/de/zielgruppen/studieninteressierte.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>Studieninteressierte</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/studierende.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>Studierende</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/wissenschafterinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>WissenschafterInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>Presse &amp; Medien</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/absolventinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>AbsolventInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/besucherinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>BesucherInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/mitarbeiterinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>MitarbeiterInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="right-top-nav col-lg-6">
+<a class="lang-switch" href="/en/studies/programs-of-study.html">
+                English
+                </a>
+<a class="alphabetical" href="/de/glossar.html"><span class="visually-hidden">Zum Glossar</span>Glossar</a>
+<a class="favorite-link overlay-opener" data-src="/de/services/emptyfavoritesoverlaypage.html" href="/de/services/favorites.html"><span class="visually-hidden">Zu den Favoriten</span>Favoriten<em class="icon-ic_Bookmark_Idle"></em></a>
+</div>
+</div>
+</nav>
+<nav class="main-nav" id="main-nav">
+<div class="container">
+<div class="left-main-nav col-lg-2 col-sm-5">
+<span class="helper"></span>
+<a href="/de.html" title="Donau-Universität Krems">
+<img alt="Logo" src="/dam/jcr:5b4ba787-1455-4c72-ab4d-2e78f4ceee7d/duk-logo-blue.svg"/>
+</a>
+</div>
+<div class="mid-main-nav col-lg-7">
+<a class="go-back" href="#">Zurück</a>
+<ul role="menu">
+<li class="uuid-cae4bcb0-0411-4abc-a873-3e7cd313353c"><a href="/de/studium">Studium</a>
+<ul class="duk-mdd">
+<li>
+<div class="megadropdown">
+<div class="container">
+<div class="col-lg-3 bg-transparent conn">
+<div class="hline">
+<p>
+                    Ihr Studium finden
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<!-- headline -->
+<p class="">
+                
+                Nach Themen
+                
+                
+                
+            </p>
+<ul class="linkList">
+<li>
+<a href="/de/studium/studienangebot/bauen-umwelt.html">
+<span>Bauen &amp; Umwelt</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/bildung.html">
+<span>Bildung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/gesundheit-medizin.html">
+<span>Gesundheit &amp; Medizin</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/kunst-kultur.html">
+<span>Kunst &amp; Kultur</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/medien-kommunikation.html">
+<span>Medien &amp; Kommunikation</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/migration-internationales.html">
+<span>Migration &amp; Internationales</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/psychotherapie-soziales.html">
+<span>Psychotherapie &amp; Soziales</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/recht-verwaltung.html">
+<span>Recht &amp; Verwaltung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot/wirtschaft-unternehmensfuehrung.html">
+<span>Wirtschaft &amp; Unternehmensführung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 bg-transparent conn">
+<div class="hline">
+<p class="mdd-no-headline">
+</p>
+</div>
+<!-- headline -->
+<p class="">
+                
+                Nach Studienvariante
+                
+                
+                
+            </p>
+<ul class="linkList">
+<li>
+<a href="/de/studium/studium-suchen.html?queryStr=&amp;submit=1&amp;degrees=PhD">
+<span>PhD</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studium-suchen.html?queryStr=&amp;submit=1&amp;degrees=Master">
+<span>Master</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studium-suchen.html?queryStr=&amp;submit=1&amp;degrees=Akademische%2Fr+Experte%2Fin">
+<span>Akademische/r ExpertIn</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studium-suchen.html?queryStr=&amp;submit=1&amp;degrees=Certified+Program">
+<span>Certified Program</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studium-suchen.html?queryStr=&amp;submit=1&amp;degrees=Seminar+%2F+Modul">
+<span>Seminar / Modul</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Rund ums Studieren
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/studium/studium-suchen.html">
+<span>Studiensuche</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienangebot.html">
+<span>Studienangebot</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/berufsbegleitend-studieren.html">
+<span>Berufsbegleitend studieren</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/barrierefrei-studieren.html">
+<span>Barrierefrei studieren</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienorganisation/zulassung-zum-studium.html">
+<span>Bewerbung &amp; Zulassung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/stipendien-finanzierung.html">
+<span>Stipendien &amp; Finanzierung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/campus-krems/studieren-in-krems.html">
+<span>Studieren in Krems</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/infomaterial-bestellen.html">
+<span>Infomaterial</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/haeufige-fragen.html">
+<span>Häufige Fragen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3">
+<a class="teaser-outer teaser-outer-hl" href="/de/studium/studienfuehrer.html" target="_self">
+<div class="teaser highlight has-tooltip bg-transparent">
+<div class="teaser-flex">
+<div class="img-wrapper center">
+<img alt="Studienführer-Coverbild / Teaser" src="/.imaging/mte/duk-theme/teaser/dam/Donau-Uni/Studium/MDD/teaser-cover-studienfuehrer-2020-2021.jpg/jcr:content/teaser-cover-studienfuehrer-2020-2021.jpg"/>
+</div>
+<div class="content-wrapper">
+<h3>Studienführer 2020/2021</h3>
+<p>Jetzt kostenlos anfordern oder online lesen!</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div><div class="container">
+<div class="col-lg-7 tag-row">
+</div>
+<div class="col-lg-5">
+<p class="caption">Donau-Universität Krems. Die Universität für Weiterbildung.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="uuid-6319bcbe-ac37-47b6-bb00-63b69e9fdca4"><a href="/de/forschung">Forschung</a>
+<ul class="duk-mdd">
+<li>
+<div class="megadropdown">
+<div class="container">
+<div class="col-lg-3 conn">
+<a class="teaser-outer teaser-outer-hl" href="/de/aktuelles/news/2018/core-facility-geraete-eroeffnen-neues-methodenspektrum.html" target="_self">
+<div class="teaser highlight has-tooltip bg-transparent">
+<div class="teaser-flex">
+<div class="img-wrapper center">
+<img alt="Forschung" src="/.imaging/mte/duk-theme/teaser/dam/Donau-Uni/Forschung/MDD/teaser-core-facility-geraete_-_skokanitsch-fotografie.jpg/jcr:content/teaser-core-facility-geraete_-_skokanitsch-fotografie.jpg" title="© Walter Skokanitsch"/>
+</div>
+<div class="content-wrapper">
+<h3>Core Facility</h3>
+<p>Geräte eröffnen neues Methodenspektrum</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Schwerpunkte
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/forschung.html#KohäsiveundinnovativeGesellschaften">
+<span>Kohäsive und innovative Gesellschaften</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung.html#KulturellesErbe">
+<span>Kulturelles Erbe</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung.html#RegenerativeMedizin">
+<span>Regenerative Medizin</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung.html#Weiterbildungsforschung">
+<span>Weiterbildungsforschung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Projekte &amp; Aktuelles
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/forschung.html">
+<span>Aktuelles aus der Forschung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung/forschungshighlights.html">
+<span>Forschungshighlights</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung/forschungsdatenbank.html">
+<span>Forschungsdatenbank</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/berichte.html#Wissensbilanz">
+<span>Wissensbilanz &amp; Forschungsbericht</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Weitere Informationen
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/forschung/forschungsservice.html">
+<span>Forschungsservice</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/phd-studien.html">
+<span>PhD-Studien</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+</div><div class="container">
+<div class="col-lg-7 tag-row">
+</div>
+<div class="col-lg-5">
+<p class="caption">Donau-Universität Krems. Die Universität für Weiterbildung.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="uuid-4cfef30c-308a-43f5-9f05-9004c7eebf16"><a href="/de/aktuelles">Aktuelles</a>
+<ul class="duk-mdd">
+<li>
+<div class="megadropdown">
+<div class="container">
+<div class="col-lg-3 conn empty-subheadline">
+<div class="hline">
+<p>
+                    News &amp; Veranstaltungen
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/aktuelles/news.html">
+<span>News</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/social-media.html">
+<span>Social Media-Wall</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/veranstaltungen.html">
+<span>Veranstaltungen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/newsletter.html">
+<span>Newsletter</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Presse &amp; Medien
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/aktuelles/presse-medien.html">
+<span>Medienarbeit</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien/presseinformationen.html">
+<span>Presseinformationen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien/medienberichte.html">
+<span>Medienberichte</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien/pressefotos-und-downloads.html">
+<span>Pressefotos &amp; Downloads</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien/pressekontakt.html">
+<span>Kontakt</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Upgrade
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/aktuelles/upgrade-das-magazin-fuer-wissen-und-weiterbildung-der-donau-universitaet-krems.html">
+<span>Über das Magazin</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/upgrade-das-magazin-fuer-wissen-und-weiterbildung-der-donau-universitaet-krems/upgrade-3.20-25-jahre-donau-universitaet-krems.html">
+<span>Aktuelle Ausgabe</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/upgrade-das-magazin-fuer-wissen-und-weiterbildung-der-donau-universitaet-krems/archiv.html">
+<span>Übersicht aller Ausgaben</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/upgrade-das-magazin-fuer-wissen-und-weiterbildung-der-donau-universitaet-krems.html#upgradebestellung">
+<span>Ausgaben bestellen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3">
+<a class="teaser-outer teaser-outer-hl" href="/de/aktuelles/news/2020/chancen-nutzen-weiterbildung-und-studium-trotz-covid-19.html" target="_self">
+<div class="teaser highlight bg-transparent">
+<div class="teaser-flex">
+<div class="img-wrapper center">
+<img alt="Online Lernen Donau-Universität Krems" src="/.imaging/mte/duk-theme/teaser/dam/Donau-Uni/Aktuelles/MDD/teaser-perspektiven-online-lernen-donau-universitaet-krems.jpg/jcr:content/teaser-perspektiven-online-lernen-donau-universitaet-krems.jpg"/>
+</div>
+<div class="content-wrapper">
+<h3>Weiterbildung und Studium trotz COVID-19</h3>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div><div class="container">
+<div class="col-lg-7 tag-row">
+</div>
+<div class="col-lg-5">
+<p class="caption">Donau-Universität Krems. Die Universität für Weiterbildung.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="uuid-c0dc30ab-4f76-46fd-8cf4-4928b95f3257"><a href="/de/universitaet">Universität</a>
+<ul class="duk-mdd">
+<li>
+<div class="megadropdown">
+<div class="container">
+<div class="col-lg-3 conn empty-subheadline">
+<div class="hline">
+<p>
+                    Auf einen Blick
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/universitaet.html">
+<span>Wir über uns</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/leitbild-strategie.html">
+<span>Leitbild &amp; Strategie</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/zahlen-fakten.html">
+<span>Zahlen &amp; Fakten</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/berichte.html">
+<span>Berichte</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/geschichte.html">
+<span>Geschichte</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/qualitaetsmanagement.html">
+<span>Qualitätsmanagement</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Leitung &amp; Struktur
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/universitaet/organisation.html">
+<span>Organisation</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/rektorat.html">
+<span>Rektorat</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/gremien-organe.html">
+<span>Gremien &amp; Organe</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/universitaetsverwaltung.html">
+<span>Universitätsverwaltung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/mitarbeiterinnen.html">
+<span>MitarbeiterInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/satzung.html">
+<span>Satzung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/organisationsplan.html">
+<span>Organisationsplan</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/mitteilungsblaetter.html">
+<span>Mitteilungsblätter</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/jobs.html">
+<span>Offene Stellen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Fakultäten
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/universitaet/fakultaeten.html">
+<span>Überblick</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/fakultaeten/gesundheit-medizin.html">
+<span>Gesundheit &amp; Medizin</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/fakultaeten/wirtschaft-globalisierung.html">
+<span>Wirtschaft &amp; Globalisierung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/fakultaeten/bildung-kunst-architektur.html">
+<span>Bildung, Kunst &amp; Architektur</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 empty-subheadline">
+<div class="hline">
+<p>
+                    Campus &amp; Service
+                    <em class="icon-ic-arrow-right"></em>
+</p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/universitaet/campus-krems.html">
+<span>Über den Campus Krems</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/campus-krems/campusplan.html">
+<span>Campus Plan</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/campus-krems/anreise.html">
+<span>Anfahrt &amp; Orientierung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/servicecenter-fuer-internationale-beziehungen.html">
+<span>International</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/bibliothek.html">
+<span>Bibliothek</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/campus-sport.html">
+<span>Campus Sport</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/campus-cultur.html">
+<span>Campus Cultur</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service.html">
+<span>Weitere Services</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+</div><div class="container">
+<div class="col-lg-7 tag-row">
+</div>
+<div class="col-lg-5">
+<p class="caption">Donau-Universität Krems. Die Universität für Weiterbildung.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<p class="mobile-menu-caption">Donau-Universität Krems.<br/> Die Universität für Weiterbildung.</p>
+</div>
+<div class="right-main-nav col-lg-3 col-sm-7">
+<div class="search">
+<form action="/de/services/suche.html" class="ui-front" method="GET">
+<label class="visually-hidden" for="search">Suche nach Stichworten</label>
+<input autocomplete="on" data-contextpath="" data-langtree="de" id="search" name="queryStr" placeholder="Studien, Personen, Events ..." type="search"/>
+<em aria-label="Suche durchführen" class="icon-ic_Search" role="button" tabindex="0"></em>
+</form>
+<a class="mobile-only" href="/de/services/suche.html"><span class="visually-hidden">Zur Suchseite</span><em class="icon-ic_Search"></em></a>
+<a class="favorite-link overlay-opener" data-src="/de/services/emptyfavoritesoverlaypage.html" href="/de/services/favorites.html"><span class="visually-hidden">Zu den Favoriten</span><em class="icon-ic_Bookmark_Idle"></em></a>
+<a class="menu-opener" href="#"><span class="visually-hidden">Menü öffnen/schließen</span><em class="icon-ic_Burger"></em></a>
+</div>
+</div>
+<div class="mobile-menu">
+<div class="mobile-menu-scroll">
+<ul>
+<li><a aria-expanded="false" data-open="uuid-cae4bcb0-0411-4abc-a873-3e7cd313353c" href="#">Studium<em class="icon-ic-arrow-right"></em></a></li>
+<li><a aria-expanded="false" data-open="uuid-6319bcbe-ac37-47b6-bb00-63b69e9fdca4" href="#">Forschung<em class="icon-ic-arrow-right"></em></a></li>
+<li><a aria-expanded="false" data-open="uuid-4cfef30c-308a-43f5-9f05-9004c7eebf16" href="#">Aktuelles<em class="icon-ic-arrow-right"></em></a></li>
+<li><a aria-expanded="false" data-open="uuid-c0dc30ab-4f76-46fd-8cf4-4928b95f3257" href="#">Universität<em class="icon-ic-arrow-right"></em></a></li>
+</ul>
+<div class="mobile-top-nav">
+<p>
+<a class="alphabetical" href="/de/glossar.html"><span class="visually-hidden">Zum Glossar</span>Glossar</a>
+</p>
+<p>
+<a class="lang-switch" href="/en/studies/programs-of-study.html">
+                English
+                </a>
+</p>
+<div class="info-dropdown dropdown init-open">
+<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" type="button">Informationen für...<em class="icon-ic_Arrow_Down"></em></button>
+<ul class="dropdown-menu">
+<li>
+<a href="/de/zielgruppen/studieninteressierte.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>Studieninteressierte</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/studierende.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>Studierende</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/wissenschafterinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>WissenschafterInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>Presse &amp; Medien</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/absolventinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>AbsolventInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/besucherinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>BesucherInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/zielgruppen/mitarbeiterinnen.html">
+<em class="icon-ic-arrow-dropdown-right"></em>
+<span>MitarbeiterInnen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p class="mobile-menu-caption">Donau-Universität Krems.<br/> Die Universität für Weiterbildung.</p>
+</div>
+</div>
+</nav>
+</div>
+<div class="header right" style="background-image: url('/.imaging/mte/duk-theme/headerBanner/dam/Donau-Uni/Studium/Studienfuehrer/Cover-Studienfuerher-2020-2021-Donau-Universitaet-Krems-.jpg/jcr:content/Cover-Studienfuehrer-2020-2021-Donau-Universitaet-Krems-.jpg');">
+<div class="container">
+<nav class="breadcrumb" id="breadcrumb">
+<ul>
+<li><a href="/de/studium.html">Studium</a></li>
+<li>
+<span>Studienführer</span>
+</li>
+</ul>
+<div class="breadcrumb-crawler" style="display: none;">Studium / Studienführer</div>
+</nav>
+<h1>
+            Studienführer
+        </h1>
+<h2>
+                Das Studienprogramm der Donau-Universität Krems
+            </h2>
+<div class="actions">
+<div aria-label="Share-Funktion mit Eingabetaste öffnen" class="icon-ic-header-share_noborder socialshare" tabindex="0" title="Teilen">
+<div class="wrapper">
+<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #3e5b98;" target="_blank">
+<span class="visually-hidden">Auf facebook teilen</span><em class="icon-ic-facebook"></em>
+</a>
+<a class="twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #4da7de;" target="_blank">
+<span class="visually-hidden">Auf twitter teilen</span><em class="icon-ic-twitter"></em>
+</a>
+<a class="whatsapp" href="https://wa.me?text=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #20B038;" target="_blank">
+<span class="visually-hidden">Auf whatsapp teilen</span><em class="icon-ic-whatsapp"></em>
+</a>
+<a class="xing" href="https://www.xing.com/spi/shares/new?url=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #005a60;" target="_blank">
+<span class="visually-hidden">Auf xing teilen</span><em class="icon-ic-xing"></em>
+</a>
+</div>
+<div class="arrow"></div>
+</div>
+<a class="icon-ic-header-email_noborder mailPageToFormLink" href="#" title="Per E-Mail versenden">
+<span class="visually-hidden">Seite per Email senden</span>
+</a>
+<a class="icon-ic-header-print_noborder" href="javascript:print();" title="Drucken">
+<span class="visually-hidden">Seite ausdrucken</span>
+</a>
+<a class="icon-ic-header-bookmark_noborder toggle-favorite" data-uid="website_39842c94-957c-4029-87e3-975de0b7df58" href="#" title="Zu Favoriten hinzufügen">
+<span class="visually-hidden">Zu Favoriten hinzufügen</span>
+</a>
+</div>
+<div class="mailPageToForm">
+<form id="mailPageToForm">
+<input data-form-target="pagetitle" id="pagetitle" name="pagetitle" type="hidden" value="Studienführer"/>
+<input data-form-target="pageurl" id="pageurl" name="pageurl" type="hidden" value="https://www.donau-uni.ac.at/de/studium/studienfuehrer.html"/>
+<input data-form-target="uuid" id="uuid" name="uuid" type="hidden" value="39842c94-957c-4029-87e3-975de0b7df58"/>
+<button class="overlay-opener" data-src="/de/forms/pagemailto.html" id="mailPageToFormSubmit" type="submit">
+<span class="visually-hidden">Seite per Email senden</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+<main id="mainContent">
+<div class="main">
+<aside>
+<nav class="sub-nav">
+<div class="buttons">
+<a class="mopen" href="#"><span class="visually-hidden mobile-only">Subnavigation öffnen</span>Studienführer<em class="icon-ic-burger-arrow"></em></a>
+<a class="mclose" href="#"><span class="visually-hidden mobile-only">Subnavigation schließen</span><em class="icon-ic-delete"></em></a>
+</div>
+<ul class="list">
+<li>
+<a href="/de/studium.html"><span>Studium</span><em class="icon-ic-arrow-down_2"></em></a>
+<ul>
+<li>
+<a href="/de/studium/studienangebot.html"><span>Studienangebot</span><em class="icon-ic-arrow-right"></em></a>
+</li>
+<li class="active">
+<a class="level1" href="/de/studium/studienfuehrer.html"><span>Studienführer</span></a>
+</li>
+<li>
+<a href="/de/studium/englischsprachiges-studienangebot.html"><span>Englischsprachiges Studienangebot</span></a>
+</li>
+<li>
+<a href="/de/studium/phd-studien.html"><span>PhD-Studien</span></a>
+</li>
+<li>
+<a href="/de/studium/infomaterial-bestellen.html"><span>Infomaterial</span></a>
+</li>
+<li>
+<a href="/de/studium/berufsbegleitend-studieren.html"><span>Berufsbegleitend studieren </span></a>
+</li>
+<li>
+<a href="/de/studium/studienorganisation.html"><span>Studienorganisation</span><em class="icon-ic-arrow-right"></em></a>
+</li>
+<li>
+<a href="/de/studium/stipendien-finanzierung.html"><span>Stipendien &amp; Finanzierung</span></a>
+</li>
+<li>
+<a href="/de/studium/donau-uni-im-europaeischen-hochschulraum.html"><span>Donau-Universität Krems im europäischen Hochschulraum</span><em class="icon-ic-arrow-right"></em></a>
+</li>
+<li>
+<a href="/de/studium/haeufige-fragen.html"><span>Häufige Fragen</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+<div class="container">
+<div class="row ">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<!-- headline -->
+<h2 class="hl">
+<span class="">
+                Jetzt informieren und weiterbilden!
+                
+                </span>
+</h2>
+</div>
+</div>
+<div class="row ">
+<div class="col-lg-2 visible-lg-block"></div>
+<div class="col-lg-8 col-md-12 col-sm-12">
+<div class="richtext has-tooltip">
+<p>Als einzige öffentliche Universität für Weiterbildung im deutschsprachigen Raum und führende Universität für Weiterbildung in Europa ist die Donau-Universität Krems auf die Höherqualifizierung von Berufstätigen spezialisiert. Unsere Universitätslehrgänge orientieren sich an aktuellen und zukünftigen gesellschaftlichen Herausforderungen und verbinden ansprechende Lehrmethoden mit zeitgemäßen technischen Ressourcen und erfahrenen Lehrenden.</p>
+<p>Wir sind mit den speziellen Anforderungen berufsbegleitender Lehre bestens vertraut und verfügen über langjährige Erfahrung in Blended-Learning-Formaten. Daher waren wir bereits vor den Herausforderungen rund um COVID-19 bestens gerüstet und können nahezu alle Lehrinhalte - wo nötig und sinnvoll - online unterrichten.</p>
+<p>Im Studienführer finden Sie Informationen zu allen Studien und Wissenswertes rund um die Universität und den Campus Krems.</p>
+</div>
+</div>
+<div class="col-lg-2 visible-lg-block"></div>
+</div>
+</div>
+<div class="container">
+<div class="row ">
+<div class="col-lg-2 visible-lg-block"></div>
+<div class="col-lg-8 col-md-12 col-sm-12">
+<div class="teaser dimisit bro">
+<div class="img-wrapper">
+<img alt="Studienführer 2020/2021" src="/.imaging/mte/duk-theme/infoThumb/dam/Donau-Uni/Studium/Infomaterial/covers_infomaterial/Studienfuehrer-20202021-Donau-Universitaet-Krems.jpg/jcr:content/Studienfuehrer-20202021-Donau-Universitaet-Krems.jpg"/>
+</div>
+<div class="content-wrapper">
+<h3>Studienführer 2020/2021</h3>
+<p>Der Studienführer der Donau-Universität Krems bietet Studieninteressierten einen Überblick über das vielfältige Studienangebot. 
+Jetzt downloaden oder kostenlos  anfordern!
+</p>
+<div class="buttons">
+<a aria-label="Download" href="/dam/jcr:b639314f-3058-47e4-a4ff-784cf7b0320d/Studienfuehrer-2020-2021-Donau-Universitaet-Krems.pdf" role="button"><span>Download</span><em class="icon-ic-download"></em></a>
+</div>
+</div>
+</div>
+<a class="more-link dynamic order-infomaterial imp-more-link" data-uids="infoMaterials_8af62453-59c5-4f70-9559-2770a86def91" href="/de/services/infomaterialbestellung.html">
+<div class="hspacing">
+<div>
+<span>Diese und weitere Broschüren bestellen</span>
+</div><em class="icon-ic_CTA"><em class="path1"></em><em class="path2"></em></em>
+</div>
+</a>
+</div>
+<div class="col-lg-2 visible-lg-block"></div>
+</div>
+</div>
+<div class="container">
+<div class="row ">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<!-- headline -->
+<h2 class="hl">
+<span class="">
+                Studienführer online durchblättern
+                
+                </span>
+</h2>
+</div>
+</div>
+<div class="row ">
+<div class="col-lg-2 visible-lg-block"></div>
+<div class="col-lg-8 col-md-12 col-sm-12">
+<div class="video-container">
+<div class="scalable-video">
+<div class="video-wrapper embed-responsive embed-responsive-16by9">
+<iframe allow="fullscreen" allowfullscreen="" src="//e.issuu.com/embed.html?d=studienfuehrer-donau-universitaet-krems-2020-2021&amp;u=upgrade-online" style="border:none;width:100%;height:326px;" title="Studienführer online durchblättern - issuu Einbindung"></iframe>
+</div>
+</div>
+</div><!-- end video-container -->
+</div>
+<div class="col-lg-2 visible-lg-block"></div>
+</div>
+</div>
+<div class="container">
+<div class="row ">
+<div class="col-lg-2 visible-lg-block"></div>
+<div class="col-lg-8 col-md-12 col-sm-12">
+<div class="teaser teaser-outer noline">
+<a href="/de/aktuelles/veranstaltungen/info-veranstaltungen.html" target="_self">
+<h3>Studieninfo-Veranstaltungen</h3>
+<div class="img-wrapper center">
+<img alt="Studieninteressierte hören dem Vortragenden zu" src="/.imaging/mte/duk-theme/teaser/dam/DUK-Bildwelt/Lehre/Teaserbilder/donauunikrems_lehre_teaser038.jpg/jcr:content/donauunikrems_lehre_teaser038.jpg" title="© Walter Skokanitsch"/>
+</div>
+<p>
+                        In unseren Info-Veranstaltungen erfahren Studieninteressierte alles Wissenswerte rund um die verschiedenen Universitätslehrgänge. Jetzt online besuchen!
+                    </p>
+</a>
+</div>
+</div>
+<div class="col-lg-2 visible-lg-block"></div>
+</div>
+</div>
+<div class="container">
+<div class="row ">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<!-- headline -->
+<h2 class="hl">
+<span class="">
+                Weitere Informationen
+                
+                </span>
+</h2>
+</div>
+</div>
+<div class="row gridsystem">
+<div class="col-lg-6 col-md-6 col-sm-12">
+<div class="teaser teaser-outer first-teaser-entry noline">
+<a href="/de/studium/berufsbegleitend-studieren.html" target="_self">
+<h3>Berufsbegleitend studieren</h3>
+<div class="img-wrapper center">
+<img alt="Student lächelt in die Kamera" src="/.imaging/mte/duk-theme/teaser/dam/DUK-Bildwelt/Headerbilder-Beispiele/Header-berufsbegleitend-studieren.jpg/jcr:content/Header%20berufsbegleitend%20studieren.jpg" title="© Walter Skokanitsch"/>
+</div>
+<p>
+                        Das Studienangebot der Donau-Universität Krems geht speziell auf die Anforderungen erwachsener Lernender ein. Sie bietet ihren Studierenden die Möglichkeit, neben einem bestehenden Beschäftigungsverhältnis ein wissenschaftliches Weiterbildungsstudium zu absolvieren und damit Kompetenzen für die berufliche und persönliche Weiterentwicklung zu erwerben.
+                    </p>
+</a>
+</div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12">
+<div class="teaser teaser-outer has-tooltip first-teaser-entry">
+<a href="/de/aktuelles/news/2020/chancen-nutzen-weiterbildung-und-studium-trotz-covid-19.html" target="_self">
+<h3>Online-Lehre an der Donau-Universität</h3>
+<div class="img-wrapper center">
+<img alt="" src="/.imaging/mte/duk-theme/teaser/dam/Donau-Uni/Aktuelles/News-und-Veranstaltungen/News/2020/Suche-nach-dem-idealen-Lernraum/teaser-perspektiven-online-lernen-donau-universitaet-krems.jpg/jcr:content/teaser-perspektiven-online-lernen-donau-universitaet-krems.jpg"/>
+</div>
+<p style="margin-left:0px; margin-right:0px">Langjährige Erfahrung mit E-Learning-Formaten, digitale Lernplattformen und erfahrene MitarbeiterInnen in der Online-Lehre zeichnen das Studien-Programm der Donau-Universität Krems aus.</p>
+</a>
+</div>
+</div>
+</div><!-- end of row... -->
+</div>
+<div class="container">
+<div class="row gridsystem">
+<div class="col-lg-6 col-md-6 col-sm-12">
+<div class="teaser teaser-outer first-teaser-entry noline">
+<a href="/de/universitaet/service/barrierefrei-studieren.html" target="_self">
+<h3>Barrierefrei studieren</h3>
+<div class="img-wrapper center">
+<img alt="Mann im Rollstuhl" src="/.imaging/mte/duk-theme/teaser/dam/Donau-Uni/Universitaet/Service/SSC/Barrierefrei-studieren/Barrierefrei-Studieren-Rollstuhl-Beeintraechtigung-Donau-Universitaet-Krems-teaser.jpg/jcr:content/Barrierefrei-Studieren-Rollstuhl-Beeintraechtigung-Donau-Universitaet-Krems-Teaser.jpg" title="© istockphoto.com/Drazen_"/>
+</div>
+<p>
+                        Die Behindertenbeauftragte der Donau-Universität Krems unterstützt Studierende mit Behinderung und/oder chronischer Erkrankung vor und während des Studiums.
+                    </p>
+</a>
+</div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12">
+<div class="teaser teaser-outer first-teaser-entry noline">
+<a href="/de/studium/haeufige-fragen.html" target="_self">
+<h3>Häufige Fragen</h3>
+<div class="img-wrapper center">
+<img alt="Häufige Fragen" src="/.imaging/mte/duk-theme/teaser/dam/Donau-Uni/Studium/FAQ/faq_teaser.jpg/jcr:content/faq_teaser.jpg" title="© Walter Skokanitsch"/>
+</div>
+<p>
+                        Ist die Donau-Universität Krems eine öffentliche oder private Universität? Was versteht man unter einem Universitätslehrgang? Wir beantworten Ihre Fragen. 
+                    </p>
+</a>
+</div>
+</div>
+</div><!-- end of row... -->
+</div>
+<div class="container">
+<div class="row ">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<!-- headline -->
+<h2 class="hl pp-headline">
+<span class="">
+                Kontakt
+                
+                </span>
+</h2>
+</div>
+</div>
+<div class="row ">
+<div class="col-lg-2 visible-lg-block"></div>
+<div class="col-lg-8 col-md-12 col-sm-12">
+<div class="peoplePicker">
+<div class="img-wrapper">
+<img alt="Stefanie Kamleitner" src="/.imaging/mte/duk-theme/peoplePicker/dam/MitarbeiterInnen/J-L/Kamleitner_Stefanie-c-Andrea-Reischer.jpg/jcr:content/Kamleitner_Stefanie-c-Andrea-Reischer.jpg" title="© Andrea Reischer"/>
+</div>
+<div class="person-info">
+<div class="person">
+<h3>
+<a href="/de/universitaet/organisation/mitarbeiterinnen/person/4295314528"><span>Stefanie Kamleitner</span></a>
+</h3>
+<p>
+<a class="orgunit" href="/de/universitaet/organisation/universitaetsverwaltung/abteilung-fuer-kommunikation-marketing-und-pr/dle-marketing-und-marketing-services.html"><span>
+        Mitarbeiterin
+        -
+        DLE Marketing und Marketing Services
+        </span></a>
+</p>
+</div>
+<div class="contact">
+<ul>
+<li>
+<a class="email" href="mailto:stefanie.kamleitner@donau-uni.ac.at">stefanie.kamleitner@donau-uni.ac.at</a>
+</li>
+<li>
+<a class="phone" href="tel:+432732893-2250">+43 2732 893-2250</a>
+</li>
+<li>
+<input data-form-target="formtype_contactform_uuid" type="hidden" value="9cbfe399-6327-4dd7-a2e9-2b32c90e93b1"/>
+<input data-form-target="formtype_contactform_inv" type="hidden" value=""/>
+<a class="overlay-opener" data-src="/de/forms/contactform.html" href="#">
+<span>Zum Kontaktformular</span>
+</a>
+</li>
+<li>
+<a class="overlay-opener ip-opener" data-src="/de/services/infopointmapiframe.html?id=9cbfe399-6327-4dd7-a2e9-2b32c90e93b1&amp;ws=dukobjects" href="#">
+<span class="value">
+                                            Campus Krems, Trakt T, 4. Stock
+                                        </span>
+</a>
+</li>
+</ul>
+</div>
+<div class="downloads">
+<a aria-label="vCard" href="/vcard/4295314528?language=de" role="button" target="_blank">
+<em class="icon-ic-download"></em>
+<span>vCard</span>
+</a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="col-lg-2 visible-lg-block"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="container" id="bottom-actions">
+<div class="row ">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<div class="actions">
+<div aria-label="Share-Funktion mit Eingabetaste öffnen" class="icon-ic-header-share_noborder socialshare" tabindex="0" title="Teilen">
+<div class="wrapper">
+<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #3e5b98;" target="_blank">
+<span class="visually-hidden">Auf facebook teilen</span><em class="icon-ic-facebook"></em>
+</a>
+<a class="twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #4da7de;" target="_blank">
+<span class="visually-hidden">Auf twitter teilen</span><em class="icon-ic-twitter"></em>
+</a>
+<a class="whatsapp" href="https://wa.me?text=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #20B038;" target="_blank">
+<span class="visually-hidden">Auf whatsapp teilen</span><em class="icon-ic-whatsapp"></em>
+</a>
+<a class="xing" href="https://www.xing.com/spi/shares/new?url=http%3A%2F%2Fwww.donau-uni.ac.at%2Fde%2Fstudium%2Fstudienfuehrer.html%3Bjsessionid%3D0F2A415257B7E08368640168F503B7C0%3Fgclid%3DEAIaIQobChMI-KKm5Irn4wIVwcYYCh2JRgHIEAMYASAAEgIr2vD_BwE" style="background-color: #005a60;" target="_blank">
+<span class="visually-hidden">Auf xing teilen</span><em class="icon-ic-xing"></em>
+</a>
+</div>
+<div class="arrow"></div>
+</div>
+<a class="icon-ic-header-email_noborder mailPageToFormLink" href="#" title="Per E-Mail versenden">
+<span class="visually-hidden">Seite per Email senden</span>
+</a>
+<a class="icon-ic-header-print_noborder" href="javascript:print();" title="Drucken">
+<span class="visually-hidden">Seite ausdrucken</span>
+</a>
+<a class="icon-ic-header-bookmark_noborder toggle-favorite" data-uid="website_39842c94-957c-4029-87e3-975de0b7df58" href="#" title="Zu Favoriten hinzufügen">
+<span class="visually-hidden">Zu Favoriten hinzufügen</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="cta back-to-top">
+<a class="button" href="#" role="button"> <!-- back-to-top -->
+<span class="visually-hidden">Zum Anfang der Seite</span>
+<em class="icon-ic-tailarrow"></em>
+</a>
+</div>
+</main>
+<div class="" id="overlay">
+<div class="blender"></div>
+<div class="inline-content" tabindex="-1"></div>
+<iframe id="overlayIframe" name="iframe1" tabindex="-1" title="Titel"> </iframe>
+<!-- wpxp-dot-loading -->
+<div class="wpxp-dot-loading">
+<div></div>
+<div></div>
+<div></div>
+</div>
+<!-- wpxp-dot-loading -->
+</div>
+<div class="tooltip glossary" data-glossary-page="/de/glossar.html" data-glossary-xml="/de/webservice/glossaryentryxml.html">
+<p class="bold"> </p>
+<div class="tt-content"></div>
+<a href="/de/glossar.html">
+        Zum Glossar           
+        <em class="icon-ic_CTA"><em class="path1"></em><em class="path2"></em></em>
+</a>
+</div>
+<div class="cookieMessage accepted">
+<div class="container">
+<div class="richtext">
+<p>Diese Website verwendet Cookies zur Verbesserung Ihrer Nutzererfahrung und für analytische Zwecke zur Optimierung unserer Systeme, sowie Google Maps zur Darstellung von Plänen. Indem Sie auf „OK" klicken bzw. die Website weiter verwenden, stimmen Sie der Cookie- und Google Maps Nutzung zu. Mehr Information zum <a href="/de/universitaet/datenschutz.html">Datenschutz</a>.</p>
+</div>
+<div class="buttonWrapper">
+<a class="button button--fluid" href="#" role="button">OK</a>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="col-lg-3 col-sm-12">
+<!-- headline -->
+<h3 class="hl">
+<span class="">
+                Studium &amp; Forschung
+                
+                </span>
+</h3>
+<ul class="linkList">
+<li>
+<a href="/de/studium/studienangebot.html">
+<span>Studienangebot</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/berufsbegleitend-studieren.html">
+<span>Berufsbegleitend studieren</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/barrierefrei-studieren.html">
+<span>Barrierefrei studieren</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/studienorganisation/zulassung-zum-studium.html">
+<span>Bewerbung &amp; Zulassung</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/studienservicecenter.html">
+<span>StudienServiceCenter</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung/forschungshighlights.html">
+<span>Forschungshighlights</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/forschung/forschungsdatenbank/projekte.html">
+<span>Forschungsdatenbank</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/ueber-uns/rechtlicher-rahmen.html#Wissensbilanz">
+<span>Wissensbilanz &amp; Forschungsbericht</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+</li>
+</ul>
+<!-- headline -->
+<h3 class="hl">
+<span class="">
+                Quicklinks
+                
+                </span>
+</h3>
+<ul class="linkList">
+<li>
+<a href="https://moodle.donau-uni.ac.at/moodle/login/index.php" target="_blank">
+<span>Moodle (eLearning)</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="https://online.donau-uni.ac.at/DUKonline/webnav.ini" target="_blank">
+<span>DUKonline</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="https://webmail.donau-uni.ac.at" target="_blank">
+<span>Webmail</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 col-sm-12">
+<!-- headline -->
+<h3 class="hl">
+<span class="">
+                Aktuelles
+                
+                </span>
+</h3>
+<ul class="linkList">
+<li>
+<a href="/de/aktuelles.html">
+<span>News &amp; Veranstaltungen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/presse-medien.html">
+<span>Presse &amp; Medien</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/upgrade-das-magazin-fuer-wissen-und-weiterbildung-der-donau-universitaet-krems.html">
+<span>Magazin upgrade</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/social-media.html">
+<span>Social Media Wall</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/mitteilungsblaetter.html">
+<span>Mitteilungsblätter</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/aktuelles/newsletter.html">
+<span>Newsletter</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/jobs.html">
+<span>Offene Stellen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 col-sm-12">
+<!-- headline -->
+<h3 class="hl">
+<span class="">
+                Universität
+                
+                </span>
+</h3>
+<ul class="linkList">
+<li>
+<a href="/de/universitaet/ueber-uns.html">
+<span>Über uns</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/fakultaeten.html">
+<span>Fakultäten</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service.html">
+<span>Service</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/bibliothek.html">
+<span>Bibliothek</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/campus-krems.html">
+<span>Über den Campus Krems</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/campus-sport.html">
+<span>Campus Sport</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/campus-cultur.html">
+<span>Campus Cultur</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/service/alumni-club.html">
+<span>Alumni-Club</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/studium/haeufige-fragen.html">
+<span>Häufige Fragen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 col-sm-12">
+<!-- headline -->
+<h3 class="hl">
+<span class="">
+                Kontakt
+                
+                </span>
+</h3>
+<div class="richtext has-tooltip">
+<p>Dr.-Karl-Dorrek-Straße 30<br/>
+3500 Krems</p>
+<p><a href="mailto:info@donau-uni.ac.at">info@donau-uni.ac.at</a><br/>
+<a href="tel:+43 2732 893 6000">+43 (0)2732 893 6000</a></p>
+</div>
+<ul class="linkList">
+<li>
+<a href="/de/universitaet/service/studienservicecenter/infopoint.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Infopoint</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/organisation/mitarbeiterinnen.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Personen</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/campus-krems/anreise.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Anreise</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/campus-krems/campusplan.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Campus-Plan</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/erklaerung-zur-barrierefreiheit.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Erklärung zur Barrierefreiheit</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/impressum.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Offenlegung &amp; Impressum</span>
+<div class="clearfix"></div>
+</a>
+</li>
+<li>
+<a href="/de/universitaet/datenschutz.html">
+<em class="icon-ic-arrow-right-frk"></em>
+<span>Datenschutz</span>
+<div class="clearfix"></div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<div class="socicon">
+<a class="icon-ic-facebook" href="https://de-de.facebook.com/donau.uni/" target="_blank">
+<span class="visually-hidden">DUK facebook</span>
+</a>
+<a class="icon-ic-linkedin" href="https://at.linkedin.com/school/donau.uni/" target="_blank">
+<span class="visually-hidden">DUK linkedin</span>
+</a>
+<a class="icon-ic-twitter" href="https://twitter.com/donau_uni?lang=de" target="_blank">
+<span class="visually-hidden">DUK twitter</span>
+</a>
+<a class="icon-ic-instagram" href="https://www.instagram.com/donau.uni/?hl=de" target="_blank">
+<span class="visually-hidden">DUK instagram</span>
+</a>
+<a class="icon-ic-youtube" href="https://www.youtube.com/user/danubeuniversity" target="_blank">
+<span class="visually-hidden">DUK youtube</span>
+</a>
+</div>
+<p class="footer-caption">Donau-Universität Krems. Die Universität für Weiterbildung.</p>
+</div>
+</div>
+</div>
+</div>
+<script>
+    var i18n = {
+        "bookmarkActive": "Von Favoriten entfernen",
+        "bookmarkInactive": "Zu Favoriten hinzufügen",
+        "deleteEntry": "Eintrag löschen",
+        "filterboxBlockActive": "Filter nach Status verstecken",
+        "filterboxBlockInactive": "Filter nach Status zeigen",
+        "filterboxSublevelActive": "Unterpunkte einklappen",
+        "filterboxSublevelInactive": "Unterpunkte ausklappen",
+        "socialshareActive": "Share-Funktion mit Eingabetaste schließen",
+        "socialshareInactive": "Share-Funktion mit Eingabetaste öffnen",
+        "glossaryLabel": "Glossareintrag",
+        "ecommerceProductImagesliderPrevButtonLabel": "Voriges Bild anzeigen",
+        "ecommerceProductImagesliderNextButtonLabel": "Nächstes Bild anzeigen"
+    };
+</script>
+<script src="/.resources/duk-templates/resources/base.min.js?v=6cb6418e-3c80-4c39-a6f4-5d5b30194811"></script>
+<script>
+    setContextRoot('');
+</script>
+</body>
+</html>

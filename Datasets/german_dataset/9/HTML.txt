@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="de">
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	CPS-IT GmbH http://www.cps-it.de/
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<base href="https://www.handelskammer.dk/"/>
+<link href="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen berät Sie gerne zu den Themen Markteinstieg, Export, Findung von Geschäftspartnern und Personal, sowie zu Recht, Steuer und Finanzfragen. Wir verfügen über ein umfangreiches Wissen über den dänischen Markt und können Ihnen mit unserem weiten Netzwerk behilflich sein." name="description"/>
+<meta content="index, follow" name="robots"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Deutsch-Dänische Handelskammer Kopenhagen Beratung Export Gesetze Markteinstieg Suche von Geschäftspartnern beachten Personal, Recht, Steuer und Finanzfragen Experten Wissen über dänischen Markt danish market Netzwerk" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Deutsch-Dänische Handelskammer" name="rights"/>
+<meta content="rG9Vj6VXU3Vrk-CQ1J5Ay4ZbMMF_TcDL1rss7QaM7dM" name="google-site-verification"/>
+<meta content="5" name="revisit-after"/>
+<meta content="IE=edge,chrome=1" name="compatible"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<link href="/typo3temp/assets/compressed/merged-bb65af30f6ee9fa5d12df531c36c383e-2f78fe782b2933b1d473843607f564cf.css?1605029344" media="all" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+/*<![CDATA[*/
+<!-- 
+/*InlineDefaultCss*/
+/* default styles for extension "tx_multicolumn_pi1" */
+	.clearfix:after {
+		clear:both;
+		content:".";
+		display:block;
+		font-size:0;
+		height:0;
+		visibility:hidden;
+	}
+
+	.columnItems,
+	.multicolumnContainer {
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+	}
+
+	.multicolumnContainer .column {
+		float: left;
+	}
+
+-->
+/*]]>*/
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+/*_scriptCode*/
+
+			/* decrypt helper function */
+		function decryptCharcode(n,start,end,offset) {
+			n = n + offset;
+			if (offset > 0 && n > end) {
+				n = start + (n - end - 1);
+			} else if (offset < 0 && n < start) {
+				n = end - (start - n - 1);
+			}
+			return String.fromCharCode(n);
+		}
+			/* decrypt string */
+		function decryptString(enc,offset) {
+			var dec = "";
+			var len = enc.length;
+			for(var i=0; i < len; i++) {
+				var n = enc.charCodeAt(i);
+				if (n >= 0x2B && n <= 0x3A) {
+					dec += decryptCharcode(n,0x2B,0x3A,offset);	/* 0-9 . , - + / : */
+				} else if (n >= 0x40 && n <= 0x5A) {
+					dec += decryptCharcode(n,0x40,0x5A,offset);	/* A-Z @ */
+				} else if (n >= 0x61 && n <= 0x7A) {
+					dec += decryptCharcode(n,0x61,0x7A,offset);	/* a-z */
+				} else {
+					dec += enc.charAt(i);
+				}
+			}
+			return dec;
+		}
+			/* decrypt spam-protected emails */
+		function linkTo_UnCryptMailto(s) {
+			location.href = decryptString(s,-1);
+		}
+		
+
+/*]]>*/
+</script>
+<!-- check if javascript is enabled (replace no-js class on html element) -->
+<script>
+        var htmlElement = document.documentElement;
+        htmlElement.classList.remove('no-js');
+        htmlElement.classList.add('js');
+        htmlElement.classList.add('enhanced');
+
+        // project settings
+        window.projectSettings = {
+            config: {
+                system: {
+                    code: 'live' // lab/dev/stage/live (CMS application context)
+                }
+            }
+        }
+    </script> <script type="text/javascript">
+      (function(window, document, dataLayerName, id) {
+        window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+        function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString()}document.cookie=a+"="+b+d+"; path=/"}
+        var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+        var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+        tags.async=!0,tags.src="//ahk.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+        !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+      })(window, document, 'dataLayer', '2423350a-d841-4615-85b0-a4c339a8187f');
+  </script><noscript><iframe height="0" src="//ahk.containers.piwik.pro/2423350a-d841-4615-85b0-a4c339a8187f/noscript.html" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script type="text/javascript">AHK = {                renderConfig: {
+                    'system': 2
+                },mapMarker:'',mapLocation: {latitude:0,longitude:0}}</script>
+<title>Die Deutsch-Dänische Handelskammer in Kopenhagen</title>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.handelskammer.dk/" property="og:url"/>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen berät Sie gerne zu den Themen Markteinstieg, Export, Findung von Geschäftspartnern und Personal, sowie zu Recht, Steuer und Finanzfragen. Wir verfügen..." property="og:description"/>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen" property="og:site_name"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen" name="twitter:site"/>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen" name="twitter:title"/>
+<meta content="Die Deutsch-Dänische Handelskammer in Kopenhagen berät Sie gerne zu den Themen Markteinstieg, Export, Findung von Geschäftspartnern und Personal, sowie zu Recht, Steuer und Finanzfragen. Wir verfügen..." name="twitter:description"/>
+<meta content="https://images.admiralcloud.com/v3/deliverEmbed/8c402fc0-dcd1-4623-944b-562b1bce4a26/image/" property="og:image"/>
+<meta content="https://images.admiralcloud.com/v3/deliverEmbed/8c402fc0-dcd1-4623-944b-562b1bce4a26/image/" property="twitter:image"/>
+<link href="https://www.handelskammer.dk/" hreflang="de" rel="alternate"/>
+<link href="https://www.handelskammer.dk/da/" hreflang="da" rel="alternate"/>
+<link href="https://www.handelskammer.dk/" hreflang="x-default" rel="alternate"/>
+<link href="https://www.handelskammer.dk/" rel="canonical"/>
+</head>
+<body class="p-home" id="link-to-top">
+<div class="g-page-wrapper">
+<header class="b-header" role="banner">
+<div class="b-header__row b-header__row--1">
+<div class="b-header__row--1__inner">
+<div class="g-container g-clearfix">
+<div class="b-header__logo">
+<img class="logo logo--mobile" src="https://images.admiralcloud.com/v3/deliverEmbed/8c402fc0-dcd1-4623-944b-562b1bce4a26/image/"/><img class="logo logo--enhanced" src="https://images.admiralcloud.com/v3/deliverEmbed/e65e7df3-9b18-4c33-bdd2-4fd56a2ace36/image/"/>
+</div>
+<div class="b-header__icons">
+<ul class="b-store-icons"></ul>
+<ul class="b-social-icons"><li><a class="icon icon--linkedin" href="https://www.linkedin.com/company/german-danish-chamber-of-commerce/" target="_blank">https://www.linkedin.com/company/german-danish-chamber-of-commerce/</a></li><li><a class="icon icon--twitter" href="https://twitter.com/rperau" target="_blank">https://twitter.com/rperau</a></li><li><a class="icon icon--xing" href="https://www.xing.com/companies/ahkd%C3%A4nemark" target="_blank">https://www.xing.com/companies/ahkd%C3%A4nemark</a></li><li><a class="icon icon--youtube" href="https://www.youtube.com/channel/UCdJYAT_W9ZV01rqDWQOBUow/featured" target="_blank">https://www.youtube.com/channel/UCdJYAT_W9ZV01rqDWQOBUow/featured</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="b-header__row b-header__row--2">
+<div class="g-container g-clearfix">
+<div class="b-header__menu-main-wrapper">
+<div class="b-header__menu-main--core-trigger">
+<div class="b-menu-main--core-trigger">
+<a href="#trigger__menu-main--core"></a>
+</div>
+</div>
+<div class="b-header__menu-main">
+<nav class="b-menu-main" role="navigation">
+<ul class="b-menu-main__list"><li class="b-menu-main__list__item b-menu-main__list__item--first"><a href="/dienstleistungen">Dienstleistungen</a><ul class="b-menu-main__list--level2"><li class="b-menu-main__list__item b-menu-main__list__item--first"><a href="/dienstleistungen/marktberatung">Marktberatung</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/rechtsberatung">Rechtsberatung</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/steuerberatung">Steuerberatung</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/lohn-und-finanzbuchhaltung">Lohn- und Finanzbuchhaltung</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/personalvermittlung">Personalvermittlung</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/islandberatung">Islandberatung</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/pr-service">PR-Service</a></li><li class="b-menu-main__list__item"><a href="/dienstleistungen/un-beschaffung">UN-Beschaffung</a></li><li class="b-menu-main__list__item b-menu-main__list__item--last"><a href="/dienstleistungen/ausschreibungsueberwachung">Ausschreibungsüberwachung</a></li></ul></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft">Mitgliedschaft</a><ul class="b-menu-main__list--level2"><li class="b-menu-main__list__item b-menu-main__list__item--first"><a href="/mitgliedschaft/ueber-die-mitgliedschaft">Mitgliedervorteile</a></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft/mitglied-werden">Mitglied werden</a></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft/firmen-und-mitgliederverzeichnis">Firmen- und Mitgliederverzeichnis</a></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft/neue-mitglieder">Neue Mitglieder</a></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft/members4members">Members4Members</a></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft/premium-mitgliedschaft">Premium-Mitgliedschaft</a></li><li class="b-menu-main__list__item"><a href="/mitgliedschaft/mitgliederportal">Mitgliederportal</a></li><li class="b-menu-main__list__item b-menu-main__list__item--last"><a href="/mitgliedschaft/mitgliedschaft-fuer-tech-start-ups">Mitgliedschaft für Tech Start-Ups</a></li></ul></li><li class="b-menu-main__list__item"><a href="/events">Events</a><ul class="b-menu-main__list--level2"><li class="b-menu-main__list__item b-menu-main__list__item--first"><a href="/events-2">Eventübersicht</a></li><li class="b-menu-main__list__item"><a href="/events/vergangene-veranstaltungen">Rückblick</a></li><li class="b-menu-main__list__item"><a href="/events/awards">Awards</a></li><li class="b-menu-main__list__item b-menu-main__list__item--last"><a href="/events/raumvermietung">Raumvermietung</a></li></ul></li><li class="b-menu-main__list__item b-menu-main__list__item--last"><a href="/newsroom">Newsroom</a><ul class="b-menu-main__list--level2"><li class="b-menu-main__list__item b-menu-main__list__item--first"><a href="/newsroom-1">News</a></li><li class="b-menu-main__list__item"><a href="/newsroom/newsletter">Newsletter</a></li><li class="b-menu-main__list__item"><a href="/newsroom/publikationen">Publikationen</a></li><li class="b-menu-main__list__item"><a href="/newsroom/umfragen">Umfragen</a></li><li class="b-menu-main__list__item b-menu-main__list__item--last"><a href="/newsroom/podcast-1">Podcast</a></li></ul></li></ul>
+</nav>
+</div>
+<div class="b-header__menu-main-mobile">
+<nav class="b-menu-main-mobile" id="js-mMenu">
+<ul class="b-menu-main-mobile__list b-menu-main-mobile__list--level1"><li class="b-menu-main-mobile-close" id="js-menu-main-mobile-close"><span>Menü ausblenden</span></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--first"><a href="/dienstleistungen">Dienstleistungen</a><ul class="b-menu-main-mobile__list--level2"><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--first"><a href="/dienstleistungen/marktberatung">Marktberatung</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/rechtsberatung">Rechtsberatung</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/steuerberatung">Steuerberatung</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/lohn-und-finanzbuchhaltung">Lohn- und Finanzbuchhaltung</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/personalvermittlung">Personalvermittlung</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/islandberatung">Islandberatung</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/pr-service">PR-Service</a></li><li class="b-menu-main-mobile__list__item"><a href="/dienstleistungen/un-beschaffung">UN-Beschaffung</a></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--last"><a href="/dienstleistungen/ausschreibungsueberwachung">Ausschreibungsüberwachung</a></li></ul></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft">Mitgliedschaft</a><ul class="b-menu-main-mobile__list--level2"><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--first"><a href="/mitgliedschaft/ueber-die-mitgliedschaft">Mitgliedervorteile</a></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft/mitglied-werden">Mitglied werden</a></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft/firmen-und-mitgliederverzeichnis">Firmen- und Mitgliederverzeichnis</a></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft/neue-mitglieder">Neue Mitglieder</a></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft/members4members">Members4Members</a></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft/premium-mitgliedschaft">Premium-Mitgliedschaft</a></li><li class="b-menu-main-mobile__list__item"><a href="/mitgliedschaft/mitgliederportal">Mitgliederportal</a></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--last"><a href="/mitgliedschaft/mitgliedschaft-fuer-tech-start-ups">Mitgliedschaft für Tech Start-Ups</a></li></ul></li><li class="b-menu-main-mobile__list__item"><a href="/events">Events</a><ul class="b-menu-main-mobile__list--level2"><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--first"><a href="/events-2">Eventübersicht</a></li><li class="b-menu-main-mobile__list__item"><a href="/events/vergangene-veranstaltungen">Rückblick</a></li><li class="b-menu-main-mobile__list__item"><a href="/events/awards">Awards</a></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--last"><a href="/events/raumvermietung">Raumvermietung</a></li></ul></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--last"><a href="/newsroom">Newsroom</a><ul class="b-menu-main-mobile__list--level2"><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--first"><a href="/newsroom-1">News</a></li><li class="b-menu-main-mobile__list__item"><a href="/newsroom/newsletter">Newsletter</a></li><li class="b-menu-main-mobile__list__item"><a href="/newsroom/publikationen">Publikationen</a></li><li class="b-menu-main-mobile__list__item"><a href="/newsroom/umfragen">Umfragen</a></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--last"><a href="/newsroom/podcast-1">Podcast</a></li></ul></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--store"><span><ul class="b-store-icons"></ul></span></li><li class="b-menu-main-mobile__list__item b-menu-main-mobile__list__item--social"><span><ul class="b-social-icons"><li><a class="icon icon--linkedin" href="https://www.linkedin.com/company/german-danish-chamber-of-commerce/" target="_blank">https://www.linkedin.com/company/german-danish-chamber-of-commerce/</a></li><li><a class="icon icon--twitter" href="https://twitter.com/rperau" target="_blank">https://twitter.com/rperau</a></li><li><a class="icon icon--xing" href="https://www.xing.com/companies/ahkd%C3%A4nemark" target="_blank">https://www.xing.com/companies/ahkd%C3%A4nemark</a></li><li><a class="icon icon--youtube" href="https://www.youtube.com/channel/UCdJYAT_W9ZV01rqDWQOBUow/featured" target="_blank">https://www.youtube.com/channel/UCdJYAT_W9ZV01rqDWQOBUow/featured</a></li></ul></span></li></ul>
+</nav>
+</div>
+<div class="b-header__menu-main-mobile-trigger">
+<div class="b-menu-main-mobile-trigger" id="js-menu-main-mobile-trigger"><span></span></div>
+</div>
+</div>
+<div class="b-header__search">
+<div class="tx-solr">
+<div class="b-page-search tx-solr-searchbox">
+<form accept-charset="utf-8" action="/search" data-suggest="/search?type=7384" data-suggest-header="Top Treffer" id="tx-solr-search-form-pi-search" method="get">
+<input class="tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control" name="tx_solr[q]" type="text" value=""/>
+<button alt="Suche" class="btn btn-default tx-solr-submit" id="inputButton" title="Suche" type="submit"></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- End .b-header -->
+<main class="b-main" role="main">
+<section class="b-main__section b-main__section--hero">
+<div class="g-container">
+<div class="b-main__top-bar">
+<div class="b-main__menu-meta-trigger">
+<div class="b-menu-meta-trigger">
+<a href="#trigger__menu-meta">
+</a>
+</div>
+</div>
+<div class="b-main__menu-meta">
+<nav class="b-menu-meta" role="navigation">
+<ul class="b-menu-meta__list"><li class="b-menu-meta__list__item b-menu-meta__list__item--first"><a href="/login">Login</a></li><li class="b-menu-meta__list__item"><a href="/kontakt">Kontakt</a></li><li class="b-menu-meta__list__item"><a href="/ueber-uns">Über uns</a></li><li class="b-menu-meta__list__item"><a href="/jobportal">Jobportal</a></li><li class="b-menu-meta__list__item b-menu-meta__list__item--last"><a href="/dienstleistungen/islandberatung">Island</a></li></ul>
+</nav>
+</div>
+<div class="b-main__menu-language">
+<div class="b-menu-language">
+<div class="b-menu-language__current DE">
+<span class="flag" style=""></span><span class="chevron js-dropdown-trigger"></span>
+</div>
+<ul class="b-menu-language__list">
+<li class="b-menu-language__list__item DE b-menu-language__list__item--cur">
+<span class="flag" style=""></span>
+<span class="title">
+			Deutsch
+		</span>
+</li>
+<li class="b-menu-language__list__item DA">
+<a href="/da/" target="_self">
+<span class="flag" style=""></span><span class="title">
+			Dansk
+		</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="b-main__hero-image">
+<div class="b-hero-image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/baec1259-4b97-4d75-805d-0c408029b001/image/autocrop/3840/2391/1?poc=true">
+<small class="g-copyright">
+                                    © flickr.com/Moyan Brenn
+                                </small>
+<div class="b-hero-image__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.3)"></div>
+<div class="b-pagetitle">
+<div class="g-container">
+<h1>Deutsch-Dänische Handelskammer</h1>
+<span class="b-pagetitle__sub">Beratung. Netzwerk. Wissen.</span>
+</div>
+</div>
+<div class="g-clearfix"></div>
+</div>
+</div>
+<div class="b-main__hero-slider">
+<div class="g-container">
+<div class="b-hero-slider js-hero-slider">
+<div class="b-hero-slider__slide">
+<a href="/events/awards">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/4dc36c06-3f34-477d-a852-71a620289275/image/cropperjsfocus/1280/778/0,0,1280,778,0,1,1/640,389?poc=true');"></div>
+</div>
+<div class="b-hero-slider__content">
+<h3>Deutsch-Dänische Wirtschaftspreise 2020</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="/newsroom/newsletter/coronavirus-in-daenemark">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/8d425071-6510-487e-ad7d-0cbef6ac98d4/image/cropperjsfocus/380/220/0,0,380,220,0,1,1/190,110.00000000000001?poc=true');"></div>
+</div>
+<div class="b-hero-slider__content">
+<h3>Informationen zum Coronavirus in Dänemark</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="/dienstleistungen/ausschreibungsueberwachung">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/eedbb673-92dc-47ab-9404-93b45fc7fb2b/image/cropperjsfocus/960/347/0,0,960,347,0,1,1/480,173.5?poc=true');"></div>
+<small class="g-copyright">
+                            © iStock.com/MIND_AND_I
+                        </small>
+</div>
+<div class="b-hero-slider__content">
+<h3>Ausschreibungsuberwachung</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="/events/jahrestagung-2020">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/36c837bd-606a-4e68-a9e1-247acabdae05/image/autocrop/504/303/1?poc=true');"></div>
+</div>
+<div class="b-hero-slider__content">
+<h3>Rückblick auf unsere Jahrestagung 2020</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="https://www.handelskammer.dk/newsroom/news-details/default-869c3406b2" target="_blank">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/44ef3674-68f0-40cd-863f-174fb68a8515/image/autocrop/830/480/1?poc=true');"></div>
+<small class="g-copyright">
+                            © iStock.com/andrei_r
+                        </small>
+</div>
+<div class="b-hero-slider__content">
+<h3>Dänischer Steuerbescheid 2019 ab 9. März einsehbar</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="/mitgliedschaft/ueber-die-mitgliedschaft-1">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/3683e7ec-284b-45af-999d-4573f2dccfec/image/autocrop/830/480/1?poc=true');"></div>
+<small class="g-copyright">
+                            © Getty Images/vadimguzhva
+                        </small>
+</div>
+<div class="b-hero-slider__content">
+<span class="b-hero-slider__category g-category">Mitglieder</span>
+<h3>Werden Sie Mitglied</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="https://www.linkedin.com/company/german-danish-chamber-of-commerce?trk=recent-update_see-all#updates" target="_blank">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/52311a31-4cbc-401d-9fdf-2a3fc40689d3/image/autocrop/6000/4004/1?poc=true');"></div>
+</div>
+<div class="b-hero-slider__content">
+<h3>Die Handelskammer auf LinkedIn</h3>
+</div>
+</a>
+</div>
+<div class="b-hero-slider__slide">
+<a href="/jobportal">
+<div class="b-hero-slider__image-wrap ">
+<div class="b-hero-slider__image" style="background-image: url('https://images.admiralcloud.com/v3/deliverEmbed/6b4a7eaa-00e7-40bf-ad8d-2f8f39e9ac80/image/autocrop/290/193/1?poc=true');"></div>
+<small class="g-copyright">
+                            © XiXinXing
+                        </small>
+</div>
+<div class="b-hero-slider__content">
+<span class="b-hero-slider__category g-category">Stellenmarkt</span>
+<h3>Unser Jobportal</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--TYPO3SEARCH_begin-->
+<section class="b-main__section b-main__section--col1" id="c216203">
+<div class="g-container g-clearfix">
+<div class="b-section-slider js-section-slider">
+<div class="b-section-slider__item">
+<a href="https://www.handelskammer.dk/newsroom/newsletter/coronavirus-in-daenemark" target="_blank">
+<div class="b-section-slider__item__inner">
+<div class="b-section-slider__image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/3aeab23f-2163-4ed9-a225-ff50127e987b/image/autocrop/650/365/1?poc=true"></div>
+<div class="b-section-slider__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.7)"></div>
+<div class="b-section-slider__caption">
+<h3>Informationen zum Coronavirus in Dänemark</h3>
+<p></p>
+<div class="btn">Das Wichtigste im Überblick</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</section>
+<section class="b-main__section b-main__section--1col c-blue-light">
+<div class="g-container g-clearfix">
+<div class="b-calendar-list b-calendar-list--2col">
+<div class="b-calendar-list__column b-calendar-list__column--first">
+<span class="g-category g-category--space">
+                        Veranstaltungskalender
+                    </span>
+<script type="text/javascript">
+                        var calendarSettings = calendarSettings || {};
+                        calendarSettings['53494'] = {};
+                        calendarSettings['53494']['language'] = '0';
+                    </script>
+<div class="b-calendar-ajax js-calendar-ajax" data-cuid="53494"></div>
+</div>
+<div class="b-calendar-list__column b-calendar-list__column--last">
+<div class="b-calendar-list__item-wrap js-calendar-list__item-wrap">
+<div class="b-article-list__item">
+<span class="g-category g-category--space">
+                                        Liste
+                                    </span>
+<div class="b-article-list__header">
+<!-- date -->
+<span class="b-article__category">
+                                        01.01.2021
+                                    </span>
+<!-- category -->
+<span class="b-article__category">
+</span>
+<!-- headline -->
+<h3 class="b-article-list__headline--small">
+<a class="b-article_link" href="/events/event-details/netzwerk-im-fokus-besuch-bei-oersted" title="Netzwerk im Fokus: Besuch bei Ørsted (auf unbestimmte Zeit verschoben)">
+<span itemprop="headline">Netzwerk im Fokus: Besuch bei Ørsted (auf unbestimmte Zeit verschoben)</span>
+</a>
+</h3>
+</div>
+</div>
+<div class="b-article-list__item">
+<div class="b-article-list__header">
+<!-- date -->
+<span class="b-article__category">
+                                        28.01.2021
+                                    </span>
+<!-- category -->
+<span class="b-article__category">
+                                        
+                                            | Events
+                                        
+                                            | Webinar
+                                        
+                                    </span>
+<!-- headline -->
+<h3 class="b-article-list__headline--small">
+<a class="b-article__link" href="https://www.handelskammer.dk/events/un-procurement-seminar-2021" target="_blank" title="UN Procurement Seminar 2021">
+<span itemprop="headline">UN Procurement Seminar 2021</span>
+</a>
+</h3>
+</div>
+</div>
+<div class="b-article-list__item">
+<div class="b-article-list__header">
+<!-- date -->
+<span class="b-article__category">
+                                        25.08.2021
+                                    </span>
+<!-- category -->
+<span class="b-article__category">
+                                        
+                                            | Events
+                                        
+                                    </span>
+<!-- headline -->
+<h3 class="b-article-list__headline--small">
+<a class="b-article__link" href="https://www.handelskammer.dk/events/hamburg-copenhagen-business-forum" target="_blank" title="Hamburg Copenhagen Business Forum">
+<span itemprop="headline">Hamburg Copenhagen Business Forum</span>
+</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="b-article-list__button">
+<a class="btn" href="/events">
+            Alle Veranstaltungen
+        </a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--TYPO3SEARCH_end-->
+<section class="b-main__section b-main__section--1col ">
+<div class="g-container g-clearfix">
+<!-- list view 2col start -->
+<div class="b-article-list b-article-list--2col">
+<div class="b-article-list__column b-article-list__column--first">
+<div class="b-article-list__item">
+<span class="g-category g-category--space">
+                                Top-Meldung
+                            </span>
+<div class="b-article-list__inner">
+<div class="b-article-list__content b-article-list__content--first">
+<div class="b-article-list__rounded">
+<a class="b-article__link" href="/newsroom/newsletter/steuerpflicht-in-daenemark-wann-setzt-sie-ein-fuer-deutsche-unternehmen-und-ihre-mitarbeiter" title="Steuerpflicht in Dänemark: Wann setzt sie ein für deutsche Unternehmen und ihre Mitarbeiter?">
+<img alt="" height="120" src="https://images.admiralcloud.com/v3/deliverEmbed/37cf804a-66da-4425-8490-a3dc30a23065/image/cropperjsfocus/120/120/0,0,960,555,0,1,1/480.00000000000006,277.5?poc=true" title="22_umsatzsteuer_B_494146669_830x480.jpg" width="120"/>
+</a>
+</div>
+</div>
+<div class="b-article-list__content b-article-list__content--last">
+<div class="b-article-list__header">
+<span class="b-article__category">
+                                                            04.11.2020
+                                                        </span>
+
+                                                        
+                                                            | <span class="b-article__category">Steuerrecht</span>
+<h3 class="b-article-list__headline--small">
+<a class="b-article__link" href="/newsroom/newsletter/steuerpflicht-in-daenemark-wann-setzt-sie-ein-fuer-deutsche-unternehmen-und-ihre-mitarbeiter" title="Steuerpflicht in Dänemark: Wann setzt sie ein für deutsche Unternehmen und ihre Mitarbeiter?">
+                                                                Steuerpflicht in Dänemark: Wann setzt sie ein für deutsche Unternehmen und ihre Mitarbeiter?
+                                                            </a>
+</h3>
+<p class="b-article-slider__subtitle">
+</p><p>Die dänischen Behörden haben den Einsatz ausländischer Arbeitskräfte in den Blick genommen. Davon sind auch in Dänemark operierende deutsche…</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="b-article-list__column b-article-list__column--last">
+<div class="b-article-list__item">
+<span class="g-category g-category--space">
+                                                Liste
+                                            </span>
+<div class="b-article-list__header">
+<span class="b-article__category">
+                                                04.03.2020
+                                            </span>
+
+                                            
+                                                | <span class="b-article__category">Steuerrecht</span>
+<h3 class="b-article-list__headline--small">
+<a class="b-article__link" href="/newsroom/news-details/default-869c3406b2" title="Dänischer Steuerbescheid (Årsopgørelse) 2019 ab 9. März einsehbar">
+                                                    Dänischer Steuerbescheid (Årsopgørelse) 2019 ab 9. März einsehbar
+                                                </a>
+</h3>
+</div>
+</div>
+<div class="b-article-list__item">
+<div class="b-article-list__header">
+<span class="b-article__category">
+                                                11.12.2019
+                                            </span>
+
+                                            
+                                                | <span class="b-article__category">Membernews</span>
+<h3 class="b-article-list__headline--small">
+<a class="b-article__link" href="/newsroom/newsletter/interview-mit-beckhoff-automation-unsere-deutsche-dna-ist-eine-staerke-in-daenemark" title="Interview mit Beckhoff Automation: Unsere deutsche DNA ist eine Stärke in Dänemark">
+                                                    Interview mit Beckhoff Automation: Unsere deutsche DNA ist eine Stärke in Dänemark
+                                                </a>
+</h3>
+</div>
+</div>
+<div class="b-article-list__item">
+<div class="b-article-list__header">
+<span class="b-article__category">
+                                                06.12.2019
+                                            </span>
+
+                                            
+                                                | <span class="b-article__category">Steuerrecht</span>
+<h3 class="b-article-list__headline--small">
+<a class="b-article__link" href="/newsroom/newsletter/steuerpflicht-auslaendischer-geschaeftsfuehrer-inlaendischer-kapitalgesellschaften" title="Steuerpflicht ausländischer Geschäftsführer inländischer Kapitalgesellschaften">
+                                                    Steuerpflicht ausländischer Geschäftsführer inländischer Kapitalgesellschaften
+                                                </a>
+</h3>
+</div>
+</div>
+<div class="b-article-list__button">
+<a class="btn" href="/newsroom">
+                                Alle Meldungen
+                            </a>
+</div>
+</div>
+</div>
+<!-- list view 2col end -->
+</div>
+</section>
+<!--TYPO3SEARCH_begin-->
+<section class="b-main__section b-main__section--col1" id="c76100">
+<div class="b-section-slider js-section-slider">
+<div class="b-section-slider__item">
+<a href="/events/jahrestagung-2020">
+<div class="b-section-slider__item__inner">
+<div class="b-section-slider__image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/c4c1b5fb-fc00-4db2-b9dd-3f309d714b82/image/autocrop/11836/4115/1?poc=true"></div>
+<div class="b-section-slider__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.4)"></div>
+<div class="b-section-slider__caption">
+<h3>Jahrestagung 2020</h3>
+<p></p>
+<div class="btn">Zum Rückblick</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b-section-slider__item">
+<a href="https://www.handelskammer.dk/events/event-details/neujahrsempfang-der-deutsch-daenischen-handelskammer-2020" target="_blank">
+<div class="b-section-slider__item__inner">
+<div class="b-section-slider__image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/d98a84f5-d22e-4a64-8653-888e7c24ddac/image/autocrop/1476/984/1?poc=true"></div>
+<div class="b-section-slider__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.4)"></div>
+<div class="b-section-slider__caption">
+<h3>Neujahrsempfang 2020</h3>
+<p></p>
+<div class="btn">Zum Rückblick</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b-section-slider__item">
+<a href="https://www.handelskammer.dk/events/event-details/verleihung-des-deutsch-daenischen-wirtschaftspreises-2019" target="_blank">
+<div class="b-section-slider__item__inner">
+<div class="b-section-slider__image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/8dd5e1d6-6284-451e-a407-23507946c6d1/image/autocrop/3671/2447/1?poc=true"></div>
+<div class="b-section-slider__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.4)"></div>
+<div class="b-section-slider__caption">
+<h3>Verleihung des Deutsch-Dänischen Wirtschaftspreises 2019</h3>
+<p></p>
+<div class="btn">Zum Rückblick</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b-section-slider__item">
+<a href="http://daenemark.ahk2.cps-projects.de/index.php?id=1618&amp;L=0&amp;tx_ahkevents_list%5Bevent%5D=9165&amp;tx_ahkevents_list%5Baction%5D=show&amp;tx_ahkevents_list%5Bcontroller%5D=Event&amp;cHash=4b7fe2e7ca005a798b03f144db38a2f1" target="_blank">
+<div class="b-section-slider__item__inner">
+<div class="b-section-slider__image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/0bf64323-a0fa-4a87-8898-e0f1fb5e99b9/image/autocrop/3543/2362/1?poc=true"></div>
+<div class="b-section-slider__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.4)"></div>
+<div class="b-section-slider__caption">
+<h3>Die Handelskammer feiert 25-jähriges Bestehen</h3>
+<p>Impressionen der Feierlichkeiten anlässlich des 25-jährigen Jubiläums der Deutsch-Dänischen Handelskammer</p>
+<div class="btn">Zum Rückblick</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b-section-slider__item">
+<a href="http://daenemark.ahk2.cps-projects.de/index.php?id=1618&amp;L=0&amp;tx_ahkevents_list%5Bevent%5D=9166&amp;tx_ahkevents_list%5Baction%5D=show&amp;tx_ahkevents_list%5Bcontroller%5D=Event&amp;cHash=d815f12c7645bb7ea50d5e4ba72414ca" target="_blank">
+<div class="b-section-slider__item__inner">
+<div class="b-section-slider__image js-bg-image" data-bg-image="https://images.admiralcloud.com/v3/deliverEmbed/3dab10bb-526e-42c8-8b95-07cf24cf4dc1/image/autocrop/5184/3456/1?poc=true"></div>
+<div class="b-section-slider__overlay js-bg-color" data-bg-color="rgba(29,54,94,0.4)"></div>
+<div class="b-section-slider__caption">
+<h3>Deutschland wählt - Die große Wahlparty</h3>
+<p>Impressionen der Wahlparty anlässlich der deutschen Bundestagswahl am 24. September 2017</p>
+<div class="btn">Zum Rückblick</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</section>
+<section class="b-main__section b-main__section--1col b-main__section--border-top b-main__section--border-bottom" id="c57364">
+<div class="g-container g-clearfix">
+<h2 class="b-section__header">Unsere Premiumpartner </h2>
+<div class="b-simple-slider js-simple-slider">
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.andersen-partners.dk/de" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/6de62532-1b89-433e-af43-aa71ab467cf5/image/autocrop/150/36/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="36" src="https://images.admiralcloud.com/v3/deliverEmbed/6de62532-1b89-433e-af43-aa71ab467cf5/image/autocrop/150/36/1?poc=true" title="" width="150"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://global.atradius.com" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/06de86f8-1729-4da1-8d85-afc2f877f17a/image/autocrop/356/93/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="93" src="https://images.admiralcloud.com/v3/deliverEmbed/06de86f8-1729-4da1-8d85-afc2f877f17a/image/autocrop/356/93/1?poc=true" title="Atradius.jpg" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.basf.com/dk/en.html" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/0180e4c2-3966-449a-bb58-6bc4c5fe688c/image/autocrop/356/178/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="178" src="https://images.admiralcloud.com/v3/deliverEmbed/0180e4c2-3966-449a-bb58-6bc4c5fe688c/image/autocrop/356/178/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.bayer.de/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/c9dcb4e9-a98a-46dd-9955-195702e292f3/image/autocrop/356/237/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="237" src="https://images.admiralcloud.com/v3/deliverEmbed/c9dcb4e9-a98a-46dd-9955-195702e292f3/image/autocrop/356/237/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.bechbruun.com/en" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/137d8412-2ac0-4fc5-91bb-63d364068b66/image/autocrop/356/27/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="27" src="https://images.admiralcloud.com/v3/deliverEmbed/137d8412-2ac0-4fc5-91bb-63d364068b66/image/autocrop/356/27/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.beckhoff.de/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/5a5d67ff-635f-4a63-9046-b452739715ba/image/autocrop/356/69/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="69" src="https://images.admiralcloud.com/v3/deliverEmbed/5a5d67ff-635f-4a63-9046-b452739715ba/image/autocrop/356/69/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.bmw.dk/da/index.html" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/8d5e2b41-d2f5-486d-8cfc-7336fa186e9e/image/autocrop/123/122/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="122" src="https://images.admiralcloud.com/v3/deliverEmbed/8d5e2b41-d2f5-486d-8cfc-7336fa186e9e/image/autocrop/123/122/1?poc=true" title="" width="123"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.chg-meridian.com/de/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/6bf281ef-d402-4728-a981-144fd624e4b9/image/autocrop/356/122/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="122" src="https://images.admiralcloud.com/v3/deliverEmbed/6bf281ef-d402-4728-a981-144fd624e4b9/image/autocrop/356/122/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.dachser.de/de/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/dd0d9128-b8b4-4812-9bb7-55ed74e747bb/image/autocrop/356/183/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="183" src="https://images.admiralcloud.com/v3/deliverEmbed/dd0d9128-b8b4-4812-9bb7-55ed74e747bb/image/autocrop/356/183/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.danfoss.com/de-de/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/cc017d70-1177-41db-81c7-56680167dc39/image/autocrop/270/200/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="200" src="https://images.admiralcloud.com/v3/deliverEmbed/cc017d70-1177-41db-81c7-56680167dc39/image/autocrop/270/200/1?poc=true" title="" width="270"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://danskebank.com/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/b195e1dd-c3f7-4383-ac86-87bcf3d63403/image/autocrop/356/53/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="53" src="https://images.admiralcloud.com/v3/deliverEmbed/b195e1dd-c3f7-4383-ac86-87bcf3d63403/image/autocrop/356/53/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.handelskammer.dk" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/f87285c3-1c7d-4a1c-9a91-c9da3366414d/image/autocrop/197/175/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="175" src="https://images.admiralcloud.com/v3/deliverEmbed/f87285c3-1c7d-4a1c-9a91-c9da3366414d/image/autocrop/197/175/1?poc=true" title="DE_International.jpg" width="197"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.dhl.com/en/mail.html" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/dc7fdcb4-ad6e-4cf9-bcab-0432ceff9d51/image/autocrop/356/78/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="78" src="https://images.admiralcloud.com/v3/deliverEmbed/dc7fdcb4-ad6e-4cf9-bcab-0432ceff9d51/image/autocrop/356/78/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://exposervice.dk/index.html" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/cb55d674-840a-4331-a792-0aeec5a8cc57/image/autocrop/356/356/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="356" src="https://images.admiralcloud.com/v3/deliverEmbed/cb55d674-840a-4331-a792-0aeec5a8cc57/image/autocrop/356/356/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.hdi.global/dk/en" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/7c589add-11da-4807-aee6-310555a16202/image/autocrop/356/356/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="356" src="https://images.admiralcloud.com/v3/deliverEmbed/7c589add-11da-4807-aee6-310555a16202/image/autocrop/356/356/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://hr-on.com/hr-on-2/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/7b62a08f-f9f1-42dc-bd81-bf20763723d4/image/autocrop/356/333/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="333" src="https://images.admiralcloud.com/v3/deliverEmbed/7b62a08f-f9f1-42dc-bd81-bf20763723d4/image/autocrop/356/333/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="ttp://www.jungheinrich.dk" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/f20f2bba-ad55-43f7-a436-e59e6a84e08a/image/autocrop/283/65/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="65" src="https://images.admiralcloud.com/v3/deliverEmbed/f20f2bba-ad55-43f7-a436-e59e6a84e08a/image/autocrop/283/65/1?poc=true" title="" width="283"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.mercedes-benz.dk" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/6c7b2bd8-a0cb-4eca-bc57-204b33f57395/image/autocrop/356/109/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="109" src="https://images.admiralcloud.com/v3/deliverEmbed/6c7b2bd8-a0cb-4eca-bc57-204b33f57395/image/autocrop/356/109/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.nord-stream2.com/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/cf74a4a8-21f2-4039-ae4e-f2f76eb17981/image/autocrop/356/142/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="142" src="https://images.admiralcloud.com/v3/deliverEmbed/cf74a4a8-21f2-4039-ae4e-f2f76eb17981/image/autocrop/356/142/1?poc=true" title="NordStream2.png" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.ramboll.com" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/0ebb6134-8804-4fdb-85c7-5cff01a98d2f/image/autocrop/356/73/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="73" src="https://images.admiralcloud.com/v3/deliverEmbed/0ebb6134-8804-4fdb-85c7-5cff01a98d2f/image/autocrop/356/73/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.siemens.dk/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/df95e3d7-485b-49e0-82fa-e565a745fee9/image/autocrop/356/91/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="91" src="https://images.admiralcloud.com/v3/deliverEmbed/df95e3d7-485b-49e0-82fa-e565a745fee9/image/autocrop/356/91/1?poc=true" title="Siemens.jpg" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://www.sydbank.dk/privat" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/90a604f9-b0b5-4188-bcd5-9a7f794079de/image/autocrop/356/80/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="80" src="https://images.admiralcloud.com/v3/deliverEmbed/90a604f9-b0b5-4188-bcd5-9a7f794079de/image/autocrop/356/80/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://wintershalldea.com/de" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/2b9e9e25-e317-40c2-83ac-62f65eb30416/image/autocrop/356/286/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="286" src="https://images.admiralcloud.com/v3/deliverEmbed/2b9e9e25-e317-40c2-83ac-62f65eb30416/image/autocrop/356/286/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.worldtranslation.dk" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/dd3585cb-c22b-4775-9547-64ea42a997df/image/autocrop/356/49/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="49" src="https://images.admiralcloud.com/v3/deliverEmbed/dd3585cb-c22b-4775-9547-64ea42a997df/image/autocrop/356/49/1?poc=true" title="WorldTranslation.png" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="http://www.zueblin.dk" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/57c3c3d9-d98d-4e14-b901-fbfb2c814fb6/image/autocrop/356/188/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="188" src="https://images.admiralcloud.com/v3/deliverEmbed/57c3c3d9-d98d-4e14-b901-fbfb2c814fb6/image/autocrop/356/188/1?poc=true" title="" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="b-simple-slider__item">
+<div class="b-simple-slider__item__inner">
+<div class="b-simple-slider__item__img">
+<a href="https://orsted.dk/" target="_blank">
+<img alt="" class="slick-slider-img slick-slider-img--lazy-img" data-lazy="https://images.admiralcloud.com/v3/deliverEmbed/88cc356d-51a3-4f16-bfa5-db5161d09db9/image/autocrop/356/178/1?poc=true" src=""/>
+<noscript>
+<img alt="" class="slick-slider-img" height="178" src="https://images.admiralcloud.com/v3/deliverEmbed/88cc356d-51a3-4f16-bfa5-db5161d09db9/image/autocrop/356/178/1?poc=true" title="OErsted_logo2.png" width="356"/>
+</noscript>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--TYPO3SEARCH_end-->
+<section class="b-main__section b-main__section--prefooter c-blue">
+<div class="g-container g-clearfix">
+<div class="b-prefooter">
+<div class="b-prefooter__col b-prefooter__col--1">
+<div class="b-content-item b-content-textmedia" id="c57366">
+<div class="b-content-textmedia__textpic b-content-textmedia__textpic--left b-content-textmedia__textpic--above">
+<div class="b-content-textmedia__images">
+<figure class="b-content-textmedia__image">
+<div class="b-content-textmedia__image__inner">
+<picture>
+<!--[if IE 9]>
+            <video style="display: none;"><![endif]-->
+<source media="(min-width: 769px)" srcset="https://images.admiralcloud.com/v3/deliverEmbed/fb3d6d1a-43b4-467d-9e75-f3b090f83a7b/image/autocrop/590/320/1?poc=true">
+<source media="(min-width: 570px)" srcset="https://images.admiralcloud.com/v3/deliverEmbed/fb3d6d1a-43b4-467d-9e75-f3b090f83a7b/image/autocrop/590/320/1?poc=true">
+<source media="(min-width: 420px)" srcset="https://images.admiralcloud.com/v3/deliverEmbed/fb3d6d1a-43b4-467d-9e75-f3b090f83a7b/image/autocrop/570/309/1?poc=true">
+<source srcset="https://images.admiralcloud.com/v3/deliverEmbed/fb3d6d1a-43b4-467d-9e75-f3b090f83a7b/image/autocrop/420/227/1?poc=true">
+<!--[if IE 9]></video><![endif]-->
+<!---Fallback--->
+<img alt="" src="https://images.admiralcloud.com/v3/deliverEmbed/fb3d6d1a-43b4-467d-9e75-f3b090f83a7b/image/autocrop/590/320/1?poc=true" title=""/>
+</source></source></source></source></picture>
+</div>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="b-prefooter__col b-prefooter__col--2">
+<div class="b-content-item b-content-textmedia" id="c57368">
+<h2 class="b-content-textmedia__header">Kontaktieren Sie uns </h2>
+<div class="b-content-textmedia__textpic b-content-textmedia__textpic--left b-content-textmedia__textpic--above">
+<div class="b-content-textmedia__bodytext">
+<p><b>Deutsch-Dänische Handelskammer<br/></b>Kongens Nytorv 26, 3. Stock<br/>1050 Kopenhagen</p>
+<p>Telefon: +45 33913335<br/><a href="javascript:linkTo_UnCryptMailto(%27nbjmup%2BjogpAiboefmtlbnnfs%5C%2Fel%27);">E-Mail schreiben</a> </p>
+<p><a class="rte_button--colored" href="/kontakt" target="_self">Kontaktformular</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-prefooter__col b-prefooter__col--3">
+<div class="b-content-item b-content-textmedia" id="c57369">
+<header>
+<h3 class="b-content-textmedia__header">Schnellzugriff</h3>
+</header>
+<ul class="b-linklist">
+<li class="b-linklist__item">
+<a href="/mitgliedschaft/firmen-und-mitgliederverzeichnis">
+<span>Mitgliederportal</span>
+</a>
+</li>
+<li class="b-linklist__item">
+<a href="/events/raumvermietung">
+<span>Raumvermietung</span>
+</a>
+</li>
+<li class="b-linklist__item">
+<a href="/dienstleistungen/un-beschaffung">
+<span>UN-Beschaffung</span>
+</a>
+</li>
+<li class="b-linklist__item">
+<a href="/newsroom/newsletter/kontaktformular-newsservice">
+<span>Newsletter abonnieren</span>
+</a>
+</li>
+<li class="b-linklist__item">
+<a href="/ueber-uns/das-team">
+<span>Unser Team</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Begin .b-footer -->
+<footer class="b-footer" role="contentinfo">
+<div class="b-footer__row b-footer__row--1">
+<div class="g-container g-clearfix">
+<div class="b-footer__menu-main--core" id="trigger__menu-main--core">
+<span class="b-menu-main--core__label">Hauptmenü</span>
+<!-- Begin .b-menu-main--core -->
+<nav class="b-menu-main--core">
+<ul class="b-menu-main--core__list"><li><a href="/dienstleistungen">Dienstleistungen</a><ul><li><a href="/dienstleistungen/marktberatung">Marktberatung</a></li><li><a href="/dienstleistungen/rechtsberatung">Rechtsberatung</a></li><li><a href="/dienstleistungen/steuerberatung">Steuerberatung</a></li><li><a href="/dienstleistungen/lohn-und-finanzbuchhaltung">Lohn- und Finanzbuchhaltung</a></li><li><a href="/dienstleistungen/personalvermittlung">Personalvermittlung</a></li><li><a href="/dienstleistungen/islandberatung">Islandberatung</a></li><li><a href="/dienstleistungen/pr-service">PR-Service</a></li><li><a href="/dienstleistungen/un-beschaffung">UN-Beschaffung</a></li><li><a href="/dienstleistungen/ausschreibungsueberwachung">Ausschreibungsüberwachung</a></li></ul></li><li><a href="/mitgliedschaft">Mitgliedschaft</a><ul><li><a href="/mitgliedschaft/ueber-die-mitgliedschaft">Mitgliedervorteile</a></li><li><a href="/mitgliedschaft/mitglied-werden">Mitglied werden</a></li><li><a href="/mitgliedschaft/firmen-und-mitgliederverzeichnis">Firmen- und Mitgliederverzeichnis</a></li><li><a href="/mitgliedschaft/neue-mitglieder">Neue Mitglieder</a></li><li><a href="/mitgliedschaft/members4members">Members4Members</a></li><li><a href="/mitgliedschaft/premium-mitgliedschaft">Premium-Mitgliedschaft</a></li><li><a href="/mitgliedschaft/mitgliederportal">Mitgliederportal</a></li><li><a href="/mitgliedschaft/mitgliedschaft-fuer-tech-start-ups">Mitgliedschaft für Tech Start-Ups</a></li></ul></li><li><a href="/events">Events</a><ul><li><a href="/events-2">Eventübersicht</a></li><li><a href="/events/vergangene-veranstaltungen">Rückblick</a></li><li><a href="/events/awards">Awards</a></li><li><a href="/events/raumvermietung">Raumvermietung</a></li></ul></li><li><a href="/newsroom">Newsroom</a><ul><li><a href="/newsroom-1">News</a></li><li><a href="/newsroom/newsletter">Newsletter</a></li><li><a href="/newsroom/publikationen">Publikationen</a></li><li><a href="/newsroom/umfragen">Umfragen</a></li><li><a href="/newsroom/podcast-1">Podcast</a></li></ul></li></ul>
+</nav>
+<!-- End .b-menu-main--core -->
+<div class="g-clearfix"></div>
+</div>
+<div class="b-footer__menus" id="trigger__menu-meta">
+<nav class="b-menu-meta" role="navigation">
+<ul class="b-menu-meta__list"><li class="b-menu-meta__list__item b-menu-meta__list__item--first"><a href="/login">Login</a></li><li class="b-menu-meta__list__item"><a href="/kontakt">Kontakt</a></li><li class="b-menu-meta__list__item"><a href="/ueber-uns">Über uns</a></li><li class="b-menu-meta__list__item"><a href="/jobportal">Jobportal</a></li><li class="b-menu-meta__list__item b-menu-meta__list__item--last"><a href="/dienstleistungen/islandberatung">Island</a></li></ul>
+</nav>
+<nav class="b-footer__menu" role="navigation" title="Footer">
+<ul class="b-footer__menu__list"><li class="b-footer__menu__list__item b-footer__menu__list__item--first"><a href="/datenschutz" title="Datenschutz">Datenschutz</a></li><li class="b-footer__menu__list__item"><a href="/sitemap" title="Sitemap">Sitemap</a></li><li class="b-footer__menu__list__item b-footer__menu__list__item--last"><a href="/impressum" title="Impressum">Impressum</a></li></ul>
+</nav>
+<div class="b-footer__icons">
+<ul class="b-store-icons"></ul>
+<ul class="b-social-icons"><li><a class="icon icon--linkedin" href="https://www.linkedin.com/company/german-danish-chamber-of-commerce/" target="_blank">https://www.linkedin.com/company/german-danish-chamber-of-commerce/</a></li><li><a class="icon icon--twitter" href="https://twitter.com/rperau" target="_blank">https://twitter.com/rperau</a></li><li><a class="icon icon--xing" href="https://www.xing.com/companies/ahkd%C3%A4nemark" target="_blank">https://www.xing.com/companies/ahkd%C3%A4nemark</a></li><li><a class="icon icon--youtube" href="https://www.youtube.com/channel/UCdJYAT_W9ZV01rqDWQOBUow/featured" target="_blank">https://www.youtube.com/channel/UCdJYAT_W9ZV01rqDWQOBUow/featured</a></li></ul>
+<ul class="b-service-icons">
+<li><a class="icon icon--print" href="javascript:window.print();" rel="nofollow">drucken</a></li>
+<li><a class="icon icon--totop" href="/#link-to-top">zum Seitenanfang</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr/>
+<div class="b-footer__row b-footer__row--2">
+<div class="g-container g-clearfix">
+<!-- BEGIN b-footer__banner -->
+<div class="b-footer__banner b-footer__banner--4col">
+<div class="b-footer__banner__item">
+<div class="b-footer__banner__item__inner">
+<div class="b-footer__banner__item__img">
+<a href="http://www.bmwi.de/">
+<img alt="Footer Banner 1" class="banner--core" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_1.png"/>
+<img alt="Footer Banner 1" class="banner--enhanced" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_1.svg"/>
+</a>
+</div>
+</div>
+</div>
+<div class="b-footer__banner__item">
+<div class="b-footer__banner__item__inner">
+<div class="b-footer__banner__item__img">
+<a href="http://www.dihk.de/">
+<img alt="Footer Banner 2" class="banner--core" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_2.png"/>
+<img alt="Footer Banner 2" class="banner--enhanced" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_2.svg"/>
+</a>
+</div>
+</div>
+</div>
+<div class="b-footer__banner__item">
+<div class="b-footer__banner__item__inner">
+<div class="b-footer__banner__item__img">
+<a href="http://www.ihk.de/">
+<img alt="Footer Banner 3" class="banner--core" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_3.png"/>
+<img alt="Footer Banner 3" class="banner--enhanced" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_3.svg"/>
+</a>
+</div>
+</div>
+</div>
+<div class="b-footer__banner__item">
+<div class="b-footer__banner__item__inner">
+<div class="b-footer__banner__item__img">
+<a href="http://www.gtai.de/">
+<img alt="Footer Banner 4" class="banner--core" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_4.png"/>
+<img alt="Footer Banner 4" class="banner--enhanced" src="/typo3conf/ext/ahk_sitepackage/Resources/Public/_Default/Icons/FooterBanner/banner_4.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- END b-footer__banner -->
+</div>
+</div>
+</footer>
+<!-- End .b-footer -->
+</div>
+<script src="/typo3temp/assets/compressed/javascript-fea2493b9555f414432e332369eac023.js?1605029344" type="text/javascript"></script>
+</body>
+</html>

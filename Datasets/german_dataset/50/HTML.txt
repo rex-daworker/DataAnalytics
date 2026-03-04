@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+<meta content="TYPO3 CMS" name="generator"/>
+<meta content="index, follow, NOODP" name="robots"/>
+<meta content="width=device-width,initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="Erasmus+,Erasmusplus,Europa,europäisches Bildungsprogramm,EU-Bildung," name="keywords"/>
+<meta content="Erasmus+ ist das Programm für Bildung, Jugend und Sport der Europäischen Union.Vier Nationale Agenturen setzen in Deutschland das EU-Programm Erasmus+ um. Finden Sie Ihre Ansprechpartner, wenn es um Projektberatung, Antragstellung und Unterstützung für Ihre europäischen Projekte geht." name="description"/>
+<link href="https://www.erasmusplus.de/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1594800119" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/typo3temp/assets/css/55007a1094.css?1532599775" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/typo3conf/ext/t3ddy/Resources/Public/CSS/jquery-ui-1.11.4.min.css?1532596634" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/typo3conf/ext/t3ddy/Resources/Public/CSS/t3ddy.css?1532596634" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/typo3conf/ext/cal/Resources/Public/v2/css/cal.css?1532596634" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/fileadmin/Resources/Public/Css/bootstrap.min.css?1601616554" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/fileadmin/Resources/Public/Css/slicknav.css?1601616554" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/fileadmin/Resources/Public/Css/flexslider.css?1601616554" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/fileadmin/Resources/Public/Css/app.css?1601616554" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/fileadmin/Resources/Public/Css/rte.css?1601616554" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.erasmusplus.de/fileadmin/Resources/Public/Css/print.css?1601616554" media="print" rel="stylesheet" type="text/css"/>
+<script src="https://www.erasmusplus.de/fileadmin/Resources/Public/Javascript/jquery-2.2.4.min.js?1601616554" type="text/javascript"></script>
+<title>Startseite - Erasmus+</title>
+<!-- Piwik -->
+<script type="text/javascript">
+         var _paq = _paq || [];
+         _paq.push(['trackPageView']);
+         _paq.push(['enableLinkTracking']);
+         (function() {
+           var u="//www.daad.de/webstatistik/";
+           _paq.push(['setTrackerUrl', u+'piwik.php']);
+           _paq.push(['setSiteId', '55']);
+           var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+           g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+         })();
+       </script>
+<!-- End Piwik Code -->
+<!-- Google Analytics - OptOut -->
+<script>
+           var gaProperty = 'UA-107536349-17';
+           var disableStr = 'ga-disable-' + gaProperty;
+
+           if (document.cookie.indexOf(disableStr + '=true') > -1) {
+               window[disableStr] = true;
+           }
+
+           function gaOptout() {
+               document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+               window[disableStr] = true;
+               alert("Ein Opt-Out-Cookie wurde gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Webseite verhindert.");
+           }
+       </script>
+<!-- END Google Analytics - OptOut -->
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-107536349-17"></script>
+<script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'UA-107536349-17', {
+               'anonymize_ip': true,
+               'cookie_flags': 'secure;samesite=none'
+           });
+       </script>
+<!-- END Global Site Tag (gtag.js) - Google Analytics -->
+<link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" rel="stylesheet" type="text/css"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#ffffff",
+          "text": "#304050"
+        },
+        "button": {
+          "background": "#005da8",
+          "text": "#ffffff"
+        }
+      },
+      "theme": "edgeless",
+      "content": {
+        "message": "Unsere Webseite verwendet Cookies, um den bestmöglichen Service zu gewährleisten. Mit der Nutzung der Seite stimmen Sie der Cookie-Nutzung zu.",
+        "dismiss": "Ja, ich stimme zu",
+        "link": "Weitere Informationen",
+        "href": "/datenschutzerklaerung/"
+      }
+    })
+  });
+</script>
+<style>
+  .cc-window {
+    font-family: 'Open Sans', sans-serif !important;
+    border-top: 1px solid #005da8;
+  }
+
+  .cc-btn:hover,
+  .cc-btn:focus {
+    background-color: #004175 !important;
+  }
+
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    /* IE10+ CSS */
+    .cc-compliance {
+      display: block !important;
+      margin-right: 15px !important;
+    }
+  }
+ </style> <style>
+.metanavigation ul li#ls {
+    background: transparent url("https://www.erasmusplus.de/fileadmin/Resources/Public/Images/leichte-sprache.png") no-repeat 0 0 !important;
+}
+</style>
+</head>
+<body>
+<header>
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<a href="https://www.erasmusplus.de/">
+<div class="logo pull-left"></div>
+</a>
+<div class="nav-container">
+<nav class="pull-right" id="navigation--container"><ul class="navigation" id="menu"><li class="navigation__item"><a class="navigation__link navigation__link--first" href="https://www.erasmusplus.de/erasmus/">Erasmus+</a><ul class="navigation__dropdown"><li><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/hochschulbildung/">Hochschulbildung</a></li><li><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/schulbildung/">Schulbildung</a><ul class="navigation__dropdown"><li class="lastinrow"><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/schulbildung/etwinning/">eTwinning</a></li></ul></li><li><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/berufsbildung/">Berufsbildung</a></li><li><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/erwachsenenbildung/">Erwachsenenbildung</a><ul class="navigation__dropdown"><li class="lastinrow"><a href="https://www.erasmusplus.de/erasmus/erwachsenenbildung/neue-seite-unter-erwachsenenbildung/">Neue Seite unter Erwachsenenbildung</a></li></ul></li><li><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/jugend-in-aktion/">JUGEND IN AKTION</a></li><li><a href="https://www.erasmusplus.de/erasmus/bildungsbereiche/sport/">Sport</a></li><li><a href="https://www.erasmusplus.de/erasmus/erasmus-ab-2021/">Erasmus ab 2021</a></li><li><a href="https://www.erasmusplus.de/erasmus/erasmus-und-brexit/">Erasmus+ und Brexit</a></li><li><a href="https://www.erasmusplus.de/erasmus/erasmusdays/">ErasmusDays</a></li><li class="lastinrow"><a href="https://www.erasmusplus.de/erasmus/10-millionen/">10 Millionen</a></li></ul></li><li class="navigation__item"><a class="navigation__link" href="https://www.erasmusplus.de/wer-wir-sind/">Wer wir sind</a><ul class="navigation__dropdown"><li><a href="https://www.erasmusplus.de/wer-wir-sind/">Wer wir sind</a></li><li class="lastinrow"><a href="https://www.erasmusplus.de/wer-wir-sind/kurzerklaert-video/">#kurzerklärt Video</a></li></ul></li><li class="navigation__item"><a class="navigation__link" href="https://www.erasmusplus.de/service/">Service</a><ul class="navigation__dropdown"><li><a href="https://www.erasmusplus.de/service/">Service</a></li><li><a href="https://www.erasmusplus.de/service/aktuelle/">Aktuelles</a></li><li><a href="https://www.erasmusplus.de/service/termine/">Termine</a></li><li><a href="https://www.erasmusplus.de/service/servicenummern/">Servicenummern</a></li><li><a href="https://www.erasmusplus.de/service/dokumente/">Dokumente</a></li><li><a href="https://www.erasmusplus.de/service/publikationen/">Publikationen</a></li><li class="lastinrow"><a href="https://www.erasmusplus.de/service/bewilligte-projekte/">Bewilligte Projekte</a></li></ul></li></ul></nav>
+<nav class="metanavigation visible-lg visible-md visible-sm"><ul><li class="firstinrow" id="ls"><a href="https://www.erasmusplus.de/leichte-sprache/">Leichte Sprache</a></li><li><a href="https://www.erasmusplus.de/">Startseite</a></li><li><a href="https://www.erasmusplus.de/datenschutzerklaerung/">Datenschutzerklärung</a></li><li><a href="https://www.erasmusplus.de/impressum/">Impressum</a></li><li><a href="https://www.erasmusplus.de/sitemap/">Sitemap</a></li></ul></nav>
+</div>
+</div>
+</div>
+</div>
+</header>
+<section class="slider">
+<div class="tx-dce-pi1">
+<div class="row">
+<div class="bigbox bigbox-tabs-right" id="slider">
+<div class="large-9 medium-12 columns">
+<div class="flexslider">
+<ul class="slides">
+<li>
+<a href="https://www.erasmusplus.de/wer-wir-sind/kurzerklaert-video/" title="#kurzerklärt Video">
+<img alt="#kurzerklärt Video" height="412" src="https://www.erasmusplus.de/fileadmin/Dateien/Bilder/slider_2019/Erasmus_Uebersicht_YouTube.png" width="1310"/>
+</a>
+<div class="flex-caption">
+<strong>#kurzerklärt Video</strong><br/>
+</div>
+</li>
+<li>
+<a href="https://www.erasmusplus.de/erasmus/10-millionen/" title="10 Millionen Teilnehmende">
+<img alt="10 Millionen Teilnehmende" height="370" src="https://www.erasmusplus.de/fileadmin/Dateien/Bilder/slider_2019/EPlus_10Millionen.jpg" width="1310"/>
+</a>
+<div class="flex-caption">
+<strong>10 Millionen Teilnehmende</strong><br/>
+</div>
+</li>
+<li>
+<a href="https://www.erasmusplus.de/erasmus/erasmus-ab-2021/" title="Erasmus ab 2021">
+<img alt="Erasmus ab 2021" height="390" src="https://www.erasmusplus.de/fileadmin/Dateien/Bilder/slider_2018/Wechselteaser_Bild_privat_zugeschnitten.jpg" width="1238"/>
+</a>
+<div class="flex-caption">
+<strong>Erasmus ab 2021</strong><br/>
+</div>
+</li>
+<li>
+<a href="https://www.erasmusplus.de/erasmus/erasmus-und-brexit/" title="Erasmus+ und Brexit">
+<img alt="Erasmus+ und Brexit" height="492" src="https://www.erasmusplus.de/fileadmin/Dateien/Bilder/slider_2018/stage_teaser_brexit_1290x492_2019-01-29.jpg" width="1290"/>
+</a>
+<div class="flex-caption">
+<strong>Erasmus+ und Brexit</strong><br/>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container">
+<div class="csc-frame csc-frame-default layout-0" id="c305"><div class="row buttonlinks">
+<div class="col-sm-4 button__container">
+<a class="button button--blue" href="https://www.erasmusplus.de/erasmus/bildungsbereiche/hochschulbildung/">Hochschulbildung</a>
+</div>
+<div class="col-sm-4 button__container">
+<a class="button button--blue" href="https://www.erasmusplus.de/erasmus/bildungsbereiche/schulbildung/">Schulische Bildung</a>
+</div>
+<div class="col-sm-4 button__container">
+<a class="button button--blue" href="https://www.erasmusplus.de/erasmus/bildungsbereiche/berufsbildung/">Berufliche Bildung</a>
+</div>
+</div></div><div class="csc-frame csc-frame-default layout-0" id="c306"><div class="row buttonlinks">
+<div class="col-sm-4 button__container">
+<a class="button button--blue" href="https://www.erasmusplus.de/erasmus/bildungsbereiche/erwachsenenbildung/">Erwachsenenbildung</a>
+</div>
+<div class="col-sm-4 button__container">
+<a class="button button--blue" href="https://www.erasmusplus.de/erasmus/bildungsbereiche/jugend-in-aktion/">JUGEND IN AKTION</a>
+</div>
+<div class="col-sm-4 button__container">
+<a class="button button--blue" href="https://www.erasmusplus.de/erasmus/bildungsbereiche/sport/">Sport</a>
+</div>
+</div></div>
+</div>
+<section class="aktuelles">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="list-box">
+<div class="csc-frame csc-frame-default layout-0" id="c373"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader"><a href="https://www.erasmusplus.de/service/aktuelle/">Aktuelles</a></h2></div>
+<div class="news">
+<!--TYPO3SEARCH_end-->
+<div class="news-list-container" id="news-container-373">
+<!--
+    =====================
+        Partials/List/Item-Home.html
+-->
+<div class="article article--home articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+<!-- header -->
+<div class="header">
+<!-- date -->
+<span class="news-list-date">
+<time datetime="2020-11-10" itemprop="datePublished">
+                10.11.2020
+            </time>
+</span>
+<h3>
+<a href="https://www.erasmusplus.de/service/aktuelle/nachricht/news/erasmus-akkreditierung-fuer-schulbereich-gut-angekommen/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=2e1417f7d19f8e8c4712a02374a53930" title="Erasmus+ Akkreditierung für Schulbereich gut angekommen">
+<span itemprop="headline">Erasmus+ Akkreditierung für Schulbereich gut angekommen</span>
+</a>
+</h3>
+</div>
+<!-- teaser -->
+<div class="teaser-text">
+<div itemprop="description"><p class="bodytext">Mit 443 Anträgen ist die erste Antragsrunde für die Akkreditierung im Schulbereich erfolgreich beendet. Ein positiver Auftakt für die im nächsten Jahr startende nächste Generation des europäischen Bildungsprogramms Erasmus+.</p></div>
+</div>
+</div>
+<!--
+    =====================
+        Partials/List/Item-Home.html
+-->
+<div class="article article--home articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+<!-- header -->
+<div class="header">
+<!-- date -->
+<span class="news-list-date">
+<time datetime="2020-11-03" itemprop="datePublished">
+                03.11.2020
+            </time>
+</span>
+<h3>
+<a href="https://www.erasmusplus.de/service/aktuelle/nachricht/news/selbstaendig-mit-behinderung-barrierefreie-tipps-fuer-gruenderinnen-und-gruender/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=7ec3cdf7647aedae51fce3376140ea0b" title="Selbständig mit Behinderung? Barrierefreie Tipps für Gründerinnen und Gründer">
+<span itemprop="headline">Selbständig mit Behinderung? Barrierefreie Tipps für Gründerinnen und Gründer</span>
+</a>
+</h3>
+</div>
+<!-- teaser -->
+<div class="teaser-text">
+<div itemprop="description"><p class="bodytext">Ist meine Idee gut? Wie finde ich Kundschaft? Wieviel Geld muss ich verdienen? Wer sich selbständig machen will, hat viele Fragen. Den Zugang zu Informationen und Hilfen für Menschen mit Behinderungen, die sich selbstständig...</p></div>
+</div>
+</div>
+<!--
+    =====================
+        Partials/List/Item-Home.html
+-->
+<div class="article article--home articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+<!-- header -->
+<div class="header">
+<!-- date -->
+<span class="news-list-date">
+<time datetime="2020-11-03" itemprop="datePublished">
+                03.11.2020
+            </time>
+</span>
+<h3>
+<a href="https://www.erasmusplus.de/service/aktuelle/nachricht/news/ein-perspektivwechsel-fuer-die-berufliche-inklusion/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=344c17e1b8c3f1d561e4cecb0ce37f81" title="Ein Perspektivwechsel für die berufliche Inklusion">
+<span itemprop="headline">Ein Perspektivwechsel für die berufliche Inklusion</span>
+</a>
+</h3>
+</div>
+<!-- teaser -->
+<div class="teaser-text">
+<div itemprop="description"><p class="bodytext">Die praktische Umsetzung der Inklusion von Menschen mit Behinderungen in der beruflichen Bildung stellt nach wie vor eine große Herausforderung dar. Die Strategische Partnerschaft INCLUTRAIN beschäftigte sich daher mit dem Thema...</p></div>
+</div>
+</div>
+</div>
+<!--TYPO3SEARCH_begin-->
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="list-box">
+<div class="csc-frame csc-frame-default layout-0" id="c104"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader"><a href="https://www.erasmusplus.de/service/termine/" title="Alle Termine">Termine</a></h2></div><div class="tx-cal-controller ">
+<div class="list-view">
+<div class="list-box-inner">
+<div class="list-box-item">
+<div class="date-container"><span class="date__item date--month">Nov</span><span class="date__item date--day">25</span><span class="date__item date--year">2020</span></div>
+<div class="desc-container">
+<div class="summary"><a class="url" href="https://www.erasmusplus.de/service/termine/veranstaltung/calendar/2020/11/25/event/tx_cal_phpicalendar/etwinning-kontaktseminar-fuer-lehrkraefte-der-primar-und-sekundarstufe-i/" title="eTwinning-Kontaktseminar für Lehrkräfte der Primar- und Sekundarstufe I">eTwinning-Kontaktseminar für Lehrkräfte der Primar- und Sekundarstufe I</a></div>
+<div class="teaser"> "Partner Finding Fair": Lehrkräfte mit Schülerinnen und Schülern im Alter von 6-12 Jahren finden während dieses Online-Kontaktseminars Partner für gemeinsame eTwinning-Projekte. Neben...</div>
+</div>
+</div>
+<div class="list-box-item">
+<div class="date-container"><span class="date__item date--month">Dez</span><span class="date__item date--day">08</span><span class="date__item date--year">2020</span></div>
+<div class="desc-container">
+<div class="summary"><a class="url" href="https://www.erasmusplus.de/service/termine/veranstaltung/calendar/2020/12/08/event/tx_cal_phpicalendar/tca-anything-international-building-the-foundation-for-international-mobility/" title="TCA &amp;quot;Anything International!? - Building the Foundation for International Mobility&amp;quot; ">TCA "Anything International!? - Building the Foundation for International Mobility" </a></div>
+<div class="teaser"> Bei diesem europäischen Onlineseminar können sich Lehrkräfte der Primarstufe und von weiterführenden Schulen über die Möglichkeiten von Erasmus+ und eTwinning informieren. Ein besonderer Schwerpunkt...</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container stoerer">
+<a href="https://www.erasmusplus.de/service/">
+<img alt="" class="img-responsive" height="135" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/stoerer_service.jpg" width="313"/>
+</a>
+<a href="https://www.erasmusplus.de/service/dokumente/">
+<img alt="" class="img-responsive" height="134" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/stoerer_downloads.jpg" width="313"/>
+</a>
+<a href="https://www.erasmusplus.de/service/publikationen/">
+<img alt="" class="img-responsive" height="135" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/stoerer_publikationen.jpg" width="312"/>
+</a>
+</div>
+<div class="container descriptions">
+<div class="row">
+<div class="col-sm-6">
+<div class="blue-box">
+<div class="csc-frame csc-frame-default layout-0" id="c35"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader">Erasmus+</h2></div><p class="bodytext">Erasmus+ ist das Programm für Bildung, Jugend und Sport der Europäischen Union. In Erasmus+ werden die bisherigen EU-Programme für lebenslanges Lernen, Jugend und Sport sowie die europäischen Kooperationsprogramme im Hochschulbereich zusammengefasst. </p>
+<p class="bodytext">Erasmus+ ist mit einem Budget in Höhe von rund 14,8 Mrd. Euro ausgestattet. Mehr als vier Millionen Menschen werden bis 2020 von den EU-Mitteln profitieren. Das auf sieben Jahre ausgelegte Programm soll Kompetenzen und Beschäftigungsfähigkeit verbessern und die Modernisierung der Systeme der allgemeinen und beruflichen Bildung und der Kinder- und Jugendhilfe voranbringen.</p>
+<p class="bodytext"><a class="internal-link" href="https://www.erasmusplus.de/erasmus/" target="_blank" title="Öffnet internen Link im aktuellen Fenster">Erfahren Sie mehr zu den Zielen und Maßnahmen </a></p></div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="blue-box">
+<div class="csc-frame csc-frame-default layout-0" id="c36"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader">Wer wir sind</h2></div><p class="bodytext">Vier Nationale Agenturen setzen in Deutschland das EU-Programm Erasmus+ um. Wir haben es uns gemeinsam zum Ziel gesetzt, die Chancen und Möglichkeiten des neuen Programms für Sie verständlich und serviceorientiert nutzbar zu machen. Mit unserer langjährigen Kompetenz in der Unterstützung der EU-Bildungszusammenarbeit gewährleisten wir Kontinuität und Know-how in den entsprechenden Bildungsbereichen.</p>
+<p class="bodytext">Hier finden Sie Ihre Ansprechpartnerinnen und Ansprechpartner, wenn es um Projektberatung, Antragstellung und Unterstützung für Ihre europäischen Projekte geht. Wir praktizieren Europäische Zusammenarbeit in einem Netzwerk von Nationalen Agenturen für Erasmus+ in ganz Europa.</p>
+<p class="bodytext"><a class="internal-link" href="https://www.erasmusplus.de/wer-wir-sind/" target="_blank" title="Öffnet internen Link im aktuellen Fenster">Erfahren Sie mehr über uns »</a></p></div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="logos bg-white">
+<span>Gefördert durch</span>
+<div class="row">
+<div class="logo__container"><a href="https://www.erasmusplus.de/" target="_blank"><img alt="Erasmus+" height="248" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/logo_erasmusplus_footer.jpg" title="Erasmus+" width="402"/></a><a href="http://www.kmk-pad.org/" target="_blank"><img alt="Kultusministerkonferenz" height="125" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/kmk_logo_erasmus_neu.jpg" title="Kultusministerkonferenz" width="200"/></a><a href="http://www.bmfsfj.de/" target="_blank"><img alt="Erasmus+" height="108" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/logo_BMFSFJ_footer.jpg" title="Erasmus+" width="285"/></a><a class="bmbf-logo" href="http://www.bmbf.de/" target="_blank"><img alt="Erasmus+" height="124" src="https://www.erasmusplus.de/fileadmin/Resources/Public/Images/logo_BMBF_footer.gif" title="Erasmus+" width="201"/></a></div>
+</div>
+</div>
+<div class="footernavigation visible-xs">
+<ul>
+<li>
+<a href="/leichte-sprache/" title="Leichte Sprache">Leichte Sprache</a>
+</li>
+<li>
+<a href="/datenschutzerklaerung/" title="Datenschutzerklärung">Datenschutzerklärung</a>
+</li>
+<li>
+<a href="/impressum/" title="Impressum">Impressum</a>
+</li>
+<li>
+<a href="/sitemap/" title="Sitemap">Sitemap</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script src="https://www.erasmusplus.de/typo3conf/ext/t3ddy/Resources/Public/JavaScript/Libraries/jquery-ui-1.11.4-custom.min.js?1532596634" type="text/javascript"></script>
+<script src="https://www.erasmusplus.de/fileadmin/Resources/Public/Javascript/bootstrap.min.js?1601616554" type="text/javascript"></script>
+<script src="https://www.erasmusplus.de/fileadmin/Resources/Public/Javascript/jquery.slicknav.js?1601616554" type="text/javascript"></script>
+<script src="https://www.erasmusplus.de/fileadmin/Resources/Public/Javascript/jquery.flexslider.js?1601616554" type="text/javascript"></script>
+<script src="https://www.erasmusplus.de/fileadmin/Resources/Public/Javascript/app.js?1601616554" type="text/javascript"></script>
+<script src="https://www.erasmusplus.de/typo3conf/ext/t3ddy/Resources/Public/JavaScript/Frontend/t3ddy.js?1532596634" type="text/javascript"></script>
+</body>
+</html>

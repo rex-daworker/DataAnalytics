@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/WebPage" lang="de-DE">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Roulette Videos, sehen Sie sich Roulette Videos an, Tutorial Roulette Videos, sehen Sie sich online Roulette Videos an" name="keywords"/>
+<meta content="Sehen Sie sich die besten Videos über Roulette online kostenlos an - nützliche und informative Inhalte finden Sie bei Roulette 77!" name="description"/>
+<title>Roulette Videos - Sieh und lern | Roulette77 | Deutschland</title>
+<meta content="https://roulette77.de/img/logo.png" itemprop="image"/>
+<meta content="website" property="og:type"/>
+<meta content="https://roulette77.de/roulette-videos" property="og:url"/>
+<meta content="Roulette Videos - Sieh und lern | Roulette77 | Deutschland" property="og:title"/>
+<meta content="Sehen Sie sich die besten Videos über Roulette online kostenlos an - nützliche und informative Inhalte finden Sie bei Roulette 77!" property="og:description"/>
+<meta content="https://roulette77.de/img/logo-big.png" property="og:image"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="https://roulette77.de/roulette-videos" property="twitter:url"/>
+<meta content="Roulette Videos - Sieh und lern | Roulette77 | Deutschland" property="twitter:title"/>
+<meta content="Sehen Sie sich die besten Videos über Roulette online kostenlos an - nützliche und informative Inhalte finden Sie bei Roulette 77!" property="twitter:description"/>
+<meta content="https://roulette77.de/img/logo.png" property="twitter:image"/>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&amp;family=Roboto+Condensed:wght@400;700&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="./css/style.css?v=75" media="all" rel="stylesheet"/>
+<link href="https://roulette77.de/roulette-videos" rel="canonical"/>
+<link href="https://rolet77indonesia.com/rolet-video" hreflang="id-ID" rel="alternate"/>
+<link href="https://roulette77.de/roulette-videos" hreflang="de-DE" rel="alternate"/>
+<link href="https://roulette77.fr/séquences-vidéo-de-roulette" hreflang="fr-FR" rel="alternate"/>
+<link href="https://roulette77.co.uk/roulette-videos" hreflang="en-GB" rel="alternate"/>
+<link href="https://roulette77.nl/roulette-videos" hreflang="nl-NL" rel="alternate"/>
+<link href="https://freeroulettedoc.com/roulette-videos" hreflang="en-CA" rel="alternate"/>
+<link href="https://roulette77australia.com/roulette-videos" hreflang="en-AU" rel="alternate"/>
+<link href="https://roulette77thailand.com/รูเล็ตวิดีโอ" hreflang="th-TH" rel="alternate"/>
+<link href="https://roulette77vietnam.com/roulette-video" hreflang="vi-VN" rel="alternate"/>
+<link href="https://roulette77hongkong.com/輪盤視頻" hreflang="zh-HK" rel="alternate"/>
+<link href="https://roulette77.se/roulette-videos" hreflang="sv-SE" rel="alternate"/>
+<link href="https://rulett77.com/roulette-videoer" hreflang="no-NO" rel="alternate"/>
+<link href="https://ruletti77suomi.com/ruletti-videoita" hreflang="fi-FI" rel="alternate"/>
+<link href="https://roulette77espana.org/videos-de-ruleta" hreflang="es-ES" rel="alternate"/>
+<link href="https://roulette77.it/video-roulette" hreflang="it-IT" rel="alternate"/>
+<link href="https://roulette-77.ru/video-ruletka" hreflang="ru-RU" rel="alternate"/>
+<link href="https://roulette77.jp/ルーレットビデオ" hreflang="ja-JP" rel="alternate"/>
+<link href="https://roulette77.us/roulette-videos" hreflang="en-US" rel="alternate"/>
+<link href="http://roulette77.cn/輪盤視頻" hreflang="zh-CN" rel="alternate"/>
+<link href="https://roulette77ireland.com/roulette-videos" hreflang="en-IE" rel="alternate"/>
+<link href="https://roulette77canada.org/séquences-vidéo-de-roulette" hreflang="fr-CA" rel="alternate"/>
+<link href="https://roulette77.be/roulette-videos" hreflang="nl-BE" rel="alternate"/>
+<link href="https://roulette77.at/roulette-videos" hreflang="de-AT" rel="alternate"/>
+<link href="https://roulette77singapore.com/roulette-videos" hreflang="en-SG" rel="alternate"/>
+<link href="https://roulette77newzealand.com/roulette-videos" hreflang="en-NZ" rel="alternate"/>
+<link href="http://rulet77turkiye.com/rulet-videolar" hreflang="tr-TR" rel="alternate"/>
+<link href="https://roulette77.com.tw/輪盤視頻" hreflang="zh-TW" rel="alternate"/>
+<link href="http://roulette77schweiz.com/roulette-videos" hreflang="de-CH" rel="alternate"/>
+<link href="https://roulette77.co.za/roulette-videos" hreflang="en-ZA" rel="alternate"/>
+<link href="http://roulette77.lu/roulette-videos" hreflang="de-LU" rel="alternate"/>
+<link href="https://roulette77morocco.com/séquences-vidéo-de-roulette" hreflang="fr-MA" rel="alternate"/>
+<link href="http://roulette77algeria.com/séquences-vidéo-de-roulette" hreflang="fr-DZ" rel="alternate"/>
+<link href="http://roulette77.li/roulette-videos" hreflang="de-LI" rel="alternate"/>
+<link href="http://roulette77senegal.com/séquences-vidéo-de-roulette" hreflang="fr-SN" rel="alternate"/>
+<link href="http://roulette77bahamas.com/roulette-videos" hreflang="en-BS" rel="alternate"/>
+<link href="https://roulette77.mx/videos-de-ruleta" hreflang="es-MX" rel="alternate"/>
+<link href="https://ruleta77argentina.com/videos-de-ruleta" hreflang="es-AR" rel="alternate"/>
+<link href="https://ruleta77chili.com/videos-de-ruleta" hreflang="es-CL" rel="alternate"/>
+<link href="https://roulette77.co/videos-de-ruleta" hreflang="es-CO" rel="alternate"/>
+<link href="https://roleta77peru.com/videos-de-ruleta" hreflang="es-PE" rel="alternate"/>
+<link href="https://ruleta77uruguay.com/videos-de-ruleta" hreflang="es-UY" rel="alternate"/>
+<link href="http://ruleta77panama.com/videos-de-ruleta" hreflang="es-PA" rel="alternate"/>
+<link href="https://roulette77belarus.com/video-ruletka" hreflang="ru-BY" rel="alternate"/>
+<link href="https://ruletka77kz.com/video-ruletka" hreflang="ru-KZ" rel="alternate"/>
+<link href="https://ruletka77ukraine.com/video-ruletka" hreflang="ru-UA" rel="alternate"/>
+<link href="http://roulette77egypt.com/فيديوهات-روليت" hreflang="ar-EG" rel="alternate"/>
+<link href="http://roulette77emirates.com/فيديوهات-روليت" hreflang="ar-AE" rel="alternate"/>
+<link href="https://roulette77korea.com/룰렛-비디오" hreflang="ko-KR" rel="alternate"/>
+<link href="https://roulette77danmark.com/roulette-videoer" hreflang="da-DK" rel="alternate"/>
+<link href="https://roulette77.pl/filmy-wideo-ruletki" hreflang="pl-PL" rel="alternate"/>
+<link href="https://ruleta77slovenia.com/ruleto-videi" hreflang="sl-SI" rel="alternate"/>
+<link href="https://ruleta77slovakia.com/ruletové-videá" hreflang="sk-SK" rel="alternate"/>
+<link href="https://ruleta77czech.com/videa-o-ruletě" hreflang="cs-CZ" rel="alternate"/>
+<link href="https://roleta77portugal.com/vídeos-sobre-roleta" hreflang="pt-PT" rel="alternate"/>
+<link href="https://roleta77brazil.com/vídeos-sobre-roleta" hreflang="pt-BR" rel="alternate"/>
+<link href="https://roulette77.in/roulette-videos" hreflang="en-IN" rel="alternate"/>
+<link href="http://rulett77estonia.com/rulett-videod" hreflang="et-EE" rel="alternate"/>
+<link href="https://rulet77serbia.com/video-ruleta" hreflang="sr-RS" rel="alternate"/>
+<link href="https://roulette77tanzania.com/video-za-roulette" hreflang="sw-TZ" rel="alternate"/>
+<link href="https://roulette77israel.com/סרטוני-רולטה" hreflang="he-IL" rel="alternate"/>
+<link href="http://rouleta77cyprus.com/bίντεο-ρουλέτας" hreflang="el-CY" rel="alternate"/>
+<link href="https://roulette77.gr/bίντεο-ρουλέτας" hreflang="el-GR" rel="alternate"/>
+<link href="http://ruleta77romaina.com/videoclipuri-ruletă" hreflang="ro-RO" rel="alternate"/>
+<link href="http://roulette77.lv/ruletes-video" hreflang="lv-LV" rel="alternate"/>
+<link href="https://ruletka77georgia.com/რულეტის-ვიდეოები" hreflang="ka-GE" rel="alternate"/>
+<link href="https://ruletka77bulgaria.com/видеа-с-рулетка" hreflang="bg-BG" rel="alternate"/>
+<link href="https://rulett77hungary.com/rulett-videók" hreflang="hu-HU" rel="alternate"/>
+<link href="https://rulet77croatia.com/video-ruleta" hreflang="hr-HR" rel="alternate"/>
+<link href="http://rulletta77.com/rúlletta-myndbönd" hreflang="is-IS" rel="alternate"/>
+<link href="https://rulete77lithuania.com/ruletė-vaizdo-įrašai" hreflang="lt-LT" rel="alternate"/>
+<link href="https://ruletka77ua.com/video-pro-ruletky" hreflang="uk-UA" rel="alternate"/>
+<link href="http://roulette77malta.com/videos-tar-roulette" hreflang="mt-MT" rel="alternate"/>
+<link href="https://ruletka77.com/ruletka-videoları" hreflang="az-AZ" rel="alternate"/>
+<link href="https://rulet77bosnia.com/video-roulette" hreflang="bs-BA" rel="alternate"/>
+<link href="https://ruletka77uzbekistan.com/ruletka-videosi" hreflang="uz-UZ" rel="alternate"/>
+<link href="http://roulette77uganda.com/roulette-videos" hreflang="en-UG" rel="alternate"/>
+<link href="http://rulete77.com/video-ruletëe" hreflang="sq-AL" rel="alternate"/>
+<link href="http://roulette77cambodia.com/videau-roulette" hreflang="km-KH" rel="alternate"/>
+<link href="http://roleta77.com/vídeos-de-ruleta" hreflang="ca-AO" rel="alternate"/>
+<link href="http://rolet77.com/video-rolet" hreflang="ms-BN" rel="alternate"/>
+<link href="https://roulette77kenya.com/roulette-videos" hreflang="en-KE" rel="alternate"/>
+<link href="http://ruleta77ecuador.com/videos-de-ruleta" hreflang="es-EC" rel="alternate"/>
+<link href="http://roulette77jamaica.com/roulette-videos" hreflang="en-JM" rel="alternate"/>
+<link href="http://roulette77nigeria.com/roulette-videos" hreflang="en-NG" rel="alternate"/>
+<link href="http://roulette77lebanon.com/فيديوهات-روليت" hreflang="ar-LB" rel="alternate"/>
+<link href="http://rulet77macedonia.com/pулет-видеа" hreflang="mk-MK" rel="alternate"/>
+<link href="http://ruleta77gibraltar.com/videos-de-ruleta" hreflang="es-GI" rel="alternate"/>
+<link href="https://ruleta77philippines.com/mga-video-ng-ruleta" hreflang="en-PH" rel="alternate"/>
+<link href="https://rolet77malaysia.com/roulette-videos" hreflang="en-MY" rel="alternate"/>
+<link href="http://roulette77afghanistan.com/د-ریل-ویډیو" hreflang="ps-AF" rel="alternate"/>
+<link href="http://roulette77asamoa.com/roulette-videos" hreflang="en-AS" rel="alternate"/>
+<link href="http://ruleta77andorra.com/vídeos-de-ruleta" hreflang="ca-AD" rel="alternate"/>
+<link href="http://roulette77anguilla.com/roulette-videos" hreflang="en-KN" rel="alternate"/>
+<link href="http://roulette77antigua.com/roulette-videos" hreflang="en-AG" rel="alternate"/>
+<link href="http://ruletka77armenia.com/Ռուլետկա-տեսանյութեր" hreflang="hy-AM" rel="alternate"/>
+<link href="http://roulette77bahrain.com/فيديوهات-روليت" hreflang="ar-BH" rel="alternate"/>
+<link href="http://roulette77bangladesh.com/রুলেট-ভিডিও" hreflang="bn-BD" rel="alternate"/>
+<link href="http://roulette77.bz/roulette-videos" hreflang="en-BZ" rel="alternate"/>
+<link href="http://roulette77benin.com/séquences-vidéo-de-roulette" hreflang="fr-BJ" rel="alternate"/>
+<link href="http://roulette77bhutan.com/roulette-videos" hreflang="en-BT" rel="alternate"/>
+<link href="http://ruleta77bolivia.com/videos-de-ruleta" hreflang="es-BO" rel="alternate"/>
+<link href="http://roulette77botswana.com/roulette-videos" hreflang="tn-BW" rel="alternate"/>
+<link href="http://roulette77ukvirginislands.com/roulette-videos" hreflang="en-VG" rel="alternate"/>
+<link href="http://roulette77burkinafaso.com/séquences-vidéo-de-roulette" hreflang="fr-BF" rel="alternate"/>
+<link href="http://roulette77burundi.com/séquences-vidéo-de-roulette" hreflang="fr-BI" rel="alternate"/>
+<link href="https://roulette77cameroon.com/séquences-vidéo-de-roulette" hreflang="fr-CM" rel="alternate"/>
+<link href="http://roleta77capeverde.com/vídeos-de-roleta" hreflang="pt-CV" rel="alternate"/>
+<link href="http://roulette77cf.com/séquences-vidéo-de-roulette" hreflang="fr-CF" rel="alternate"/>
+<link href="http://roulette77chad.com/séquences-vidéo-de-roulette" hreflang="fr-TD" rel="alternate"/>
+<link href="http://roulette77cisland.com/roulette-videos" hreflang="en-CX" rel="alternate"/>
+<link href="http://roulette77.cc/roulette-videos" hreflang="en-CC" rel="alternate"/>
+<link href="http://roulette77brazzaville.com/séquences-vidéo-de-roulette" hreflang="fr-CG" rel="alternate"/>
+<link href="http://roulette77congo.com/séquences-vidéo-de-roulette" hreflang="fr-CD" rel="alternate"/>
+<link href="http://roulette77cookislands.com/roulette-videos" hreflang="en-CK" rel="alternate"/>
+<link href="http://roulette77costarica.com/videos-de-ruleta" hreflang="es-CR" rel="alternate"/>
+<link href="http://roulette77cotedivoire.com/séquences-vidéo-de-roulette" hreflang="fr-CI" rel="alternate"/>
+<link href="http://ruleta77cuba.com/videos-de-ruleta" hreflang="es-CU" rel="alternate"/>
+<link href="http://roulette77djibouti.com/séquences-vidéo-de-roulette" hreflang="fr-DJ" rel="alternate"/>
+<link href="http://roulette77dominica.com/roulette-videos" hreflang="en-DM" rel="alternate"/>
+<link href="http://ruleta77dominican.com/videos-de-ruleta" hreflang="es-DO" rel="alternate"/>
+<link href="http://ruleta77elsalvador.com/videos-de-ruleta" hreflang="es-SV" rel="alternate"/>
+<link href="http://roulette77ethiopia.com/ሩቤል-ቪዲዮዎች" hreflang="am-ET" rel="alternate"/>
+<link href="http://roulette77fiji.com/roulette-videos" hreflang="en-FJ" rel="alternate"/>
+<link href="http://roulette77.ga/séquences-vidéo-de-roulette" hreflang="fr-GA" rel="alternate"/>
+<link href="http://roulette77gambia.com/video-za-roulette" hreflang="wo-GM" rel="alternate"/>
+<link href="http://roulette77ghana.com/roulette-videos" hreflang="en-GH" rel="alternate"/>
+<link href="http://roulette77greenland.com/roulette-videos" hreflang="nl-GL" rel="alternate"/>
+<link href="http://roulette77guadeloupe.com/séquences-vidéo-de-roulette" hreflang="fr-GP" rel="alternate"/>
+<link href="http://ruleta77guatemala.com/videos-de-ruleta" hreflang="es-GT" rel="alternate"/>
+<link href="http://roulette77guernsey.com/séquences-vidéo-de-roulette" hreflang="fr-GG" rel="alternate"/>
+<link href="http://roulette77guyana.com/roulette-videos" hreflang="en-GY" rel="alternate"/>
+<link href="http://roulette77haiti.com/séquences-vidéo-de-roulette" hreflang="fr-HT" rel="alternate"/>
+<link href="http://ruleta77honduras.com/videos-de-ruleta" hreflang="es-HN" rel="alternate"/>
+<link href="https://roulette77iraq.com/فيديوهات-روليت" hreflang="ar-IQ" rel="alternate"/>
+<link href="http://roulette77.im/roulette-videos" hreflang="en-IM" rel="alternate"/>
+<link href="http://roulette77jersey.com/séquences-vidéo-de-roulette" hreflang="fr-JE" rel="alternate"/>
+<link href="http://roulette77jordan.com/فيديوهات-روليت" hreflang="ar-JO" rel="alternate"/>
+<link href="http://roulette77kiribati.com/roulette-videos" hreflang="en-KI" rel="alternate"/>
+<link href="http://roulette77kuwait.com/فيديوهات-روليت" hreflang="ar-KW" rel="alternate"/>
+<link href="http://ruletka77kyrgyzstan.com/видео-рулетка" hreflang="ky-KG" rel="alternate"/>
+<link href="http://roulette77.la/]ວິດີໂອ" hreflang="lo-LA" rel="alternate"/>
+<link href="http://roulette77lesotho.com/roulette-filmetoj" hreflang="st-LS" rel="alternate"/>
+<link href="http://roulette77libya.com/فيديوهات-روليت" hreflang="ar-LY" rel="alternate"/>
+<link href="http://roulette77madagascar.com/roulette-videos" hreflang="mg-MG" rel="alternate"/>
+<link href="http://roulette77malawi.com/video-za-roulette" hreflang="ny-MW" rel="alternate"/>
+<link href="http://roulette77maldives.com/roulette-videos" hreflang="en-MV" rel="alternate"/>
+<link href="http://roulette77mali.com/séquences-vidéo-de-roulette" hreflang="fr-ML" rel="alternate"/>
+<link href="http://roulette77mauritius.com/séquences-vidéo-de-roulette" hreflang="fr-MU" rel="alternate"/>
+<link href="http://roulette77micronesia.com/roulette-videos" hreflang="en-FM" rel="alternate"/>
+<link href="http://ruleta77moldova.com/ruleta-video" hreflang="ro-MD" rel="alternate"/>
+<link href="https://rulet77mongolia.com/roulette-видео" hreflang="mn-MN" rel="alternate"/>
+<link href="http://roulette77.me/roulette-video-snimci" hreflang="hr-ME" rel="alternate"/>
+<link href="http://roulette77monserrat.com/roulette-videos" hreflang="en-MS" rel="alternate"/>
+<link href="https://roleta77mozambique.com/vídeos-de-roleta" hreflang="pt-MZ" rel="alternate"/>
+<link href="http://roulette77burma.com/ကစားတဲ့ဗီဒီယိုများ" hreflang="my-MM" rel="alternate"/>
+<link href="http://roulette77namibia.com/roulette-videos" hreflang="af-NA" rel="alternate"/>
+<link href="http://roulette77nauru.com/roulette-videos" hreflang="en-NR" rel="alternate"/>
+<link href="http://roulette77nepal.com/रूले-भिडियोहरू" hreflang="ne-NP" rel="alternate"/>
+<link href="http://ruleta77nicaragua.com/videos-de-ruleta" hreflang="es-NI" rel="alternate"/>
+<link href="http://roulette77niger.com/séquences-vidéo-de-roulette" hreflang="fr-NE" rel="alternate"/>
+<link href="http://roulette77niue.com/roulette-videos" hreflang="en-NU" rel="alternate"/>
+<link href="http://roulette77norfolk.com/roulette-videos" hreflang="en-NF" rel="alternate"/>
+<link href="http://roulette77oman.com/فيديوهات-روليت" hreflang="ar-OM" rel="alternate"/>
+<link href="http://roulette77pakistan.com/رولیٹی-ویڈیو" hreflang="ur-PK" rel="alternate"/>
+<link href="http://roulette77palestine.com/فيديوهات-روليت" hreflang="ar-PS" rel="alternate"/>
+<link href="http://roulette77papunewguinea.com/roulette-videos" hreflang="en-PG" rel="alternate"/>
+<link href="http://ruleta77paraguay.com/videos-de-ruleta" hreflang="es-PY" rel="alternate"/>
+<link href="http://roulette77pitcairnislands.com/roulette-videos" hreflang="en-PN" rel="alternate"/>
+<link href="http://ruleta77puertorico.com/videos-de-ruleta" hreflang="es-PR" rel="alternate"/>
+<link href="http://roulette77quatar.com/فيديوهات-روليت" hreflang="ar-QA" rel="alternate"/>
+<link href="http://roulette77rwanda.com/séquences-vidéo-de-roulette" hreflang="fr-RW" rel="alternate"/>
+<link href="http://roulette77sthelena.com/roulette-videos" hreflang="en-SH" rel="alternate"/>
+<link href="http://roulette77stvincent.com/roulette-videos" hreflang="en-VC" rel="alternate"/>
+<link href="http://roulette77.ws/roulette-videos" hreflang="en-WS" rel="alternate"/>
+<link href="http://roulette77sanmarino.com/video-della-roulette" hreflang="it-SM" rel="alternate"/>
+<link href="http://roulette77st.com/vídeos-de-roleta" hreflang="pt-ST" rel="alternate"/>
+<link href="https://roulette77sa.com/فيديوهات-روليت" hreflang="ar-SA" rel="alternate"/>
+<link href="http://roulette77seychelles.com/roulette-videyo" hreflang="ht-SC" rel="alternate"/>
+<link href="http://roulette77sierraleone.com/roulette-videos" hreflang="en-SL" rel="alternate"/>
+<link href="http://roulette77solomonislands.com/roulette-videos" hreflang="en-SB" rel="alternate"/>
+<link href="http://roulette77somalia.com/fiidiyeyaasha-roulette" hreflang="so-SO" rel="alternate"/>
+<link href="http://roulette77srilanka.com/රූට්ලට්වී-ඩියෝ" hreflang="si-LK" rel="alternate"/>
+<link href="http://roulette77suriname.com/roulette-videos" hreflang="nl-SR" rel="alternate"/>
+<link href="http://roulette77tajikistan.com/видео-roulette" hreflang="tg-TJ" rel="alternate"/>
+<link href="http://roleta77timorleste.com/vídeos-de-roleta" hreflang="pt-TL" rel="alternate"/>
+<link href="http://roulette77togo.com/séquences-vidéo-de-roulette" hreflang="fr-TG" rel="alternate"/>
+<link href="http://roulette77.tk/roulette-videos" hreflang="en-TK" rel="alternate"/>
+<link href="http://roulette77tonga.com/video-za-roulette" hreflang="to-TO" rel="alternate"/>
+<link href="http://roulette77trinidad.com/roulette-videos" hreflang="en-TT" rel="alternate"/>
+<link href="https://roulette77tunisia.com/فيديوهات-روليت" hreflang="ar-TN" rel="alternate"/>
+<link href="http://roulette77turkmenistan.com/видео-ruletka" hreflang="tk-TM" rel="alternate"/>
+<link href="http://roulette77usvirginislands.com/roulette-videos" hreflang="en-VI" rel="alternate"/>
+<link href="http://roulette77vanautu.com/séquences-vidéo-de-roulette" hreflang="fr-VU" rel="alternate"/>
+<link href="http://ruleta77venezuela.com/videos-de-ruleta" hreflang="es-VE" rel="alternate"/>
+<link href="http://roulette77zambia.com/video-za-roulette" hreflang="ny-ZM" rel="alternate"/>
+<link href="http://roulette77zimbabwe.com/roulette-mavhidhiyo" hreflang="sn-ZW" rel="alternate"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MVRKTKD');</script>
+<!-- End Google Tag Manager -->
+<script src="js/ie6.js" type="text/javascript"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVRKTKD" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Adskeeper Sensor -->
+<script type="text/javascript"> (function() { var d = document, w = window; w.MgSensorData = w.MgSensorData || []; w.MgSensorData.push({ cid:577195, lng:"us", nosafari:true, project: "a.adskeeper.co.uk" }); var l = "a.adskeeper.co.uk"; var n = d.getElementsByTagName("script")[0]; var s = d.createElement("script"); s.type = "text/javascript"; s.async = true; var dt = !Date.now?new Date().valueOf():Date.now(); s.src = "https://" + l + "/mgsensor.js?d=" + dt; n.parentNode.insertBefore(s, n); })(); 
+</script>
+<!-- /Adskeeper Sensor -->
+<div class="page page__sitemap-lang">
+<div class="flag-section">
+<div class="flag-list">
+<a class="sprite id_id" href="https://rolet77indonesia.com" title="Roulette77 Indonesia / Bahasa Indonesia"></a>
+<a class="sprite de_de" href="https://roulette77.de" title="Roulette77 Deutschland / Deutsch"></a>
+<a class="sprite fr_fr" href="https://roulette77.fr" title="Roulette77 France / Français"></a>
+<a class="sprite en_gb" href="https://roulette77.co.uk" title="Roulette77 UK / English"></a>
+<a class="sprite da_nl" href="https://roulette77.nl" title="Roulette77 Nederland / Dutch"></a>
+<a class="sprite en_ca" href="https://freeroulettedoc.com" title="Roulette77 Canada / English"></a>
+<a class="sprite en_au" href="https://roulette77australia.com" title="Roulette77 Australia / English"></a>
+<a class="sprite th_th" href="https://roulette77thailand.com" title="Roulette77 ประเทศไทย / ไทย"></a>
+<a class="sprite vi_vn" href="https://roulette77vietnam.com" title="Roulette77 Việt Nam / Tiếng Việt"></a>
+<a class="sprite zh_hk" href="https://roulette77hongkong.com" title="Roulette77 香港 / 繁體中文"></a>
+<a class="sprite sv_se" href="https://roulette77.se" title="Roulette77 Sverige / Svenska"></a>
+<a class="sprite no_no" href="https://rulett77.com" title="Roulette77 Norge / Norsk"></a>
+<a class="sprite fi_fi" href="https://ruletti77suomi.com" title="Roulette77 Suomi / Suomi"></a>
+<a class="sprite es_es" href="https://roulette77espana.org" title="Roulette77 Espana / Español"></a>
+<a class="sprite it_it" href="https://roulette77.it" title="Roulette77 Italia / Italiano"></a>
+<a class="sprite ru_ru" href="https://roulette-77.ru" title="Roulette77 Россия / Русский"></a>
+<a class="sprite ja_jp" href="https://roulette77.jp" title="Roulette77 日本 / 日本語"></a>
+</div>
+</div>
+<!---  top t1 --->
+<nav class="header-nav-section nav-section--extended">
+<div class="container">
+<div class="menu-toggle-flag">
+<div class="hamburger-flag de_de"></div>
+</div>
+<div class="menu-toggle">
+<div class="hamburger"></div>
+</div>
+<div class="block-logo-mobile">
+<a class="block-logo-mobile__link" href="/">
+<!--<img src="./img/logo-mobile.png" alt="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" title="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland">-->
+<img alt="Roulette77" src="./img/logo-mobile.png"/>
+</a>
+</div>
+<div class="flag-section-mobile">
+<div class="flag-list">
+<div class="flag-list__item">
+<a class="sprite id_id" href="https://rolet77indonesia.com" title="Roulette77 Indonesia / Bahasa Indonesia"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite de_de" href="https://roulette77.de" title="Roulette77 Deutschland / Deutsch"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite fr_fr" href="https://roulette77.fr" title="Roulette77 France / Français"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_gb" href="https://roulette77.co.uk" title="Roulette77 UK / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite da_nl" href="https://roulette77.nl" title="Roulette77 Nederland / Dutch"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_ca" href="https://freeroulettedoc.com" title="Roulette77 Canada / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite en_au" href="https://roulette77australia.com" title="Roulette77 Australia / English"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite th_th" href="https://roulette77thailand.com" title="Roulette77 ประเทศไทย / ไทย"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite vi_vn" href="https://roulette77vietnam.com" title="Roulette77 Việt Nam / Tiếng Việt"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite zh_hk" href="https://roulette77hongkong.com" title="Roulette77 香港 / 繁體中文"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite sv_se" href="https://roulette77.se" title="Roulette77 Sverige / Svenska"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite no_no" href="https://rulett77.com" title="Roulette77 Norge / Norsk"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite fi_fi" href="https://ruletti77suomi.com" title="Roulette77 Suomi / Suomi"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite es_es" href="https://roulette77espana.org" title="Roulette77 Espana / Español"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite it_it" href="https://roulette77.it" title="Roulette77 Italia / Italiano"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite ru_ru" href="https://roulette-77.ru" title="Roulette77 Россия / Русский"></a>
+</div>
+<div class="flag-list__item">
+<a class="sprite ja_jp" href="https://roulette77.jp" title="Roulette77 日本 / 日本語"></a>
+</div>
+</div>
+</div>
+<ul class="nav">
+<li class="home-row">
+<a class="nav-item" href="/">Startseite</a>
+</li>
+<li class="nav-group">
+<div class="nav-group__title group-games">
+<span class="nav-group__title-text">Roulette Spiele</span>
+<span class="nav-group__triangle">▼</span>
+</div>
+<ul class="nav-group__list">
+<li class="eur-row">
+<a class="nav-item nav-group__item" href="europäisches-roulette">Europäisches Roulette</a>
+</li>
+<li class="am-row">
+<a class="nav-item nav-group__item" href="amerikanisches-roulette">Amerikanisches Roulette</a>
+</li>
+<li class="french-row">
+<a class="nav-item nav-group__item" href="franzosisches-roulette">Französisches Roulette</a>
+</li>
+<li class="simulator-row">
+<a class="nav-item nav-group__item" href="roulette-simulator">Roulette Simulator</a>
+</li>
+</ul>
+</li>
+<li class="logo-row">
+<a class="nav-item-logo" href="/">
+<img alt="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland" src="https://roulette77.de/img/main/logo.png" title="Spielen Sie Online Roulette - Kostenlos oder Echtgeld  | Roulette 77 | Deutschland"/>
+</a>
+</li>
+<li class="liveroulette-row">
+<a class="nav-item" href="live-roulette">Live roulette</a>
+</li>
+<li class="nav-group">
+<div class="nav-group__title group-guides">
+<span class="nav-group__title-text">Führer</span>
+<span class="nav-group__triangle">▼</span>
+</div>
+<ul class="nav-group__list">
+<li class="video-row">
+<a class="nav-item nav-group__item" href="roulette-videos">Roulette videos</a>
+</li>
+<li class="how-to-play-row">
+<a class="nav-item nav-group__item" href="wie-man-spielt">Wie man spielt?</a>
+</li>
+<li class="roulette-strategies-row">
+<a class="nav-item nav-group__item" href="roulette-strategien">Roulette Strategien</a>
+</li>
+<li class="roulette-calc-row">
+<a class="nav-item nav-group__item" href="roulette-quotenrechner">Quotenrechner</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<div class="roulette-videos">
+<div class="container">
+<ul class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li class="first" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="/" itemprop="item">
+<span itemprop="name">
+                                Startseite                            </span>
+</a>
+<meta content="1" itemprop="position"/>
+</li>
+<li>/</li>
+<li>
+                Roulette videos            </li>
+</ul>
+<h1 class="block-roulette__title">Roulette-Videos</h1>
+<div class="block-roulette__videos">
+<div class="roulette-videos__item">
+<div class="roulette-videos__item-title">Wie man Roulette spielt</div>
+<iframe allowfullscreen="" height="170" src="https://www.youtube.com/embed/j-FPpBx7Gdk" style="border: none;" width="294"></iframe>
+<div class="roulette-videos__item-description">
+                    Lernen Sie mit Hilfe dieses Tutorials, wie man Roulette spielt. Wir werden Ihnen beibringen, wie man ein Roulette Spieler wird.                </div>
+</div>
+<div class="roulette-videos__item">
+<div class="roulette-videos__item-title">Wie bei Roulette zu gewinnen</div>
+<iframe allowfullscreen="" height="170" src="https://www.youtube.com/embed/ikV9HGNVeQY" style="border: none;" width="294"></iframe>
+<div class="roulette-videos__item-description">
+                    Sehen Sie sich das Video-Tutorial an, wie Sie beim Roulette-Spiel gewinnen können. Holen Sie sich die grundlegenden Roulette Strategie Tipps für die Erhöhung der Gewinnchancen.                </div>
+</div>
+<div class="roulette-videos__item">
+<div class="roulette-videos__item-title">Roulette-Variationen</div>
+<iframe allowfullscreen="" height="170" src="https://www.youtube.com/embed/7Ui0Wxoz-BQ" style="border: none;" width="294"></iframe>
+<div class="roulette-videos__item-description">
+                    Lernen Sie alles über amerikanische und europäische Roulette-Spiele sowie neue Roulette-Varianten kennen.                </div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-section">
+<div class="container">
+<div class="content">
+<p>Die Online-Plattform hat Casino-Spiele zugänglich gemacht und macht allen Spielern auf der ganzen Welt viel Spaß. Spieler müssen nicht den ganzen Weg nach Las Vegas reisen, um zu spielen. Von zu Hause aus können Sie kostenlose online <a href="/">Casino Roulette Spiele</a> genießen und große Jackpots gewinnen. Sie können über Ihren Computer, Mobiltelefone und Tablets auf das Online-Casino zugreifen. Achten Sie bitte auf roulette regein. Roulette spielregeln sind sehr einfach.</p>
+<h2>Genießen Sie bequem und einfach die fantastischen Handyspiele.</h2>
+<p>Wenn Sie um echtes Geld spielen wollen ist die beste Option, die Sie wählen können die Slot-Spiele wie die Video-Slots oder die klassischen Slots. Für den Fall, dass Sie immer noch zu verwirrt sind um einen spezifischen Slot zu wählen, versuchen Sie es mit Tisch- und Video-Poker-Spielen. Es handelt sich dabei um außergewöhnliche, unterhaltsame Spiele mit Würfeln, Roulette und Blackjack. Sie können echtes Geld auf Kasinoplattformen gewinnen, wenn Sie <a href="europ%C3%A4isches-roulette">Europäisches Roulette</a> oder <a href="amerikanisches-roulette">Amerikanisches Rulet</a> spielen. Für den Fall, dass Sie es lieben, unterwegs auf Ihre Lieblingskasinos zuzugreifen, gibt es verschiedene Optionen, die Ihnen zur Verfügung stehen. Direkt vom Webbrowser Ihres Mobilgeräts aus können Sie die Welt des Online-Glücksspiels erkunden und um echtes Geld wetten.</p>
+<p>Es gibt auch Kasinoanwendungen, die Sie auf Ihr mobiles Gerät herunterladen können, um Ihre Spiele genießen zu können. Wenn Sie iPhone, iPad, Android, Blackberry oder Windows Phone verwenden, müssen Sie nur den Play Store auf dem Gerät besuchen, um die App herunterzuladen. Sobald Sie die App heruntergeladen haben, können Sie Ihre Spiele starten und anfangen um echtes Geld zu wetten. Um das mobile Casinospielen interessant und lohnend zu machen, bieten Casinoseiten kostenlose  online Casino Roulette Spiele sowie andere Boni für neue Spieler an. Also fangen Sie an und genießen Sie Ihr Lieblings-Casino-Spiel unterwegs und gewinnen Sie einige Jackpots.</p>
+<p>Der große Wettbewerb, um neue Spieler auf den Casinosites zu gewinnen.</p>
+<p>Der Wettbewerb um die Anwerbung neuer Spieler ist auf den Casinoplattformen heftig, und niemand weiß wirklich, wer gewinnen wird. Es geht darum das maximale Besucheraufkommen auf die Casino-Seite zu bekommen und die Betreiber ruhen sich nicht einfach aus. Casino-Glücksspiel ist zum Rave des Augenblicks geworden. Jeder möchte einen Teil des Kuchens haben. Gegenwärtig wächst der Trend des Online-Casinos in Kanada, den USA, Großbritannien, Australien, Malaysia, Südafrika, Indien, den Philippinen und Singapur. Spieler werden in verschiedene Arten von Wetten verwickelt, in der Hoffnung, große Jackpots zu gewinnen. Auch die Betreiber von Casinos drängen und bieten ständig attraktive Boni und neue Spiele an, um neue Spieler auf ihre Seiten zu locken. Die Konkurrenz lässt nicht so schnell nach. Kasino-Websites sind definitiv darauf aus, das Meiste aus dem riesigen Glücksspielmarkt herauszuholen.</p>
+<p>Vergessen Sie bitte nicht um die roulett regeln und spielen Sie!</p> </div>
+</div>
+</div>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "VideoObject",
+            "datePublished": "2018-04-06",
+            "duration": "T4M13S",
+            "name": "Wie man Roulette spielt",
+            "thumbnailUrl": "https://roulette77.de/img/video-screen-1.jpg",
+            "uploadDate": "2018-06-05",
+            "description": "Wie man Roulette spielt"
+        }
+    </script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "VideoObject",
+            "datePublished": "2018-04-06",
+            "duration": "T3M50S",
+            "name": "Wie bei Roulette zu gewinnen",
+            "thumbnailUrl": "https://roulette77.de/img/video-screen-2.jpg",
+            "uploadDate": "2018-06-05",
+            "description": "Wie bei Roulette zu gewinnen"
+        }
+    </script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "VideoObject",
+            "datePublished": "2018-04-06",
+            "duration": "T3M52S",
+            "name": "Roulette-Variationen",
+            "thumbnailUrl": "https://roulette77.de/img/video-screen-3.jpg",
+            "uploadDate": "2018-06-05",
+            "description": "Roulette-Variationen"
+        }
+    </script>
+<div class="footer">
+<div class="container">
+<div class="footer__content-wrap">
+<div class="footer__menu">
+<ul class="footer__menu-list">
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="kontaktieren-sie-uns">Kontaktieren Sie uns</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="sitemap">Sitemap</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="sprache-wählen">Sprache wählen</a>
+</li>
+<li class="footer__menu-item">
+<a class="footer__menu-link" href="uber-uns">Über uns</a>
+</li>
+</ul>
+</div>
+<div class="footer__content">
+                Roulette77 ist der außergewöhnliche Online-Service von Deutsche für Deutsche. Das ist der Ort, wo Sie etwas über das Roulette lernen können ; Regeln und Tricks, besten Strategien, größte Bonusen- alle wichtigen Informationen  gesammelt auf einer österreichischen Website, um Ihre Zeit und Geld zu sparen.            </div>
+<div class="footer__content">
+                Roulette 77
+
+                ist eine unabhängige Website, die keinem Online-Casino angeschlossen ist und Informationen über Online-Roulette bietet. 2011-2020. Alle Rechte sind vorbehalten.            </div>
+<div class="footer__social">
+<a aria-label="Facebook" class="fb" href="/"></a>
+<a aria-label="Twitter" class="tw" href="https://twitter.com/roulette77_team"></a>
+<a aria-label="Youtube" class="youtube" href="https://www.youtube.com/channel/UCUo3debUgP50mCuHGolTcsA"></a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">window.onload = new function(){var hd = document.getElementsByTagName('head').item(0);var js = document.createElement('script'); js.setAttribute('language', 'javascript'); js.setAttribute('src', 'https://certify.gpwa.org/script/roulette77.de/'); hd.appendChild(js); return false;}</script>
+<div class="footer__additional">
+<div class="container">
+<a class="footer__age-logo" href="https://www.schleswig-holstein.de/DE/Fachinhalte/G/gluecksspiel/_documents/onlineCasinospiele.html" rel="nofollow">
+<img alt="Schleswig Holstein" src="./img/schleswig-holstein.png"/>
+</a>
+<a class="footer__age-logo" href="https://www.spielen-mit-verantwortung.de/" rel="nofollow">
+<img alt="Spielen Mit Verantwortung" src="./img/spielen-mit-verantwortung.png"/>
+</a>
+<a href="https://certify.gpwa.org/verify/de/roulette77.de/" id="GPWASeal" onclick="return GPWAVerificationPopup(this)"><img alt="GPWA" border="0" onerror="this.width=0; this.height=0;" src="https://certify.gpwa.org/seal/de/roulette77.de/"/></a>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script>
+    jQuery(document).ready(function($) {
+        var c_value = Cookies.get('user_visit');
+        if(c_value != 1) {
+            $("#cookie-pop-up").fadeIn( 500 );
+            $("#cookie-ok").click(function() {
+                Cookies.set('user_visit', '1', { expires: 1 });
+                $("#cookie-pop-up").fadeOut( 500 );
+            });
+        }
+    });
+</script>
+<div class="cookie" id="cookie-pop-up">
+<p class="cookie-title">
+        Benachrichtigung über Cookie-Richtlinien    </p>
+<p>
+        Wir verwenden Cookies auf unserer Website. Wenn Sie diese Website weiterhin nutzen, gehen wir davon aus, dass Sie damit zufrieden sind    </p>
+<div class="cookie-close" id="cookie-ok">х</div>
+</div>
+<!--- script html end --->
+<script>
+    jQuery(document).ready(function($) {
+
+        $('.menu-toggle').click(function () {
+            $('.nav').toggleClass('opening');
+            $(this).toggleClass('open');
+        });
+
+        $('.menu-toggle-flag').click(function () {
+            $('.flag-section-mobile').toggleClass('opening');
+            $(this).toggleClass('open');
+        });
+
+        $('form input[type=text]').on('change invalid', function () {
+            var textfield = $(this).get(0);
+            textfield.setCustomValidity('');
+            if (!textfield.validity.valid) {
+                textfield.setCustomValidity('Bitte füllen Sie das Feld aus');
+            }
+        });
+
+        $('form input[type=email]').on('change invalid', function () {
+            var textfield = $(this).get(0);
+            textfield.setCustomValidity('');
+            if (!textfield.validity.valid) {
+                textfield.setCustomValidity('Falsche E-Mail-Adresse');
+            }
+        });
+
+        function hidingGame() {
+            $('#mobile-content-iframe').slideToggle("slow", function () {
+                $("html, body").animate({scrollTop: $('#mobile-content-iframe').offset().top});
+            });
+        };
+
+        function addDataSrcToIframe() {
+            $('.game-launcher__btn-play-free').on('click', function (ev) {
+                $('.content-iframe__overlay').hide();
+                let src = ev.target.getAttribute('data-src');
+                if (window.innerWidth < 700) {
+                    src = ev.target.getAttribute('data-mobile-src');
+                }
+                $('.iframe-game, .iframe-game-mobile').attr('src', src);
+                $('.game-launcher__iframe').css('background-image', 'none');
+            });
+        }
+        addDataSrcToIframe();
+
+
+        function arrowUp() {
+            $(window).scroll(function () {if ($(this).scrollTop() > 200) {$('#scroller').fadeIn();} else {$('#scroller').fadeOut();}});
+            $('#scroller').click(function () {$('body,html').animate({scrollTop: 0}, 400); return false;});
+        }
+        arrowUp();
+
+
+        if ($(window).height() > 1045) {
+            loadIframe();
+        };
+
+        $(window).scroll(function () {
+            loadIframe();
+        });
+
+        var isLoaded = false;
+        function loadIframe() {
+            if (!isLoaded) {
+                var srcIframe = $('.block-video__iframe').attr('data-src');
+                $(".block-video__iframe").attr('src', srcIframe);
+                isLoaded = true;
+            }
+        }
+
+        //handles the game choosing at game pages
+        function chooseGameViaTabulation() {
+            function handleTabulation() {
+                $('.game-tabs__btn').on('click', function () {
+                    $(this).siblings().removeClass('is-active').end().addClass('is-active'); //mark active\non-active tab state
+
+
+                    $('.iframe-game, .iframe-game-mobile').attr('src', '');
+                    $('.content-iframe__overlay').show();
+
+                    $('.game-launcher__btn-play-free').attr('data-src', $(this).attr('data-src')); //take attributes from tab and place to the free game btn
+                    $('.game-launcher__btn-play-free').attr('data-mobile-src', $(this).attr('data-mobile-src'));
+                    $('.game-launcher__iframe').css('background-image', 'url(' + $(this).attr('data-game-preload-img') + ')');
+                    //mobile handle
+                })
+            }
+            handleTabulation();
+            function handleMobGame() {
+                if($(window).innerWidth() < 700) {
+                    $('#priorityMobGame').addClass('is-active');
+                }
+            }
+            handleMobGame()
+
+        }
+        chooseGameViaTabulation()
+    });
+</script>
+<script>
+    /// dropdown menu  desktop
+    if($('.nav-group').length || 1){
+
+            let isDesktop = function(){
+                return $(window).width() > 779;
+            };
+
+            $('.nav-group').on('mouseenter', function () {
+                if ($(this).hasClass('dropped-down')) {
+                    if (isDesktop()) {
+                        $(this).removeClass('dropped-down');
+                    }
+                } else {
+                    if (isDesktop()) {
+                        $('.nav-group').not(this).removeClass('dropped-down');
+                        $(this).addClass('dropped-down');
+                    }
+                }
+            });
+
+            $('.nav-group__list, .nav-group').on('mouseleave', function (e) {
+                if (!$(e.relatedTarget).hasClass('nav-group__title') && !$(e.relatedTarget).hasClass('nav-group__title-text') && !$(e.relatedTarget).hasClass('nav-group')  ) {
+                    $('.nav-group').removeClass('dropped-down');
+                }
+            });
+
+             $(window).on('resize', function(){
+                 console.log('resizing');
+                    setTimeout(function(){
+                        $('.nav').removeClass('opening');
+                        $('.menu-toggle').removeClass('open');
+                    },200);
+            })
+    }
+
+
+    // dropdown menu mobile
+    $('.nav-group__title').on('click', function(e){
+        if ($(window).width() <= 779) {
+            let el = $(e.target).has('span.nav-group__triangle') ? $(e.currentTarget) : $(e.target);
+            let allNavGroups = $('.nav-group');
+            let navGroup = el.parents('.nav-group');
+
+            if (navGroup.hasClass('mobile-expanded')) {
+
+                navGroup.removeClass('mobile-expanded');
+                el.find('span.nav-group__triangle').css('transform', 'rotate(0)');
+                // el.siblings('.nav-group__list').css('display', 'none');
+                el.siblings('.nav-group__list').removeClass('df').addClass('dn');
+
+            } else if (!navGroup.hasClass('mobile-expanded')) {
+
+                allNavGroups.removeClass('mobile-expanded');
+                $('.nav-group__title span.nav-group__triangle').css('transform', 'rotate(0)');
+                // $('.nav-group__list').css('display', 'none');
+                $('.nav-group__list').removeClass('df').addClass('dn');
+
+                navGroup.addClass('mobile-expanded');
+                el.find('span.nav-group__triangle').css('transform', 'rotate(180deg)');
+                // el.siblings('.nav-group__list').css('display', 'flex');
+                el.siblings('.nav-group__list').removeClass('dn').addClass('df');
+            }
+        }
+    });
+
+    // resetting mobile collapsible menu after resizing
+    $(window).on('resize', function () {
+            $('.nav-group').removeClass('mobile-expanded');
+            $('.nav-group__list').removeClass('df dn');
+            $('.nav-group__title span.nav-group__triangle').css('transform', 'rotate(0)');
+    });
+
+
+</script>
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-117353870-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-117353870-1');
+</script>
+</div></body>
+</html>

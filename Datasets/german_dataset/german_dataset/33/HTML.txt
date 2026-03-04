@@ -1,0 +1,727 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<base href="https://www.turim-hotels.com/"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="pt-PT" http-equiv="Content-language"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="Codezone" name="developer"/>
+<meta content="Turim Hotels" name="copyright"/>
+<meta content="General" name="rating"/>
+<meta content="index,follow" name="robots"/>
+<link href="https://www.turim-hotels.com/restaurants" hreflang="uk-uk" rel="alternate"/>
+<title>Restaurantes - Turim Hotels - Lisboa, Porto, Algarve, Coimbra, Sintra, Madeira e Açores</title>
+<meta content="Restaurantes, Turim Hotels has 20 reference Hotels in Lisbon, Algarve, Azeitão, Porto, Madeira and Sintra, be welcome." name="description"/>
+<meta content="Restaurantes, hotels, hotels algarve, hotels portimão, hotels lisbon, hotels companies, av liberdade hotel, hotel azeitão, weddings azeitão, restaurant recommended lisbon, new hotels, meeting rooms, hotel parking, hotels near marquês de pombal, small hotels, hotels near gulbenkian, hotels bairro alto, hotels near downtown lisbon, agreements companies, cheap hotels" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@TurimHotels" name="twitter:site"/>
+<meta content="@TurimHotels" name="twitter:creator"/>
+<meta content="article" property="og:type"/>
+<meta content="" property="og:title"/>
+<meta content="https://www.turim-hotels.com/restaurants" property="og:url"/>
+<meta content="" property="og:description"/>
+<meta content="2020-11-11 18:21:00" property="article:published_time"/>
+<meta content="2020-11-11 18:21:00" property="article:modified_time"/>
+<meta content="www.ebiz.pt/" property="article:author"/>
+<meta content="www.ebiz.pt" property="og:site_name"/>
+<meta content="https://bo.ebiz-software.com/turimhotels/_files/" property="og:image"/>
+<meta content="500" property="og:image:width"/>
+<meta content="500" property="og:image:height"/>
+<meta content="pt_PT" property="og:locale"/>
+<link href="favicon.ico" rel="shortcut icon"/>
+<link href="_css/styles.css" rel="stylesheet" type="text/css"/>
+<link href="_css/plusslider.css" rel="stylesheet" type="text/css"/>
+<link href="favicon.png" rel="shortcut icon"/>
+<link href="_css/jcarousel/jcarousel-skin.css" rel="stylesheet" type="text/css"/>
+<link href="_javascript/fancybox_v2/jquery.fancybox.css" rel="stylesheet" type="text/css"/>
+<link href="_javascript/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css"/>
+<link href="_javascript/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css"/>
+<!--<script src='_javascript/jquery-3.2.1.min.js' type="text/javascript" ></script>-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
+<script src="_javascript/jquery-zoom/jquery.zoom.js" type="text/javascript"></script>
+<script src="_javascript/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+<script src="_javascript/jquery-validation/jquery.validate.js" type="text/javascript"></script>
+<script src="_javascript/jquery-validation/messages.pt.js" type="text/javascript"></script>
+<script src="_javascript/fancybox_v2/jquery.fancybox.js" type="text/javascript"></script>
+<script src="_javascript/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="_javascript/validar.js" type="text/javascript"></script>
+<script src="_javascript/functions.js" type="text/javascript"></script>
+<script src="_javascript/smoothscroll2.js" type="text/javascript"></script>
+<script src="_javascript/jquery.cookie.js" type="text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	window.location.href = "https://mobile.turim-hotels.com/";
+}
+</script>
+<script>
+function showPopup(url,h,w)
+{
+window.open(url, 'Popup', 'HEIGHT='+h+',resizable=yes,WIDTH='+w+'');
+}
+</script>
+<script>
+$(document).ready(function(){
+
+$("a[rel*=fancybox]").fancybox(
+{ 
+	autoSize: false,
+	maxWidth: 800,
+	fixed: false			
+});
+
+$(".thumb").click(function() {
+var thumb_img = $(this).attr('src');
+var big_thumb_img = $('#big_thumb').attr('src');
+
+$("#big_thumb").fadeOut(function() {
+$(this).attr("src",thumb_img).fadeIn();
+});
+
+$("#big_thumb").parent().attr('href',thumb_img);
+$("#"+$(this).attr('class')).attr('href',big_thumb_img);
+$("#big_thumb").parent().attr('title',$(this).attr('title'));
+
+$(".thumb").parent().css('border','1px #fff solid');
+$(this).parent().css('border','1px #eaeaea solid');
+
+});
+
+$("#big_thumb").click(function() {			
+$('a[href="'+$(this).attr('src')+'"]').trigger('click');
+});
+
+$('#enviar-amigo').fancybox({fixed: true});
+
+$('#estimate-request').fancybox({fixed: true});
+
+$(".video-thumbnail").click(function() {			
+$('#iframe-video').attr('src', $(this).attr('rel'));
+});
+
+$("#mycarousel").jcarousel({
+scroll: 4,
+visible: 4
+});
+
+$('form[name="cart_add"]').validate({
+rules: {
+quantity : {required:true, min:1 }
+}
+});
+
+
+$('.datepicker').datepicker({ 
+	dateFormat: 'yy-mm-dd',
+	dayNamesMin: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
+	monthNames: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+	defaultDate: new Date('yy-mm-dd'),
+	changeYear:true,
+	changeMonth: true,
+	yearRange: "-110:+0"
+});
+
+});
+</script>
+<script>
+$(function()
+{
+	var pull 		= $('#pull');
+		menu 		= $('nav ul');
+		menuHeight	= menu.height();
+
+	$(pull).on('click', function(e) {
+		e.preventDefault();
+		menu.slideToggle();
+	});
+
+	$(window).resize(function(){
+		var w = $(window).width();
+		if(w > 320 && menu.is(':hidden'))
+		{
+			menu.removeAttr('style');
+		}
+	});
+});
+
+$(function()
+{
+var shrinkHeader = 200;
+$(window).scroll(function()
+{
+var scroll = getCurrentScroll();
+if ( scroll >= shrinkHeader )
+{
+$('.booking_form_section').addClass('shrink');
+}
+else
+{
+$('.booking_form_section').removeClass('shrink');
+}
+});
+function getCurrentScroll()
+{
+return window.pageYOffset || document.documentElement.scrollTop;
+}
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TRRVBW4');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body style="display:none;">
+<script>
+$(function () {
+	$('body').css('transition','.15s ease-in-out');
+	$('body').fadeIn(300);
+});
+</script>
+<script type="text/javascript">
+$(function()
+{	
+
+	$('#popupwindow_booking_open').click(function ()
+	{
+		$('#popupwindow_full').fadeIn(250);
+		$('#popupwindow_window').fadeIn(250);
+	});
+		
+	$('#popupwindow_close').click(function ()
+	{
+		$('#popupwindow_full').fadeOut(250);
+		$('#popupwindow_window').fadeOut(250);
+	});
+
+});
+</script>
+<div id="popupwindow_full" style="position:fixed; width:100%; height:100%; left:0; top:0; background:rgba(0,0,0,0.7); display:none; z-index:99999;">
+<center>
+<div id="popupwindow_booking_window" style="position:relative; display:inline-block; float:center; text-align:center; width:80%; min-width:230px; max-width:300px; margin-top:10%; border:0px #ffffff solid; background-color:#2a2a2a; border-radius:3px;">
+<script type="text/javascript">
+	function validate_email(field,alerttxt)
+	{
+		with (field)
+		{
+		apos=value.indexOf("@");
+		dotpos=value.lastIndexOf(".");
+		if (apos<1||dotpos-apos<2)
+		{alert(alerttxt);return false;}
+		}
+	}
+	
+	function validate_required(field,alerttxt)
+	{
+		with (field)
+		{
+		  if (value==null||value==""){alert(alerttxt);return false;}
+		}
+	}
+	
+	function validate_form_booking(thisform)
+	{
+		with (thisform)
+		{
+		if (validate_required(selectedHotelId,"Required field")==false)  {selectedHotelId.focus();return false;}	
+		return (true);
+		}
+	}
+	</script>
+<form action="https://www.secure-hotel-booking.com/turim-hotels/24LT/en/hotelselection?sid=e80e9424-2d6c-47aa-8125-f8c9b7f4e6b9&amp;x=79&amp;y=13" id="AVP" method="post" target="_blank">
+<input id="language" name="language" type="hidden" value="en"/>
+<input id="AVP_arrivalDate" name="arrivalDate" type="hidden" value=""/>
+<input id="AVP_nights" name="nights" type="hidden" value=""/>
+<input disabled="disabled" id="selectedHotelId" name="selectedHotelId" type="hidden" value=""/>
+<input id="availableHotelsOnly" name="availableHotelsOnly" type="hidden" value="true"/>
+<input id="guestCountSelector" name="guestCountSelector" type="hidden" value="ReadOnly"/>
+<div style="width:100%; height:20px;"></div>
+<h3 style="padding:0px; margin:0px; font-size:30px;color:#ffffff;line-height:30px;border:0px #ffffff solid;">
+	Book Here »	</h3>
+<div style="width:100%; height:20px;"></div>
+<select id="AVP_list_hotels" onchange="updateIdHotel('selectedHotelId')" style="padding:7px; width:220px;">
+<option value="">Select an Hotel</option>
+<option value=""></option>
+<option value="">.............................................</option>
+<option value="0">City</option>
+<option value="13548">   Turim Lisboa Hotel</option>
+<option value="13549">   Turim Europa Hotel</option>
+<option value="13551">   Turim Ibéria Hotel</option>
+<option value="13552">   Turim Alameda Hotel</option>
+<option value="13553">   Turim Av Liberdade Hotel</option>
+<option value="13572">   Turim Luxe Hotel</option>
+<option value="13573">   Turim Restauradores Hotel</option>
+<option value="16202">   Turim Saldanha Hotel</option>
+<option value="17482">   Turim Terreiro do Paço</option>
+<option value="30927">   Turim Boulevard Hotel</option>
+<option value=""></option>
+<option value="">.............................................</option>
+<option value="0">Field</option>
+<option value="13693">   Hotel Club d'Azeitão</option>
+<option value=""></option>
+<option value="">.............................................</option>
+<option value="0">Algarve</option>
+<option value="13648">   Presidente Hotel</option>
+<option value="13649">   Algarve Mor Hotel</option>
+<option value="13650">   Turim Estrela do Vau Hotel</option>
+<option value=""></option>
+</select>
+<br/><br/>
+<select id="AVP_list_days" onchange="updateDDay();" style="padding:7px; width:220px;">
+</select>
+<br/><br/>
+<select id="AVP_list_months" onchange="setDays();" style="padding:7px; width:220px;">
+</select>
+<br/><br/>
+<select id="AVP_list_nights" style="padding:7px; width:220px;">
+<option value="1">Nights</option>
+</select>
+<br/><br/>
+<input name="rate" placeholder="Promo code" style="padding:7px; width:200px;" type="text"/>
+<br/><br/>
+<input class="button_green" name="booking_button_submit" onclick="validate();" style="padding:7px; width:220px; border-left:0px; border-right:0px; border-top:0px;" type="submit" value="Book"/>
+<br/>
+</form>
+<script type="text/javascript">
+	var months = new Array("janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro");
+	var message='Data fora do calendário';
+	</script>
+<script src="https://www.secure-hotel-booking.com/Turim-Hotels/24LT/scripts/base.js" type="text/javascript"></script>
+<script type="text/javascript">
+	function updateIdHotel(hotelId) {
+	var index = document.getElementById('AVP_list_hotels').selectedIndex;
+	var element = document.getElementById(hotelId);
+	if (index >= 0){element.value = document.getElementById('AVP_list_hotels').options[index].value;}else{element.attributes.setNamedItem(namedItem);}
+	} 
+	</script>
+<h3 style="font-size:12px;color:#cccccc;">
+<a id="popupwindow_close" style="cursor:pointer;">Close</a>
+</h3>
+</div>
+</center>
+</div>
+<!-- START GO TO TOP -->
+<style>
+#back-top {
+	position: fixed;
+    right: -43px;
+    bottom: 80px;
+    color: #000;
+    z-index: 999999;
+}
+
+#back-top a {
+	width: 108px;
+	display: block;
+	text-align: center;
+	font: 11px/100% Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000;
+
+	/* transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover {
+	color: #000;
+}
+
+/* arrow icon (span tag) */
+#back-top span {
+	width: 38px;
+	height: 38px;
+	display: block;
+	background: #2A2A2A url(/_images/seta_scrolltop.png) no-repeat center center;
+
+	/* rounded corners */
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+
+	/* transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover span {
+	background-color: #2f2f2f;
+}
+</style>
+<p id="back-top">
+<a href="#top"><span></span></a>
+</p>
+<script>
+$(document).ready(function(){
+
+	$("#back-top").hide();
+	
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				fadeSpeed: 500,
+				scrollTop: 0
+			}, 600);
+			return false;
+		});
+	});
+
+});
+</script>
+<!-- END GO TO TOP -->
+<div class="top-bar" style="position:fixed; width:100%; min-height:30px; background-color:#2a2a2a; z-index:10; border:0px #000000 solid;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:30px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="middle">
+<div class="header_langs"><a href="change_lang.php?lang=pt&amp;redirect=%2Frestaurants"><div style="position:relative; display:inline-block; float:left; width:20px; height:20px; margin-right:5px; margin-top:8px; border:0px #ffffff solid;"><img border="0" class="fade" height="19" src="_images/pt.png" width="19"/></div></a><a href="change_lang.php?lang=es&amp;redirect=%2Frestaurants"><div style="position:relative; display:inline-block; float:left; width:20px; height:20px; margin-right:5px; margin-top:8px; border:0px #ffffff solid;"><img border="0" class="fade" height="19" src="_images/es.png" width="19"/></div></a><a href="change_lang.php?lang=uk&amp;redirect=%2Frestaurants"><div style="position:relative; display:inline-block; float:left; width:20px; height:20px; margin-right:5px; margin-top:8px; border:0px #ffffff solid;"><img border="0" class="fade" height="19" src="_images/uk.png" style="opacity:0.5;" width="19"/></div></a></div><div class="header_covid19"><a href="health-safety-measures">Health and Safety Measures</a></div><div class="header_top_social_networks"><div style="position:relative; display:inline-block; vertical-align:top; width:180px; height:20px; border:0px #ffffff solid; margin-top:2px;"><table border="0" cellpadding="0" cellspacing="0" height="100%"><tr><td align="left" width="25"><img src="_images/icon_phone_white.png" width="15"/></td><td><h3 style="font-size:15px;color:white;line-height:12px;margin:0px;padding:0px;">(+351) 210 330 800</h3></td></tr></table></div><a href="https://www.facebook.com/turimhotels/" target="_blank"><div class="header_button_social_networks"><table height="100%" width="100%"><tr><td align="center" valign="middle"><img src="_images/icon_facebook_white.png" width="15"/></td></tr></table></div></a><a href="https://twitter.com/TURIMHOTELS" target="_blank"><div class="header_button_social_networks"><table height="100%" width="100%"><tr><td align="center" valign="middle"><img src="_images/icon_twitter_white.png" width="15"/></td></tr></table></div></a><a href="https://www.youtube.com/channel/UCoK2sd5vALyVgLyZrRJ6Vvw" target="_blank"><div class="header_button_social_networks"><table height="100%" width="100%"><tr><td align="center" valign="middle"><img src="_images/icon_youtube_white.png" width="11"/></td></tr></table></div></a><a href="https://www.linkedin.com/company/turim-hoteis-resorts/" target="_blank"><div class="header_button_social_networks"><table height="100%" width="100%"><tr><td align="center" valign="middle"><img src="_images/icon_linkedin_white.png" width="14"/></td></tr></table></div></a><a href="https://www.instagram.com/turimhotels/" target="_blank"><div class="header_button_social_networks"><table height="100%" width="100%"><tr><td align="center" valign="middle"><img src="_images/icon_instagram_white.png" width="14"/></td></tr></table></div></a><a href="https://pt.pinterest.com/turimhotels/" target="_blank"><div class="header_button_social_networks"><table height="100%" width="100%"><tr><td align="center" valign="middle"><img src="_images/icon_pinterest_white.png" width="15"/></td></tr></table></div>
+</a></div></td>
+</tr>
+</table>
+</div>
+</center>
+</div>
+<div style="position:absolute; width:100%; min-height:200px; background-color:rgba(0,0,0,0.2); z-index:5; border:0px #0044EE solid;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:200px; border:0px solid;">
+<div class="header_logo">
+<a href="/"><img src="_images/turimhotels_logo.png" style="width:90%;max-width:300px;"/></a>
+</div>
+<div class="header_booking_zone">
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="280">
+<tr>
+<td>
+<script type="text/javascript">
+			$(function()
+			{
+				$('#toggle_link_menu_div').click(function() {
+					$('.menu_div').slideToggle('slow');
+					return false;
+				});
+			});
+			</script>
+<a class="menu" href="#" id="toggle_link_menu_div">☰ MENU</a>
+</td>
+<td width="30">
+		 
+		</td>
+<td>
+<script>
+			  $( function()
+			  {
+				$( "#dialog" ).dialog({
+				  autoOpen: false,
+				  show: {
+					effect: "blind",
+					duration: 1000
+				  },
+				  hide: {
+					effect: "explode",
+					duration: 1000
+				  }
+				});
+			 
+				$( "#opener" ).on( "click", function() {
+				  $( "#dialog" ).dialog( "open" );
+				});
+			  } );
+			  </script>
+<!--<a id='popupwindow_booking_open'>-->
+<!--<a href='https://www.secure-hotel-booking.com/turim-hotels/24LT/dateselection?utm_source=botreservas&utm_medium=site' target='_blank'>-->
+<a href="https://www.book-secure.com/index.php?s=group&amp;group=ptturimhtls&amp;bot-reservas" target="_blank">
+<div class="button_green" style="width:150px;">
+			Booking			</div>
+</a>
+<!--</a>-->
+</td>
+</tr>
+</table>
+</div>
+</div>
+</center>
+</div>
+<div class="menu_div" style="display:none;">
+<center>
+<div style="position:relative; width:100%; min-height:250px; border:0px solid;">
+<div class="menu_list">
+<a href="hotels"><div class="links_menu">Hotels</div></a><a href="events"><div class="links_menu">Events</div></a><a href="destination-weddings"><div class="links_menu">Destination Weddings</div></a><a href="corporate"><div class="links_menu">Corporate</div></a><a href="trade"><div class="links_menu">Trade</div></a><a href="concierge"><div class="links_menu">Concierge</div></a><a href="promotions"><div class="links_menu">Promotions</div></a><a href="recruitment"><div class="links_menu">Recruitment</div></a><a href="contacts"><div class="links_menu">Contacts</div></a> </div>
+</div>
+</center>
+</div>
+<div id="slider" style="position:relative; height:300px; background-position:center; background-repeat:no-repeat; background-position:top; padding-top:0px; border:0px #ff0000 solid;">
+<div style="position:relative; background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels_restarujpg_20150702200218.jpg); background-position:center; background-position:top; background-repeat:no-repeat; background-size:cover; width:100%; height:300px;"></div>
+</div>
+<div style="position:relative; width:100%; min-height:40px; background-color:#f3f3f3; border:0px solid; margin-top:-15px;">
+<center>
+<div style="position:relative; width:100%; max-width:1050px; min-height:40px; text-align:left;">
+<h3 style="font-size:14px; padding-top:9px;">
+You are here:  <a class="text_breadcrumb" href="index.php">Index</a> /  <a class="text_breadcrumb" href="restaurantes"></a> / </h3>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:1050px; margin-top:0px; z-index:1; border:0px #ff0000 solid;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:1050px; border:0px solid;">
+<div class="body_content">
+<br/><br/>
+<h1>Restaurants</h1>
+<br/><br/>
+<h2 style="color:#2A2A2A; margin-top:20px; border-bottom:1px #2A2A2A solid;">Lisbon</h2><br/><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-lisboa-BONGT20191126123856.jpg);"></div><div class="restaurants_list_text"><h4>Turim Restaurant</h4><h3>In the Restaurant Turim you will find a selection of typical Portuguese dishes every day. From traditional Bacalhau à Gomes Sá to Pork Fillet in the Oven, there is always a typical dish ready to satisfy the most demanding diners.
+ 
+For lunch the Executive Menu is available for € 15, which......</h3><br/><a class="button_transparent_gray" href="restaurantes/restaurante-turim">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-turimhotels-01-bshej20170125120740-D0PVI20180912093106.jpg);"></div><div class="restaurants_list_text"><h4>dUk - Pizzeria Restaurant</h4><h3>DUk - Pizzeria Restaurant is the Italian-inspired restaurant located next to Avenida da Liberdade, where you can taste the best thin-crust pizzas in town.
+ 
+But in addition to the 12 varieties of thin crust......</h3><br/><a class="button_transparent_gray" href="restaurantes/duk-pizzaria-restaurant">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-01-6Z4HD20170224180631.jpg);"></div><div class="restaurants_list_text"><h4>Tsubaki Saldanha</h4><h3>With the premise that Japanese cuisine is not just sushi, Tsubaki is a unique space inspired by nature, with a trendy decoration, where the focus is on creating a contemporary Japanese cuisine, based on the simplicity and freshness of the flavors , Which are not limited to sushi. This is why it is a concept of Japanese restaurant that aims to....</h3><br/><a class="button_transparent_gray" href="restaurantes/tsubaki-saldanha">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-01-NLMUO20190410115047.jpg);"></div><div class="restaurants_list_text"><h4>Mouzinho - Bar</h4><h3>
+Mouzinho - Bar is located in downtown Lisbon, more precisely at the Turim Marquês Hotel. The name of the street where it is located - Mouzinho da Silveira - served as inspiration for the name of this bar, where combinations of unusual and unique flavors of Portuguese inspiration....</h3><br/><a class="button_transparent_gray" href="restaurantes/mouzinho-bar">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-salitre-41-MRBUO20191202162511.png);"></div><div class="restaurants_list_text"><h4>Salitre Restaurant </h4><h3>
+The Salitre Restaurant is located on Rua do Salitre, the restaurant combines exquisite cuisine with the best of Portuguese cuisine, combined with a welcoming atmosphere ready to welcome you.
+ 
+In this new......</h3><br/><a class="button_transparent_gray" href="restaurantes/salitre-restaurant">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-025-TDOFB20170628171934.jpg);"></div><div class="restaurants_list_text"><h4>Glory Pizzeria</h4><h3>On the menu at Glory Pizzeria diversity is plenty and for all tastes. In addition to the 12 varieties of pizza, it also serves bruschettas, pasta, risottos, salads and a chocolate mousse that is already on the list of the best in the......</h3><br/><a class="button_transparent_gray" href="restaurantes/glory-pizzeria">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-20140401143735-3z8hj1ix8uv18q3w468p-WVQDN20170303142743.jpg);"></div><div class="restaurants_list_text"><h4>Gin Twist Bar</h4><h3>At Gin Twist Bar you will find bartenders who specialize in Gin's mixology.
+ 
+There are more than 10 varieties of Gin ready for the mastery of our barmen and for the most demanding palate. But the Gin Twist Bar's menu is extensive....</h3><br/><a class="button_transparent_gray" href="restaurantes/gin-twist-bar">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-gunkan-de-salma771o-e-caranguejo-VQNUX20181127134031.jpg);"></div><div class="restaurants_list_text"><h4>Tsubaki Marquês</h4><h3>Tsubaki Marquês is a Japanese cuisine restaurant located at the Turin Marquês Hotel. The Tsubaki brand has become a reference in terms of traditional Japanese cuisine. Given the success of the first restaurant located in the Turin......</h3><br/><a class="button_transparent_gray" href="restaurantes/tsubaki-marques">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-01-SXDQ220190801092000.jpg);"></div><div class="restaurants_list_text"><h4>Boulevard Rooftop</h4><h3>Boulevard Rooftop is on the terrace of the Turim Boulevard Hotel where you can enjoy one of the most beautiful views of downtown Lisbon. This space has a bar and swimming pool and here you can relax and drink something refreshing between dives. Boulevard Rooftop is a comfortable and sophisticated environment where you can spend unforgettable......</h3><br/><a class="button_transparent_gray" href="restaurantes/boulevard-rooftop">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-119-MLDP920191003132032.jpg);"></div><div class="restaurants_list_text"><h4>Glory Bar</h4><h3>In a space that once was a fado house, the Glory Bar puts tradition and modernity together offering a wide selection of fresh and colorful cocktails and gins. The gin comes as storyteller with options for all tastes and......</h3><br/><a class="button_transparent_gray" href="restaurantes/garden-bar">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-bar-8-J5IDP20191003173545.jpg);"></div><div class="restaurants_list_text"><h4>Boulevard Bar</h4><h3>Boulevard Bar, located in the hotel lobby, is the perfect place to have a drink after a day of shopping along Avenida da Liberdade or a day of work in the city. The sophisticated decoration enhances the comfort of the skin and the illuminated stone, in a perfect combination of warm tones.
+ 
+ 
+Open....</h3><br/><a class="button_transparent_gray" href="restaurantes/-203">see more</a></div><h2 style="color:#2A2A2A; margin-top:20px; border-bottom:1px #2A2A2A solid;">Azeitão</h2><br/><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-turimhotels-azeitao-ndgs120191126122941-F4NXR20191126125155.jpg);"></div><div class="restaurants_list_text"><h4></h4><h3></h3><br/><a class="button_transparent_gray" href="restaurantes/restaurante-club-204">see more</a></div><h2 style="color:#2A2A2A; margin-top:20px; border-bottom:1px #2A2A2A solid;">Madeira</h2><br/><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-100-7GDBC20191003150350.jpg);"></div><div class="restaurants_list_text"><h4>Rooftop 360º</h4><h3>On the rooftop of the hotel is a magnificent rooftop, where there is the Bistro 360º restaurant, whose menu praises and reinterprets the best products in the region, and the Rooftop 360º Bar, which also provides support for the pool, solarium and lounge service. The ideal place to rest and contemplate the spectacular 360º landscape..</h3><br/><a class="button_transparent_gray" href="restaurantes/-200">see more</a></div><div class="restaurants_list_photo" style="background-image:url(https://bo.ebiz-software.com/turimhotels/_files/turimhotels-094-QKNWP20191003130618.jpg);"></div><div class="restaurants_list_text"><h4>Bistro 360º Restaurant</h4><h3>On the rooftop of the hotel is a magnificent rooftop, where there is the Bistro 360º restaurant, whose menu praises and reinterprets the best products in the region, and the Rooftop 360º Bar, which also provides support for the pool, solarium and lounge service. The ideal place to rest and contemplate the spectacular 360º landscape.</h3><br/><a class="button_transparent_gray" href="restaurantes/bistro-360">see more</a></div>
+<br/><br/>
+</div>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:500px; z-index:1; border:0px #ff0000 solid;">
+<center>
+<div style="position:relative; width:100%; min-height:500px; border:0px solid;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center"><br/>
+<br/>
+<h4>Location</h4>
+</td>
+</tr>
+</table>
+<br/>
+<iframe allowfullscreen="" frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d12450.208773309228!2d-9.153577572045432!3d38.72808901661668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sturim+hotels!5e0!3m2!1spt-PT!2spt!4v1481835382931" style="border:0" width="100%"></iframe>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:140px; background-color:#2a2a2a; margin-top:0px;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:140px; border:0px solid;">
+<div class="footer_newsletter_title">
+<h1 style="font-size:30px;color:#ffffff;margin:0px;padding:0px;line-height:30px;">Newsletter Turim Hotels</h1>
+</div>
+<div class="footer_newsletter_text">
+<h3 style="color:#ffffff;margin:0px;padding:0px;">Subscribe our newsletter and get our latest news and promotions</h3>
+</div>
+<div class="footer_newsletter_form">
+<script type="text/javascript">
+function validate_email(field,alerttxt)
+{
+with (field)
+{
+apos=value.indexOf("@");
+dotpos=value.lastIndexOf(".");
+if (apos<1||dotpos-apos<2)
+{alert(alerttxt);return false;}
+}
+}
+function validate_required(field,alerttxt){
+with (field){
+  if (value==null||value==""){alert(alerttxt);return false;}
+}
+}
+function validate_form_newsletter(thisform)
+{
+with (thisform)
+{
+if (validate_email(newsletter_email,"Please fill in the EMAIL field with a correct email")==false)  {newsletter_email.focus();return false;}
+return (true);
+}
+}
+</script>
+<div id="newsletter_form"> <form action="#newsletter_form" method="post" name="contacts" onsubmit="return validate_form_newsletter(this)">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<input class="input" name="newsletter_email" placeholder="E-mail" required="" style="position:relative; display:inline-block; vertical-align:top; width:100%; height:40px; background-color:#2a2a2a; color:#ffffff !important; text-align:left;" type="email"/>
+</td>
+<td align="left" valign="top" width="100">
+<input class="button_transparent_newsletter" name="submit" style="position:relative; display:inline-block; vertical-align:top;" type="submit" value="Subscribe"/>
+</td>
+</tr><tr>
+<td align="left" colspan="2" valign="top" width="100%">
+<h3 style="font-size:11px; line-height:12px; color:#ffffff;"><input name="newsletter_active" required="" style="margin-top:0px;" type="checkbox" value="1"/> I confirm that i have read and accept the  <a href="politica-de-privacidade" style="color:#ffffff;" target="_blank">Privacy Politic</a></h3> </td>
+</tr>
+</table>
+<input name="cd_account" type="hidden" value="59"/>
+</form>
+</div></div>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:300px; background-color:#ffffff;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:300px; border:0px #ffffff solid; border:0px #000000 solid;">
+<br/>
+<div class="footer_hotels">
+<div style="position:relative; display:inline-block; width:100%;">
+<h2 style="font-size:15px; font-weight:bold; line-height:24px; letter-spacing:0px; color:#878787; border-bottom:3px #878787 solid;">Hotels</h2><br/>
+<div style="position:relative; display:inline-block; vertical-align:top; margin-right:20px;">
+<a class="links_footer" href="hotels/-197">Turim Infante Hotel</a><br/><br/><a class="links_footer" href="hotels/-108">Turim Iberia Hotel</a><br/><br/><a class="links_footer" href="hotels/-109">Turim Europa Hotel</a><br/><br/><a class="links_footer" href="hotels/-110">Turim Restauradores Hotel</a><br/><br/><a class="links_footer" href="hotels/-111">Turim Av Liberdade Hotel</a><br/><br/><a class="links_footer" href="hotels/turim-saldanha-hotel">Turim Saldanha Hotel</a><br/><br/><a class="links_footer" href="hotels/-133">Turim Luxe Hotel</a><br/><br/><a class="links_footer" href="hotels/-134">Turim Lisboa Hotel</a><br/><br/><a class="links_footer" href="hotels/-135">Turim Alameda Hotel</a><br/><br/><a class="links_footer" href="hotels/-136">Turim Terreiro do Paço Hotel</a><br/><br/><a class="links_footer" href="hotels/-141">Turim Marquês Hotel</a><br/><br/> </div>
+</div>
+</div>
+<div class="footer_hotels">
+<div style="position:relative; display:inline-block; width:100%;">
+<h2 style="font-size:15px; font-weight:bold; line-height:24px; letter-spacing:0px; color:#878787; border-bottom:3px #878787 solid;"> </h2><br/>
+<div style="position:relative; display:inline-block; vertical-align:top; margin-right:20px;">
+<a class="links_footer" href="hotels/turim-boulevard-hotel">Turim Boulevard Hotel</a><br/><br/><a class="links_footer" href="hotels/-189">Turim Av República Hotel</a><br/><br/><a class="links_footer" href="hotels/hotel-club-dazeitao">Hotel Club D´Azeitão</a><br/><br/><a class="links_footer" href="hotels/turim-rainha-santa-hotel">Turim Rainha Santa Hotel</a><br/><br/><a class="links_footer" href="hotels/-130">Turim Estrela do Vau Hotel</a><br/><br/><a class="links_footer" href="hotels/-131">Turim Algarve Mor Hotel</a><br/><br/><a class="links_footer" href="hotels/-132">Turim Presidente Hotel</a><br/><br/><a class="links_footer" href="hotels/-151">Turim Oporto Hotel</a><br/><br/><a class="links_footer" href="hotels/-153">Turim Santa Maria Hotel</a><br/><br/><a class="links_footer" href="hotels/-152">Turim Sintra Palace Hotel</a><br/><br/> </div>
+</div>
+</div>
+<div class="footer_events">
+<div style="position:relative; display:inline-block; width:100%;">
+<h2 style="font-size:15px; font-weight:bold; line-height:24px; letter-spacing:0px; color:#878787; border-bottom:3px #878787 solid;">Meetings and Events</h2>
+<br/>
+<a class="links_footer" href="/eventos">Meetings</a><br/><br/><a class="links_footer" href="/eventos">Cocktails and Special Events</a><br/><br/><a class="links_footer" href="/eventos">Weddings and Baptisms</a><br/><br/> </div>
+</div>
+<div class="footer_restaurants">
+<div style="position:relative; display:inline-block; width:100%;">
+<h2 style="font-size:15px; font-weight:bold; line-height:24px; letter-spacing:0px; color:#878787; border-bottom:3px #878787 solid;">Restaurants</h2>
+<br/>
+<a class="links_footer" href="restaurants/restaurante-turim">Turim Restaurant</a><br/><br/><a class="links_footer" href="restaurants/duk-pizzaria-restaurant">dUk - Pizzeria Restaurant</a><br/><br/><a class="links_footer" href="restaurants/tsubaki-saldanha">Tsubaki Saldanha</a><br/><br/><a class="links_footer" href="restaurants/mouzinho-bar">Mouzinho - Bar</a><br/><br/><a class="links_footer" href="restaurants/salitre-restaurant">Salitre Restaurant </a><br/><br/><a class="links_footer" href="restaurants/glory-pizzeria">Glory Pizzeria</a><br/><br/><a class="links_footer" href="restaurants/gin-twist-bar">Gin Twist Bar</a><br/><br/><a class="links_footer" href="restaurants/tsubaki-marques">Tsubaki Marquês</a><br/><br/><a class="links_footer" href="restaurants/boulevard-rooftop">Boulevard Rooftop</a><br/><br/><a class="links_footer" href="restaurants/-200">Rooftop 360º</a><br/><br/><a class="links_footer" href="restaurants/garden-bar">Glory Bar</a><br/><br/><a class="links_footer" href="restaurants/bistro-360">Bistro 360º Restaurant</a><br/><br/><a class="links_footer" href="restaurants/-203">Boulevard Bar</a><br/><br/><a class="links_footer" href="restaurants/restaurante-club-204"></a><br/><br/> </div>
+</div>
+<div class="footer_turim_group">
+<div style="position:relative; display:inline-block; width:100%;">
+<h2 style="font-size:15px; font-weight:bold; line-height:24px; letter-spacing:0px; color:#878787; border-bottom:3px #878787 solid;">Turim Hotels Group</h2><br/>
+<a class="links_footer" href="sobre-nos">About Us</a><br/><br/>
+<a class="links_footer" href="recrutamento">Recruitment</a><br/><br/>
+<a class="links_footer" href="noticias">News</a><br/><br/>
+<a class="links_footer" href="contactos">Contacts</a><br/>
+</div>
+<div class="footer_commercial_dpto">
+<div style="position:relative; display:inline-block; width:100%;">
+<h2 style="font-size:15px; font-weight:bold; line-height:24px; letter-spacing:0px; color:#878787; border-bottom:3px #878787 solid;">Sales</h2>
+<br/>
+<a class="links_footer" href="trade">Trade</a><br/><br/><a class="links_footer" href="companies">Corporate</a><br/><br/><a class="links_footer" href="/gds">GDS Codes</a> </div>
+</div>
+</div>
+<br/><br/><br/><br/>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:100px; background-color:#2a2a2a;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:100px; border:0px #555555 solid;">
+<div style="position:relative; display:inline-block; vertical-align:top; max-width:550px; border:0px #555555 solid; margin-left:30px; margin-right:30px; margin-bottom:30px;">
+<div style="position:relative; width:100%; height:40px; text-align:center; padding-top:10px;">
+<h3 style="font-size:14px; font-weight:normal; line-height:14px; letter-spacing:0px; color:#ffffff; text-transform:uppercase;">Contact us</h3>
+</div>
+<table>
+<tr>
+<td valign="top" width="25">
+<img src="_images/icon_phone_white.png" width="20"/>
+</td>
+<td align="right">
+<h2 style="font-size:24px; font-weight:normal; line-height:23px; letter-spacing:0px; color:#;">(+351) 210 330 800 &gt;<br/>
+<a href="mailto:reservas@turimhoteis.com" style="font-size:16px;color:#ffffff;">reservas@turimhoteis.com</a></h2>
+</td>
+</tr>
+</table>
+</div>
+<div style="position:relative; display:inline-block; vertical-align:top; max-width:550px; border:0px #555555 solid; margin-left:30px; margin-right:30px; margin-bottom:30px;">
+<div style="position:relative; width:100%; height:40px; text-align:center; padding-top:10px;">
+<h3 style="font-size:14px; font-weight:normal; line-height:14px; letter-spacing:0px; color:#ffffff; text-transform:uppercase;">Oficial Soundtrack Turim Hotels</h3>
+</div>
+<table>
+<tr>
+<td valign="top" width="25">
+<img src="_images/icon_ringtone.png" width="20"/>
+</td>
+<td align="right">
+<h2 style="font-size:24px; font-weight:normal; line-height:24px; letter-spacing:0px;"><span style="text-transform:uppercase;">Ringtone</span> &gt; <a href="turim-hotels-ringtone.m4r" style="font-size:17px;color:#ffffff;">Download here</a></h2>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:50px; background-color:#ffffff;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:50px; padding-top:10px;">
+<div style="display:inline-block; vertical-align:middle; margin-left:10px; margin-right:10px;"><a href="health-safety-measures"><img src="_images/turismo-portugal-clean-safe-logo.png" style="width:92px; margin-top:10px;"/></a></div><div style="display:inline-block; vertical-align:middle; margin-left:10px; margin-right:10px;"><a href="health-safety-measures"><img src="_images/academia-health-safety.png" style="width:80px; margin-top:10px;"/></a></div><div style="display:inline-block; vertical-align:middle; "><a href="https://bo.ebiz-software.com/turimhotels/_files/turimhotels-ficha-de-projeto-turim-hoteis-J4W0T20180513082149.pdf" target="_blank"><img src="https://bo.ebiz-software.com/turimhotels/_files/turimhotels-lisboa2020-ES2JR20180513082034.jpg" style="width:90%;max-width:450px;margin-top:10px;"/></a></div>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:50px; background-color:#ffffff;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:50px;">
+<div class="footer_all_rights_reserved">
+<h3 style="font-size:12.9px;">© 2020 Turim Hotels. All rights reserved</h3>
+</div>
+<div class="footer_links">
+<h3 style="font-size:12.9px;">
+<a class="links_footer" href="terms">Privacy Policy</a>
+	|
+	<a class="links_footer" href="ral" target="_blank">Alternative Consumption Dispute Resolution</a>
+	|
+	<a class="links_footer" href="claims">Claims</a>
+	|
+	<a class="links_footer" href="https://www.livroreclamacoes.pt/inicio" target="_blank">Claims Book</a>
+</h3>
+</div>
+<div class="footer_powered_by">
+<h3 style="font-size:12.9px;">Powered by <a href="https://www.codezone.pt" target="_blank">Codezone</a></h3>
+</div>
+</div>
+</center>
+</div>
+<div style="position:relative; width:100%; min-height:50px; background-color:#ffffff;">
+<center>
+<div style="position:relative; max-width:1050px; min-height:50px;">
+<a href="https://www.turim-hotels.com/acordos-empresas" style="font-size:12px; color:#ffffff !important;">acordos empresas</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/av-liberdade-hotel" style="font-size:12px; color:#ffffff !important;">av liberdade hotel</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/casamentos-azeitao" style="font-size:12px; color:#ffffff !important;">casamentos azeitão</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/quintas-para-casamentos" style="font-size:12px; color:#ffffff !important;">quintas para casamentos</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-4-estrelas-lisboa" style="font-size:12px; color:#ffffff !important;">hoteis 4 estrelas lisboa</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-5-estrelas-lisboa" style="font-size:12px; color:#ffffff !important;">hoteis 5 estrelas lisboa</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-5-estrelas-portugal" style="font-size:12px; color:#ffffff !important;">hoteis 5 estrelas portugal</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-algarve" style="font-size:12px; color:#ffffff !important;">hoteis algarve</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-bairro-alto" style="font-size:12px; color:#ffffff !important;">hoteis bairro alto</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-booking" style="font-size:12px; color:#ffffff !important;">hoteis booking</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-booking-lisboa" style="font-size:12px; color:#ffffff !important;">hoteis booking lisboa</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-campo-pequeno" style="font-size:12px; color:#ffffff !important;">hoteis campo pequeno</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-perto-da-gulbenkian" style="font-size:12px; color:#ffffff !important;">hoteis perto da gulbenkian</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-perto-do-marques-de-pombal" style="font-size:12px; color:#ffffff !important;">hoteis perto do marquês de pombal</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteles-y-restaurantes" style="font-size:12px; color:#ffffff !important;">hoteles y restaurantes</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hotels-algarve" style="font-size:12px; color:#ffffff !important;">hotels algarve</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hotels-booking" style="font-size:12px; color:#ffffff !important;">hotels booking</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hotels-lisbon" style="font-size:12px; color:#ffffff !important;">hotels lisbon</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis" style="font-size:12px; color:#ffffff !important;">hotéis</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-baratos" style="font-size:12px; color:#ffffff !important;">hotéis baratos</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-lisboa" style="font-size:12px; color:#ffffff !important;">hotéis lisboa</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-portimao" style="font-size:12px; color:#ffffff !important;">hotéis portimão</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-proximos-centro-lisboa" style="font-size:12px; color:#ffffff !important;">hotéis próximos centro lisboa</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/top-hotels-lisbon" style="font-size:12px; color:#ffffff !important;">top hotels lisbon</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-empresas" style="font-size:12px; color:#ffffff !important;">hotéis empresas</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hoteis-novos" style="font-size:12px; color:#ffffff !important;">hotéis novos</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hotel-azeitao" style="font-size:12px; color:#ffffff !important;">hotel azeitão</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/hotel-estacionamento" style="color:#ffffff !important;">hotel estacionamento</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/restaurante-recomendado-lisboa" style="font-size:12px; color:#ffffff !important;">restaurante recomendado lisboa</a><span style="color:#ffffff !important;"> - </span>
+<a href="https://www.turim-hotels.com/salas-reuniao" style="font-size:12px; color:#ffffff !important;">salas reunião</a><span style="color:#ffffff !important;"> - </span>
+</div>
+</center>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TRRVBW4" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body>
+</html>

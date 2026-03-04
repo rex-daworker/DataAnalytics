@@ -1,0 +1,1 @@
+hotelbewertungen', 'hotels', 'reisen', 'urlaub', 'pensionen', 'sehenswürdigkeiten', 'fotos', 'angebote', 'lastminute', 'pauschalreisen', 'flüge'

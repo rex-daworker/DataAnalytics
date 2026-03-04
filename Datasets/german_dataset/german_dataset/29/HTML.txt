@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>  Myfaresadda | Book Airlines Cheap Flights Tickets &amp; Hotels</title>
+<meta content="IEG6aJN1jwazM5MvbzLVoEJsAKnGlutoN0A2Q4a4QCw" name="google-site-verification"/>
+<meta content="Find the best deals at myfaresadda on online flight booking, cheap flight tickets &amp; hotel booking. Get Guarantee Best Price. Also get regular update of flight status." name="description"/>
+<meta content="last minute flights, Flight booking online, cheap airlines ticket booking, cheap flight tickets, airlines reservations online, airlines reservations, Flight booking, Airline Tickets, Travel Agency" name="keywords"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="/resources/css/main.css?21feb19" rel="stylesheet"/>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<link href="https://fonts.googleapis.com/css?family=Fredoka+One|Roboto" rel="stylesheet"/>
+<meta content="#02365e" name="theme-color"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-180461048-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180461048-1');
+</script>
+<link href="/resources/images/favicon.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet"/>
+<script src="resources/js/jquery-1.12.4.min.js"></script>
+<script src="resources/js/jquery-ui.1.10.4.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.js" type="text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<link href="/resources/css/thumbnail_slider/owl.carousel.css" rel="stylesheet"/>
+<style>
+
+.about-section { padding:40px 0; }
+@media (min-width:768px){
+  .new_header_area_partition>.first, .footer_phone {display:none;}
+}
+</style>
+</head>
+<body>
+<div class="main_body">
+<!--============================Banner==================================-->
+<!-- <script type="text/javascript" src="/resources/js/init.js?65432hjn"></script> -->
+<link href="/resources/css/jquery-ui.min.css"/>
+<div class="new_header_area">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<ul class="new_header_area_partition">
+<li class="first" style="display:none;">
+<ul class="first_list">
+<!-- <li class="left">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            </li> -->
+<li class="right">
+<a href="tel:+1-888-870-5528" target="_blank">
+<i class="fa fa-phone"></i>
+<span>+1-888-870-5528</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="second">
+<ul>
+<li class="left">
+<a class="logo" href="/">
+<img src="/resources/images/logo.png"/>
+</a>
+</li>
+<li class="right">
+<a class="tel" href="tel:+1-888-870-5528" title="Call Us"><i class="fa fa-phone"></i></a>
+<a class="menu" href="javascript:;">
+<div></div>
+<div></div>
+<div></div>
+</a>
+</li>
+</ul>
+</li>
+<li class="third">
+<ul class="third_list">
+<li class="left">
+<ul class="left_list">
+<li><a href="/about-us">About Us</a></li>
+<li><a href="/flights">Flights</a></li>
+<li><a href="/cheap-flights">Cheap Flights</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/site-map">Destination</a></li>
+<!--   <li><a href="/customize-travel">Customize Trip</a></li>
+                                    <li><a href="tel:+1-888-870-5528" target="_blank">
+                                        <i class="fa fa-phone"></i>
+                                        <span>+1-888-870-5528</span> </a>
+                                     </li>-->
+</ul>
+</li>
+<li class="right">
+<ul class="right_list">
+<!-- <li class="my_search"><a href="javascript:;">My Search <span>5</span></a>
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <ul>
+                                                        <li class="plane_icon"><i class="fa fa-plane"></i></li>
+                                                        <li class="destinations">
+                                                            <p class="destination">Las Vegas</p>
+                                                            <p class="date"><i class="fa fa-calendar" aria-hidden="true"></i> 15-12-2018</p>
+                                                        </li>
+                                                        <li class="arrow"><i class="fa fa-exchange"></i></li>
+                                                        <li class="destinations">
+                                                            <p class="destination">Las Vegas</p>
+                                                            <p class="date"><i class="fa fa-calendar" aria-hidden="true"></i> 15-12-2018</p>
+                                                        </li>
+                                                    </ul>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <ul>
+                                                        <li class="plane_icon"><i class="fa fa-plane"></i></li>
+                                                        <li class="destinations">
+                                                            <p class="destination">Las Vegas</p>
+                                                            <p class="date"><i class="fa fa-calendar" aria-hidden="true"></i> 15-12-2018</p>
+                                                        </li>
+                                                        <li class="arrow"><i class="fa fa-exchange"></i></li>
+                                                        <li class="destinations">
+                                                            <p class="destination">Las Vegas</p>
+                                                            <p class="date"><i class="fa fa-calendar" aria-hidden="true"></i> 15-12-2018</p>
+                                                        </li>
+                                                    </ul>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li> -->
+<!-- <li><a href="/blog">Blog</a></li>
+                                    <li><a href="/contact-us">Contact Us</a></li> -->
+<!--  <li><a href="/customize-travel">Customize Trip</a></li>
+                                    <li><a href="tel:+1-888-870-5528" target="_blank">
+                                        <i class="fa fa-phone"></i>
+                                        <span>+1-888-870-5528</span> </a>
+                                    </li> -->
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div><!--col-xs-12 col-sm-12 col-md-12 col-lg-12-->
+</div><!--row-->
+</div><!--container-->
+</div><!--new_header_area-->
+<!--============================Banner End==============================-->
+<!--============================Banner==================================-->
+<style>
+#fbooking p {
+	margin: 9px 0;
+	font-size: 11px;
+}
+
+#fbooking input {
+	display: block;
+	padding: 2px;
+}
+
+.pdc-block {     position: relative;
+    top: 156px;
+    right: -88px;; }
+
+#ui-datepicker-div {
+	font-size: 11px;
+	z-index: 2500 !important;
+}
+.pdc-left-panel{ 
+    width: 100%;
+    
+  }
+.input-lg {
+    height: 42px !important;
+}
+
+
+.pdc-right-panel {
+           background: rgba(0,0,0,0.5);
+    padding: 20px 5px;
+    float: left;
+    width: 100%;
+}
+.pdc-right-panel .content-box {
+    width: 90%;
+    float: left;
+}
+.pdc-right-panel h6 {
+    width: 100%;
+    float: left;
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 1px solid #ffffff;
+    color: #fff;
+    height: 40px;
+    margin: 0px;
+}
+.pdc-right-panel p {
+    color: #ffffff;
+    font-size: 18px;
+    float: left;
+    padding-top: 13px;
+    line-height: 26px;
+}
+.pdc-right-panel .click-btn {
+    float: right;
+    width: 130px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+}
+.click-btn .genrate-text {
+    width: 100%;
+    font-size: 12px;
+    color: #ffffff;
+    background: #524e4f;
+    text-align: center;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: 0px;
+    padding: 10px 0px; float: left; 
+    text-transform: uppercase;
+}
+.click-btn .arrow-click {
+    background: #fc0;
+    text-align: center;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    font-size: 15px;
+    padding: 8px 10px;
+    color: #ffffff;
+    width: 100%;
+    border: 0px;
+}
+</style>
+<div class="trpt_banner_sctn">
+<input id="tabId" type="hidden" value="1"/>
+<div>
+<div class="banner">
+<div class="container">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mob-padd">
+<!-- <div class="banner_text">
+                        <div class="banner_text_head">We Plan Your Trip <span>  </span></div>
+                    </div> -->
+<div class="search-engine">
+<!-- style='display:none;'-->
+<ul class="nav nav-tabs trpC_banr_tab" role="tablist">
+<li role="presentation"><a aria-controls="trpC_flights_tab" class="active" data-toggle="tab" href="#trpC_flights_tab" role="tab">Flights</a></li>
+<li class="active" role="presentation"><a aria-controls="trpC_hotels_tab" data-toggle="tab" href="#trpC_hotels_tab" role="tab">Hotels</a></li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" id="trpC_flights_tab" role="tabpanel">
+<form action="/flightSearch" id="searchForm" method="POST"><!-- <div class='toggle'> -->
+<!--   <div class='tabs'>
+    <div class='tab active flight-icon'>Flight</div>
+  </div> -->
+<!-- Nav tabs -->
+<!-- Tab panes -->
+<!-- <div class='panels'>
+    <div class='panel active'> -->
+<div class="search-en">
+<div style=" width: 100%; text-align:center;    ">
+<div class="btn-group" data-toggle="buttons" id="status">
+<label class="btn btn-default btn-off-1 btn-sm active">
+<input checked="checked" name="multifeatured_module[module_id][status]" onchange="return roundTrip()" type="radio" value="0"/>Round Trip</label>
+<label class="btn btn-default btn-on-1 btn-sm">
+<input name="multifeatured_module[module_id][status]" onchange="return oneWay()" type="radio" value="1"/>One Way</label>
+</div>
+<input id="journeyType" name="journeyType" type="hidden" value="2"/><div class="row">
+<div class="col-xs-6 trps_fltfrom pd5x">
+<div class="depart_left">
+<div class="mobile_top_search" id="mobile_top_search_origin">
+<div class="mobile_top_search_area">
+<input autocomplete="off" class="map form-control" id="froCity" name="froCity" placeholder="Flying From" type="text" value="none"/></div><!--mobile_top_search_area-->
+<p class="mobile_top_search_text">Type Origin City or Airport Code</p>
+<i aria-hidden="true" class="fa fa-times close_icon" id="mobile_top_search_origin_close"></i>
+</div><!--mobile_top_search-->
+<ul class="code_location" id="code_location_border_left">
+<li class="code" id="Origin_m_from">Flying</li>
+<li class="location" id="Origin_m_airport">From</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-6 trps_fltto pd5x">
+<div class="depart_right">
+<div class="mobile_top_search" id="mobile_top_search_destination">
+<div class="mobile_top_search_area">
+<input autocomplete="off" class="map to form-control" id="toCity" name="toCity" placeholder="Flying To" type="text" value=""/></div><!--mobile_top_search_area-->
+<p class="mobile_top_search_text">Type Destination City or Airport Code</p>
+<i aria-hidden="true" class="fa fa-times close_icon" id="mobile_top_search_destination_close"></i>
+</div><!--mobile_top_search-->
+<ul class="code_location" id="code_location_border_right">
+<li class="code" id="Destination_m_from">Flying</li>
+<li class="location" id="Destination_m_airport">To</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row mr15x3">
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-5" id="txtDepart" style=" padding:0 ; ">
+<div class="depart col-xs-6 pd5x">
+<input class="calander form-control hidden-xs hidden-sm" id="departDate" name="froDate" placeholder="Depart Date" readonly="readonly" type="text" value=""/><ul class="code_location" id="departDate_m">
+<li class="code" id="departDate_m_day">Depart</li>
+<li class="location" id="departDate_m_year">Date</li>
+</ul>
+</div>
+<div class="col-xs-6 pd5x" id="txtReturn">
+<div class="return">
+<input class="calander form-control hidden-xs hidden-sm" id="returnDate" name="toDate" placeholder="Return Date" readonly="readonly" type="text" value=""/><ul class="code_location" id="returnDate_m">
+<li class="code" id="returnDate_m_day">Return</li>
+<li class="location" id="returnDate_m_year">Date</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 padding_0_5 Trvv_flight_adlt">
+<div class="fake_adult_box" id="fake_adult_box">
+<span id="tCount">1</span>
+<span id="tPax">Adult</span>
+<i class="fa fa-sort-down"></i>
+</div><!--fake_adult_box-->
+<div class="white_fixed_background" id="white_fixed_background">
+<div class="main_white_fixed_background">
+<div class="adult col-lg-12 col-md-12 col-sm-12 col-xs-12 pd5x padding_border">
+<label>Adult(18+)</label>
+<div id="input_div">
+<input class="minus min-pl" id="moins" onclick="minusAd()" type="button"/>
+<input class="form-control pax_align" id="txtAdult" name="adult" readonly="readonly" size="25" type="text" value="1"/><input class="plus" id="plus" onclick="plusAd()" type="button"/>
+</div>
+</div>
+<div class="child col-lg-12 col-md-12 col-sm-12 col-xs-12 pd5x padding_border">
+<label>Child(1-17)</label>
+<div id="input_div">
+<input class="minus" id="moins" onclick="minueChild()" type="button"/>
+<input class="form-control pax_align" id="txtChild" name="child" readonly="readonly" size="25" type="text" value="0"/><input class="plus" id="plus" onclick="plusChild()" type="button"/>
+</div> </div>
+<div class="child col-lg-12 col-md-12 col-sm-12 col-xs-12 pd5x padding_border">
+<label>Infant(On Seat)</label>
+<div id="input_div">
+<input class="minus" id="moins" onclick="minusInfentOnSeat()" type="button"/>
+<input class="form-control pax_align" id="txtInfentOnSeat" name="infant" readonly="readonly" size="25" type="text" value="0"/><input class="plus" id="plus" onclick="plusInfentOnSeat()" type="button"/>
+</div>
+</div>
+<div class="child col-lg-12 col-md-12 col-sm-12 col-xs-12 pd5x padding_border">
+<label>Infant(On Lap)</label>
+<div id="input_div">
+<input class="minus" id="moins" onclick="minusInfentOnLap()" type="button"/>
+<input class="form-control pax_align" id="txtInfentOnLap" name="infantlap" readonly="readonly" size="25" type="text" value="0"/><input class="plus" id="plus" onclick="plusInfentOnLap()" type="button"/>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> <a class="btn btn-search" onclick="addPax();">Done</a></div><!--col-lg-12 col-md-12 col-sm-12 col-xs-12-->
+<div class="clearfix"></div><!--clearfix-->
+</div><!--main_white_fixed_background-->
+<div class="clearfix"></div><!--clearfix-->
+</div><!--white_fixed_background-->
+</div><!--col-xs-12 col-sm-12 col-md-6 col-md-6-->
+<div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 Trvv_flight_coach" style=" padding:0; ">
+<div class="col-md-12 col-sm-12 col-xs-12 pd5x">
+<img alt="Coach" class="ecobanerimg" src="/resources/images/seat.png"/>
+<select class="form-control" id="cabinClass" name="cabinClass"><option value="Economy">Economy</option><option value="PremiumEconomy">PremiumEconomy</option><option value="Business">Business</option><option value="First">First</option></select></div>
+<div class="col-md-12 col-sm-12 col-xs-6 pd5x" style="display: none;">
+<select class="form-control" id="airlines" name="airlines"><option value="All">Airlines</option><option value="AQ"> 9 Air</option><option value="9B"> Accesrail</option><option value="6U"> Acg Air Cargo</option><option value="JP"> Adria Airways</option><option value="A3"> Aegean Airlines</option><option value="EI"> Aer Lingus</option><option value="NG"> Aero Contractors</option><option value="P5"> Aero Republica</option><option value="WV"> Aero Vip Companhia Transportes</option><option value="H4"> Aero4M</option><option value="7L"> Aerocaribbean</option><option value="A4"> Aerocomercial Oriente Norte</option><option value="VB"> Aeroenlaces Nacionales</option><option value="SU"> Aeroflot</option><option value="5P"> Aerolinea Principal Chile</option><option value="AR"> Aerolineas Argentinas</option><option value="2K"> Aerolineas Galapagos</option><option value="P4"> Aerolineas Sosa</option><option value="A8"> Aerolink Uganda Limited</option><option value="5D"> Aerolitoral</option><option value="VW"> Aeromar</option><option value="AM"> Aeromexico</option><option value="VH"> Aeropostal</option><option value="HN"> Afghan Jet International</option><option value="FK"> Africa West Cargo  Ghd</option><option value="AW"> Africa World Airlines</option><option value="8U"> Afriqiyah Airways</option><option value="AH"> Air Algerie</option><option value="G9"> Air Arabia</option><option value="E5"> Air Arabia Egypt</option><option value="9P"> Air Arabia Jordan</option><option value="QN"> Air Armenia</option><option value="UU"> Air Austral</option><option value="W9"> Air Bagan</option><option value="BT"> Air Baltic</option><option value="AB"> Air Berlin</option><option value="BP"> Air Botswana</option><option value="RU"> Air Bridge Cargo</option><option value="2J"> Air Burkina</option><option value="BX"> Air Busan</option><option value="SM"> Air Cairo</option><option value="TY"> Air Caledonie</option><option value="AC"> Air Canada</option><option value="TX"> Air Caraibes</option><option value="UY"> Air Caucasus</option><option value="CA"> Air China</option><option value="3E"> Air Choice One</option><option value="4F"> Air City</option><option value="XK"> Air Corsica</option><option value="HF"> Air Cote D Ivoire</option><option value="YN"> Air Creebec</option><option value="EN"> Air Dolomiti</option><option value="UX"> Air Europa</option><option value="ED"> Air Explore</option><option value="F4"> Air Flamenco</option><option value="AF"> Air France</option><option value="ZX"> Air Georgian</option><option value="GL"> Air Greenland</option><option value="GT"> Air Guilin</option><option value="NY"> Air Iceland</option><option value="KJ"> Air Incheon</option><option value="AI"> Air India</option><option value="IX"> Air India Express</option><option value="3H"> Air Inuit</option><option value="I9"> Air Italy</option><option value="JM"> Air Jamaica</option><option value="NQ"> Air Japan</option><option value="K7"> Air Kbz</option><option value="JS"> Air Koryo</option><option value="AL"> Air Leisure</option><option value="NX"> Air Macau</option><option value="MD"> Air Madagascar</option><option value="KM"> Air Malta</option><option value="6T"> Air Mandalay</option><option value="CW"> Air Marshall Islands</option><option value="MK"> Air Mauritius</option><option value="MC"> Air Mobility Command</option><option value="9U"> Air Moldova</option><option value="SW"> Air Namibia</option><option value="NZ"> Air New Zealand</option><option value="PX"> Air Niugini</option><option value="4N"> Air North</option><option value="YW"> Air Nostrum</option><option value="OP"> Air Pegasus</option><option value="GZ"> Air Rarotonga</option><option value="PJ"> Air Saint Pierre</option><option value="JU"> Air Serbia</option><option value="L4"> Air Service Liege</option><option value="HM"> Air Seychelles</option><option value="4D"> Air Sinai</option><option value="VT"> Air Tahiti</option><option value="TN"> Air Tahiti Nui</option><option value="TC"> Air Tanzania</option><option value="6C"> Air Timor</option><option value="8T"> Air Tindi</option><option value="TS"> Air Transat</option><option value="8C"> Air Transport International</option><option value="3N"> Air Urga</option><option value="NF"> Air Vanuatu</option><option value="ZW"> Air Wisconsin</option><option value="UM"> Air Zimbabwe</option><option value="AK"> Airasia Sdn Bhd</option><option value="D7"> Airasiax Sdn Bhd</option><option value="SB"> Aircalin</option><option value="SZ"> Aircompany Somon Air</option><option value="HD"> Airdo</option><option value="QP"> Airkenya Aviation</option><option value="CG"> Airlines Png</option><option value="TL"> Airnorth</option><option value="AP"> Airone S.P.A.</option><option value="2P"> Airphil Express</option><option value="FL"> Airtran Airways</option><option value="J6"> Airways International</option><option value="IS"> Ais Airlines B.V.</option><option value="2B"> Ak Bars Aero</option><option value="6L"> Aklak Air</option><option value="AS"> Alaska Airlines</option><option value="AZ"> Alitalia</option><option value="NH"> All Nippon Airways</option><option value="G4"> Allegiant Air</option><option value="UJ"> Almasria Universal Airlines</option><option value="K4"> Als Ltd</option><option value="6I"> Alsie Express</option><option value="7S"> Amadeus Pdf</option><option value="8Z"> Amadeus Pdf</option><option value="9S"> Amadeus Pdf</option><option value="MZ"> Amakusa Airlines</option><option value="HP"> Amapola Flyg Ab</option><option value="ZP"> Amaszonas Del Paraguay</option><option value="Z8"> Amaszonas S.A.</option><option value="AA"> American Airlines</option><option value="2V"> Amtrak</option><option value="OY"> Andes Lineas Aereas</option><option value="IP"> Apsara International Air</option><option value="FG"> Ariana Afghan Airlines</option><option value="IZ"> Arkia</option><option value="6A"> Armenia Airways</option><option value="R7"> Aserca</option><option value="HB"> Asia Atlantic Airlines</option><option value="DM"> Asian Air </option><option value="KV"> Asian Express Airline</option><option value="YJ"> Asian Wings Airways</option><option value="OZ"> Asiana Airlines</option><option value="RC"> Atlantic Airways</option><option value="L5"> Atlantique Air</option><option value="5Y"> Atlas Air</option><option value="KK"> Atlasjet Airlines</option><option value="UI"> Auric Air</option><option value="GR"> Aurigny Air</option><option value="HZ"> Aurora Airlines</option><option value="AU"> Austral Lineas Aereas</option><option value="OS"> Austrian Airlines</option><option value="6V"> Avanza</option><option value="YK"> Avia Traffic Company</option><option value="AV"> Avianca</option><option value="O6"> Avianca Brazil</option><option value="AO"> Avianova Lcc</option><option value="MV"> Aviastar Mandiri</option><option value="GU"> Aviateca</option><option value="X9"> Avion Express</option><option value="J2"> Azerbaijan Airlines</option><option value="AD"> Azul Linhas Aereas</option><option value="JA"> B H Airlines</option><option value="CJ"> Ba Cityflyer</option><option value="J4"> Badr Airlines</option><option value="UP"> Bahamasair</option><option value="PG"> Bangkok Airways</option><option value="5B"> Bassaka Air</option><option value="BO"> Bb Airways</option><option value="JV"> Bearskin Airlines</option><option value="JD"> Beijing Capital Airlines</option><option value="B2"> Belavia</option><option value="L9"> Belle Air</option><option value="LZ"> Belle Air Company</option><option value="CH"> Bemidji Airlines</option><option value="8E"> Bering Air</option><option value="J8"> Berjaya Air</option><option value="8H"> Bh Air</option><option value="BG"> Biman Bangladesh Airline</option><option value="NT"> Binter Canarias</option><option value="BZ"> Blue Bird Airways</option><option value="BV"> Blue Panorama Airlines</option><option value="KF"> Blue1</option><option value="BM"> Bmi Regional</option><option value="OB"> Boliviana De Aviacion</option><option value="YB"> Bora Jet</option><option value="4B"> Boutique Air</option><option value="5Q"> Bqb Lineas Aereas</option><option value="DC"> Braathens Regional</option><option value="E6"> Bringer Air Cargo</option><option value="BA"> British Airways</option><option value="SN"> Brussels Airlines</option><option value="U4"> Buddha Air</option><option value="FB"> Bulgaria Air</option><option value="H6"> Bulgarian Air</option><option value="XM"> C.A.I. First S.P.A.</option><option value="VE"> C.A.I. Second S.P.A</option><option value="MO"> Calm Air International</option><option value="QC"> Camair Co</option><option value="K6"> Cambodia Angkor Air</option><option value="BD"> Cambodia Bayon Airlines</option><option value="5T"> Canadian North</option><option value="9K"> Cape Air</option><option value="CV"> Cargolux Airlines Int'L</option><option value="BW"> Caribbean Airlines</option><option value="CX"> Cathay Pacific</option><option value="KX"> Cayman Airways</option><option value="5J"> Cebu Air</option><option value="C2"> Ceiba Intercontinental</option><option value="5Z"> Cemair</option><option value="9M"> Central Mountain Air</option><option value="CE"> Chalair Aviation</option><option value="6Q"> Cham Wings Airlines</option><option value="C5"> Champlain Enterprises</option><option value="9H"> Changan Airlines</option><option value="RP"> Chautauqua Airlines</option><option value="EU"> Chengdu Airlines</option><option value="CI"> China Airlines</option><option value="CK"> China Cargo Airlines</option><option value="MU"> China Eastern Airlines</option><option value="G5"> China Express Airlines</option><option value="CZ"> China Southern Airlines</option><option value="PN"> China West Air</option><option value="OQ"> Chongqing Airlines</option><option value="QI"> Cimber A/S</option><option value="C7"> Cinnamon Air</option><option value="QG"> Citilink</option><option value="CF"> City Airline</option><option value="E8"> City Airways</option><option value="WX"> Cityjet</option><option value="CC"> Cm Airlines</option><option value="GY"> Colorful Guizhou Airline</option><option value="MN"> Comair</option><option value="BU"> Compagnie Africaine D'Aviation</option><option value="CP"> Compass Airlines</option><option value="DE"> Condor</option><option value="DF"> Condor Berlin</option><option value="CO"> Continental Airlines</option><option value="CM"> Copa Airlines</option><option value="CD"> Corendon Dutch Airlines</option><option value="SS"> Corsair</option><option value="OU"> Croatia Airlines</option><option value="C8"> Cronos Airlines</option><option value="CU"> Cubana De Aviacion</option><option value="OK"> Czech Airlines</option><option value="D3"> Daallo Airlines</option><option value="9J"> Dana Airlines</option><option value="DX"> Danish Air</option><option value="DL"> Delta Airlines</option><option value="DQ"> Delta Connection</option><option value="DO"> Discovery Airways</option><option value="Z6"> Dniproavia</option><option value="3D"> Dokasch</option><option value="R6"> Dot Lt</option><option value="DH"> Douniah Airlines</option><option value="KA"> Dragonair</option><option value="KB"> Druk Air</option><option value="H7"> Eagle Air</option><option value="B5"> East African Safari Air</option><option value="EG"> East Air</option><option value="EA"> East Horizon Airlines</option><option value="T3"> Eastern Airways</option><option value="U2"> Easyjet</option><option value="WK"> Edelweiss Air</option><option value="MS"> Egyptair</option><option value="LY"> El Al Israel Airlines</option><option value="7Q"> Elite Airways</option><option value="EL"> Ellinair</option><option value="EK"> Emirates</option><option value="9E"> Endeavor Air</option><option value="MQ"> Envoy Air</option><option value="LC"> Equatorial Congo Airline</option><option value="E4"> Estelar Latinoamerica</option><option value="OV"> Estonian Air</option><option value="ET"> Ethiopian Airlines</option><option value="EY"> Etihad Airways</option><option value="QY"> European Air</option><option value="WL"> European Coastal Airline</option><option value="9F"> Eurostar</option><option value="EW"> Eurowings</option><option value="BR"> Eva Air</option><option value="5V"> Everts</option><option value="EV"> Expressjet Airlines</option><option value="FE"> Far Eastern</option><option value="FN"> Fastjet Airlines</option><option value="FJ"> Fiji Airways</option><option value="AY"> Finnair</option><option value="FC"> Finncomm Airlines</option><option value="7F"> First Air</option><option value="7B"> Fly Blue Crane</option><option value="EF"> Fly Caminter</option><option value="5L"> Fly Salone</option><option value="5K"> Fly Transportes Aereo</option><option value="BE"> Flybe</option><option value="FZ"> Flydubai</option><option value="FY"> Flyfirefly</option><option value="XY"> Flynas</option><option value="ND"> Fmi Air</option><option value="Q5"> Forty Mile Air</option><option value="RD"> French Military Force</option><option value="F9"> Frontier Airlines</option><option value="JH"> Fuji Dream Airlines</option><option value="FU"> Fuzhou Airlines</option><option value="3G"> Gambia Bird Airlines</option><option value="GC"> Gambia Intl Airlines</option><option value="GA"> Garuda Indonesia</option><option value="4G"> Gazpromavia</option><option value="A9"> Georgian Airways</option><option value="ST"> Germania</option><option value="GM"> Germania Flug Ag</option><option value="4U"> Germanwings</option><option value="G6"> Ghadames Air</option><option value="GH"> Globus Llc</option><option value="Z5"> Gmg Airlines</option><option value="G8"> Go Airlines</option><option value="G7"> Gojet Airlines</option><option value="CN"> Grand China Air</option><option value="ZK"> Great Lakes Aviation</option><option value="GX"> Guangxi Beidu Gulf Airlines</option><option value="G2"> Guinea Airlines</option><option value="GF"> Gulf Air</option><option value="H1"> Hahn Air</option><option value="HR"> Hahn Air</option><option value="HU"> Hainan Airlines</option><option value="H5"> Haiti Aviation</option><option value="7Z"> Halcyon Air Cabo Verde</option><option value="HA"> Hawaiian Airlines</option><option value="BH"> Hawkair</option><option value="YO"> Heli Air</option><option value="UV"> Helicopteros Del Sureste</option><option value="JB"> Helijet International</option><option value="HJ"> Hellas Jet</option><option value="2L"> Helvetic Airways</option><option value="H3"> Hermes Airlines</option><option value="H8"> Hesa Airlines</option><option value="UD"> Hex Air</option><option value="H9"> Himalaya Airlines</option><option value="OI"> Hinterland Aviation</option><option value="HC"> Holidays Czech Airlines</option><option value="HX"> Hong Kong Airlines</option><option value="UO"> Hong Kong Express Airways</option><option value="AN"> Hop Airlinair</option><option value="DB"> Hop Brit Air</option><option value="YS"> Hop Regional</option><option value="QX"> Horizon Air</option><option value="MR"> Hunnu Air</option><option value="IB"> Iberia</option><option value="FW"> Ibex Airlines</option><option value="FI"> Icelandair</option><option value="V8"> Iliamna Air</option><option value="6E"> Indigo</option><option value="XT"> Indonesia Airasia Extra</option><option value="7I"> Insel Air International</option><option value="D6"> Inter Air</option><option value="I7"> Inter Iles Air</option><option value="4O"> Interjet</option><option value="IR"> Iran Air</option><option value="B9"> Iran Air Tours</option><option value="NV"> Iranian Naft Airline</option><option value="IA"> Iraqi Airways</option><option value="WP"> Island Air</option><option value="Q2"> Island Aviation</option><option value="T6"> Island Transvoyager</option><option value="WC"> Islena Airlines</option><option value="6H"> Israir Airlines</option><option value="JC"> Japan Air Commuter</option><option value="JL"> Japan Airlines</option><option value="JZ"> Jatayu Gelang Sejahtera</option><option value="J9"> Jazeera Airways</option><option value="QK"> Jazz Aviation</option><option value="9W"> Jet Airways</option><option value="JF"> Jet Asia Airways</option><option value="S2"> Jet Lite</option><option value="JO"> Jet Time</option><option value="LS"> Jet2.Com</option><option value="TB"> Jetairfly</option><option value="B6"> Jetblue</option><option value="GK"> Jetstar</option><option value="JQ"> Jetstar</option><option value="3K"> Jetstar Asia</option><option value="BL"> Jetstar Pacific Airlines</option><option value="RY"> Jiangxi Air</option><option value="LJ"> Jin Air</option><option value="3B"> Job Air</option><option value="R5"> Jordan Aviation</option><option value="JR"> Joy Air</option><option value="KC"> Jsc Air Astana</option><option value="DV"> Jsc Aircompany Scat</option><option value="R3"> Jsc Aircompany Yakutia</option><option value="D9"> Jsc Donavia</option><option value="IH"> Jsc Irtysh-Air</option><option value="ZS"> Jsc Kazaviaspas</option><option value="5N"> Jsc Nordavia</option><option value="HO"> Juneyao Airlines</option><option value="RQ"> Kam Air</option><option value="5R"> Karthago Airlines</option><option value="M5"> Kenmore Air</option><option value="4K"> Kenn Borek Air</option><option value="KQ"> Kenya Airways</option><option value="KW"> Kharkiv Airlines</option><option value="2S"> Kinda Airlines</option><option value="WA"> Klm Cityhopper</option><option value="KL"> Klm Royal Dutch Airlines</option><option value="7K"> Kogalymavia Airlines</option><option value="KE"> Korean Air</option><option value="KY"> Kunming Airlines</option><option value="KU"> Kuwait Airways</option><option value="LK"> Kyrgyz Airlines</option><option value="6K"> Kyrgyz Trans Avia</option><option value="WJ"> Labrador Airways Limited</option><option value="LR"> Lacsa</option><option value="TM"> Lam Mozambique</option><option value="LA"> Lan Airlines</option><option value="UC"> Lan Chile Cargo</option><option value="4C"> Lan Colombia Airlines</option><option value="LP"> Lan Peru</option><option value="XL"> Lanecuador Aerolane Sa</option><option value="QV"> Lao Airlines</option><option value="LF"> Lao Central Airlines</option><option value="JJ"> Latam Airlines Brazil</option><option value="LB"> Lepl</option><option value="HE"> Lgw Luftfahrtges Walter</option><option value="LI"> Liat</option><option value="LN"> Libyan Airlines</option><option value="IK"> Llc Ikar</option><option value="LM"> Loganair</option><option value="LO"> Lot Polish Airlines</option><option value="LH"> Lufthansa</option><option value="LT"> Lufthansa Cityline</option><option value="CL"> Lufthansa Cityline Gmbh</option><option value="LG"> Luxair</option><option value="W5"> Mahan Airlines</option><option value="MH"> Malaysia Airlines</option><option value="MA"> Malev Hungarian Airlines</option><option value="OD"> Malindo Airway</option><option value="TF"> Malmo Aviation</option><option value="RI"> Mandala Airlines</option><option value="AE"> Mandarin Airlines</option><option value="JE"> Mango</option><option value="7Y"> Mann Yadanarpon Airlines</option><option value="MP"> Martinair</option><option value="L6"> Mauritanian Airlines Int</option><option value="VM"> Max Air</option><option value="MY"> Maya Island Air</option><option value="VL"> Med View Airlines</option><option value="LV"> Mega Maldives</option><option value="JI"> Meraj Air</option><option value="IG"> Meridiana Fly</option><option value="YV"> Mesa Airlines</option><option value="MX"> Mexicana</option><option value="LL"> Miami Air International</option><option value="OM"> Miat Mongolian Airlines</option><option value="8G"> Mid Africa Aviation</option><option value="ME"> Middle East Airlines</option><option value="MJ"> Mihin Lanka</option><option value="MW"> Mokulele Flight</option><option value="2M"> Moldavian Airlines</option><option value="QM"> Monacair</option><option value="ZB"> Monarch Airlines</option><option value="YM"> Montenegro Airlines</option><option value="5M"> Montserrat Airways</option><option value="3R"> Moskovia Airlines</option><option value="M9"> Motor-Sich Jsc</option><option value="UB"> Myanmar National Airlines</option><option value="IC"> Nacil Indian Airline</option><option value="T2"> Nakina Air</option><option value="IN"> Nam Air</option><option value="9Y"> National Airways</option><option value="NC"> National Jet Systems</option><option value="ON"> Nauru Airlines</option><option value="ZN"> Naysa</option><option value="RA"> Nepal Airlines</option><option value="EJ"> New England Airlines</option><option value="E3"> New Gen</option><option value="JN"> New Livingston</option><option value="JX"> Nice Helicopteres</option><option value="HG"> Niki</option><option value="DD"> Nok Air</option><option value="XW"> Nokscoot Airlines</option><option value="N6"> Nomad Aviation</option><option value="NA"> North American Airlines</option><option value="M3"> North Flying As</option><option value="HW"> North Wright Air</option><option value="J3"> Northwestern Air Lease</option><option value="D8"> Norwegian Air Int'L</option><option value="DY"> Norwegian Air Shuttle</option><option value="DU"> Norwegian Long Haul As</option><option value="N9"> Nova Airlines</option><option value="OA"> Olympic Air</option><option value="WY"> Oman Air</option><option value="8Q"> Onur Air</option><option value="EC"> Openskies</option><option value="R2"> Orenair</option><option value="OC"> Oriental Air Bridge</option><option value="3F"> Pacific Airways</option><option value="8P"> Pacific Coastal Airlines</option><option value="LW"> Pacific Wings</option><option value="PK"> Pakistan International</option><option value="7N"> Pan American World</option><option value="8A"> Panama Airways</option><option value="HI"> Papillon Airways</option><option value="2Z"> Passaredo Transportes</option><option value="MM"> Peach Aviation</option><option value="PC"> Pegasus Airlines</option><option value="KS"> Penair</option><option value="PE"> Peoples Viennaline</option><option value="YP"> Perimeter Aviation</option><option value="P9"> Peruvian Air Line</option><option value="PR"> Philippine Airlines</option><option value="F6"> Plus Ultra</option><option value="PU"> Plus Ultra Lineas Aereas</option><option value="Z3"> Pm Air</option><option value="DP"> Pobeda Airlines</option><option value="PI"> Polar Airlines</option><option value="YQ"> Polet Airlines</option><option value="OL"> Polynesian</option><option value="PD"> Porter Airlines</option><option value="NI"> Portugalia</option><option value="PW"> Precision Air</option><option value="PF"> Primera Air Scandinavia</option><option value="P0"> Proflight Commuter</option><option value="PB"> Provincial Airlines</option><option value="OH"> Psa Airlines</option><option value="QZ"> Pt Indonesia Airasia</option><option value="IW"> Pt Wings Abadi Airlines</option><option value="ZR"> Punto Azul</option><option value="QF"> Qantas Airways</option><option value="QR"> Qatar Airways</option><option value="IQ"> Qazaq Air</option><option value="QB"> Qeshm Air</option><option value="RT"> Rainbow Airlines</option><option value="7H"> Ravn Akaska</option><option value="WZ"> Red Wings Airlines</option><option value="8N"> Regional Air Services</option><option value="ZL"> Regional Express</option><option value="R4"> Reliable Unique</option><option value="4R"> Renfe Viajeros</option><option value="YX"> Republic Airline</option><option value="RR"> Royal Air Force</option><option value="AT"> Royal Air Maroc</option><option value="BI"> Royal Brunei</option><option value="RL"> Royal Falcon</option><option value="RJ"> Royal Jordanian</option><option value="DR"> Ruili Airlines</option><option value="7R"> Rusline</option><option value="RM"> Rutaca</option><option value="FR"> Ryanair</option><option value="PV"> Saint Barth Commuter</option><option value="RZ"> Sansa</option><option value="S3"> Santa Barbara Airlines</option><option value="6W"> Saratov Airlines</option><option value="SP"> Sata Air Acores</option><option value="S4"> Sata Azores Airlines</option><option value="SV"> Saudi Arabian Airlines</option><option value="6S"> Saudi Gulf Airlines</option><option value="SK"> Scandinavian Airlines</option><option value="YR"> Scenic Airlines</option><option value="TZ"> Scoot</option><option value="BB"> Seaborne Airlines</option><option value="XO"> Seair</option><option value="DN"> Senegal Airlines</option><option value="D2"> Severstal Air</option><option value="NL"> Shaheen Air Intl</option><option value="SC"> Shandong Airlines</option><option value="FM"> Shanghai Airlines</option><option value="ZH"> Shenzhen Airlines</option><option value="5E"> Siam Ga</option><option value="S7"> Siberia Airlines</option><option value="3U"> Sichuan Airlines</option><option value="MI"> Silkair</option><option value="3M"> Silver Airways</option><option value="SQ"> Singapore Airlines</option><option value="ZY"> Sky Airlines</option><option value="ZA"> Sky Angkor Airlines</option><option value="GQ"> Sky Express</option><option value="TE"> Sky Taxi</option><option value="Q7"> Skybahamas Airlines</option><option value="GW"> Skygreece Airlines</option><option value="F3"> Skyking</option><option value="BC"> Skymark Airlines</option><option value="6J"> Skynet Asia Airways</option><option value="NB"> Skypower Express</option><option value="OO"> Skywest Airlines</option><option value="C9"> Skywise</option><option value="S5"> Small Planet</option><option value="P7"> Small Planet Airline</option><option value="M4"> Smart Aviation</option><option value="2E"> Smokey Bay Air</option><option value="2C"> Sncf</option><option value="IE"> Solomon Airlines</option><option value="S8"> Sounds Air</option><option value="SA"> South African Airways</option><option value="9X"> Southern Airways</option><option value="WN"> Southwest Airlines</option><option value="JK"> Spanair</option><option value="5W"> Speed Alliance Westbahn</option><option value="SG"> Spicejet</option><option value="NK"> Spirit Airlines</option><option value="9C"> Spring Airlines</option><option value="IJ"> Spring Airlines</option><option value="UL"> Srilankan Airlines</option><option value="4S"> Star Airways</option><option value="7G"> Star Flyer</option><option value="S9"> Starbow</option><option value="RE"> Stobart Air</option><option value="8F"> Stp Airways</option><option value="SD"> Sudan Airways</option><option value="6G"> Sun Air Express Llc</option><option value="EZ"> Sun Air Of Scandinavia</option><option value="SY"> Sun Country</option><option value="XQ"> Sun Express</option><option value="WG"> Sunwing Airlines</option><option value="PY"> Surinam Airways</option><option value="HS"> Svenska Direktflyg Ab</option><option value="LX"> Swiss International</option><option value="7E"> Sylt Air Gmbh</option><option value="FS"> Syphax Airlines Sa</option><option value="RB"> Syrian Arab Airlines</option><option value="DT"> Taag</option><option value="HH"> Taban Airlines</option><option value="TA"> Taca International Airlines</option><option value="7J"> Tajik Air</option><option value="EQ"> Tame Linea Aerea Del Ecuador</option><option value="QT"> Tampa Cargo</option><option value="4E"> Tanana Air</option><option value="TQ"> Tandem Aero</option><option value="TP"> Tap Portugal</option><option value="K3"> Taquan Air</option><option value="RO"> Tarom</option><option value="B3"> Tashi Air</option><option value="U9"> Tatarstan Air</option><option value="FD"> Thai Airasia</option><option value="XJ"> Thai Airasia</option><option value="TG"> Thai Airways</option><option value="SL"> Thai Lion Mentari</option><option value="WE"> Thai Smile Airways</option><option value="VZ"> Thai Vietjet Air</option><option value="2H"> Thalys International</option><option value="DK"> Thomas Cook Airlines</option><option value="GS"> Tianjin Airlines</option><option value="3P"> Tiara Air Aruba</option><option value="TT"> Tiger Airways Australia</option><option value="DG"> Tigerair Philippines</option><option value="IT"> Tigerair Taiwan</option><option value="ZT"> Titan Airways</option><option value="C3"> Trade Air</option><option value="AX"> Trans States Airlines</option><option value="PH"> Transavia Denmark</option><option value="TO"> Transavia France</option><option value="8B"> Transnusa Aviation</option><option value="4P"> Travel Air</option><option value="3Z"> Travel Service Polska</option><option value="T4"> Trip</option><option value="X3"> Tuifly</option><option value="OR"> Tuifly Netherlands</option><option value="TU"> Tunisair</option><option value="TK"> Turkish Airlines</option><option value="PS"> Ukraine Intl Airlines</option><option value="B7"> Uni Airways</option><option value="UA"> United Airlines</option><option value="4H"> United Airways Bangladesh </option><option value="UQ"> Urumqi Airlines</option><option value="BS"> Us-Bangla Airlines</option><option value="UT"> Utair Aviation Jsc</option><option value="HY"> Uzbekistan Airways</option><option value="ZV"> V Air</option><option value="VF"> Valuair</option><option value="V9"> Van Air Europe</option><option value="JW"> Vanilla Air</option><option value="VC"> Via Airlines</option><option value="VJ"> Vietjet Aviation</option><option value="VN"> Vietnam Airlines</option><option value="BF"> Vincent Aviation</option><option value="VX"> Virgin America</option><option value="VS"> Virgin Atlantic</option><option value="VA"> Virgin Australia</option><option value="UK"> Vistara</option><option value="Y4"> Volaris</option><option value="V7"> Volotea</option><option value="G3"> Vrg Linhas Aereas S A</option><option value="VY"> Vueling Airlines</option><option value="WT"> Wasaya Airways</option><option value="WH"> West African Airlines</option><option value="9L"> West Link Airways</option><option value="WS"> Westjet</option><option value="WR"> Westjet Encore</option><option value="WW"> Wow Air</option><option value="MF"> Xiamen Airlines</option><option value="SE"> Xl Airways</option><option value="YC"> Yamal Airlines</option><option value="Y8"> Yangtze River Express</option><option value="Y2"> Ygnus Air</option><option value="A6"> Yunnan Hong Tu Airlines </option><option value="YI"> Yunnan Yingan Airline</option><option value="ZO"> Zagros Airlines</option><option value="Z4"> Zagros Jet</option><option value="B4"> Zanair</option><option value="GJ"> Zhejiang Loong Airlines</option></select></div>
+</div><!--col-xs-12 col-sm-12 col-md-12 col-lg-12-->
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 Trvv_flight_submit" style=" padding:0;  ">
+<button class="btn-11" onclick="submitForm()" style="outline:none;border:none;box-shadow:none;" type="button" value="Search Flights">
+<span class="vissible-xs vissible-sm">Search For Flights</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<!-- </div>
+</div> -->
+<!-- </div> -->
+</form></div>
+<div class="tab-pane" id="trpC_hotels_tab" role="tabpanel">
+<form action="/hotelSearch" class="hotel_search_engine" id="hotelSearchRequest" method="POST"><ul class="hotel_search_engine_list">
+<li class="hotel_heading">Find a Hotel</li>
+<li class="input_area input_area_desti">
+<div class="trvD_hotel_searchI" id="trvD_hotel_searchI">
+<label>Destination</label>
+<i class="fa fa-times" onclick="close_mob_fieldpop('trvD_hotel_searchI','trvD_hotel_searchI_cl')"></i>
+<i class="fa fa-map-marker"></i>
+<input class="map form-control" id="hotelLocation" name="stay.location" placeholder="Select Destination" type="text" value=""/></div>
+<ul class="code_location" id="trvD_location_destination" onclick="open_mob_fieldpop('trvD_hotel_searchI','trvD_hotel_searchI_cl')">
+<li class="code" id="trvD_htl_desti">Hotel</li>
+<li class="location" id="trvD_htl_desti_H">Destination</li>
+</ul>
+</li>
+<li class="input_area input_area_datepickr">
+<ul class="calendar trvD_hotel_dateP">
+<li class="first">
+<label class="">Check In</label>
+<img alt="Calendar" class="htl_calndr_icon" src="/resources/images/m-cal.png"/> <input class="calander form-control" id="checkIn" name="stay.checkIn" readonly="readonly" type="text" value=""/><ul class="code_location" id="checkinDate_m">
+<li class="code" id="checkin_m_day">Check In</li>
+<li class="location" id="checkin_m_year">Date</li>
+</ul>
+</li>
+<li class="middle">
+<label class="">Check Out</label>
+<img alt="Calendar" class="htl_calndr_icon" src="/resources/images/m-cal.png"/> <input class="calander form-control" id="checkOut" name="stay.checkOut" readonly="readonly" type="text" value=""/><ul class="code_location" id="checkoutDate_m">
+<li class="code" id="checkout_m_day">Check Out</li>
+<li class="location" id="checkout_m_year">Date</li>
+</ul>
+</li>
+<li class="last">
+<label>Nights</label>
+<span id="nights">2</span>
+</li>
+</ul>
+</li>
+<li class="rooms">
+<label>Rooms / Guests</label>
+<div id="open_guests_popup">
+<img alt="Calendar" class="htl_calndr_icon" src="/resources/images/user_adult.png"/>
+<span id="trpC_ttlRoom">1 Room</span>,
+                                       <span id="trpC_ttlAdult">1 Adult</span>,
+                                       <span id="trpC_ttlchildrn">0 Child</span>
+<i class="fa fa-sort-down"></i>
+</div>
+<!-- Travelers for room popup start -->
+<div id="trpC_alltrvl_popup">
+<div>
+<ul class="room" id="room0">
+<li class="first">
+<label id="label0">Room 1</label><input id="selroom" type="hidden" value="1"/>
+<select class="select_area" id="rooms0" name="room"><option value="1">1 Room</option>
+<option value="2">2 Rooms</option>
+<option value="3">3 Rooms</option>
+<!--      <option value="4">4 Rooms</option>
+                                                        <option value="5">5 Rooms</option> -->
+</select></li>
+<li class="middle">
+<label>Adult</label>
+<select class="select_area" id="occupancies0_adults" name="occupancies[0].adults"><option value="1">1 Adult</option><option value="2">2 Adults</option><option value="3">3 Adults</option><option value="4">4 Adults</option><option value="5">5 Adults</option></select></li>
+<li class="last">
+<label>Child</label>
+<select class="select_area" id="occupancies0_children" name="occupancies[0].children" onchange="showage(this,0);"><option value="0">No Children</option><option value="1">1 Child</option><option value="2">2 Children</option><option value="3">3 Children</option><option value="4">4 Children</option><option value="5">5 Children</option></select></li>
+</ul>
+<ul class="children" id="chd0Age0" style="display:none;">
+<li class="heading_area"><label>Children Ages <span>(1-17, enter 0 for infants)</span></label></li>
+<li id="chd0Age1" style="display:none;">
+<select class="select_area" id="occupancies0_paxes0" name="occupancies[0].paxes[0].age"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select></li>
+<li id="chd0Age2" style="display:none;">
+<select class="select_area" id="occupancies0_paxes1" name="occupancies[0].paxes[1].age"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select></li>
+<li id="chd0Age3" style="display:none;">
+<select class="select_area" id="occupancies0_paxes2" name="occupancies[0].paxes[2].age"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select></li>
+<li id="chd0Age4" style="display:none;">
+<select class="select_area" id="occupancies0_paxes3" name="occupancies[0].paxes[3].age"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select></li>
+<li id="chd0Age5" style="display:none;">
+<select class="select_area" id="occupancies0_paxes4" name="occupancies[0].paxes[4].age"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select></li>
+</ul>
+</div>
+<span><a class="saveall_G_U" href="javascript:;addRooms();">Done</a></span>
+</div> <!-- Travelers for room popup end -->
+</li>
+<li class="search">
+<!-- <a class="btn-11" onclick="submitForm()" href="javascript:;"><span>SEARCH</span></a> -->
+<button class="btn-11" onclick="submitHotelForm()" style="outline:none;border:none;box-shadow:none;" type="button" value="Search Flights"><span>SEARCH</span></button>
+</li>
+</ul>
+</form></div>
+</div> <!-- all tab close -->
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<!--ads slider-->
+</div>
+</div>
+</div>
+<div class="fixed_background" id="fixed_background"></div><!--fixed_background-->
+<script type="text/javascript">
+        $("#open_guests_popup").click(function(){
+            $("#open_guests_popup").toggleClass('trpC_alltrvl_popup_hover');
+            $("#open_guests_popup .fa-sort-down").toggleClass('rotate_180');
+        });
+        $("#code_location_border_left").click(function(){
+            $("#mobile_top_search_origin").fadeIn();
+             $("#froCity").focus();
+        });
+         $("#code_location_border_right").click(function(){
+            $("#mobile_top_search_destination").fadeIn();
+              $("#toCity").focus();
+        });
+        $("#mobile_top_search_origin_close, #mobile_top_search_destination_close").click(function(){
+            $("#mobile_top_search_origin, #mobile_top_search_destination").fadeOut();
+        });
+        
+
+    </script>
+<script type="text/javascript">
+        $("#fake_adult_box").click(function(){
+            $("#white_fixed_background").fadeIn();
+        });
+    </script>
+<!--============================Banner End==============================-->
+<div class="col-xs-12 about-section">
+<div class="container">
+<div class="col-xs-12">
+<div class="top-title">
+<h1>ABOUT <span>US</span></h1>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<img class="about_us_img" src="/resources/images/about_us_img.jpg"/>
+<p>Traveling- An experience that can be enjoyed by anyone and which is the reason for the happiness of certain people who love exploring new places. To make their vacation a successful one, people generally tend to contact many travel agents so that thing can be organized in a proper manner.Myfaresadda has been committed to bringing the clients the quality travel arrangement and best in value. We work with you in order to manage all the elements of travel in an efficient, ethical and cost-effective manner.A professional service is provided to our customers and it is ensured by them that the customer gets the benefit from the experience and the unique style we have of catering our services. </p>
+<p>Myfaresadda has been established with the aim of creating luxury holidays, unrivaled escorted tours. Apart from providing you with the list of packages to the exotic locations, we also customize the packages according to your requirement.The expert team that we have, takes pride in your thoughtful approach to plan your holiday. We find out the way of making your vacation an extra special and then help you to create your dream holiday. So, come and talk to us about your plans and the desired destinations and then you will realize why our clients return again and again to us.  
+</p>
+</div><!--col-xs-12 col-sm-7 col-md-8 col-lg-8-->
+</div>
+</div>
+<div class="most_popular_deals">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="top-title">
+<h1>POPULAR <span>DESTINATIONS</span></h1>
+</div>
+</div>
+</div><!--row-->
+</div><!--container-->
+<ul class="image_area_partition">
+<li class="first">
+<a href="/cheap-flights/trip-to-india">
+<img class="desktop_img" src="/resources/images/india.jpg"/>
+<img class="mobile_img" src="/resources/images/india.jpg"/>
+<p class="head">India</p>
+</a>
+</li>
+<li class="second">
+<ul>
+<li class="one">
+<a href="/cheap-flights/trip-to-jordan">
+<img class="desktop_img" src="/resources/images/jordan.jpg"/>
+<img class="mobile_img" src="/resources/images/jordan_m.jpg"/>
+<p class="head">Jordan</p>
+</a>
+</li>
+<li class="one">
+<a href="/cheap-flights/trip-to-china">
+<img class="desktop_img" src="/resources/images/china.jpg"/>
+<img class="mobile_img" src="/resources/images/china_m.jpg"/>
+<p class="head">China</p>
+</a>
+</li>
+<li class="one">
+<a href="/cheap-flights/trip-to-singapore">
+<img class="desktop_img" src="/resources/images/singapore.jpg"/>
+<img class="mobile_img" src="/resources/images/singapore_m.jpg"/>
+<p class="head">Singapore</p>
+</a>
+</li>
+<li class="two">
+<a href="/cheap-flights/trip-to-hongkong">
+<img class="desktop_img" src="/resources/images/hongkong.jpg"/>
+<img class="mobile_img" src="/resources/images/hongkong_m.jpg"/>
+<p class="head">Hongkong</p>
+</a>
+</li>
+</ul>
+</li>
+<li class="third">
+<a href="/cheap-flights/trip-to-turkey">
+<img class="desktop_img" src="/resources/images/turkey.jpg"/>
+<img class="mobile_img" src="/resources/images/turkey_m.jpg"/>
+<p class="head">Turkey</p>
+</a>
+</li>
+</ul>
+</div><!--most_popular_deals-->
+<div class="most_popular_deals customize_travel_area">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="top-title">
+<h2>Customize <span>Travel</span></h2>
+</div>
+</div>
+</div><!--row-->
+</div><!--container-->
+<ul class="image_area_partition">
+<li class="fourth">
+<a href="/customize/business-travel">
+<img src="/resources/images/business_travel.jpg"/>
+<p class="head">Business Travel</p>
+</a>
+</li>
+<li class="fourth">
+<a href="/customize/corporate-travel">
+<img src="/resources/images/corporate_travel.jpg"/>
+<p class="head">Corporate Travel</p>
+</a>
+</li>
+<li class="fourth">
+<a href="/customize/group-travel">
+<img src="/resources/images/group_travel.jpg"/>
+<p class="head">Group Travel</p>
+</a>
+</li>
+</ul>
+</div><!--most_popular_deals-->
+<div class="most_popular_deals">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="top-title">
+<h2>POPULAR <span>HOTELS</span></h2>
+</div>
+</div>
+</div><!--row-->
+</div><!--container-->
+<ul class="image_area_partition">
+<li class="fourth">
+<a href="#">
+<img src="/resources/images/china_hotel.jpg"/>
+<p class="head">Beijing Meiyuan Hotel (China)</p>
+</a>
+</li>
+<li class="fourth">
+<a href="#">
+<img src="/resources/images/singapore_hotel.jpg"/>
+<p class="head">Marina Mandarin Singapore (Singapore)</p>
+</a>
+</li>
+<li class="fourth">
+<a href="#">
+<img src="/resources/images/hongkong_hotel.jpg"/>
+<p class="head">BackCitadines Ashley Hongkong (Hongkong)</p>
+</a>
+</li>
+</ul>
+</div><!--most_popular_deals-->
+<div class="top-title testimonials_head">
+<h3>Testimonials</h3>
+<p>What other think about us</p>
+</div>
+<div class="testimonials">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<section class="thumbnail_slider_area" id="testimonials">
+<div class="thumbnail_slider" id="owl-testimonials">
+<div class="item">
+<ul class="testimonials_area">
+<li class="head">Isabella</li>
+<li class="text"> My experience with myfaresadda has been fairly good. As per my experience, customer care services are usually efficient, but the service professionals are not helpful enough. myfaresadda executives were pretty helpful and polite while dealing with me</li>
+<li class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</li>
+</ul>
+</div><!--item-->
+<div class="item">
+<ul class="testimonials_area">
+<li class="head">Sophia</li>
+<li class="text"> Hotel booking was a hassle free process with myfaresadda! although I got a confirmation mail but ma queries were not responded immediately. Answering to queries was a delayed process</li>
+<li class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</li>
+</ul>
+</div><!--item-->
+<div class="item">
+<ul class="testimonials_area">
+<li class="head">Lucas</li>
+<li class="text">The site took no time to load and show the results. It was quick! I have used many websites and I prefer it over others. </li>
+<li class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</li>
+</ul>
+</div><!--item-->
+<div class="item">
+<ul class="testimonials_area">
+<li class="head">Amelia </li>
+<li class="text"> The website sent me a confirmation email within 2 hours of my reservation. But my call to the customer care service was not answered immediately. But I was called back after around 35 minutes.so all good.</li>
+<li class="stars">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</li>
+</ul>
+</div><!--item-->
+</div><!-- end owl-hotel-offers -->
+</section><!-- end hotel-offers -->
+</div>
+</div><!--row-->
+</div><!--container-->
+</div><!--testimonials-->
+<!-- -->
+<!--=============================footer=================================-->
+<div class="new_footer_area">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<ul class="footer_links">
+<li class="left">
+<ul>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/cheap-flights">Cheap Flights</a></li>
+<li><a href="/flights">Flights</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+<li><a href="/customize-travel">Customize Trip</a></li>
+<li><a href="/top-travel-agency">Travel Agency</a></li>
+<li><a href="/site-map">Site Map</a></li>
+</ul>
+</li>
+<li class="right">
+<ul>
+<li><a href="/about-us">About Us</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/refunds">Cancellation &amp; Refunds</a></li>
+<li><a href="/terms">Terms &amp; Conditions</a></li>
+</ul>
+</li>
+</ul>
+<p class="footer_logos"><img alt="" src="/resources/images/card-logos.png" title=""/><a href="#"><img alt="Arc Logo" class="arclogo_" src="/resources/images/arc.png" title=""/></a></p>
+<style type="text/css">
+.F_social_icon { display: flex; align-items: center; justify-content: center; float: left; width: 100%; margin: 0 0 15px 0; position: relative; top: -10px; }
+.F_social_icon a { font-size: 30px; margin-right: 15px; }
+.F_social_icon a:hover:nth-child(1) { color:#0e76a8; }
+.F_social_icon a:hover:nth-child(2) { color:#3b5998; }
+.F_social_icon a:hover:nth-child(3) { color:#00acee; }
+.F_social_icon a:hover:nth-child(4) { color:#E60023; }
+.F_social_icon a:hover:nth-child(5) { color:#3f729b; }
+</style>
+<p class="F_social_icon">
+<a href="https://www.linkedin.com/company/myfaresadda"><i aria-hidden="true" class="fa fa-linkedin-square"></i></a>
+<a href="https://www.facebook.com/myfaresadda.travel"><i aria-hidden="true" class="fa fa-facebook-square"></i></a>
+<a href="https://twitter.com/myfaresadda"><i aria-hidden="true" class="fa fa-twitter-square"></i></a>
+<a href="https://www.pinterest.com/myfaresadda/"><i aria-hidden="true" class="fa fa-pinterest-square"></i></a>
+<a href="https://www.instagram.com/my_fares_adda"><i aria-hidden="true" class="fa fa-instagram"></i></a>
+</p>
+<p class="footer_address"><span>Address:</span> W Ray Rd, Chandler, AZ 85226, USA</p>
+<!-- <ul class="footer_social_icons">
+                    <li><a href="javascript:;" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="javascript:;" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="javascript:;" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="javascript:;" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                    <li><a href="javascript:;" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                </ul> -->
+<p class="footer_email"><span>Email:</span> <a href="mailto:support@myfaresadda.com" target="_blank">support@myfaresadda.com</a></p>
+<p class="footer_phone"><span>Phone:</span> <a href="tel:+1-888-870-5528" target="_blank">+1-888-870-5528</a></p>
+<p class="footer_disclaimer">© 2019 myfaresadda.com, having its registered office in the state of USA located at W Ray Rd in the city of Chandler  with Zip Code 85226. All rights reserved.</p>
+<div class="subscribe">
+<h3>Subscribe</h3>
+<form class="subscribe" id="myForm">
+<input class="subscribe" id="eamilID" placeholder="Your Email Address" type="email"/>
+<span class="error" hidden="" id="invalid_email">Email-id is invalid</span>
+<span class="error" hidden="" id="valid_email">Please Enter Email-id</span>
+<input class="subscribe_button" id="subscribeButon" type="button" value="Subscribe"/>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<span class="success" hidden="true" id="success-alert"><strong>SuccessFully Subscribed!</strong></span>
+</form>
+</div><!--subscribe-->
+<p class="footer_logo"><a href="/"><img alt="logo" src="/resources/images/footer-logo.png"/></a></p>
+</div><!--col-xs-12 col-sm-12 col-md-12 col-lg-12-->
+</div><!--row-->
+</div><!--container-->
+<a class="footer_number_mobile" href="tel:+1-888-870-5528" target="_blank">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    Call Us: +1-888-870-5528
+                </div><!--col-xs-12 col-sm-12 col-md-12 col-lg-12-->
+</div><!--row-->
+</div><!--container-->
+</a><!--new_footer_area-->
+<div class="session-strip hidden-xs-home">
+		By using our website, you acknowledge that you have read and
+		understand our <a class="cookie_a" href="/privacy?session" id="session" target="_blank">cookies policies</a> so we can provide
+		you with the best possible web experience. <span class="accept">Accept
+			&amp; Continue </span>
+</div>
+<script type="text/javascript">
+
+   $(document).ready(function(){
+   	var localVal= sessionStorage.getItem('key');
+
+     if(localVal != null){
+     	$(".session-strip").hide();
+     }
+
+    $(".accept").click(function(){
+       $(".session-strip").hide();
+sessionStorage.setItem('key','gdprkey');
+
+    });
+});
+
+</script>
+<!--===========================footer End===============================-->
+</div><!--main_body-->
+<script src="resources/js/jquery.easing.js?04072018" type="text/javascript"></script>
+<script src="resources/js/engine.js?05112018" type="text/javascript"></script>
+<script type="text/javascript">
+$("#subscribeButon").click(function() {	
+	 var email = $('#eamilID').val();
+	 if(email== ''){
+         $('#eamilID').next().next().show();
+         return false;
+       }
+	  else{
+		  $('#eamilID').next().next().hide(); 
+	  }
+	  if(IsEmail(email)==false){
+         $('#invalid_email').show();
+         return false;
+       }
+	  else{
+		  $('#invalid_email').hide(); 
+	  }	     
+   $.ajax({
+       type: "GET",
+       url: "/subscribeForm?email="+$("#eamilID").val(),
+       success: function(result) {      	
+       	$("#eamilID").val('')       	
+       	 $("#success-alert").show();
+       	setTimeout(function(){
+       		 $("#success-alert").hide();      		
+       	}, 3000);       	       	 
+           console.log("this is success subscribe message==",result)
+       },
+       error: function(result) {      	
+       	 console.log("this is error subscribe message==",result)
+       }
+   });
+});
+function IsEmail(email) {
+	  var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	  if(!regex.test(email)) {
+	    return false;
+	  }else{
+	    return true;
+	  }
+	}
+</script>
+<script>	
+	(function() {
+  $(function() {
+    var toggle;
+    return toggle = new Toggle('.toggle');
+  });
+  this.Toggle = (function() {
+    Toggle.prototype.el = null;
+    Toggle.prototype.tabs = null;
+    Toggle.prototype.panels = null;
+    function Toggle(toggleClass) {
+      this.el = $(toggleClass);
+      this.tabs = this.el.find(".tab");
+      this.panels = this.el.find(".panel");
+      this.bind();
+    }
+    Toggle.prototype.show = function(index) {
+      var activePanel, activeTab;
+      this.tabs.removeClass('active');
+      activeTab = this.tabs.get(index);
+      $(activeTab).addClass('active');
+      this.panels.hide();
+      activePanel = this.panels.get(index);
+      return $(activePanel).show();
+    };
+    Toggle.prototype.bind = function() {
+      var _this = this;
+      return this.tabs.unbind('click').bind('click', function(e) {
+        return _this.show($(e.currentTarget).index());
+      });
+    };
+    return Toggle;
+  })();
+}).call(this);
+    var count = 1;
+    var countEl = document.getElementById("count");
+    function plus(){
+        count++;
+        countEl.value = count;
+    }
+    function minus(){
+      if (count > 1) {
+        count--;
+        countEl.value = count;
+      }  
+    }
+</script>
+<script> 
+$(document).ready(function(){
+    $(".menu").click(function(){
+        $(".open-menu").slideToggle("slow");
+    });
+});
+</script>
+<script type="text/javascript">
+a=$("#resort_facilities_list > li");
+a.on({mouseenter:function(){$(this).addClass("increase_width");
+$(this).siblings().addClass("decrease_width")},mouseleave:function(){$(this).removeClass("increase_width");
+$(this).siblings().removeClass("decrease_width")}});    
+</script>
+<script src="/resources/js/thumbnail_slider/owl.carousel.min.js"></script>
+<script src="/resources/js/thumbnail_slider/custom-owl.js"></script>
+<script src="/resources/js/script.js"></script>
+</body>
+</html>

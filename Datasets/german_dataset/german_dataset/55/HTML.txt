@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="de-DE" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>  Deutsch auf Webseiten – einfach und verständlich</title>
+<link href="https://www.silver-tipps.de/wp-content/themes/silver-tipps/style.css?v26" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/xmlrpc.php" rel="pingback"/>
+<meta content="Nicht nur Mark Twain beklagte sich einst über die Schwierigkeit der „schrecklichen deutschen Sprache“ – noch immer kann Sprache eine Barriere darstellen, beispielsweise für Menschen, die Lese- und Lernschwierigkeiten haben. Aus diesem Grund schreiben immer mehr Behörden und andere Initiativen Texte in sogenannter „Leichter Sprache“. Auch im Internet gibt es solche Angebote." name="description"/>
+<meta content="Barrierefreiheit,Demenz,Einfache Sprache,Jeanine Wein,Leichte Sprache,Lernschwierigkeiten,Leseschwäche,Netzwerk Leichte Sprache,Sprache,Standardsprache,Verständlichkeit,Webseiten,Website," name="keywords"/>
+<meta content="index, follow" name="robots"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://www.silver-tipps.de/feed/" rel="alternate" title="Silver Tipps » Feed" type="application/rss+xml"/>
+<link href="https://www.silver-tipps.de/comments/feed/" rel="alternate" title="Silver Tipps » Kommentar-Feed" type="application/rss+xml"/>
+<link href="https://www.silver-tipps.de/deutsch-auf-webseiten-einfach-und-verstaendlich/feed/" rel="alternate" title="Silver Tipps » Deutsch auf Webseiten – einfach und verständlich Kommentar-Feed" type="application/rss+xml"/>
+<link href="https://www.silver-tipps.de/wp-content/plugins/mtouch-quiz/mtq_core_style.css?ver=3.1.3" id="mtq_CoreStyleSheets-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/plugins/mtouch-quiz/mtq_theme_style.css?ver=3.1.3" id="mtq_ThemeStyleSheets-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.5.3" id="cookie-notice-front-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/plugins/wp-video-embed-privacy-master/video-embed-privacy.css?ver=5.5.3" id="video-embed-privacy-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/themes/silver-tipps/responsive.css?ver=26" id="responsive-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/themes/prologue/functions/wpzoom/assets/css/shortcodes.css?ver=5.5.3" id="wpz-shortcodes-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/themes/prologue/functions/wpzoom/assets/css/font-awesome.min.css?ver=5.5.3" id="zoom-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/themes/prologue/media-queries.css?ver=5.5.3" id="media-queries-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/plugins/advanced-random-posts-widget/assets/css/arpw-frontend.css?ver=5.5.3" id="arpw-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/themes/prologue/functions/wpzoom/assets/css/wzslider.css?ver=5.5.3" id="wzslider-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.silver-tipps.de/wp-content/themes/prologue/custom.css?ver=5.5.3" id="wpzoom-custom-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://www.silver-tipps.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://www.silver-tipps.de/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp" type="text/javascript"></script>
+<script id="mtq_script-js" src="https://www.silver-tipps.de/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3" type="text/javascript"></script>
+<script id="cookie-notice-front-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.silver-tipps.de\/wp-admin\/admin-ajax.php","nonce":"d1635ff69e","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"1","cache":"0","refuse":"1","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script id="cookie-notice-front-js" src="https://www.silver-tipps.de/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2" type="text/javascript"></script>
+<script id="clipboard-js-js" src="https://www.silver-tipps.de/wp-content/themes/silver-tipps/libs/clipboard.min.js?ver=26" type="text/javascript"></script>
+<script id="main-js-js" src="https://www.silver-tipps.de/wp-content/themes/silver-tipps/js/main.js?ver=26" type="text/javascript"></script>
+<script id="wpzoom-init-js" src="https://www.silver-tipps.de/wp-content/themes/prologue/js/init.js?ver=5.5.3" type="text/javascript"></script>
+<link href="https://www.silver-tipps.de/wp-json/" rel="https://api.w.org/"/><link href="https://www.silver-tipps.de/wp-json/wp/v2/posts/4629" rel="alternate" type="application/json"/><link href="https://www.silver-tipps.de/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.silver-tipps.de/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://www.silver-tipps.de/kuriose-kurznachrichten/" rel="prev" title="Kuriose Kurznachrichten"/>
+<link href="https://www.silver-tipps.de/alle-krankendaten-in-einer-hand/" rel="next" title="Alle Krankendaten in einer Hand"/>
+<meta content="WordPress 5.5.3" name="generator"/>
+<link href="https://www.silver-tipps.de/deutsch-auf-webseiten-einfach-und-verstaendlich/" rel="canonical"/>
+<link href="https://www.silver-tipps.de/?p=4629" rel="shortlink"/>
+<link href="https://www.silver-tipps.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silver-tipps.de%2Fdeutsch-auf-webseiten-einfach-und-verstaendlich%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.silver-tipps.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silver-tipps.de%2Fdeutsch-auf-webseiten-einfach-und-verstaendlich%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- WPZOOM Theme / Framework -->
+<meta content="Silver Tipps 1.0.2" name="generator"/>
+<meta content="WPZOOM Framework 1.4.5" name="generator"/>
+<link href="https://www.silver-tipps.de/wp-content/uploads/2014/04/favicon-2.jpg" rel="shortcut icon" type="image/x-icon"/><style type="text/css"></style>
+<meta content="https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache.jpg" property="og:image"/>
+<meta content="Nicht nur Mark Twain beklagte sich einst über die Schwierigkeit der „schrecklichen deutschen Sprache“ – noch immer kann Sprache eine Barriere darstellen, beispielsweise für Menschen, die Lese- und Lernschwierigkeiten haben. Aus diesem Grund schreiben immer mehr Behörden und andere Initiativen Texte in sogenannter „Leichter Sprache“. Auch im Internet gibt es solche Angebote.
+
+„Es ist manchmal schwer in Leichter Sprache zu schreiben.“ – Das hat die Redaktion von „Einfach Heidelberg“ erfahren müssen. Als Nachrichtenportal will es allen Menschen in Heidelberg lokale Informationen zugänglich machen – unabhängig von Bildungshintergrund, Nationalität, Alter oder Behinderung. Dazu nutzt die Redaktion die sogenannte Leichte Sprache, die gar nicht mal so einfach ist. Denn es gibt Regeln, wie geschrieben werden soll: in kurzen Sätzen, mit vielen Absätzen und möglichst mit bekannten Wörtern, unbekannte müssen erklärt werden. Lange Wörter werden optisch abgetrennt, mit Strichen oder Punkten, also beispielsweise Wett-kampf oder Internet-seite.
+
+Die Idee hinter der Leichten Sprache: Barrierefreier Zugang zu Sprache für Menschen mit Lern- und Leseschwierigkeiten, für Demenzkranke, für Menschen, die nicht so gut Deutsch sprechen oder lesen können. Denn nur wer alles versteht, kann auch überall mitmachen.
+
+
+
+Auch Behörden, viele Städte und Ämter informieren mittlerweile auf diese Weise. So gibt es beispielsweise die Möglichkeit, die Internetseite der Bundesregierung in Leichter Sprache zu lesen. Ähnlich macht es die Bundeszentrale für politische Bildung.
+
+
+
+" property="og:description"/>
+<meta content="Deutsch auf Webseiten – einfach und verständlich" property="og:title"/>
+<script src="//cdn1.readspeaker.com/script/11758/webReader/webReader.js?pids=wr" type="text/javascript"></script>
+</head>
+<body class="post-template-default single single-post postid-4629 single-format-standard cookies-not-set">
+<div class="inner-wrap">
+<header id="header">
+<div id="headerColorWrap">
+<div id="logo">
+<a href="https://www.silver-tipps.de" title="Sicher online im Alter">
+<img alt="" src="https://www.silver-tipps.de/wp-content/themes/silver-tipps/images/silver-tipps-logo_2020.svg"/>
+</a>
+</div>
+<form action="https://www.silver-tipps.de/" id="searchform" method="get">
+<fieldset>
+<input id="s" name="s" placeholder="Suche" type="text"/><input id="searchsubmit" type="submit" value="Suche"/>
+</fieldset>
+</form>
+</div>
+<div class="clear"></div>
+<div id="menu">
+<a class="btn_menu" href="#" id="toggle"></a>
+<ul class="dropdown" id="mainmenu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-74" id="menu-item-74"><a href="https://www.silver-tipps.de/">Startseite</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61" id="menu-item-61"><a href="https://www.silver-tipps.de/themen/">Rubriken</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3298" id="menu-item-3298"><a href="https://www.silver-tipps.de/themen/archiv/">Archiv</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4654" id="menu-item-4654"><a href="https://www.silver-tipps.de/category/themen/redaktionstipp/">Redaktionstipps</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75" id="menu-item-75"><a href="https://www.silver-tipps.de/category/themen/datenschutz/">Datenschutz</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-76" id="menu-item-76"><a href="https://www.silver-tipps.de/category/themen/informationen-im-netz/">Informationen im Netz</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77" id="menu-item-77"><a href="https://www.silver-tipps.de/category/themen/internetsicherheit/">Internetsicherheit</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79" id="menu-item-79"><a href="https://www.silver-tipps.de/category/themen/verbraucherschutz/">Verbraucherschutz</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78" id="menu-item-78"><a href="https://www.silver-tipps.de/category/themen/unterhaltung/">Unterhaltung</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80" id="menu-item-80"><a href="https://www.silver-tipps.de/category/themen/wie-funktioniert/">Wie funktioniert …?</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-60" id="menu-item-60"><a href="https://www.silver-tipps.de/mediathek/">Mediathek</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119" id="menu-item-119"><a href="https://www.silver-tipps.de/category/video/">Video</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121" id="menu-item-121"><a href="https://www.silver-tipps.de/category/podcast/">Podcast</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-461" id="menu-item-461"><a href="https://www.silver-tipps.de/category/bilder/">Bildergalerien</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-969" id="menu-item-969"><a href="https://www.silver-tipps.de/category/quiz/">Quiz</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2918" id="menu-item-2918"><a href="https://www.silver-tipps.de/category/glossar/?filter_by_char=a">Glossar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4651" id="menu-item-4651"><a href="https://www.silver-tipps.de/service/">Service</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57" id="menu-item-57"><a href="https://www.silver-tipps.de/kontakt/">Kontakt</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2640" id="menu-item-2640"><a href="https://www.silver-tipps.de/category/themen/redaktionstipp/">Redaktionstipps</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3441" id="menu-item-3441"><a href="https://www.silver-tipps.de/newsletter/">Newsletter</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4653" id="menu-item-4653"><a href="https://www.silver-tipps.de/widget-generator/">Silver Tipps einbinden</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7433" id="menu-item-7433"><a href="https://digibo.silver-tipps.de/">DigiBo</a></li>
+</ul>
+<div class="clear"></div>
+</div><!-- /#menu -->
+<div class="clear"></div>
+</header>
+<div class="clearfix" id="content">
+<div id="readspeakerWrapper">
+<div class="rs_skip rsbtn rs_preserve" id="readspeaker_button1">
+<a accesskey="L" class="rsbtn_play" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=11758&amp;lang=de_de&amp;readid=main&amp;url=https%3A%2F%2Fwww.silver-tipps.de%2Fdeutsch-auf-webseiten-einfach-und-verstaendlich%2F" rel="nofollow" title="Um den Text anzuhören, verwenden Sie bitte ReadSpeaker webReader">
+<span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Vorlesen</span></span></span>
+<span class="rsbtn_right rsimg rsplay rspart"></span>
+</a>
+</div>
+</div>
+<section id="main" role="main">
+<h3 class="subHeading">Leichte Sprache</h3>
+<h1 class="title">
+<a href="https://www.silver-tipps.de/deutsch-auf-webseiten-einfach-und-verstaendlich/" rel="bookmark" title="Permalink zu Deutsch auf Webseiten – einfach und verständlich">Deutsch auf Webseiten – einfach und verständlich</a>
+</h1>
+<div class="post-meta">
+<span class="metaAuthor">von  Jeanine Wein</span> <span class="separator">—</span>
+<span class="metaDate">10. Oktober 2016</span>
+<div class="clearfix" id="silverTippsCatButtons">
+<ul class="post-categories">
+<li>
+<a href="https://www.silver-tipps.de/category/themen/informationen-im-netz/">Informationen im Netz</a>
+</li>
+<li>
+<a href="https://www.silver-tipps.de/category/themen/wie-funktioniert/">Wie funktioniert ...?</a>
+</li>
+</ul>
+</div>
+<div class="rs_skip" id="shareButton">
+<span id="shareLabel">Teilen: </span>
+<img class="page desktopOnly block" data-clipboard-text="https://www.silver-tipps.de/deutsch-auf-webseiten-einfach-und-verstaendlich/" id="desktopShareButton" src="https://www.silver-tipps.de/wp-content/themes/silver-tipps/images/icon-share.svg" title="Beitrag teilen"/>
+<img class="page mobileOnly block" data-clipboard-text="https://www.silver-tipps.de/deutsch-auf-webseiten-einfach-und-verstaendlich/" id="mobileShareButton" src="https://www.silver-tipps.de/wp-content/themes/silver-tipps/images/icon-share.svg" title="Beitrag teilen"/>
+</div>
+</div><!-- /.post-meta -->
+<div class="clearfix post-4629 post type-post status-publish format-standard has-post-thumbnail hentry category-november-2015 category-gesundheit category-september-2014 category-okt-2016_nov-2016 category-informationen-im-netz category-juli-2015 category-startseite category-widget category-wie-funktioniert tag-barrierefreiheit tag-demenz tag-einfache-sprache tag-jeanine-wein tag-leichte-sprache tag-lernschwierigkeiten tag-leseschwaeche tag-netzwerk-leichte-sprache tag-sprache tag-standardsprache tag-verstaendlichkeit tag-webseiten tag-website" id="post-4629">
+<div class="entry">
+<img alt="Jemand steht in der Mitte des Bildes. Die Person hat einen gequälten Gesichtsausdruck und schlägt die Hände vors Gesicht. Um den Kopf der Person fliegen Buchstaben und Zahlen." class="singleThumbnail" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-300x200.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-300x200.jpg 300w, https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-768x513.jpg 768w, https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-1024x684.jpg 1024w, https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-82x55.jpg 82w, https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-780x521.jpg 780w, https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache-1160x774.jpg 1160w, https://www.silver-tipps.de/wp-content/uploads/2016/10/2016-09-28-Einfache-Sprache.jpg 1200w" width="300"/>
+<p><em>Nicht nur Mark Twain beklagte sich einst über die Schwierigkeit der „schrecklichen deutschen Sprache“ – noch immer kann Sprache eine Barriere darstellen, beispielsweise für Menschen, die Lese- und Lernschwierigkeiten haben. Aus diesem Grund schreiben immer mehr Behörden und andere Initiativen Texte in sogenannter „Leichter Sprache“. Auch im Internet gibt es solche Angebote.</em></p>
+<p>„Es ist manchmal schwer in Leichter Sprache zu schreiben.“ – Das hat die Redaktion von „<a href="http://www.einfach-heidelberg.de/" rel="noopener" target="_blank" title='Website des Nachrichtenportals "Einfach Heidelberg" [externer Link]'>Einfach Heidelberg</a>“ erfahren müssen. Als Nachrichtenportal will es allen Menschen in Heidelberg lokale Informationen zugänglich machen – unabhängig von Bildungshintergrund, Nationalität, Alter oder Behinderung. Dazu nutzt die Redaktion die sogenannte Leichte Sprache, die gar nicht mal so einfach ist. Denn es gibt Regeln, wie geschrieben werden soll: in kurzen Sätzen, mit vielen Absätzen und möglichst mit bekannten Wörtern, unbekannte müssen erklärt werden. Lange Wörter werden optisch abgetrennt, mit Strichen oder Punkten, also beispielsweise Wett-kampf oder Internet-seite.</p>
+<p>Die Idee hinter der Leichten Sprache: Barrierefreier Zugang zu Sprache für Menschen mit Lern- und Leseschwierigkeiten, für Demenzkranke, für Menschen, die nicht so gut Deutsch sprechen oder lesen können. Denn nur wer alles versteht, kann auch überall mitmachen.</p>
+<div class="wpz-sc-box tick "><div class="wpz-sc-inner">Weitere Informationen sowie die Regeln für Leichte Sprache gibt es auf der Internetseite von „<a href="http://www.leichtesprache.org" rel="noopener" target="_blank" title="Website des Netzwerk Leichte Sprache [externer Link]">Netzwerk Leichte Sprache</a>“.
+<p>Die Johannes Gutenberg-Universität Mainz forscht derzeit auch an der <a href="http://www.magazin.uni-mainz.de/5089_DEU_HTML.php" rel="noopener" target="_blank" title="Website der Johannes Gutenberg-Universität Mainz (JGU) [externer Link]">Verständlichkeit von Texten in einfacher Sprache</a>.</p>
+</div></div>
+<p>Auch Behörden, viele Städte und Ämter informieren mittlerweile auf diese Weise. So gibt es beispielsweise die Möglichkeit, die <a href="https://www.bundesregierung.de/Webs/Breg/DE/LeichteSprache/leichteSprache_node.html" rel="noopener" target="_blank" title="Website der Bundesregierung [externer Link]">Internetseite der Bundesregierung in Leichter Sprache</a> zu lesen. Ähnlich macht es die <a href="http://www.bpb.de/die-bpb/informationen-in-leichter-sprache/" rel="noopener" target="_blank" title="Website der Bundeszentrale für politische Bildung [externer Link]">Bundeszentrale für politische Bildung</a>.</p>
+<div class="wpz-sc-box info "><div class="wpz-sc-inner">Neben der Leichten Sprache gibt es auch die Einfache Sprache. Diese ist etwas näher an der Standardsprache und weniger streng geregelt. Sie richtet sich verstärkt an Menschen mit Leseschwierigkeiten und auch an Nicht-Muttersprachler. Der Zugang zur Schriftsprache soll durch Einfache Sprache erleichtert werden.
+</div></div>
+<div class="wpz-sc-box info "><div class="wpz-sc-inner">Damit das Internet, unabhängig von körperlichen oder technischen Voraussetzungen, von möglichst vielen Menschen genutzt werden kann, müssen die Angebote möglichst barrierefrei sein. Das hessische Ministerium für Soziales und Integration informiert daher auf der Website „<a href="http://www.barrierefrei-fuer-alle.de/ca/c/b/" rel="noopener" target="_blank" title='Website von "Barrierefrei für alle" [externer Link]'>Barrierefrei für alle</a>“.
+</div></div>
+<div class="clear"></div>
+<div class="clear"></div>
+</div><!-- / .entry -->
+<div class="clear"></div>
+</div><!-- #post-4629 -->
+<div id="singlePostDateNotice"><p>Dieser Artikel gibt den Sachstand zum Zeitpunkt der Veröffentlichung wieder. Datum: 10. Oktober 2016</p></div>
+<div class="tag_list">Tags: <a href="https://www.silver-tipps.de/tag/barrierefreiheit/" rel="tag">Barrierefreiheit</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/demenz/" rel="tag">Demenz</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/einfache-sprache/" rel="tag">Einfache Sprache</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/jeanine-wein/" rel="tag">Jeanine Wein</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/leichte-sprache/" rel="tag">Leichte Sprache</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/lernschwierigkeiten/" rel="tag">Lernschwierigkeiten</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/leseschwaeche/" rel="tag">Leseschwäche</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/netzwerk-leichte-sprache/" rel="tag">Netzwerk Leichte Sprache</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/sprache/" rel="tag">Sprache</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/standardsprache/" rel="tag">Standardsprache</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/verstaendlichkeit/" rel="tag">Verständlichkeit</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/webseiten/" rel="tag">Webseiten</a> <span class="separator"> / </span> <a href="https://www.silver-tipps.de/tag/website/" rel="tag">Website</a></div>
+<div class="post_author clearfix">
+<div id="authorLeftCol">
+<span id="authorImgWrapper">
+<img alt="Foto der Autorin Jeanine Wein" class="attachment-medium size-medium" height="150" loading="lazy" sizes="(max-width: 130px) 100vw, 130px" src="https://www.silver-tipps.de/wp-content/uploads/2014/07/jeanine_neu.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2014/07/jeanine_neu.jpg 130w, https://www.silver-tipps.de/wp-content/uploads/2014/07/jeanine_neu-47x55.jpg 47w" width="130"/> </span>
+</div>
+<div id="authorRightCol">
+<span>
+					Autorin: Jeanine Wein					</span>
+<div id="authorPostContent"><p>Jeanine Wein ist Referentin bei der Verbraucherzentrale Rheinland-Pfalz. Neben dieser Tätigkeit arbeitet sie als Linguistin und Medienpädagogin bei alles mit Medien, einer Agentur für Bildungs­medien. Seit mehreren Jahren gibt sie Silver-Surfer-Kurse in Rheinland-Pfalz, unter anderem am Zentrum für wissenschaftliche Weiterbildung der Johannes Gutenberg-Universität Mainz.</p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="clearfix" id="relatedPostsWrapper">
+<span id="relatedPostsHeading">Verwandte Artikel:</span>
+<a class="relatedPost" href="https://www.silver-tipps.de/die-bagso-checkliste-nutzerfreundliche-internetseiten/" id="relatedPost_0">
+<span class="relatedSubheading">Nutzerfreundliche Internetseiten</span>
+<span class="relatedHeading">Surfen ohne Grenzen</span>
+<img alt="" class="attachment-large size-large" height="494" loading="lazy" sizes="(max-width: 740px) 100vw, 740px" src="https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-1024x684.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-1024x684.jpg 1024w, https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-300x200.jpg 300w, https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-768x513.jpg 768w, https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-82x55.jpg 82w, https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-780x521.jpg 780w, https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen-1160x774.jpg 1160w, https://www.silver-tipps.de/wp-content/uploads/2018/02/Surfen_ohne_Grenzen.jpg 1200w" width="740"/> </a>
+<a class="relatedPost" href="https://www.silver-tipps.de/barrierefreiheit/" id="relatedPost_1">
+<span class="relatedSubheading"></span>
+<span class="relatedHeading">Barrierefreiheit</span>
+<img alt="Auf der Tatstaur ist ein Rollstuhlfahrer abgebildet." class="attachment-large size-large" height="494" loading="lazy" sizes="(max-width: 740px) 100vw, 740px" src="https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit-1024x684.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit-1024x684.jpg 1024w, https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit-300x200.jpg 300w, https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit-82x55.jpg 82w, https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit-780x521.jpg 780w, https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit-1160x774.jpg 1160w, https://www.silver-tipps.de/wp-content/uploads/2015/05/2015-05-22-Glossar-Barrierefreiheit.jpg 1200w" width="740"/> </a>
+</div>
+</section><!-- /#main -->
+<section id="sidebar">
+<div class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="title">Digital-Botschafter RLP</h3><div class="textwidget custom-html-widget"><div id="digiboWidget"><a href="https://digibo.silver-tipps.de/3-digitalforum-in-trier-chancen-nutzen-menschen-weiterbilden-zukunft-gewinnen/" rel="noopener noreferrer" target="_blank"><img src="https://digibo.silver-tipps.de/wp-content/uploads/2020/09/Digitalforum_Projekt-DigiBo_2-600x338.jpg"/></a><a href="https://digibo.silver-tipps.de/3-digitalforum-in-trier-chancen-nutzen-menschen-weiterbilden-zukunft-gewinnen/" rel="noopener noreferrer" target="_blank"><p class="digiboTitle">3. Digitalforum in Trier: Chancen nutzen, Menschen weiterbilden, Zukunft gewinnen</p></a><div class="text"><p>Am Freitag, den 4. September 2020 fand in der ehemaligen Abteikirche St. Maxim, Trier, das diesjährige Digitalforum der Staatskanzlei RLP in hybrider Form statt, zu dem alle 178 augesbildeten DigiBos in Rheinland-Pfalz eingeladen wurden. Auch in diesem Jahr wurden aktuelle Fragen der Digitalisierung diskutiert und die Ziele und Maßnahmen der Strategie für das digitale Leben in Rheinland-Pfalz vorgestellt – diesmal unter dem Fokus der „Digitalen (Un-)Gleichheit“.<br/>
+Das Projekt DigiBo war ebenfalls mit dabei und konnte über die Erfahrungen im Bereich digitale Teilhabe berichten.</p>
+</div></div></div><div class="clear"></div></div><div class="widget arpw-widget-random" id="arpw-widget-2"><div class="arpw-random-post "><ul class="arpw-ul"><li class="arpw-li arpw-clearfix"><a href="https://www.silver-tipps.de/feature/" rel="bookmark"><img alt="Feature" class="arpw-thumbnail alignleft wp-post-image" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-300x200.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-300x200.jpg 300w, https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-768x513.jpg 768w, https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-1024x684.jpg 1024w, https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-82x55.jpg 82w, https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-780x521.jpg 780w, https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature-1160x774.jpg 1160w, https://www.silver-tipps.de/wp-content/uploads/2016/07/Feature.jpg 1200w" width="300"/></a><a class="arpw-title" href="https://www.silver-tipps.de/feature/" rel="bookmark">Feature</a><div class="arpw-summary">Als Features werden Eigenschaften oder Merkmale einer Software bezeichnet. Manchmal …</div></li></ul></div><!-- Generated by https://wordpress.org/plugins/advanced-random-posts-widget/ --><div class="clear"></div></div>
+<div id="sidebarPartners">
+<div id="sidebarPartnersTop">
+<h3 class="title">Projektträger</h3>
+<div aria-describedby="Die Projektträger des Projekts „Silver Tipps“ sind: Stiftung MedienKompetenz Forum Südwest, Landesanstalt für Medien Baden-Württemberg, Landeszentrale für Medien und Kommunikation Rheinland-Pfalz, SWR" class="images" role="img">
+<div class="mainLogo">
+<a class="one_third" href="https://mkfs.de/startseite/" target="_blank"><img alt="" class="attachment-middle size-middle" height="112" loading="lazy" sizes="(max-width: 152px) 100vw, 152px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_mkfs.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_mkfs.jpg 152w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_mkfs-150x112.jpg 150w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_mkfs-75x55.jpg 75w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_mkfs-123x92.jpg 123w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_mkfs-100x75.jpg 100w" width="152"/></a></div>
+<div class="logos">
+<img alt="" class="one_third" height="56" loading="lazy" sizes="(max-width: 102px) 100vw, 102px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_lfk.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_lfk.jpg 102w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_lfk-100x56.jpg 100w" width="102"/><img alt="" class="one_third" height="40" loading="lazy" sizes="(max-width: 152px) 100vw, 152px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_lmk.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_lmk.jpg 152w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_lmk-150x40.jpg 150w" width="152"/><img alt="" class="one_third" height="40" loading="lazy" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_swr.jpg" width="120"/></div></div> </div>
+<div id="sidebarPartnersBottom">
+<h3 class="title">Projektpartner</h3>
+<div aria-describedby="Die Partner des Projekts „Silver Tipps“ sind:  SWR4, MedienKompetenzNetzwerk Mainz-Rheinhessen, Verbraucherzentrale Baden-Württemberg, Verbraucherzentrale Rheinland-Pfalz, Landesbeauftragte für den Datenschutz Baden-Württemberg, Landesbeauftragte für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz, OK:TV Mainz, Verband der Volkshochschulen Rheinland-Pfalz, Netzwerk für Senioren-Internet-Initiativen Baden-Württemberg" class="images" role="img">
+<div class="logos">
+<img alt="" class="one_third" height="53" loading="lazy" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_presseclub.jpg" width="160"/><img alt="" class="one_third" height="53" loading="lazy" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_vz-rlp.jpg" width="143"/><img alt="" class="one_third" height="53" loading="lazy" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_vz-bw.jpg" width="143"/><img alt="" class="half" height="51" loading="lazy" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_ds-bw.jpg" width="196"/><img alt="" class="half" height="56" loading="lazy" sizes="(max-width: 240px) 100vw, 240px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_ds-rlp.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_ds-rlp.jpg 240w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_ds-rlp-236x55.jpg 236w" width="240"/><img alt="" class="one_fourth" height="70" loading="lazy" sizes="(max-width: 70px) 100vw, 70px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_swr4.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_swr4.jpg 70w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_swr4-55x55.jpg 55w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_swr4-50x50.jpg 50w" width="70"/><img alt="" class="one_fourth" height="71" loading="lazy" sizes="(max-width: 71px) 100vw, 71px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_oktv.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_oktv.jpg 71w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_oktv-55x55.jpg 55w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_oktv-50x50.jpg 50w" width="71"/><img alt="" class="one_fourth" height="58" loading="lazy" sizes="(max-width: 105px) 100vw, 105px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_vhs-rlp.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_vhs-rlp.jpg 105w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_vhs-rlp-100x55.jpg 100w" width="105"/><img alt="" class="one_fourth" height="67" loading="lazy" sizes="(max-width: 128px) 100vw, 128px" src="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_sii.jpg" srcset="https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_sii.jpg 128w, https://www.silver-tipps.de/wp-content/uploads/2020/11/sidebar-logo_sii-105x55.jpg 105w" width="128"/></div></div> </div>
+</div>
+</section>
+<div class="clear"></div>
+</div>
+<div id="footer">
+<div class="widget-area">
+<div class="column">
+<div class="widget widget_nav_menu" id="nav_menu-2"><div class="menu-footer-links-container"><ul class="menu" id="menu-footer-links"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439" id="menu-item-439"><a href="https://www.silver-tipps.de/impressum/">Impressum</a></li>
+</ul></div><div class="clear"></div></div>
+</div><!-- / .column -->
+<div class="column">
+<div class="widget widget_nav_menu" id="nav_menu-3"><div class="menu-footer-mitte-container"><ul class="menu" id="menu-footer-mitte"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440" id="menu-item-440"><a href="https://www.silver-tipps.de/datenschutzbestimmungen/">Datenschutzerklärung</a></li>
+</ul></div><div class="clear"></div></div>
+</div><!-- / .column -->
+<div class="column last">
+<div class="widget widget_nav_menu" id="nav_menu-4"><div class="menu-footer-rechts-container"><ul class="menu" id="menu-footer-rechts"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1058" id="menu-item-1058"><a href="https://www.silver-tipps.de/widget-generator/">Silver Tipps einbinden</a></li>
+</ul></div><div class="clear"></div></div>
+</div><!-- / .column -->
+<div class="clear"></div>
+</div><!-- /.widget-area-->
+<div class="clear"></div>
+<div class="copyright">
+<div class="left">
+				Copyright © 2020 Silver Tipps | Ein Projekt der Stiftung MedienKompetenz Forum Südwest
+			</div>
+<div class="clear"></div>
+</div><!-- /.copyright -->
+</div>
+</div><!-- /.wrap -->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+	
+	jQuery('input, textarea').placeholder();
+
+});
+</script>
+<script>(function($){$(document).ready(function(){});})(jQuery);</script><script id="comment-reply-js" src="https://www.silver-tipps.de/wp-includes/js/comment-reply.min.js?ver=5.5.3" type="text/javascript"></script>
+<script id="wpzoom-dropdown-js" src="https://www.silver-tipps.de/wp-content/themes/prologue/js/dropdown.js?ver=5.5.3" type="text/javascript"></script>
+<script id="galleria-js" src="https://www.silver-tipps.de/wp-content/themes/prologue/functions/wpzoom/assets/js/galleria.js" type="text/javascript"></script>
+<script id="wzslider-js" src="https://www.silver-tipps.de/wp-content/themes/prologue/functions/wpzoom/assets/js/wzslider.js" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://www.silver-tipps.de/wp-includes/js/wp-embed.min.js?ver=5.5.3" type="text/javascript"></script>
+<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+<div aria-label="Cookie Notice" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" id="cookie-notice" role="banner" style="background-color: rgba(0,146,147,1);"><div class="cookie-notice-container" style="color: #ffffff;"><span class="cn-text-container" id="cn-notice-text">Diese Website verwendet Cookies, um Ihnen die bestmögliche Nutzung unserer Website zu gewährleisten.
+Weitere Informationen finden Sie in unserer <a href="https://www.silver-tipps.de/datenschutzbestimmungen/">Datenschutzerklärung</a>.</span><span class="cn-buttons-container" id="cn-notice-buttons"><a aria-label="Weiter mit Cookies" class="cn-set-cookie cn-button button" data-cookie-set="accept" href="#" id="cn-accept-cookie">Weiter mit Cookies</a><a aria-label="Cookies ablehnen" class="cn-set-cookie cn-button button" data-cookie-set="refuse" href="#" id="cn-refuse-cookie">Cookies ablehnen</a></span><a aria-label="Weiter mit Cookies" class="cn-close-icon" data-cookie-set="accept" href="javascript:void(0);" id="cn-close-notice"></a></div>
+</div>
+<!-- / Cookie Notice plugin -->
+</body>
+</html>

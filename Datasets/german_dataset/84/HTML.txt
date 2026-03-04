@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script id="_9BYOLw2a" src="https://app.usercentrics.eu/latest/main.js" type="application/javascript"></script>
+<script type="text/javascript">AC_FL_RunContent = 0;</script>
+<script src="/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="/js/jquery.1.11.1.min.js" type="text/javascript"></script>
+<script src="/js/community.js" type="text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/css/main.css" media="screen" rel="stylesheet"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<!-- Global site tag (gtag.js) - AdWords: 985161763 -->
+<script async="" data-usercentrics="Google Analytics" src="https://www.googletagmanager.com/gtag/js?id=AW-985161763" type="text/plain"></script>
+<script data-usercentrics="Google Analytics" type="text/plain">
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+
+				  gtag('config', 'AW-985161763');
+				  gtag('config', 'UA-2478990-4', { 'anonymize_ip': true });
+				</script>
+<title>Brettspiele, Kartenspiele und Gesellschaftsspiele im Shop der Spiele-Offensive.de</title>
+<meta content="Shop für Brettspiele und Kartenspiele mit Deutschlands größtem Sortiment aus Gesellschaftsspielen. Nur hier mit Spielregeln auf Video. Versandkostenfrei, schnell und günstig." name="Description"/>
+<meta content="Spiele-Offensive, Spieleoffensive, Brettspiele shop, Kartenspiele shop, Gesellschaftsspiele shop, Brettspiele kaufen, Kartenspiele kaufen, Gesellschaftsspiele kaufen" name="keywords"/>
+<meta content="index,follow" name="robots"/>
+<link href="/css/startseite.css" media="screen" rel="stylesheet"/>
+<link href="/css/commentbox.css" media="screen" rel="stylesheet"/>
+<!--[if IE]>
+	   <link rel="stylesheet" media="screen" href="/css/main_ie.css">
+	<![endif]-->
+<!--[if IE 7]>
+	   <link rel="stylesheet" media="screen" href="/css/main_ie7.css">
+	<![endif]-->
+<link href="/css/weihnacht_css.css" media="screen" rel="stylesheet"/>
+<script data-usercentrics="Facebook Pixel" type="text/plain">
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=/v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '438017899874054');	fbq('track', 'PageView');
+
+
+
+<!-- Facebook Pixel Code -->
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=/v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '342870353441564');
+  fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+<script data-usercentrics="Bing Ads" type="text/plain">
+
+	(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17507698"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=/r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+
+	window.uetq = window.uetq || [];
+
+</script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=438017899874054&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/><img height="1" src="https://www.facebook.com/tr?id=342870353441564&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/> </noscript>
+</head>
+<body id="body" onclick="suchvorschlag_aus()">
+<img id="ajax_bild" src="/gfx/shop/loading_klein.gif" style="display: none; position: absolute; top:0px; left:0px; z-index:100000;"/>
+<div class="contentbereich" style="padding-top: 180px;"> <table class="content_main">
+<tr>
+<td>
+<script src="/js/jquery-1.9.1.min.js"></script><script src="/js/jquery.bxslider.min.js"></script><script src="/js/jquery-animate-css-rotate-scale.js"></script><script src="/js/startseite.js"></script><link href="/css/jquery.bxslider.css" rel="stylesheet"/><div class="ss_main"><div id="ss_content"><h1 class="ss_ues">Hallo! Schön, dass Sie da sind.</h1><div id="wrapper_startseite"><ul class="bxslider"><li onclick="window.location.href='/Spieleschmiede/Kleine-Feine-3-2';"><a href="/Spieleschmiede/Kleine-Feine-3-2" onclick="window.location.href='/Spieleschmiede/Kleine-Feine-3-2';return false;" style="display:block; height: 350px;"><img alt="Jetzt in der Spieleschmiede: Die Kleinen Feinen 3" onclick="window.location.href='/Spieleschmiede/Kleine-Feine-3-2';" src="/gfx/bilder/Startseitenslider/Slider_Startseite_kleine_feine3.jpg"/></a></li><li onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4510';"><a href="/index.php?cmd=gruppendeal&amp;grid=4510" onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4510';return false;" style="display:block; height: 350px;"><img alt="Alhambra inkl. 5 Erweiterungen + Queenie 1 - Bundle" onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4510';" src="/gfx/bilder/display_angebot05.png"/><img alt="Alhambra inkl. 5 Erweiterungen + Queenie 1 - Bundle" id="layer_0" src="/gfx/bilder/display_angebot02.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_0').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_0').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><img alt="Alhambra inkl. 5 Erweiterungen + Queenie 1 - Bundle" id="layer_1" src="/gfx/bilder/display_angebot03.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_1').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_1').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><div style="position:absolute; left:232px; top:34px; text-align:center; width:300px; z-index:-1;"><img src="/gfx/1026032.jpg" style=" max-width:300px; max-height: 300px;"/></div><div style="position:absolute; left:50px; top:90px; overflow:hidden; width:150px; height: 55px"><strong style="text-shadow: 1px 2px 4px black; color:white; font-size:1.6375em;">Alhambra inkl. 5 Erweiterungen + Queenie 1 - Bundle </strong></div><div style="margin-top:18px; position:absolute; left:50px; top:150px; overflow:hidden; width:155px; height: 28px"><strong style="color:white; font-size:1.4375em; font-style:italic;">nur 90 Stück</strong></div><div style="position:absolute; left:650px; top:150px; overflow:hidden; width:161px; height: 28px; line-hight:28px; text-align:center;"><p style="color:black; font-size:1.4375em; margin:0;">statt <span style="text-decoration:line-through;">142,99 </span></p></div><div style="position:absolute; left:650px; top:190px; overflow:hidden; width:205px; height: 45px; line-hight:36px; text-align:center;"><p style="color:red; margin:0;">nur <span style="font-size:2.6375em; font-weight:bold;">
+						59</span>,<span style="font-size: 10pt; font-weight:bold;">00</span> €</p></div><div style="position:absolute; left:855px; top:14px; transform:rotate(45deg); overflow:hidden; width:102px; height: 38px; line-hight:36px; text-align:center;"><p style="color:white; font-weight:bold; font-size:0.875em; margin:0;">Nur bis 14.11.2020</p></div><div style="position:absolute; left:60px; top:215px; transform:rotate(-15deg); overflow:hidden; width:130px; height: 93px; text-align:center;"><strong style="color:white; font-size:4.0em; margin:0;">59</strong> <strong style="font-size:2.5em; color:white;">%</strong> <strong style="font-size:2.0em; color:white; line-height:10px;">Rabatt</strong></div></a></li><li onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4507';"><a href="/index.php?cmd=gruppendeal&amp;grid=4507" onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4507';return false;" style="display:block; height: 350px;"><img alt="Final Act (engl.)" onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4507';" src="/gfx/bilder/display_angebot05.png"/><img alt="Final Act (engl.)" id="layer_2" src="/gfx/bilder/display_angebot02.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_2').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_2').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><img alt="Final Act (engl.)" id="layer_3" src="/gfx/bilder/display_angebot03.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_3').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_3').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><div style="position:absolute; left:232px; top:34px; text-align:center; width:300px; z-index:-1;"><img src="/gfx/1022583.jpg" style=" max-width:300px; max-height: 300px;"/></div><div style="position:absolute; left:50px; top:90px; overflow:hidden; width:150px; height: 55px"><strong style="text-shadow: 1px 2px 4px black; color:white; font-size:1.6375em;">Final Act  (engl.)</strong></div><div style="margin-top:18px; position:absolute; left:50px; top:150px; overflow:hidden; width:155px; height: 28px"><strong style="color:white; font-size:1.4375em; font-style:italic;">nur 24 Stück</strong></div><div style="position:absolute; left:650px; top:150px; overflow:hidden; width:161px; height: 28px; line-hight:28px; text-align:center;"><p style="color:black; font-size:1.4375em; margin:0;">statt <span style="text-decoration:line-through;">50,00 </span></p></div><div style="position:absolute; left:650px; top:190px; overflow:hidden; width:205px; height: 45px; line-hight:36px; text-align:center;"><p style="color:red; margin:0;">nur <span style="font-size:2.6375em; font-weight:bold;">
+						38</span>,<span style="font-size: 10pt; font-weight:bold;">99</span> €</p></div><div style="position:absolute; left:855px; top:14px; transform:rotate(45deg); overflow:hidden; width:102px; height: 38px; line-hight:36px; text-align:center;"><p style="color:white; font-weight:bold; font-size:0.875em; margin:0;">Nur bis 14.11.2020</p></div><div style="position:absolute; left:60px; top:215px; transform:rotate(-15deg); overflow:hidden; width:130px; height: 93px; text-align:center;"><strong style="color:white; font-size:4.0em; margin:0;">23</strong> <strong style="font-size:2.5em; color:white;">%</strong> <strong style="font-size:2.0em; color:white; line-height:10px;">Rabatt</strong></div></a></li><li onclick="window.location.href='/Ravensburger-Aktion';"><a href="/Ravensburger-Aktion" onclick="window.location.href='/Ravensburger-Aktion';return false;" style="display:block; height: 350px;"><img alt="Sparen Sie jetzt 20% auf ausgewählte Spiele von Ravensburger!" onclick="window.location.href='/Ravensburger-Aktion';" src="/gfx/bilder/Startseitenslider/display_rav_pauschal.jpg"/></a></li><li onclick="window.location.href='/Inspirations-TV';"><a href="/Inspirations-TV" onclick="window.location.href='/Inspirations-TV';return false;" style="display:block; height: 350px;"><img alt="Per Video inspirieren lassen" onclick="window.location.href='/Inspirations-TV';" src="/gfx/bilder/slider_inspiration.jpg"/></a></li><li onclick="window.location.href='/Spieleschmiede/Orbital';"><a href="/Spieleschmiede/Orbital" onclick="window.location.href='/Spieleschmiede/Orbital';return false;" style="display:block; height: 350px;"><img alt="Jetzt in der Spieleschmiede: Orbital" onclick="window.location.href='/Spieleschmiede/Orbital';" src="/gfx/bilder/Startseitenslider/Slider_Startseite_orbital.jpg"/></a></li><li onclick="window.location.href='/index.php?cmd=preisaktion&amp;id=296';"><a href="/index.php?cmd=preisaktion&amp;id=296" onclick="window.location.href='/index.php?cmd=preisaktion&amp;id=296';return false;" style="display:block; height: 350px;"><img alt="Jetzt 20% Kombirabatt auf Meeple Circus Artikel sichern!" onclick="window.location.href='/index.php?cmd=preisaktion&amp;id=296';" src="/gfx/bilder/Startseitenslider/display_meeple_circus_trio.jpg"/></a></li><li onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4508';"><a href="/index.php?cmd=gruppendeal&amp;grid=4508" onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4508';return false;" style="display:block; height: 350px;"><img alt="Gloomhaven (dt.) - B-Ware" onclick="window.location.href='/index.php?cmd=gruppendeal&amp;grid=4508';" src="/gfx/bilder/display_angebot04.png"/><img alt="Gloomhaven (dt.) - B-Ware" id="layer_4" src="/gfx/bilder/display_angebot02.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_4').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_4').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><img alt="Gloomhaven (dt.) - B-Ware" id="layer_5" src="/gfx/bilder/display_angebot03.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_5').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_5').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><div style="position:absolute; left:232px; top:34px; text-align:center; width:300px; z-index:-1;"><img src="/gfx/1026169.jpg" style=" max-width:300px; max-height: 300px;"/></div><div style="position:absolute; left:30px; top:80px; overflow:hidden; width:150px; height: 55px"><strong style="text-shadow: 1px 2px 4px black; color:white; font-size:1.6375em;">Gloomhaven (dt.) - B-Ware</strong></div><div style="margin-top:18px; position:absolute; left:40px; top:125px; overflow:hidden; width:155px; height: 28px"><strong style="color:white; font-size:1.4375em; font-style:italic;">nur 11 Stück</strong></div><div style="position:absolute; left:647px; top:147px; overflow:hidden; width:161px; height: 28px; line-hight:28px; text-align:center;"><p style="color:black; font-size:1.4375em; margin:0;">statt <span style="text-decoration:line-through;">129,00 </span></p></div><div style="position:absolute; left:647px; top:180px; overflow:hidden; width:205px; height: 45px; line-hight:36px; text-align:center;"><p style="color:red; margin:0;">nur <span style="font-size:2.6375em; font-weight:bold;">
+						111</span>,<span style="font-size: 10pt; font-weight:bold;">00</span> €</p></div><div style="position:absolute; left:855px; top:14px; transform:rotate(45deg); overflow:hidden; width:102px; height: 38px; line-hight:36px; text-align:center;"><p style="color:white; font-weight:bold; font-size:0.875em; margin:0;">Nur bis 12.11.2020</p></div><div style="position:absolute; left:60px; top:215px; transform:rotate(-15deg); overflow:hidden; width:130px; height: 93px; text-align:center;"><strong style="color:white; font-size:4.0em; margin:0;">14</strong> <strong style="font-size:2.5em; color:white;">%</strong> <strong style="font-size:2.0em; color:white; line-height:10px;">Rabatt</strong></div></a></li><li onclick="window.location.href='/Spieleschmiede/Arcana-of-Love';"><a href="/Spieleschmiede/Arcana-of-Love" onclick="window.location.href='/Spieleschmiede/Arcana-of-Love';return false;" style="display:block; height: 350px;"><img alt="Es knistert in der Spieleschmiede: Arcana of Love" onclick="window.location.href='/Spieleschmiede/Arcana-of-Love';" src="/gfx/bilder/Startseitenslider/Slider_Startseite_AofL.jpg"/></a></li><li onclick="window.location.href='/Spiel/Clash-of-Vikings-1024603.html';"><a href="/Spiel/Clash-of-Vikings-1024603.html" onclick="window.location.href='/Spiel/Clash-of-Vikings-1024603.html';return false;" style="display:block; height: 350px;"><img alt="Clash of Vikings" onclick="window.location.href='/Spiel/Clash-of-Vikings-1024603.html';" src="/gfx/bilder/display_angebot04.png"/><img alt="Clash of Vikings" id="layer_6" src="/gfx/bilder/display_angebot02.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_6').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_6').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><img alt="Clash of Vikings" id="layer_7" src="/gfx/bilder/display_angebot03.png" style="position:absolute; left:0; display:inline-block;"/><script type="text/javascript">
+	                                $('#layer_7').parent().parent().on('triggerInLayerEffects', function(event, element) {});</script><script type="text/javascript">
+	                                $('#layer_7').parent().parent().on('triggerOutLayerEffects', function(event, element) {});</script><div style="position:absolute; left:232px; top:34px; text-align:center; width:300px; z-index:-1;"><img src="/gfx/1024603.jpg" style=" max-width:300px; max-height: 300px;"/></div><div style="position:absolute; left:30px; top:80px; overflow:hidden; width:150px; height: 55px"><strong style="text-shadow: 1px 2px 4px black; color:white; font-size:1.6375em;">Clash of Vikings</strong></div><div style="margin-top:18px; position:absolute; left:40px; top:125px; overflow:hidden; width:155px; height: 28px"><strong style="color:white; font-size:1.4375em; font-style:italic;">nur 69 Stück</strong></div><div style="position:absolute; left:647px; top:147px; overflow:hidden; width:161px; height: 28px; line-hight:28px; text-align:center;"><p style="color:black; font-size:1.4375em; margin:0;">statt <span style="text-decoration:line-through;">18,99 </span></p></div><div style="position:absolute; left:647px; top:180px; overflow:hidden; width:205px; height: 45px; line-hight:36px; text-align:center;"><p style="color:red; margin:0;">nur <span style="font-size:2.6375em; font-weight:bold;">
+						5</span>,<span style="font-size: 10pt; font-weight:bold;">00</span> €</p></div><div style="position:absolute; left:855px; top:14px; transform:rotate(45deg); overflow:hidden; width:102px; height: 38px; line-hight:36px; text-align:center;"><p style="color:white; font-weight:bold; font-size:0.875em; margin:0;">Nur bis 11.11.2020</p></div><div style="position:absolute; left:60px; top:215px; transform:rotate(-15deg); overflow:hidden; width:130px; height: 93px; text-align:center;"><strong style="color:white; font-size:4.0em; margin:0;">74</strong> <strong style="font-size:2.5em; color:white;">%</strong> <strong style="font-size:2.0em; color:white; line-height:10px;">Rabatt</strong></div></a></li><li onclick="window.location.href='/Weihnachten';"><a href="/Weihnachten" onclick="window.location.href='/Weihnachten';return false;" style="display:block; height: 350px;"><img alt="Entdecke Weihnachten bei der Spiele-Offensive.de!" onclick="window.location.href='/Weihnachten';" src="/gfx/bilder/Weihnachten2020/display_SOXmas2020.jpg"/></a></li></ul></div><p class="clear"></p><ul id="start_vorteile"><li style="width: 21%;"><img src="/gfx/startseite_neukunde_ab/icon_auswahl.jpg" style="margin-top: -13px;"/><strong>Riesige Auswahl    </strong> <a href="/index.php?cmd=kategorieseite">(Zeigen)</a></li><li style="width: 21%;"><img src="/gfx/startseite_neukunde_ab/icon_lieferung.jpg"/><strong>Schnelle Lieferung</strong> <a href="/Versandkosten">(Zeigen)</a></li><li style="width: 30%;"><img src="/gfx/startseite_neukunde_ab/icon_video.jpg"/><strong>Spielregelerklärungen auf Video</strong> <a href="/Spielregeln-auf-Video-Beispiel">(Zeigen)</a></li><li style="width: 28%;"><img src="/gfx/startseite_neukunde_ab/icon_beratung.jpg"/><strong>Individuelle &amp; kompetente Beratung</strong> <a href="/Direktberatung">(Zeigen)</a></li></ul><div id="startseiteWeihnachten"><div class="left"><div><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025472">1. King of 12 - Deluxe</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025834">2. Bonfire</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025736">3. Die Quacksalber von Quedlinburg - Die Alchemisten </a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025890">4. Yukon Airways</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1023973">5. The Few and Cursed - Eine Handvoll Verdammte</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1022979">6. Root (dt.) (2.Auflage)</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1020337">7. Terraforming Mars (dt.)</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1023193">8. Flügelschlag - Kennerspiel des Jahres 2019</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1023654">9. Dinosaur Island (dt.)</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025818">10. Detective: Erste Fälle (Portal Games)</a></p></div></div><div class="right"><div><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1017600">1. Roar-a-Saurus (dt.)</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1009603">2. Monster unterm Bett</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1011323">3. Maharani - Mosaic Palace</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1018825">4. Die Baumeister des Colosseum</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1021746">5. Raxxon (dt.)</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025472">6. King of 12 - Deluxe</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1022827">7. Orbis</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1025808">8. Fantastische Reiche</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1016375">9. Broom Service - Kennerspiel des Jahres 2015</a></p><p><a href="https://www.spiele-offensive.de/index.php?cmd=artikel_anzeigen&amp;aid=1007169">10. Memo Rondo</a></p></div></div><p class="clear"></p></div><div class="left" style="width:32%; margin: 20px 5px 5px 0; border-right: 1px solid #e1e1e0;"><h2>Beratung</h2><br/><br/><a href="/Spielecharts" title="Die meistverkauften Spiele auf Spiele-Offensive.de">Spielecharts</a><br/><i>die Top 20 der Gesellschaftsspiele</i><br/><br/><a class="ss_itv_link" href="/Inspirations-TV" title="Per Video inspirieren lassen">InspirationTV</a><br/><i>Ideal für die Geschenksuche</i><br/><br/><a href="/Direktberatung" title="Eine fundierte Kaufberatung, basierend auf Ihren individuellen Bedürfnissen">Beratung, individuell &amp; kompetent</a><br/><i>fundierte Kaufberatung, basierend auf Ihren individuellen Bedürfnissen</i><br/><br/>Preisgekrönte Spiele:<br/><img src="/gfx/shop/pfeil.gif"/> <a href="/Auszeichnung/Spiel-des-Jahres-1.html" title="Spiel des Jahres">Spiel des Jahres</a><br/><img src="/gfx/shop/pfeil.gif"/> <a href="/Auszeichnung/Kennerspiel-des-Jahres-25.html" title="Kennerspiel des Jahres">Kennerspiel des Jahres</a><br/><img src="/gfx/shop/pfeil.gif"/> <a href="/Auszeichnung/Kinderspiel-des-Jahres-2.html" title="Kinderspiel des Jahres">Kinderspiel des Jahres</a><br/><img src="/gfx/shop/pfeil.gif"/> <a href="/Spiele-Auszeichnungen" title="Andere, internationale Auszeichnungen">Andere Spieleauszeichnungen</a><br/><br/><a href="/Die-neuesten-Kunden-Testberichte" title="Das sagen andere Kunden zu den Spielen aus unserem Sortiment">Neueste Kundentestberichte</a><br/><i>Was andere Kunden über die Spiele in unserem Sortiment sagen.</i></div><div class="left" style="width:32%; margin: 20px 5px 5px 0; border-right: 1px solid #e1e1e0;"><h2>Service</h2><br/><br/><a href="/Liste-der-Spielregeln-auf-Video" title="Regelerklärungen auf Video">Spielregeln auf Video</a><br/><i>Nie wieder Anleitungen lesen! Hier finden Sie eine Liste aller derzeit, exklusiv bei uns verfügbaren Spielregelvideos.</i><br/><br/><a href="/Gutscheine">Geschenkgutscheine</a><br/><i>Verschenken Sie Spiele-Offensive.de-Gutscheine.</i><br/><br/><a href="/Hilfe" title="Hilfe">Hilfe</a><br/><br/><a href="/Impressum" title="Kontakt">Kontakt:</a><br/><br/><h2>0 180 50 55 77 5</h2><br/>Montag-Freitag 10:00 - 17:00 Uhr<br/><i>(außer an Feier- und Brückentagen. 0,14/min aus dem Festnetz, aus Mobilfunknetzen max. 0,42/min)</i></div><div class="left" style="width:32%; margin: 20px 5px 5px 0;"><h2>persönliche Links</h2><br/><br/><a href="/index.php?cmd=pers_seite" title="Ihre persönliche Seite">Ihre persönliche Seite</a><br/><i>mit persönlichen Empfehlungen, zuletzt angesehenen Artikeln, Ihrer Merkliste u.v.m.</i><br/><br/><a href="/index.php?cmd=login&amp;z=kundenbereich" title="Login">Login für den Kundenbereich</a><br/><i>Verwalten Sie hier Ihre Bestellungen, Rechnungsadresse und Newslettereinstellungen</i><br/><br/></div><p class="clear"></p><div style="padding:10px;"><h1>Spiele-Offensive.de: Noch nie war Spiele kaufen und leihen so einfach</h1><br/><p>Bei Spiele-Offensive erhalten Sie Deutschlands größtes Sortiment für Brettspiele, Kartenspiele und Gesellschaftsspiele. Derzeit haben Sie die Auswahl aus 6281 Spielen aus der ganzen Welt. Unsere Kunden profitieren von einzigartigen Services, wie detaillierten <a href="/Spielregeln-auf-Video-Beispiel">Spielregelerklärungen auf Video</a> und der besonderen Möglichkeit, Brettspiele vor dem Kauf <a href="/Verleih">auszuleihen</a> und ausgiebig zu testen. Beliebte Kartenspiele wie beispielsweise <a href="/index.php?cmd=suchergebnis&amp;suchwort=mau+mau">Mau Mau</a>, <a href="/Spiel/Phase-10-Karten-1000167.html">Phase 10</a> oder <a href="/index.php?cmd=suchergebnis&amp;suchwort=canasta">Canasta</a> haben wir ebenso im Sortiment wie klassische Brettspiele: <a href="/index.php?cmd=suchergebnis&amp;suchwort=mensch+%e4rgere+dich+nicht">Mensch ärgere dich nicht</a>, <a href="/index.php?cmd=suchergebnis&amp;suchwort=scrabble">Scrabble</a>, <a href="/index.php?cmd=suchergebnis&amp;suchwort=catan">Catan</a> oder <a href="/index.php?cmd=suchergebnis&amp;suchwort=monopoly">Monopoly</a>. Mit Brettspielen bringen Sie ihre Familie ganz einfach gemeinsam an den Tisch.</p><br/><h2>Brettspiele und Kartenspiele kaufen oder leihen</h2><br/>Mit uns können Sie Spiele zu Hause testen, bevor Sie diese kaufen. Sparen Sie Zeit und Geld.<br/><p>Lassen Sie einfach Ihre Kinder entscheiden, welches <b><a href="/Kategorie/Brettspiel-118-0.html">Brettspiel</a></b> oder <b><a href="/Kategorie/Kartenspiel-117-0.html">Kartenspiel</a></b> gefällt! Dafür braucht es nur einen Klick. Ein ausgesuchtes Spiel können Sie einfach und schnell bereits ab 5 Euro für 14 Tage ausleihen. Sie haben bereits ein beliebtes Lieblingsspiel, was allerdings in die Jahre gekommen ist und Teile vermisst? Kein Problem: Stöbern Sie in unserem Online-Shop und bestellen Sie es einfach neu.</p></div></div></div> </td>
+</tr>
+</table>
+<!--- Ende Contentbereich -->
+<!--- Seitenabschluss -->
+<div style="clear:both;"></div>
+<div class="cbox" style="position: relative;">
+<div class="wshop">
+<h3 style="display: inline;">Hier weitershoppen:</h3>
+<br/><i>Warenkorb mitnehmen und Porto sparen!</i><br/><br/>
+<a href="http://www.Puzzle-Offensive.de/index.php?walt=1605118922aac8ce41101ccd94362fbc49f7118f092198f2fe6dc919ff63ad19" title="Puzzle">Puzzle-Offensive.de</a><br/>
+<a href="http://www.Kreativ-Offensive.de/index.php?walt=1605118922aac8ce41101ccd94362fbc49f7118f092198f2fe6dc919ff63ad19" title="Malen, Basteln, Modellieren">Kreativ-Offensive.de</a><br/>
+<a href="http://www.Holzeisenbahn-Offensive.de/index.php?walt=1605118922aac8ce41101ccd94362fbc49f7118f092198f2fe6dc919ff63ad19" title="Holzeisenbahn, Thomas und seine Freunde">Holzeisenbahn-Offensive.de</a><br/>
+<a href="http://www.Spiele-Offensive.de/wuerfel/index.php?walt=1605118922aac8ce41101ccd94362fbc49f7118f092198f2fe6dc919ff63ad19" title="Würfel">Wuerfel-Offensive.de</a><br/>
+<a href="http://www.Spiele-Offensive.de/sommer-offensive/index.php?walt=1605118922aac8ce41101ccd94362fbc49f7118f092198f2fe6dc919ff63ad19" title="Wasserpistolen">Sommer-Offensive.de</a><br/>
+</div>
+<br/><h3>So geht´s weiter:</h3><br/><a href="/index.php?cmd=startseite" title="Startseite">Zur Startseite</a><br/><a href="/Hilfe" title="Hilfe">Hilfe</a><br/><a href="/Impressum" title="Kontakt">Kontakt:</a> Servicehotline: +49 (0) 180 50 55 77 5<br/><i>(0,14 */min aus dem deutschen Festnetz, Mobilfunktarife max. 0,42 */min)<br/>  Bitte beachten Sie hierzu unsere <a href="/index.php?cmd=agb_telefon">Verbraucherinformationen zu entgeltlichen Mehrwertdiensten</a>.*inkl. MwSt.</i><div class="cbox_ecke_l"></div><div class="cbox_ecke_r"></div></div>
+<!--- / Seitenabschluss --->
+</div> <!-- contentbereich-->
+<center class="footerline">
+<a href="/index.php" title="Zur Startseite des Shops">Startseite</a>  <a href="https://www.spiele-offensive.de/Versandkosten" title="Informationen zu den Versandkosten">Versandkosten &amp; Teillieferungen</a>   <a href="http://www.spiele-offensive.de/sitemap.php" title="Sitemap">Sitemap</a>   <a href="/Hilfe" title="Auskunft und Hilfestellungen zu den verschiedensten Themen im Zusammenhang mit diesem Onlineshop">Hilfe</a>   <a href="/Impressum" title="Unsere Firmendaten.">Impressum</a>   <a href="/Impressum" title="So erreichen Sie uns.">Kontakt</a>   <a href="/AGB" title="Unsere allgemeinen Geschäftsbedingungen">AGB &amp; Kundeninfo</a>    <a href="/index.php?cmd=widerruf" title="Erklärung zu Ihrem Recht auf Widerruf">Widerrufsbelehrung</a>	  <a href="/index.php?cmd=hilfe&amp;zielkat=1&amp;kate=19&amp;zielebene=2" title="Hinweise zu unseren Datenschutzvorkehrungen">Datenschutz</a>   <a href="/index.php?cmd=hilfe&amp;zielkat=31&amp;kate=19&amp;zielebene=2" title="Hinweise zum Batterieentsorgung">Batterieentsorgung</a>  
+			  <a href="http://partner.forheads-network.de/partner_werden.php" target="_blank" title="Bewerben Sie unsere Produkte auf Ihrer Webseite und verdienen Sie lukrative Provisionen.">Partnerprogramm</a>   <a href="http://www.happyshops.com/index.php?cmd=presse" target="_blank" title="aktuelle Pressemitteilungen und Veröffentlichungen von Happyshops">Pressebereich</a>
+</center>
+<!--- Beginn Navigationsbereich -->
+<div class="seniornav" id="seniornav">
+<div class="e1"></div>
+<div class="e2"></div>
+<center>
+<a href="http://www.spiele-offensive.de/"><img alt="Brettspiele, Gesellschaftsspiele und Kartenspiele" src="/gfx/shop/so_logo_weihnacht.gif"/></a>
+<div id="geburtstagswoche">
+<a href="https://www.spiele-offensive.de/index.php?cmd=weihnachten2020">
+<img src="/gfx/shop/bdayIcon.png"/>
+</a>
+</div>
+<div class="kontaktbereich">
+<div class="kontaktbereich_links">
+<a href="https://www.spiele-offensive.de/index.php?cmd=login&amp;z=kundenbereich">Login</a> <br/>
+<a href="/Impressum">Kontakt</a> | <a href="/Hilfe">Hilfe</a><br/> <a href="/AGB">AGB</a> | <a href="/index.php?cmd=widerruf">Widerruf</a>
+</div>
+<div class="kontaktbereich_rechts">
+<font>0 180 50 55 77 5</font><br/>
+						Mo.-Fr. 10:00-17:00 Uhr<br/>
+						(0,14/min, bei Mobilfunk max. 0,42/min)
+					</div>
+</div>
+<div>
+<a href="/Versandkosten">
+					deutschlandweit<br/>
+					versandkostenfrei
+					<font><br/>(40€ Mindestbestellwert)</font>
+</a>
+</div>
+</center>
+<div class="menubereich">
+<div class="menubereich_li">
+<div></div>
+<div></div>
+<ul>
+<li>
+<a class="menu1" href="/index.php?cmd=pers_seite">
+Deine									<br/>
+									persönliche Seite
+							</a>
+</li>
+<li>
+<a class="menu1" href="/1/Gesellschaftsspiele-0.html">
+								Gesamt-<br/>sortiment
+							</a>
+<ul class="gesamtsortiment">
+<li class="zwischen">
+											Sortiert nach Art des Spiels:
+									</li>
+<li>
+<a href="/Kategorie/1/Strategiespiel-131-0.html">
+<span></span> Strategie-, Taktik- &amp; Stichspiele
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Denkspiele-132-0.html">
+<span></span> Logik- &amp; Denkspiele
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Quizspiel-133-0.html">
+<span></span> Party, Quiz &amp; Ratespaß
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Spiele-mit-Geschick-134-0.html">
+<span></span> Reaktion &amp; Geschick
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Forschen-135-0.html">
+<span></span> Forschen &amp; Entdecken
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/RPG-136-0.html">
+<span></span> Tabletop, RPG &amp; TDG
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/paedagogische-Spiele-137-0.html">
+<span></span> Kinderspiele &amp; Lernspiele
+										</a>
+</li>
+<li class="zwischen">
+											Sortiert nach Spielerzahl:
+									</li>
+<li>
+<a href="/Kategorie/1/Solitaerspiele-Solitaerspiel-127-0.html">
+<span></span> Allein spielbar
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Zweispielerspiele-Zweispielerspiel-6-0.html">
+<span></span> Gut zu zweit
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Dreispielerspiele-Dreispielerspiel-8-0.html">
+<span></span> Gut zu dritt
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Vierspielerspiele-Vierspielerspiel-5-0.html">
+<span></span> Gut zu viert
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Fuenfspielerspiele-und-Sechsspielerspiele-10-0.html">
+<span></span> Gut für 5 oder 6
+										</a>
+</li>
+<li>
+<a href="/Kategorie/1/Gruppenspiele-Gruppenspiel-9-0.html">
+<span></span> Gut für große Gruppen
+										</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/index.php?cmd=sonderangebote&amp;fcl=1">
+								Sonderangebote
+							</a>
+</li>
+<li>
+<a href="/index.php?cmd=neuheiten&amp;fcl=1">
+								Neuheiten
+							</a>
+</li>
+</ul>
+</div>
+<div class="menubereich_mi">
+<div></div>
+<div></div>
+<ul>
+<li>
+<a href="/Verleih">Spieleverleih							 </a>
+</li>
+<li>
+<a href="/Direktberatung">
+								Profiberatung
+							</a>
+</li>
+<li>
+<a class="menu2" href="/Inspirations-TV">
+								InspirationTV<br/>
+<font style="font-size: 7pt;">Ideal zur Geschenksuche</font>
+</a>
+<ul class="gesamtsortiment">
+<li>
+<a href="/Inspirations-TV">
+<span></span> InspirationTV
+									</a>
+</li>
+<li>
+<a href="/Neue-Videos">
+<span></span> Die neusten Videos
+									</a>
+</li>
+<li>
+<a href="/Weihnachten">
+<span></span> Weihnachtsgeschenktipps
+										</a>
+</li> </ul>
+</li>
+</ul>
+</div>
+<div class="menubereich_re">
+<div></div>
+<div></div>
+<ul>
+<li>
+<a href="/Spielernetzwerk">
+								Spielernetzwerk
+							</a>
+<ul class="spielernetzwerk">
+<li>
+<a href="/Spieleschmiede">
+<span></span> Spieleschmiede
+									</a>
+</li>
+<li>
+<a href="/index.php?cmd=forum">
+<span></span> Foren
+									</a>
+</li>
+<li>
+<a href="/index.php?cmd=eventliste">
+<span></span> Veranstaltungen
+									</a>
+</li>
+<li>
+<a href="/Listen">
+<span></span> Listen
+									</a>
+</li>
+<li>
+<a href="/Punkteshop">
+<span></span> Punkteshop
+									</a>
+</li>
+<li>
+<a href="/Spielernetzwerk-on-Tour">
+<span></span> Spielernetzwerk on Tour
+									</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="suchbereich">
+<div class="sb_innen">
+<form action="/index.php" enctype="plain" method="get" name="suche">
+<input name="cmd" type="hidden" value="suchergebnis"/>
+					Suche: <input autocomplete="off" id="suchfeld" maxlength="255" name="suchwort" onkeyup="showResult(this.value,event)" size="50" type="text"/> <input type="submit" value="Finden!"/>
+<div class="suchvorschlag" id="suchvorschlag"></div>
+<input name="fcl" type="hidden" value="1"/>
+</form>
+<div style="float:left;"><a alt="Unsere besten Spiele-Geschenk-Tipps zu Weihnachten" class="li" href="/Weihnachten"><img src="/gfx/weihnachten/2018/links.png"/></a></div><div style="float:right;"><a alt="Unsere besten Spiele-Geschenk-Tipps zu Weihnachten" href="/Weihnachten"><img src="/gfx/weihnachten/2018/rechts.png"/></a></div> </div>
+</div>
+<div class="mainteaser">
+<div class="mt_innen">
+<a alt="Unsere besten Spiele-Geschenk-Tipps zu Weihnachten" class="m" href="/Weihnachten">
+<img src="/gfx/bilder/spruch.png" style="margin-top: 2px;"/>
+</a>
+</div>
+</div>
+<div class="breadcrumb">
+<span>
+					Sie sind hier: <a href="/index.php" title="Startseite">Startseite</a> </span>
+<span>
+					Nur bei Spiele-Offensive: <a href="/Spielregeln-auf-Video-Beispiel">Spielregelerklärungen auf Video</a>
+</span>
+</div>
+</div>
+<!--- Ende Navigationsbereich -->
+<div id="videobildadd_ueberlagerung"></div><script src="/js/suchvorschlag.js?2" type="text/javascript"></script>
+<!-- Anpassung an niedrige Auflösungen-->
+<script language="javascript">
+	if (screen.height>900) {
+		document.getElementById("seniornav").style.position="fixed";
+	}
+</script>
+<script src="/js/GetXmlHttpObject.js" type="text/javascript"></script>
+<script data-usercentrics="Pinterest" src="https://assets.pinterest.com/js/pinit.js" type="text/plain"></script>
+</body>
+</html>
