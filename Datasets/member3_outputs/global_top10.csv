@@ -1,0 +1,11 @@
+Tag,Occurrences,Normalized Score,Rank
+title,0,1.0,1
+url_path,0,1.0,2
+a,0,1.0,3
+p,0,0.95,4
+h1,0,0.9,5
+h2,0,0.85,6
+h3,0,0.8,7
+h4,0,0.65,8
+strong,0,0.6,9
+em,0,0.5,10
